@@ -8,7 +8,7 @@
             <set picURL="http://magiccards.info/extras/token/innistrad/angel.jpg" picURLHq="" picURLSt="">ISD</set>
             <set picURL="http://magiccards.info/extras/token/zendikar/angel.jpg" picURLHq="" picURLSt="">ZEN</set>
             <set picURL="http://magiccards.info/extras/token/conflux/angel.jpg" picURLHq="" picURLSt="">CON</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2004/angel.jpg" picURLHq="" picURLSt="">SC</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2004/angel.jpg" picURLHq="" picURLSt="">SCG</set>
             <set picURL="http://magiccards.info/extras/token/gatecrash/angel.jpg" picURLHq="" picURLSt="">GTC</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/angel.jpg" picURLHq="" picURLSt="">M14</set>
             <color>W</color>
@@ -21,73 +21,7 @@
         </card>
         <card>
             <name>Angel </name>
-            <set picURL="" picURLHq="" picURLSt="">AP</set>
-            <color>B</color>
-            <manacost></manacost>
-            <type>Token</type>
-            <pt>3/3</pt>
-            <tablerow>2</tablerow>
-            <text>Flying</text>
-            <token>1</token>
-        </card>
-        <card>
-            <name>Angel  </name>
-            <set picURL="" picURLHq="" picURLSt="">TK</set>
-            <color>W</color>
-            <manacost></manacost>
-            <type>Token</type>
-            <pt>4/4</pt>
-            <tablerow>2</tablerow>
-            <text>Flying</text>
-            <token>1</token>
-        </card>
-        <card>
-            <name>Angel   </name>
-            <set picURL="" picURLHq="" picURLSt="">TK</set>
-            <color>B</color>
-            <manacost></manacost>
-            <type>Token</type>
-            <pt>3/3</pt>
-            <tablerow>2</tablerow>
-            <text>Flying</text>
-            <token>1</token>
-        </card>
-        <card>
-            <name>Angel    </name>
-            <set picURL="" picURLHq="" picURLSt="">TK</set>
-            <color>W</color>
-            <manacost></manacost>
-            <type>Token</type>
-            <pt>4/4</pt>
-            <tablerow>2</tablerow>
-            <text>Flying</text>
-            <token>1</token>
-        </card>
-        <card>
-            <name>Angel     </name>
-            <set picURL="" picURLHq="" picURLSt="">TK</set>
-            <color>B</color>
-            <manacost></manacost>
-            <type>Token</type>
-            <pt>3/3</pt>
-            <tablerow>2</tablerow>
-            <text>Flying</text>
-            <token>1</token>
-        </card>
-        <card>
-            <name>Angel      </name>
-            <set picURL="" picURLHq="" picURLSt="">TK</set>
-            <color>W</color>
-            <manacost></manacost>
-            <type>Token</type>
-            <pt>4/4</pt>
-            <tablerow>2</tablerow>
-            <text>Flying</text>
-            <token>1</token>
-        </card>
-        <card>
-            <name>Angel       </name>
-            <set picURL="" picURLHq="" picURLSt="">TK</set>
+            <set picURL="" picURLHq="" picURLSt="">APC</set>
             <color>B</color>
             <manacost></manacost>
             <type>Token</type>
@@ -98,7 +32,7 @@
         </card>
         <card>
             <name>Antelope</name>
-            <set picURL="http://s8.postimg.org/t5pmpgout/ANTELOPE.jpg" picURLHq="" picURLSt="">VG</set>
+            <set picURL="http://s8.postimg.org/t5pmpgout/ANTELOPE.jpg" picURLHq="" picURLSt="">VAN</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token</type>
@@ -120,7 +54,7 @@
         </card>
         <card>
             <name>Ape </name>
-            <set picURL="http://s8.postimg.org/fq2m00gd1/APE.jpg" picURLHq="" picURLSt="">MM</set>
+            <set picURL="http://s8.postimg.org/fq2m00gd1/APE.jpg" picURLHq="" picURLSt="">MMQ</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token</type>
@@ -187,8 +121,8 @@
         </card>
         <card>
             <name>Bear</name>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2001/bear.jpg" picURLHq="" picURLSt="">OD</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2003/bear.jpg" picURLHq="" picURLSt="">ON</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2001/bear.jpg" picURLHq="" picURLSt="">ODY</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2003/bear.jpg" picURLHq="" picURLSt="">ONS</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token</type>
@@ -210,7 +144,7 @@
             <set picURL="http://magiccards.info/extras/token/duel-decks-garruk-vs-liliana/beast-1.jpg" picURLHq="" picURLSt="">DDD</set>
             <set picURL="http://magiccards.info/extras/token/eventide/beast.jpg" picURLHq="" picURLSt="">EVE</set>
             <set picURL="http://magiccards.info/extras/token/lorwyn/beast.jpg" picURLHq="" picURLSt="">LRW</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2004/beast.jpg" picURLHq="" picURLSt="">DS</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2004/beast.jpg" picURLHq="" picURLSt="">DST</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token</type>
@@ -223,7 +157,7 @@
             <name>Beast </name>
             <set picURL="http://magiccards.info/extras/token/zendikar/beast.jpg" picURLHq="" picURLSt="">ZEN</set>
             <set picURL="http://magiccards.info/extras/token/duel-decks-garruk-vs-liliana/beast-2.jpg" picURLHq="" picURLSt="">DDD</set>
-            <set picURL="magiccards.info/extras/token/player-rewards-2001/beast.jpg" picURLHq="" picURLSt="">OD</set>
+            <set picURL="magiccards.info/extras/token/player-rewards-2001/beast.jpg" picURLHq="" picURLSt="">ODY</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token</type>
@@ -247,7 +181,7 @@
         </card>
         <card>
             <name>Beast   </name>
-            <set picURL="" picURLHq="" picURLSt="">EX</set>
+            <set picURL="" picURLHq="" picURLSt="">EXO</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token</type>
@@ -258,7 +192,7 @@
         </card>
         <card>
             <name>Beast    </name>
-            <set picURL="" picURLHq="" picURLSt="">MR</set>
+            <set picURL="" picURLHq="" picURLSt="">MRD</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token</type>
@@ -307,7 +241,7 @@
         <card>
             <name>Bird  </name>
             <set picURL="http://magiccards.info/extras/token/eventide/bird.jpg" picURLHq="" picURLSt="">EVE</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2001/bird.jpg" picURLHq="" picURLSt="">IN</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2001/bird.jpg" picURLHq="" picURLSt="">INV</set>
             <color>U</color>
             <manacost></manacost>
             <type>Token</type>
@@ -363,8 +297,8 @@
         </card>
         <card>
             <name>Butterfly</name>
-            <set picURL="" picURLHq="" picURLSt="">MM</set>
-            <set picURL="" picURLHq="" picURLSt="">VI</set>
+            <set picURL="" picURLHq="" picURLSt="">MMQ</set>
+            <set picURL="" picURLHq="" picURLSt="">VIS</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token</type>
@@ -398,7 +332,7 @@ Flying</text>
         </card>
         <card>
             <name>Camarid</name>
-            <set picURL="http://s8.postimg.org/gam8gfyz9/HOMARID.jpg" picURLHq="" picURLSt="">FE</set>
+            <set picURL="http://s8.postimg.org/gam8gfyz9/HOMARID.jpg" picURLHq="" picURLSt="">FEM</set>
             <color>U</color>
             <manacost></manacost>
             <type>Token</type>
@@ -420,7 +354,7 @@ Flying</text>
         </card>
         <card>
             <name>Carnivore</name>
-            <set picURL="" picURLHq="" picURLSt="">TE</set>
+            <set picURL="" picURLHq="" picURLSt="">TMP</set>
             <color>R</color>
             <manacost></manacost>
             <type>Token</type>
@@ -444,7 +378,7 @@ Flying</text>
         </card>
         <card>
             <name>Cat </name>
-            <set picURL="" picURLHq="" picURLSt="">AP</set>
+            <set picURL="" picURLHq="" picURLSt="">APC</set>
             <color>B</color>
             <manacost></manacost>
             <type>Token</type>
@@ -602,7 +536,7 @@ Flying</text>
             <name>Demon </name>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_demon.jpg" picURLHq="" picURLSt="">CNS</set>
             <set picURL="http://magiccards.info/extras/token/duel-decks-divine-vs-demonic/demon.jpg" picURLHq="" picURLSt="">DDC</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2003/demon.jpg" picURLHq="" picURLSt="">MI</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2003/demon.jpg" picURLHq="" picURLSt="">MIR</set>
             <color>B</color>
             <manacost></manacost>
             <type>Token</type>
@@ -636,7 +570,7 @@ Flying</text>
             <name>Dragon</name>
             <set picURL="http://magiccards.info/extras/token/worldwake/dragon.jpg" picURLHq="" picURLSt="">WWK</set>
             <set picURL="http://magiccards.info/extras/token/tenth-edition/dragon.jpg" picURLHq="" picURLSt="">10E</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2002/dragon.jpg" picURLHq="" picURLSt="">ON</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2002/dragon.jpg" picURLHq="" picURLSt="">ONS</set>
             <color>R</color>
             <manacost></manacost>
             <type>Token</type>
@@ -834,7 +768,7 @@ Flying</text>
         </card>
         <card>
             <name>Elemental      </name>
-            <set picURL="" picURLHq="" picURLSt="">DS</set>
+            <set picURL="" picURLHq="" picURLSt="">DST</set>
             <color>R</color>
             <manacost></manacost>
             <type>Token</type>
@@ -890,7 +824,7 @@ Flying</text>
         </card>
         <card>
             <name>Elemental           </name>
-            <set picURL="" picURLHq="" picURLSt="">DS</set>
+            <set picURL="" picURLHq="" picURLSt="">DST</set>
             <color>U</color>
             <manacost></manacost>
             <type>Token</type>
@@ -971,7 +905,7 @@ Flying</text>
         </card>
         <card>
             <name>Elemental Cat</name>
-            <set picURL="" picURLHq="" picURLSt="">JU</set>
+            <set picURL="" picURLHq="" picURLSt="">JUD</set>
             <color>R</color>
             <manacost></manacost>
             <type>Token</type>
@@ -997,8 +931,8 @@ Flying</text>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_elephant.jpg" picURLHq="" picURLSt="">CNS</set>
             <set picURL="http://magiccards.info/extras/token/worldwake/elephant.jpg" picURLHq="" picURLSt="">WWK</set>
             <set picURL="http://magiccards.info/extras/token/duel-decks-garruk-vs-liliana/elephant.jpg" picURLHq="" picURLSt="">DDD</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2001/elephant.jpg" picURLHq="" picURLSt="">IN</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2002/elephant.jpg" picURLHq="" picURLSt="">OD</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2001/elephant.jpg" picURLHq="" picURLSt="">INV</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2002/elephant.jpg" picURLHq="" picURLSt="">ODY</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token</type>
@@ -1182,7 +1116,7 @@ Flying</text>
         </card>
         <card>
             <name>Gnome</name>
-            <set picURL="" picURLHq="" picURLSt="">US</set>
+            <set picURL="" picURLHq="" picURLSt="">USG</set>
             <manacost></manacost>
             <type>Token</type>
             <pt>1/1</pt>
@@ -1216,7 +1150,7 @@ Flying</text>
             <set picURL="http://magiccards.info/extras/token/duel-decks-elves-vs-goblins/goblin.jpg" picURLHq="" picURLSt="">EVG</set>
             <set picURL="http://magiccards.info/extras/token/tenth-edition/goblin.jpg" picURLHq="" picURLSt="">10E</set>
             <set picURL="http://magiccards.info/extras/token/return-to-ravnica/goblin.jpg" picURLHq="" picURLSt="">RTR</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2003/goblin.jpg" picURLHq="" picURLSt="">LE</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2003/goblin.jpg" picURLHq="" picURLSt="">LGN</set>
             <color>R</color>
             <manacost></manacost>
             <type>Token</type>
@@ -1261,7 +1195,7 @@ Flying</text>
         </card>
         <card>
             <name>Goblin Scout</name>
-            <set picURL="" picURLHq="" picURLSt="">MI</set>
+            <set picURL="" picURLHq="" picURLSt="">MIR</set>
             <color>R</color>
             <manacost></manacost>
             <type>Token</type>
@@ -1273,7 +1207,7 @@ Flying</text>
         <card>
             <name>Goblin Soldier</name>
             <set picURL="http://magiccards.info/extras/token/eventide/goblin-soldier.jpg" picURLHq="" picURLSt="">EVE</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2001/goblin-soldier.jpg" picURLHq="" picURLSt="">AP</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2001/goblin-soldier.jpg" picURLHq="" picURLSt="">APC</set>
             <color>R</color>
             <color>W</color>
             <manacost></manacost>
@@ -1348,7 +1282,7 @@ Flying</text>
         </card>
         <card>
             <name>Graveborn</name>
-            <set picURL="" picURLHq="" picURLSt="">CS</set>
+            <set picURL="" picURLHq="" picURLSt="">CSP</set>
             <color>B</color>
             <color>R</color>
             <manacost></manacost>
@@ -1472,7 +1406,7 @@ Flying, haste</text>
         </card>
         <card>
             <name>Hound</name>
-            <set picURL="http://img.photobucket.com/albums/v18/qtinator/Hound.jpg" picURLHq="" picURLSt="">TE</set>
+            <set picURL="http://img.photobucket.com/albums/v18/qtinator/Hound.jpg" picURLHq="" picURLSt="">TMP</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token</type>
@@ -1586,7 +1520,7 @@ Flying, haste</text>
         <card>
             <name>Insect  </name>
             <set picURL="http://magiccards.info/extras/token/magic-2010/insect.jpg" picURLHq="" picURLSt="">M10</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2003/insect.jpg" picURLHq="" picURLSt="">ON</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2003/insect.jpg" picURLHq="" picURLSt="">ONS</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token</type>
@@ -1608,7 +1542,7 @@ Flying, haste</text>
         </card>
         <card>
             <name>Insect    </name>
-            <set picURL="" picURLHq="" picURLSt="">MI</set>
+            <set picURL="" picURLHq="" picURLSt="">MIR</set>
             <color>B</color>
             <manacost></manacost>
             <type>Token</type>
@@ -1629,7 +1563,7 @@ Flying, haste</text>
         </card>
         <card>
             <name>Kavu</name>
-            <set picURL="" picURLHq="" picURLSt="">AP</set>
+            <set picURL="" picURLHq="" picURLSt="">APC</set>
             <color>B</color>
             <manacost></manacost>
             <type>Token</type>
@@ -1688,7 +1622,7 @@ Defender</text>
         </card>
         <card>
             <name>Knight  </name>
-            <set picURL="http://img.photobucket.com/albums/v18/qtinator/knight2.jpg" picURLHq="" picURLSt="">US</set>
+            <set picURL="http://img.photobucket.com/albums/v18/qtinator/knight2.jpg" picURLHq="" picURLSt="">USG</set>
             <color>W</color>
             <manacost></manacost>
             <type>Token</type>
@@ -1763,7 +1697,7 @@ Defender</text>
         </card>
         <card>
             <name>Marit Lage</name>
-            <set picURL="http://magiccards.info/extras/token/coldsnap/marit-lage.jpg" picURLHq="" picURLSt="">CS</set>
+            <set picURL="http://magiccards.info/extras/token/coldsnap/marit-lage.jpg" picURLHq="" picURLSt="">CSP</set>
             <color>B</color>
             <manacost></manacost>
             <type>Token</type>
@@ -1818,7 +1752,7 @@ Defender</text>
         </card>
         <card>
             <name>Minion </name>
-            <set picURL="http://img.photobucket.com/albums/v18/qtinator/Minion1.jpg" picURLHq="" picURLSt="">PY</set>
+            <set picURL="http://img.photobucket.com/albums/v18/qtinator/Minion1.jpg" picURLHq="" picURLSt="">PCY</set>
             <color>B</color>
             <manacost></manacost>
             <type>Token</type>
@@ -1854,7 +1788,7 @@ Defender</text>
             <name>Myr</name>
             <set picURL="http://magiccards.info/extras/token/new-phyrexia/myr.jpg" picURLHq="" picURLSt="">NPH</set>
             <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/myr.jpg" picURLHq="" picURLSt="">SOM</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2004/myr.jpg" picURLHq="" picURLSt="">MI</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2004/myr.jpg" picURLHq="" picURLSt="">MIR</set>
             <manacost></manacost>
             <type>Token</type>
             <pt>1/1</pt>
@@ -1932,7 +1866,7 @@ Defender</text>
         </card>
         <card>
             <name>Orb</name>
-            <set picURL="http://img.photobucket.com/albums/v18/qtinator/BlueOrb.jpg" picURLHq="" picURLSt="">AL</set>
+            <set picURL="http://img.photobucket.com/albums/v18/qtinator/BlueOrb.jpg" picURLHq="" picURLSt="">ALL</set>
             <color>U</color>
             <manacost></manacost>
             <type>Token</type>
@@ -1943,7 +1877,7 @@ Defender</text>
         </card>
         <card>
             <name>Pegasus</name>
-            <set picURL="" picURLHq="" picURLSt="">GP</set>
+            <set picURL="" picURLHq="" picURLSt="">GPT</set>
             <color>W</color>
             <manacost></manacost>
             <type>Token</type>
@@ -1955,7 +1889,7 @@ Defender</text>
         <card>
             <name>Pentavite</name>
             <set picURL="http://magiccards.info/extras/token/magic-2012/pentavite.jpg" picURLHq="" picURLSt="">M12</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2004/pentavite.jpg" picURLHq="" picURLSt="">MI</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2004/pentavite.jpg" picURLHq="" picURLSt="">MIR</set>
             <manacost></manacost>
             <type>Token</type>
             <pt>1/1</pt>
@@ -1975,7 +1909,7 @@ Defender</text>
         </card>
         <card>
             <name>Pincher</name>
-            <set picURL="" picURLHq="" picURLSt="">FE</set>
+            <set picURL="" picURLHq="" picURLSt="">FEM</set>
             <manacost></manacost>
             <type>Token</type>
             <pt>2/2</pt>
@@ -1996,7 +1930,7 @@ Defender</text>
         </card>
         <card>
             <name>Prism</name>
-            <set picURL="" picURLHq="" picURLSt="">VI</set>
+            <set picURL="" picURLHq="" picURLSt="">VIS</set>
             <manacost></manacost>
             <type>Token</type>
             <pt>0/1</pt>
@@ -2018,7 +1952,7 @@ Defender</text>
         </card>
         <card>
             <name>Reflection</name>
-            <set picURL="" picURLHq="" picURLSt="">IN</set>
+            <set picURL="" picURLHq="" picURLSt="">INV</set>
             <color>W</color>
             <manacost></manacost>
             <type>Token</type>
@@ -2029,7 +1963,7 @@ Defender</text>
         </card>
         <card>
             <name>Reflection </name>
-            <set picURL="" picURLHq="" picURLSt="">TE</set>
+            <set picURL="" picURLHq="" picURLSt="">TMP</set>
             <color>W</color>
             <manacost></manacost>
             <type>Token</type>
@@ -2063,7 +1997,7 @@ Flying</text>
         </card>
         <card>
             <name>Sand</name>
-            <set picURL="" picURLHq="" picURLSt="">GP</set>
+            <set picURL="" picURLHq="" picURLSt="">GPT</set>
             <manacost></manacost>
             <type>Token</type>
             <pt>1/1</pt>
@@ -2106,7 +2040,7 @@ Flying</text>
         </card>
         <card>
             <name>Saproling </name>
-            <set picURL="http://s8.postimg.org/v45hexw45/SAPROLING.jpg" picURLHq="" picURLSt="">NE</set>
+            <set picURL="http://s8.postimg.org/v45hexw45/SAPROLING.jpg" picURLHq="" picURLSt="">NMS</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token</type>
@@ -2173,7 +2107,7 @@ Flying</text>
         <card>
             <name>Sliver</name>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0001_MTGM15_TOK_EN%20copy.png" picURLHq="" picURLSt="">M15</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2003/sliver.jpg" picURLHq="" picURLSt="">LE</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2003/sliver.jpg" picURLHq="" picURLSt="">LGN</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/sliver.jpg" picURLHq="" picURLSt="">M14</set>
             <set picURL="http://magiccards.info/extras/token/league/sliver.jpg" picURLHq="" picURLSt="">LGE</set>
             <manacost></manacost>
@@ -2242,7 +2176,7 @@ Flying</text>
             <set picURL="http://magiccards.info/extras/token/duel-decks-elspeth-vs-tezzeret/soldier.jpg" picURLHq="" picURLSt="">DDF</set>
             <set picURL="http://magiccards.info/extras/token/tenth-edition/soldier.jpg" picURLHq="" picURLSt="">10E</set>
             <set picURL="http://magiccards.info/extras/token/return-to-ravnica/soldier.jpg" picURLHq="" picURLSt="">RTR</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2002/soldier.jpg" picURLHq="" picURLSt="">ON</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2002/soldier.jpg" picURLHq="" picURLSt="">ONS</set>
             <color>W</color>
             <manacost></manacost>
             <type>Token</type>
@@ -2322,7 +2256,7 @@ Flying</text>
         </card>
         <card>
             <name>Spawn</name>
-            <set picURL="" picURLHq="" picURLSt="">DS</set>
+            <set picURL="" picURLHq="" picURLSt="">DST</set>
             <manacost></manacost>
             <type>Token</type>
             <pt>2/2</pt>
@@ -2377,7 +2311,7 @@ Flying</text>
         </card>
         <card>
             <name>Spike</name>
-            <set picURL="" picURLHq="" picURLSt="">SH</set>
+            <set picURL="" picURLHq="" picURLSt="">STH</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token</type>
@@ -2395,7 +2329,7 @@ Flying</text>
             <set picURL="http://magiccards.info/extras/token/duel-decks-divine-vs-demonic/spirit.jpg" picURLHq="" picURLSt="">DDC</set>
             <set picURL="http://magiccards.info/extras/token/shadowmoor/spirit.jpg" picURLHq="" picURLSt="">SHM</set>
             <set picURL="http://magiccards.info/extras/token/duel-decks-sorin-vs-tibalt/spirit.jpg" picURLHq="" picURLSt="">DDK</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2001/spirit.jpg" picURLHq="" picURLSt="">PS</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2001/spirit.jpg" picURLHq="" picURLSt="">PLS</set>
             <color>W</color>
             <manacost></manacost>
             <type>Token</type>
@@ -2462,7 +2396,7 @@ Flying</text>
         </card>
         <card>
             <name>Splinter </name>
-            <set picURL="http://s8.postimg.org/86nb36rbp/SPLINTER.jpg" picURLHq="" picURLSt="">AL</set>
+            <set picURL="http://s8.postimg.org/86nb36rbp/SPLINTER.jpg" picURLHq="" picURLSt="">ALL</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token</type>
@@ -2485,7 +2419,7 @@ Flying</text>
         <card>
             <name>Squirrel</name>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_squirrel.jpg" picURLHq="" picURLSt="">CNS</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2002/squirrel.jpg" picURLHq="" picURLSt="">OD</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2002/squirrel.jpg" picURLHq="" picURLSt="">ODY</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token</type>
@@ -2607,7 +2541,7 @@ This creature can't be enchanted.</text>
         </card>
         <card>
             <name>Tombspawn</name>
-            <set picURL="http://s8.postimg.org/6g8vffz6d/ZOMBIE.jpg" picURLHq="" picURLSt="">MI</set>
+            <set picURL="http://s8.postimg.org/6g8vffz6d/ZOMBIE.jpg" picURLHq="" picURLSt="">MIR</set>
             <color>B</color>
             <manacost></manacost>
             <type>Token</type>
@@ -2775,7 +2709,7 @@ Flying</text>
         </card>
         <card>
             <name>Wave</name>
-            <set picURL="http://s8.postimg.org/5lhqfo1xx/WAVE.jpg" picURLHq="" picURLSt="">MI</set>
+            <set picURL="http://s8.postimg.org/5lhqfo1xx/WAVE.jpg" picURLHq="" picURLSt="">MIR</set>
             <color>U</color>
             <manacost></manacost>
             <type>Token</type>
@@ -2797,7 +2731,7 @@ Flying</text>
         </card>
         <card>
             <name>Wirefly</name>
-            <set picURL="" picURLHq="" picURLSt="">DS</set>
+            <set picURL="" picURLHq="" picURLSt="">DST</set>
             <manacost></manacost>
             <type>Token</type>
             <pt>2/2</pt>
@@ -2839,7 +2773,7 @@ Flying</text>
         </card>
         <card>
             <name>Wolf  </name>
-            <set picURL="http://i167.photobucket.com/albums/u148/Ruja/Magic%20Tokens/Coldsnap/4.jpg" picURLHq="" picURLSt="">CS</set>
+            <set picURL="http://i167.photobucket.com/albums/u148/Ruja/Magic%20Tokens/Coldsnap/4.jpg" picURLHq="" picURLSt="">CSP</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token</type>
@@ -2883,7 +2817,7 @@ Flying</text>
         </card>
         <card>
             <name>Wood</name>
-            <set picURL="http://oi43.tinypic.com/2z6s4ly.jpg" picURLHq="" picURLSt="">MI</set>
+            <set picURL="http://oi43.tinypic.com/2z6s4ly.jpg" picURLHq="" picURLSt="">MIR</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token</type>
@@ -2940,7 +2874,7 @@ Defender</text>
         </card>
         <card>
             <name>Wurm   </name>
-            <set picURL="" picURLHq="" picURLSt="">AP</set>
+            <set picURL="" picURLHq="" picURLSt="">APC</set>
             <color>B</color>
             <manacost></manacost>
             <type>Token</type>
@@ -3006,7 +2940,7 @@ Defender</text>
             <set picURL="http://magiccards.info/extras/token/magic-2010/zombie.jpg" picURLHq="" picURLSt="">M10</set>
             <set picURL="http://magiccards.info/extras/token/shards-of-alara/zombie.jpg" picURLHq="" picURLSt="">ALA</set>
             <set picURL="http://magiccards.info/extras/token/tenth-edition/zombie.jpg" picURLHq="" picURLSt="">10E</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2002/zombie.jpg" picURLHq="" picURLSt="">OD</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2002/zombie.jpg" picURLHq="" picURLSt="">ODY</set>
             <color>B</color>
             <manacost></manacost>
             <type>Token</type>
