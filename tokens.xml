@@ -3000,7 +3000,7 @@ Flying</text>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
-            <text></text>
+            <text>If a source would deal damage to you or a planeswalker you control, prevent all but 1 of that damage.</text>
             <token>1</token>
         </card>
         <card>
@@ -3009,7 +3009,7 @@ Flying</text>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
-            <text></text>
+            <text>Whenever you cast a spell that targets one or more permanents, gain control of those permanents.</text>
             <token>1</token>
         </card>
         <card>
@@ -3018,7 +3018,7 @@ Flying</text>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
-            <text></text>
+            <text>Creatures you control have double strike, trample, hexproof, and haste.</text>
             <token>1</token>
         </card>
         <card>
@@ -3027,7 +3027,7 @@ Flying</text>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
-            <text></text>
+            <text>Artifacts, creatures, enchantments, and lands you control have indestructible.</text>
             <token>1</token>
         </card>
         <card>
@@ -3036,7 +3036,7 @@ Flying</text>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
-            <text></text>
+            <text>Creatures you control get +2/+2 and have flying.</text>
             <token>1</token>
         </card>
         <card>
@@ -3045,7 +3045,7 @@ Flying</text>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
-            <text></text>
+            <text>Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle your library.</text>
             <token>1</token>
         </card>
         <card>
@@ -3054,7 +3054,7 @@ Flying</text>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
-            <text></text>
+            <text>Whenever a creature attacks you, it gets +5/+5 and gains trample until end of turn.</text>
             <token>1</token>
         </card>
         <card>
@@ -3063,7 +3063,7 @@ Flying</text>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
-            <text></text>
+            <text>At the beginning of your end step, put a 9/9 blue Kraken creature token onto the battlefield.</text>
             <token>1</token>
         </card>
         <card>
@@ -3072,7 +3072,7 @@ Flying</text>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
-            <text></text>
+            <text>Mountains you control have ‘Tap: This land deals 1 damage to target creature or player.'</text>
             <token>1</token>
         </card>
         <card>
@@ -3082,7 +3082,7 @@ Flying</text>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
-            <text></text>
+            <text>Swamps you control have ‘Tap: Add {B}{B}{B}{B} to your mana pool.'</text>
             <token>1</token>
         </card>
         <card>
@@ -3091,7 +3091,7 @@ Flying</text>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
-            <text></text>
+            <text>Creatures you control get +1/+0.</text>
             <token>1</token>
         </card>
         <card>
@@ -3100,7 +3100,8 @@ Flying</text>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
-            <text></text>
+            <text>You have no maximum hand size
+            Whenever a card is put into your graveyard from anywhere, you may return it to your hand.</text>
             <token>1</token>
         </card>
         <card>
@@ -3109,7 +3110,7 @@ Flying</text>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
-            <text></text>
+            <text>Whenever you cast a spell, exile target permanent.</text>
             <token>1</token>
         </card>
         <card>
