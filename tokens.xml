@@ -71,7 +71,7 @@
             <type>Creature — Assassin</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text></text>
+            <text>Whenever this creature deals combat damage to a player, that player loses the game.</text>
             <token>1</token>
         </card>
         <card>
@@ -94,7 +94,7 @@
             <type>Creature — Avatar</type>
             <pt>*/*</pt>
             <tablerow>2</tablerow>
-            <text></text>
+            <text>This creature's power and toughness are each equal to your life total.</text>
             <token>1</token>
         </card>
         <card>
@@ -203,6 +203,17 @@
         </card>
         <card>
             <name>Beast     </name>
+            <set picURL="" picURLHq="" picURLSt="">C13</set>
+            <color>G</color>
+            <manacost></manacost>
+            <type>Creature — Beast</type>
+            <pt>5/5</pt>
+            <tablerow>2</tablerow>
+            <text>Trample</text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Beast      </name>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0005_MTGM15_TOK_EN%20copy.png" picURLHq="" picURLSt="">M15</set>
             <color>B</color>
             <manacost></manacost>
@@ -284,6 +295,18 @@
             <text>Flying</text>
             <token>1</token>
         </card>
+        <card>
+            <name>Bird      </name>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2003/rukh.jpg" picURLHq="" picURLSt="">8ED</set>
+            <color>R</color>
+            <manacost></manacost>
+            <type>Creature — Bird</type>
+            <pt>4/4</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+        </card>
+        
         <card>
             <name>Bird Soldier</name>
             <set picURL="http://magiccards.info/extras/token/alara-reborn/bird-soldier.jpg" picURLHq="" picURLSt="">ARB</set>
@@ -424,6 +447,7 @@ Flying</text>
         <card>
             <name>Centaur</name>
             <set picURL="http://magiccards.info/extras/token/return-to-ravnica/centaur-1.jpg" picURLHq="" picURLSt="">RTR</set>
+            <set picURL="http://magiccards.info/extras/token/league/centaur.jpg" picURLHq="" picURLSt="">LGE</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Centaur</type>
@@ -441,17 +465,6 @@ Flying</text>
             <pt>3/3</pt>
             <tablerow>2</tablerow>
             <text>Protection from black</text>
-            <token>1</token>
-        </card>
-        <card>
-            <name>Centaur  </name>
-            <set picURL="http://magiccards.info/extras/token/league/centaur.jpg" picURLHq="" picURLSt="">LGE</set>
-            <color>G</color>
-            <manacost></manacost>
-            <type>Creature — Centaur</type>
-            <pt>3/3</pt>
-            <tablerow>2</tablerow>
-            <text></text>
             <token>1</token>
         </card>
         <card>
@@ -499,17 +512,19 @@ Flying</text>
             <text></text>
             <token>1</token>
         </card>
-        <card>
-            <name>Cloud Sprite</name>
-            <set picURL="" picURLHq="" picURLSt="">FUT</set>
+        <card><!-- Created by Cloudseeder -->
+            <name>Cloud Sprite (token)</name>
+            <set muId="19563">MMQ</set>
+            <set muId="132069">10E</set>
             <color>U</color>
-            <manacost></manacost>
+            <manacost>U</manacost>
             <type>Creature — Faerie</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>(Faerie)
-            Cloud Sprite can block only creatures with flying.</text>
-            <token>1</token>
+            <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+
+Cloud Sprite can block only creatures with flying.</text>
+			<token>1</token>
         </card>
         <card>
             <name>Construct</name>
@@ -1004,7 +1019,7 @@ Flying</text>
             <text>Flying (U/B)</text>
             <token>1</token>
         </card>
-        <card>
+        <card><!-- Created by Skirk Ridge Exhumer -->
             <name>Festering Goblin (token)</name>
             <set muId="220489">ARC</set>
             <set muId="370358">MMA</set>
@@ -1203,15 +1218,16 @@ Flying</text>
             <text>(R/G)</text>
             <token>1</token>
         </card>
-        <card>
-            <name>Goldmeadow Harrier</name>
-            <set picURL="http://magiccards.info/extras/token/modern-masters/kithkin-soldier.jpg" picURLHq="" picURLSt="">FUT</set>
-            <manacost></manacost>
+        <card><!-- Created by Goldmeadow Lookout -->
+            <name>Goldmeadow Harrier (token)</name>
+            <set muId="222708">DDF</set>
+            <set muId="139397">LRW</set>
             <color>W</color>
+            <manacost>W</manacost>
             <type>Creature — Kithkin Soldier</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>(W), (T): Tap target creature.</text>
+            <text>{W}, {T}: Tap target creature.</text>
             <token>1</token>
         </card>
         <card>
@@ -1247,7 +1263,7 @@ Flying</text>
         </card>
         <card>
             <name>Graveborn</name>
-            <set picURL="" picURLHq="" picURLSt="">CSP</set>
+            <set picURL="http://i167.photobucket.com/albums/u148/Ruja/Magic%20Tokens/Coldsnap/5.jpg" picURLHq="" picURLSt="">CSP</set>
             <color>B</color>
             <color>R</color>
             <manacost></manacost>
@@ -1404,28 +1420,6 @@ Flying</text>
             <token>1</token>
         </card>
         <card>
-            <name>Human  </name>
-            <set picURL="" picURLHq="" picURLSt="">TK</set>
-            <color>W</color>
-            <manacost></manacost>
-            <type>Creature — Human</type>
-            <pt>1/1</pt>
-            <tablerow>2</tablerow>
-            <text></text>
-            <token>1</token>
-        </card>
-        <card>
-            <name>Human   </name>
-            <set picURL="" picURLHq="" picURLSt="">TK</set>
-            <color>R</color>
-            <manacost></manacost>
-            <type>Creature — Human</type>
-            <pt>1/1</pt>
-            <tablerow>2</tablerow>
-            <text>Haste</text>
-            <token>1</token>
-        </card>
-        <card>
             <name>Hydra</name>
             <set picURL="http://magiccards.info/extras/token/journey-into-nyx/hydra.jpg" picURLHq="" picURLSt="">JOU</set>
             <color>G</color>
@@ -1515,6 +1509,31 @@ Flying</text>
             <text></text>
             <token>1</token>
         </card>
+        <card><!-- Created by Llanowar Mentor -->
+            <name>Llanowar Elves (token)</name>
+            <set muId="14668">6ED</set>
+            <set muId="158112">EVG</set>
+            <set muId="3996">5ED</set>
+            <set muId="2228">4ED</set>
+            <set muId="166">LEA</set>
+            <set muId="461">LEB</set>
+            <set muId="189878">M10</set>
+            <set muId="205228">M11</set>
+            <set muId="221892">M12</set>
+            <set muId="83515">9ED</set>
+            <set muId="1260">3ED</set>
+            <set muId="11386">7ED</set>
+            <set muId="25508">S00</set>
+            <set muId="129626">10E</set>
+            <set muId="763">2ED</set>
+            <color>G</color>
+            <manacost>G</manacost>
+            <type>Creature — Elf Druid</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>{T}: Add {G} to your mana pool.</text>
+            <token>1</token>
+        </card>
         <card>
             <name>Kaldra</name>
             <set picURL="http://seinvocc.com/forum/download/file.php?id=1485" picURLHq="" picURLSt="">DST</set>
@@ -1557,17 +1576,6 @@ Defender</text>
             <manacost></manacost>
             <type>Creature — Kithkin Soldier</type>
             <pt>1/1</pt>
-            <tablerow>2</tablerow>
-            <text></text>
-            <token>1</token>
-        </card>
-        <card>
-            <name>Kobolds of Kher Keep</name>
-            <set picURL="" picURLHq="" picURLSt=""></set>
-            <color>R</color>
-            <manacost></manacost>
-            <type>Creature — Kobold</type>
-            <pt>0/1</pt>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
@@ -1626,6 +1634,17 @@ Defender</text>
             <pt>2/2</pt>
             <tablerow>2</tablerow>
             <text>Flanking, protection from white, haste</text>
+            <token>1</token>
+        </card>
+        <card><!-- Created by Kher Keep
+        Prossh, Skyraider of Kher -->
+            <name>Kobolds of Kher Keep (token)</name>
+            <set muId="1583">LEG</set>
+            <manacost>0</manacost>
+            <type>Creature — Kobold</type>
+            <pt>0/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
             <token>1</token>
         </card>
         <card>
@@ -1714,7 +1733,7 @@ Defender</text>
             <text></text>
             <token>1</token>
         </card>
-        <card>
+        <card><!-- Created by Sliversmith -->
             <name>Metallic Sliver (token)</name>
             <set muId="208040">H09</set>
             <set muId="4617">TMP</set>
@@ -1826,7 +1845,7 @@ Defender</text>
             <type>Creature — Ooze</type>
             <pt>*/*</pt>
             <tablerow>2</tablerow>
-            <text>P/T = Slime counters on Gutter Grime</text>
+            <text>This creature's power and toughness are each equal to the number of slime counters on Gutter Grime.</text>
             <token>1</token>
         </card>
         <card>
@@ -1837,7 +1856,7 @@ Defender</text>
             <type>Creature — Ooze</type>
             <pt>2/2</pt>
             <tablerow>2</tablerow>
-            <text>On death, create two 1/1 Ooze tokens.</text>
+            <text>When this creature dies, put two 1/1 green Ooze creature tokens onto the battlefield.</text>
             <token>1</token>
         </card>
         <card>
@@ -1971,18 +1990,6 @@ Defender</text>
             <token>1</token>
         </card>
         <card>
-            <name>Rukh</name>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2003/rukh.jpg" picURLHq="" picURLSt="">8ED</set>
-            <color>R</color>
-            <manacost></manacost>
-            <type>Creature — Rukh</type>
-            <pt>4/4</pt>
-            <tablerow>2</tablerow>
-            <text>Bird
-Flying</text>
-            <token>1</token>
-        </card>
-        <card>
             <name>Sand</name>
             <set picURL="" picURLHq="" picURLSt="">GPT</set>
             <manacost></manacost>
@@ -2000,7 +2007,7 @@ Flying</text>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Sand Warrior</type>
-            <pt>0/1</pt>
+            <pt>1/1</pt>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
@@ -2150,6 +2157,17 @@ Flying</text>
             <token>1</token>
         </card>
         <card>
+            <name>Snake    </name>
+            <set picURL="" picURLHq="" picURLSt="">C13</set>
+            <color>B</color>
+            <manacost></manacost>
+            <type>Creature — Snake</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Deathtouch</text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Soldier</name>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0002_MTGM15_TOK_EN%20copy.png" picURLHq="" picURLSt="">M15</set>
             <set picURL="http://magiccards.info/extras/token/theros/soldier-1.jpg" picURLHq="" picURLSt="">THS</set>
@@ -2241,7 +2259,7 @@ Flying</text>
             <text></text>
             <token>1</token>
         </card>
-        <card>
+        <card><!-- Created by Sparkspitter -->
             <name>Spark Elemental (token)</name>
             <set muId="73579">5DN</set>
             <set muId="234700">PD2</set>
@@ -2654,39 +2672,6 @@ Flying</text>
             <token>1</token>
         </card>
         <card>
-            <name>Vampire   </name>
-            <set picURL="" picURLHq="" picURLSt="">TK</set>
-            <color>B</color>
-            <manacost></manacost>
-            <type>Creature — Vampire</type>
-            <pt>2/2</pt>
-            <tablerow>2</tablerow>
-            <text>Flying</text>
-            <token>1</token>
-        </card>
-        <card>
-            <name>Vampire    </name>
-            <set picURL="" picURLHq="" picURLSt="">TK</set>
-            <color>B</color>
-            <manacost></manacost>
-            <type>Creature — Vampire</type>
-            <pt>1/1</pt>
-            <tablerow>2</tablerow>
-            <text>Lifelink</text>
-            <token>1</token>
-        </card>
-        <card>
-            <name>Vampire     </name>
-            <set picURL="" picURLHq="" picURLSt="">TK</set>
-            <color>B</color>
-            <manacost></manacost>
-            <type>Creature — Vampire</type>
-            <pt>*/*</pt>
-            <tablerow>2</tablerow>
-            <text></text>
-            <token>1</token>
-        </card>
-        <card>
             <name>Voja</name>
             <set picURL="" picURLHq="" picURLSt="">RAV</set>
             <color>G</color>
@@ -2696,6 +2681,27 @@ Flying</text>
             <pt>2/2</pt>
             <tablerow>2</tablerow>
             <text>(G/W)</text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Wall</name>
+            <set picURL="" picURLHq="" picURLSt="">MIR</set>
+            <manacost></manacost>
+            <type>Artifact Creature — Wall</type>
+            <pt>0/2</pt>
+            <tablerow>2</tablerow>
+            <text>Defender</text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Wall </name>
+            <set picURL="" picURLHq="" picURLSt="">MIR</set>
+            <color>U</color>
+            <manacost></manacost>
+            <type>Creature — Wall</type>
+            <pt>5/5</pt>
+            <tablerow>2</tablerow>
+            <text>Defender</text>
             <token>1</token>
         </card>
         <card>
@@ -2795,28 +2801,6 @@ Flying</text>
             <token>1</token>
         </card>
         <card>
-            <name>Wolf   </name>
-            <set picURL="" picURLHq="" picURLSt="">TK</set>
-            <color>G</color>
-            <manacost></manacost>
-            <type>Creature — Wolf</type>
-            <pt>2/2</pt>
-            <tablerow>2</tablerow>
-            <text></text>
-            <token>1</token>
-        </card>
-        <card>
-            <name>Wolf    </name>
-            <set picURL="" picURLHq="" picURLSt="">TK</set>
-            <color>B</color>
-            <manacost></manacost>
-            <type>Creature — Wolf</type>
-            <pt>1/1</pt>
-            <tablerow>2</tablerow>
-            <text>Deathtouch</text>
-            <token>1</token>
-        </card>
-        <card>
             <name>Wolves of the Hunt</name>
             <set picURL="http://s8.postimg.org/f8l8pduxh/WOLVES_OF_THE_HUNT.jpg" picURLHq="" picURLSt="">M10</set>
             <color>G</color>
@@ -2827,7 +2811,7 @@ Flying</text>
             <text>Bands with other creatures named Wolves of the Hunt.</text>
             <token>1</token>
         </card>
-        <card>
+        <card><!-- Created by and can be sacrificed to Jungle Patrol. -->
             <name>Wood</name>
             <set picURL="http://oi43.tinypic.com/2z6s4ly.jpg" picURLHq="" picURLSt="">MIR</set>
             <color>G</color>
@@ -2835,7 +2819,7 @@ Flying</text>
             <type>Creature — Wall</type>
             <pt>0/1</pt>
             <tablerow>2</tablerow>
-            <text>Defender, can be sacrificed to Jungle Patrol.</text>
+            <text>Defender</text>
             <token>1</token>
         </card>
         <card>
