@@ -3,14 +3,14 @@
     <cards>
         <card>
             <name>Angel</name>
-            <set picURL="http://magiccards.info/extras/token/avacyn-restored-the-helvault-experience/angel.jpg" picURLHq="" picURLSt="">ARH</set>
-            <set picURL="http://magiccards.info/extras/token/avacyn-restored/angel.jpg" picURLHq="" picURLSt="">AVR</set>
-            <set picURL="http://magiccards.info/extras/token/innistrad/angel.jpg" picURLHq="" picURLSt="">ISD</set>
-            <set picURL="http://magiccards.info/extras/token/zendikar/angel.jpg" picURLHq="" picURLSt="">ZEN</set>
-            <set picURL="http://magiccards.info/extras/token/conflux/angel.jpg" picURLHq="" picURLSt="">CON</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2004/angel.jpg" picURLHq="" picURLSt="">SCG</set>
-            <set picURL="http://magiccards.info/extras/token/gatecrash/angel.jpg" picURLHq="" picURLSt="">GTC</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2014/angel.jpg" picURLHq="" picURLSt="">M14</set>
+            <set picURL="http://magiccards.info/extras/token/avacyn-restored-the-helvault-experience/angel.jpg">ARH</set>
+            <set picURL="http://magiccards.info/extras/token/avacyn-restored/angel.jpg">AVR</set>
+            <set picURL="http://magiccards.info/extras/token/innistrad/angel.jpg">ISD</set>
+            <set picURL="http://magiccards.info/extras/token/zendikar/angel.jpg">ZEN</set>
+            <set picURL="http://magiccards.info/extras/token/conflux/angel.jpg">CON</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2004/angel.jpg">SCG</set>
+            <set picURL="http://magiccards.info/extras/token/gatecrash/angel.jpg">GTC</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2014/angel.jpg">M14</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Angel</type>
@@ -21,7 +21,7 @@
         </card>
         <card>
             <name>Angel </name>
-            <set picURL="" picURLHq="" picURLSt="">APC</set>
+            <set>APC</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Angel</type>
@@ -32,7 +32,7 @@
         </card>
         <card>
             <name>Antelope</name>
-            <set picURL="http://s8.postimg.org/t5pmpgout/ANTELOPE.jpg" picURLHq="" picURLSt="">VAN</set>
+            <set picURL="http://s8.postimg.org/t5pmpgout/ANTELOPE.jpg">VAN</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Antelope</type>
@@ -43,7 +43,7 @@
         </card>
         <card>
             <name>Ape</name>
-            <set picURL="" picURLHq="" picURLSt="">PLC</set>
+            <set>PLC</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Angel</type>
@@ -54,7 +54,7 @@
         </card>
         <card>
             <name>Ape </name>
-            <set picURL="http://s8.postimg.org/fq2m00gd1/APE.jpg" picURLHq="" picURLSt="">MMQ</set>
+            <set picURL="http://s8.postimg.org/fq2m00gd1/APE.jpg">MMQ</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Ape</type>
@@ -65,7 +65,7 @@
         </card>
         <card>
             <name>Assassin</name>
-            <set picURL="http://magiccards.info/extras/token/return-to-ravnica/assassin.jpg" picURLHq="" picURLSt="">RTR</set>
+            <set picURL="http://magiccards.info/extras/token/return-to-ravnica/assassin.jpg">RTR</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Assassin</type>
@@ -76,7 +76,7 @@
         </card>
         <card>
             <name>Assembly-Worker </name>
-            <set picURL="http://s8.postimg.org/55sohfbv9/ASSEMBLY_WORKER.jpg" picURLHq="" picURLSt="">TSP</set>
+            <set picURL="http://s8.postimg.org/55sohfbv9/ASSEMBLY_WORKER.jpg">TSP</set>
             <manacost></manacost>
             <type>Artifact Creature — Assembly-Worker</type>
             <pt>2/2</pt>
@@ -86,9 +86,9 @@
         </card>
         <card>
             <name>Avatar</name>
-            <set picURL="http://magiccards.info/extras/token/magic-2011/avatar.jpg" picURLHq="" picURLSt="">M11</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2010/avatar.jpg" picURLHq="" picURLSt="">M10</set>
-            <set picURL="http://magiccards.info/extras/token/lorwyn/avatar.jpg" picURLHq="" picURLSt="">LRW</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2011/avatar.jpg">M11</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2010/avatar.jpg">M10</set>
+            <set picURL="http://magiccards.info/extras/token/lorwyn/avatar.jpg">LRW</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Avatar</type>
@@ -99,7 +99,7 @@
         </card>
         <card>
             <name>Bat</name>
-            <set picURL="http://magiccards.info/extras/token/modern-masters/bat.jpg" picURLHq="" picURLSt="">MMA</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters/bat.jpg">MMA</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Bat</type>
@@ -110,7 +110,7 @@
         </card>
         <card>
             <name>Bat </name>
-            <set picURL="" picURLHq="" picURLSt="">TSP</set>
+            <set>TSP</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Bat</type>
@@ -121,8 +121,8 @@
         </card>
         <card>
             <name>Bear</name>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2001/bear.jpg" picURLHq="" picURLSt="">ODY</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2003/bear.jpg" picURLHq="" picURLSt="">ONS</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2001/bear.jpg">ODY</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2003/bear.jpg">ONS</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Bear</type>
@@ -133,18 +133,18 @@
         </card>
         <card>
             <name>Beast</name>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0009_MTGM15_TOK_EN%20copy.png" picURLHq="" picURLSt="">M15</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2014/beast.jpg" picURLHq="" picURLSt="">M14</set>
-            <set picURL="http://magiccards.info/extras/token/duel-decks-heroes-vs-monsters/beast.jpg" picURLHq="" picURLSt="">DDL</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2013/beast.jpg" picURLHq="" picURLSt="">M13</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2012/beast.jpg" picURLHq="" picURLSt="">M12</set>
-            <set picURL="http://magiccards.info/extras/token/new-phyrexia/beast.jpg" picURLHq="" picURLSt="">NPH</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2011/beast.jpg" picURLHq="" picURLSt="">M11</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2010/beast.jpg" picURLHq="" picURLSt="">M10</set>
-            <set picURL="http://magiccards.info/extras/token/duel-decks-garruk-vs-liliana/beast-1.jpg" picURLHq="" picURLSt="">DDD</set>
-            <set picURL="http://magiccards.info/extras/token/eventide/beast.jpg" picURLHq="" picURLSt="">EVE</set>
-            <set picURL="http://magiccards.info/extras/token/lorwyn/beast.jpg" picURLHq="" picURLSt="">LRW</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2004/beast.jpg" picURLHq="" picURLSt="">DST</set>
+            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0009_MTGM15_TOK_EN%20copy.png">M15</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2014/beast.jpg">M14</set>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-heroes-vs-monsters/beast.jpg">DDL</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2013/beast.jpg">M13</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2012/beast.jpg">M12</set>
+            <set picURL="http://magiccards.info/extras/token/new-phyrexia/beast.jpg">NPH</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2011/beast.jpg">M11</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2010/beast.jpg">M10</set>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-garruk-vs-liliana/beast-1.jpg">DDD</set>
+            <set picURL="http://magiccards.info/extras/token/eventide/beast.jpg">EVE</set>
+            <set picURL="http://magiccards.info/extras/token/lorwyn/beast.jpg">LRW</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2004/beast.jpg">DST</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Beast</type>
@@ -155,9 +155,9 @@
         </card>
         <card>
             <name>Beast </name>
-            <set picURL="http://magiccards.info/extras/token/zendikar/beast.jpg" picURLHq="" picURLSt="">ZEN</set>
-            <set picURL="http://magiccards.info/extras/token/duel-decks-garruk-vs-liliana/beast-2.jpg" picURLHq="" picURLSt="">DDD</set>
-            <set picURL="magiccards.info/extras/token/player-rewards-2001/beast.jpg" picURLHq="" picURLSt="">ODY</set>
+            <set picURL="http://magiccards.info/extras/token/zendikar/beast.jpg">ZEN</set>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-garruk-vs-liliana/beast-2.jpg">DDD</set>
+            <set picURL="magiccards.info/extras/token/player-rewards-2001/beast.jpg">ODY</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Beast</type>
@@ -168,7 +168,7 @@
         </card>
         <card>
             <name>Beast  </name>
-            <set picURL="http://magiccards.info/extras/token/shards-of-alara/beast.jpg" picURLHq="" picURLSt="">ALA</set>
+            <set picURL="http://magiccards.info/extras/token/shards-of-alara/beast.jpg">ALA</set>
             <color>R</color>
             <color>G</color>
             <color>W</color>
@@ -181,7 +181,7 @@
         </card>
         <card>
             <name>Beast   </name>
-            <set picURL="" picURLHq="" picURLSt="">EXO</set>
+            <set>EXO</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Beast</type>
@@ -192,7 +192,7 @@
         </card>
         <card>
             <name>Beast    </name>
-            <set picURL="" picURLHq="" picURLSt="">MRD</set>
+            <set>MRD</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Beast</type>
@@ -203,7 +203,7 @@
         </card>
         <card>
             <name>Beast     </name>
-            <set picURL="" picURLHq="" picURLSt="">C13</set>
+            <set>C13</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Beast</type>
@@ -214,7 +214,7 @@
         </card>
         <card>
             <name>Beast      </name>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0005_MTGM15_TOK_EN%20copy.png" picURLHq="" picURLSt="">M15</set>
+            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0005_MTGM15_TOK_EN%20copy.png">M15</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Beast</type>
@@ -225,7 +225,7 @@
         </card>
         <card>
             <name>Bird</name>
-            <set picURL="" picURLHq="" picURLSt="">DIS</set>
+            <set>DIS</set>
             <color>W</color>
             <color>U</color>
             <manacost></manacost>
@@ -237,10 +237,10 @@
         </card>
         <card>
             <name>Bird </name>
-            <set picURL="http://magiccards.info/extras/token/born-of-the-gods/bird-1.jpg" picURLHq="" picURLSt="">BNG</set>
-            <set picURL="http://magiccards.info/extras/token/zendikar/bird.jpg" picURLHq="" picURLSt="">ZEN</set>
-            <set picURL="http://magiccards.info/extras/token/return-to-ravnica/bird.jpg" picURLHq="" picURLSt="">RTR</set>
-            <set picURL="http://magiccards.info/extras/token/league/bird.jpg" picURLHq="" picURLSt="">LGE</set>
+            <set picURL="http://magiccards.info/extras/token/born-of-the-gods/bird-1.jpg">BNG</set>
+            <set picURL="http://magiccards.info/extras/token/zendikar/bird.jpg">ZEN</set>
+            <set picURL="http://magiccards.info/extras/token/return-to-ravnica/bird.jpg">RTR</set>
+            <set picURL="http://magiccards.info/extras/token/league/bird.jpg">LGE</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Bird</type>
@@ -251,8 +251,8 @@
         </card>
         <card>
             <name>Bird  </name>
-            <set picURL="http://magiccards.info/extras/token/eventide/bird.jpg" picURLHq="" picURLSt="">EVE</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2001/bird.jpg" picURLHq="" picURLSt="">INV</set>
+            <set picURL="http://magiccards.info/extras/token/eventide/bird.jpg">EVE</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2001/bird.jpg">INV</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Bird</type>
@@ -263,8 +263,8 @@
         </card>
         <card>
             <name>Bird   </name>
-            <set picURL="http://magiccards.info/extras/token/magic-2012/bird.jpg" picURLHq="" picURLSt="">M12</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2011/bird.jpg" picURLHq="" picURLSt="">M11</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2012/bird.jpg">M12</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2011/bird.jpg">M11</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Bird</type>
@@ -275,7 +275,7 @@
         </card>
         <card>
             <name>Bird    </name>
-            <set picURL="http://magiccards.info/extras/token/theros/bird.jpg" picURLHq="" picURLSt="">THS</set>
+            <set picURL="http://magiccards.info/extras/token/theros/bird.jpg">THS</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Bird</type>
@@ -286,7 +286,7 @@
         </card>
         <card>
             <name>Bird     </name>
-            <set picURL="http://magiccards.info/extras/token/born-of-the-gods/bird-2.jpg" picURLHq="" picURLSt="">BNG</set>
+            <set picURL="http://magiccards.info/extras/token/born-of-the-gods/bird-2.jpg">BNG</set>
             <color>U</color>
             <manacost></manacost>
             <type>Enchantment Creature — Bird</type>
@@ -297,7 +297,7 @@
         </card>
         <card>
             <name>Bird      </name>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2003/rukh.jpg" picURLHq="" picURLSt="">8ED</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2003/rukh.jpg">8ED</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Bird</type>
@@ -309,7 +309,7 @@
         
         <card>
             <name>Bird Soldier</name>
-            <set picURL="http://magiccards.info/extras/token/alara-reborn/bird-soldier.jpg" picURLHq="" picURLSt="">ARB</set>
+            <set picURL="http://magiccards.info/extras/token/alara-reborn/bird-soldier.jpg">ARB</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Bird Soldier</type>
@@ -320,8 +320,8 @@
         </card>
         <card>
             <name>Butterfly</name>
-            <set picURL="" picURLHq="" picURLSt="">MMQ</set>
-            <set picURL="" picURLHq="" picURLSt="">VIS</set>
+            <set>MMQ</set>
+            <set>VIS</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Insect</type>
@@ -333,7 +333,7 @@ Flying</text>
         </card>
         <card>
             <name>Boar</name>
-            <set picURL="" picURLHq="" picURLSt="">PC2</set>
+            <set>PC2</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Boar</type>
@@ -344,7 +344,7 @@ Flying</text>
         </card>
         <card>
             <name>Boar </name>
-            <set picURL="http://magiccards.info/extras/token/theros/boar.jpg" picURLHq="" picURLSt="">THS</set>
+            <set picURL="http://magiccards.info/extras/token/theros/boar.jpg">THS</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Boar</type>
@@ -355,7 +355,7 @@ Flying</text>
         </card>
         <card>
             <name>Camarid</name>
-            <set picURL="http://s8.postimg.org/gam8gfyz9/HOMARID.jpg" picURLHq="" picURLSt="">FEM</set>
+            <set picURL="http://s8.postimg.org/gam8gfyz9/HOMARID.jpg">FEM</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Camarid</type>
@@ -366,7 +366,7 @@ Flying</text>
         </card>
         <card>
             <name>Caribou</name>
-            <set picURL="" picURLHq="" picURLSt="">ME2</set>
+            <set>ME2</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Caribou</type>
@@ -377,7 +377,7 @@ Flying</text>
         </card>
         <card>
             <name>Carnivore</name>
-            <set picURL="" picURLHq="" picURLSt="">TMP</set>
+            <set>TMP</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Beast</type>
@@ -388,9 +388,9 @@ Flying</text>
         </card>
         <card>
             <name>Cat</name>
-            <set picURL="http://magiccards.info/extras/token/magic-2014/cat.jpg" picURLHq="" picURLSt="">M14</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2013/cat.jpg" picURLHq="" picURLSt="">M13</set>
-            <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/cat.jpg" picURLHq="" picURLSt="">SOM</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2014/cat.jpg">M14</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2013/cat.jpg">M13</set>
+            <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/cat.jpg">SOM</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Cat</type>
@@ -401,7 +401,7 @@ Flying</text>
         </card>
         <card>
             <name>Cat </name>
-            <set picURL="" picURLHq="" picURLSt="">APC</set>
+            <set>APC</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Cat</type>
@@ -412,7 +412,7 @@ Flying</text>
         </card>
         <card>
             <name>Cat  </name>
-            <set picURL="" picURLHq="" picURLSt="">6ED</set>
+            <set>6ED</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Cat</type>
@@ -423,7 +423,7 @@ Flying</text>
         </card>
         <card>
             <name>Cat Soldier</name>
-            <set picURL="http://magiccards.info/extras/token/born-of-the-gods/cat-soldier.jpg" picURLHq="" picURLSt="">BNG</set>
+            <set picURL="http://magiccards.info/extras/token/born-of-the-gods/cat-soldier.jpg">BNG</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Cat Soldier</type>
@@ -434,8 +434,8 @@ Flying</text>
         </card>
         <card>
             <name>Cat Warrior</name>
-            <set picURL="" picURLHq="" picURLSt="">PLC</set>
-            <set picURL="" picURLHq="" picURLSt="">LGE</set>
+            <set>PLC</set>
+            <set>LGE</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Cat Warrior</type>
@@ -446,8 +446,8 @@ Flying</text>
         </card>
         <card>
             <name>Centaur</name>
-            <set picURL="http://magiccards.info/extras/token/return-to-ravnica/centaur-1.jpg" picURLHq="" picURLSt="">RTR</set>
-            <set picURL="http://magiccards.info/extras/token/league/centaur.jpg" picURLHq="" picURLSt="">LGE</set>
+            <set picURL="http://magiccards.info/extras/token/return-to-ravnica/centaur-1.jpg">RTR</set>
+            <set picURL="http://magiccards.info/extras/token/league/centaur.jpg">LGE</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Centaur</type>
@@ -458,7 +458,7 @@ Flying</text>
         </card>
         <card>
             <name>Centaur </name>
-            <set picURL="" picURLHq="" picURLSt="">RAV</set>
+            <set>RAV</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Centaur</type>
@@ -469,7 +469,7 @@ Flying</text>
         </card>
         <card>
             <name>Centaur   </name>
-            <set picURL="http://magiccards.info/extras/token/born-of-the-gods/centaur.jpg" picURLHq="" picURLSt="">BNG</set>
+            <set picURL="http://magiccards.info/extras/token/born-of-the-gods/centaur.jpg">BNG</set>
             <color>G</color>
             <manacost></manacost>
             <type>Enchantment Creature — Centaur</type>
@@ -480,7 +480,7 @@ Flying</text>
         </card>
         <card>
             <name>Citizen</name>
-            <set picURL="" picURLHq="" picURLSt="">6ED</set>
+            <set>6ED</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Citizen</type>
@@ -491,7 +491,7 @@ Flying</text>
         </card>
         <card>
             <name>Cleric</name>
-            <set picURL="http://magiccards.info/extras/token/gatecrash/cleric.jpg" picURLHq="" picURLSt="">GTC</set>
+            <set picURL="http://magiccards.info/extras/token/gatecrash/cleric.jpg">GTC</set>
             <color>W</color>
             <color>B</color>
             <manacost></manacost>
@@ -503,7 +503,7 @@ Flying</text>
         </card>
         <card>
             <name>Cleric </name>
-            <set picURL="http://magiccards.info/extras/token/theros/cleric.jpg" picURLHq="" picURLSt="">THS</set>
+            <set picURL="http://magiccards.info/extras/token/theros/cleric.jpg">THS</set>
             <color>W</color>
             <manacost></manacost>
             <type>Enchantment Creature — Cleric</type>
@@ -528,7 +528,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Construct</name>
-            <set picURL="http://magiccards.info/extras/token/worldwake/construct.jpg" picURLHq="" picURLSt="">WWK</set>
+            <set picURL="http://magiccards.info/extras/token/worldwake/construct.jpg">WWK</set>
             <manacost></manacost>
             <type>Artifact Creature — Construct</type>
             <pt>6/12</pt>
@@ -538,7 +538,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Construct </name>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_construct.jpg" picURLHq="" picURLSt="">CNS</set>
+            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_construct.jpg">CNS</set>
             <manacost></manacost>
             <type>Artifact Creature — Construct</type>
             <pt>1/1</pt>
@@ -548,9 +548,9 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Demon</name>
-            <set picURL="http://magiccards.info/extras/token/avacyn-restored-the-helvault-experience/demon.jpg" picURLHq="" picURLSt="">ARH</set>
-            <set picURL="http://magiccards.info/extras/token/avacyn-restored/demon.jpg" picURLHq="" picURLSt="">AVR</set>
-            <set picURL="http://magiccards.info/extras/token/innistrad/demon.jpg" picURLHq="" picURLSt="">ISD</set>
+            <set picURL="http://magiccards.info/extras/token/avacyn-restored-the-helvault-experience/demon.jpg">ARH</set>
+            <set picURL="http://magiccards.info/extras/token/avacyn-restored/demon.jpg">AVR</set>
+            <set picURL="http://magiccards.info/extras/token/innistrad/demon.jpg">ISD</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Demon</type>
@@ -561,9 +561,9 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Demon </name>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_demon.jpg" picURLHq="" picURLSt="">CNS</set>
-            <set picURL="http://magiccards.info/extras/token/duel-decks-divine-vs-demonic/demon.jpg" picURLHq="" picURLSt="">DDC</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2003/demon.jpg" picURLHq="" picURLSt="">MIR</set>
+            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_demon.jpg">CNS</set>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-divine-vs-demonic/demon.jpg">DDC</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2003/demon.jpg">MIR</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Demon</type>
@@ -574,7 +574,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Deserter</name>
-            <set picURL="" picURLHq="" picURLSt="">ME2</set>
+            <set>ME2</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Deserter</type>
@@ -585,7 +585,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Djinn</name>
-            <set picURL="" picURLHq="" picURLSt="">ME4</set>
+            <set>ME4</set>
             <manacost></manacost>
             <type>Artifact Creature — Djinn</type>
             <pt>5/5</pt>
@@ -596,9 +596,9 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Dragon</name>
-            <set picURL="http://magiccards.info/extras/token/worldwake/dragon.jpg" picURLHq="" picURLSt="">WWK</set>
-            <set picURL="http://magiccards.info/extras/token/tenth-edition/dragon.jpg" picURLHq="" picURLSt="">10E</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2002/dragon.jpg" picURLHq="" picURLSt="">ONS</set>
+            <set picURL="http://magiccards.info/extras/token/worldwake/dragon.jpg">WWK</set>
+            <set picURL="http://magiccards.info/extras/token/tenth-edition/dragon.jpg">10E</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2002/dragon.jpg">ONS</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Dragon</type>
@@ -609,8 +609,8 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Dragon  </name>
-            <set picURL="http://magiccards.info/extras/token/modern-masters/dragon.jpg" picURLHq="" picURLSt="">MMA</set>
-            <set picURL="http://magiccards.info/extras/token/shards-of-alara/dragon.jpg" picURLHq="" picURLSt="">ALA</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters/dragon.jpg">MMA</set>
+            <set picURL="http://magiccards.info/extras/token/shards-of-alara/dragon.jpg">ALA</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Dragon</type>
@@ -621,7 +621,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Dragon </name>
-            <set picURL="http://magiccards.info/extras/token/alara-reborn/dragon.jpg" picURLHq="" picURLSt="">ARB</set>
+            <set picURL="http://magiccards.info/extras/token/alara-reborn/dragon.jpg">ARB</set>
             <color>R</color>
             <color>G</color>
             <manacost></manacost>
@@ -633,7 +633,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Dragon   </name>
-            <set picURL="http://magiccards.info/extras/token/return-to-ravnica/dragon.jpg" picURLHq="" picURLSt="">RTR</set>
+            <set picURL="http://magiccards.info/extras/token/return-to-ravnica/dragon.jpg">RTR</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Dragon</type>
@@ -644,8 +644,8 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Dragon    </name>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0007_MTGM15_TOK_EN%20copy.png" picURLHq="" picURLSt="">M15</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2014/dragon.jpg" picURLHq="" picURLSt="">M14</set>
+            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0007_MTGM15_TOK_EN%20copy.png">M15</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2014/dragon.jpg">M14</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Dragon</type>
@@ -656,7 +656,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Dragon Spirit</name>
-            <set picURL="http://img.photobucket.com/albums/v237/Xand0r/dragon-spirit-token3_champions_300.jpg" picURLHq="" picURLSt="">CHK</set>
+            <set picURL="http://img.photobucket.com/albums/v237/Xand0r/dragon-spirit-token3_champions_300.jpg">CHK</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Dragon Spirit</type>
@@ -667,7 +667,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Drake</name>
-            <set picURL="http://magiccards.info/extras/token/magic-2013/drake.jpg" picURLHq="" picURLSt="">M13</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2013/drake.jpg">M13</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Drake</type>
@@ -678,7 +678,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Drake </name>
-            <set picURL="http://i37.photobucket.com/albums/e81/FirePenguinMaster/38e6fa3f.jpg" picURLHq="" picURLSt="">DIS</set>
+            <set picURL="http://i37.photobucket.com/albums/e81/FirePenguinMaster/38e6fa3f.jpg">DIS</set>
             <color>G</color>
             <color>U</color>
             <manacost></manacost>
@@ -690,7 +690,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Eldrazi Spawn</name>
-            <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/eldrazi-spawn-1.jpg" picURLHq="" picURLSt="">ROE</set>
+            <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/eldrazi-spawn-1.jpg">ROE</set>
             <manacost></manacost>
             <type>Creature — Eldrazi Spawn</type>
             <pt>0/1</pt>
@@ -700,7 +700,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Eldrazi Spawn </name>
-            <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/eldrazi-spawn-2.jpg" picURLHq="" picURLSt="">ROE</set>
+            <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/eldrazi-spawn-2.jpg">ROE</set>
             <manacost></manacost>
             <type>Creature — Eldrazi Spawn</type>
             <pt>0/1</pt>
@@ -710,7 +710,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Eldrazi Spawn  </name>
-            <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/eldrazi-spawn-3.jpg" picURLHq="" picURLSt="">ROE</set>
+            <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/eldrazi-spawn-3.jpg">ROE</set>
             <manacost></manacost>
             <type>Creature — Eldrazi Spawn</type>
             <pt>0/1</pt>
@@ -720,7 +720,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental</name>
-            <set picURL="http://magiccards.info/extras/token/magic-2014/elemental-1.jpg" picURLHq="" picURLSt="">M14</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2014/elemental-1.jpg">M14</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Elemental</type>
@@ -731,7 +731,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental </name>
-            <set picURL="" picURLHq="" picURLSt="">TK</set>
+            <set>TK</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Elemental</type>
@@ -742,7 +742,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental  </name>
-            <set picURL="http://magiccards.info/extras/token/conflux/elemental.jpg" picURLHq="" picURLSt="">DIS</set>
+            <set picURL="http://magiccards.info/extras/token/conflux/elemental.jpg">DIS</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Elemental</type>
@@ -753,7 +753,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental   </name>
-            <set picURL="http://magiccards.info/extras/token/shadowmoor/elemental-1.jpg" picURLHq="" picURLSt="">SHM</set>
+            <set picURL="http://magiccards.info/extras/token/shadowmoor/elemental-1.jpg">SHM</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Elemental</type>
@@ -764,7 +764,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental    </name>
-            <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/elemental.jpg" picURLHq="" picURLSt="">ROE</set>
+            <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/elemental.jpg">ROE</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Elemental</type>
@@ -775,7 +775,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental     </name>
-            <set picURL="http://magiccards.info/extras/token/zendikar/elemental.jpg" picURLHq="" picURLSt="">ZEN</set>
+            <set picURL="http://magiccards.info/extras/token/zendikar/elemental.jpg">ZEN</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Elemental</type>
@@ -786,7 +786,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental      </name>
-            <set picURL="" picURLHq="" picURLSt="">DST</set>
+            <set>DST</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Elemental</type>
@@ -797,8 +797,8 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental       </name>
-            <set picURL="http://magiccards.info/extras/token/modern-masters/elemental.jpg" picURLHq="" picURLSt="">MMA</set>
-            <set picURL="http://magiccards.info/extras/token/lorwyn/elemental-1.jpg" picURLHq="" picURLSt="">LRW</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters/elemental.jpg">MMA</set>
+            <set picURL="http://magiccards.info/extras/token/lorwyn/elemental-1.jpg">LRW</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Elemental</type>
@@ -809,7 +809,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental        </name>
-            <set picURL="" picURLHq="" picURLSt="">CHK</set>
+            <set>CHK</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Elemental</type>
@@ -820,7 +820,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental         </name>
-            <set picURL="http://magiccards.info/extras/token/duel-decks-elves-vs-goblins/elemental.jpg" picURLHq="" picURLSt="">EVG</set>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-elves-vs-goblins/elemental.jpg">EVG</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Elemental</type>
@@ -831,7 +831,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental          </name>
-            <set picURL="http://magiccards.info/extras/token/lorwyn/elemental-2.jpg" picURLHq="" picURLSt="">LRW</set>
+            <set picURL="http://magiccards.info/extras/token/lorwyn/elemental-2.jpg">LRW</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Elemental</type>
@@ -842,7 +842,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental           </name>
-            <set picURL="" picURLHq="" picURLSt="">DST</set>
+            <set>DST</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Elemental</type>
@@ -853,7 +853,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental            </name>
-            <set picURL="http://magiccards.info/extras/token/shadowmoor/elemental-2.jpg" picURLHq="" picURLSt="">SHM</set>
+            <set picURL="http://magiccards.info/extras/token/shadowmoor/elemental-2.jpg">SHM</set>
             <color>B</color>
             <color>R</color>
             <manacost></manacost>
@@ -865,7 +865,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental             </name>
-            <set picURL="http://magiccards.info/extras/token/eventide/elemental.jpg" picURLHq="" picURLSt="">EVE</set>
+            <set picURL="http://magiccards.info/extras/token/eventide/elemental.jpg">EVE</set>
             <color>U</color>
             <color>R</color>
             <manacost></manacost>
@@ -877,7 +877,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental              </name>
-            <set picURL="http://magiccards.info/extras/token/return-to-ravnica/elemental.jpg" picURLHq="" picURLSt="">RTR</set>
+            <set picURL="http://magiccards.info/extras/token/return-to-ravnica/elemental.jpg">RTR</set>
             <color>G</color>
             <color>W</color>
             <manacost></manacost>
@@ -889,7 +889,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental               </name>
-            <set picURL="http://magiccards.info/extras/token/dragons-maze/elemental.jpg" picURLHq="" picURLSt="">DGM</set>
+            <set picURL="http://magiccards.info/extras/token/dragons-maze/elemental.jpg">DGM</set>
             <color>G</color>
             <color>W</color>
             <manacost></manacost>
@@ -901,7 +901,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental                </name>
-            <set picURL="http://magiccards.info/extras/token/theros/elemental.jpg" picURLHq="" picURLSt="">THS</set>
+            <set picURL="http://magiccards.info/extras/token/theros/elemental.jpg">THS</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Elemental</type>
@@ -912,7 +912,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental                 </name>
-            <set picURL="http://magiccards.info/extras/token/born-of-the-gods/elemental.jpg" picURLHq="" picURLSt="">BNG</set>
+            <set picURL="http://magiccards.info/extras/token/born-of-the-gods/elemental.jpg">BNG</set>
             <color>R</color>
             <manacost></manacost>
             <type>Enchantment Creature — Elemental</type>
@@ -923,7 +923,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental Cat</name>
-            <set picURL="" picURLHq="" picURLSt="">JUD</set>
+            <set>JUD</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Elemental Cat</type>
@@ -934,8 +934,8 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental Shaman</name>
-            <set picURL="http://magiccards.info/extras/token/duel-decks-jace-vs-chandra/elemental-shaman.jpg" picURLHq="" picURLSt="">DD2</set>
-            <set picURL="http://magiccards.info/extras/token/lorwyn/elemental-shaman.jpg" picURLHq="" picURLSt="">LRW</set>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-jace-vs-chandra/elemental-shaman.jpg">DD2</set>
+            <set picURL="http://magiccards.info/extras/token/lorwyn/elemental-shaman.jpg">LRW</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Elemental Shaman</type>
@@ -946,11 +946,11 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elephant</name>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_elephant.jpg" picURLHq="" picURLSt="">CNS</set>
-            <set picURL="http://magiccards.info/extras/token/worldwake/elephant.jpg" picURLHq="" picURLSt="">WWK</set>
-            <set picURL="http://magiccards.info/extras/token/duel-decks-garruk-vs-liliana/elephant.jpg" picURLHq="" picURLSt="">DDD</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2001/elephant.jpg" picURLHq="" picURLSt="">INV</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2002/elephant.jpg" picURLHq="" picURLSt="">ODY</set>
+            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_elephant.jpg">CNS</set>
+            <set picURL="http://magiccards.info/extras/token/worldwake/elephant.jpg">WWK</set>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-garruk-vs-liliana/elephant.jpg">DDD</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2001/elephant.jpg">INV</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2002/elephant.jpg">ODY</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Elephant</type>
@@ -961,9 +961,9 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elf Warrior</name>
-            <set picURL="http://magiccards.info/extras/token/shadowmoor/elf-warrior-1.jpg" picURLHq="" picURLSt="">SHM</set>
-            <set picURL="http://magiccards.info/extras/token/duel-decks-elves-vs-goblins/elf-warrior.jpg" picURLHq="" picURLSt="">EVG</set>
-            <set picURL="http://magiccards.info/extras/token/lorwyn/elf-warrior.jpg" picURLHq="" picURLSt="">LRW</set>
+            <set picURL="http://magiccards.info/extras/token/shadowmoor/elf-warrior-1.jpg">SHM</set>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-elves-vs-goblins/elf-warrior.jpg">EVG</set>
+            <set picURL="http://magiccards.info/extras/token/lorwyn/elf-warrior.jpg">LRW</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Elf Warrior</type>
@@ -974,7 +974,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elf Warrior </name>
-            <set picURL="http://magiccards.info/extras/token/shadowmoor/elf-warrior-2.jpg" picURLHq="" picURLSt="">SHM</set>
+            <set picURL="http://magiccards.info/extras/token/shadowmoor/elf-warrior-2.jpg">SHM</set>
             <color>G</color>
             <color>W</color>
             <manacost></manacost>
@@ -986,7 +986,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Faerie</name>
-            <set picURL="" picURLHq="" picURLSt="">RAV</set>
+            <set>RAV</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Faerie</type>
@@ -997,7 +997,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Faerie Rogue</name>
-            <set picURL="http://magiccards.info/extras/token/morningtide/faerie-rogue.jpg" picURLHq="" picURLSt="">MOR</set>
+            <set picURL="http://magiccards.info/extras/token/morningtide/faerie-rogue.jpg">MOR</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Faerie Rogue</type>
@@ -1008,8 +1008,8 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Faerie Rogue </name>
-            <set picURL="http://magiccards.info/extras/token/modern-masters/faerie-rogue.jpg" picURLHq="" picURLSt="">MMA</set>
-            <set picURL="http://magiccards.info/extras/token/shadowmoor/faerie-rogue.jpg" picURLHq="" picURLSt="">SHM</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters/faerie-rogue.jpg">MMA</set>
+            <set picURL="http://magiccards.info/extras/token/shadowmoor/faerie-rogue.jpg">SHM</set>
             <color>U</color>
             <color>B</color>
             <manacost></manacost>
@@ -1027,7 +1027,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <set muId="39905">ONS</set>
             <set muId="205267">HOP</set>
             <set muId="129546">10E</set>
-            <set picURL="" picURLHq="" picURLSt="">FUT</set>
+            <set>FUT</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Zombie Goblin</type>
@@ -1038,7 +1038,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Frog Lizard</name>
-            <set picURL="http://magiccards.info/extras/token/gatecrash/frog-lizard.jpg" picURLHq="" picURLSt="">GTC</set>
+            <set picURL="http://magiccards.info/extras/token/gatecrash/frog-lizard.jpg">GTC</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Frog Lizard</type>
@@ -1049,7 +1049,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Gargoyle</name>
-            <set picURL="http://magiccards.info/extras/token/magic-2010/gargoyle.jpg" picURLHq="" picURLSt="">M10</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2010/gargoyle.jpg">M10</set>
             <manacost></manacost>
             <type>Artifact Creature — Gargoyle</type>
             <pt>3/4</pt>
@@ -1059,7 +1059,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Germ</name>
-            <set picURL="http://magiccards.info/extras/token/mirrodin-besieged/germ.jpg" picURLHq="" picURLSt="">MBS</set>
+            <set picURL="http://magiccards.info/extras/token/mirrodin-besieged/germ.jpg">MBS</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Germ</type>
@@ -1070,7 +1070,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Giant</name>
-            <set picURL="" picURLHq="" picURLSt="">FUT</set>
+            <set>FUT</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Giant</type>
@@ -1081,8 +1081,8 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Giant Warrior</name>
-            <set picURL="http://magiccards.info/extras/token/morningtide/giant-warrior.jpg" picURLHq="" picURLSt="">MOR</set>
-            <set picURL="http://magiccards.info/extras/token/modern-masters/giant-warrior.jpg" picURLHq="" picURLSt="">MMA</set>
+            <set picURL="http://magiccards.info/extras/token/morningtide/giant-warrior.jpg">MOR</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters/giant-warrior.jpg">MMA</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Giant Warrior</type>
@@ -1093,7 +1093,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Giant Warrior </name>
-            <set picURL="http://magiccards.info/extras/token/shadowmoor/giant-warrior.jpg" picURLHq="" picURLSt="">SHM</set>
+            <set picURL="http://magiccards.info/extras/token/shadowmoor/giant-warrior.jpg">SHM</set>
             <color>R</color>
             <color>G</color>
             <manacost></manacost>
@@ -1105,7 +1105,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Gnome</name>
-            <set picURL="" picURLHq="" picURLSt="">USG</set>
+            <set>USG</set>
             <manacost></manacost>
             <type>Artifact Creature — Gnome</type>
             <pt>1/1</pt>
@@ -1115,9 +1115,9 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Goat</name>
-            <set picURL="http://magiccards.info/extras/token/magic-2014/goat.jpg" picURLHq="" picURLSt="">M14</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2013/goat.jpg" picURLHq="" picURLSt="">M13</set>
-            <set picURL="http://magiccards.info/extras/token/eventide/goat.jpg" picURLHq="" picURLSt="">EVE</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2014/goat.jpg">M14</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2013/goat.jpg">M13</set>
+            <set picURL="http://magiccards.info/extras/token/eventide/goat.jpg">EVE</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Goat</type>
@@ -1128,18 +1128,18 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Goblin</name>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0008_MTGM15_TOK_EN%20copy.png" picURLHq="" picURLSt="">M15</set>
-            <set picURL="http://magiccards.info/extras/token/modern-masters/goblin.jpg" picURLHq="" picURLSt="">MMA</set>
-            <set picURL="http://magiccards.info/extras/token/new-phyrexia/goblin.jpg" picURLHq="" picURLSt="">NPH</set>
-            <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/goblin.jpg" picURLHq="" picURLSt="">SOM</set>
-            <set picURL="http://magiccards.info/extras/token/duel-decks-knights-vs-dragons/goblin.jpg" picURLHq="" picURLSt="">DDG</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2013/goblin.jpg" picURLHq="" picURLSt="">M13</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2010/goblin.jpg" picURLHq="" picURLSt="">M10</set>
-            <set picURL="http://magiccards.info/extras/token/shards-of-alara/goblin.jpg" picURLHq="" picURLSt="">ALA</set>
-            <set picURL="http://magiccards.info/extras/token/duel-decks-elves-vs-goblins/goblin.jpg" picURLHq="" picURLSt="">EVG</set>
-            <set picURL="http://magiccards.info/extras/token/tenth-edition/goblin.jpg" picURLHq="" picURLSt="">10E</set>
-            <set picURL="http://magiccards.info/extras/token/return-to-ravnica/goblin.jpg" picURLHq="" picURLSt="">RTR</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2003/goblin.jpg" picURLHq="" picURLSt="">LGN</set>
+            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0008_MTGM15_TOK_EN%20copy.png">M15</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters/goblin.jpg">MMA</set>
+            <set picURL="http://magiccards.info/extras/token/new-phyrexia/goblin.jpg">NPH</set>
+            <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/goblin.jpg">SOM</set>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-knights-vs-dragons/goblin.jpg">DDG</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2013/goblin.jpg">M13</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2010/goblin.jpg">M10</set>
+            <set picURL="http://magiccards.info/extras/token/shards-of-alara/goblin.jpg">ALA</set>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-elves-vs-goblins/goblin.jpg">EVG</set>
+            <set picURL="http://magiccards.info/extras/token/tenth-edition/goblin.jpg">10E</set>
+            <set picURL="http://magiccards.info/extras/token/return-to-ravnica/goblin.jpg">RTR</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2003/goblin.jpg">LGN</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Goblin</type>
@@ -1150,7 +1150,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Goblin </name>
-            <set picURL="http://s8.postimg.org/ljh9ebhed/GOBLIN.jpg" picURLHq="" picURLSt="">ALA</set>
+            <set picURL="http://s8.postimg.org/ljh9ebhed/GOBLIN.jpg">ALA</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Goblin</type>
@@ -1161,7 +1161,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Goblin  </name>
-            <set picURL="" picURLHq="" picURLSt="">DIS</set>
+            <set>DIS</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Goblin</type>
@@ -1172,8 +1172,8 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Goblin Rogue</name>
-            <set picURL="http://magiccards.info/extras/token/modern-masters/goblin-rogue.jpg" picURLHq="" picURLSt="">MMA</set>
-            <set picURL="http://magiccards.info/extras/token/lorwyn/goblin-rogue.jpg" picURLHq="" picURLSt="">LRW</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters/goblin-rogue.jpg">MMA</set>
+            <set picURL="http://magiccards.info/extras/token/lorwyn/goblin-rogue.jpg">LRW</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Goblin Rogue</type>
@@ -1184,7 +1184,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Goblin Scout</name>
-            <set picURL="" picURLHq="" picURLSt="">MIR</set>
+            <set>MIR</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Goblin Scout</type>
@@ -1195,8 +1195,8 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Goblin Soldier</name>
-            <set picURL="http://magiccards.info/extras/token/eventide/goblin-soldier.jpg" picURLHq="" picURLSt="">EVE</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2001/goblin-soldier.jpg" picURLHq="" picURLSt="">APC</set>
+            <set picURL="http://magiccards.info/extras/token/eventide/goblin-soldier.jpg">EVE</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2001/goblin-soldier.jpg">APC</set>
             <color>R</color>
             <color>W</color>
             <manacost></manacost>
@@ -1208,7 +1208,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Goblin Warrior</name>
-            <set picURL="http://magiccards.info/extras/token/shadowmoor/goblin-warrior.jpg" picURLHq="" picURLSt="">SHM</set>
+            <set picURL="http://magiccards.info/extras/token/shadowmoor/goblin-warrior.jpg">SHM</set>
             <color>R</color>
             <color>G</color>
             <manacost></manacost>
@@ -1232,8 +1232,8 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Golem</name>
-            <set picURL="http://magiccards.info/extras/token/new-phyrexia/golem.jpg" picURLHq="" picURLSt="">NPH</set>
-            <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/golem.jpg" picURLHq="" picURLSt="">SOM</set>
+            <set picURL="http://magiccards.info/extras/token/new-phyrexia/golem.jpg">NPH</set>
+            <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/golem.jpg">SOM</set>
             <manacost></manacost>
             <type>Artifact Creature — Golem</type>
             <pt>3/3</pt>
@@ -1243,7 +1243,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Golem </name>
-            <set picURL="http://magiccards.info/extras/token/mirrodin-besieged/golem.jpg" picURLHq="" picURLSt="">MBS</set>
+            <set picURL="http://magiccards.info/extras/token/mirrodin-besieged/golem.jpg">MBS</set>
             <manacost></manacost>
             <type>Artifact Creature — Golem</type>
             <pt>9/9</pt>
@@ -1253,7 +1253,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Golem    </name>
-            <set picURL="http://magiccards.info/extras/token/theros/golem.jpg" picURLHq="" picURLSt="">THS</set>
+            <set picURL="http://magiccards.info/extras/token/theros/golem.jpg">THS</set>
             <manacost></manacost>
             <type>Enchantment Artifact Creature — Golem</type>
             <pt>3/3</pt>
@@ -1263,7 +1263,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Graveborn</name>
-            <set picURL="http://i167.photobucket.com/albums/u148/Ruja/Magic%20Tokens/Coldsnap/5.jpg" picURLHq="" picURLSt="">CSP</set>
+            <set picURL="http://i167.photobucket.com/albums/u148/Ruja/Magic%20Tokens/Coldsnap/5.jpg">CSP</set>
             <color>B</color>
             <color>R</color>
             <manacost></manacost>
@@ -1275,8 +1275,8 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Griffin</name>
-            <set picURL="http://magiccards.info/extras/token/duel-decks-ajani-vs-nicol-bolas/griffin.jpg" picURLHq="" picURLSt="">DDH</set>
-            <set picURL="http://magiccards.info/extras/token/duel-decks-heroes-vs-monsters/griffin.jpg" picURLHq="" picURLSt="">DDL</set>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-ajani-vs-nicol-bolas/griffin.jpg">DDH</set>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-heroes-vs-monsters/griffin.jpg">DDL</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Griffin</type>
@@ -1287,7 +1287,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Harpy</name>
-            <set picURL="http://magiccards.info/extras/token/theros/harpy.jpg" picURLHq="" picURLSt="">THS</set>
+            <set picURL="http://magiccards.info/extras/token/theros/harpy.jpg">THS</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Harpy</type>
@@ -1298,8 +1298,8 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Hellion</name>
-            <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/hellion.jpg" picURLHq="" picURLSt="">ROE</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2013/hellion.jpg" picURLHq="" picURLSt="">M13</set>
+            <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/hellion.jpg">ROE</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2013/hellion.jpg">M13</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Hellion</type>
@@ -1310,7 +1310,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Hippo</name>
-            <set picURL="http://img.photobucket.com/albums/v18/qtinator/Hippo.jpg" picURLHq="" picURLSt="">TK</set>
+            <set picURL="http://img.photobucket.com/albums/v18/qtinator/Hippo.jpg">TK</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Hippo</type>
@@ -1321,7 +1321,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Homunculus</name>
-            <set picURL="http://magiccards.info/extras/token/innistrad/homunculus.jpg" picURLHq="" picURLSt="">ISD</set>
+            <set picURL="http://magiccards.info/extras/token/innistrad/homunculus.jpg">ISD</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Homunculus</type>
@@ -1332,7 +1332,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Homunculus </name>
-            <set picURL="http://magiccards.info/extras/token/shards-of-alara/homunculus.jpg" picURLHq="" picURLSt="">ALA</set>
+            <set picURL="http://magiccards.info/extras/token/shards-of-alara/homunculus.jpg">ALA</set>
             <color>U</color>
             <manacost></manacost>
             <type>Artifact Creature — Homunculus</type>
@@ -1343,7 +1343,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Hornet</name>
-            <set picURL="http://magiccards.info/extras/token/duel-decks-phyrexia-vs-the-coalition/hornet.jpg" picURLHq="" picURLSt="">DDE</set>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-phyrexia-vs-the-coalition/hornet.jpg">DDE</set>
             <manacost></manacost>
             <type>Artifact Creature — Insect</type>
             <pt>1/1</pt>
@@ -1353,7 +1353,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Horror</name>
-            <set picURL="http://magiccards.info/extras/token/mirrodin-besieged/horror.jpg" picURLHq="" picURLSt="">MBS</set>
+            <set picURL="http://magiccards.info/extras/token/mirrodin-besieged/horror.jpg">MBS</set>
             <manacost></manacost>
             <type>Artifact Creature — Horror</type>
             <pt>*/*</pt>
@@ -1363,7 +1363,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Horror </name>
-            <set picURL="http://magiccards.info/extras/token/gatecrash/horror.jpg" picURLHq="" picURLSt="">GTC</set>
+            <set picURL="http://magiccards.info/extras/token/gatecrash/horror.jpg">GTC</set>
             <color>U</color>
             <color>B</color>
             <manacost></manacost>
@@ -1375,7 +1375,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Horror  </name>
-            <set picURL="" picURLHq="" picURLSt="">RAV</set>
+            <set>RAV</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Horror</type>
@@ -1386,7 +1386,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Hound</name>
-            <set picURL="http://img.photobucket.com/albums/v18/qtinator/Hound.jpg" picURLHq="" picURLSt="">TMP</set>
+            <set picURL="http://img.photobucket.com/albums/v18/qtinator/Hound.jpg">TMP</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Hound</type>
@@ -1397,9 +1397,9 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Human</name>
-            <set picURL="http://magiccards.info/extras/token/avacyn-restored/human-1.jpg" picURLHq="" picURLSt="">AVR</set>
-            <set picURL="http://magiccards.info/extras/token/friday-night-magic/human.jpg" picURLHq="" picURLSt="">FNM</set>
-            <set picURL="http://magiccards.info/extras/token/dark-ascension/human.jpg" picURLHq="" picURLSt="">DKA</set>
+            <set picURL="http://magiccards.info/extras/token/avacyn-restored/human-1.jpg">AVR</set>
+            <set picURL="http://magiccards.info/extras/token/friday-night-magic/human.jpg">FNM</set>
+            <set picURL="http://magiccards.info/extras/token/dark-ascension/human.jpg">DKA</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Human</type>
@@ -1410,7 +1410,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Human </name>
-            <set picURL="http://magiccards.info/extras/token/avacyn-restored/human-2.jpg" picURLHq="" picURLSt="">AVR</set>
+            <set picURL="http://magiccards.info/extras/token/avacyn-restored/human-2.jpg">AVR</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Human</type>
@@ -1421,7 +1421,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Hydra</name>
-            <set picURL="http://magiccards.info/extras/token/journey-into-nyx/hydra.jpg" picURLHq="" picURLSt="">JOU</set>
+            <set picURL="http://magiccards.info/extras/token/journey-into-nyx/hydra.jpg">JOU</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Hydra</type>
@@ -1432,7 +1432,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Illusion</name>
-            <set picURL="http://magiccards.info/extras/token/zendikar/illusion.jpg" picURLHq="" picURLSt="">ZEN</set>
+            <set picURL="http://magiccards.info/extras/token/zendikar/illusion.jpg">ZEN</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Illusion</type>
@@ -1443,7 +1443,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Illusion </name>
-            <set picURL="http://magiccards.info/extras/token/modern-masters/illusion.jpg" picURLHq="" picURLSt="">MMA</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters/illusion.jpg">MMA</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Illusion</type>
@@ -1454,7 +1454,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Insect</name>
-            <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/insect.jpg" picURLHq="" picURLSt="">SOM</set>
+            <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/insect.jpg">SOM</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Insect</type>
@@ -1465,8 +1465,8 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Insect </name>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0010_MTGM15_TOK_EN%20copy.png" picURLHq="" picURLSt="">M15</set>
-            <set picURL="http://i167.photobucket.com/albums/u148/Ruja/Magic%20Tokens/Insect.jpg" picURLHq="" picURLSt="">TK</set>
+            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0010_MTGM15_TOK_EN%20copy.png">M15</set>
+            <set picURL="http://i167.photobucket.com/albums/u148/Ruja/Magic%20Tokens/Insect.jpg">TK</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Insect</type>
@@ -1477,8 +1477,8 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Insect  </name>
-            <set picURL="http://magiccards.info/extras/token/magic-2010/insect.jpg" picURLHq="" picURLSt="">M10</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2003/insect.jpg" picURLHq="" picURLSt="">ONS</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2010/insect.jpg">M10</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2003/insect.jpg">ONS</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Insect</type>
@@ -1489,7 +1489,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Insect   </name>
-            <set picURL="" picURLHq="" picURLSt="">PLC</set>
+            <set>PLC</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Insect</type>
@@ -1500,7 +1500,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Insect    </name>
-            <set picURL="" picURLHq="" picURLSt="">MIR</set>
+            <set>MIR</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Insect</type>
@@ -1536,7 +1536,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Kaldra</name>
-            <set picURL="http://seinvocc.com/forum/download/file.php?id=1485" picURLHq="" picURLSt="">DST</set>
+            <set picURL="http://seinvocc.com/forum/download/file.php?id=1485">DST</set>
             <manacost></manacost>
             <type>Legendary Creature — Avatar</type>
             <pt>4/4</pt>
@@ -1546,7 +1546,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Kavu</name>
-            <set picURL="" picURLHq="" picURLSt="">APC</set>
+            <set>APC</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Kavu</type>
@@ -1557,7 +1557,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Kelp</name>
-            <set picURL="" picURLHq="" picURLSt="">ME2</set>
+            <set>ME2</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Plant Wall</type>
@@ -1569,9 +1569,9 @@ Defender</text>
         </card>
         <card>
             <name>Kithkin Soldier</name>
-            <set picURL="http://magiccards.info/extras/token/modern-masters/kithkin-soldier.jpg"  picURLHq="" picURLSt="">MMA</set>
-            <set picURL="http://magiccards.info/extras/token/shadowmoor/kithkin-soldier.jpg" picURLHq="" picURLSt="">SHM</set>
-            <set picURL="http://magiccards.info/extras/token/lorwyn/kithkin-soldier.jpg" picURLHq="" picURLSt="">LRW</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters/kithkin-soldier.jpg" >MMA</set>
+            <set picURL="http://magiccards.info/extras/token/shadowmoor/kithkin-soldier.jpg">SHM</set>
+            <set picURL="http://magiccards.info/extras/token/lorwyn/kithkin-soldier.jpg">LRW</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Kithkin Soldier</type>
@@ -1582,8 +1582,8 @@ Defender</text>
         </card>
         <card>
             <name>Knight</name>
-            <set picURL="http://magiccards.info/extras/token/return-to-ravnica/knight.jpg" picURLHq="" picURLSt="">RTR</set>
-            <set picURL="http://magiccards.info/extras/token/league/knight.jpg" picURLHq="" picURLSt="">LGE</set>
+            <set picURL="http://magiccards.info/extras/token/return-to-ravnica/knight.jpg">RTR</set>
+            <set picURL="http://magiccards.info/extras/token/league/knight.jpg">LGE</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Knight</type>
@@ -1594,7 +1594,7 @@ Defender</text>
         </card>
         <card>
             <name>Knight </name>
-            <set picURL="" picURLHq="" picURLSt="">RAV</set>
+            <set>RAV</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Knight</type>
@@ -1605,7 +1605,7 @@ Defender</text>
         </card>
         <card>
             <name>Knight  </name>
-            <set picURL="http://img.photobucket.com/albums/v18/qtinator/knight2.jpg" picURLHq="" picURLSt="">USG</set>
+            <set picURL="http://img.photobucket.com/albums/v18/qtinator/knight2.jpg">USG</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Knight</type>
@@ -1616,7 +1616,7 @@ Defender</text>
         </card>
         <card>
             <name>Knight   </name>
-            <set picURL="http://img.photobucket.com/albums/v18/qtinator/Knight1.jpg" picURLHq="" picURLSt="">ME2</set>
+            <set picURL="http://img.photobucket.com/albums/v18/qtinator/Knight1.jpg">ME2</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Knight</type>
@@ -1627,7 +1627,7 @@ Defender</text>
         </card>
         <card>
             <name>Knight    </name>
-            <set picURL="" picURLHq="" picURLSt="">PLC</set>
+            <set>PLC</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Knight</type>
@@ -1649,7 +1649,7 @@ Defender</text>
         </card>
         <card>
             <name>Kor Soldier</name>
-            <set picURL="http://magiccards.info/extras/token/zendikar/kor-soldier.jpg" picURLHq="" picURLSt="">ZEN</set>
+            <set picURL="http://magiccards.info/extras/token/zendikar/kor-soldier.jpg">ZEN</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Kor Soldier</type>
@@ -1660,7 +1660,7 @@ Defender</text>
         </card>
         <card>
             <name>Kraken</name>
-            <set picURL="http://magiccards.info/extras/token/born-of-the-gods/kraken.jpg" picURLHq="" picURLSt="">BNG</set>
+            <set picURL="http://magiccards.info/extras/token/born-of-the-gods/kraken.jpg">BNG</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Kraken</type>
@@ -1671,7 +1671,7 @@ Defender</text>
         </card>
         <card>
             <name>Land Mine</name>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0012_MTGM15_TOK_EN%20copy.png" picURLHq="" picURLSt="">M15</set>
+            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0012_MTGM15_TOK_EN%20copy.png">M15</set>
             <manacost></manacost>
             <type>Artifact</type>
             <tablerow>1</tablerow>
@@ -1680,7 +1680,7 @@ Defender</text>
         </card>
         <card>
             <name>Lizard</name>
-            <set picURL="http://magiccards.info/extras/token/alara-reborn/lizard.jpg" picURLHq="" picURLSt="">ARB</set>
+            <set picURL="http://magiccards.info/extras/token/alara-reborn/lizard.jpg">ARB</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Lizard</type>
@@ -1691,7 +1691,7 @@ Defender</text>
         </card>
         <card>
             <name>Marit Lage</name>
-            <set picURL="http://magiccards.info/extras/token/coldsnap/marit-lage.jpg" picURLHq="" picURLSt="">CSP</set>
+            <set picURL="http://magiccards.info/extras/token/coldsnap/marit-lage.jpg">CSP</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Avatar</type>
@@ -1702,7 +1702,7 @@ Defender</text>
         </card>
         <card>
             <name>Merfolk</name>
-            <set picURL="http://magiccards.info/extras/token/zendikar/merfolk.jpg" picURLHq="" picURLSt="">ZEN</set>
+            <set picURL="http://magiccards.info/extras/token/zendikar/merfolk.jpg">ZEN</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Merfolk</type>
@@ -1713,7 +1713,7 @@ Defender</text>
         </card>
         <card>
             <name>Merfolk Wizard</name>
-            <set picURL="http://magiccards.info/extras/token/lorwyn/merfolk-wizard.jpg" picURLHq="" picURLSt="">LRW</set>
+            <set picURL="http://magiccards.info/extras/token/lorwyn/merfolk-wizard.jpg">LRW</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Merfolk Wizard</type>
@@ -1724,7 +1724,7 @@ Defender</text>
         </card>
         <card>
             <name>Merfolk Wizard </name>
-            <set picURL="http://seinvocc.com/forum/download/file.php?id=1487" picURLHq="" picURLSt="">TK</set>
+            <set picURL="http://seinvocc.com/forum/download/file.php?id=1487">TK</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Merfolk Wizard</type>
@@ -1746,7 +1746,7 @@ Defender</text>
         </card>
         <card>
             <name>Minion</name>
-            <set picURL="http://magiccards.info/extras/token/duel-decks-phyrexia-vs-the-coalition/minion.jpg" picURLHq="" picURLSt="">DDE</set>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-phyrexia-vs-the-coalition/minion.jpg">DDE</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Minion</type>
@@ -1757,7 +1757,7 @@ Defender</text>
         </card>
         <card>
             <name>Minion </name>
-            <set picURL="http://img.photobucket.com/albums/v18/qtinator/Minion1.jpg" picURLHq="" picURLSt="">PCY</set>
+            <set picURL="http://img.photobucket.com/albums/v18/qtinator/Minion1.jpg">PCY</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Minion</type>
@@ -1768,7 +1768,7 @@ Defender</text>
         </card>
         <card>
             <name>Minor Demon</name>
-            <set picURL="" picURLHq="" picURLSt="">ME3</set>
+            <set>ME3</set>
             <color>B</color>
             <color>R</color>
             <manacost></manacost>
@@ -1781,7 +1781,7 @@ Defender</text>
         </card>
         <card>
             <name>Minotaur</name>
-            <set picURL="http://magiccards.info/extras/token/journey-into-nyx/minotaur.jpg" picURLHq="" picURLSt="">JOU</set>
+            <set picURL="http://magiccards.info/extras/token/journey-into-nyx/minotaur.jpg">JOU</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Minotaur</type>
@@ -1792,9 +1792,9 @@ Defender</text>
         </card>
         <card>
             <name>Myr</name>
-            <set picURL="http://magiccards.info/extras/token/new-phyrexia/myr.jpg" picURLHq="" picURLSt="">NPH</set>
-            <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/myr.jpg" picURLHq="" picURLSt="">SOM</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2004/myr.jpg" picURLHq="" picURLSt="">MIR</set>
+            <set picURL="http://magiccards.info/extras/token/new-phyrexia/myr.jpg">NPH</set>
+            <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/myr.jpg">SOM</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2004/myr.jpg">MIR</set>
             <manacost></manacost>
             <type>Artifact Creature — Myr</type>
             <pt>1/1</pt>
@@ -1804,7 +1804,7 @@ Defender</text>
         </card>
         <card>
             <name>Ogre</name>
-            <set picURL="http://magiccards.info/extras/token/worldwake/ogre.jpg" picURLHq="" picURLSt="">WWK</set>
+            <set picURL="http://magiccards.info/extras/token/worldwake/ogre.jpg">WWK</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Ogre</type>
@@ -1815,7 +1815,7 @@ Defender</text>
         </card>
         <card>
             <name>Ogre </name>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_ogre.jpg" picURLHq="" picURLSt="">CNS</set>
+            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_ogre.jpg">CNS</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Ogre</type>
@@ -1826,9 +1826,9 @@ Defender</text>
         </card>
         <card>
             <name>Ooze</name>
-            <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/ooze.jpg" picURLHq="" picURLSt="">ROE</set>
-            <set picURL="http://magiccards.info/extras/token/shards-of-alara/ooze.jpg" picURLHq="" picURLSt="">ALA</set>
-            <set picURL="http://magiccards.info/extras/token/return-to-ravnica/ooze.jpg" picURLHq="" picURLSt="">RTR</set>
+            <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/ooze.jpg">ROE</set>
+            <set picURL="http://magiccards.info/extras/token/shards-of-alara/ooze.jpg">ALA</set>
+            <set picURL="http://magiccards.info/extras/token/return-to-ravnica/ooze.jpg">RTR</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Ooze</type>
@@ -1839,7 +1839,7 @@ Defender</text>
         </card>
         <card>
             <name>Ooze </name>
-            <set picURL="http://magiccards.info/extras/token/innistrad/ooze.jpg" picURLHq="" picURLSt="">ISD</set>
+            <set picURL="http://magiccards.info/extras/token/innistrad/ooze.jpg">ISD</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Ooze</type>
@@ -1850,7 +1850,7 @@ Defender</text>
         </card>
         <card>
             <name>Ooze  </name>
-            <set picURL="http://magiccards.info/extras/token/magic-2011/ooze-1.jpg" picURLHq="" picURLSt="">M11</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2011/ooze-1.jpg">M11</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Ooze</type>
@@ -1861,7 +1861,7 @@ Defender</text>
         </card>
         <card>
             <name>Ooze   </name>
-            <set picURL="http://magiccards.info/extras/token/magic-2011/ooze-2.jpg" picURLHq="" picURLSt="">M11</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2011/ooze-2.jpg">M11</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Ooze</type>
@@ -1872,7 +1872,7 @@ Defender</text>
         </card>
         <card>
             <name>Orb</name>
-            <set picURL="http://img.photobucket.com/albums/v18/qtinator/BlueOrb.jpg" picURLHq="" picURLSt="">ALL</set>
+            <set picURL="http://img.photobucket.com/albums/v18/qtinator/BlueOrb.jpg">ALL</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Orb</type>
@@ -1883,7 +1883,7 @@ Defender</text>
         </card>
         <card>
             <name>Pegasus</name>
-            <set picURL="" picURLHq="" picURLSt="">GPT</set>
+            <set>GPT</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Pegasus</type>
@@ -1894,8 +1894,8 @@ Defender</text>
         </card>
         <card>
             <name>Pentavite</name>
-            <set picURL="http://magiccards.info/extras/token/magic-2012/pentavite.jpg" picURLHq="" picURLSt="">M12</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2004/pentavite.jpg" picURLHq="" picURLSt="">MIR</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2012/pentavite.jpg">M12</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2004/pentavite.jpg">MIR</set>
             <manacost></manacost>
             <type>Artifact Creature — Pentavite</type>
             <pt>1/1</pt>
@@ -1905,7 +1905,7 @@ Defender</text>
         </card>
         <card>
             <name>Pest</name>
-            <set picURL="" picURLHq="" picURLSt="">HOP</set>
+            <set>HOP</set>
             <manacost></manacost>
             <type>Artifact Creature — Pest</type>
             <pt>0/1</pt>
@@ -1915,7 +1915,7 @@ Defender</text>
         </card>
         <card>
             <name>Pincher</name>
-            <set picURL="" picURLHq="" picURLSt="">FEM</set>
+            <set>FEM</set>
             <manacost></manacost>
             <type>Creature — Pincher</type>
             <pt>2/2</pt>
@@ -1925,7 +1925,7 @@ Defender</text>
         </card>
         <card>
             <name>Plant</name>
-            <set picURL="http://magiccards.info/extras/token/worldwake/plant.jpg" picURLHq="" picURLSt="">WWK</set>
+            <set picURL="http://magiccards.info/extras/token/worldwake/plant.jpg">WWK</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Plant</type>
@@ -1936,7 +1936,7 @@ Defender</text>
         </card>
         <card>
             <name>Prism</name>
-            <set picURL="" picURLHq="" picURLSt="">VIS</set>
+            <set>VIS</set>
             <manacost></manacost>
             <type>Artifact Creature — Prism</type>
             <pt>0/1</pt>
@@ -1946,8 +1946,8 @@ Defender</text>
         </card>
         <card>
             <name>Rat</name>
-            <set picURL="http://magiccards.info/extras/token/shadowmoor/rat.jpg" picURLHq="" picURLSt="">SHM</set>
-            <set picURL="http://magiccards.info/extras/token/gatecrash/rat.jpg" picURLHq="" picURLSt="">GTC</set>
+            <set picURL="http://magiccards.info/extras/token/shadowmoor/rat.jpg">SHM</set>
+            <set picURL="http://magiccards.info/extras/token/gatecrash/rat.jpg">GTC</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Rat</type>
@@ -1958,7 +1958,7 @@ Defender</text>
         </card>
         <card>
             <name>Reflection</name>
-            <set picURL="" picURLHq="" picURLSt="">INV</set>
+            <set>INV</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Reflection</type>
@@ -1969,7 +1969,7 @@ Defender</text>
         </card>
         <card>
             <name>Reflection </name>
-            <set picURL="" picURLHq="" picURLSt="">TMP</set>
+            <set>TMP</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Reflection</type>
@@ -1980,7 +1980,7 @@ Defender</text>
         </card>
         <card>
             <name>Rhino</name>
-            <set picURL="http://magiccards.info/extras/token/return-to-ravnica/rhino.jpg" picURLHq="" picURLSt="">RTR</set>
+            <set picURL="http://magiccards.info/extras/token/return-to-ravnica/rhino.jpg">RTR</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Rhino</type>
@@ -1991,7 +1991,7 @@ Defender</text>
         </card>
         <card>
             <name>Sand</name>
-            <set picURL="" picURLHq="" picURLSt="">GPT</set>
+            <set>GPT</set>
             <manacost></manacost>
             <type>Creature — Sand</type>
             <pt>1/1</pt>
@@ -2001,7 +2001,7 @@ Defender</text>
         </card>
         <card>
             <name>Sand Warrior</name>
-            <set picURL="" picURLHq="" picURLSt="">ME3</set>
+            <set>ME3</set>
             <color>R</color>
             <color>G</color>
             <color>W</color>
@@ -2014,16 +2014,16 @@ Defender</text>
         </card>
         <card>
             <name>Saproling</name>
-            <set picURL="http://magiccards.info/extras/token/magic-2014/saproling.jpg" picURLHq="" picURLSt="">M14</set>
-            <set picURL="http://magiccards.info/extras/token/modern-masters/saproling.jpg" picURLHq="" picURLSt="">MMA</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2012/saproling.jpg" picURLHq="" picURLSt="">M12</set>
-            <set picURL="http://magiccards.info/extras/token/duel-decks-ajani-vs-nicol-bolas/saproling.jpg" picURLHq="" picURLSt="">DDH</set>
-            <set picURL="http://magiccards.info/extras/token/duel-decks-phyrexia-vs-the-coalition/saproling.jpg" picURLHq="" picURLSt="">DDE</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2013/saproling.jpg" picURLHq="" picURLSt="">M13</set>
-            <set picURL="http://magiccards.info/extras/token/shards-of-alara/saproling.jpg" picURLHq="" picURLSt="">ALA</set>
-            <set picURL="http://magiccards.info/extras/token/tenth-edition/saproling.jpg" picURLHq="" picURLSt="">10E</set>
-            <set picURL="http://magiccards.info/extras/token/duel-decks-izzet-vs-golgari/saproling.jpg" picURLHq="" picURLSt="">DDJ</set>
-            <set picURL="http://magiccards.info/extras/token/return-to-ravnica/saproling.jpg" picURLHq="" picURLSt="">RTR</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2014/saproling.jpg">M14</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters/saproling.jpg">MMA</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2012/saproling.jpg">M12</set>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-ajani-vs-nicol-bolas/saproling.jpg">DDH</set>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-phyrexia-vs-the-coalition/saproling.jpg">DDE</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2013/saproling.jpg">M13</set>
+            <set picURL="http://magiccards.info/extras/token/shards-of-alara/saproling.jpg">ALA</set>
+            <set picURL="http://magiccards.info/extras/token/tenth-edition/saproling.jpg">10E</set>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-izzet-vs-golgari/saproling.jpg">DDJ</set>
+            <set picURL="http://magiccards.info/extras/token/return-to-ravnica/saproling.jpg">RTR</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Saproling</type>
@@ -2034,7 +2034,7 @@ Defender</text>
         </card>
         <card>
             <name>Saproling </name>
-            <set picURL="http://s8.postimg.org/v45hexw45/SAPROLING.jpg" picURLHq="" picURLSt="">NMS</set>
+            <set picURL="http://s8.postimg.org/v45hexw45/SAPROLING.jpg">NMS</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Saproling</type>
@@ -2045,7 +2045,7 @@ Defender</text>
         </card>
         <card>
             <name>Satyr</name>
-            <set picURL="http://magiccards.info/extras/token/theros/satyr.jpg" picURLHq="" picURLSt="">THS</set>
+            <set picURL="http://magiccards.info/extras/token/theros/satyr.jpg">THS</set>
             <color>R</color>
             <color>G</color>
             <manacost></manacost>
@@ -2057,7 +2057,7 @@ Defender</text>
         </card>
         <card>
             <name>Serf</name>
-            <set picURL="" picURLHq="" picURLSt="">TSB</set>
+            <set>TSB</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Serf</type>
@@ -2068,7 +2068,7 @@ Defender</text>
         </card>
         <card>
             <name>Shapeshifter </name>
-            <set picURL="http://magiccards.info/extras/token/lorwyn/shapeshifter.jpg" picURLHq="" picURLSt="">LRW</set>
+            <set picURL="http://magiccards.info/extras/token/lorwyn/shapeshifter.jpg">LRW</set>
             <manacost></manacost>
             <type>Creature — Shapeshifter</type>
             <pt>1/1</pt>
@@ -2078,7 +2078,7 @@ Defender</text>
         </card>
         <card>
             <name>Sheep</name>
-            <set picURL="" picURLHq="" picURLSt="">TSB</set>
+            <set>TSB</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Sheep</type>
@@ -2089,7 +2089,7 @@ Defender</text>
         </card>
         <card>
             <name>Skeleton</name>
-            <set picURL="http://magiccards.info/extras/token/shards-of-alara/skeleton.jpg" picURLHq="" picURLSt="">ALA</set>
+            <set picURL="http://magiccards.info/extras/token/shards-of-alara/skeleton.jpg">ALA</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Skeleton</type>
@@ -2100,10 +2100,10 @@ Defender</text>
         </card>
         <card>
             <name>Sliver</name>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0001_MTGM15_TOK_EN%20copy.png" picURLHq="" picURLSt="">M15</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2003/sliver.jpg" picURLHq="" picURLSt="">LGN</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2014/sliver.jpg" picURLHq="" picURLSt="">M14</set>
-            <set picURL="http://magiccards.info/extras/token/league/sliver.jpg" picURLHq="" picURLSt="">LGE</set>
+            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0001_MTGM15_TOK_EN%20copy.png">M15</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2003/sliver.jpg">LGN</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2014/sliver.jpg">M14</set>
+            <set picURL="http://magiccards.info/extras/token/league/sliver.jpg">LGE</set>
             <manacost></manacost>
             <type>Creature — Sliver</type>
             <pt>1/1</pt>
@@ -2113,7 +2113,7 @@ Defender</text>
         </card>
         <card>
             <name>Snake</name>
-            <set picURL="http://magiccards.info/extras/token/zendikar/snake.jpg" picURLHq="" picURLSt="">ZEN</set>
+            <set picURL="http://magiccards.info/extras/token/zendikar/snake.jpg">ZEN</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Snake</type>
@@ -2124,7 +2124,7 @@ Defender</text>
         </card>
         <card>
             <name>Snake </name>
-            <set picURL="http://s8.postimg.org/7m3omr8ph/POISON_SNAKE.jpg" picURLHq="" picURLSt="">MED</set>
+            <set picURL="http://s8.postimg.org/7m3omr8ph/POISON_SNAKE.jpg">MED</set>
             <manacost></manacost>
             <type>Artifact Creature — Snake</type>
             <pt>1/1</pt>
@@ -2134,7 +2134,7 @@ Defender</text>
         </card>
         <card>
             <name>Snake  </name>
-            <set picURL="" picURLHq="" picURLSt="">DIS</set>
+            <set>DIS</set>
             <color>G</color>
             <color>U</color>
             <manacost></manacost>
@@ -2146,7 +2146,7 @@ Defender</text>
         </card>
         <card>
             <name>Snake   </name>
-            <set picURL="http://magiccards.info/extras/token/journey-into-nyx/snake.jpg" picURLHq="" picURLSt="">JOU</set>
+            <set picURL="http://magiccards.info/extras/token/journey-into-nyx/snake.jpg">JOU</set>
             <color>G</color>
             <color>B</color>
             <manacost></manacost>
@@ -2158,7 +2158,7 @@ Defender</text>
         </card>
         <card>
             <name>Snake    </name>
-            <set picURL="" picURLHq="" picURLSt="">C13</set>
+            <set>C13</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Snake</type>
@@ -2169,19 +2169,19 @@ Defender</text>
         </card>
         <card>
             <name>Soldier</name>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0002_MTGM15_TOK_EN%20copy.png" picURLHq="" picURLSt="">M15</set>
-            <set picURL="http://magiccards.info/extras/token/theros/soldier-1.jpg" picURLHq="" picURLSt="">THS</set>
-            <set picURL="http://magiccards.info/extras/token/theros/soldier-2.jpg" picURLHq="" picURLSt="">THS</set>
-            <set picURL="http://magiccards.info/extras/token/modern-masters/soldier.jpg" picURLHq="" picURLSt="">MMA</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2012/soldier.jpg" picURLHq="" picURLSt="">M12</set>
-            <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/soldier.jpg" picURLHq="" picURLSt="">SOM</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2013/soldier.jpg" picURLHq="" picURLSt="">M13</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2010/soldier.jpg" picURLHq="" picURLSt="">M10</set>
-            <set picURL="http://magiccards.info/extras/token/shards-of-alara/soldier.jpg" picURLHq="" picURLSt="">ALA</set>
-            <set picURL="http://magiccards.info/extras/token/duel-decks-elspeth-vs-tezzeret/soldier.jpg" picURLHq="" picURLSt="">DDF</set>
-            <set picURL="http://magiccards.info/extras/token/tenth-edition/soldier.jpg" picURLHq="" picURLSt="">10E</set>
-            <set picURL="http://magiccards.info/extras/token/return-to-ravnica/soldier.jpg" picURLHq="" picURLSt="">RTR</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2002/soldier.jpg" picURLHq="" picURLSt="">ONS</set>
+            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0002_MTGM15_TOK_EN%20copy.png">M15</set>
+            <set picURL="http://magiccards.info/extras/token/theros/soldier-1.jpg">THS</set>
+            <set picURL="http://magiccards.info/extras/token/theros/soldier-2.jpg">THS</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters/soldier.jpg">MMA</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2012/soldier.jpg">M12</set>
+            <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/soldier.jpg">SOM</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2013/soldier.jpg">M13</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2010/soldier.jpg">M10</set>
+            <set picURL="http://magiccards.info/extras/token/shards-of-alara/soldier.jpg">ALA</set>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-elspeth-vs-tezzeret/soldier.jpg">DDF</set>
+            <set picURL="http://magiccards.info/extras/token/tenth-edition/soldier.jpg">10E</set>
+            <set picURL="http://magiccards.info/extras/token/return-to-ravnica/soldier.jpg">RTR</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2002/soldier.jpg">ONS</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Soldier</type>
@@ -2192,8 +2192,8 @@ Defender</text>
         </card>
         <card>
             <name>Soldier </name>
-            <set picURL="http://magiccards.info/extras/token/gatecrash/soldier.jpg" picURLHq="" picURLSt="">GTC</set>
-            <set picURL="http://magiccards.info/extras/token/league/soldier.jpg" picURLHq="" picURLSt="">LGE</set>
+            <set picURL="http://magiccards.info/extras/token/gatecrash/soldier.jpg">GTC</set>
+            <set picURL="http://magiccards.info/extras/token/league/soldier.jpg">LGE</set>
             <color>R</color>
             <color>W</color>
             <manacost></manacost>
@@ -2205,7 +2205,7 @@ Defender</text>
         </card>
         <card>
             <name>Soldier  </name>
-            <set picURL="" picURLHq="" picURLSt="">TK</set>
+            <set>TK</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Soldier</type>
@@ -2216,7 +2216,7 @@ Defender</text>
         </card>
         <card>
             <name>Soldier   </name>
-            <set picURL="" picURLHq="" picURLSt="">TK</set>
+            <set>TK</set>
             <color>R</color>
             <color>W</color>
             <manacost></manacost>
@@ -2228,7 +2228,7 @@ Defender</text>
         </card>
         <card>
             <name>Soldier    </name>
-            <set picURL="http://magiccards.info/extras/token/theros/soldier-3.jpg" picURLHq="" picURLSt="">THS</set>
+            <set picURL="http://magiccards.info/extras/token/theros/soldier-3.jpg">THS</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Soldier</type>
@@ -2239,7 +2239,7 @@ Defender</text>
         </card>
         <card>
             <name>Soldier     </name>
-            <set picURL="http://magiccards.info/extras/token/born-of-the-gods/soldier.jpg" picURLHq="" picURLSt="">BNG</set>
+            <set picURL="http://magiccards.info/extras/token/born-of-the-gods/soldier.jpg">BNG</set>
             <color>W</color>
             <manacost></manacost>
             <type>Enchantment Creature — Soldier</type>
@@ -2250,7 +2250,7 @@ Defender</text>
         </card>
         <card>
             <name>Soldier Ally</name>
-            <set picURL="http://magiccards.info/extras/token/worldwake/soldier-ally.jpg" picURLHq="" picURLSt="">WWK</set>
+            <set picURL="http://magiccards.info/extras/token/worldwake/soldier-ally.jpg">WWK</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Soldier Ally</type>
@@ -2276,7 +2276,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spawn</name>
-            <set picURL="" picURLHq="" picURLSt="">DST</set>
+            <set>DST</set>
             <manacost></manacost>
             <type>Artifact Creature — Spawn</type>
             <pt>2/2</pt>
@@ -2286,7 +2286,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Sphinx</name>
-            <set picURL="http://magiccards.info/extras/token/journey-into-nyx/sphinx.jpg" picURLHq="" picURLSt="">JOU</set>
+            <set picURL="http://magiccards.info/extras/token/journey-into-nyx/sphinx.jpg">JOU</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Sphinx</type>
@@ -2297,8 +2297,8 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spider</name>
-            <set picURL="http://magiccards.info/extras/token/innistrad/spider.jpg" picURLHq="" picURLSt="">ISD</set>
-            <set picURL="http://magiccards.info/extras/token/shadowmoor/spider.jpg" picURLHq="" picURLSt="">SHM</set>
+            <set picURL="http://magiccards.info/extras/token/innistrad/spider.jpg">ISD</set>
+            <set picURL="http://magiccards.info/extras/token/shadowmoor/spider.jpg">SHM</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Spider</type>
@@ -2309,7 +2309,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spider </name>
-            <set picURL="http://magiccards.info/extras/token/modern-masters/spider.jpg" picURLHq="" picURLSt="">MMA</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters/spider.jpg">MMA</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Spider</type>
@@ -2320,7 +2320,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spider  </name>
-            <set picURL="http://magiccards.info/extras/token/journey-into-nyx/spider.jpg" picURLHq="" picURLSt="">JOU</set>
+            <set picURL="http://magiccards.info/extras/token/journey-into-nyx/spider.jpg">JOU</set>
             <color>G</color>
             <manacost></manacost>
             <type>Enchantment Creature — Spider</type>
@@ -2331,7 +2331,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spike</name>
-            <set picURL="" picURLHq="" picURLSt="">STH</set>
+            <set>STH</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Spike</type>
@@ -2342,14 +2342,14 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spirit</name>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0003_MTGM15_TOK_EN%20copy.png" picURLHq="" picURLSt="">M15</set>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_spirit.jpg" picURLHq="" picURLSt="">CNS</set>
-            <set picURL="http://magiccards.info/extras/token/avacyn-restored/spirit-1.jpg" picURLHq="" picURLSt="">AVR</set>
-            <set picURL="http://magiccards.info/extras/token/innistrad/spirit.jpg" picURLHq="" picURLSt="">ISD</set>
-            <set picURL="http://magiccards.info/extras/token/duel-decks-divine-vs-demonic/spirit.jpg" picURLHq="" picURLSt="">DDC</set>
-            <set picURL="http://magiccards.info/extras/token/shadowmoor/spirit.jpg" picURLHq="" picURLSt="">SHM</set>
-            <set picURL="http://magiccards.info/extras/token/duel-decks-sorin-vs-tibalt/spirit.jpg" picURLHq="" picURLSt="">DDK</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2001/spirit.jpg" picURLHq="" picURLSt="">PLS</set>
+            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0003_MTGM15_TOK_EN%20copy.png">M15</set>
+            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_spirit.jpg">CNS</set>
+            <set picURL="http://magiccards.info/extras/token/avacyn-restored/spirit-1.jpg">AVR</set>
+            <set picURL="http://magiccards.info/extras/token/innistrad/spirit.jpg">ISD</set>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-divine-vs-demonic/spirit.jpg">DDC</set>
+            <set picURL="http://magiccards.info/extras/token/shadowmoor/spirit.jpg">SHM</set>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-sorin-vs-tibalt/spirit.jpg">DDK</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2001/spirit.jpg">PLS</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Spirit</type>
@@ -2360,7 +2360,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spirit </name>
-            <set picURL="http://magiccards.info/extras/token/avacyn-restored/spirit-2.jpg" picURLHq="" picURLSt="">AVR</set>
+            <set picURL="http://magiccards.info/extras/token/avacyn-restored/spirit-2.jpg">AVR</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Spirit</type>
@@ -2371,8 +2371,8 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spirit  </name>
-            <set picURL="http://magiccards.info/extras/token/eventide/spirit.jpg" picURLHq="" picURLSt="">EVE</set>
-            <set picURL="http://magiccards.info/extras/token/gatecrash/spirit.jpg" picURLHq="" picURLSt="">GTC</set>
+            <set picURL="http://magiccards.info/extras/token/eventide/spirit.jpg">EVE</set>
+            <set picURL="http://magiccards.info/extras/token/gatecrash/spirit.jpg">GTC</set>
             <color>W</color>
             <color>B</color>
             <manacost></manacost>
@@ -2384,7 +2384,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spirit   </name>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2004/spirit.jpg" picURLHq="" picURLSt="">CHK</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2004/spirit.jpg">CHK</set>
             <manacost></manacost>
             <type>Creature — Spirit</type>
             <pt>1/1</pt>
@@ -2394,7 +2394,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spirit    </name>
-            <set picURL="http://s8.postimg.org/qxkmzlwid/SPIRIT.jpg" picURLHq="" picURLSt="">ME2</set>
+            <set picURL="http://s8.postimg.org/qxkmzlwid/SPIRIT.jpg">ME2</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Spirit</type>
@@ -2405,7 +2405,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spirit     </name>
-            <set picURL="" picURLHq="" picURLSt="">BOK</set>
+            <set>BOK</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Spirit</type>
@@ -2416,7 +2416,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Splinter </name>
-            <set picURL="http://s8.postimg.org/86nb36rbp/SPLINTER.jpg" picURLHq="" picURLSt="">ALL</set>
+            <set picURL="http://s8.postimg.org/86nb36rbp/SPLINTER.jpg">ALL</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Splinter</type>
@@ -2427,7 +2427,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Squid</name>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0004_MTGM15_TOK_EN%20copy.png" picURLHq="" picURLSt="">M15</set>
+            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0004_MTGM15_TOK_EN%20copy.png">M15</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Squid</type>
@@ -2438,8 +2438,8 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Squirrel</name>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_squirrel.jpg" picURLHq="" picURLSt="">CNS</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2002/squirrel.jpg" picURLHq="" picURLSt="">ODY</set>
+            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_squirrel.jpg">CNS</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2002/squirrel.jpg">ODY</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Squirrel</type>
@@ -2450,7 +2450,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Squirrel </name>
-            <set picURL="http://img.photobucket.com/albums/v202/zcorpion/mtg/Squirrel_token.jpg" picURLHq="" picURLSt="">TK</set>
+            <set picURL="http://img.photobucket.com/albums/v202/zcorpion/mtg/Squirrel_token.jpg">TK</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Squirrel</type>
@@ -2461,7 +2461,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Stangg Twin</name>
-            <set picURL="" picURLHq="" picURLSt="">ME3</set>
+            <set>ME3</set>
             <color>R</color>
             <color>G</color>
             <manacost></manacost>
@@ -2473,7 +2473,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Starfish</name>
-            <set picURL="" picURLHq="" picURLSt="">ME3</set>
+            <set>ME3</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Starfish</type>
@@ -2484,7 +2484,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Survivor</name>
-            <set picURL="" picURLHq="" picURLSt="">MED</set>
+            <set>MED</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Survivor</type>
@@ -2495,7 +2495,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Tetravite</name>
-            <set picURL="http://s8.postimg.org/xt9gwggd1/TETRAVITE.jpg" picURLHq="" picURLSt="">ME4</set>
+            <set picURL="http://s8.postimg.org/xt9gwggd1/TETRAVITE.jpg">ME4</set>
             <manacost></manacost>
             <type>Artifact Creature — Tetravite</type>
             <pt>1/1</pt>
@@ -2506,7 +2506,7 @@ This creature can't be enchanted.</text>
         </card>
         <card>
             <name>Thopter</name>
-            <set picURL="http://magiccards.info/extras/token/mirrodin-besieged/thopter.jpg" picURLHq="" picURLSt="">MBS</set>
+            <set picURL="http://magiccards.info/extras/token/mirrodin-besieged/thopter.jpg">MBS</set>
             <manacost></manacost>
             <type>Artifact Creature — Thopter</type>
             <pt>1/1</pt>
@@ -2516,7 +2516,7 @@ This creature can't be enchanted.</text>
         </card>
         <card>
             <name>Thopter </name>
-            <set picURL="http://magiccards.info/extras/token/shards-of-alara/thopter.jpg" picURLHq="" picURLSt="">ALA</set>
+            <set picURL="http://magiccards.info/extras/token/shards-of-alara/thopter.jpg">ALA</set>
             <color>U</color>
             <manacost></manacost>
             <type>Artifact Creature — Thopter</type>
@@ -2527,7 +2527,7 @@ This creature can't be enchanted.</text>
         </card>
         <card>
             <name>Thrull</name>
-            <set picURL="http://magiccards.info/extras/token/duel-decks-divine-vs-demonic/thrull.jpg" picURLHq="" picURLSt="">DDC</set>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-divine-vs-demonic/thrull.jpg">DDC</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Thrull</type>
@@ -2538,7 +2538,7 @@ This creature can't be enchanted.</text>
         </card>
         <card>
             <name>Thrull </name>
-            <set picURL="http://s8.postimg.org/9e18vehg5/THRULL.jpg" picURLHq="" picURLSt="">TSP</set>
+            <set picURL="http://s8.postimg.org/9e18vehg5/THRULL.jpg">TSP</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Thrull</type>
@@ -2549,8 +2549,8 @@ This creature can't be enchanted.</text>
         </card>
         <card>
             <name>Treeolk Shaman</name>
-            <set picURL="http://magiccards.info/extras/token/morningtide/treefolk-shaman.jpg" picURLHq="" picURLSt="">MOR</set>
-            <set picURL="http://magiccards.info/extras/token/modern-masters/treefolk-shaman.jpg" picURLHq="" picURLSt="">MMA</set>
+            <set picURL="http://magiccards.info/extras/token/morningtide/treefolk-shaman.jpg">MOR</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters/treefolk-shaman.jpg">MMA</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Treeolk Shaman</type>
@@ -2561,7 +2561,7 @@ This creature can't be enchanted.</text>
         </card>
         <card>
             <name>Tombspawn</name>
-            <set picURL="http://s8.postimg.org/6g8vffz6d/ZOMBIE.jpg" picURLHq="" picURLSt="">MIR</set>
+            <set picURL="http://s8.postimg.org/6g8vffz6d/ZOMBIE.jpg">MIR</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Zombie</type>
@@ -2573,8 +2573,8 @@ Haste</text>
         </card>
         <card>
             <name>Treefolk Shaman</name>
-            <set picURL="http://magiccards.info/extras/token/modern-masters/treefolk-shaman.jpg" picURLHq="" picURLSt="">MMA</set>
-            <set picURL="http://magiccards.info/extras/token/morningtide/treefolk-shaman.jpg" picURLHq="" picURLSt="">MOR</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters/treefolk-shaman.jpg">MMA</set>
+            <set picURL="http://magiccards.info/extras/token/morningtide/treefolk-shaman.jpg">MOR</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Treefolk Shaman</type>
@@ -2585,7 +2585,7 @@ Haste</text>
         </card>
         <card>
             <name>Treefolk Warrior</name>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0011_MTGM15_TOK_EN%20copy.png" picURLHq="" picURLSt="">M15</set>
+            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0011_MTGM15_TOK_EN%20copy.png">M15</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Treefolk Warrior</type>
@@ -2596,7 +2596,7 @@ Haste</text>
         </card>
         <card>
             <name>Triskelavite</name>
-            <set picURL="http://s8.postimg.org/dofwqzmj9/TRISKELAVITE.jpg" picURLHq="" picURLSt="">CMD</set>
+            <set picURL="http://s8.postimg.org/dofwqzmj9/TRISKELAVITE.jpg">CMD</set>
             <manacost></manacost>
             <type>Artifact Creature — Triskelavite</type>
             <pt>1/1</pt>
@@ -2607,7 +2607,7 @@ Sac: Triskelavite deals 1 damage to target creature or player.</text>
         </card>
         <card>
             <name>Tuktuk The Returned</name>
-            <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/tuktuk-the-returned.jpg" picURLHq="" picURLSt="">ROE</set>
+            <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/tuktuk-the-returned.jpg">ROE</set>
             <manacost></manacost>
             <type>Legendary Artifact Creature — Goblin Golem</type>
             <pt>5/5</pt>
@@ -2617,7 +2617,7 @@ Sac: Triskelavite deals 1 damage to target creature or player.</text>
         </card>
         <card>
             <name>Twin</name>
-            <set picURL="" picURLHq="" picURLSt="">DST</set>
+            <set>DST</set>
             <manacost></manacost>
             <type>Artifact Creature — Construct</type>
             <pt>*/*</pt>
@@ -2628,7 +2628,7 @@ Sac: Triskelavite deals 1 damage to target creature or player.</text>
         </card>
         <card>
             <name>Urami</name>
-            <set picURL="" picURLHq="" picURLSt="">SOK</set>
+            <set>SOK</set>
             <color>B</color>
             <manacost></manacost>
             <type>Legendary Creature — Demon Spirit</type>
@@ -2640,7 +2640,7 @@ Flying</text>
         </card>
         <card>
             <name>Vampire</name>
-            <set picURL="http://magiccards.info/extras/token/innistrad/vampire.jpg" picURLHq="" picURLSt="">ISD</set>
+            <set picURL="http://magiccards.info/extras/token/innistrad/vampire.jpg">ISD</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Vampire</type>
@@ -2651,7 +2651,7 @@ Flying</text>
         </card>
         <card>
             <name>Vampire </name>
-            <set picURL="http://magiccards.info/extras/token/dark-ascension/vampire.jpg" picURLHq="" picURLSt="">DKA</set>
+            <set picURL="http://magiccards.info/extras/token/dark-ascension/vampire.jpg">DKA</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Vampire</type>
@@ -2662,7 +2662,7 @@ Flying</text>
         </card>
         <card>
             <name>Vampire  </name>
-            <set picURL="http://magiccards.info/extras/token/zendikar/vampire.jpg" picURLHq="" picURLSt="">ZEN</set>
+            <set picURL="http://magiccards.info/extras/token/zendikar/vampire.jpg">ZEN</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Vampire</type>
@@ -2673,7 +2673,7 @@ Flying</text>
         </card>
         <card>
             <name>Voja</name>
-            <set picURL="" picURLHq="" picURLSt="">RAV</set>
+            <set>RAV</set>
             <color>G</color>
             <color>W</color>
             <manacost></manacost>
@@ -2685,7 +2685,7 @@ Flying</text>
         </card>
         <card>
             <name>Wall</name>
-            <set picURL="" picURLHq="" picURLSt="">MIR</set>
+            <set>MIR</set>
             <manacost></manacost>
             <type>Artifact Creature — Wall</type>
             <pt>0/2</pt>
@@ -2695,7 +2695,7 @@ Flying</text>
         </card>
         <card>
             <name>Wall </name>
-            <set picURL="" picURLHq="" picURLSt="">MIR</set>
+            <set>MIR</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Wall</type>
@@ -2706,7 +2706,7 @@ Flying</text>
         </card>
         <card>
             <name>Wasp</name>
-            <set picURL="http://magiccards.info/extras/token/tenth-edition/wasp.jpg" picURLHq="" picURLSt="">10E</set>
+            <set picURL="http://magiccards.info/extras/token/tenth-edition/wasp.jpg">10E</set>
             <manacost></manacost>
             <type>Artifact Creature — Insect</type>
             <pt>1/1</pt>
@@ -2716,7 +2716,7 @@ Flying</text>
         </card>
         <card>
             <name>Warrior</name>
-            <set picURL="" picURLHq="" picURLSt="">SOK</set>
+            <set>SOK</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Warrior</type>
@@ -2727,7 +2727,7 @@ Flying</text>
         </card>
         <card>
             <name>Wave</name>
-            <set picURL="http://s8.postimg.org/5lhqfo1xx/WAVE.jpg" picURLHq="" picURLSt="">MIR</set>
+            <set picURL="http://s8.postimg.org/5lhqfo1xx/WAVE.jpg">MIR</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Wave</type>
@@ -2738,7 +2738,7 @@ Flying</text>
         </card>
         <card>
             <name>Weird</name>
-            <set picURL="" picURLHq="" picURLSt="">DDJ</set>
+            <set>DDJ</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Weird</type>
@@ -2749,7 +2749,7 @@ Flying</text>
         </card>
         <card>
             <name>Wirefly</name>
-            <set picURL="" picURLHq="" picURLSt="">DST</set>
+            <set>DST</set>
             <manacost></manacost>
             <type>Artifact Creature — Insect</type>
             <pt>2/2</pt>
@@ -2760,16 +2760,16 @@ Flying</text>
         </card>
         <card>
             <name>Wolf</name>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_wolf.jpg" picURLHq="" picURLSt="">CNS</set>
-            <set picURL="http://magiccards.info/extras/token/born-of-the-gods/wolf.jpg" picURLHq="" picURLSt="">BNG</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2014/wolf.jpg" picURLHq="" picURLSt="">M14</set>
-            <set picURL="http://magiccards.info/extras/token/friday-night-magic/wolf.jpg" picURLHq="" picURLSt="">FNM</set>
-            <set picURL="http://magiccards.info/extras/token/innistrad/wolf-2.jpg" picURLHq="" picURLSt="">ISD</set>
-            <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/wolf.jpg" picURLHq="" picURLSt="">SOM</set>
-            <set picURL="http://magiccards.info/extras/token/zendikar/wolf.jpg" picURLHq="" picURLSt="">ZEN</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2010/wolf.jpg" picURLHq="" picURLSt="">M10</set>
-            <set picURL="http://magiccards.info/extras/token/shadowmoor/wolf.jpg" picURLHq="" picURLSt="">SHM</set>
-            <set picURL="http://magiccards.info/extras/token/lorwyn/wolf.jpg" picURLHq="" picURLSt="">LRW</set>
+            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_wolf.jpg">CNS</set>
+            <set picURL="http://magiccards.info/extras/token/born-of-the-gods/wolf.jpg">BNG</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2014/wolf.jpg">M14</set>
+            <set picURL="http://magiccards.info/extras/token/friday-night-magic/wolf.jpg">FNM</set>
+            <set picURL="http://magiccards.info/extras/token/innistrad/wolf-2.jpg">ISD</set>
+            <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/wolf.jpg">SOM</set>
+            <set picURL="http://magiccards.info/extras/token/zendikar/wolf.jpg">ZEN</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2010/wolf.jpg">M10</set>
+            <set picURL="http://magiccards.info/extras/token/shadowmoor/wolf.jpg">SHM</set>
+            <set picURL="http://magiccards.info/extras/token/lorwyn/wolf.jpg">LRW</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Wolf</type>
@@ -2780,7 +2780,7 @@ Flying</text>
         </card>
         <card>
             <name>Wolf </name>
-            <set picURL="http://magiccards.info/extras/token/innistrad/wolf-1.jpg" picURLHq="" picURLSt="">ISD</set>
+            <set picURL="http://magiccards.info/extras/token/innistrad/wolf-1.jpg">ISD</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Wolf</type>
@@ -2791,7 +2791,7 @@ Flying</text>
         </card>
         <card>
             <name>Wolf  </name>
-            <set picURL="http://i167.photobucket.com/albums/u148/Ruja/Magic%20Tokens/Coldsnap/4.jpg" picURLHq="" picURLSt="">CSP</set>
+            <set picURL="http://i167.photobucket.com/albums/u148/Ruja/Magic%20Tokens/Coldsnap/4.jpg">CSP</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Wolf</type>
@@ -2802,7 +2802,7 @@ Flying</text>
         </card>
         <card>
             <name>Wolves of the Hunt</name>
-            <set picURL="http://s8.postimg.org/f8l8pduxh/WOLVES_OF_THE_HUNT.jpg" picURLHq="" picURLSt="">M10</set>
+            <set picURL="http://s8.postimg.org/f8l8pduxh/WOLVES_OF_THE_HUNT.jpg">M10</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Wolves of the Hunt</type>
@@ -2813,7 +2813,7 @@ Flying</text>
         </card>
         <card><!-- Created by and can be sacrificed to Jungle Patrol. -->
             <name>Wood</name>
-            <set picURL="http://oi43.tinypic.com/2z6s4ly.jpg" picURLHq="" picURLSt="">MIR</set>
+            <set picURL="http://oi43.tinypic.com/2z6s4ly.jpg">MIR</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Wall</type>
@@ -2824,8 +2824,8 @@ Flying</text>
         </card>
         <card>
             <name>Worm</name>
-            <set picURL="http://magiccards.info/extras/token/modern-masters/worm.jpg" picURLHq="" picURLSt="">MMA</set>
-            <set picURL="http://magiccards.info/extras/token/eventide/worm.jpg" picURLHq="" picURLSt="">EVE</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters/worm.jpg">MMA</set>
+            <set picURL="http://magiccards.info/extras/token/eventide/worm.jpg">EVE</set>
             <color>B</color>
             <color>G</color>
             <manacost></manacost>
@@ -2837,8 +2837,8 @@ Flying</text>
         </card>
         <card>
             <name>Wurm</name>
-            <set picURL="http://magiccards.info/extras/token/magic-2012/wurm.jpg" picURLHq="" picURLSt="">M12</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2013/wurm.jpg" picURLHq="" picURLSt="">M13</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2012/wurm.jpg">M12</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2013/wurm.jpg">M13</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Wurm</type>
@@ -2849,7 +2849,7 @@ Flying</text>
         </card>
         <card>
             <name>Wurm </name>
-            <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/wurm-2.jpg" picURLHq="" picURLSt="">SOM</set>
+            <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/wurm-2.jpg">SOM</set>
             <manacost></manacost>
             <type>Artifact Creature — Wurm</type>
             <pt>3/3</pt>
@@ -2859,7 +2859,7 @@ Flying</text>
         </card>
         <card>
             <name>Wurm  </name>
-            <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/wurm-1.jpg" picURLHq="" picURLSt="">SOM</set>
+            <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/wurm-1.jpg">SOM</set>
             <manacost></manacost>
             <type>Artifact Creature — Wurm</type>
             <pt>3/3</pt>
@@ -2869,7 +2869,7 @@ Flying</text>
         </card>
         <card>
             <name>Wurm   </name>
-            <set picURL="" picURLHq="" picURLSt="">APC</set>
+            <set>APC</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Wurm</type>
@@ -2880,7 +2880,7 @@ Flying</text>
         </card>
         <card>
             <name>Wurm    </name>
-            <set picURL="http://magiccards.info/extras/token/return-to-ravnica/wurm.jpg" picURLHq="" picURLSt="">RTR</set>
+            <set picURL="http://magiccards.info/extras/token/return-to-ravnica/wurm.jpg">RTR</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Wurm</type>
@@ -2891,7 +2891,7 @@ Flying</text>
         </card>
         <card>
             <name>Wurm     </name>
-            <set picURL="" picURLHq="" picURLSt="">FUT</set>
+            <set>FUT</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Wurm</type>
@@ -2902,20 +2902,20 @@ Flying</text>
         </card>
         <card>
             <name>Zombie</name>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0006_MTGM15_TOK_EN%20copy.png" picURLHq="" picURLSt="">M15</set>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_zombie.jpg" picURLHq="" picURLSt="">CNS</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2014/zombie.jpg" picURLHq="" picURLSt="">M14</set>
-            <set picURL="http://magiccards.info/extras/token/modern-masters/zombie.jpg" picURLHq="" picURLSt="">MMA</set>
-            <set picURL="http://magiccards.info/extras/token/avacyn-restored/zombie.jpg" picURLHq="" picURLSt="">AVR</set>
-            <set picURL="http://magiccards.info/extras/token/innistrad/zombie-2.jpg" picURLHq="" picURLSt="">ISD</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2012/zombie.jpg" picURLHq="" picURLSt="">M12</set>
-            <set picURL="http://magiccards.info/extras/token/mirrodin-besieged/zombie.jpg" picURLHq="" picURLSt="">MBS</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2011/zombie.jpg" picURLHq="" picURLSt="">M11</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2013/zombie.jpg" picURLHq="" picURLSt="">M13</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2010/zombie.jpg" picURLHq="" picURLSt="">M10</set>
-            <set picURL="http://magiccards.info/extras/token/shards-of-alara/zombie.jpg" picURLHq="" picURLSt="">ALA</set>
-            <set picURL="http://magiccards.info/extras/token/tenth-edition/zombie.jpg" picURLHq="" picURLSt="">10E</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2002/zombie.jpg" picURLHq="" picURLSt="">ODY</set>
+            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0006_MTGM15_TOK_EN%20copy.png">M15</set>
+            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_zombie.jpg">CNS</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2014/zombie.jpg">M14</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters/zombie.jpg">MMA</set>
+            <set picURL="http://magiccards.info/extras/token/avacyn-restored/zombie.jpg">AVR</set>
+            <set picURL="http://magiccards.info/extras/token/innistrad/zombie-2.jpg">ISD</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2012/zombie.jpg">M12</set>
+            <set picURL="http://magiccards.info/extras/token/mirrodin-besieged/zombie.jpg">MBS</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2011/zombie.jpg">M11</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2013/zombie.jpg">M13</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2010/zombie.jpg">M10</set>
+            <set picURL="http://magiccards.info/extras/token/shards-of-alara/zombie.jpg">ALA</set>
+            <set picURL="http://magiccards.info/extras/token/tenth-edition/zombie.jpg">10E</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2002/zombie.jpg">ODY</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Zombie</type>
@@ -2926,7 +2926,7 @@ Flying</text>
         </card>
         <card>
             <name>Zombie </name>
-            <set picURL="http://magiccards.info/extras/token/born-of-the-gods/zombie.jpg" picURLHq="" picURLSt="">BNG</set>
+            <set picURL="http://magiccards.info/extras/token/born-of-the-gods/zombie.jpg">BNG</set>
             <color>B</color>
             <manacost></manacost>
             <type>Enchantment Creature — Zombie</type>
@@ -2937,7 +2937,7 @@ Flying</text>
         </card>
         <card>
             <name>Zombie  </name>
-            <set picURL="http://magiccards.info/extras/token/journey-into-nyx/zombie.jpg" picURLHq="" picURLSt="">JOU</set>
+            <set picURL="http://magiccards.info/extras/token/journey-into-nyx/zombie.jpg">JOU</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Zombie</type>
@@ -2948,7 +2948,7 @@ Flying</text>
         </card>
         <card>
             <name>Zombie Giant</name>
-            <set picURL="http://magiccards.info/extras/token/zendikar/zombie-giant.jpg" picURLHq="" picURLSt="">ZEN</set>
+            <set picURL="http://magiccards.info/extras/token/zendikar/zombie-giant.jpg">ZEN</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Zombie Giant</type>
@@ -2959,7 +2959,7 @@ Flying</text>
         </card>
         <card>
             <name>Zombie Wizard</name>
-            <set picURL="http://magiccards.info/extras/token/alara-reborn/zombie-wizard.jpg" picURLHq="" picURLSt="">ARB</set>
+            <set picURL="http://magiccards.info/extras/token/alara-reborn/zombie-wizard.jpg">ARB</set>
             <color>U</color>
             <color>B</color>
             <manacost></manacost>
@@ -2971,7 +2971,7 @@ Flying</text>
         </card>
         <card>
             <name>Gold</name>
-            <set picURL="http://magiccards.info/extras/token/born-of-the-gods/gold.jpg" picURLHq="" picURLSt="">BNG</set>
+            <set picURL="http://magiccards.info/extras/token/born-of-the-gods/gold.jpg">BNG</set>
             <manacost></manacost>
             <type>Artifact</type>
             <tablerow>1</tablerow>
@@ -2980,7 +2980,7 @@ Flying</text>
         </card>
         <card>
             <name>Ajani Emblem</name>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0013_MTGM15_TOK_EN%20copy.png" picURLHq="" picURLSt="">M15</set>
+            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0013_MTGM15_TOK_EN%20copy.png">M15</set>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
@@ -2989,7 +2989,7 @@ Flying</text>
         </card>
         <card>
             <name>Dack Emblem</name>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_dackemblem.jpg" picURLHq="" picURLSt="">CNS</set>
+            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_dackemblem.jpg">CNS</set>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
@@ -2998,7 +2998,7 @@ Flying</text>
         </card>
         <card>
             <name>Domri Emblem</name>
-            <set picURL="http://magiccards.info/extras/token/gatecrash/emblem-domri-rade.jpg" picURLHq="" picURLSt="">GTC</set>
+            <set picURL="http://magiccards.info/extras/token/gatecrash/emblem-domri-rade.jpg">GTC</set>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
@@ -3007,7 +3007,7 @@ Flying</text>
         </card>
         <card>
             <name>Elspeth Emblem</name>
-            <set picURL="http://magiccards.info/extras/token/modern-masters/emblem-elspeth-knight-errant.jpg" picURLHq="" picURLSt="">MMA</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters/emblem-elspeth-knight-errant.jpg">MMA</set>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
@@ -3016,7 +3016,7 @@ Flying</text>
         </card>
         <card>
             <name>Elspeth Emblem </name>
-            <set picURL="http://magiccards.info/extras/token/theros/elspeth-suns-champion-emblem.jpg" picURLHq="" picURLSt="">THS</set>
+            <set picURL="http://magiccards.info/extras/token/theros/elspeth-suns-champion-emblem.jpg">THS</set>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
@@ -3025,7 +3025,7 @@ Flying</text>
         </card>
         <card>
             <name>Garruk Emblem</name>
-            <set picURL="http://magiccards.info/extras/token/magic-2014/emblem-garruk-caller-of-beasts.jpg" picURLHq="" picURLSt="">M14</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2014/emblem-garruk-caller-of-beasts.jpg">M14</set>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
@@ -3034,7 +3034,7 @@ Flying</text>
         </card>
         <card>
             <name>Garruk Emblem </name>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0014_MTGM15_TOK_EN%20copy.png" picURLHq="" picURLSt="">M15</set>
+            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0014_MTGM15_TOK_EN%20copy.png">M15</set>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
@@ -3043,7 +3043,7 @@ Flying</text>
         </card>
         <card>
             <name>Kiora Emblem</name>
-            <set picURL="http://magiccards.info/extras/token/born-of-the-gods/emblem-kiora-the-crashing-wave.jpg" picURLHq="" picURLSt="">BNG</set>
+            <set picURL="http://magiccards.info/extras/token/born-of-the-gods/emblem-kiora-the-crashing-wave.jpg">BNG</set>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
@@ -3052,7 +3052,7 @@ Flying</text>
         </card>
         <card>
             <name>Koth Emblem</name>
-            <set picURL="http://magiccards.info/extras/token/duel-decks-venser-vs-koth/emblem-koth-of-the-hammer.jpg" picURLHq="" picURLSt="">DDI</set>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-venser-vs-koth/emblem-koth-of-the-hammer.jpg">DDI</set>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
@@ -3061,8 +3061,8 @@ Flying</text>
         </card>
         <card>
             <name>Liliana Emblem</name>
-            <set picURL="http://magiccards.info/extras/token/magic-2014/emblem-liliana-of-the-dark-realms.jpg" picURLHq="" picURLSt="">M14</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2013/liliana-of-the-dark-realms-emblem.jpg" picURLHq="" picURLSt="">M13</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2014/emblem-liliana-of-the-dark-realms.jpg">M14</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2013/liliana-of-the-dark-realms-emblem.jpg">M13</set>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
@@ -3071,7 +3071,7 @@ Flying</text>
         </card>
         <card>
             <name>Sorin Emblem</name>
-            <set picURL="http://magiccards.info/extras/token/dark-ascension/emblem.jpg" picURLHq="" picURLSt="">DKA</set>
+            <set picURL="http://magiccards.info/extras/token/dark-ascension/emblem.jpg">DKA</set>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
@@ -3080,7 +3080,7 @@ Flying</text>
         </card>
         <card>
             <name>Tamiyo Emblem</name>
-            <set picURL="http://magiccards.info/extras/token/avacyn-restored/emblem-tamiyo-the-moon-sage.jpg" picURLHq="" picURLSt="">AVR</set>
+            <set picURL="http://magiccards.info/extras/token/avacyn-restored/emblem-tamiyo-the-moon-sage.jpg">AVR</set>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
@@ -3090,7 +3090,7 @@ Flying</text>
         </card>
         <card>
             <name>Venser Emblem</name>
-            <set picURL="http://magiccards.info/extras/token/duel-decks-venser-vs-koth/emblem-venser-the-sojourner.jpg" picURLHq="" picURLSt="">DDI</set>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-venser-vs-koth/emblem-venser-the-sojourner.jpg">DDI</set>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
@@ -3099,7 +3099,7 @@ Flying</text>
         </card>
         <card>
             <name>Poison Counter</name>
-            <set picURL="http://magiccards.info/extras/token/new-phyrexia/poison-counter.jpg" picURLHq="" picURLSt="">NPH</set>
+            <set picURL="http://magiccards.info/extras/token/new-phyrexia/poison-counter.jpg">NPH</set>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
