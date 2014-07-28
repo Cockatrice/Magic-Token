@@ -331,7 +331,7 @@
         </card>
         <card>
             <name>Boar</name>
-            <set>PC2</set>
+            <set picURL="http://media-dominaria.cursecdn.com/attachments/102/31/635032498723573408.jpg">PC2</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Boar</type>
@@ -2132,7 +2132,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Snake    </name>
-            <set>C13</set>
+            <set picURL="http://media-dominaria.cursecdn.com/attachments/113/426/635201279747658553.jpg">C13</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Snake</type>
