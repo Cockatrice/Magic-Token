@@ -21,7 +21,7 @@
         </card>
         <card>
             <name>Angel </name>
-            <set>APC</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/b/bb/Angel3.jpg">APC</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Angel</type>
@@ -43,7 +43,7 @@
         </card>
         <card>
             <name>Ape</name>
-            <set>PLC</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/d/db/Ape.jpg">PLC</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Angel</type>
@@ -110,7 +110,7 @@
         </card>
         <card>
             <name>Bat </name>
-            <set>TSP</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/2/20/Bat.jpg">TSP</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Bat</type>
@@ -157,7 +157,7 @@
             <name>Beast </name>
             <set picURL="http://magiccards.info/extras/token/zendikar/beast.jpg">ZEN</set>
             <set picURL="http://magiccards.info/extras/token/duel-decks-garruk-vs-liliana/beast-2.jpg">DDD</set>
-            <set picURL="magiccards.info/extras/token/player-rewards-2001/beast.jpg">ODY</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2001/beast.jpg">ODY</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Beast</type>
@@ -181,7 +181,7 @@
         </card>
         <card>
             <name>Beast   </name>
-            <set>EXO</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/c/cd/Beast5.jpg">EXO</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Beast</type>
@@ -192,7 +192,7 @@
         </card>
         <card>
             <name>Beast    </name>
-            <set>MRD</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/a/a6/Beast4.jpg">MRD</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Beast</type>
@@ -225,7 +225,7 @@
         </card>
         <card>
             <name>Bird</name>
-            <set>DIS</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/3/37/Bird2.jpg">DIS</set>
             <color>W</color>
             <color>U</color>
             <manacost></manacost>
@@ -320,15 +320,13 @@
         </card>
         <card>
             <name>Butterfly</name>
-            <set>MMQ</set>
-            <set>VIS</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/7/77/Butterfly.jpg">VIS</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Insect</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>(Insect)
-Flying</text>
+            <text>Flying</text>
             <token>1</token>
         </card>
         <card>
@@ -355,7 +353,7 @@ Flying</text>
         </card>
         <card>
             <name>Camarid</name>
-            <set picURL="http://s8.postimg.org/gam8gfyz9/HOMARID.jpg">FEM</set>
+            <set picURL="http://i1013.photobucket.com/albums/af260/lovesoldier99/CAMARIDTOKEN.jpg">FEM</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Camarid</type>
@@ -366,7 +364,7 @@ Flying</text>
         </card>
         <card>
             <name>Caribou</name>
-            <set>ME2</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/f/fd/Caribou.jpg">ME2</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Caribou</type>
@@ -377,13 +375,13 @@ Flying</text>
         </card>
         <card>
             <name>Carnivore</name>
-            <set>TMP</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/8/8f/Carnivore.jpg">TMP</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Beast</type>
             <pt>3/1</pt>
             <tablerow>2</tablerow>
-            <text>(Beast)</text>
+            <text></text>
             <token>1</token>
         </card>
         <card>
@@ -401,7 +399,7 @@ Flying</text>
         </card>
         <card>
             <name>Cat </name>
-            <set>APC</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/0/08/Cat2.jpg">APC</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Cat</type>
@@ -412,7 +410,7 @@ Flying</text>
         </card>
         <card>
             <name>Cat  </name>
-            <set>6ED</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/d/d1/Cat.jpg">6ED</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Cat</type>
@@ -434,8 +432,7 @@ Flying</text>
         </card>
         <card>
             <name>Cat Warrior</name>
-            <set>PLC</set>
-            <set>LGE</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/2/2d/Cat_Warrior.jpg">PLC</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Cat Warrior</type>
@@ -458,7 +455,7 @@ Flying</text>
         </card>
         <card>
             <name>Centaur </name>
-            <set>RAV</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/c/c5/Centaur.jpg">RAV</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Centaur</type>
@@ -480,7 +477,7 @@ Flying</text>
         </card>
         <card>
             <name>Citizen</name>
-            <set>6ED</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/1/15/Citizen.jpg">6ED</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Citizen</type>
@@ -514,8 +511,7 @@ Flying</text>
         </card>
         <card><!-- Created by Cloudseeder -->
             <name>Cloud Sprite (token)</name>
-            <set muId="19563">MMQ</set>
-            <set muId="132069">10E</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/a/a7/Cloud_Sprite.jpg">FUT</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Faerie</type>
@@ -574,7 +570,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Deserter</name>
-            <set>ME2</set>
+            <set picURL="http://i1013.photobucket.com/albums/af260/lovesoldier99/DESERTERTOKEN.jpg">ME2</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Deserter</type>
@@ -585,13 +581,12 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Djinn</name>
-            <set>ME4</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/0/0a/Djinn.jpg">ME4</set>
             <manacost></manacost>
             <type>Artifact Creature — Djinn</type>
             <pt>5/5</pt>
             <tablerow>2</tablerow>
-            <text>(Artifact)
-            Flying</text>
+            <text>Flying</text>
             <token>1</token>
         </card>
         <card>
@@ -731,7 +726,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental </name>
-            <set>TK</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/2/21/Elemental6.jpg">SOK</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Elemental</type>
@@ -786,7 +781,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental      </name>
-            <set>DST</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/0/0a/Elemental8.jpg">DST</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Elemental</type>
@@ -809,7 +804,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental        </name>
-            <set>CHK</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/3/38/Elemental4.jpg">CHK</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Elemental</type>
@@ -842,7 +837,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental           </name>
-            <set>DST</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/8/89/Elemental7.jpg">DST</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Elemental</type>
@@ -923,7 +918,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental Cat</name>
-            <set>JUD</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/4/42/Elemental_Cat.jpg">JUD</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Elemental Cat</type>
@@ -986,7 +981,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Faerie</name>
-            <set>RAV</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/e/e8/Faerie.jpg">RAV</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Faerie</type>
@@ -1021,13 +1016,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card><!-- Created by Skirk Ridge Exhumer -->
             <name>Festering Goblin (token)</name>
-            <set muId="220489">ARC</set>
-            <set muId="370358">MMA</set>
-            <set muId="83157">9ED</set>
-            <set muId="39905">ONS</set>
-            <set muId="205267">HOP</set>
-            <set muId="129546">10E</set>
-            <set>FUT</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/2/24/Festering_Goblin.jpg">FUT</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Zombie Goblin</type>
@@ -1070,7 +1059,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Giant</name>
-            <set>FUT</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/4/4c/Giant.jpg">FUT</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Giant</type>
@@ -1105,7 +1094,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Gnome</name>
-            <set>USG</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/1/12/Gnome.jpg">USG</set>
             <manacost></manacost>
             <type>Artifact Creature — Gnome</type>
             <pt>1/1</pt>
@@ -1161,7 +1150,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Goblin  </name>
-            <set>DIS</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/8/80/Goblin4.jpg">DIS</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Goblin</type>
@@ -1184,7 +1173,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Goblin Scout</name>
-            <set>MIR</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/b/bd/Goblin_Scout.jpg">MIR</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Goblin Scout</type>
@@ -1375,7 +1364,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Horror  </name>
-            <set>RAV</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/e/e6/Horror2.jpg">RAV</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Horror</type>
@@ -1489,7 +1478,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Insect   </name>
-            <set>PLC</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/2/23/Insect4.jpg">PLC</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Insect</type>
@@ -1500,38 +1489,13 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Insect    </name>
-            <set>MIR</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/d/df/Insect3.jpg">MIR</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Insect</type>
             <pt>0/1</pt>
             <tablerow>2</tablerow>
             <text></text>
-            <token>1</token>
-        </card>
-        <card><!-- Created by Llanowar Mentor -->
-            <name>Llanowar Elves (token)</name>
-            <set muId="14668">6ED</set>
-            <set muId="158112">EVG</set>
-            <set muId="3996">5ED</set>
-            <set muId="2228">4ED</set>
-            <set muId="166">LEA</set>
-            <set muId="461">LEB</set>
-            <set muId="189878">M10</set>
-            <set muId="205228">M11</set>
-            <set muId="221892">M12</set>
-            <set muId="83515">9ED</set>
-            <set muId="1260">3ED</set>
-            <set muId="11386">7ED</set>
-            <set muId="25508">S00</set>
-            <set muId="129626">10E</set>
-            <set muId="763">2ED</set>
-            <color>G</color>
-            <manacost></manacost>
-            <type>Creature — Elf Druid</type>
-            <pt>1/1</pt>
-            <tablerow>2</tablerow>
-            <text>{T}: Add {G} to your mana pool.</text>
             <token>1</token>
         </card>
         <card>
@@ -1546,7 +1510,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Kavu</name>
-            <set>APC</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/4/42/Kavu.jpg">APC</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Kavu</type>
@@ -1557,14 +1521,13 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Kelp</name>
-            <set>ME2</set>
+            <set picURL="http://img295.imageshack.us/img295/4162/kelpfullmy7.jpg">ME2</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Plant Wall</type>
             <pt>0/1</pt>
             <tablerow>2</tablerow>
-            <text>(Plant, Wall)
-Defender</text>
+            <text>Defender</text>
             <token>1</token>
         </card>
         <card>
@@ -1594,7 +1557,7 @@ Defender</text>
         </card>
         <card>
             <name>Knight </name>
-            <set>RAV</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/3/33/Knight1.jpg">RAV</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Knight</type>
@@ -1627,7 +1590,7 @@ Defender</text>
         </card>
         <card>
             <name>Knight    </name>
-            <set>PLC</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/c/c3/Knight5.jpg">PLC</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Knight</type>
@@ -1639,7 +1602,7 @@ Defender</text>
         <card><!-- Created by Kher Keep
         Prossh, Skyraider of Kher -->
             <name>Kobolds of Kher Keep (token)</name>
-            <set muId="1583">LEG</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/c/ca/Kobolds_of_Kher_Keep.jpg">TSP</set>
             <manacost></manacost>
             <type>Creature — Kobold</type>
             <pt>0/1</pt>
@@ -1687,6 +1650,17 @@ Defender</text>
             <pt>2/2</pt>
             <tablerow>2</tablerow>
             <text></text>
+            <token>1</token>
+        </card>
+        <card><!-- Created by Llanowar Mentor -->
+            <name>Llanowar Elves (token)</name>
+            <set picURL="http://cdn.staticneo.com/w/mtg/7/71/Llanowar_Elves.jpg">FUT</set>
+            <color>G</color>
+            <manacost></manacost>
+            <type>Creature — Elf Druid</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>{T}: Add {G} to your mana pool.</text>
             <token>1</token>
         </card>
         <card>
@@ -1768,7 +1742,7 @@ Defender</text>
         </card>
         <card>
             <name>Minor Demon</name>
-            <set>ME3</set>
+            <set picURL="http://i1013.photobucket.com/albums/af260/lovesoldier99/MINORDEMONTOKEN.jpg">ME3</set>
             <color>B</color>
             <color>R</color>
             <manacost></manacost>
@@ -1883,7 +1857,7 @@ Defender</text>
         </card>
         <card>
             <name>Pegasus</name>
-            <set>GPT</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/d/dc/Pegasus2.jpg">GPT</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Pegasus</type>
@@ -1905,7 +1879,7 @@ Defender</text>
         </card>
         <card>
             <name>Pest</name>
-            <set>HOP</set>
+            <set picURL="http://i1013.photobucket.com/albums/af260/lovesoldier99/PESTTOKEN.jpg">MRD</set>
             <manacost></manacost>
             <type>Artifact Creature — Pest</type>
             <pt>0/1</pt>
@@ -1915,7 +1889,7 @@ Defender</text>
         </card>
         <card>
             <name>Pincher</name>
-            <set>FEM</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/8/88/Pincher.jpg">5DN</set>
             <manacost></manacost>
             <type>Creature — Pincher</type>
             <pt>2/2</pt>
@@ -1936,7 +1910,7 @@ Defender</text>
         </card>
         <card>
             <name>Prism</name>
-            <set>VIS</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/f/fb/Prism.jpg">VIS</set>
             <manacost></manacost>
             <type>Artifact Creature — Prism</type>
             <pt>0/1</pt>
@@ -1958,7 +1932,7 @@ Defender</text>
         </card>
         <card>
             <name>Reflection</name>
-            <set>INV</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/e/e2/Reflection1.jpg">INV</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Reflection</type>
@@ -1969,7 +1943,7 @@ Defender</text>
         </card>
         <card>
             <name>Reflection </name>
-            <set>TMP</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/2/27/Reflection2.jpg">TMP</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Reflection</type>
@@ -1991,7 +1965,7 @@ Defender</text>
         </card>
         <card>
             <name>Sand</name>
-            <set>GPT</set>
+            <set picURL="http://i1013.photobucket.com/albums/af260/lovesoldier99/SANDTOKEN.jpg">GPT</set>
             <manacost></manacost>
             <type>Creature — Sand</type>
             <pt>1/1</pt>
@@ -2001,7 +1975,7 @@ Defender</text>
         </card>
         <card>
             <name>Sand Warrior</name>
-            <set>ME3</set>
+            <set picURL="http://i1013.photobucket.com/albums/af260/lovesoldier99/SANDWARRIORTOKEN.jpg">ME3</set>
             <color>R</color>
             <color>G</color>
             <color>W</color>
@@ -2057,7 +2031,7 @@ Defender</text>
         </card>
         <card>
             <name>Serf</name>
-            <set>TSB</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/7/75/Serf.jpg">TSB</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Serf</type>
@@ -2078,7 +2052,7 @@ Defender</text>
         </card>
         <card>
             <name>Sheep</name>
-            <set>TSB</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/5/57/Sheep1.jpg">TSB</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Sheep</type>
@@ -2134,14 +2108,14 @@ Defender</text>
         </card>
         <card>
             <name>Snake  </name>
-            <set>DIS</set>
+            <set picURL="http://i1013.photobucket.com/albums/af260/lovesoldier99/Snake2.png">DIS</set>
             <color>G</color>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Snake</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>(G/U)</text>
+            <text></text>
             <token>1</token>
         </card>
         <card>
@@ -2153,7 +2127,7 @@ Defender</text>
             <type>Enchantment Creature — Snake</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>(G/B) Deathtouch</text>
+            <text>Deathtouch</text>
             <token>1</token>
         </card>
         <card>
@@ -2200,30 +2174,7 @@ Defender</text>
             <type>Creature — Soldier</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>Haste (R/W)</text>
-            <token>1</token>
-        </card>
-        <card>
-            <name>Soldier  </name>
-            <set>TK</set>
-            <color>W</color>
-            <manacost></manacost>
-            <type>Creature — Soldier</type>
-            <pt>1/1</pt>
-            <tablerow>2</tablerow>
-            <text></text>
-            <token>1</token>
-        </card>
-        <card>
-            <name>Soldier   </name>
-            <set>TK</set>
-            <color>R</color>
-            <color>W</color>
-            <manacost></manacost>
-            <type>Creature — Soldier</type>
-            <pt>1/1</pt>
-            <tablerow>2</tablerow>
-            <text>Haste (R/W)</text>
+            <text>Haste</text>
             <token>1</token>
         </card>
         <card>
@@ -2276,7 +2227,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spawn</name>
-            <set>DST</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/d/d3/Spawn.jpg">DST</set>
             <manacost></manacost>
             <type>Artifact Creature — Spawn</type>
             <pt>2/2</pt>
@@ -2331,7 +2282,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spike</name>
-            <set>STH</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/7/7c/Spike.jpg">STH</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Spike</type>
@@ -2405,7 +2356,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spirit     </name>
-            <set>BOK</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/6/6a/Spirit3.jpg">BOK</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Spirit</type>
@@ -2461,19 +2412,19 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Stangg Twin</name>
-            <set>ME3</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/0/04/Stangg_Twin.jpg">ME3</set>
             <color>R</color>
             <color>G</color>
             <manacost></manacost>
             <type>Legendary Creature — Human Warrior</type>
             <pt>3/4</pt>
             <tablerow>2</tablerow>
-            <text>(Legendary, Human, Warrior)</text>
+            <text></text>
             <token>1</token>
         </card>
         <card>
             <name>Starfish</name>
-            <set>ME3</set>
+            <set picURL="http://i1013.photobucket.com/albums/af260/lovesoldier99/STARFISHTOKEN.jpg">ME3</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Starfish</type>
@@ -2484,7 +2435,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Survivor</name>
-            <set>MED</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/1/14/Survivor.jpg">MED</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Survivor</type>
@@ -2617,25 +2568,23 @@ Sac: Triskelavite deals 1 damage to target creature or player.</text>
         </card>
         <card>
             <name>Twin</name>
-            <set>DST</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/7/78/Twin.jpg">DST</set>
             <manacost></manacost>
             <type>Artifact Creature — Construct</type>
             <pt>*/*</pt>
             <tablerow>2</tablerow>
-            <text>(Artifact, Construct)
-            Sacrifice at end of combat.</text>
+            <text></text>
             <token>1</token>
         </card>
         <card>
             <name>Urami</name>
-            <set>SOK</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/f/f1/Urami.jpg">SOK</set>
             <color>B</color>
             <manacost></manacost>
             <type>Legendary Creature — Demon Spirit</type>
             <pt>5/5</pt>
             <tablerow>2</tablerow>
-            <text>(Legendary Demon Spirit)
-Flying</text>
+            <text>Flying</text>
             <token>1</token>
         </card>
         <card>
@@ -2673,19 +2622,19 @@ Flying</text>
         </card>
         <card>
             <name>Voja</name>
-            <set>RAV</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/9/91/Voja.jpg">RAV</set>
             <color>G</color>
             <color>W</color>
             <manacost></manacost>
             <type>Legendary Creature — Wolf</type>
             <pt>2/2</pt>
             <tablerow>2</tablerow>
-            <text>(G/W)</text>
+            <text></text>
             <token>1</token>
         </card>
         <card>
             <name>Wall</name>
-            <set>MIR</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/3/36/Wall2.jpg">MIR</set>
             <manacost></manacost>
             <type>Artifact Creature — Wall</type>
             <pt>0/2</pt>
@@ -2695,7 +2644,7 @@ Flying</text>
         </card>
         <card>
             <name>Wall </name>
-            <set>MIR</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/6/67/Wall.jpg">MIR</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Wall</type>
@@ -2716,7 +2665,7 @@ Flying</text>
         </card>
         <card>
             <name>Warrior</name>
-            <set>SOK</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/9/95/Warrior.jpg">SOK</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Warrior</type>
@@ -2738,7 +2687,7 @@ Flying</text>
         </card>
         <card>
             <name>Weird</name>
-            <set>DDJ</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/a/ae/Weird.jpg">GPT</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Weird</type>
@@ -2749,13 +2698,12 @@ Flying</text>
         </card>
         <card>
             <name>Wirefly</name>
-            <set>DST</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/f/f5/Wirefly.jpg">DST</set>
             <manacost></manacost>
             <type>Artifact Creature — Insect</type>
             <pt>2/2</pt>
             <tablerow>2</tablerow>
-            <text>(Insect)
-Flying</text>
+            <text>Flying</text>
             <token>1</token>
         </card>
         <card>
@@ -2869,7 +2817,7 @@ Flying</text>
         </card>
         <card>
             <name>Wurm   </name>
-            <set>APC</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/d/d9/Wurm3.jpg">APC</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Wurm</type>
@@ -2891,7 +2839,7 @@ Flying</text>
         </card>
         <card>
             <name>Wurm     </name>
-            <set>FUT</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/7/7e/Wurm2.jpg">FUT</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Wurm</type>
