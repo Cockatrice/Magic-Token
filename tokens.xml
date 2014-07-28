@@ -517,7 +517,7 @@ Flying</text>
             <set muId="19563">MMQ</set>
             <set muId="132069">10E</set>
             <color>U</color>
-            <manacost>U</manacost>
+            <manacost></manacost>
             <type>Creature — Faerie</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
@@ -1223,7 +1223,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <set muId="222708">DDF</set>
             <set muId="139397">LRW</set>
             <color>W</color>
-            <manacost>W</manacost>
+            <manacost></manacost>
             <type>Creature — Kithkin Soldier</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
@@ -1527,7 +1527,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <set muId="129626">10E</set>
             <set muId="763">2ED</set>
             <color>G</color>
-            <manacost>G</manacost>
+            <manacost></manacost>
             <type>Creature — Elf Druid</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
@@ -1640,7 +1640,7 @@ Defender</text>
         Prossh, Skyraider of Kher -->
             <name>Kobolds of Kher Keep (token)</name>
             <set muId="1583">LEG</set>
-            <manacost>0</manacost>
+            <manacost></manacost>
             <type>Creature — Kobold</type>
             <pt>0/1</pt>
             <tablerow>2</tablerow>
