@@ -176,7 +176,7 @@
             <type>Creature — Beast</type>
             <pt>8/8</pt>
             <tablerow>2</tablerow>
-            <text>(R/G/W)</text>
+            <text></text>
             <token>1</token>
         </card>
         <card>
@@ -232,7 +232,7 @@
             <type>Creature — Bird</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>Flying (W/U)</text>
+            <text>Flying</text>
             <token>1</token>
         </card>
         <card>
@@ -353,7 +353,7 @@
         </card>
         <card>
             <name>Camarid</name>
-            <set picURL="http://i1013.photobucket.com/albums/af260/lovesoldier99/CAMARIDTOKEN.jpg">FEM</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/b/b8/Camarid.jpg">FEM</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Camarid</type>
@@ -495,7 +495,7 @@
             <type>Creature — Cleric</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>3WBB, T, Sac: Res Deathpact Angel. (W/B)</text>
+            <text>{3}{W}{B}{B}, {T}, Sacrifice this creature: Return a card named Deathpact Angel from your graveyard to the battlefield.</text>
             <token>1</token>
         </card>
         <card>
@@ -623,7 +623,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <type>Creature — Dragon</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>Flying, devour 2 (R/G)</text>
+            <text>Flying, devour 2</text>
             <token>1</token>
         </card>
         <card>
@@ -646,7 +646,8 @@ Cloud Sprite can block only creatures with flying.</text>
             <type>Creature — Dragon</type>
             <pt>2/2</pt>
             <tablerow>2</tablerow>
-            <text>Flying, R: This creature gets +1/+0 until end of turn.</text>
+            <text>Flying
+{R}: This creature gets +1/+0 until end of turn.</text>
             <token>1</token>
         </card>
         <card>
@@ -690,7 +691,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <type>Creature — Eldrazi Spawn</type>
             <pt>0/1</pt>
             <tablerow>2</tablerow>
-            <text>Sac:Add(1)</text>
+            <text>Sacrifice this creature: Add {1} to your mana pool.</text>
             <token>1</token>
         </card>
         <card>
@@ -700,7 +701,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <type>Creature — Eldrazi Spawn</type>
             <pt>0/1</pt>
             <tablerow>2</tablerow>
-            <text>Sac:Add(1)</text>
+            <text>Sacrifice this creature: Add {1} to your mana pool.</text>
             <token>1</token>
         </card>
         <card>
@@ -710,7 +711,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <type>Creature — Eldrazi Spawn</type>
             <pt>0/1</pt>
             <tablerow>2</tablerow>
-            <text>Sac:Add(1)</text>
+            <text>Sacrifice this creature: Add {1} to your mana pool.</text>
             <token>1</token>
         </card>
         <card>
@@ -855,7 +856,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <type>Creature — Elemental</type>
             <pt>5/5</pt>
             <tablerow>2</tablerow>
-            <text>(B/R)</text>
+            <text></text>
             <token>1</token>
         </card>
         <card>
@@ -879,7 +880,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <type>Creature — Elemental</type>
             <pt>8/8</pt>
             <tablerow>2</tablerow>
-            <text>Vigilance (G/W)</text>
+            <text>Vigilance</text>
             <token>1</token>
         </card>
         <card>
@@ -891,7 +892,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <type>Creature — Elemental</type>
             <pt>*/*</pt>
             <tablerow>2</tablerow>
-            <text>P/T = Creatures controlled (G/W)</text>
+            <text>This creature's power and toughness are each equal to the number of creatures you control.</text>
             <token>1</token>
         </card>
         <card>
@@ -976,7 +977,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <type>Creature — Elf Warrior</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>(G/W)</text>
+            <text></text>
             <token>1</token>
         </card>
         <card>
@@ -1011,7 +1012,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <type>Creature — Faerie Rogue</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>Flying (U/B)</text>
+            <text>Flying</text>
             <token>1</token>
         </card>
         <card><!-- Created by Skirk Ridge Exhumer -->
@@ -1089,7 +1090,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <type>Creature — Giant Warrior</type>
             <pt>4/4</pt>
             <tablerow>2</tablerow>
-            <text>Haste (R/G)</text>
+            <text>Haste</text>
             <token>1</token>
         </card>
         <card>
@@ -1192,7 +1193,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <type>Creature — Goblin Soldier</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>(R/W)</text>
+            <text></text>
             <token>1</token>
         </card>
         <card>
@@ -1204,13 +1205,12 @@ Cloud Sprite can block only creatures with flying.</text>
             <type>Creature — Goblin Warrior</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>(R/G)</text>
+            <text></text>
             <token>1</token>
         </card>
         <card><!-- Created by Goldmeadow Lookout -->
             <name>Goldmeadow Harrier (token)</name>
-            <set muId="222708">DDF</set>
-            <set muId="139397">LRW</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/0/0c/Goldmeadow_Harrier.jpg">FUT</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Kithkin Soldier</type>
@@ -1259,7 +1259,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <type>Creature — Graveborn</type>
             <pt>3/1</pt>
             <tablerow>2</tablerow>
-            <text>Haste (B/R)</text>
+            <text>Haste</text>
             <token>1</token>
         </card>
         <card>
@@ -1327,7 +1327,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <type>Artifact Creature — Homunculus</type>
             <pt>0/1</pt>
             <tablerow>2</tablerow>
-            <text>(U/A)</text>
+            <text></text>
             <token>1</token>
         </card>
         <card>
@@ -1359,7 +1359,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <type>Creature — Horror</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>Flying (U/B)</text>
+            <text>Flying</text>
             <token>1</token>
         </card>
         <card>
@@ -1563,7 +1563,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <type>Creature — Knight</type>
             <pt>2/2</pt>
             <tablerow>2</tablerow>
-            <text>First Strike</text>
+            <text>First strike</text>
             <token>1</token>
         </card>
         <card>
@@ -1638,7 +1638,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <manacost></manacost>
             <type>Artifact</type>
             <tablerow>1</tablerow>
-            <text>R, Sacrifice this artifact: This artifact deals 2 damage to target attacking creature without flying.</text>
+            <text>{R}, Sacrifice this artifact: This artifact deals 2 damage to target attacking creature without flying.</text>
             <token>1</token>
         </card>
         <card>
@@ -1709,8 +1709,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card><!-- Created by Sliversmith -->
             <name>Metallic Sliver (token)</name>
-            <set muId="208040">H09</set>
-            <set muId="4617">TMP</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/b/bf/Metallic_Sliver.jpg">FUT</set>
             <manacost></manacost>
             <type>Artifact Creature — Sliver</type>
             <pt>1/1</pt>
@@ -1749,8 +1748,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <type>Creature — Demon</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>(Demon)
-            (B/R)</text>
+            <text></text>
             <token>1</token>
         </card>
         <card>
@@ -2008,7 +2006,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Saproling </name>
-            <set picURL="http://s8.postimg.org/v45hexw45/SAPROLING.jpg">NMS</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/7/76/Saproling3.jpg">NMS</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Saproling</type>
@@ -2026,7 +2024,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <type>Creature — Satyr</type>
             <pt>2/2</pt>
             <tablerow>2</tablerow>
-            <text>(R/G)</text>
+            <text></text>
             <token>1</token>
         </card>
         <card>
@@ -2069,7 +2067,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <type>Creature — Skeleton</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>B: Regen</text>
+            <text>{B}: Regenerate this creature.</text>
             <token>1</token>
         </card>
         <card>
@@ -2098,7 +2096,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Snake </name>
-            <set picURL="http://s8.postimg.org/7m3omr8ph/POISON_SNAKE.jpg">MED</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/0/01/Snake3.jpg">MED</set>
             <manacost></manacost>
             <type>Artifact Creature — Snake</type>
             <pt>1/1</pt>
@@ -2212,9 +2210,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card><!-- Created by Sparkspitter -->
             <name>Spark Elemental (token)</name>
-            <set muId="73579">5DN</set>
-            <set muId="234700">PD2</set>
-            <set muId="129577">10E</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/a/ae/Spark_Elemental.jpg">FUT</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Elemental</type>
@@ -2330,7 +2326,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <type>Creature — Spirit</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>Flying (W/B)</text>
+            <text>Flying</text>
             <token>1</token>
         </card>
         <card>
@@ -2367,13 +2363,14 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Splinter </name>
-            <set picURL="http://s8.postimg.org/86nb36rbp/SPLINTER.jpg">ALL</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/f/f6/Splinter.jpg">ALL</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Splinter</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>Flying, cumulative upkeep {G}, When this creature leaves the battlefield, it deals 1 damage to you and each creature you control.</text>
+            <text>Flying
+Cumulative upkeep {G}</text>
             <token>1</token>
         </card>
         <card>
@@ -2446,7 +2443,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Tetravite</name>
-            <set picURL="http://s8.postimg.org/xt9gwggd1/TETRAVITE.jpg">ME4</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/e/e6/Tetravite.jpg">ATQ</set>
             <manacost></manacost>
             <type>Artifact Creature — Tetravite</type>
             <pt>1/1</pt>
@@ -2512,14 +2509,13 @@ This creature can't be enchanted.</text>
         </card>
         <card>
             <name>Tombspawn</name>
-            <set picURL="http://s8.postimg.org/6g8vffz6d/ZOMBIE.jpg">MIR</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/5/5c/Tombspawn.jpg">MIR</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Zombie</type>
             <pt>2/2</pt>
             <tablerow>2</tablerow>
-            <text>(Zombie)
-Haste</text>
+            <text>Haste</text>
             <token>1</token>
         </card>
         <card>
@@ -2547,13 +2543,13 @@ Haste</text>
         </card>
         <card>
             <name>Triskelavite</name>
-            <set picURL="http://s8.postimg.org/dofwqzmj9/TRISKELAVITE.jpg">CMD</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/a/a7/Triskelavite.jpg">TSP</set>
             <manacost></manacost>
             <type>Artifact Creature — Triskelavite</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
             <text>Flying
-Sac: Triskelavite deals 1 damage to target creature or player.</text>
+Sacrifice this creature: This creature deals 1 damage to target creature or player.</text>
             <token>1</token>
         </card>
         <card>
@@ -2780,7 +2776,7 @@ Sac: Triskelavite deals 1 damage to target creature or player.</text>
             <type>Creature — Worm</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>(B/G)</text>
+            <text></text>
             <token>1</token>
         </card>
         <card>
@@ -2914,7 +2910,7 @@ Sac: Triskelavite deals 1 damage to target creature or player.</text>
             <type>Creature — Zombie Wizard</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>(U/B)</text>
+            <text></text>
             <token>1</token>
         </card>
         <card>
@@ -2923,7 +2919,7 @@ Sac: Triskelavite deals 1 damage to target creature or player.</text>
             <manacost></manacost>
             <type>Artifact</type>
             <tablerow>1</tablerow>
-            <text>Sac: Add one mana of any color to your mana pool.</text>
+            <text>Sacrifice this artifact: Add one mana of any color to your mana pool.</text>
             <token>1</token>
         </card>
         <card>
