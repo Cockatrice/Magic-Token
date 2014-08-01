@@ -54,7 +54,7 @@
         </card>
         <card>
             <name>Ape </name>
-            <set picURL="http://s8.postimg.org/fq2m00gd1/APE.jpg">MMQ</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/9/97/Ape1.jpg">MMQ</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Ape</type>
@@ -76,7 +76,7 @@
         </card>
         <card>
             <name>Assembly-Worker </name>
-            <set picURL="http://s8.postimg.org/55sohfbv9/ASSEMBLY_WORKER.jpg">TSP</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/d/dd/Assembly-Worker.jpg">TSP</set>
             <manacost></manacost>
             <type>Artifact Creature — Assembly-Worker</type>
             <pt>2/2</pt>
@@ -319,17 +319,6 @@
             <token>1</token>
         </card>
         <card>
-            <name>Butterfly</name>
-            <set picURL="http://cdn.staticneo.com/w/mtg/7/77/Butterfly.jpg">VIS</set>
-            <color>G</color>
-            <manacost></manacost>
-            <type>Creature — Insect</type>
-            <pt>1/1</pt>
-            <tablerow>2</tablerow>
-            <text>Flying</text>
-            <token>1</token>
-        </card>
-        <card>
             <name>Boar</name>
             <set picURL="http://media-dominaria.cursecdn.com/attachments/102/31/635032498723573408.jpg">PC2</set>
             <color>G</color>
@@ -349,6 +338,17 @@
             <pt>2/2</pt>
             <tablerow>2</tablerow>
             <text></text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Butterfly</name>
+            <set picURL="http://cdn.staticneo.com/w/mtg/7/77/Butterfly.jpg">VIS</set>
+            <color>G</color>
+            <manacost></manacost>
+            <type>Creature — Insect</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
             <token>1</token>
         </card>
         <card>
@@ -1139,17 +1139,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <token>1</token>
         </card>
         <card>
-            <name>Goblin </name>
-            <set picURL="http://s8.postimg.org/ljh9ebhed/GOBLIN.jpg">ALA</set>
-            <color>R</color>
-            <manacost></manacost>
-            <type>Creature — Goblin</type>
-            <pt>1/1</pt>
-            <tablerow>2</tablerow>
-            <text>Haste</text>
-            <token>1</token>
-        </card>
-        <card>
             <name>Goblin  </name>
             <set picURL="http://cdn.staticneo.com/w/mtg/8/80/Goblin4.jpg">DIS</set>
             <color>R</color>
@@ -1375,7 +1364,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Hound</name>
-            <set picURL="http://img.photobucket.com/albums/v18/qtinator/Hound.jpg">TMP</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/c/cd/Hound.jpg">TMP</set>
             <color>G</color>
             <manacost></manacost>
             <type>Creature — Hound</type>
@@ -1696,17 +1685,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <text></text>
             <token>1</token>
         </card>
-        <card>
-            <name>Merfolk Wizard </name>
-            <set picURL="http://seinvocc.com/forum/download/file.php?id=1487">TK</set>
-            <color>U</color>
-            <manacost></manacost>
-            <type>Creature — Merfolk Wizard</type>
-            <pt>1/1</pt>
-            <tablerow>2</tablerow>
-            <text></text>
-            <token>1</token>
-        </card>
         <card><!-- Created by Sliversmith -->
             <name>Metallic Sliver (token)</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/b/bf/Metallic_Sliver.jpg">FUT</set>
@@ -1741,7 +1719,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Minor Demon</name>
-            <set picURL="http://i1013.photobucket.com/albums/af260/lovesoldier99/MINORDEMONTOKEN.jpg">ME3</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/c/c7/Minor_Demon.jpg">ME3</set>
             <color>B</color>
             <color>R</color>
             <manacost></manacost>
@@ -1844,7 +1822,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Orb</name>
-            <set picURL="http://img.photobucket.com/albums/v18/qtinator/BlueOrb.jpg">ALL</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/4/44/Orb.jpg">ALL</set>
             <color>U</color>
             <manacost></manacost>
             <type>Creature — Orb</type>
@@ -1963,7 +1941,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Sand</name>
-            <set picURL="http://i1013.photobucket.com/albums/af260/lovesoldier99/SANDTOKEN.jpg">GPT</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/3/33/Sand1.jpg">GPT</set>
             <manacost></manacost>
             <type>Creature — Sand</type>
             <pt>1/1</pt>
@@ -2486,23 +2464,11 @@ This creature can't be enchanted.</text>
         </card>
         <card>
             <name>Thrull </name>
-            <set picURL="http://s8.postimg.org/9e18vehg5/THRULL.jpg">TSP</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/e/e3/Thrull.jpg">TSP</set>
             <color>B</color>
             <manacost></manacost>
             <type>Creature — Thrull</type>
             <pt>1/1</pt>
-            <tablerow>2</tablerow>
-            <text></text>
-            <token>1</token>
-        </card>
-        <card>
-            <name>Treeolk Shaman</name>
-            <set picURL="http://magiccards.info/extras/token/morningtide/treefolk-shaman.jpg">MOR</set>
-            <set picURL="http://magiccards.info/extras/token/modern-masters/treefolk-shaman.jpg">MMA</set>
-            <color>G</color>
-            <manacost></manacost>
-            <type>Creature — Treeolk Shaman</type>
-            <pt>2/5</pt>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
