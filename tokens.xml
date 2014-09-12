@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_carddatabase version="3">
     <cards>
+        <!-- 
+        <card>
+            <name></name>
+            <set picURL=""></set>
+            <color></color>
+            <manacost></manacost>
+            <type>Creature — </type>
+            <pt>/</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+         -->
         <card>
             <name>Angel</name>
             <set picURL="http://magiccards.info/extras/token/avacyn-restored-the-helvault-experience/angel.jpg">ARH</set>
@@ -127,6 +140,17 @@
             <manacost></manacost>
             <type>Creature — Bear</type>
             <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Bear </name>
+            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_1xtd9y36pp.png">KTK</set>
+            <color>G</color>
+            <manacost></manacost>
+            <type>Creature — Bear</type>
+            <pt>4/4</pt>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
@@ -306,7 +330,17 @@
             <text>Flying</text>
             <token>1</token>
         </card>
-        
+        <card>
+            <name>Bird       </name>
+            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_e5l3l6c42r.png">KTK</set>
+            <color>W</color>
+            <manacost></manacost>
+            <type>Creature — Bird</type>
+            <pt>3/4</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+        </card>
         <card>
             <name>Bird Soldier</name>
             <set picURL="http://magiccards.info/extras/token/alara-reborn/bird-soldier.jpg">ARB</set>
@@ -520,7 +554,7 @@
             <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
 
 Cloud Sprite can block only creatures with flying.</text>
-			<token>1</token>
+            <token>1</token>
         </card>
         <card>
             <name>Construct</name>
@@ -1118,6 +1152,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Goblin</name>
+            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_yf0eai89rz.png">KTK</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0008_MTGM15_TOK_EN%20copy.png">M15</set>
             <set picURL="http://magiccards.info/extras/token/modern-masters/goblin.jpg">MMA</set>
             <set picURL="http://magiccards.info/extras/token/new-phyrexia/goblin.jpg">NPH</set>
@@ -1741,6 +1776,16 @@ Cloud Sprite can block only creatures with flying.</text>
             <token>1</token>
         </card>
         <card>
+            <name>Morph</name>
+            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_pu8esg2v7s.png">KTK</set>
+            <manacost></manacost>
+            <type>Creature</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Myr</name>
             <set picURL="http://magiccards.info/extras/token/new-phyrexia/myr.jpg">NPH</set>
             <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/myr.jpg">SOM</set>
@@ -2063,6 +2108,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Snake</name>
+            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_mv6rtsahnm.png">KTK</set>
             <set picURL="http://magiccards.info/extras/token/zendikar/snake.jpg">ZEN</set>
             <color>G</color>
             <manacost></manacost>
@@ -2197,7 +2243,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <text>Trample, haste (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker. This creature can attack and {T} as soon as it comes under your control.)
 
 At the beginning of the end step, sacrifice Spark Elemental.</text>
-			<token>1</token>
+            <token>1</token>
         </card>
         <card>
             <name>Spawn</name>
@@ -2267,6 +2313,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spirit</name>
+            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_ivevzegdsc.png">KTK</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0003_MTGM15_TOK_EN%20copy.png">M15</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_spirit.jpg">CNS</set>
             <set picURL="http://magiccards.info/extras/token/avacyn-restored/spirit-1.jpg">AVR</set>
@@ -2337,6 +2384,18 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <pt>3/3</pt>
             <tablerow>2</tablerow>
             <text>Flying</text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Spirit Warrior</name>
+            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_nelpmzkbvp.png">KTK</set>
+            <color>B</color>
+            <color>G</color>
+            <manacost></manacost>
+            <type>Creature — Spirit Warrior</type>
+            <pt>*/*</pt>
+            <tablerow>2</tablerow>
+            <text></text>
             <token>1</token>
         </card>
         <card>
@@ -2551,6 +2610,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Vampire</name>
+            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_yrqg0229z7.png">KTK</set>
             <set picURL="http://magiccards.info/extras/token/innistrad/vampire.jpg">ISD</set>
             <color>B</color>
             <manacost></manacost>
@@ -2629,6 +2689,20 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <name>Warrior</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/9/95/Warrior.jpg">SOK</set>
             <color>R</color>
+            <manacost></manacost>
+            <type>Creature — Warrior</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Warrior </name>
+            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_9uro1jblrh.png">KTK</set>
+            <!-- 
+            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_pfcpv8y40h.png">KTK</set>
+            -->
+            <color>W</color>
             <manacost></manacost>
             <type>Creature — Warrior</type>
             <pt>1/1</pt>
@@ -2812,6 +2886,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Zombie</name>
+            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_6mdgfb0p61.png">KTK</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0006_MTGM15_TOK_EN%20copy.png">M15</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_zombie.jpg">CNS</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/zombie.jpg">M14</set>
@@ -2980,12 +3055,32 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
         </card>
         <card>
+            <name>Sarkhan Emblem</name>
+            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_08j1ajgxa1.png">KTK</set>
+            <manacost></manacost>
+            <type>Emblem</type>
+            <tablerow>1</tablerow>
+            <text>At the beginning of your draw step, draw two additional cards.
+
+At the beginning of your end step, discard your hand.</text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Sorin Emblem</name>
             <set picURL="http://magiccards.info/extras/token/dark-ascension/emblem.jpg">DKA</set>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
             <text>Creatures you control get +1/+0.</text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Sorin Emblem </name>
+            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_hnv6jpe4lr.png">KTK</set>
+            <manacost></manacost>
+            <type>Emblem</type>
+            <tablerow>1</tablerow>
+            <text>At the beginning of each opponent's upkeep, that player sacrifices a creature.</text>
             <token>1</token>
         </card>
         <card>
