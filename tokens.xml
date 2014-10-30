@@ -16,14 +16,15 @@
          -->
         <card>
             <name>Angel</name>
+            <set picURL="http://media.wizards.com/2014/images/daily/0001_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2014/angel.jpg">M14</set>
+            <set picURL="http://magiccards.info/extras/token/gatecrash/angel.jpg">GTC</set>
             <set picURL="http://magiccards.info/extras/token/avacyn-restored-the-helvault-experience/angel.jpg">ARH</set>
             <set picURL="http://magiccards.info/extras/token/avacyn-restored/angel.jpg">AVR</set>
             <set picURL="http://magiccards.info/extras/token/innistrad/angel.jpg">ISD</set>
             <set picURL="http://magiccards.info/extras/token/zendikar/angel.jpg">ZEN</set>
             <set picURL="http://magiccards.info/extras/token/conflux/angel.jpg">CON</set>
             <set picURL="http://magiccards.info/extras/token/player-rewards-2004/angel.jpg">SCG</set>
-            <set picURL="http://magiccards.info/extras/token/gatecrash/angel.jpg">GTC</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2014/angel.jpg">M14</set>
             <color>W</color>
             <manacost></manacost>
             <type>Creature — Angel</type>
@@ -157,6 +158,7 @@
         </card>
         <card>
             <name>Beast</name>
+            <set picURL="http://media.wizards.com/2014/images/daily/0019_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0009_MTGM15_TOK_EN%20copy.png">M15</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/beast.jpg">M14</set>
             <set picURL="http://magiccards.info/extras/token/duel-decks-heroes-vs-monsters/beast.jpg">DDL</set>
@@ -578,6 +580,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Demon</name>
+            <set picURL="http://media.wizards.com/2014/images/daily/0013_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
             <set picURL="http://magiccards.info/extras/token/avacyn-restored-the-helvault-experience/demon.jpg">ARH</set>
             <set picURL="http://magiccards.info/extras/token/avacyn-restored/demon.jpg">AVR</set>
             <set picURL="http://magiccards.info/extras/token/innistrad/demon.jpg">ISD</set>
@@ -1061,6 +1064,17 @@ Cloud Sprite can block only creatures with flying.</text>
             <token>1</token>
         </card>
         <card>
+            <name>Fish</name>
+            <set picURL="http://media.wizards.com/2014/images/daily/0008_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <color>U</color>
+            <manacost></manacost>
+            <type>Creature — Fish</type>
+            <pt>3/3</pt>
+            <tablerow>2</tablerow>
+            <text>When this creature dies, put a 6/6 blue Whale creature token onto the battlefield with "When this creature dies, put a 9/9 blue Kraken creature token onto the battlefield."</text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Frog Lizard</name>
             <set picURL="http://magiccards.info/extras/token/gatecrash/frog-lizard.jpg">GTC</set>
             <color>G</color>
@@ -1083,6 +1097,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Germ</name>
+            <set picURL="http://media.wizards.com/2014/images/daily/0014_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
             <set picURL="http://magiccards.info/extras/token/mirrodin-besieged/germ.jpg">MBS</set>
             <color>B</color>
             <manacost></manacost>
@@ -1152,6 +1167,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Goblin</name>
+            <set picURL="http://media.wizards.com/2014/images/daily/0017_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
             <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_yf0eai89rz.png">KTK</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0008_MTGM15_TOK_EN%20copy.png">M15</set>
             <set picURL="http://magiccards.info/extras/token/modern-masters/goblin.jpg">MMA</set>
@@ -1647,6 +1663,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Kraken</name>
+            <set picURL="http://media.wizards.com/2014/images/daily/0009_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
             <set picURL="http://magiccards.info/extras/token/born-of-the-gods/kraken.jpg">BNG</set>
             <color>U</color>
             <manacost></manacost>
@@ -2165,18 +2182,19 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Soldier</name>
+            <set picURL="http://media.wizards.com/2014/images/daily/0006_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0002_MTGM15_TOK_EN%20copy.png">M15</set>
             <set picURL="http://magiccards.info/extras/token/theros/soldier-1.jpg">THS</set>
             <set picURL="http://magiccards.info/extras/token/theros/soldier-2.jpg">THS</set>
             <set picURL="http://magiccards.info/extras/token/modern-masters/soldier.jpg">MMA</set>
+            <set picURL="http://magiccards.info/extras/token/return-to-ravnica/soldier.jpg">RTR</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2013/soldier.jpg">M13</set>
             <set picURL="http://magiccards.info/extras/token/magic-2012/soldier.jpg">M12</set>
             <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/soldier.jpg">SOM</set>
-            <set picURL="http://magiccards.info/extras/token/magic-2013/soldier.jpg">M13</set>
             <set picURL="http://magiccards.info/extras/token/magic-2010/soldier.jpg">M10</set>
             <set picURL="http://magiccards.info/extras/token/shards-of-alara/soldier.jpg">ALA</set>
             <set picURL="http://magiccards.info/extras/token/duel-decks-elspeth-vs-tezzeret/soldier.jpg">DDF</set>
             <set picURL="http://magiccards.info/extras/token/tenth-edition/soldier.jpg">10E</set>
-            <set picURL="http://magiccards.info/extras/token/return-to-ravnica/soldier.jpg">RTR</set>
             <set picURL="http://magiccards.info/extras/token/player-rewards-2002/soldier.jpg">ONS</set>
             <color>W</color>
             <manacost></manacost>
@@ -2313,6 +2331,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spirit</name>
+            <set picURL="http://media.wizards.com/2014/images/daily/0007_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
             <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_ivevzegdsc.png">KTK</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0003_MTGM15_TOK_EN%20copy.png">M15</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_spirit.jpg">CNS</set>
@@ -2579,6 +2598,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Tuktuk The Returned</name>
+            <set picURL="http://media.wizards.com/2014/images/daily/0031_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
             <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/tuktuk-the-returned.jpg">ROE</set>
             <manacost></manacost>
             <type>Legendary Artifact Creature — Goblin Golem</type>
@@ -2733,6 +2753,17 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
         </card>
         <card>
+            <name>Whale</name>
+            <set picURL="http://media.wizards.com/2014/images/daily/0010_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <color>U</color>
+            <manacost></manacost>
+            <type>Creature — Whale</type>
+            <pt>6/6</pt>
+            <tablerow>2</tablerow>
+            <text>When this creature dies, put a 9/9 blue Kraken creature token onto the battlefield.</text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Wirefly</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/f/f5/Wirefly.jpg">DST</set>
             <manacost></manacost>
@@ -2744,6 +2775,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Wolf</name>
+            <set picURL="http://media.wizards.com/2014/images/daily/0026_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_wolf.jpg">CNS</set>
             <set picURL="http://magiccards.info/extras/token/born-of-the-gods/wolf.jpg">BNG</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/wolf.jpg">M14</set>
@@ -2833,6 +2865,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Wurm </name>
+            <set picURL="http://media.wizards.com/2014/images/daily/0033_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
             <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/wurm-2.jpg">SOM</set>
             <manacost></manacost>
             <type>Artifact Creature — Wurm</type>
@@ -2843,6 +2876,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Wurm  </name>
+            <set picURL="http://media.wizards.com/2014/images/daily/0032_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
             <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/wurm-1.jpg">SOM</set>
             <manacost></manacost>
             <type>Artifact Creature — Wurm</type>
@@ -2886,6 +2920,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Zombie</name>
+            <set picURL="http://media.wizards.com/2014/images/daily/0016_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
             <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_6mdgfb0p61.png">KTK</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0006_MTGM15_TOK_EN%20copy.png">M15</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_zombie.jpg">CNS</set>
@@ -2924,6 +2959,17 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <name>Zombie  </name>
             <set picURL="http://magiccards.info/extras/token/journey-into-nyx/zombie.jpg">JOU</set>
             <color>B</color>
+            <manacost></manacost>
+            <type>Creature — Zombie</type>
+            <pt>*/*</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Zombie   </name>
+            <set picURL="http://media.wizards.com/2014/images/daily/0011_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <color>U</color>
             <manacost></manacost>
             <type>Creature — Zombie</type>
             <pt>*/*</pt>
@@ -3055,6 +3101,15 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
         </card>
         <card>
+            <name>Ob Nixilis Emblem</name>
+            <set picURL="http://media.wizards.com/2014/images/daily/0035_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <manacost></manacost>
+            <type>Emblem</type>
+            <tablerow>1</tablerow>
+            <text>{1}{B}, Sacrifice a creature: You gain X life and draw X cards, where X is the sacrificed creature's power.</text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Sarkhan Emblem</name>
             <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_08j1ajgxa1.png">KTK</set>
             <manacost></manacost>
@@ -3091,6 +3146,15 @@ At the beginning of your end step, discard your hand.</text>
             <tablerow>1</tablerow>
             <text>You have no maximum hand size
             Whenever a card is put into your graveyard from anywhere, you may return it to your hand.</text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Teferi Emblem</name>
+            <set picURL="http://media.wizards.com/2014/images/daily/0034_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <manacost></manacost>
+            <type>Emblem</type>
+            <tablerow>1</tablerow>
+            <text>You may activate loyalty abilities of planeswalkers you control on any player's turn any time you could cast an instant.</text>
             <token>1</token>
         </card>
         <card>
