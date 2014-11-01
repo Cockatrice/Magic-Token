@@ -57,10 +57,11 @@
         </card>
         <card>
             <name>Ape</name>
+            <set picURL="">C14</set>
             <set picURL="http://cdn.staticneo.com/w/mtg/d/db/Ape.jpg">PLC</set>
             <color>G</color>
             <manacost></manacost>
-            <type>Creature — Angel</type>
+            <type>Creature — Ape</type>
             <pt>3/3</pt>
             <tablerow>2</tablerow>
             <text></text>
@@ -422,6 +423,7 @@
         </card>
         <card>
             <name>Cat</name>
+            <set picURL="">C14</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/cat.jpg">M14</set>
             <set picURL="http://magiccards.info/extras/token/magic-2013/cat.jpg">M13</set>
             <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/cat.jpg">SOM</set>
@@ -594,6 +596,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Demon </name>
+            <set picURL="">C14</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_demon.jpg">CNS</set>
             <set picURL="http://magiccards.info/extras/token/duel-decks-divine-vs-demonic/demon.jpg">DDC</set>
             <set picURL="http://magiccards.info/extras/token/player-rewards-2003/demon.jpg">MIR</set>
@@ -955,6 +958,17 @@ Cloud Sprite can block only creatures with flying.</text>
             <token>1</token>
         </card>
         <card>
+            <name>Elemental                  </name>
+            <set picURL="">C14</set>
+            <color>G</color>
+            <manacost></manacost>
+            <type>Creature — Elemental</type>
+            <pt>5/3</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Elemental Cat</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/4/42/Elemental_Cat.jpg">JUD</set>
             <color>R</color>
@@ -979,6 +993,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elephant</name>
+            <set picURL="">C14</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_elephant.jpg">CNS</set>
             <set picURL="http://magiccards.info/extras/token/worldwake/elephant.jpg">WWK</set>
             <set picURL="http://magiccards.info/extras/token/duel-decks-garruk-vs-liliana/elephant.jpg">DDD</set>
@@ -993,7 +1008,19 @@ Cloud Sprite can block only creatures with flying.</text>
             <token>1</token>
         </card>
         <card>
+            <name>Elf Druid</name>
+            <set picURL="">C14</set>
+            <color>G</color>
+            <manacost></manacost>
+            <type>Creature — Elf Druid</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>{T}: Add {G} to your mana pool.</text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Elf Warrior</name>
+            <set picURL="">C14</set>
             <set picURL="http://magiccards.info/extras/token/shadowmoor/elf-warrior-1.jpg">SHM</set>
             <set picURL="http://magiccards.info/extras/token/duel-decks-elves-vs-goblins/elf-warrior.jpg">EVG</set>
             <set picURL="http://magiccards.info/extras/token/lorwyn/elf-warrior.jpg">LRW</set>
@@ -1087,6 +1114,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Gargoyle</name>
+            <set picURL="">C14</set>
             <set picURL="http://magiccards.info/extras/token/magic-2010/gargoyle.jpg">M10</set>
             <manacost></manacost>
             <type>Artifact Creature — Gargoyle</type>
@@ -1154,6 +1182,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Goat</name>
+            <set picURL="">C14</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/goat.jpg">M14</set>
             <set picURL="http://magiccards.info/extras/token/magic-2013/goat.jpg">M13</set>
             <set picURL="http://magiccards.info/extras/token/eventide/goat.jpg">EVE</set>
@@ -1246,6 +1275,15 @@ Cloud Sprite can block only creatures with flying.</text>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
             <text></text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Gold</name>
+            <set picURL="http://magiccards.info/extras/token/born-of-the-gods/gold.jpg">BNG</set>
+            <manacost></manacost>
+            <type>Artifact</type>
+            <tablerow>1</tablerow>
+            <text>Sacrifice this artifact: Add one mana of any color to your mana pool.</text>
             <token>1</token>
         </card>
         <card><!-- Created by Goldmeadow Lookout -->
@@ -1409,6 +1447,17 @@ Cloud Sprite can block only creatures with flying.</text>
             <manacost></manacost>
             <type>Creature — Horror</type>
             <pt>4/4</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Horror   </name>
+            <set picURL="">C14</set>
+            <color>B</color>
+            <manacost></manacost>
+            <type>Creature — Horror</type>
+            <pt>*/*</pt>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
@@ -1652,6 +1701,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Kor Soldier</name>
+            <set picURL="">C14</set>
             <set picURL="http://magiccards.info/extras/token/zendikar/kor-soldier.jpg">ZEN</set>
             <color>W</color>
             <manacost></manacost>
@@ -1804,6 +1854,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Myr</name>
+            <set picURL="">C14</set>
             <set picURL="http://magiccards.info/extras/token/new-phyrexia/myr.jpg">NPH</set>
             <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/myr.jpg">SOM</set>
             <set picURL="http://magiccards.info/extras/token/player-rewards-2004/myr.jpg">MIR</set>
@@ -1895,6 +1946,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Pegasus</name>
+            <set picURL="">C14</set>
             <set picURL="http://cdn.staticneo.com/w/mtg/d/dc/Pegasus2.jpg">GPT</set>
             <color>W</color>
             <manacost></manacost>
@@ -1906,6 +1958,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Pentavite</name>
+            <set picURL="">C14</set>
             <set picURL="http://magiccards.info/extras/token/magic-2012/pentavite.jpg">M12</set>
             <set picURL="http://magiccards.info/extras/token/player-rewards-2004/pentavite.jpg">MIR</set>
             <manacost></manacost>
@@ -2487,6 +2540,19 @@ Cumulative upkeep {G}</text>
             <token>1</token>
         </card>
         <card>
+            <name>Stoneforged Blade</name>
+            <set picURL="">C14</set>
+            <manacost></manacost>
+            <type>Artifact — Equipment</type>
+            <tablerow>2</tablerow>
+            <text>Indestructible
+
+Equipped creature gets +5/+5 and has double strike.
+
+Equip {0}</text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Survivor</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/1/14/Survivor.jpg">MED</set>
             <color>R</color>
@@ -2560,6 +2626,17 @@ This creature can't be enchanted.</text>
             <pt>2/2</pt>
             <tablerow>2</tablerow>
             <text>Haste</text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Treefolk</name>
+            <set picURL="">C14</set>
+            <color>G</color>
+            <manacost></manacost>
+            <type>Creature — Treefolk</type>
+            <pt>*/*</pt>
+            <tablerow>2</tablerow>
+            <text></text>
             <token>1</token>
         </card>
         <card>
@@ -3001,15 +3078,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
         </card>
         <card>
-            <name>Gold</name>
-            <set picURL="http://magiccards.info/extras/token/born-of-the-gods/gold.jpg">BNG</set>
-            <manacost></manacost>
-            <type>Artifact</type>
-            <tablerow>1</tablerow>
-            <text>Sacrifice this artifact: Add one mana of any color to your mana pool.</text>
-            <token>1</token>
-        </card>
-        <card>
             <name>Ajani Emblem</name>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0013_MTGM15_TOK_EN%20copy.png">M15</set>
             <manacost></manacost>
@@ -3025,6 +3093,15 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <type>Emblem</type>
             <tablerow>1</tablerow>
             <text>Whenever you cast a spell that targets one or more permanents, gain control of those permanents.</text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Daretti Emblem</name>
+            <set picURL="">C14</set>
+            <manacost></manacost>
+            <type>Emblem</type>
+            <tablerow>1</tablerow>
+            <text>Whenever an artifact is put into your graveyard from the battlefield, return that card to the battlefield at the beginning of the next end step.</text>
             <token>1</token>
         </card>
         <card>
