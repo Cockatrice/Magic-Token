@@ -725,6 +725,16 @@ Cloud Sprite can block only creatures with flying.</text>
             <text>Flying</text>
             <token>1</token>
         </card>
+        <card><!-- Created by Planechase 2 Plane "Hedron Fields of Agadeem" -->
+            <name>Eldrazi</name>
+            <set picURL="http://oi41.tinypic.com/2e37pmq.jpg">PC2</set>
+            <manacost></manacost>
+            <type>Creature — Eldrazi</type>
+            <pt>7/7</pt>
+            <tablerow>2</tablerow>
+            <text>Annihilator 1</text>
+            <token>1</token>
+        </card>
         <card>
             <name>Eldrazi Spawn</name>
             <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/eldrazi-spawn-1.jpg">ROE</set>
