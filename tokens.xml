@@ -688,6 +688,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <pt>2/2</pt>
             <tablerow>2</tablerow>
             <text>Flying
+
 {R}: This creature gets +1/+0 until end of turn.</text>
             <token>1</token>
         </card>
@@ -2490,6 +2491,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
             <text>Flying
+
 Cumulative upkeep {G}</text>
             <token>1</token>
         </card>
@@ -2582,6 +2584,7 @@ Equip {0}</text>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
             <text>Flying
+
 This creature can't be enchanted.</text>
             <token>1</token>
         </card>
@@ -2681,6 +2684,7 @@ This creature can't be enchanted.</text>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
             <text>Flying
+
 Sacrifice this creature: This creature deals 1 damage to target creature or player.</text>
             <token>1</token>
         </card>
@@ -3232,8 +3236,9 @@ At the beginning of your end step, discard your hand.</text>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
-            <text>You have no maximum hand size
-            Whenever a card is put into your graveyard from anywhere, you may return it to your hand.</text>
+            <text>You have no maximum hand size.
+
+Whenever a card is put into your graveyard from anywhere, you may return it to your hand.</text>
             <token>1</token>
         </card>
         <card>
