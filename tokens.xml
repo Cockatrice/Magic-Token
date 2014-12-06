@@ -573,7 +573,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Construct </name>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_construct.jpg">CNS</set>
+            <set picURL="http://magiccards.info/extras/token/conspiracy/construct.jpg">CNS</set>
             <manacost></manacost>
             <type>Artifact Creature — Construct</type>
             <pt>1/1</pt>
@@ -598,7 +598,7 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Demon </name>
             <set picURL="http://media.wizards.com/2014/images/daily/0012_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_demon.jpg">CNS</set>
+            <set picURL="http://magiccards.info/extras/token/conspiracy/demon.jpg">CNS</set>
             <set picURL="http://magiccards.info/extras/token/duel-decks-divine-vs-demonic/demon.jpg">DDC</set>
             <set picURL="http://magiccards.info/extras/token/player-rewards-2003/demon.jpg">MIR</set>
             <color>B</color>
@@ -1006,7 +1006,7 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Elephant</name>
             <set picURL="http://media.wizards.com/2014/images/daily/0022_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_elephant.jpg">CNS</set>
+            <set picURL="http://magiccards.info/extras/token/conspiracy/elephant.jpg">CNS</set>
             <set picURL="http://magiccards.info/extras/token/worldwake/elephant.jpg">WWK</set>
             <set picURL="http://magiccards.info/extras/token/duel-decks-garruk-vs-liliana/elephant.jpg">DDD</set>
             <set picURL="http://magiccards.info/extras/token/player-rewards-2001/elephant.jpg">INV</set>
@@ -1867,6 +1867,7 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Myr</name>
             <set picURL="http://media.wizards.com/2014/images/daily/0028_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/modern-event-deck/myr.jpg">MD1</set>
             <set picURL="http://magiccards.info/extras/token/new-phyrexia/myr.jpg">NPH</set>
             <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/myr.jpg">SOM</set>
             <set picURL="http://magiccards.info/extras/token/player-rewards-2004/myr.jpg">MIR</set>
@@ -1890,7 +1891,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Ogre </name>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_ogre.jpg">CNS</set>
+            <set picURL="http://magiccards.info/extras/token/conspiracy/ogre.jpg">CNS</set>
             <color>R</color>
             <manacost></manacost>
             <type>Creature — Ogre</type>
@@ -2249,6 +2250,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <name>Soldier</name>
             <set picURL="http://media.wizards.com/2014/images/daily/0006_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0002_MTGM15_TOK_EN%20copy.png">M15</set>
+            <set picURL="http://magiccards.info/extras/token/modern-event-deck/soldier.jpg">MD1</set>
             <set picURL="http://magiccards.info/extras/token/theros/soldier-1.jpg">THS</set>
             <set picURL="http://magiccards.info/extras/token/theros/soldier-2.jpg">THS</set>
             <set picURL="http://magiccards.info/extras/token/modern-masters/soldier.jpg">MMA</set>
@@ -2398,8 +2400,9 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <name>Spirit</name>
             <set picURL="http://media.wizards.com/2014/images/daily/0007_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
             <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_ivevzegdsc.png">KTK</set>
+            <set picURL="http://magiccards.info/extras/token/modern-event-deck/spirit.jpg">MD1</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0003_MTGM15_TOK_EN%20copy.png">M15</set>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_spirit.jpg">CNS</set>
+            <set picURL="http://magiccards.info/extras/token/conspiracy/spirit.jpg">CNS</set>
             <set picURL="http://magiccards.info/extras/token/avacyn-restored/spirit-1.jpg">AVR</set>
             <set picURL="http://magiccards.info/extras/token/innistrad/spirit.jpg">ISD</set>
             <set picURL="http://magiccards.info/extras/token/duel-decks-divine-vs-demonic/spirit.jpg">DDC</set>
@@ -2508,7 +2511,7 @@ Cumulative upkeep {G}</text>
         </card>
         <card>
             <name>Squirrel</name>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_squirrel.jpg">CNS</set>
+            <set picURL="http://magiccards.info/extras/token/conspiracy/squirrel.jpg">CNS</set>
             <set picURL="http://magiccards.info/extras/token/player-rewards-2002/squirrel.jpg">ODY</set>
             <color>G</color>
             <manacost></manacost>
@@ -2868,7 +2871,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         <card>
             <name>Wolf</name>
             <set picURL="http://media.wizards.com/2014/images/daily/0026_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_wolf.jpg">CNS</set>
+            <set picURL="http://magiccards.info/extras/token/conspiracy/wolf.jpg">CNS</set>
             <set picURL="http://magiccards.info/extras/token/born-of-the-gods/wolf.jpg">BNG</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/wolf.jpg">M14</set>
             <set picURL="http://magiccards.info/extras/token/friday-night-magic/wolf.jpg">FNM</set>
@@ -3015,7 +3018,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="http://media.wizards.com/2014/images/daily/0016_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
             <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_6mdgfb0p61.png">KTK</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0006_MTGM15_TOK_EN%20copy.png">M15</set>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_zombie.jpg">CNS</set>
+            <set picURL="http://magiccards.info/extras/token/conspiracy/zombie.jpg">CNS</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/zombie.jpg">M14</set>
             <set picURL="http://magiccards.info/extras/token/modern-masters/zombie.jpg">MMA</set>
             <set picURL="http://magiccards.info/extras/token/avacyn-restored/zombie.jpg">AVR</set>
@@ -3103,7 +3106,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Dack Emblem</name>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/arc1509_dackemblem.jpg">CNS</set>
+            <set picURL="http://magiccards.info/extras/token/conspiracy/emblem-dack-fayden.jpg">CNS</set>
             <manacost></manacost>
             <type>Emblem</type>
             <tablerow>1</tablerow>
@@ -3130,6 +3133,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Elspeth Emblem</name>
+            <set picURL="http://magiccards.info/extras/token/modern-event-deck/emblem-elspeth-knight-errant.jpg">MD1</set>
             <set picURL="http://magiccards.info/extras/token/modern-masters/emblem-elspeth-knight-errant.jpg">MMA</set>
             <manacost></manacost>
             <type>Emblem</type>
