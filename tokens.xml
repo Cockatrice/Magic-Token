@@ -80,6 +80,7 @@
         </card>
         <card>
             <name>Assassin</name>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-jace-vs-vraska/assassin.jpg">DDM</set>
             <set picURL="http://magiccards.info/extras/token/return-to-ravnica/assassin.jpg">RTR</set>
             <color>B</color>
             <manacost></manacost>
