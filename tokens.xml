@@ -1601,7 +1601,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Kaldra</name>
-            <set picURL="http://seinvocc.com/forum/download/file.php?id=1485">DST</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/3/3d/Kaldra.jpg">DST</set><!-- Official art, ugly as it is. http://archive.wizards.com/Magic/magazine/article.aspx?x=mtgcom/arcana/617 -->
             <manacost></manacost>
             <type>Legendary Creature — Avatar</type>
             <pt>4/4</pt>
