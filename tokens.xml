@@ -149,7 +149,7 @@
         </card>
         <card>
             <name>Bear </name>
-            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_1xtd9y36pp.png">KTK</set>
+            <set picURL="http://mtgimage.com/set/KTK/Bear.jpg">KTK</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token Creature — Bear</type>
@@ -337,7 +337,7 @@
         </card>
         <card>
             <name>Bird       </name>
-            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_e5l3l6c42r.png">KTK</set>
+            <set picURL="http://mtgimage.com/set/KTK/Bird.jpg">KTK</set>
             <color>W</color>
             <manacost></manacost>
             <type>Token Creature — Bird</type>
@@ -1210,7 +1210,7 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Goblin</name>
             <set picURL="http://media.wizards.com/2014/images/daily/0017_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
-            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_yf0eai89rz.png">KTK</set>
+            <set picURL="http://mtgimage.com/set/KTK/Goblin.jpg">KTK</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0008_MTGM15_TOK_EN%20copy.png">M15</set>
             <set picURL="http://magiccards.info/extras/token/modern-masters/goblin.jpg">MMA</set>
             <set picURL="http://magiccards.info/extras/token/new-phyrexia/goblin.jpg">NPH</set>
@@ -1857,7 +1857,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Morph</name>
-            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_pu8esg2v7s.png">KTK</set>
+            <set picURL="http://mtgimage.com/set/KTK/Morph.jpg">KTK</set>
             <manacost></manacost>
             <type>Token Creature</type>
             <pt>2/2</pt>
@@ -2192,7 +2192,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Snake</name>
-            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_mv6rtsahnm.png">KTK</set>
+            <set picURL="http://mtgimage.com/set/KTK/Snake.jpg">KTK</set>
             <set picURL="http://magiccards.info/extras/token/zendikar/snake.jpg">ZEN</set>
             <color>G</color>
             <manacost></manacost>
@@ -2400,7 +2400,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         <card>
             <name>Spirit</name>
             <set picURL="http://media.wizards.com/2014/images/daily/0007_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
-            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_ivevzegdsc.png">KTK</set>
+            <set picURL="http://mtgimage.com/set/KTK/Spirit.jpg">KTK</set>
             <set picURL="http://magiccards.info/extras/token/modern-event-deck/spirit.jpg">MD1</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0003_MTGM15_TOK_EN%20copy.png">M15</set>
             <set picURL="http://magiccards.info/extras/token/conspiracy/spirit.jpg">CNS</set>
@@ -2476,7 +2476,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spirit Warrior</name>
-            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_nelpmzkbvp.png">KTK</set>
+            <set picURL="http://mtgimage.com/set/KTK/Spirit Warrior.jpg">KTK</set>
             <color>B</color>
             <color>G</color>
             <manacost></manacost>
@@ -2726,7 +2726,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Vampire</name>
-            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_yrqg0229z7.png">KTK</set>
+            <set picURL="http://mtgimage.com/set/KTK/Vampire.jpg">KTK</set>
             <set picURL="http://magiccards.info/extras/token/innistrad/vampire.jpg">ISD</set>
             <color>B</color>
             <manacost></manacost>
@@ -2814,9 +2814,9 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Warrior </name>
-            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_9uro1jblrh.png">KTK</set>
+            <set picURL="http://mtgimage.com/set/KTK/Warrior1.jpg">KTK</set>
             <!-- 
-            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_pfcpv8y40h.png">KTK</set>
+            <set picURL="http://mtgimage.com/set/KTK/Warrior2.jpg">KTK</set>
             -->
             <color>W</color>
             <manacost></manacost>
@@ -3017,8 +3017,8 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         <card>
             <name>Zombie</name>
             <set picURL="http://media.wizards.com/2014/images/daily/0016_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
-            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_6mdgfb0p61.png">KTK</set>
-            <set picURL="http://media.wizards.com/images/magic/daily/arcana/0006_MTGM15_TOK_EN%20copy.png">M15</set>
+            <set picURL="http://mtgimage.com/set/KTK/Zombie.jpg">KTK</set>
+            <set picURL="http://mtgimage.com/set/M15/Zombie.jpg">M15</set>
             <set picURL="http://magiccards.info/extras/token/conspiracy/zombie.jpg">CNS</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/zombie.jpg">M14</set>
             <set picURL="http://magiccards.info/extras/token/modern-masters/zombie.jpg">MMA</set>
@@ -3208,7 +3208,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Sarkhan Emblem</name>
-            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_08j1ajgxa1.png">KTK</set>
+            <set picURL="http://mtgimage.com/set/KTK/Emblem Sarkhan.jpg">KTK</set>
             <manacost></manacost>
             <type>Emblem — Sarkhan</type>
             <tablerow>1</tablerow>
@@ -3228,7 +3228,7 @@ At the beginning of your end step, discard your hand.</text>
         </card>
         <card>
             <name>Sorin Emblem </name>
-            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_hnv6jpe4lr.png">KTK</set>
+            <set picURL="http://mtgimage.com/set/KTK/Emblem Sorin.jpg">KTK</set>
             <manacost></manacost>
             <type>Emblem — Sorin</type>
             <tablerow>1</tablerow>
