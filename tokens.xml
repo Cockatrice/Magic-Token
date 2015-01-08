@@ -1768,6 +1768,18 @@ Cloud Sprite can block only creatures with flying.</text>
             <token>1</token>
         </card>
         <card>
+            <name>Manifest</name>
+            <set picURL="http://media.wizards.com/2014/ujehvsbfrf153/en_ibt6mxwxfd.png">FRF</set>
+            <manacost></manacost>
+            <type>Token Creature</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>(You can cover a face-down manifested creature with this reminder card.
+
+A manifested creature card can be turned face up any time for its mana cost. A face-down card can also be turned face up for its morph cost.)</text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Marit Lage</name>
             <set picURL="http://magiccards.info/extras/token/coldsnap/marit-lage.jpg">CSP</set>
             <color>B</color>
@@ -1856,13 +1868,26 @@ Cloud Sprite can block only creatures with flying.</text>
             <token>1</token>
         </card>
         <card>
+            <name>Monk</name>
+            <set picURL="http://media.wizards.com/2014/ujehvsbfrf153/en_9qg3n4490e.png">FRF</set>
+            <color>1/1</color>
+            <manacost></manacost>
+            <type>Token Creature — Monk</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Prowess</text>
+            <token>1</token>
+        </card>        
+        <card>
             <name>Morph</name>
             <set picURL="http://mtgimage.com/set/KTK/Morph.jpg">KTK</set>
             <manacost></manacost>
             <type>Token Creature</type>
             <pt>2/2</pt>
             <tablerow>2</tablerow>
-            <text></text>
+            <text>(You can cover a face-down creature with this reminder card.
+
+A card with morph can be turned face up any time for its morph cost.)</text>
             <token>1</token>
         </card>
         <card>
@@ -2399,6 +2424,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spirit</name>
+            <set picURL="http://media.wizards.com/2014/ujehvsbfrf153/en_adq4qbguqb.png">FRF</set>
             <set picURL="http://media.wizards.com/2014/images/daily/0007_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
             <set picURL="http://mtgimage.com/set/KTK/Spirit.jpg">KTK</set>
             <set picURL="http://magiccards.info/extras/token/modern-event-deck/spirit.jpg">MD1</set>
@@ -2822,6 +2848,17 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <manacost></manacost>
             <type>Token Creature — Warrior</type>
             <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Warrior  </name>
+            <set picURL="http://media.wizards.com/2014/ujehvsbfrf153/en_3fr744w64c.png">FRF</set>
+            <color>B</color>
+            <manacost></manacost>
+            <type>Token Creature — Warrior</type>
+            <pt>2/1</pt>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
