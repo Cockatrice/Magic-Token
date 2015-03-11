@@ -632,6 +632,17 @@ Cloud Sprite can block only creatures with flying.</text>
             <token>1</token>
         </card>
         <card>
+            <name>Djinn Monk</name>
+            <set picURL="http://media.wizards.com/2015/dftyuvbd564776rvf/en_TxQAJubpL8.png">DTK</set>
+            <color>U</color>
+            <manacost></manacost>
+            <type>Token Creature — Djinn Monk</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Dragon</name>
             <set picURL="http://magiccards.info/extras/token/worldwake/dragon.jpg">WWK</set>
             <set picURL="http://magiccards.info/extras/token/tenth-edition/dragon.jpg">10E</set>
@@ -646,6 +657,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Dragon  </name>
+            <set picURL="http://media.wizards.com/2015/dftyuvbd564776rvf/en_WVAqLunVs8.png">DTK</set>
             <set picURL="http://magiccards.info/extras/token/modern-masters/dragon.jpg">MMA</set>
             <set picURL="http://magiccards.info/extras/token/shards-of-alara/dragon.jpg">ALA</set>
             <color>R</color>
@@ -1209,6 +1221,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Goblin</name>
+            <set picURL="http://media.wizards.com/2015/dftyuvbd564776rvf/en_FnwYArBsPC.png">DTK</set>
             <set picURL="http://mtgimage.com/set/C14/Goblin.jpg">C14</set>
             <set picURL="http://mtgimage.com/set/KTK/Goblin.jpg">KTK</set>
             <set picURL="http://mtgimage.com/set/M15/Goblin.jpg">M15</set>
@@ -1772,7 +1785,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <name>Manifest</name>
             <set picURL="http://mtgimage.com/set/FRF/Manifest.jpg">FRF</set>
             <manacost></manacost>
-            <type>Token Creature</type>
+            <type>Creature</type>
             <pt>2/2</pt>
             <tablerow>2</tablerow>
             <text>(You can cover a face-down manifested creature with this reminder card.
@@ -1881,9 +1894,10 @@ A manifested creature card can be turned face up any time for its mana cost. A f
         </card>        
         <card>
             <name>Morph</name>
+            <set picURL="http://media.wizards.com/2015/dftyuvbd564776rvf/en_QTioWbxJij.png">DTK</set>
             <set picURL="http://mtgimage.com/set/KTK/Morph.jpg">KTK</set>
             <manacost></manacost>
-            <type>Token Creature</type>
+            <type>Creature</type>
             <pt>2/2</pt>
             <tablerow>2</tablerow>
             <text>(You can cover a face-down creature with this reminder card.
@@ -2842,6 +2856,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Warrior </name>
+            <set picURL="http://media.wizards.com/2015/dftyuvbd564776rvf/en_zFodI6VkI0.png">DTK</set>
             <set picURL="http://mtgimage.com/set/KTK/Warrior1.jpg">KTK</set>
             <!-- 
             <set picURL="http://mtgimage.com/set/KTK/Warrior2.jpg">KTK</set>
@@ -3055,6 +3070,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Zombie</name>
+            <set picURL="http://media.wizards.com/2015/dftyuvbd564776rvf/en_s1z8EosLq1.png">DTK</set>
             <set picURL="http://mtgimage.com/set/C14/Zombie2.jpg">C14</set>
             <set picURL="http://mtgimage.com/set/KTK/Zombie.jpg">KTK</set>
             <set picURL="http://mtgimage.com/set/M15/Zombie.jpg">M15</set>
@@ -3119,6 +3135,17 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <manacost></manacost>
             <type>Token Creature — Zombie Giant</type>
             <pt>5/5</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+         <card>
+            <name>Zombie Horror</name>
+            <set picURL="http://media.wizards.com/2015/dftyuvbd564776rvf/en_BC0FDYB8M1.png">DTK</set>
+            <color>B</color>
+            <manacost></manacost>
+            <type>Token Creature — Zombie Horror</type>
+            <pt>*/*</pt>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
@@ -3234,6 +3261,15 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <type>Emblem — Liliana</type>
             <tablerow>1</tablerow>
             <text>Swamps you control have ‘Tap: Add {B}{B}{B}{B} to your mana pool.'</text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Narset Emblem</name>
+            <set picURL="http://media.wizards.com/2015/dftyuvbd564776rvf/en_5u16zATARH.png">DTK</set>
+            <manacost></manacost>
+            <type>Emblem — Narset</type>
+            <tablerow>1</tablerow>
+            <text>Your opponents can't cast noncreature spells.</text>
             <token>1</token>
         </card>
         <card>
