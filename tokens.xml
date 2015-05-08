@@ -19,7 +19,7 @@
             <set picURL="http://media.wizards.com/2014/images/daily/0001_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/angel.jpg">M14</set>
             <set picURL="http://magiccards.info/extras/token/gatecrash/angel.jpg">GTC</set>
-            <set picURL="http://magiccards.info/extras/token/avacyn-restored-the-helvault-experience/angel.jpg">ARH</set>
+            <!-- <set picURL="http://magiccards.info/extras/token/avacyn-restored-the-helvault-experience/angel.jpg">ARH</set> -->
             <set picURL="http://magiccards.info/extras/token/avacyn-restored/angel.jpg">AVR</set>
             <set picURL="http://magiccards.info/extras/token/innistrad/angel.jpg">ISD</set>
             <set picURL="http://magiccards.info/extras/token/zendikar/angel.jpg">ZEN</set>
@@ -269,7 +269,7 @@
             <set picURL="http://magiccards.info/extras/token/born-of-the-gods/bird-1.jpg">BNG</set>
             <set picURL="http://magiccards.info/extras/token/zendikar/bird.jpg">ZEN</set>
             <set picURL="http://magiccards.info/extras/token/return-to-ravnica/bird.jpg">RTR</set>
-            <set picURL="http://magiccards.info/extras/token/league/bird.jpg">LGE</set>
+            <!-- <set picURL="http://magiccards.info/extras/token/league/bird.jpg">LGE</set> -->
             <color>W</color>
             <manacost></manacost>
             <type>Token Creature — Bird</type>
@@ -484,7 +484,7 @@
         <card>
             <name>Centaur</name>
             <set picURL="http://magiccards.info/extras/token/return-to-ravnica/centaur-1.jpg">RTR</set>
-            <set picURL="http://magiccards.info/extras/token/league/centaur.jpg">LGE</set>
+            <!-- <set picURL="http://magiccards.info/extras/token/league/centaur.jpg">LGE</set> -->
             <color>G</color>
             <manacost></manacost>
             <type>Token Creature — Centaur</type>
@@ -585,7 +585,7 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Demon</name>
             <set picURL="http://media.wizards.com/2014/images/daily/0013_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
-            <set picURL="http://magiccards.info/extras/token/avacyn-restored-the-helvault-experience/demon.jpg">ARH</set>
+            <!-- <set picURL="http://magiccards.info/extras/token/avacyn-restored-the-helvault-experience/demon.jpg">ARH</set> -->
             <set picURL="http://magiccards.info/extras/token/avacyn-restored/demon.jpg">AVR</set>
             <set picURL="http://magiccards.info/extras/token/innistrad/demon.jpg">ISD</set>
             <color>B</color>
@@ -1509,7 +1509,7 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Human</name>
             <set picURL="http://magiccards.info/extras/token/avacyn-restored/human-1.jpg">AVR</set>
-            <set picURL="http://magiccards.info/extras/token/friday-night-magic/human.jpg">FNM</set>
+            <set picURL="http://magiccards.info/extras/token/friday-night-magic/human.jpg">pFNM</set>
             <set picURL="http://magiccards.info/extras/token/dark-ascension/human.jpg">DKA</set>
             <color>W</color>
             <manacost></manacost>
@@ -1669,7 +1669,7 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Knight</name>
             <set picURL="http://magiccards.info/extras/token/return-to-ravnica/knight.jpg">RTR</set>
-            <set picURL="http://magiccards.info/extras/token/league/knight.jpg">LGE</set>
+            <!-- <set picURL="http://magiccards.info/extras/token/league/knight.jpg">LGE</set> -->
             <color>W</color>
             <manacost></manacost>
             <type>Token Creature — Knight</type>
@@ -1722,10 +1722,13 @@ Cloud Sprite can block only creatures with flying.</text>
             <text>Flanking, protection from white, haste</text>
             <token>1</token>
         </card>
-        <card><!-- Created by Kher Keep
-        Prossh, Skyraider of Kher -->
+        <card><!-- Created by
+            Kher Keep
+            Prossh, Skyraider of Kher 
+            -->
             <name>Kobolds of Kher Keep (token)</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/c/ca/Kobolds_of_Kher_Keep.jpg">TSP</set>
+            <color>R</color>
             <manacost></manacost>
             <type>Token Creature — Kobold</type>
             <pt>0/1</pt>
@@ -2231,7 +2234,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0001_MTGM15_TOK_EN%20copy.png">M15</set>
             <set picURL="http://magiccards.info/extras/token/player-rewards-2003/sliver.jpg">LGN</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/sliver.jpg">M14</set>
-            <set picURL="http://magiccards.info/extras/token/league/sliver.jpg">LGE</set>
+            <!-- <set picURL="http://magiccards.info/extras/token/league/sliver.jpg">LGE</set> -->
             <manacost></manacost>
             <type>Token Creature — Sliver</type>
             <pt>1/1</pt>
@@ -2326,7 +2329,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         <card>
             <name>Soldier </name>
             <set picURL="http://magiccards.info/extras/token/gatecrash/soldier.jpg">GTC</set>
-            <set picURL="http://magiccards.info/extras/token/league/soldier.jpg">LGE</set>
+            <!-- <set picURL="http://magiccards.info/extras/token/league/soldier.jpg">LGE</set> -->
             <color>R</color>
             <color>W</color>
             <manacost></manacost>
@@ -2942,7 +2945,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="http://magiccards.info/extras/token/conspiracy/wolf.jpg">CNS</set>
             <set picURL="http://magiccards.info/extras/token/born-of-the-gods/wolf.jpg">BNG</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/wolf.jpg">M14</set>
-            <set picURL="http://magiccards.info/extras/token/friday-night-magic/wolf.jpg">FNM</set>
+            <set picURL="http://magiccards.info/extras/token/friday-night-magic/wolf.jpg">pFNM</set>
             <set picURL="http://magiccards.info/extras/token/innistrad/wolf-2.jpg">ISD</set>
             <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/wolf.jpg">SOM</set>
             <set picURL="http://magiccards.info/extras/token/zendikar/wolf.jpg">ZEN</set>
