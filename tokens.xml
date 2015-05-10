@@ -19,7 +19,7 @@
             <set picURL="http://media.wizards.com/2014/images/daily/0001_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/angel.jpg">M14</set>
             <set picURL="http://magiccards.info/extras/token/gatecrash/angel.jpg">GTC</set>
-            <!-- <set picURL="http://magiccards.info/extras/token/avacyn-restored-the-helvault-experience/angel.jpg">ARH</set> -->
+            <set picURL="http://magiccards.info/extras/token/avacyn-restored-the-helvault-experience/angel.jpg">pPRE</set>
             <set picURL="http://magiccards.info/extras/token/avacyn-restored/angel.jpg">AVR</set>
             <set picURL="http://magiccards.info/extras/token/innistrad/angel.jpg">ISD</set>
             <set picURL="http://magiccards.info/extras/token/zendikar/angel.jpg">ZEN</set>
@@ -585,7 +585,7 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Demon</name>
             <set picURL="http://media.wizards.com/2014/images/daily/0013_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
-            <!-- <set picURL="http://magiccards.info/extras/token/avacyn-restored-the-helvault-experience/demon.jpg">ARH</set> -->
+            <set picURL="http://magiccards.info/extras/token/avacyn-restored-the-helvault-experience/demon.jpg">pPRE</set>
             <set picURL="http://magiccards.info/extras/token/avacyn-restored/demon.jpg">AVR</set>
             <set picURL="http://magiccards.info/extras/token/innistrad/demon.jpg">ISD</set>
             <color>B</color>
@@ -1410,7 +1410,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Hippo</name>
-            <set picURL="http://img.photobucket.com/albums/v18/qtinator/Hippo.jpg">TK</set>
+            <set picURL="http://img.photobucket.com/albums/v18/qtinator/Hippo.jpg">ALL</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token Creature — Hippo</type>
@@ -1577,7 +1577,6 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Insect </name>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0010_MTGM15_TOK_EN%20copy.png">M15</set>
-            <set picURL="http://i167.photobucket.com/albums/u148/Ruja/Magic%20Tokens/Insect.jpg">TK</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token Creature — Insect</type>
@@ -2570,17 +2569,6 @@ Cumulative upkeep {G}</text>
             <name>Squirrel</name>
             <set picURL="http://magiccards.info/extras/token/conspiracy/squirrel.jpg">CNS</set>
             <set picURL="http://magiccards.info/extras/token/player-rewards-2002/squirrel.jpg">ODY</set>
-            <color>G</color>
-            <manacost></manacost>
-            <type>Token Creature — Squirrel</type>
-            <pt>1/1</pt>
-            <tablerow>2</tablerow>
-            <text></text>
-            <token>1</token>
-        </card>
-        <card>
-            <name>Squirrel </name>
-            <set picURL="http://img.photobucket.com/albums/v202/zcorpion/mtg/Squirrel_token.jpg">TK</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token Creature — Squirrel</type>
