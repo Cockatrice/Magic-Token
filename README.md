@@ -1,6 +1,6 @@
-Cockatrice-tokens
+Magic-Token
 =================
 
-Tokens information for Cockatrice.
+Tokens information in Cockatrice's XML card database format for M:tG.
 
-Download the latest version at https://github.com/Psithief/Cockatrice-tokens/archive/master.zip
+Download the latest version at https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml
