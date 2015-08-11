@@ -12,7 +12,7 @@
         <card>
             <name>Strike the Weak Spot</name>
             <set picURL="http://deckmaster.info/images/cards/-66612-hr.jpg">CTH</set>
-            <color>g</color>
+            <color>G</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Sorcery</type>
@@ -22,7 +22,7 @@
         <card>
             <name>Mogis's Chosen</name>
             <set picURL="http://deckmaster.info/images/cards/-66703-hr.jpg">CTH</set>
-            <color>r</color>
+            <color>R</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Creature — Minotaur</type>
@@ -33,7 +33,7 @@
         <card>
             <name>Rip to Pieces</name>
             <set  picURL="http://deckmaster.info/images/cards/-66809-hr.jpg">CTH</set>
-            <color>u</color>
+            <color>U</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Sorcery</type>
@@ -43,7 +43,7 @@
         <card>
             <name>Descend on the Prey</name>
             <set picURL="http://deckmaster.info/images/cards/-66707-hr.jpg">CTH</set>
-            <color>r</color>
+            <color>R</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Sorcery</type>
@@ -53,7 +53,7 @@
         <card>
             <name>The Vanquisher</name>
             <set picURL="http://deckmaster.info/images/cards/-66786-hr.jpg">CTH</set>
-            <color>r</color>
+            <color>R</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Hero</type>
@@ -63,7 +63,7 @@
         <card>
             <name>The General</name>
             <set picURL="http://deckmaster.info/images/cards/-66724-hr.jpg">CTH</set>
-            <color>r</color>
+            <color>R</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Hero</type>
@@ -73,7 +73,7 @@
         <card>
             <name>Minotaur Younghorn</name>
             <set picURL="0">CTH</set>
-            <color>r</color>
+            <color>R</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Creature — Minotaur</type>
@@ -84,7 +84,7 @@
         <card>
             <name>Dance of Flame</name>
             <set picURL="0">CTH</set>
-            <color>u</color>
+            <color>U</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Enchantment</type>
@@ -94,7 +94,7 @@
         <card>
             <name>The Provider</name>
             <set picURL="http://deckmaster.info/images/cards/-66764-hr.jpg">CTH</set>
-            <color>r</color>
+            <color>R</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Hero</type>
@@ -104,7 +104,7 @@
         <card>
             <name>Refreshing Elixir</name>
             <set picURL="http://deckmaster.info/images/cards/-66714-hr.jpg">CTH</set>
-            <color>r</color>
+            <color>R</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Artifact</type>
@@ -115,7 +115,7 @@ Hero's Reward — When Refreshing Elixir is put into a graveyard from anywhere, 
         <card>
             <name>Rollicking Throng</name>
             <set picURL="http://deckmaster.info/images/cards/-66803-hr.jpg">CTH</set>
-            <color>u</color>
+            <color>U</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Creature — Human Reveler</type>
@@ -126,7 +126,7 @@ Hero's Reward — When Refreshing Elixir is put into a graveyard from anywhere, 
         <card>
             <name>Impulsive Destruction</name>
             <set picURL="http://deckmaster.info/images/cards/-66807-hr.jpg">CTH</set>
-            <color>u</color>
+            <color>U</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Sorcery</type>
@@ -136,7 +136,7 @@ Hero's Reward — When Refreshing Elixir is put into a graveyard from anywhere, 
         <card>
             <name>Unquenchable Fury</name>
             <set picURL="http://deckmaster.info/images/cards/-66710-hr.jpg">CTH</set>
-            <color>r</color>
+            <color>U</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Sorcery</type>
@@ -146,7 +146,7 @@ Hero's Reward — When Refreshing Elixir is put into a graveyard from anywhere, 
         <card>
             <name>Maddened Oread</name>
             <set picURL="http://deckmaster.info/images/cards/-66814-hr.jpg">CTH</set>
-            <color>u</color>
+            <color>U</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Enchantment Creature — Nymph Reveler</type>
@@ -157,7 +157,7 @@ Hero's Reward — When Refreshing Elixir is put into a graveyard from anywhere, 
         <card>
             <name>Xenagos's Scorn</name>
             <set picURL="http://deckmaster.info/images/cards/-66810-hr.jpg">CTH</set>
-            <color>u</color>
+            <color>U</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Sorcery</type>
@@ -167,7 +167,7 @@ Hero's Reward — When Refreshing Elixir is put into a graveyard from anywhere, 
         <card>
             <name>Shrieking Titan Head</name>
             <set picURL="http://deckmaster.info/images/cards/-66604-hr.jpg">CTH</set>
-            <color>g</color>
+            <color>G</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Elite Creature — Head</type>
@@ -179,7 +179,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Xenagos's Strike</name>
             <set picURL="http://deckmaster.info/images/cards/-66811-hr.jpg">CTH</set>
-            <color>u</color>
+            <color>U</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Sorcery</type>
@@ -189,7 +189,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Snapping Fang Head</name>
             <set picURL="http://deckmaster.info/images/cards/-66605-hr.jpg">CTH</set>
-            <color>g</color>
+            <color>G</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Elite Creature — Head</type>
@@ -201,7 +201,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Massacre Totem</name>
             <set picURL="http://deckmaster.info/images/cards/-66712-hr.jpg">CTH</set>
-            <color>r</color>
+            <color>R</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Artifact</type>
@@ -211,7 +211,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Spear of the General</name>
             <set picURL="http://deckmaster.info/images/cards/-66827-hr.jpg">CTH</set>
-            <color>u</color>
+            <color>U</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Hero Artifact — Equipment</type>
@@ -221,7 +221,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Minotaur Goreseeker</name>
             <set picURL="http://deckmaster.info/images/cards/-66701-hr.jpg">CTH</set>
-            <color>r</color>
+            <color>R</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Creature — Minotaur</type>
@@ -232,7 +232,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Swallow the Hero Whole</name>
             <set picURL="http://deckmaster.info/images/cards/-66613-hr.jpg">CTH</set>
-            <color>g</color>
+            <color>G</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Sorcery</type>
@@ -242,7 +242,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>The Philosopher</name>
             <set picURL="http://deckmaster.info/images/cards/-66631-hr.jpg">CTH</set>
-            <color>u</color>
+            <color>U</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Hero</type>
@@ -252,7 +252,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Disorienting Glower</name>
             <set picURL="http://deckmaster.info/images/cards/-66606-hr.jpg">CTH</set>
-            <color>g</color>
+            <color>G</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Sorcery</type>
@@ -263,7 +263,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>The Destined</name>
             <set picURL="http://deckmaster.info/images/cards/-66878-hr.jpg">CTH</set>
-            <color>u</color>
+            <color>U</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Hero</type>
@@ -273,7 +273,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Altar of Mogis</name>
             <set picURL="http://deckmaster.info/images/cards/-66711-hr.jpg">CTH</set>
-            <color>r</color>
+            <color>R</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Artifact</type>
@@ -283,7 +283,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>The Warrior</name>
             <set picURL="http://deckmaster.info/images/cards/-66651-hr.jpg">CTH</set>
-            <color>r</color>
+            <color>R</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Hero</type>
@@ -293,7 +293,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Touch of the Horned God</name>
             <set picURL="http://deckmaster.info/images/cards/-66709-hr.jpg">CTH</set>
-            <color>r</color>
+            <color>R</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Sorcery</type>
@@ -303,7 +303,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Ravenous Brute Head</name>
             <set picURL="http://deckmaster.info/images/cards/-66602-hr.jpg">CTH</set>
-            <color>g</color>
+            <color>G</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Elite Creature — Head</type>
@@ -314,7 +314,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>The Savant</name>
             <set picURL="http://deckmaster.info/images/cards/-66734-hr.jpg">CTH</set>
-            <color>r</color>
+            <color>R</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Hero</type>
@@ -324,7 +324,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Dance of Panic</name>
             <set picURL="http://deckmaster.info/images/cards/-66813-hr.jpg">CTH</set>
-            <color>u</color>
+            <color>U</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Enchantment</type>
@@ -334,7 +334,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Savage Vigor Head</name>
             <set picURL="http://deckmaster.info/images/cards/-66603-hr.jpg">CTH</set>
-            <color>g</color>
+            <color>G</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Elite Creature — Head</type>
@@ -345,7 +345,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Intervention of Keranos</name>
             <set picURL="http://deckmaster.info/images/cards/-66708-hr.jpg">CTH</set>
-            <color>r</color>
+            <color>R</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Sorcery</type>
@@ -355,7 +355,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Distract the Hydra</name>
             <set picURL="http://deckmaster.info/images/cards/-66607-hr.jpg">CTH</set>
-            <color>g</color>
+            <color>G</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Sorcery</type>
@@ -365,7 +365,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>The Slayer</name>
             <set picURL="http://deckmaster.info/images/cards/-66683-hr.jpg">CTH</set>
-            <color>g</color>
+            <color>G</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Hero</type>
@@ -375,7 +375,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Impulsive Return</name>
             <set picURL="http://deckmaster.info/images/cards/-66808-hr.jpg">CTH</set>
-            <color>u</color>
+            <color>U</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Sorcery</type>
@@ -385,7 +385,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Phoberos Reaver</name>
             <set picURL="http://deckmaster.info/images/cards/-66704-hr.jpg">CTH</set>
-            <color>r</color>
+            <color>R</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Creature — Minotaur</type>
@@ -396,7 +396,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Bow of the Hunter</name>
             <set picURL="http://deckmaster.info/images/cards/-66867-hr.jpg">CTH</set>
-            <color>u</color>
+            <color>U</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Hero Artifact — Equipment</type>
@@ -406,7 +406,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Torn Between Heads</name>
             <set picURL="http://deckmaster.info/images/cards/-66614-hr.jpg">CTH</set>
-            <color>g</color>
+            <color>G</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Sorcery</type>
@@ -416,7 +416,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Noxious Hydra Breath</name>
             <set picURL="http://deckmaster.info/images/cards/-66611-hr.jpg">CTH</set>
-            <color>g</color>
+            <color>G</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Sorcery</type>
@@ -426,7 +426,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Vitality Salve</name>
             <set picURL="http://deckmaster.info/images/cards/-66715-hr.jpg">CTH</set>
-            <color>r</color>
+            <color>R</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Artifact</type>
@@ -436,7 +436,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Lash of the Tyrant</name>
             <set picURL="http://deckmaster.info/images/cards/-66847-hr.jpg">CTH</set>
-            <color>u</color>
+            <color>U</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Hero Artifact — Equipment</type>
@@ -446,7 +446,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Reckless Minotaur</name>
             <set picURL="http://deckmaster.info/images/cards/-66705-hr.jpg">CTH</set>
-            <color>r</color>
+            <color>R</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Creature — Minotaur</type>
@@ -457,7 +457,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Hydra's Impenetrable Hide</name>
             <set picURL="http://deckmaster.info/images/cards/-66609-hr.jpg">CTH</set>
-            <color>g</color>
+            <color>G</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Sorcery</type>
@@ -467,7 +467,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Axe of the Warmonger</name>
             <set picURL="http://deckmaster.info/images/cards/-66857-hr.jpg">CTH</set>
-            <color>u</color>
+            <color>U</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Hero Artifact — Equipment</type>
@@ -477,7 +477,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>The Harvester</name>
             <set picURL="http://deckmaster.info/images/cards/-66672-hr.jpg">CTH</set>
-            <color>g</color>
+            <color>G</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Hero</type>
@@ -487,7 +487,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Hydra Head</name>
             <set picURL="http://deckmaster.info/images/cards/-66601-hr.jpg">CTH</set>
-            <color>g</color>
+            <color>G</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Creature — Head</type>
@@ -498,7 +498,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>The Explorer</name>
             <set picURL="http://deckmaster.info/images/cards/-66775-hr.jpg">CTH</set>
-            <color>r</color>
+            <color>R</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Hero</type>
@@ -508,7 +508,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Grown from the Stump</name>
             <set picURL="http://deckmaster.info/images/cards/-66608-hr.jpg">CTH</set>
-            <color>g</color>
+            <color>G</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Sorcery</type>
@@ -518,7 +518,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>The Warmonger</name>
             <set picURL="http://deckmaster.info/images/cards/-66754-hr.jpg">CTH</set>
-            <color>r</color>
+            <color>R</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Hero</type>
@@ -528,7 +528,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Unified Lunge</name>
             <set picURL="http://deckmaster.info/images/cards/-66615-hr.jpg">CTH</set>
-            <color>g</color>
+            <color>G</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Sorcery</type>
@@ -538,7 +538,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>The Tyrant</name>
             <set picURL="http://deckmaster.info/images/cards/-66744-hr.jpg">CTH</set>
-            <color>r</color>
+            <color>R</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Hero</type>
@@ -548,7 +548,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>The Champion</name>
             <set picURL="http://deckmaster.info/images/cards/-66889-hr.jpg">CTH</set>
-            <color>u</color>
+            <color>U</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Hero</type>
@@ -558,7 +558,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Plundered Statue</name>
             <set picURL="http://deckmaster.info/images/cards/-66713-hr.jpg">CTH</set>
-            <color>r</color>
+            <color>R</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Artifact</type>
@@ -568,7 +568,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>The Protector</name>
             <set picURL="http://deckmaster.info/images/cards/-66621-hr.jpg">CTH</set>
-            <color>w</color>
+            <color>W</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Hero</type>
@@ -578,7 +578,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Impulsive Charge</name>
             <set picURL="http://deckmaster.info/images/cards/-66806-hr.jpg">CTH</set>
-            <color>u</color>
+            <color>U</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Sorcery</type>
@@ -588,7 +588,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Pheres-Band Revelers</name>
             <set picURL="http://deckmaster.info/images/cards/-66802-hr.jpg">CTH</set>
-            <color>u</color>
+            <color>U</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Creature — Centaur Reveler</type>
@@ -599,7 +599,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>The Hunter</name>
             <set picURL="http://deckmaster.info/images/cards/-66661-hr.jpg">CTH</set>
-            <color>g</color>
+            <color>G</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Hero</type>
@@ -609,7 +609,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Ecstatic Piper</name>
             <set picURL="http://deckmaster.info/images/cards/-66801-hr.jpg">CTH</set>
-            <color>u</color>
+            <color>U</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Creature — Satyr Reveler</type>
@@ -620,7 +620,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Consuming Rage</name>
             <set picURL="0">CTH</set>
-            <color>r</color>
+            <color>R</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Sorcery</type>
@@ -630,7 +630,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Xenagos Ascended</name>
             <set picURL="http://deckmaster.info/images/cards/-66815-hr.jpg">CTH</set>
-            <color>u</color>
+            <color>U</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Legendary Enchantment Creature — God</type>
@@ -641,7 +641,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Wild Maenads</name>
             <set picURL="http://deckmaster.info/images/cards/-66805-hr.jpg">CTH</set>
-            <color>u</color>
+            <color>U</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Creature — Human Reveler</type>
@@ -652,7 +652,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Serpent Dancers</name>
             <set picURL="http://deckmaster.info/images/cards/-66804-hr.jpg">TK</set>
-            <color>u</color>
+            <color>U</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Creature — Human Reveler</type>
@@ -663,7 +663,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Neck Tangle</name>
             <set picURL="http://deckmaster.info/images/cards/-66610-hr.jpg">CTH</set>
-            <color>g</color>
+            <color>G</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Sorcery</type>
@@ -673,7 +673,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>The Avenger</name>
             <set picURL="http://deckmaster.info/images/cards/-66641-hr.jpg">CTH</set>
-            <color>b</color>
+            <color>B</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Hero</type>
@@ -683,7 +683,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Cloak of the Philosopher</name>
             <set picURL="http://deckmaster.info/images/cards/-66837-hr.jpg">CTH</set>
-            <color>u</color>
+            <color>U</color>
             <manacost></manacost>
             <cmc></cmc>
             <type>Hero Artifact — Equipment</type>
