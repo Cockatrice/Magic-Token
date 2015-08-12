@@ -12,9 +12,9 @@
         <card>
             <name>Strike the Weak Spot</name>
             <set picURL="http://deckmaster.info/images/cards/-66612-hr.jpg">CTH</set>
-            <color>G</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Sorcery</type>
             <tablerow>3</tablerow>
             <text>Destroy target Head. If that Head was elite, the Hydra take an extra turn after this one.</text>
@@ -22,9 +22,9 @@
         <card>
             <name>Mogis's Chosen</name>
             <set picURL="http://deckmaster.info/images/cards/-66703-hr.jpg">CTH</set>
-            <color>R</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Creature — Minotaur</type>
             <pt>5/4</pt>
             <tablerow>2</tablerow>
@@ -32,10 +32,10 @@
         </card>
         <card>
             <name>Rip to Pieces</name>
-            <set  picURL="http://deckmaster.info/images/cards/-66809-hr.jpg">CTH</set>
-            <color>U</color>
+            <set picURL="http://deckmaster.info/images/cards/-66809-hr.jpg">CTH</set>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Sorcery</type>
             <tablerow>3</tablerow>
             <text>At the beginning of combat this turn, each Reveler deals 1 damage to each player and each creature those players control.</text>
@@ -43,9 +43,9 @@
         <card>
             <name>Descend on the Prey</name>
             <set picURL="http://deckmaster.info/images/cards/-66707-hr.jpg">CTH</set>
-            <color>R</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Sorcery</type>
             <tablerow>3</tablerow>
             <text>Whenever a Minotaur attacks this turn, it gains first strike until end of turn and must be blocked this turn if able.</text>
@@ -53,9 +53,9 @@
         <card>
             <name>The Vanquisher</name>
             <set picURL="http://deckmaster.info/images/cards/-66786-hr.jpg">CTH</set>
-            <color>R</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Hero</type>
             <tablerow>1</tablerow>
             <text>Your starting hand size is increased by one. Your maximum hand size is increased by one.</text>
@@ -63,9 +63,9 @@
         <card>
             <name>The General</name>
             <set picURL="http://deckmaster.info/images/cards/-66724-hr.jpg">CTH</set>
-            <color>R</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Hero</type>
             <tablerow>1</tablerow>
             <text>Exile The General: Creature you control get +1/+1 until end of turn. Untap them.</text>
@@ -73,9 +73,9 @@
         <card>
             <name>Minotaur Younghorn</name>
             <set picURL="0">CTH</set>
-            <color>R</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Creature — Minotaur</type>
             <pt>2/2</pt>
             <tablerow>2</tablerow>
@@ -84,9 +84,9 @@
         <card>
             <name>Dance of Flame</name>
             <set picURL="0">CTH</set>
-            <color>U</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Enchantment</type>
             <tablerow>1</tablerow>
             <text>Whenever a Reveler attacks, Dance of Flame deals 1 damage to each player.</text>
@@ -94,9 +94,9 @@
         <card>
             <name>The Provider</name>
             <set picURL="http://deckmaster.info/images/cards/-66764-hr.jpg">CTH</set>
-            <color>R</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Hero</type>
             <tablerow>1</tablerow>
             <text>Exile The Provider: Put two +1/+1 counters on target creature you control. You gain life equal to that creature's toughness.</text>
@@ -104,9 +104,9 @@
         <card>
             <name>Refreshing Elixir</name>
             <set picURL="http://deckmaster.info/images/cards/-66714-hr.jpg">CTH</set>
-            <color>R</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Artifact</type>
             <tablerow>1</tablerow>
             <text>At the beginning of the Horde's precombat main phase, reveal an additional card from the top of the Horde's library. The Horde casts that card.
@@ -115,9 +115,9 @@ Hero's Reward — When Refreshing Elixir is put into a graveyard from anywhere, 
         <card>
             <name>Rollicking Throng</name>
             <set picURL="http://deckmaster.info/images/cards/-66803-hr.jpg">CTH</set>
-            <color>U</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Creature — Human Reveler</type>
             <pt>1/3</pt>
             <tablerow>2</tablerow>
@@ -126,9 +126,9 @@ Hero's Reward — When Refreshing Elixir is put into a graveyard from anywhere, 
         <card>
             <name>Impulsive Destruction</name>
             <set picURL="http://deckmaster.info/images/cards/-66807-hr.jpg">CTH</set>
-            <color>U</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Sorcery</type>
             <tablerow>3</tablerow>
             <text>Each player may sacrifice an artifact or enchantment. Impulsive Destruction deals 3 damage to each player who didn't sacrifice a permanent this way.</text>
@@ -136,9 +136,9 @@ Hero's Reward — When Refreshing Elixir is put into a graveyard from anywhere, 
         <card>
             <name>Unquenchable Fury</name>
             <set picURL="http://deckmaster.info/images/cards/-66710-hr.jpg">CTH</set>
-            <color>U</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Sorcery</type>
             <tablerow>3</tablerow>
             <text>Each Minotaur can't be blocked this turn except by two or more creatures.</text>
@@ -146,9 +146,9 @@ Hero's Reward — When Refreshing Elixir is put into a graveyard from anywhere, 
         <card>
             <name>Maddened Oread</name>
             <set picURL="http://deckmaster.info/images/cards/-66814-hr.jpg">CTH</set>
-            <color>U</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Enchantment Creature — Nymph Reveler</type>
             <pt>4/2</pt>
             <tablerow>2</tablerow>
@@ -157,9 +157,9 @@ Hero's Reward — When Refreshing Elixir is put into a graveyard from anywhere, 
         <card>
             <name>Xenagos's Scorn</name>
             <set picURL="http://deckmaster.info/images/cards/-66810-hr.jpg">CTH</set>
-            <color>U</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Sorcery</type>
             <tablerow>3</tablerow>
             <text>Xenagos Ascended gains trample until end of turn and attacks this turn if able.</text>
@@ -167,9 +167,9 @@ Hero's Reward — When Refreshing Elixir is put into a graveyard from anywhere, 
         <card>
             <name>Shrieking Titan Head</name>
             <set picURL="http://deckmaster.info/images/cards/-66604-hr.jpg">CTH</set>
-            <color>G</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Elite Creature — Head</type>
             <pt>0/8</pt>
             <tablerow>2</tablerow>
@@ -179,9 +179,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Xenagos's Strike</name>
             <set picURL="http://deckmaster.info/images/cards/-66811-hr.jpg">CTH</set>
-            <color>U</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Sorcery</type>
             <tablerow>3</tablerow>
             <text>Xenagos's Strike deals 4 damage to each player.</text>
@@ -189,9 +189,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Snapping Fang Head</name>
             <set picURL="http://deckmaster.info/images/cards/-66605-hr.jpg">CTH</set>
-            <color>G</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Elite Creature — Head</type>
             <pt>0/8</pt>
             <tablerow>2</tablerow>
@@ -201,9 +201,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Massacre Totem</name>
             <set picURL="http://deckmaster.info/images/cards/-66712-hr.jpg">CTH</set>
-            <color>R</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Artifact</type>
             <tablerow>1</tablerow>
             <text>At the beginning of the Horde's precombat main phase, reveal an additional card from the top of the Horde's library. The Horde casts that card. Hero's Reward — When Altar of Mogis is put into a graveyard from anywhere, the Horde sacrifies two Minotaurs.</text>
@@ -211,9 +211,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Spear of the General</name>
             <set picURL="http://deckmaster.info/images/cards/-66827-hr.jpg">CTH</set>
-            <color>U</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Hero Artifact — Equipment</type>
             <tablerow>1</tablerow>
             <text>Equipped creature gets +2/+0 and has first strike. Equip {2}</text>
@@ -221,9 +221,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Minotaur Goreseeker</name>
             <set picURL="http://deckmaster.info/images/cards/-66701-hr.jpg">CTH</set>
-            <color>R</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Creature — Minotaur</type>
             <pt>3/2</pt>
             <tablerow>2</tablerow>
@@ -232,9 +232,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Swallow the Hero Whole</name>
             <set picURL="http://deckmaster.info/images/cards/-66613-hr.jpg">CTH</set>
-            <color>G</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Sorcery</type>
             <tablerow>1</tablerow>
             <text>Each player exiles a creature he or she controls. Until the Hydra's next turn, when a Head leaves the battlefield, return the exiled cards to the battlefield under their owners' control.</text>
@@ -242,9 +242,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>The Philosopher</name>
             <set picURL="http://deckmaster.info/images/cards/-66631-hr.jpg">CTH</set>
-            <color>U</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Hero</type>
             <tablerow>1</tablerow>
             <text>{2}, {T}: Tap target creature.</text>
@@ -252,9 +252,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Disorienting Glower</name>
             <set picURL="http://deckmaster.info/images/cards/-66606-hr.jpg">CTH</set>
-            <color>G</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Sorcery</type>
             <tablerow>3</tablerow>
             <text>Player's can't cast spells until the Hydra's next turn.</text>
@@ -262,9 +262,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>The Destined</name>
             <set picURL="http://deckmaster.info/images/cards/-66878-hr.jpg">CTH</set>
-            <color>U</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Hero</type>
             <tablerow>1</tablerow>
             <text>Spells you cast that target a creature you control cost {2} less to cast</text>
@@ -272,9 +272,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Altar of Mogis</name>
             <set picURL="http://deckmaster.info/images/cards/-66711-hr.jpg">CTH</set>
-            <color>R</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Artifact</type>
             <tablerow>1</tablerow>
             <text>At the beginning of the Horde's precombat main phase, reveal an additional card from the top of the Horde's library. The Horde casts that card. Hero's Reward — When Massacre Totem is put into a graveyard from anywhere, put the top seven cards of the Horde's library into its graveyard.</text>
@@ -282,9 +282,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>The Warrior</name>
             <set picURL="http://deckmaster.info/images/cards/-66651-hr.jpg">CTH</set>
-            <color>R</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Hero</type>
             <tablerow>1</tablerow>
             <text>{T}: Target creature you control gains haste until end of turn.</text>
@@ -292,9 +292,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Touch of the Horned God</name>
             <set picURL="http://deckmaster.info/images/cards/-66709-hr.jpg">CTH</set>
-            <color>R</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Sorcery</type>
             <tablerow>3</tablerow>
             <text>Whenever a Minotaur attacks this turn, it gains deathtouch until end of turn.</text>
@@ -302,9 +302,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Ravenous Brute Head</name>
             <set picURL="http://deckmaster.info/images/cards/-66602-hr.jpg">CTH</set>
-            <color>G</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Elite Creature — Head</type>
             <pt>0/6</pt>
             <tablerow>2</tablerow>
@@ -313,9 +313,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>The Savant</name>
             <set picURL="http://deckmaster.info/images/cards/-66734-hr.jpg">CTH</set>
-            <color>R</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Hero</type>
             <tablerow>1</tablerow>
             <text>Exile The Savant: Tap all creatures your opponent control. Those creatures don't untap during their controllers' next untap steps.</text>
@@ -323,9 +323,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Dance of Panic</name>
             <set picURL="http://deckmaster.info/images/cards/-66813-hr.jpg">CTH</set>
-            <color>U</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Enchantment</type>
             <tablerow>1</tablerow>
             <text>As long as five or more Revelers are on the battlefield, all Revelers have haste and attack each turn if able.</text>
@@ -333,9 +333,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Savage Vigor Head</name>
             <set picURL="http://deckmaster.info/images/cards/-66603-hr.jpg">CTH</set>
-            <color>G</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Elite Creature — Head</type>
             <pt>0/8</pt>
             <tablerow>2</tablerow>
@@ -344,9 +344,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Intervention of Keranos</name>
             <set picURL="http://deckmaster.info/images/cards/-66708-hr.jpg">CTH</set>
-            <color>R</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Sorcery</type>
             <tablerow>3</tablerow>
             <text>At the beginning of combat this turn, Intervention of Keranos deals 3 damage to each creature.</text>
@@ -354,9 +354,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Distract the Hydra</name>
             <set picURL="http://deckmaster.info/images/cards/-66607-hr.jpg">CTH</set>
-            <color>G</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Sorcery</type>
             <tablerow>3</tablerow>
             <text>Each player may sacrifice a creature. Each player who sacrificed a creature this way chooses a Head and taps it. Each player who didn't sacrifice a creature loses 3 life.</text>
@@ -364,9 +364,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>The Slayer</name>
             <set picURL="http://deckmaster.info/images/cards/-66683-hr.jpg">CTH</set>
-            <color>G</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Hero</type>
             <tablerow>1</tablerow>
             <text>You start the game with an additional 7 life.</text>
@@ -374,9 +374,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Impulsive Return</name>
             <set picURL="http://deckmaster.info/images/cards/-66808-hr.jpg">CTH</set>
-            <color>U</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Sorcery</type>
             <tablerow>3</tablerow>
             <text>Return two cards named Ecstatic Piper from Xenagos's graveyard to the battlefield. At the beginning of combat this turn, Impulsive Return deals damage to each player equal to the number of Revelers on the battlefield.</text>
@@ -384,9 +384,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Phoberos Reaver</name>
             <set picURL="http://deckmaster.info/images/cards/-66704-hr.jpg">CTH</set>
-            <color>R</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Creature — Minotaur</type>
             <pt>2/3</pt>
             <tablerow>0</tablerow>
@@ -395,9 +395,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Bow of the Hunter</name>
             <set picURL="http://deckmaster.info/images/cards/-66867-hr.jpg">CTH</set>
-            <color>U</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Hero Artifact — Equipment</type>
             <tablerow>1</tablerow>
             <text>Equipped creature has &quot;{T}: This creature deals 2 damage to target creature of player.&quot; Equip {2}</text>
@@ -405,9 +405,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Torn Between Heads</name>
             <set picURL="http://deckmaster.info/images/cards/-66614-hr.jpg">CTH</set>
-            <color>G</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Sorcery</type>
             <tablerow>3</tablerow>
             <text>Tap up to two Heads. They don't untap during the Hydra's next untap step. Torn Between Heads deals 5 damage to each player.</text>
@@ -415,9 +415,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Noxious Hydra Breath</name>
             <set picURL="http://deckmaster.info/images/cards/-66611-hr.jpg">CTH</set>
-            <color>G</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Sorcery</type>
             <tablerow>3</tablerow>
             <text>Choose one — Noxious Hydra Breath deals 5 damage to each player; or destroy each tapped non-Head creature.</text>
@@ -425,9 +425,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Vitality Salve</name>
             <set picURL="http://deckmaster.info/images/cards/-66715-hr.jpg">CTH</set>
-            <color>R</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Artifact</type>
             <tablerow>1</tablerow>
             <text>At the beginning of the Horde's precombat main phase, reveal an additional card from the top of the Horde's library. The Horde casts that card. Hero's Reward — When Vitality Salve is put into a graveyard from anywhere, each player returns a creature card from his or her graveyard to the battlefield.</text>
@@ -435,9 +435,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Lash of the Tyrant</name>
             <set picURL="http://deckmaster.info/images/cards/-66847-hr.jpg">CTH</set>
-            <color>U</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Hero Artifact — Equipment</type>
             <tablerow>1</tablerow>
             <text>Equipped creature gets +1/+2 and has deathtouch. Equip {2}</text>
@@ -445,9 +445,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Reckless Minotaur</name>
             <set picURL="http://deckmaster.info/images/cards/-66705-hr.jpg">CTH</set>
-            <color>R</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Creature — Minotaur</type>
             <pt>4/1</pt>
             <tablerow>2</tablerow>
@@ -456,9 +456,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Hydra's Impenetrable Hide</name>
             <set picURL="http://deckmaster.info/images/cards/-66609-hr.jpg">CTH</set>
-            <color>G</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Sorcery</type>
             <tablerow>3</tablerow>
             <text>Each Head gains indestructible until the end of the Hydra's next turn.</text>
@@ -466,9 +466,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Axe of the Warmonger</name>
             <set picURL="http://deckmaster.info/images/cards/-66857-hr.jpg">CTH</set>
-            <color>U</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Hero Artifact — Equipment</type>
             <tablerow>1</tablerow>
             <text>Equipped creature gets +2/+1 and has haste. Equip {2}</text>
@@ -476,9 +476,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>The Harvester</name>
             <set picURL="http://deckmaster.info/images/cards/-66672-hr.jpg">CTH</set>
-            <color>G</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Hero</type>
             <tablerow>1</tablerow>
             <text>{T}: Draw a card, then discard a card.</text>
@@ -486,9 +486,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Hydra Head</name>
             <set picURL="http://deckmaster.info/images/cards/-66601-hr.jpg">CTH</set>
-            <color>G</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Creature — Head</type>
             <pt>0/3</pt>
             <tablerow>2</tablerow>
@@ -497,9 +497,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>The Explorer</name>
             <set picURL="http://deckmaster.info/images/cards/-66775-hr.jpg">CTH</set>
-            <color>R</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Hero</type>
             <tablerow>1</tablerow>
             <text>You may play an additional land on each of your turns.</text>
@@ -507,9 +507,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Grown from the Stump</name>
             <set picURL="http://deckmaster.info/images/cards/-66608-hr.jpg">CTH</set>
-            <color>G</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Sorcery</type>
             <tablerow>3</tablerow>
             <text>Put exactly two cards named Hydra Head onto the battlefield from the Hydra's graveyard. If you can't, reveal cards from the top of the Hydra's library until you reveal a Head card. Put that card onto the battlefield and the rest into the Hydra's graveyard.</text>
@@ -517,9 +517,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>The Warmonger</name>
             <set picURL="http://deckmaster.info/images/cards/-66754-hr.jpg">CTH</set>
-            <color>R</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Hero</type>
             <tablerow>1</tablerow>
             <text>Exile The Warmonger: Creature you control get +2/+0 and gain haste until end of turn.</text>
@@ -527,9 +527,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Unified Lunge</name>
             <set picURL="http://deckmaster.info/images/cards/-66615-hr.jpg">CTH</set>
-            <color>G</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Sorcery</type>
             <tablerow>3</tablerow>
             <text>Unified Lunge deals X damage to each player, where X is the number of Heads on the battlefield.</text>
@@ -537,9 +537,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>The Tyrant</name>
             <set picURL="http://deckmaster.info/images/cards/-66744-hr.jpg">CTH</set>
-            <color>R</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Hero</type>
             <tablerow>0</tablerow>
             <text>Exile The Tyrant: Creature your opponents control get -1/-1 until end of turn.</text>
@@ -547,9 +547,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>The Champion</name>
             <set picURL="http://deckmaster.info/images/cards/-66889-hr.jpg">CTH</set>
-            <color>U</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Hero</type>
             <tablerow>1</tablerow>
             <text>{2}, {T}, Exile The Champion: Search your library for a legendary artifact card that isn't a creature, reveal it, and put it onto the battlefield. Then shuffle your library.</text>
@@ -557,9 +557,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Plundered Statue</name>
             <set picURL="http://deckmaster.info/images/cards/-66713-hr.jpg">CTH</set>
-            <color>R</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Artifact</type>
             <tablerow>1</tablerow>
             <text>At the beginning of the Horde's precombat main phase, reveal an additional card from the top of the Horde's library. The Horde casts that card. Hero's Reward — When Plundered Statue is put into a graveyard from anywhere, each player draws a card.</text>
@@ -567,9 +567,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>The Protector</name>
             <set picURL="http://deckmaster.info/images/cards/-66621-hr.jpg">CTH</set>
-            <color>W</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Hero</type>
             <tablerow>1</tablerow>
             <text>{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.</text>
@@ -577,9 +577,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Impulsive Charge</name>
             <set picURL="http://deckmaster.info/images/cards/-66806-hr.jpg">CTH</set>
-            <color>U</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Sorcery</type>
             <tablerow>3</tablerow>
             <text>At the beginning of combat this turn, all Revelers gain haste until end of turn and attack this combat if able.</text>
@@ -587,9 +587,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Pheres-Band Revelers</name>
             <set picURL="http://deckmaster.info/images/cards/-66802-hr.jpg">CTH</set>
-            <color>U</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Creature — Centaur Reveler</type>
             <pt>4/4</pt>
             <tablerow>2</tablerow>
@@ -598,9 +598,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>The Hunter</name>
             <set picURL="http://deckmaster.info/images/cards/-66661-hr.jpg">CTH</set>
-            <color>G</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Hero</type>
             <tablerow>1</tablerow>
             <text>{T}: Target creature you control gets +1/+1 until end of turn.</text>
@@ -608,9 +608,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Ecstatic Piper</name>
             <set picURL="http://deckmaster.info/images/cards/-66801-hr.jpg">CTH</set>
-            <color>U</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Creature — Satyr Reveler</type>
             <pt>2/2</pt>
             <tablerow>2</tablerow>
@@ -619,9 +619,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Consuming Rage</name>
             <set picURL="0">CTH</set>
-            <color>R</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Sorcery</type>
             <tablerow>3</tablerow>
             <text>Whenever a Minotaur attacks this turn, it gets +2/+0 until end of turn. Destroy that creature at end of combat.</text>
@@ -629,9 +629,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Xenagos Ascended</name>
             <set picURL="http://deckmaster.info/images/cards/-66815-hr.jpg">CTH</set>
-            <color>U</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Legendary Enchantment Creature — God</type>
             <pt>6/5</pt>
             <tablerow>2</tablerow>
@@ -640,9 +640,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Wild Maenads</name>
             <set picURL="http://deckmaster.info/images/cards/-66805-hr.jpg">CTH</set>
-            <color>U</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Creature — Human Reveler</type>
             <pt>3/1</pt>
             <tablerow>2</tablerow>
@@ -651,9 +651,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Serpent Dancers</name>
             <set picURL="http://deckmaster.info/images/cards/-66804-hr.jpg">TK</set>
-            <color>U</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Creature — Human Reveler</type>
             <pt>2/4</pt>
             <tablerow>2</tablerow>
@@ -662,9 +662,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Neck Tangle</name>
             <set picURL="http://deckmaster.info/images/cards/-66610-hr.jpg">CTH</set>
-            <color>G</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Sorcery</type>
             <tablerow>3</tablerow>
             <text>If there are five or more Heads on the battlefield, tap two of them and they don't untap during the Hydra's next untap step. Otherwise, reveal the top card of the Hydra's library and the Hydra casts that card.</text>
@@ -672,9 +672,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>The Avenger</name>
             <set picURL="http://deckmaster.info/images/cards/-66641-hr.jpg">CTH</set>
-            <color>B</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Hero</type>
             <tablerow>1</tablerow>
             <text>{3}, {T}: Target creature you control gains deathtouch until end of turn.</text>
@@ -682,9 +682,9 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         <card>
             <name>Cloak of the Philosopher</name>
             <set picURL="http://deckmaster.info/images/cards/-66837-hr.jpg">CTH</set>
-            <color>U</color>
+            <color></color>
             <manacost></manacost>
-            <cmc></cmc>
+            <cmc>0</cmc>
             <type>Hero Artifact — Equipment</type>
             <tablerow>1</tablerow>
             <text>Equipped creature gets +1/+1. {2}: Untap equipped creature. Equip {2}</text>
