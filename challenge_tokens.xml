@@ -691,16 +691,16 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
             <name>Garruk the Slayer</name>
             <set picURL="http://s3.gatheringmagic.com.s3.amazonaws.com/uploads/2014/06/23/garruk-the-slayer.png">M15</set>
-			<color></color>
-			<manacost></manacost>
-			<cmc>0</cmc>
-			<type>Planeswalker - Garruk</type>
-			<tablerow>2</tablerow>
-			<text>0: Put a 2/2 green Wolf creature token onto the battlefield.
+            <color></color>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Planeswalker - Garruk</type>
+            <tablerow>2</tablerow>
+            <text>0: Put a 2/2 green Wolf creature token onto the battlefield.
 +4: Target Wolf creature gets +1/+0 and gains deathtouch until end of turn.
 -10: Destroy target creature. Put loyalty counters on Garruk the Slayer equal to that creature's toughness.
 -25: Destroy all creatures Garruk the Slayer doesn't control.</text>
-			<loyalty>20</loyalty>
-		</card>
+            <loyalty>20</loyalty>
+        </card>
     </cards>
 </cockatrice_carddatabase>
