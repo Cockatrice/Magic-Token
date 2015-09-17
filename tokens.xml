@@ -144,7 +144,9 @@
             <type>Token Creature — Bat</type>
             <pt>1/2</pt>
             <tablerow>2</tablerow>
-            <text>{1}{B}, Sacrifice this creature: Return an exiled card named Sengir Nosferatu to the battlefield under its owner's control.</text>
+            <text>Flying
+
+{1}{B}, Sacrifice this creature: Return an exiled card named Sengir Nosferatu to the battlefield under its owner's control.</text>
             <token>1</token>
         </card>
         <card>
@@ -657,6 +659,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Dragon</name>
+            <set picURL="http://media.wizards.com/2015/images/daily/FoyMVxznmy.png">BFZ</set>
             <set picURL="http://magiccards.info/extras/token/worldwake/dragon.jpg">WWK</set>
             <set picURL="http://magiccards.info/extras/token/tenth-edition/dragon.jpg">10E</set>
             <set picURL="http://magiccards.info/extras/token/player-rewards-2002/dragon.jpg">ONS</set>
@@ -752,14 +755,58 @@ Cloud Sprite can block only creatures with flying.</text>
             <text>Flying</text>
             <token>1</token>
         </card>
-        <card><!-- Created by Planechase 2 Plane "Hedron Fields of Agadeem" -->
+        <card>
             <name>Eldrazi</name>
+            <set picURL="http://media.wizards.com/2015/images/daily/kWadJiABeY.png">BFZ</set>
+            <color></color>
+            <manacost></manacost>
+            <type>Token Creature — Eldrazi</type>
+            <pt>10/10</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+        <card><!-- Created by Planechase 2 Plane "Hedron Fields of Agadeem" -->
+            <name>Eldrazi </name>
             <set picURL="http://oi41.tinypic.com/2e37pmq.jpg">PC2</set>
             <manacost></manacost>
             <type>Token Creature — Eldrazi</type>
             <pt>7/7</pt>
             <tablerow>2</tablerow>
             <text>Annihilator 1</text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Eldrazi Scion</name>
+            <set picURL="http://media.wizards.com/2015/images/daily/jzkBRlkQ2X.png">BFZ</set>
+            <color></color>
+            <manacost></manacost>
+            <type>Token Creature — Eldrazi Scion</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Sacrifice this creature: Add {1} to your mana pool.</text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Eldrazi Scion (2)</name>
+            <set picURL="http://media.wizards.com/2015/images/daily/pAT2ZVOJYc.png">BFZ</set>
+            <color></color>
+            <manacost></manacost>
+            <type>Token Creature — Eldrazi Scion</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Sacrifice this creature: Add {1} to your mana pool.</text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Eldrazi Scion (3)</name>
+            <set picURL="http://media.wizards.com/2015/images/daily/ERZfWSN2Kh.png">BFZ</set>
+            <color></color>
+            <manacost></manacost>
+            <type>Token Creature — Eldrazi Scion</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Sacrifice this creature: Add {1} to your mana pool.</text>
             <token>1</token>
         </card>
         <card>
@@ -1016,6 +1063,29 @@ Cloud Sprite can block only creatures with flying.</text>
             <manacost></manacost>
             <type>Token Creature — Elemental</type>
             <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Elemental                     </name>
+            <set picURL="http://media.wizards.com/2015/images/daily/mam91uW2Ld.png">BFZ</set>
+            <color>R</color>
+            <manacost></manacost>
+            <type>Token Creature — Elemental</type>
+            <pt>3/1</pt>
+            <tablerow>2</tablerow>
+            <text>Trample, haste</text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Elemental                      </name>
+            <set picURL="http://media.wizards.com/2015/images/daily/es6ELrarbB.png">BFZ</set>
+            <color>R</color>
+            <color>G</color>
+            <manacost></manacost>
+            <type>Token Creature — Elemental</type>
+            <pt>5/5</pt>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
@@ -1586,7 +1656,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <type>Token Creature — Illusion</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text></text>
+            <text>Flying</text>
             <token>1</token>
         </card>
         <card>
@@ -1748,6 +1818,17 @@ Cloud Sprite can block only creatures with flying.</text>
             <text>Flanking, protection from white, haste</text>
             <token>1</token>
         </card>
+        <card>
+            <name>Knight Ally</name>
+            <set picURL="http://media.wizards.com/2015/images/daily/okAysNztfA.png">BFZ</set>
+            <color>W</color>
+            <manacost></manacost>
+            <type>Token Creature — Knight Ally</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
         <card><!-- Created by
             Kher Keep
             Prossh, Skyraider of Kher 
@@ -1758,6 +1839,17 @@ Cloud Sprite can block only creatures with flying.</text>
             <manacost></manacost>
             <type>Token Creature — Kobold</type>
             <pt>0/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Kor Ally</name>
+            <set picURL="http://media.wizards.com/2015/images/daily/My4kFweDNz.png">BFZ</set>
+            <color>W</color>
+            <manacost></manacost>
+            <type>Token Creature — Kor Ally</type>
+            <pt>1/1</pt>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
@@ -1957,6 +2049,17 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <token>1</token>
         </card>
         <card>
+            <name>Octopus</name>
+            <set picURL="http://media.wizards.com/2015/images/daily/V2qe0ALQPq.png">BFZ</set>
+            <color>U</color>
+            <manacost></manacost>
+            <type>Token Creature — Octopus</type>
+            <pt>8/8</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Ogre</name>
             <set picURL="http://magiccards.info/extras/token/worldwake/ogre.jpg">WWK</set>
             <color>R</color>
@@ -2086,6 +2189,17 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <manacost></manacost>
             <type>Token Creature — Plant</type>
             <pt>0/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Plant </name>
+            <set picURL="http://media.wizards.com/2015/images/daily/VIQOdH0X0n.png">BFZ</set>
+            <color>G</color>
+            <manacost></manacost>
+            <type>Token Creature — Plant</type>
+            <pt>1/1</pt>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
@@ -3005,7 +3119,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="http://s8.postimg.org/f8l8pduxh/WOLVES_OF_THE_HUNT.jpg">M10</set>
             <color>G</color>
             <manacost></manacost>
-            <type>Token Creature — Wolves of the Hunt</type>
+            <type>Token Creature — Wolf</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
             <text>Bands with other creatures named Wolves of the Hunt.</text>
@@ -3199,7 +3313,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
         </card>
         <card>
-            <name>Ajani Emblem</name>
+            <name>Ajani Steadfast (emblem)</name>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0013_MTGM15_TOK_EN%20copy.png">M15</set>
             <manacost></manacost>
             <type>Emblem — Ajani</type>
@@ -3208,7 +3322,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
         </card>
         <card>
-            <name>Chandra Emblem</name>
+            <name>Chandra, Roaring Flame (emblem)</name>
             <set picURL="http://media.wizards.com/2015/images/daily/en_gjqxspbw14.png">ORI</set>
             <manacost></manacost>
             <type>Emblem — Chandra</type>
@@ -3217,7 +3331,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
         </card>
         <card>
-            <name>Dack Emblem</name>
+            <name>Dack Fayden (emblem)</name>
             <set picURL="http://magiccards.info/extras/token/conspiracy/emblem-dack-fayden.jpg">CNS</set>
             <manacost></manacost>
             <type>Emblem — Dack</type>
@@ -3226,7 +3340,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
         </card>
         <card>
-            <name>Daretti Emblem</name>
+            <name>Daretti, Scrap Savant (emblem)</name>
             <set picURL="http://media.wizards.com/2014/images/daily/0036_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
             <manacost></manacost>
             <type>Emblem — Daretti</type>
@@ -3235,7 +3349,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
         </card>
         <card>
-            <name>Domri Emblem</name>
+            <name>Domri Rade (emblem)</name>
             <set picURL="http://magiccards.info/extras/token/gatecrash/emblem-domri-rade.jpg">GTC</set>
             <manacost></manacost>
             <type>Emblem — Domri</type>
@@ -3244,7 +3358,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
         </card>
         <card>
-            <name>Elspeth Emblem</name>
+            <name>Elspeth, Knight Errant (emblem)</name>
             <set picURL="http://magiccards.info/extras/token/modern-event-deck/emblem-elspeth-knight-errant.jpg">MD1</set>
             <set picURL="http://magiccards.info/extras/token/modern-masters/emblem-elspeth-knight-errant.jpg">MMA</set>
             <manacost></manacost>
@@ -3254,7 +3368,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
         </card>
         <card>
-            <name>Elspeth Emblem </name>
+            <name>Elspeth, Sun's Champion (emblem)</name>
             <set picURL="http://magiccards.info/extras/token/theros/elspeth-suns-champion-emblem.jpg">THS</set>
             <manacost></manacost>
             <type>Emblem — Elspeth</type>
@@ -3263,7 +3377,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
         </card>
         <card>
-            <name>Garruk Emblem</name>
+            <name>Garruk, Caller of Beasts (emblem)</name>
             <set picURL="http://magiccards.info/extras/token/magic-2014/emblem-garruk-caller-of-beasts.jpg">M14</set>
             <manacost></manacost>
             <type>Emblem — Garruk</type>
@@ -3272,7 +3386,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
         </card>
         <card>
-            <name>Garruk Emblem </name>
+            <name>Garruk, Apex Predator (emblem)</name>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0014_MTGM15_TOK_EN%20copy.png">M15</set>
             <manacost></manacost>
             <type>Emblem — Garruk</type>
@@ -3281,7 +3395,16 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
         </card>
         <card>
-            <name>Jace Emblem</name>
+            <name>Gideon, Ally of Zendikar (emblem)</name>
+            <set picURL="http://media.wizards.com/2015/images/daily/jvSkttHcrm.png">BFZ</set>
+            <manacost></manacost>
+            <type>Emblem — Gideon</type>
+            <tablerow>1</tablerow>
+            <text>Creatures you control get +1/+1.</text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Jace, Telepath Unbound (emblem)</name>
             <set picURL="http://media.wizards.com/2015/images/daily/en_rri1iwnt1o.png">ORI</set>
             <manacost></manacost>
             <type>Emblem — Jace</type>
@@ -3290,7 +3413,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
         </card>
         <card>
-            <name>Kiora Emblem</name>
+            <name>Kiora, the Crashing Wave (emblem)</name>
             <set picURL="http://magiccards.info/extras/token/born-of-the-gods/emblem-kiora-the-crashing-wave.jpg">BNG</set>
             <manacost></manacost>
             <type>Emblem — Kiora</type>
@@ -3299,7 +3422,16 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
         </card>
         <card>
-            <name>Koth Emblem</name>
+            <name>Kiora, Master of the Depths (emblem)</name>
+            <set picURL="http://media.wizards.com/2015/images/daily/BdrcxTuuOn.png">BFZ</set>
+            <manacost></manacost>
+            <type>Emblem — Kiora</type>
+            <tablerow>1</tablerow>
+            <text>Whenever a creature enters the battlefield under your control, you may have it fight target creature.</text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Koth of the Hammer (emblem)</name>
             <set picURL="http://magiccards.info/extras/token/duel-decks-venser-vs-koth/emblem-koth-of-the-hammer.jpg">DDI</set>
             <manacost></manacost>
             <type>Emblem — Koth</type>
@@ -3308,7 +3440,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
         </card>
         <card>
-            <name>Liliana Emblem</name>
+            <name>Liliana of the Dark Realms (emblem)</name>
             <set picURL="http://magiccards.info/extras/token/magic-2014/emblem-liliana-of-the-dark-realms.jpg">M14</set>
             <set picURL="http://magiccards.info/extras/token/magic-2013/liliana-of-the-dark-realms-emblem.jpg">M13</set>
             <manacost></manacost>
@@ -3318,7 +3450,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
         </card>
         <card>
-            <name>Liliana Emblem </name>
+            <name>Liliana, Defiant Necromancer (emblem)</name>
             <set picURL="http://media.wizards.com/2015/images/daily/en_1j3ypa60bu.png">ORI</set>
             <manacost></manacost>
             <type>Emblem — Liliana</type>
@@ -3327,7 +3459,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
         </card>
         <card>
-            <name>Narset Emblem</name>
+            <name>Narset Transcendent (emblem)</name>
             <set picURL="http://media.wizards.com/2015/dftyuvbd564776rvf/en_5u16zATARH.png">DTK</set>
             <manacost></manacost>
             <type>Emblem — Narset</type>
@@ -3336,7 +3468,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
         </card>
         <card>
-            <name>Ob Nixilis Emblem</name>
+            <name>Ob Nixilis of the Black Oath (emblem)</name>
             <set picURL="http://media.wizards.com/2014/images/daily/0035_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
             <manacost></manacost>
             <type>Emblem — Nixilis</type>
@@ -3345,7 +3477,16 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
         </card>
         <card>
-            <name>Sarkhan Emblem</name>
+            <name>Ob Nixilis Reignited (emblem)</name>
+            <set picURL="http://media.wizards.com/2015/images/daily/ECytCRIuXD.png">BFZ</set>
+            <manacost></manacost>
+            <type>Emblem — Nixilis</type>
+            <tablerow>1</tablerow>
+            <text>Whenever a player draws a card, you lose 2 life.</text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Sarkhan, the Dragonspeaker (emblem)</name>
             <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_08j1ajgxa1.png">KTK</set>
             <manacost></manacost>
             <type>Emblem — Sarkhan</type>
@@ -3356,7 +3497,7 @@ At the beginning of your end step, discard your hand.</text>
             <token>1</token>
         </card>
         <card>
-            <name>Sorin Emblem</name>
+            <name>Sorin, Lord of Innistrad (emblem)</name>
             <set picURL="http://magiccards.info/extras/token/dark-ascension/emblem.jpg">DKA</set>
             <manacost></manacost>
             <type>Emblem — Sorin</type>
@@ -3365,7 +3506,7 @@ At the beginning of your end step, discard your hand.</text>
             <token>1</token>
         </card>
         <card>
-            <name>Sorin Emblem </name>
+            <name>Sorin, Solemn Visitor (emblem)</name>
             <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_hnv6jpe4lr.png">KTK</set>
             <manacost></manacost>
             <type>Emblem — Sorin</type>
@@ -3374,7 +3515,7 @@ At the beginning of your end step, discard your hand.</text>
             <token>1</token>
         </card>
         <card>
-            <name>Tamiyo Emblem</name>
+            <name>Tamiyo, the Moon Sage (emblem)</name>
             <set picURL="http://magiccards.info/extras/token/avacyn-restored/emblem-tamiyo-the-moon-sage.jpg">AVR</set>
             <manacost></manacost>
             <type>Emblem — Tamiyo</type>
@@ -3385,7 +3526,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <token>1</token>
         </card>
         <card>
-            <name>Teferi Emblem</name>
+            <name>Teferi, Temporal Archmage (emblem)</name>
             <set picURL="http://media.wizards.com/2014/images/daily/0034_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
             <manacost></manacost>
             <type>Emblem — Teferi</type>
@@ -3394,7 +3535,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <token>1</token>
         </card>
         <card>
-            <name>Venser Emblem</name>
+            <name>Venser, the Sojourner (emblem)</name>
             <set picURL="http://magiccards.info/extras/token/duel-decks-venser-vs-koth/emblem-venser-the-sojourner.jpg">DDI</set>
             <manacost></manacost>
             <type>Emblem — Venser</type>
