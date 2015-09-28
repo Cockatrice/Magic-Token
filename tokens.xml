@@ -17,7 +17,7 @@
         <card>
             <name>Angel</name>
             <set picURL="http://media.wizards.com/2015/images/daily/en_b3znv1aqdq.png">ORI</set>
-            <set picURL="http://media.wizards.com/2014/images/daily/0001_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/angel.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/angel.jpg">M14</set>
             <set picURL="http://magiccards.info/extras/token/gatecrash/angel.jpg">GTC</set>
             <set picURL="http://magiccards.info/extras/token/avacyn-restored-the-helvault-experience/angel.jpg">pPRE</set>
@@ -58,7 +58,7 @@
         </card>
         <card>
             <name>Ape</name>
-            <set picURL="http://media.wizards.com/2014/images/daily/0018_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/ape.jpg">C14</set>
             <set picURL="http://cdn.staticneo.com/w/mtg/d/db/Ape.jpg">PLC</set>
             <color>G</color>
             <manacost></manacost>
@@ -163,7 +163,7 @@
         </card>
         <card>
             <name>Bear </name>
-            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_1xtd9y36pp.png">KTK</set>
+            <set picURL="http://magiccards.info/extras/token/khans-of-tarkir/bear.jpg">KTK</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token Creature — Bear</type>
@@ -174,7 +174,7 @@
         </card>
         <card>
             <name>Beast</name>
-            <set picURL="http://media.wizards.com/2014/images/daily/0019_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/beast-1.jpg">C14</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0009_MTGM15_TOK_EN%20copy.png">M15</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/beast.jpg">M14</set>
             <set picURL="http://magiccards.info/extras/token/duel-decks-heroes-vs-monsters/beast.jpg">DDL</set>
@@ -197,7 +197,7 @@
         </card>
         <card>
             <name>Beast </name>
-            <set picURL="http://media.wizards.com/2014/images/daily/0020_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/beast-2.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/zendikar/beast.jpg">ZEN</set>
             <set picURL="http://magiccards.info/extras/token/duel-decks-garruk-vs-liliana/beast-2.jpg">DDD</set>
             <set picURL="http://magiccards.info/extras/token/player-rewards-2001/beast.jpg">ODY</set>
@@ -351,7 +351,7 @@
         </card>
         <card>
             <name>Bird       </name>
-            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_e5l3l6c42r.png">KTK</set>
+            <set picURL="http://magiccards.info/extras/token/khans-of-tarkir/bird.jpg">KTK</set>
             <color>W</color>
             <manacost></manacost>
             <type>Token Creature — Bird</type>
@@ -439,7 +439,7 @@
         </card>
         <card>
             <name>Cat</name>
-            <set picURL="http://media.wizards.com/2014/images/daily/0002_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/cat.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/cat.jpg">M14</set>
             <set picURL="http://magiccards.info/extras/token/magic-2013/cat.jpg">M13</set>
             <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/cat.jpg">SOM</set>
@@ -599,7 +599,7 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Demon</name>
             <set picURL="http://media.wizards.com/2015/images/daily/en_16don62w6w.png">ORI</set>
-            <set picURL="http://media.wizards.com/2014/images/daily/0013_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/demon-2.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/avacyn-restored-the-helvault-experience/demon.jpg">pPRE</set>
             <set picURL="http://magiccards.info/extras/token/avacyn-restored/demon.jpg">AVR</set>
             <set picURL="http://magiccards.info/extras/token/innistrad/demon.jpg">ISD</set>
@@ -613,7 +613,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Demon </name>
-            <set picURL="http://media.wizards.com/2014/images/daily/0012_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/demon-1.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/conspiracy/demon.jpg">CNS</set>
             <set picURL="http://magiccards.info/extras/token/duel-decks-divine-vs-demonic/demon.jpg">DDC</set>
             <set picURL="http://magiccards.info/extras/token/player-rewards-2003/demon.jpg">MIR</set>
@@ -648,7 +648,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Djinn Monk</name>
-            <set picURL="http://media.wizards.com/2015/dftyuvbd564776rvf/en_TxQAJubpL8.png">DTK</set>
+            <set picURL="http://magiccards.info/extras/token/dragons-of-tarkir/djinn-monk.jpg">DTK</set>
             <color>U</color>
             <manacost></manacost>
             <type>Token Creature — Djinn Monk</type>
@@ -673,7 +673,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Dragon  </name>
-            <set picURL="http://media.wizards.com/2015/dftyuvbd564776rvf/en_WVAqLunVs8.png">DTK</set>
+            <set picURL="http://magiccards.info/extras/token/dragons-of-tarkir/dragon.jpg">DTK</set>
             <set picURL="http://magiccards.info/extras/token/modern-masters/dragon.jpg">MMA</set>
             <set picURL="http://magiccards.info/extras/token/shards-of-alara/dragon.jpg">ALA</set>
             <color>R</color>
@@ -1047,7 +1047,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental                  </name>
-            <set picURL="http://media.wizards.com/2014/images/daily/0021_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/elemental.jpg">C14</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token Creature — Elemental</type>
@@ -1116,7 +1116,7 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Elephant</name>
             <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_tf0WqzqwuA.png">MM2</set>
-            <set picURL="http://media.wizards.com/2014/images/daily/0022_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/elephant.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/conspiracy/elephant.jpg">CNS</set>
             <set picURL="http://magiccards.info/extras/token/worldwake/elephant.jpg">WWK</set>
             <set picURL="http://magiccards.info/extras/token/duel-decks-garruk-vs-liliana/elephant.jpg">DDD</set>
@@ -1132,7 +1132,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elf Druid</name>
-            <set picURL="http://media.wizards.com/2014/images/daily/0023_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/elf-druid.jpg">C14</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token Creature — Elf Druid</type>
@@ -1144,7 +1144,7 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Elf Warrior</name>
             <set picURL="http://media.wizards.com/2015/images/daily/en_1pdn4qr9ho.png">ORI</set>
-            <set picURL="http://media.wizards.com/2014/images/daily/0024_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/elf-warrior.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/shadowmoor/elf-warrior-1.jpg">SHM</set>
             <set picURL="http://magiccards.info/extras/token/duel-decks-elves-vs-goblins/elf-warrior.jpg">EVG</set>
             <set picURL="http://magiccards.info/extras/token/lorwyn/elf-warrior.jpg">LRW</set>
@@ -1217,7 +1217,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Fish</name>
-            <set picURL="http://media.wizards.com/2014/images/daily/0008_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/fish.jpg">C14</set>
             <color>U</color>
             <manacost></manacost>
             <type>Token Creature — Fish</type>
@@ -1239,7 +1239,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Gargoyle</name>
-            <set picURL="http://media.wizards.com/2014/images/daily/0027_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/gargoyle.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/magic-2010/gargoyle.jpg">M10</set>
             <manacost></manacost>
             <type>Token Artifact Creature — Gargoyle</type>
@@ -1251,7 +1251,7 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Germ</name>
             <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_dKOkeEXQ9V.png">MM2</set>
-            <set picURL="http://media.wizards.com/2014/images/daily/0014_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/germ.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/mirrodin-besieged/germ.jpg">MBS</set>
             <color>B</color>
             <manacost></manacost>
@@ -1308,7 +1308,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Goat</name>
-            <set picURL="http://media.wizards.com/2014/images/daily/0003_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/goat.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/goat.jpg">M14</set>
             <set picURL="http://magiccards.info/extras/token/magic-2013/goat.jpg">M13</set>
             <set picURL="http://magiccards.info/extras/token/eventide/goat.jpg">EVE</set>
@@ -1323,9 +1323,9 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Goblin</name>
             <set picURL="http://media.wizards.com/2015/images/daily/en_vr1ovlnd3s.png">ORI</set>
-            <set picURL="http://media.wizards.com/2015/dftyuvbd564776rvf/en_FnwYArBsPC.png">DTK</set>
-            <set picURL="http://media.wizards.com/2014/images/daily/0017_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
-            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_yf0eai89rz.png">KTK</set>
+            <set picURL="http://magiccards.info/extras/token/dragons-of-tarkir/goblin.jpg">DTK</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/goblin.jpg">C14</set>
+            <set picURL="http://magiccards.info/extras/token/khans-of-tarkir/goblin.jpg">KTK</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0008_MTGM15_TOK_EN%20copy.png">M15</set>
             <set picURL="http://magiccards.info/extras/token/modern-masters/goblin.jpg">MMA</set>
             <set picURL="http://magiccards.info/extras/token/new-phyrexia/goblin.jpg">NPH</set>
@@ -1582,7 +1582,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Horror   </name>
-            <set picURL="http://media.wizards.com/2014/images/daily/0015_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/horror.jpg">C14</set>
             <color>B</color>
             <manacost></manacost>
             <type>Token Creature — Horror</type>
@@ -1856,7 +1856,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Kor Soldier</name>
-            <set picURL="http://media.wizards.com/2014/images/daily/0004_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/kor-soldier.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/zendikar/kor-soldier.jpg">ZEN</set>
             <color>W</color>
             <manacost></manacost>
@@ -1868,7 +1868,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Kraken</name>
-            <set picURL="http://media.wizards.com/2014/images/daily/0009_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/kraken.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/born-of-the-gods/kraken.jpg">BNG</set>
             <color>U</color>
             <manacost></manacost>
@@ -1911,7 +1911,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Manifest</name>
-            <set picURL="http://media.wizards.com/2014/ujehvsbfrf153/en_ibt6mxwxfd.png">FRF</set>
+            <set picURL="http://magiccards.info/extras/token/fate-reforged/manifest.jpg">FRF</set>
             <manacost></manacost>
             <type>Creature</type>
             <pt>2/2</pt>
@@ -2011,7 +2011,7 @@ A manifested creature card can be turned face up any time for its mana cost. A f
         </card>
         <card>
             <name>Monk</name>
-            <set picURL="http://media.wizards.com/2014/ujehvsbfrf153/en_9qg3n4490e.png">FRF</set>
+            <set picURL="http://magiccards.info/extras/token/fate-reforged/monk.jpg">FRF</set>
             <color>1/1</color>
             <manacost></manacost>
             <type>Token Creature — Monk</type>
@@ -2022,8 +2022,8 @@ A manifested creature card can be turned face up any time for its mana cost. A f
         </card>        
         <card>
             <name>Morph</name>
-            <set picURL="http://media.wizards.com/2015/dftyuvbd564776rvf/en_QTioWbxJij.png">DTK</set>
-            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_pu8esg2v7s.png">KTK</set>
+            <set picURL="http://magiccards.info/extras/token/dragons-of-tarkir/morph.jpg">DTK</set>
+            <set picURL="http://magiccards.info/extras/token/khans-of-tarkir/morph.jpg">KTK</set>
             <manacost></manacost>
             <type>Creature</type>
             <pt>2/2</pt>
@@ -2036,7 +2036,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         <card>
             <name>Myr</name>
             <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_ANw57RqESf.png">MM2</set>
-            <set picURL="http://media.wizards.com/2014/images/daily/0028_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/myr.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/modern-event-deck/myr.jpg">MD1</set>
             <set picURL="http://magiccards.info/extras/token/new-phyrexia/myr.jpg">NPH</set>
             <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/myr.jpg">SOM</set>
@@ -2140,7 +2140,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Pegasus</name>
-            <set picURL="http://media.wizards.com/2014/images/daily/0005_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/pegasus.jpg">C14</set>
             <set picURL="http://cdn.staticneo.com/w/mtg/d/dc/Pegasus2.jpg">GPT</set>
             <color>W</color>
             <manacost></manacost>
@@ -2152,7 +2152,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Pentavite</name>
-            <set picURL="http://media.wizards.com/2014/images/daily/0029_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/pentavite.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/magic-2012/pentavite.jpg">M12</set>
             <set picURL="http://magiccards.info/extras/token/player-rewards-2004/pentavite.jpg">MIR</set>
             <manacost></manacost>
@@ -2385,7 +2385,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         <card>
             <name>Snake</name>
             <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_0ZWDRrxtpY.png">MM2</set>
-            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_mv6rtsahnm.png">KTK</set>
+            <set picURL="http://magiccards.info/extras/token/khans-of-tarkir/snake.jpg">KTK</set>
             <set picURL="http://magiccards.info/extras/token/zendikar/snake.jpg">ZEN</set>
             <color>G</color>
             <manacost></manacost>
@@ -2444,7 +2444,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <name>Soldier</name>
             <set picURL="http://media.wizards.com/2015/images/daily/en_5n24neg1wf.png">ORI</set>
             <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_vIxQpTbO6b.png">MM2</set>
-            <set picURL="http://media.wizards.com/2014/images/daily/0006_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/soldier.jpg">C14</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0002_MTGM15_TOK_EN%20copy.png">M15</set>
             <set picURL="http://magiccards.info/extras/token/modern-event-deck/soldier.jpg">MD1</set>
             <set picURL="http://magiccards.info/extras/token/theros/soldier-1.jpg">THS</set>
@@ -2595,9 +2595,9 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         <card>
             <name>Spirit</name>
             <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_E3hF5KOp1J.png">MM2</set>
-            <set picURL="http://media.wizards.com/2014/ujehvsbfrf153/en_adq4qbguqb.png">FRF</set>
-            <set picURL="http://media.wizards.com/2014/images/daily/0007_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
-            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_ivevzegdsc.png">KTK</set>
+            <set picURL="http://magiccards.info/extras/token/fate-reforged/spirit.jpg">FRF</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/spirit.jpg">C14</set>
+            <set picURL="http://magiccards.info/extras/token/khans-of-tarkir/spirit.jpg">KTK</set>
             <set picURL="http://magiccards.info/extras/token/modern-event-deck/spirit.jpg">MD1</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0003_MTGM15_TOK_EN%20copy.png">M15</set>
             <set picURL="http://magiccards.info/extras/token/conspiracy/spirit.jpg">CNS</set>
@@ -2673,7 +2673,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spirit Warrior</name>
-            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_nelpmzkbvp.png">KTK</set>
+            <set picURL="http://magiccards.info/extras/token/khans-of-tarkir/spirit-warrior.jpg">KTK</set>
             <color>B</color>
             <color>G</color>
             <manacost></manacost>
@@ -2744,7 +2744,7 @@ Cumulative upkeep {G}</text>
         </card>
         <card>
             <name>Stoneforged Blade</name>
-            <set picURL="http://media.wizards.com/2014/images/daily/0030_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/stoneforged-blade.jpg">C14</set>
             <manacost></manacost>
             <type>Token Artifact — Equipment</type>
             <tablerow>2</tablerow>
@@ -2837,7 +2837,7 @@ This creature can't be enchanted.</text>
         </card>
         <card>
             <name>Treefolk</name>
-            <set picURL="http://media.wizards.com/2014/images/daily/0025_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/treefolk.jpg">C14</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token Creature — Treefolk</type>
@@ -2883,7 +2883,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Tuktuk The Returned</name>
-            <set picURL="http://media.wizards.com/2014/images/daily/0031_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/tuktuk-the-returned.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/tuktuk-the-returned.jpg">ROE</set>
             <manacost></manacost>
             <type>Token Legendary Artifact Creature — Goblin Golem</type>
@@ -2915,7 +2915,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Vampire</name>
-            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_yrqg0229z7.png">KTK</set>
+            <set picURL="http://magiccards.info/extras/token/khans-of-tarkir/vampire.jpg">KTK</set>
             <set picURL="http://magiccards.info/extras/token/innistrad/vampire.jpg">ISD</set>
             <color>B</color>
             <manacost></manacost>
@@ -3003,10 +3003,10 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Warrior </name>
-            <set picURL="http://media.wizards.com/2015/dftyuvbd564776rvf/en_zFodI6VkI0.png">DTK</set>
-            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_9uro1jblrh.png">KTK</set>
+            <set picURL="http://magiccards.info/extras/token/dragons-of-tarkir/warrior.jpg">DTK</set>
+            <set picURL="http://magiccards.info/extras/token/khans-of-tarkir/warrior-1.jpg">KTK</set>
             <!-- 
-            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_pfcpv8y40h.png">KTK</set>
+            <set picURL="http://magiccards.info/extras/token/khans-of-tarkir/warrior-2.jpg">KTK</set>
             -->
             <color>W</color>
             <manacost></manacost>
@@ -3018,7 +3018,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Warrior  </name>
-            <set picURL="http://media.wizards.com/2014/ujehvsbfrf153/en_3fr744w64c.png">FRF</set>
+            <set picURL="http://magiccards.info/extras/token/fate-reforged/warrior.jpg">FRF</set>
             <color>B</color>
             <manacost></manacost>
             <type>Token Creature — Warrior</type>
@@ -3051,7 +3051,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Whale</name>
-            <set picURL="http://media.wizards.com/2014/images/daily/0010_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/whale.jpg">C14</set>
             <color>U</color>
             <manacost></manacost>
             <type>Token Creature — Whale</type>
@@ -3073,7 +3073,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         <card>
             <name>Wolf</name>
             <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_Nd1vBcud86.png">MM2</set>
-            <set picURL="http://media.wizards.com/2014/images/daily/0026_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/wolf.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/conspiracy/wolf.jpg">CNS</set>
             <set picURL="http://magiccards.info/extras/token/born-of-the-gods/wolf.jpg">BNG</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/wolf.jpg">M14</set>
@@ -3164,7 +3164,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Wurm </name>
-            <set picURL="http://media.wizards.com/2014/images/daily/0033_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/wurm-2.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/wurm-2.jpg">SOM</set>
             <manacost></manacost>
             <type>Token Artifact Creature — Wurm</type>
@@ -3175,7 +3175,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Wurm  </name>
-            <set picURL="http://media.wizards.com/2014/images/daily/0032_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/wurm-1.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/wurm-1.jpg">SOM</set>
             <manacost></manacost>
             <type>Token Artifact Creature — Wurm</type>
@@ -3220,9 +3220,9 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         <card>
             <name>Zombie</name>
             <set picURL="http://media.wizards.com/2015/images/daily/en_zxes762z5e.png">ORI</set>
-            <set picURL="http://media.wizards.com/2015/dftyuvbd564776rvf/en_s1z8EosLq1.png">DTK</set>
-            <set picURL="http://media.wizards.com/2014/images/daily/0016_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
-            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_6mdgfb0p61.png">KTK</set>
+            <set picURL="http://magiccards.info/extras/token/dragons-of-tarkir/zombie.jpg">DTK</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/zombie-2.jpg">C14</set>
+            <set picURL="http://magiccards.info/extras/token/khans-of-tarkir/zombie.jpg">KTK</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0006_MTGM15_TOK_EN%20copy.png">M15</set>
             <set picURL="http://magiccards.info/extras/token/conspiracy/zombie.jpg">CNS</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/zombie.jpg">M14</set>
@@ -3269,7 +3269,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Zombie   </name>
-            <set picURL="http://media.wizards.com/2014/images/daily/0011_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/zombie-1.jpg">C14</set>
             <color>U</color>
             <manacost></manacost>
             <type>Token Creature — Zombie</type>
@@ -3291,7 +3291,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
          <card>
             <name>Zombie Horror</name>
-            <set picURL="http://media.wizards.com/2015/dftyuvbd564776rvf/en_BC0FDYB8M1.png">DTK</set>
+            <set picURL="http://magiccards.info/extras/token/dragons-of-tarkir/zombie-horror.jpg">DTK</set>
             <color>B</color>
             <manacost></manacost>
             <type>Token Creature — Zombie Horror</type>
@@ -3341,7 +3341,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Daretti, Scrap Savant (emblem)</name>
-            <set picURL="http://media.wizards.com/2014/images/daily/0036_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/emblem-daretti.jpg">C14</set>
             <manacost></manacost>
             <type>Emblem — Daretti</type>
             <tablerow>1</tablerow>
@@ -3460,7 +3460,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Narset Transcendent (emblem)</name>
-            <set picURL="http://media.wizards.com/2015/dftyuvbd564776rvf/en_5u16zATARH.png">DTK</set>
+            <set picURL="http://magiccards.info/extras/token/dragons-of-tarkir/emblem-narset.jpg">DTK</set>
             <manacost></manacost>
             <type>Emblem — Narset</type>
             <tablerow>1</tablerow>
@@ -3469,7 +3469,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Ob Nixilis of the Black Oath (emblem)</name>
-            <set picURL="http://media.wizards.com/2014/images/daily/0035_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/emblem-nixilis.jpg">C14</set>
             <manacost></manacost>
             <type>Emblem — Nixilis</type>
             <tablerow>1</tablerow>
@@ -3487,7 +3487,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Sarkhan, the Dragonspeaker (emblem)</name>
-            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_08j1ajgxa1.png">KTK</set>
+            <set picURL="http://magiccards.info/extras/token/khans-of-tarkir/emblem-sarkhan.jpg">KTK</set>
             <manacost></manacost>
             <type>Emblem — Sarkhan</type>
             <tablerow>1</tablerow>
@@ -3507,7 +3507,7 @@ At the beginning of your end step, discard your hand.</text>
         </card>
         <card>
             <name>Sorin, Solemn Visitor (emblem)</name>
-            <set picURL="http://media.wizards.com/images/magic/tcg/products/ktk/8arg43u984398yf/en_hnv6jpe4lr.png">KTK</set>
+            <set picURL="http://magiccards.info/extras/token/khans-of-tarkir/emblem-sorin.jpg">KTK</set>
             <manacost></manacost>
             <type>Emblem — Sorin</type>
             <tablerow>1</tablerow>
@@ -3527,7 +3527,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
         </card>
         <card>
             <name>Teferi, Temporal Archmage (emblem)</name>
-            <set picURL="http://media.wizards.com/2014/images/daily/0034_MTGC14_TOK_EN_HRR%20copy.png">C14</set>
+            <set picURL="http://magiccards.info/extras/token/commander-2014/emblem-teferi.jpg">C14</set>
             <manacost></manacost>
             <type>Emblem — Teferi</type>
             <tablerow>1</tablerow>
