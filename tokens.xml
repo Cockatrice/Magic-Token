@@ -2012,7 +2012,7 @@ A manifested creature card can be turned face up any time for its mana cost. A f
         <card>
             <name>Monk</name>
             <set picURL="http://magiccards.info/extras/token/fate-reforged/monk.jpg">FRF</set>
-            <color>1/1</color>
+            <color>W</color>
             <manacost></manacost>
             <type>Token Creature — Monk</type>
             <pt>1/1</pt>
