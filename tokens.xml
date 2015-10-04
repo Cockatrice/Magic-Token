@@ -758,7 +758,6 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Eldrazi</name>
             <set picURL="http://media.wizards.com/2015/images/daily/kWadJiABeY.png">BFZ</set>
-            <color></color>
             <manacost></manacost>
             <type>Token Creature — Eldrazi</type>
             <pt>10/10</pt>
@@ -779,7 +778,6 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Eldrazi Scion</name>
             <set picURL="http://media.wizards.com/2015/images/daily/jzkBRlkQ2X.png">BFZ</set>
-            <color></color>
             <manacost></manacost>
             <type>Token Creature — Eldrazi Scion</type>
             <pt>1/1</pt>
@@ -790,7 +788,6 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Eldrazi Scion (2)</name>
             <set picURL="http://media.wizards.com/2015/images/daily/pAT2ZVOJYc.png">BFZ</set>
-            <color></color>
             <manacost></manacost>
             <type>Token Creature — Eldrazi Scion</type>
             <pt>1/1</pt>
@@ -801,7 +798,6 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Eldrazi Scion (3)</name>
             <set picURL="http://media.wizards.com/2015/images/daily/ERZfWSN2Kh.png">BFZ</set>
-            <color></color>
             <manacost></manacost>
             <type>Token Creature — Eldrazi Scion</type>
             <pt>1/1</pt>
@@ -854,17 +850,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <token>1</token>
         </card>
         <card>
-            <name>Elemental </name>
-            <set picURL="http://cdn.staticneo.com/w/mtg/2/21/Elemental6.jpg">SOK</set>
-            <color>R</color>
-            <manacost></manacost>
-            <type>Token Creature — Elemental</type>
-            <pt>3/1</pt>
-            <tablerow>2</tablerow>
-            <text>Haste</text>
-            <token>1</token>
-        </card>
-        <card>
             <name>Elemental  </name>
             <set picURL="http://magiccards.info/extras/token/conflux/elemental.jpg">DIS</set>
             <color>R</color>
@@ -873,17 +858,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <pt>3/1</pt>
             <tablerow>2</tablerow>
             <text></text>
-            <token>1</token>
-        </card>
-        <card>
-            <name>Elemental   </name>
-            <set picURL="http://magiccards.info/extras/token/shadowmoor/elemental-1.jpg">SHM</set>
-            <color>R</color>
-            <manacost></manacost>
-            <type>Token Creature — Elemental</type>
-            <pt>1/1</pt>
-            <tablerow>2</tablerow>
-            <text>Haste</text>
             <token>1</token>
         </card>
         <card>
@@ -1086,6 +1060,17 @@ Cloud Sprite can block only creatures with flying.</text>
             <manacost></manacost>
             <type>Token Creature — Elemental</type>
             <pt>5/5</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Elemental                       </name>
+            <set>ARC</set>
+            <color>G</color>
+            <manacost></manacost>
+            <type>Token Creature — Elemental</type>
+            <pt>3/3</pt>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
@@ -1443,6 +1428,16 @@ Cloud Sprite can block only creatures with flying.</text>
             <manacost></manacost>
             <type>Token Artifact Creature — Golem</type>
             <pt>9/9</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Golem  </name>
+            <set>ARC</set>
+            <manacost></manacost>
+            <type>Token Artifact Creature — Golem</type>
+            <pt>4/6</pt>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
@@ -2521,7 +2516,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <type>Token Creature — Elemental</type>
             <pt>3/1</pt>
             <tablerow>2</tablerow>
-            <text>Trample, haste (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker. This creature can attack and {T} as soon as it comes under your control.)
+            <text>Trample, haste
 
 At the beginning of the end step, sacrifice Spark Elemental.</text>
             <token>1</token>
