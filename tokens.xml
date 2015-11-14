@@ -3586,10 +3586,19 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <token>1</token>
         </card>
         <card>
+            <name>Experience Counter</name>
+            <set picURL="http://i.imgur.com/GgQ6lhZ.jpg">C15</set>
+            <manacost></manacost>
+            <type>Counter</type>
+            <tablerow>1</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Poison Counter</name>
             <set picURL="http://magiccards.info/extras/token/new-phyrexia/poison-counter.jpg">NPH</set>
             <manacost></manacost>
-            <type>Emblem</type>
+            <type>Counter</type>
             <tablerow>1</tablerow>
             <text></text>
             <token>1</token>
