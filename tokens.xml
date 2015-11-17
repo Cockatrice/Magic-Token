@@ -607,6 +607,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <set picURL="http://magiccards.info/extras/token/avacyn-restored-the-helvault-experience/demon.jpg">pPRE</set>
             <set picURL="http://magiccards.info/extras/token/avacyn-restored/demon.jpg">AVR</set>
             <set picURL="http://magiccards.info/extras/token/innistrad/demon.jpg">ISD</set>
+            <set picURL="http://magiccards.info/extra/token/player-rewards-2003/demon.jpg">MIR</set>
             <color>B</color>
             <manacost></manacost>
             <type>Token Creature — Demon</type>
@@ -2062,7 +2063,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <set picURL="http://magiccards.info/extras/token/modern-event-deck/myr.jpg">MD1</set>
             <set picURL="http://magiccards.info/extras/token/new-phyrexia/myr.jpg">NPH</set>
             <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/myr.jpg">SOM</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2004/myr.jpg">MIR</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2004/myr.jpg">MRD</set>
             <manacost></manacost>
             <type>Token Artifact Creature — Myr</type>
             <pt>1/1</pt>
@@ -2176,7 +2177,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <name>Pentavite</name>
             <set picURL="http://magiccards.info/extras/token/commander-2014/pentavite.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/magic-2012/pentavite.jpg">M12</set>
-            <set picURL="http://magiccards.info/extras/token/player-rewards-2004/pentavite.jpg">MIR</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2004/pentavite.jpg">MRD</set>
             <manacost></manacost>
             <type>Token Artifact Creature — Pentavite</type>
             <pt>1/1</pt>
@@ -2318,6 +2319,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <set picURL="http://magiccards.info/extras/token/tenth-edition/saproling.jpg">10E</set>
             <set picURL="http://magiccards.info/extras/token/duel-decks-izzet-vs-golgari/saproling.jpg">DDJ</set>
             <set picURL="http://magiccards.info/extras/token/return-to-ravnica/saproling.jpg">RTR</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2001/saproling.jpg">INV</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token Creature — Saproling</type>
@@ -3193,8 +3195,9 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Wurm</name>
-            <set picURL="http://magiccards.info/extras/token/magic-2012/wurm.jpg">M12</set>
             <set picURL="http://magiccards.info/extras/token/magic-2013/wurm.jpg">M13</set>
+            <set picURL="http://magiccards.info/extras/token/magic-2012/wurm.jpg">M12</set>
+            <set picURL="http://magiccards.info/extras/token/player-rewards-2002/wurm.jpg">ODY</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token Creature — Wurm</type>
