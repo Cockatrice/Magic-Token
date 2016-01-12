@@ -47,6 +47,17 @@
             <token>1</token>
         </card>
         <card>
+            <name>Angel  </name>
+            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_3sSk9R7ZqJ.png">OGW</set>
+            <color>W</color>
+            <manacost></manacost>
+            <type>Token Creature — Angel</type>
+            <pt>3/3</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Antelope</name>
             <set picURL="http://s8.postimg.org/t5pmpgout/ANTELOPE.jpg">VAN</set>
             <color>G</color>
@@ -784,32 +795,65 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Eldrazi Scion</name>
+            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_MxPVFC6BEh.png">OGW</set>
             <set picURL="http://media.wizards.com/2015/images/daily/jzkBRlkQ2X.png">BFZ</set>
             <manacost></manacost>
             <type>Token Creature — Eldrazi Scion</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>Sacrifice this creature: Add {1} to your mana pool.</text>
+            <text>Sacrifice this creature: Add {C} to your mana pool.</text>
             <token>1</token>
         </card>
         <card>
             <name>Eldrazi Scion (2)</name>
+            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_k3VHCBBEl9.png">OGW</set>
             <set picURL="http://media.wizards.com/2015/images/daily/pAT2ZVOJYc.png">BFZ</set>
             <manacost></manacost>
             <type>Token Creature — Eldrazi Scion</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>Sacrifice this creature: Add {1} to your mana pool.</text>
+            <text>Sacrifice this creature: Add {C} to your mana pool.</text>
             <token>1</token>
         </card>
         <card>
             <name>Eldrazi Scion (3)</name>
+            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_UaWgUgRPe9.png">OGW</set>
             <set picURL="http://media.wizards.com/2015/images/daily/ERZfWSN2Kh.png">BFZ</set>
             <manacost></manacost>
             <type>Token Creature — Eldrazi Scion</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>Sacrifice this creature: Add {1} to your mana pool.</text>
+            <text>Sacrifice this creature: Add {C} to your mana pool.</text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Eldrazi Scion (4)</name>
+            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_UqWPea58yj.png">OGW</set>
+            <manacost></manacost>
+            <type>Token Creature — Eldrazi Scion</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Sacrifice this creature: Add {C} to your mana pool.</text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Eldrazi Scion (5)</name>
+            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_IuTCHzzj8b.png">OGW</set>
+            <manacost></manacost>
+            <type>Token Creature — Eldrazi Scion</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Sacrifice this creature: Add {C} to your mana pool.</text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Eldrazi Scion (6)</name>
+            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_4wGdCfATt4.png">OGW</set>
+            <manacost></manacost>
+            <type>Token Creature — Eldrazi Scion</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Sacrifice this creature: Add {C} to your mana pool.</text>
             <token>1</token>
         </card>
         <card>
@@ -820,7 +864,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <type>Token Creature — Eldrazi Spawn</type>
             <pt>0/1</pt>
             <tablerow>2</tablerow>
-            <text>Sacrifice this creature: Add {1} to your mana pool.</text>
+            <text>Sacrifice this creature: Add {C} to your mana pool.</text>
             <token>1</token>
         </card>
         <card>
@@ -831,7 +875,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <type>Token Creature — Eldrazi Spawn</type>
             <pt>0/1</pt>
             <tablerow>2</tablerow>
-            <text>Sacrifice this creature: Add {1} to your mana pool.</text>
+            <text>Sacrifice this creature: Add {C} to your mana pool.</text>
             <token>1</token>
         </card>
         <card>
@@ -842,7 +886,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <type>Token Creature — Eldrazi Spawn</type>
             <pt>0/1</pt>
             <tablerow>2</tablerow>
-            <text>Sacrifice this creature: Add {1} to your mana pool.</text>
+            <text>Sacrifice this creature: Add {C} to your mana pool.</text>
             <token>1</token>
         </card>
         <card>
@@ -858,6 +902,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental  </name>
+            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_lrSfRX41Ri.png">OGW</set>
             <set picURL="http://magiccards.info/extras/token/conflux/elemental.jpg">DIS</set>
             <color>R</color>
             <manacost></manacost>
@@ -914,6 +959,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental        </name>
+            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_P1vyxE48Sl.png">OGW</set>
             <set picURL="http://cdn.staticneo.com/w/mtg/3/38/Elemental4.jpg">CHK</set>
             <color>G</color>
             <manacost></manacost>
@@ -1220,6 +1266,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>When this creature dies, put a 6/6 blue Whale creature token onto the battlefield with "When this creature dies, put a 9/9 blue Kraken creature token onto the battlefield."</text>
             <token>1</token>
+            <related>Whale</related>
         </card>
         <card>
             <name>Frog Lizard</name>
@@ -1949,7 +1996,7 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <set picURL="http://magiccards.info/extras/token/coldsnap/marit-lage.jpg">CSP</set>
             <color>B</color>
             <manacost></manacost>
-            <type>Token Creature — Avatar</type>
+            <type>Token Legendary Creature — Avatar</type>
             <pt>20/20</pt>
             <tablerow>2</tablerow>
             <text>Flying, indestructible</text>
@@ -2138,6 +2185,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text>When this creature dies, put two 1/1 green Ooze creature tokens onto the battlefield.</text>
             <token>1</token>
+            <related>Ooze   </related>
         </card>
         <card>
             <name>Ooze   </name>
@@ -2207,6 +2255,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Plant</name>
+            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_qcpll4yBTI.png">OGW</set>
             <set picURL="http://magiccards.info/extras/token/worldwake/plant.jpg">WWK</set>
             <color>G</color>
             <manacost></manacost>
@@ -3070,17 +3119,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
         </card>
         <card>
-            <name>Wave</name>
-            <set picURL="http://s8.postimg.org/5lhqfo1xx/WAVE.jpg">MIR</set>
-            <color>U</color>
-            <manacost></manacost>
-            <type>Token Creature — Wave</type>
-            <pt>5/5</pt>
-            <tablerow>2</tablerow>
-            <text>Defender</text>
-            <token>1</token>
-        </card>
-        <card>
             <name>Weird</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/a/ae/Weird.jpg">GPT</set>
             <color>U</color>
@@ -3101,6 +3139,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text>When this creature dies, put a 9/9 blue Kraken creature token onto the battlefield.</text>
             <token>1</token>
+            <related>Kraken</related>
         </card>
         <card>
             <name>Wirefly</name>
@@ -3263,6 +3302,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Zombie</name>
+            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_uoBpnCUEg1.png">OGW</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_jVoQGXYWRq.png">C15</set>
             <set picURL="http://media.wizards.com/2015/images/daily/en_zxes762z5e.png">ORI</set>
             <set picURL="http://magiccards.info/extras/token/dragons-of-tarkir/zombie.jpg">DTK</set>
