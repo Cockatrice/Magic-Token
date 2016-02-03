@@ -34,16 +34,6 @@
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Angelic Accord</reverse-related>
-            <reverse-related>Angelic Favor</reverse-related>
-            <reverse-related>Decree of Justice</reverse-related>
-            <reverse-related>Devout Invocation</reverse-related>
-            <reverse-related>Entreat the Angels</reverse-related>
-            <reverse-related>Geist of Saint Traft</reverse-related>
-            <reverse-related>Luminarch Ascension</reverse-related>
-            <reverse-related>Moonsilver Spear</reverse-related>
-            <reverse-related>Sigil of the Empty Throne</reverse-related>
-            <reverse-related>Urbis Protector</reverse-related>
         </card>
         <card>
             <name>Angel </name>
@@ -55,7 +45,6 @@
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Haunted Angel</reverse-related>
         </card>
         <card>
             <name>Angel  </name>
@@ -90,7 +79,6 @@
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Pongify</reverse-related>
         </card>
         <card>
             <name>Ape </name>
@@ -102,7 +90,6 @@
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Monkey Cage</reverse-related>
         </card>
         <card>
             <name>Ashaya, the Awoken World</name>
@@ -114,7 +101,6 @@
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Nissa, Sage Animist</reverse-related>
         </card>
         <card>
             <name>Assassin</name>
@@ -127,7 +113,6 @@
             <tablerow>2</tablerow>
             <text>Whenever this creature deals combat damage to a player, that player loses the game.</text>
             <token>1</token>
-            <reverse-related>Vraska the Unseen</reverse-related>
         </card>
         <card>
             <name>Assembly-Worker </name>
@@ -138,7 +123,6 @@
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Urza's Factory</reverse-related>
         </card>
         <card>
             <name>Avatar</name>
@@ -152,7 +136,6 @@
             <tablerow>2</tablerow>
             <text>This creature's power and toughness are each equal to your life total.</text>
             <token>1</token>
-            <reverse-related>Ajani Goldmane</reverse-related>
         </card>
         <card>
             <name>Bat</name>
@@ -164,8 +147,6 @@
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Belfry Spirit</reverse-related>
-            <reverse-related>Skeletal Vampire</reverse-related>
         </card>
         <card>
             <name>Bat </name>
@@ -179,7 +160,6 @@
 
 {1}{B}, Sacrifice this creature: Return an exiled card named Sengir Nosferatu to the battlefield under its owner's control.</text>
             <token>1</token>
-            <reverse-related>Sengir Nosferatu</reverse-related>
         </card>
         <card>
             <name>Bear</name>
@@ -193,11 +173,6 @@
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Bearscape</reverse-related>
-            <reverse-related>Caller of the Claw</reverse-related>
-            <reverse-related>Grizzly Fate</reverse-related>
-            <reverse-related>Kamahl's Summons</reverse-related>
-            <reverse-related>Words of Wilding</reverse-related>
         </card>
         <card>
             <name>Bear </name>
@@ -209,7 +184,6 @@
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Bear's Companion</reverse-related>
         </card>
         <card>
             <name>Beast</name>
@@ -233,18 +207,6 @@
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Beast Within</reverse-related>
-            <reverse-related>Bringer of the Green Dawn</reverse-related>
-            <reverse-related>Feral Incarnation</reverse-related>
-            <reverse-related>Fresh Meat</reverse-related>
-            <reverse-related>Garruk Wildspeaker</reverse-related>
-            <reverse-related>Garruk, Primal Hunter</reverse-related>
-            <reverse-related>Midsummer Revel</reverse-related>
-            <reverse-related>Primeval Bounty</reverse-related>
-            <reverse-related>Pulse of the Tangle</reverse-related>
-            <reverse-related>Savage Conception</reverse-related>
-            <reverse-related>Soul of Zendikar</reverse-related>
-            <reverse-related>Thragtusk</reverse-related>
         </card>
         <card>
             <name>Beast </name>
@@ -260,11 +222,6 @@
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Baloth Cage Trap</reverse-related>
-            <reverse-related>Beast Attack</reverse-related>
-            <reverse-related>Ezuri's Predation</reverse-related>
-            <reverse-related>Hunting Pack</reverse-related>
-            <reverse-related>Rampaging Baloths</reverse-related>
         </card>
         <card>
             <name>Beast  </name>
@@ -278,7 +235,6 @@
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Godsire</reverse-related>
         </card>
         <card>
             <name>Beast   </name>
@@ -290,7 +246,6 @@
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Keeper of the Beasts</reverse-related>
         </card>
         <card>
             <name>Beast    </name>
@@ -302,7 +257,6 @@
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>One Dozen Eyes</reverse-related>
         </card>
         <card>
             <name>Beast     </name>
@@ -314,7 +268,6 @@
             <tablerow>2</tablerow>
             <text>Trample</text>
             <token>1</token>
-            <reverse-related>Spawning Grounds</reverse-related>
         </card>
         <card>
             <name>Beast      </name>
@@ -326,7 +279,6 @@
             <tablerow>2</tablerow>
             <text>Deathtouch</text>
             <token>1</token>
-            <reverse-related>Garruk, Apex Predator</reverse-related>
         </card>
         <card>
             <name>Bird</name>
@@ -339,8 +291,6 @@
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Dovescape</reverse-related>
-            <reverse-related>Pride of the Clouds</reverse-related>
         </card>
         <card>
             <name>Bird </name>
@@ -355,12 +305,6 @@
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Battle Screech</reverse-related>
-            <reverse-related>Beck // Call</reverse-related>
-            <reverse-related>Emeria Angel</reverse-related>
-            <reverse-related>Jötun Owl Keeper</reverse-related>
-            <reverse-related>Ornitharch</reverse-related>
-            <reverse-related>Seller of Songbirds</reverse-related>
         </card>
         <card>
             <name>Bird  </name>
@@ -373,8 +317,6 @@
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Fable of Wolf and Owl</reverse-related>
-            <reverse-related>Ordered Migration</reverse-related>
         </card>
         <card>
             <name>Bird   </name>
@@ -387,7 +329,6 @@
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Roc Egg</reverse-related>
         </card>
         <card>
             <name>Bird    </name>
@@ -399,7 +340,6 @@
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Swan Song</reverse-related>
         </card>
         <card>
             <name>Bird     </name>
@@ -411,8 +351,6 @@
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Aerie Worshippers</reverse-related>
-            <reverse-related>Rise of Eagles</reverse-related>
         </card>
         <card>
             <name>Bird      </name>
@@ -424,7 +362,6 @@
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Rukh Egg</reverse-related>
         </card>
         <card>
             <name>Bird       </name>
@@ -436,7 +373,6 @@
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Wingmate Roc</reverse-related>
         </card>
         <card>
             <name>Bird Soldier</name>
@@ -448,7 +384,6 @@
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Flurry of Wings</reverse-related>
         </card>
         <card>
             <name>Boar</name>
@@ -460,7 +395,6 @@
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Brindle Shoat</reverse-related>
         </card>
         <card>
             <name>Boar </name>
@@ -472,7 +406,6 @@
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Curse of the Swine</reverse-related>
         </card>
         <card>
             <name>Butterfly</name>
@@ -484,7 +417,6 @@
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Giant Caterpillar</reverse-related>
         </card>
         <card>
             <name>Camarid</name>
@@ -496,7 +428,6 @@
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Homarid Spawning Bed</reverse-related>
         </card>
         <card>
             <name>Caribou</name>
@@ -508,7 +439,6 @@
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Caribou Range</reverse-related>
         </card>
         <card>
             <name>Carnivore</name>
@@ -520,7 +450,6 @@
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Tooth and Claw</reverse-related>
         </card>
         <card>
             <name>Cat</name>
@@ -536,10 +465,6 @@
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Ajani's Chosen</reverse-related>
-            <reverse-related>Ajani, Caller of the Pride</reverse-related>
-            <reverse-related>Kemba, Kha Regent</reverse-related>
-            <reverse-related>White Sun's Zenith</reverse-related>
         </card>
         <card>
             <name>Cat </name>
@@ -551,7 +476,6 @@
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Penumbra Bobcat</reverse-related>
         </card>
         <card>
             <name>Cat  </name>
@@ -563,7 +487,6 @@
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Waiting in the Weeds</reverse-related>
         </card>
         <card>
             <name>Cat Soldier</name>
@@ -575,8 +498,6 @@
             <tablerow>2</tablerow>
             <text>Vigilance</text>
             <token>1</token>
-            <reverse-related>Brimaz, King of Oreskos</reverse-related>
-            <reverse-related>Vanguard of Brimaz</reverse-related>
         </card>
         <card>
             <name>Cat Warrior</name>
@@ -588,7 +509,6 @@
             <tablerow>2</tablerow>
             <text>Forestwalk</text>
             <token>1</token>
-            <reverse-related>Jedit Ojanen of Efrava</reverse-related>
         </card>
         <card>
             <name>Centaur</name>
@@ -601,11 +521,6 @@
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Alive // Well</reverse-related>
-            <reverse-related>Call of the Conclave</reverse-related>
-            <reverse-related>Centaur Glade</reverse-related>
-            <reverse-related>Centaur's Herald</reverse-related>
-            <reverse-related>Trostani's Summoner</reverse-related>
         </card>
         <card>
             <name>Centaur </name>
@@ -617,7 +532,6 @@
             <tablerow>2</tablerow>
             <text>Protection from black</text>
             <token>1</token>
-            <reverse-related>Hunted Horror</reverse-related>
         </card>
         <card>
             <name>Centaur   </name>
@@ -629,8 +543,6 @@
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Fated Intervention</reverse-related>
-            <reverse-related>Pheres-Band Raiders</reverse-related>
         </card>
         <card>
             <name>Citizen</name>
@@ -642,8 +554,6 @@
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Icatian Crier</reverse-related>
-            <reverse-related>Icatian Town</reverse-related>
         </card>
         <card>
             <name>Cleric</name>
@@ -656,7 +566,6 @@
             <tablerow>2</tablerow>
             <text>{3}{W}{B}{B}, {T}, Sacrifice this creature: Return a card named Deathpact Angel from your graveyard to the battlefield.</text>
             <token>1</token>
-            <reverse-related>Deathpact Angel</reverse-related>
         </card>
         <card>
             <name>Cleric </name>
@@ -668,7 +577,6 @@
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Heliod, God of the Sun</reverse-related>
         </card>
         <card><!-- Created by Cloudseeder -->
             <name>Cloud Sprite (token)</name>
@@ -682,7 +590,6 @@
 
 Cloud Sprite can block only creatures with flying.</text>
             <token>1</token>
-            <reverse-related>Cloudseeder</reverse-related>
         </card>
         <card>
             <name>Construct</name>
@@ -693,7 +600,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Trample</text>
             <token>1</token>
-            <reverse-related>Stone Idol Trap</reverse-related>
         </card>
         <card>
             <name>Construct </name>
@@ -704,8 +610,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Defender</text>
             <token>1</token>
-            <reverse-related>Flamewright</reverse-related>
-            <reverse-related>Sentinel Dispatch</reverse-related>
         </card>
         <card>
             <name>Demon</name>
@@ -722,10 +626,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Demonic Rising</reverse-related>
-            <reverse-related>Ob Nixilis of the Black Oath</reverse-related>
-            <reverse-related>Priest of the Blood Rite</reverse-related>
-            <reverse-related>Skirsdag High Priest</reverse-related>
         </card>
         <card>
             <name>Demon </name>
@@ -740,8 +640,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Promise of Power</reverse-related>
-            <reverse-related>Reign of the Pit</reverse-related>
         </card>
         <card>
             <name>Deserter</name>
@@ -753,7 +651,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Kjeldoran Home Guard</reverse-related>
         </card>
         <card>
             <name>Djinn</name>
@@ -764,7 +661,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Bottle of Suleiman</reverse-related>
         </card>
         <card>
             <name>Djinn Monk</name>
@@ -776,8 +672,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Ojutai's Summons</reverse-related>
-            <reverse-related>Skywise Teachings</reverse-related>
         </card>
         <card>
             <name>Dragon</name>
@@ -793,14 +687,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Awaken the Sky Tyrant</reverse-related>
-            <reverse-related>Day of the Dragons</reverse-related>
-            <reverse-related>Death by Dragons</reverse-related>
-            <reverse-related>Dragon Roost</reverse-related>
-            <reverse-related>Dragonmaster Outcast</reverse-related>
-            <reverse-related>Look Skyward and Despair</reverse-related>
-            <reverse-related>Sarkhan the Mad</reverse-related>
-            <reverse-related>Shiv</reverse-related>
         </card>
         <card>
             <name>Dragon  </name>
@@ -814,11 +700,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Broodmate Dragon</reverse-related>
-            <reverse-related>Descent of the Dragons</reverse-related>
-            <reverse-related>Dragon Whisperer</reverse-related>
-            <reverse-related>Sarkhan Unbroken</reverse-related>
-            <reverse-related>Sarkhan Vol</reverse-related>
         </card>
         <card>
             <name>Dragon </name>
@@ -831,7 +712,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying, devour 2</text>
             <token>1</token>
-            <reverse-related>Dragon Broodmother</reverse-related>
         </card>
         <card>
             <name>Dragon   </name>
@@ -843,7 +723,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Utvara Hellkite</reverse-related>
         </card>
         <card>
             <name>Dragon    </name>
@@ -858,8 +737,6 @@ Cloud Sprite can block only creatures with flying.</text>
 
 {R}: This creature gets +1/+0 until end of turn.</text>
             <token>1</token>
-            <reverse-related>Brood Keeper</reverse-related>
-            <reverse-related>Dragon Egg</reverse-related>
         </card>
         <card>
             <name>Dragon Spirit</name>
@@ -871,7 +748,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Tatsumasa, the Dragon's Fang</reverse-related>
         </card>
         <card>
             <name>Drake</name>
@@ -884,8 +760,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Talrand's Invocation</reverse-related>
-            <reverse-related>Talrand, Sky Summoner</reverse-related>
         </card>
         <card>
             <name>Drake </name>
@@ -898,7 +772,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Leafdrake Roost</reverse-related>
         </card>
         <card>
             <name>Eldrazi</name>
@@ -909,7 +782,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Desolation Twin</reverse-related>
         </card>
         <card><!-- Created by Planechase 2 Plane "Hedron Fields of Agadeem" -->
             <name>Eldrazi </name>
@@ -920,7 +792,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Annihilator 1</text>
             <token>1</token>
-            <reverse-related>Hedron Fields of Agadeem</reverse-related>
         </card>
         <card>
             <name>Eldrazi Scion</name>
@@ -932,22 +803,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Sacrifice this creature: Add {C} to your mana pool.</text>
             <token>1</token>
-            <reverse-related>Adverse Conditions</reverse-related>
-            <reverse-related>Blight Herder</reverse-related>
-            <reverse-related>Blisterpod</reverse-related>
-            <reverse-related>Brood Butcher</reverse-related>
-            <reverse-related>Brood Monitor</reverse-related>
-            <reverse-related>Call the Scions</reverse-related>
-            <reverse-related>Carrier Thrall</reverse-related>
-            <reverse-related>Catacomb Sifter</reverse-related>
-            <reverse-related>Drowner of Hope</reverse-related>
-            <reverse-related>Eldrazi Skyspawner</reverse-related>
-            <reverse-related>Eyeless Watcher</reverse-related>
-            <reverse-related>From Beyond</reverse-related>
-            <reverse-related>Grave Birthing</reverse-related>
-            <reverse-related>Incubator Drone</reverse-related>
-            <reverse-related>Spawning Bed</reverse-related>
-            <reverse-related>Void Attendant</reverse-related>
         </card>
         <card>
             <name>Eldrazi Scion (2)</name>
@@ -1011,20 +866,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Sacrifice this creature: Add {C} to your mana pool.</text>
             <token>1</token>
-            <reverse-related>Awakening Zone</reverse-related>
-            <reverse-related>Brood Birthing</reverse-related>
-            <reverse-related>Corpsehatch</reverse-related>
-            <reverse-related>Dread Drone</reverse-related>
-            <reverse-related>Emrakul's Hatcher</reverse-related>
-            <reverse-related>Essence Feed</reverse-related>
-            <reverse-related>Growth Spasm</reverse-related>
-            <reverse-related>Kozilek's Predator</reverse-related>
-            <reverse-related>Nest Invader</reverse-related>
-            <reverse-related>Pawn of Ulamog</reverse-related>
-            <reverse-related>Rapacious One</reverse-related>
-            <reverse-related>Skittering Invasion</reverse-related>
-            <reverse-related>Spawning Breath</reverse-related>
-            <reverse-related>Spawnsire of Ulamog</reverse-related>
         </card>
         <card>
             <name>Eldrazi Spawn </name>
@@ -1058,10 +899,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Elemental Mastery</reverse-related>
-            <reverse-related>Molten Birth</reverse-related>
-            <reverse-related>Tempt with Vengeance</reverse-related>
-            <reverse-related>Young Pyromancer</reverse-related>
         </card>
         <card>
             <name>Elemental  </name>
@@ -1074,10 +911,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Feral Lightning</reverse-related>
-            <reverse-related>Lightning Coils</reverse-related>
-            <reverse-related>Rakka Mar</reverse-related>
-            <reverse-related>Research // Development</reverse-related>
         </card>
         <card>
             <name>Elemental    </name>
@@ -1089,7 +922,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Devastating Summons</reverse-related>
         </card>
         <card>
             <name>Elemental     </name>
@@ -1101,8 +933,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Trample, haste</text>
             <token>1</token>
-            <reverse-related>Elemental Appeal</reverse-related>
-            <reverse-related>Zektar Shrine Expedition</reverse-related>
         </card>
         <card>
             <name>Elemental      </name>
@@ -1114,7 +944,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Wand of the Elements</reverse-related>
         </card>
         <card>
             <name>Elemental       </name>
@@ -1127,8 +956,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Eyes of the Wisent</reverse-related>
-            <reverse-related>Walker of the Grove</reverse-related>
         </card>
         <card>
             <name>Elemental        </name>
@@ -1141,8 +968,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Dokai, Weaver of Life</reverse-related>
-            <reverse-related>Marath, Will of the Wild</reverse-related>
         </card>
         <card>
             <name>Elemental         </name>
@@ -1154,7 +979,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Trample</text>
             <token>1</token>
-            <reverse-related>Voice of the Woods</reverse-related>
         </card>
         <card>
             <name>Elemental          </name>
@@ -1166,7 +990,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Hoofprints of the Stag</reverse-related>
         </card>
         <card>
             <name>Elemental           </name>
@@ -1178,7 +1001,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Wand of the Elements</reverse-related>
         </card>
         <card>
             <name>Elemental            </name>
@@ -1191,7 +1013,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Din of the Fireherd</reverse-related>
         </card>
         <card>
             <name>Elemental             </name>
@@ -1205,7 +1026,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Call the Skybreaker</reverse-related>
         </card>
         <card>
             <name>Elemental              </name>
@@ -1218,7 +1038,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Vigilance</text>
             <token>1</token>
-            <reverse-related>Grove of the Guardian</reverse-related>
         </card>
         <card>
             <name>Elemental               </name>
@@ -1231,7 +1050,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>This creature's power and toughness are each equal to the number of creatures you control.</text>
             <token>1</token>
-            <reverse-related>Voice of Resurgence</reverse-related>
         </card>
         <card>
             <name>Elemental                </name>
@@ -1243,7 +1061,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Master of Waves</reverse-related>
         </card>
         <card>
             <name>Elemental                 </name>
@@ -1255,7 +1072,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Satyr Nyx-Smith</reverse-related>
         </card>
         <card>
             <name>Elemental                  </name>
@@ -1267,7 +1083,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Titania, Protector of Argoth</reverse-related>
         </card>
         <card>
             <name>Elemental                   </name>
@@ -1279,7 +1094,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Zendikar's Roil</reverse-related>
         </card>
         <card>
             <name>Elemental                     </name>
@@ -1291,7 +1105,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Trample, haste</text>
             <token>1</token>
-            <reverse-related>Akoum Stonewaker</reverse-related>
         </card>
         <card>
             <name>Elemental                      </name>
@@ -1304,7 +1117,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Omnath, Locus of Rage</reverse-related>
         </card>
         <card>
             <name>Elemental                       </name>
@@ -1316,7 +1128,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Evil Comes to Fruition</reverse-related>
         </card>
         <card>
             <name>Elemental Cat</name>
@@ -1328,7 +1139,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Firecat Blitz</reverse-related>
         </card>
         <card>
             <name>Elemental Shaman</name>
@@ -1342,9 +1152,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Hearthcage Giant</reverse-related>
-            <reverse-related>Hostility</reverse-related>
-            <reverse-related>Rebellion of the Flamekin</reverse-related>
         </card>
         <card>
             <name>Elephant</name>
@@ -1363,15 +1170,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Assault // Battery</reverse-related>
-            <reverse-related>Bestial Menace</reverse-related>
-            <reverse-related>Call of the Herd</reverse-related>
-            <reverse-related>Elephant Ambush</reverse-related>
-            <reverse-related>Elephant Guide</reverse-related>
-            <reverse-related>Elephant Resurgence</reverse-related>
-            <reverse-related>Kazandu Tuskcaller</reverse-related>
-            <reverse-related>Selvala's Charge</reverse-related>
-            <reverse-related>Terastodon</reverse-related>
         </card>
         <card>
             <name>Elf Druid</name>
@@ -1383,7 +1181,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>{T}: Add {G} to your mana pool.</text>
             <token>1</token>
-            <reverse-related>Freyalise, Llanowar's Fury</reverse-related>
         </card>
         <card>
             <name>Elf Warrior</name>
@@ -1399,18 +1196,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Ambassador Oak</reverse-related>
-            <reverse-related>Dwynen's Elite</reverse-related>
-            <reverse-related>Elvish Promenade</reverse-related>
-            <reverse-related>Flourishing Defenses</reverse-related>
-            <reverse-related>Gilt-Leaf Ambush</reverse-related>
-            <reverse-related>Hunting Triad</reverse-related>
-            <reverse-related>Imperious Perfect</reverse-related>
-            <reverse-related>Lys Alana Huntmaster</reverse-related>
-            <reverse-related>Nath of the Gilt-Leaf</reverse-related>
-            <reverse-related>Presence of Gond</reverse-related>
-            <reverse-related>Prowess of the Fair</reverse-related>
-            <reverse-related>Sylvan Offering</reverse-related>
         </card>
         <card>
             <name>Elf Warrior </name>
@@ -1423,7 +1208,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Mercy Killing</reverse-related>
         </card>
         <card>
             <name>Faerie</name>
@@ -1435,7 +1219,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Hunted Troll</reverse-related>
         </card>
         <card>
             <name>Faerie Rogue</name>
@@ -1448,9 +1231,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Bitterblossom</reverse-related>
-            <reverse-related>Notorious Throng</reverse-related>
-            <reverse-related>Violet Pall</reverse-related>
         </card>
         <card>
             <name>Faerie Rogue </name>
@@ -1464,7 +1244,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Oona, Queen of the Fae</reverse-related>
         </card>
         <card><!-- Created by Skirk Ridge Exhumer -->
             <name>Festering Goblin (token)</name>
@@ -1476,7 +1255,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>When Festering Goblin dies, target creature gets -1/-1 until end of turn.</text>
             <token>1</token>
-            <reverse-related>Skirk Ridge Exhumer</reverse-related>
         </card>
         <card>
             <name>Fish</name>
@@ -1489,7 +1267,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <text>When this creature dies, put a 6/6 blue Whale creature token onto the battlefield with "When this creature dies, put a 9/9 blue Kraken creature token onto the battlefield."</text>
             <token>1</token>
             <related>Whale</related>
-            <reverse-related>Reef Worm</reverse-related>
         </card>
         <card>
             <name>Frog Lizard</name>
@@ -1502,7 +1279,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Rapid Hybridization</reverse-related>
         </card>
         <card>
             <name>Gargoyle</name>
@@ -1514,7 +1290,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Gargoyle Castle</reverse-related>
         </card>
         <card>
             <name>Germ</name>
@@ -1529,16 +1304,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Batterskull</reverse-related>
-            <reverse-related>Bonehoard</reverse-related>
-            <reverse-related>Flayer Husk</reverse-related>
-            <reverse-related>Lashwrithe</reverse-related>
-            <reverse-related>Mortarpod</reverse-related>
-            <reverse-related>Necropouncer</reverse-related>
-            <reverse-related>Scytheclaw</reverse-related>
-            <reverse-related>Sickleslicer</reverse-related>
-            <reverse-related>Skinwing</reverse-related>
-            <reverse-related>Strandwalker</reverse-related>
         </card>
         <card>
             <name>Giant</name>
@@ -1550,7 +1315,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Pact of the Titan</reverse-related>
         </card>
         <card>
             <name>Giant Warrior</name>
@@ -1563,7 +1327,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Feudkiller's Verdict</reverse-related>
         </card>
         <card>
             <name>Giant Warrior </name>
@@ -1576,7 +1339,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Haste</text>
             <token>1</token>
-            <reverse-related>Giantbaiting</reverse-related>
         </card>
         <card>
             <name>Gnome</name>
@@ -1587,7 +1349,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Metrognome</reverse-related>
         </card>
         <card>
             <name>Goat</name>
@@ -1602,10 +1363,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Goldmeadow</reverse-related>
-            <reverse-related>Springjack Pasture</reverse-related>
-            <reverse-related>Springjack Shepherd</reverse-related>
-            <reverse-related>Trading Post</reverse-related>
         </card>
         <card>
             <name>Goblin</name>
@@ -1632,33 +1389,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Beetleback Chief</reverse-related>
-            <reverse-related>Chancellor of the Forge</reverse-related>
-            <reverse-related>Dragon Fodder</reverse-related>
-            <reverse-related>Empty the Warrens</reverse-related>
-            <reverse-related>Goblin Assault</reverse-related>
-            <reverse-related>Goblin Marshal</reverse-related>
-            <reverse-related>Goblin Offensive</reverse-related>
-            <reverse-related>Goblin Rabblemaster</reverse-related>
-            <reverse-related>Goblin Rally</reverse-related>
-            <reverse-related>Goblin Warrens</reverse-related>
-            <reverse-related>Goblinslide</reverse-related>
-            <reverse-related>Hordeling Outburst</reverse-related>
-            <reverse-related>Hunted Phantasm</reverse-related>
-            <reverse-related>Ib Halfheart, Goblin Tactician</reverse-related>
-            <reverse-related>Jund</reverse-related>
-            <reverse-related>Kathari Bomber</reverse-related>
-            <reverse-related>Krenko's Command</reverse-related>
-            <reverse-related>Krenko, Mob Boss</reverse-related>
-            <reverse-related>Kuldotha Rebirth</reverse-related>
-            <reverse-related>Mardu Ascendancy</reverse-related>
-            <reverse-related>Mogg Alarm</reverse-related>
-            <reverse-related>Mogg Infestation</reverse-related>
-            <reverse-related>Mogg War Marshal</reverse-related>
-            <reverse-related>Ponyback Brigade</reverse-related>
-            <reverse-related>Siege-Gang Commander</reverse-related>
-            <reverse-related>Survey the Wreckage</reverse-related>
-            <reverse-related>Warbreak Trumpeter</reverse-related>
         </card>
         <card>
             <name>Goblin  </name>
@@ -1670,7 +1400,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Haste</text>
             <token>1</token>
-            <reverse-related>Rakdos Guildmage</reverse-related>
         </card>
         <card>
             <name>Goblin Rogue</name>
@@ -1683,10 +1412,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Boggart Mob</reverse-related>
-            <reverse-related>Marsh Flitter</reverse-related>
-            <reverse-related>Warren Weirding</reverse-related>
-            <reverse-related>Weirding Shaman</reverse-related>
         </card>
         <card>
             <name>Goblin Scout</name>
@@ -1698,7 +1423,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Mountainwalk</text>
             <token>1</token>
-            <reverse-related>Goblin Scouts</reverse-related>
         </card>
         <card>
             <name>Goblin Soldier</name>
@@ -1712,8 +1436,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Goblin Trenches</reverse-related>
-            <reverse-related>Rise of the Hobgoblins</reverse-related>
         </card>
         <card>
             <name>Goblin Warrior</name>
@@ -1726,7 +1448,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Wort, the Raidmother</reverse-related>
         </card>
         <card>
             <name>Gold</name>
@@ -1737,8 +1458,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>1</tablerow>
             <text>Sacrifice this artifact: Add one mana of any color to your mana pool.</text>
             <token>1</token>
-            <reverse-related>Gild</reverse-related>
-            <reverse-related>King Macar, the Gold-Cursed</reverse-related>
         </card>
         <card><!-- Created by Goldmeadow Lookout -->
             <name>Goldmeadow Harrier (token)</name>
@@ -1750,7 +1469,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>{W}, {T}: Tap target creature.</text>
             <token>1</token>
-            <reverse-related>Goldmeadow Lookout</reverse-related>
         </card>
         <card>
             <name>Golem</name>
@@ -1763,15 +1481,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Blade Splicer</reverse-related>
-            <reverse-related>Conversion Chamber</reverse-related>
-            <reverse-related>Golem Foundry</reverse-related>
-            <reverse-related>Master Splicer</reverse-related>
-            <reverse-related>Maul Splicer</reverse-related>
-            <reverse-related>Precursor Golem</reverse-related>
-            <reverse-related>Sensor Splicer</reverse-related>
-            <reverse-related>Vital Splicer</reverse-related>
-            <reverse-related>Wing Splicer</reverse-related>
         </card>
         <card>
             <name>Golem </name>
@@ -1782,7 +1491,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Titan Forge</reverse-related>
         </card>
         <card>
             <name>Golem  </name>
@@ -1793,7 +1501,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>The Iron Guardian Stirs</reverse-related>
         </card>
         <card>
             <name>Golem    </name>
@@ -1804,7 +1511,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Hammer of Purphoros</reverse-related>
         </card>
         <card>
             <name>Graveborn</name>
@@ -1817,8 +1523,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Haste</text>
             <token>1</token>
-            <reverse-related>Balduvian Dead</reverse-related>
-            <reverse-related>Sek'Kuar, Deathkeeper</reverse-related>
         </card>
         <card>
             <name>Griffin</name>
@@ -1831,7 +1535,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Griffin Guide</reverse-related>
         </card>
         <card>
             <name>Harpy</name>
@@ -1843,7 +1546,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Abhorrent Overlord</reverse-related>
         </card>
         <card>
             <name>Hellion</name>
@@ -1856,8 +1558,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Hellion Crucible</reverse-related>
-            <reverse-related>Hellion Eruption</reverse-related>
         </card>
         <card>
             <name>Hippo</name>
@@ -1869,8 +1569,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Phelddagrif</reverse-related>
-            <reverse-related>Questing Phelddagrif</reverse-related>
         </card>
         <card>
             <name>Homunculus</name>
@@ -1882,7 +1580,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Stitcher's Apprentice</reverse-related>
         </card>
         <card>
             <name>Homunculus </name>
@@ -1894,7 +1591,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Puppet Conjurer</reverse-related>
         </card>
         <card>
             <name>Hornet</name>
@@ -1905,7 +1601,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying, haste</text>
             <token>1</token>
-            <reverse-related>Hornet Cannon</reverse-related>
         </card>
         <card>
             <name>Horror</name>
@@ -1916,7 +1611,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Phyrexian Rebirth</reverse-related>
         </card>
         <card>
             <name>Horror </name>
@@ -1929,7 +1623,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Call of the Nightwing</reverse-related>
         </card>
         <card>
             <name>Horror  </name>
@@ -1941,7 +1634,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Hunted Lammasu</reverse-related>
         </card>
         <card>
             <name>Horror   </name>
@@ -1953,8 +1645,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Flesh Carver</reverse-related>
-            <reverse-related>Spoils of Blood</reverse-related>
         </card>
         <card>
             <name>Hound</name>
@@ -1966,7 +1656,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Mongrel Pack</reverse-related>
         </card>
         <card>
             <name>Human</name>
@@ -1980,11 +1669,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Commander's Authority</reverse-related>
-            <reverse-related>Gather the Townsfolk</reverse-related>
-            <reverse-related>Increasing Devotion</reverse-related>
-            <reverse-related>Thraben Doomsayer</reverse-related>
-            <reverse-related>Voice of the Provinces</reverse-related>
         </card>
         <card>
             <name>Human </name>
@@ -1996,7 +1680,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Haste</text>
             <token>1</token>
-            <reverse-related>Thatcher Revolt</reverse-related>
         </card>
         <card>
             <name>Hydra</name>
@@ -2008,7 +1691,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Hydra Broodmaster</reverse-related>
         </card>
         <card>
             <name>Illusion</name>
@@ -2020,7 +1702,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Summoner's Bane</reverse-related>
         </card>
         <card>
             <name>Illusion </name>
@@ -2032,7 +1713,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Meloku the Clouded Mirror</reverse-related>
         </card>
         <card>
             <name>Insect</name>
@@ -2044,9 +1724,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Infect</text>
             <token>1</token>
-            <reverse-related>Carrion Call</reverse-related>
-            <reverse-related>Phyrexian Swarmlord</reverse-related>
-            <reverse-related>Trigon of Infestation</reverse-related>
         </card>
         <card>
             <name>Insect </name>
@@ -2058,8 +1735,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying, deathtouch</text>
             <token>1</token>
-            <reverse-related>Hornet Nest</reverse-related>
-            <reverse-related>Hornet Queen</reverse-related>
         </card>
         <card>
             <name>Insect  </name>
@@ -2073,19 +1748,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Ant Queen</reverse-related>
-            <reverse-related>Beacon of Creation</reverse-related>
-            <reverse-related>Broodhatch Nantuko</reverse-related>
-            <reverse-related>Dragonlair Spider</reverse-related>
-            <reverse-related>Infested Roothold</reverse-related>
-            <reverse-related>Living Hive</reverse-related>
-            <reverse-related>One Dozen Eyes</reverse-related>
-            <reverse-related>Saber Ants</reverse-related>
-            <reverse-related>Symbiotic Beast</reverse-related>
-            <reverse-related>Symbiotic Elf</reverse-related>
-            <reverse-related>Symbiotic Wurm</reverse-related>
-            <reverse-related>Vitality Charm</reverse-related>
-            <reverse-related>Wirewood Hivemaster</reverse-related>
         </card>
         <card>
             <name>Insect   </name>
@@ -2097,7 +1759,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Shroud</text>
             <token>1</token>
-            <reverse-related>Deadly Grub</reverse-related>
         </card>
         <card>
             <name>Insect    </name>
@@ -2109,7 +1770,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Carrion</reverse-related>
         </card>
         <card>
             <name>Kaldra</name>
@@ -2120,7 +1780,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Helm of Kaldra</reverse-related>
         </card>
         <card>
             <name>Kavu</name>
@@ -2132,7 +1791,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Penumbra Kavu</reverse-related>
         </card>
         <card>
             <name>Kelp</name>
@@ -2144,11 +1802,10 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Defender</text>
             <token>1</token>
-            <reverse-related>Wall of Kelp</reverse-related>
         </card>
         <card>
             <name>Kithkin Soldier</name>
-            <set picURL="http://magiccards.info/extras/token/modern-masters/kithkin-soldier.jpg">MMA</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters/kithkin-soldier.jpg" >MMA</set>
             <set picURL="http://magiccards.info/extras/token/shadowmoor/kithkin-soldier.jpg">SHM</set>
             <set picURL="http://magiccards.info/extras/token/lorwyn/kithkin-soldier.jpg">LRW</set>
             <color>W</color>
@@ -2158,14 +1815,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Cenn's Enlistment</reverse-related>
-            <reverse-related>Cloudgoat Ranger</reverse-related>
-            <reverse-related>Guardian of Cloverdell</reverse-related>
-            <reverse-related>Gwyllion Hedge-Mage</reverse-related>
-            <reverse-related>Kinsbaile Borderguard</reverse-related>
-            <reverse-related>Militia's Pride</reverse-related>
-            <reverse-related>Patrol Signaler</reverse-related>
-            <reverse-related>Repel Intruders</reverse-related>
         </card>
         <card>
             <name>Knight</name>
@@ -2180,14 +1829,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Vigilance</text>
             <token>1</token>
-            <reverse-related>Gideon's Phalanx</reverse-related>
-            <reverse-related>Knight Watch</reverse-related>
-            <reverse-related>Knightly Valor</reverse-related>
-            <reverse-related>Righteous Confluence</reverse-related>
-            <reverse-related>Security Blockade</reverse-related>
-            <reverse-related>Selesnya Charm</reverse-related>
-            <reverse-related>Sunspire Gatekeepers</reverse-related>
-            <reverse-related>Trostani's Summoner</reverse-related>
         </card>
         <card>
             <name>Knight </name>
@@ -2200,7 +1841,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>First strike</text>
             <token>1</token>
-            <reverse-related>Hunted Dragon</reverse-related>
         </card>
         <card>
             <name>Knight  </name>
@@ -2212,7 +1852,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Waylay</reverse-related>
         </card>
         <card>
             <name>Knight   </name>
@@ -2224,7 +1863,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Banding</text>
             <token>1</token>
-            <reverse-related>Errand of Duty</reverse-related>
         </card>
         <card>
             <name>Knight    </name>
@@ -2236,7 +1874,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flanking, protection from white, haste</text>
             <token>1</token>
-            <reverse-related>Riftmarked Knight</reverse-related>
         </card>
         <card>
             <name>Knight Ally</name>
@@ -2248,7 +1885,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Gideon, Ally of Zendikar</reverse-related>
         </card>
         <card><!-- Created by
             Kher Keep
@@ -2263,8 +1899,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Kher Keep</reverse-related>
-            <reverse-related>Prossh, Skyraider of Kher</reverse-related>
         </card>
         <card>
             <name>Kor Ally</name>
@@ -2276,8 +1910,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Retreat to Emeria</reverse-related>
-            <reverse-related>Unified Front</reverse-related>
         </card>
         <card>
             <name>Kor Soldier</name>
@@ -2290,9 +1922,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Conqueror's Pledge</reverse-related>
-            <reverse-related>Nahiri, the Lithomancer</reverse-related>
-            <reverse-related>Nomads' Assembly</reverse-related>
         </card>
         <card>
             <name>Kraken</name>
@@ -2305,7 +1934,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Kiora, the Crashing Wave</reverse-related>
         </card>
         <card>
             <name>Land Mine</name>
@@ -2315,7 +1943,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>1</tablerow>
             <text>{R}, Sacrifice this artifact: This artifact deals 2 damage to target attacking creature without flying.</text>
             <token>1</token>
-            <reverse-related>Goblin Kaboomist</reverse-related>
         </card>
         <card>
             <name>Lightning Rager</name>
@@ -2329,7 +1956,6 @@ Cloud Sprite can block only creatures with flying.</text>
 
 At the beginning of the end step, sacrifice this creature.</text>
             <token>1</token>
-            <reverse-related>Rite of the Raging Storm</reverse-related>
         </card>
         <card>
             <name>Lizard</name>
@@ -2341,7 +1967,6 @@ At the beginning of the end step, sacrifice this creature.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Predatory Advantage</reverse-related>
         </card>
         <card><!-- Created by Llanowar Mentor -->
             <name>Llanowar Elves (token)</name>
@@ -2353,7 +1978,6 @@ At the beginning of the end step, sacrifice this creature.</text>
             <tablerow>2</tablerow>
             <text>{T}: Add {G} to your mana pool.</text>
             <token>1</token>
-            <reverse-related>Llanowar Mentor</reverse-related>
         </card>
         <card>
             <name>Manifest</name>
@@ -2377,7 +2001,6 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <tablerow>2</tablerow>
             <text>Flying, indestructible</text>
             <token>1</token>
-            <reverse-related>Dark Depths</reverse-related>
         </card>
         <card>
             <name>Merfolk</name>
@@ -2389,7 +2012,6 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Lullmage Mentor</reverse-related>
         </card>
         <card>
             <name>Merfolk Wizard</name>
@@ -2401,9 +2023,6 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Benthicore</reverse-related>
-            <reverse-related>Stonybrook Schoolmaster</reverse-related>
-            <reverse-related>Summon the School</reverse-related>
         </card>
         <card><!-- Created by Sliversmith -->
             <name>Metallic Sliver (token)</name>
@@ -2414,7 +2033,6 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Sliversmith</reverse-related>
         </card>
         <card>
             <name>Minion</name>
@@ -2426,7 +2044,6 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Phyrexian Processor</reverse-related>
         </card>
         <card>
             <name>Minion </name>
@@ -2438,7 +2055,6 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Infernal Genesis</reverse-related>
         </card>
         <card>
             <name>Minor Demon</name>
@@ -2451,7 +2067,6 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Boris Devilboon</reverse-related>
         </card>
         <card>
             <name>Minotaur</name>
@@ -2463,7 +2078,6 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Flurry of Horns</reverse-related>
         </card>
         <card>
             <name>Monk</name>
@@ -2475,7 +2089,6 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <tablerow>2</tablerow>
             <text>Prowess</text>
             <token>1</token>
-            <reverse-related>Monastery Mentor</reverse-related>
         </card>        
         <card>
             <name>Morph</name>
@@ -2504,17 +2117,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Genesis Chamber</reverse-related>
-            <reverse-related>Master's Call</reverse-related>
-            <reverse-related>Myr Battlesphere</reverse-related>
-            <reverse-related>Myr Incubator</reverse-related>
-            <reverse-related>Myr Matrix</reverse-related>
-            <reverse-related>Myr Sire</reverse-related>
-            <reverse-related>Myr Turbine</reverse-related>
-            <reverse-related>Myrsmith</reverse-related>
-            <reverse-related>Origin Spellbomb</reverse-related>
-            <reverse-related>Parasitic Implant</reverse-related>
-            <reverse-related>Shrine of Loyal Legions</reverse-related>
         </card>
         <card>
             <name>Octopus</name>
@@ -2526,7 +2128,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Kiora, Master of the Depths</reverse-related>
         </card>
         <card>
             <name>Ogre</name>
@@ -2538,7 +2139,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Kazuul, Tyrant of the Cliffs</reverse-related>
         </card>
         <card>
             <name>Ogre </name>
@@ -2550,7 +2150,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Grenzo's Rebuttal</reverse-related>
         </card>
         <card>
             <name>Ooze</name>
@@ -2564,12 +2163,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Gelatinous Genesis</reverse-related>
-            <reverse-related>Miming Slime</reverse-related>
-            <reverse-related>Mystic Genesis</reverse-related>
-            <reverse-related>Ooze Flux</reverse-related>
-            <reverse-related>Ooze Garden</reverse-related>
-            <reverse-related>Slime Molding</reverse-related>
         </card>
         <card>
             <name>Ooze </name>
@@ -2581,7 +2174,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text>This creature's power and toughness are each equal to the number of slime counters on Gutter Grime.</text>
             <token>1</token>
-            <reverse-related>Gutter Grime</reverse-related>
         </card>
         <card>
             <name>Ooze  </name>
@@ -2594,7 +2186,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <text>When this creature dies, put two 1/1 green Ooze creature tokens onto the battlefield.</text>
             <token>1</token>
             <related>Ooze   </related>
-            <reverse-related>Mitotic Slime</reverse-related>
         </card>
         <card>
             <name>Ooze   </name>
@@ -2617,7 +2208,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Phantasmal Sphere</reverse-related>
         </card>
         <card>
             <name>Pegasus</name>
@@ -2630,10 +2220,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Pegasus Refuge</reverse-related>
-            <reverse-related>Pegasus Stampede</reverse-related>
-            <reverse-related>Sacred Mesa</reverse-related>
-            <reverse-related>Storm Herd</reverse-related>
         </card>
         <card>
             <name>Pentavite</name>
@@ -2646,7 +2232,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Pentavus</reverse-related>
         </card>
         <card>
             <name>Pest</name>
@@ -2657,7 +2242,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Nuisance Engine</reverse-related>
         </card>
         <card>
             <name>Pincher</name>
@@ -2668,7 +2252,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Summoning Station</reverse-related>
         </card>
         <card>
             <name>Plant</name>
@@ -2681,10 +2264,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Avenger of Zendikar</reverse-related>
-            <reverse-related>Evil Comes to Fruition</reverse-related>
-            <reverse-related>Khalni Garden</reverse-related>
-            <reverse-related>Nature Shields Its Own</reverse-related>
         </card>
         <card>
             <name>Plant </name>
@@ -2696,7 +2275,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Grovetender Druids</reverse-related>
         </card>
         <card>
             <name>Prism</name>
@@ -2707,7 +2285,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Diamond Kaleidoscope</reverse-related>
         </card>
         <card>
             <name>Rat</name>
@@ -2720,10 +2297,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Lab Rats</reverse-related>
-            <reverse-related>Marrow-Gnawer</reverse-related>
-            <reverse-related>Ogre Slumlord</reverse-related>
-            <reverse-related>Plague of Vermin</reverse-related>
         </card>
         <card>
             <name>Reflection</name>
@@ -2735,7 +2308,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Pure Reflection</reverse-related>
         </card>
         <card>
             <name>Reflection </name>
@@ -2747,7 +2319,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Spirit Mirror</reverse-related>
         </card>
         <card>
             <name>Rhino</name>
@@ -2759,7 +2330,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text>Trample</text>
             <token>1</token>
-            <reverse-related>Trostani's Summoner</reverse-related>
         </card>
         <card>
             <name>Sand</name>
@@ -2770,7 +2340,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Dune-Brood Nephilim</reverse-related>
         </card>
         <card>
             <name>Sand Warrior</name>
@@ -2784,7 +2353,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Hazezon Tamar</reverse-related>
         </card>
         <card>
             <name>Saproling</name>
@@ -2808,70 +2376,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Artifact Mutation</reverse-related>
-            <reverse-related>Aura Mutation</reverse-related>
-            <reverse-related>Bramble Elemental</reverse-related>
-            <reverse-related>Death Mutation</reverse-related>
-            <reverse-related>Deathspore Thallid</reverse-related>
-            <reverse-related>Dreampod Druid</reverse-related>
-            <reverse-related>Druidic Satchel</reverse-related>
-            <reverse-related>Elvish Farmer</reverse-related>
-            <reverse-related>Fertile Imagination</reverse-related>
-            <reverse-related>Fists of Ironwood</reverse-related>
-            <reverse-related>Flash Foliage</reverse-related>
-            <reverse-related>Fungal Sprouting</reverse-related>
-            <reverse-related>Ghave, Guru of Spores</reverse-related>
-            <reverse-related>Golgari Germination</reverse-related>
-            <reverse-related>Grand Ossuary</reverse-related>
-            <reverse-related>Greener Pastures</reverse-related>
-            <reverse-related>Jade Mage</reverse-related>
-            <reverse-related>Jund Battlemage</reverse-related>
-            <reverse-related>Korozda Guildmage</reverse-related>
-            <reverse-related>Last Stand</reverse-related>
-            <reverse-related>Morbid Bloom</reverse-related>
-            <reverse-related>Mycologist</reverse-related>
-            <reverse-related>Mycoloth</reverse-related>
-            <reverse-related>Necrogenesis</reverse-related>
-            <reverse-related>Nemata, Grove Guardian</reverse-related>
-            <reverse-related>Night Soil</reverse-related>
-            <reverse-related>Pallid Mycoderm</reverse-related>
-            <reverse-related>Pollenbright Wings</reverse-related>
-            <reverse-related>Psychotrope Thallid</reverse-related>
-            <reverse-related>Rith's Charm</reverse-related>
-            <reverse-related>Rith, the Awakener</reverse-related>
-            <reverse-related>Roots of All Evil</reverse-related>
-            <reverse-related>Saproling Cluster</reverse-related>
-            <reverse-related>Saproling Infestation</reverse-related>
-            <reverse-related>Saproling Symbiosis</reverse-related>
-            <reverse-related>Savage Thallid</reverse-related>
-            <reverse-related>Scatter the Seeds</reverse-related>
-            <reverse-related>Seed Spark</reverse-related>
-            <reverse-related>Selesnya Evangel</reverse-related>
-            <reverse-related>Selesnya Guildmage</reverse-related>
-            <reverse-related>Spontaneous Generation</reverse-related>
-            <reverse-related>Spore Burst</reverse-related>
-            <reverse-related>Sporemound</reverse-related>
-            <reverse-related>Sporesower Thallid</reverse-related>
-            <reverse-related>Sporogenesis</reverse-related>
-            <reverse-related>Sporoloth Ancient</reverse-related>
-            <reverse-related>Sprout</reverse-related>
-            <reverse-related>Sprout Swarm</reverse-related>
-            <reverse-related>Sprouting Thrinax</reverse-related>
-            <reverse-related>Supply // Demand</reverse-related>
-            <reverse-related>Thallid</reverse-related>
-            <reverse-related>Thallid Devourer</reverse-related>
-            <reverse-related>Thallid Germinator</reverse-related>
-            <reverse-related>Thallid Shell-Dweller</reverse-related>
-            <reverse-related>Thelonite Hermit</reverse-related>
-            <reverse-related>Tukatongue Thallid</reverse-related>
-            <reverse-related>Ulasht, the Hate Seed</reverse-related>
-            <reverse-related>Utopia Mycon</reverse-related>
-            <reverse-related>Verdant Embrace</reverse-related>
-            <reverse-related>Verdant Force</reverse-related>
-            <reverse-related>Verdeloth the Ancient</reverse-related>
-            <reverse-related>Vitaspore Thallid</reverse-related>
-            <reverse-related>Vitu-Ghazi, the City-Tree</reverse-related>
-            <reverse-related>Æther Mutation</reverse-related>
         </card>
         <card>
             <name>Saproling </name>
@@ -2883,7 +2387,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text>This creature's power and toughness are each equal to the number of fade counters on Saproling Burst.</text>
             <token>1</token>
-            <reverse-related>Saproling Burst</reverse-related>
         </card>
         <card>
             <name>Satyr</name>
@@ -2896,8 +2399,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Revel of the Fallen God</reverse-related>
-            <reverse-related>Xenagos, the Reveler</reverse-related>
         </card>
         <card>
             <name>Serf</name>
@@ -2909,7 +2410,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Sengir Autocrat</reverse-related>
         </card>
         <card>
             <name>Shapeshifter </name>
@@ -2921,7 +2421,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text>Changeling</text>
             <token>1</token>
-            <reverse-related>Crib Swap</reverse-related>
         </card>
         <card>
             <name>Sheep</name>
@@ -2933,7 +2432,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Ovinomancer</reverse-related>
         </card>
         <card>
             <name>Skeleton</name>
@@ -2945,8 +2443,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text>{B}: Regenerate this creature.</text>
             <token>1</token>
-            <reverse-related>Drudge Spell</reverse-related>
-            <reverse-related>Skeletonize</reverse-related>
         </card>
         <card>
             <name>Sliver</name>
@@ -2960,10 +2456,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Brood Sliver</reverse-related>
-            <reverse-related>Hive Stirrings</reverse-related>
-            <reverse-related>Sliver Hive</reverse-related>
-            <reverse-related>Sliver Queen</reverse-related>
         </card>
         <card>
             <name>Snake</name>
@@ -2978,17 +2470,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Bestial Menace</reverse-related>
-            <reverse-related>Cobra Trap</reverse-related>
-            <reverse-related>Endless Swarm</reverse-related>
-            <reverse-related>Hooded Hydra</reverse-related>
-            <reverse-related>Orochi Eggwatcher</reverse-related>
-            <reverse-related>Orochi Hatchery</reverse-related>
-            <reverse-related>Rite of the Serpent</reverse-related>
-            <reverse-related>Seed the Land</reverse-related>
-            <reverse-related>Snake Basket</reverse-related>
-            <reverse-related>Snake Pit</reverse-related>
-            <reverse-related>Sosuke's Summons</reverse-related>
         </card>
         <card>
             <name>Snake </name>
@@ -2999,7 +2480,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text>Whenever this creature deals damage to a player, that player gets a poison counter.</text>
             <token>1</token>
-            <reverse-related>Serpent Generator</reverse-related>
         </card>
         <card>
             <name>Snake  </name>
@@ -3013,7 +2493,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Patagia Viper</reverse-related>
         </card>
         <card>
             <name>Snake   </name>
@@ -3026,7 +2505,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text>Deathtouch</text>
             <token>1</token>
-            <reverse-related>Pharika, God of Affliction</reverse-related>
         </card>
         <card>
             <name>Snake    </name>
@@ -3038,7 +2516,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text>Deathtouch</text>
             <token>1</token>
-            <reverse-related>Ophiomancer</reverse-related>
         </card>
         <card>
             <name>Soldier</name>
@@ -3066,35 +2543,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Akroan Horse</reverse-related>
-            <reverse-related>Alliance of Arms</reverse-related>
-            <reverse-related>Attended Knight</reverse-related>
-            <reverse-related>Bant Sojourners</reverse-related>
-            <reverse-related>Benalish Commander</reverse-related>
-            <reverse-related>Captain of the Watch</reverse-related>
-            <reverse-related>Captain's Call</reverse-related>
-            <reverse-related>Darien, King of Kjeldor</reverse-related>
-            <reverse-related>Decree of Justice</reverse-related>
-            <reverse-related>Deploy to the Front</reverse-related>
-            <reverse-related>Elspeth Tirel</reverse-related>
-            <reverse-related>Elspeth, Knight-Errant</reverse-related>
-            <reverse-related>Elspeth, Sun's Champion</reverse-related>
-            <reverse-related>Evangel of Heliod</reverse-related>
-            <reverse-related>Even the Odds</reverse-related>
-            <reverse-related>First Response</reverse-related>
-            <reverse-related>Hero of Bladehold</reverse-related>
-            <reverse-related>Kjeldoran Outpost</reverse-related>
-            <reverse-related>Knight-Captain of Eos</reverse-related>
-            <reverse-related>Launch the Fleet</reverse-related>
-            <reverse-related>Martial Coup</reverse-related>
-            <reverse-related>Mobilization</reverse-related>
-            <reverse-related>Murder Investigation</reverse-related>
-            <reverse-related>Precinct Captain</reverse-related>
-            <reverse-related>Raise the Alarm</reverse-related>
-            <reverse-related>Security Detail</reverse-related>
-            <reverse-related>Stormfront Riders</reverse-related>
-            <reverse-related>Throne of Empires</reverse-related>
-            <reverse-related>Timely Reinforcements</reverse-related>
         </card>
         <card>
             <name>Soldier </name>
@@ -3108,9 +2556,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text>Haste</text>
             <token>1</token>
-            <reverse-related>Assemble the Legion</reverse-related>
-            <reverse-related>Blaze Commando</reverse-related>
-            <reverse-related>Sunhome Guildmage</reverse-related>
         </card>
         <card>
             <name>Soldier    </name>
@@ -3122,7 +2567,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Akroan Crusader</reverse-related>
         </card>
         <card>
             <name>Soldier     </name>
@@ -3134,7 +2578,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>God-Favored General</reverse-related>
         </card>
         <card>
             <name>Soldier Ally</name>
@@ -3146,7 +2589,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Join the Ranks</reverse-related>
         </card>
         <card><!-- Created by Sparkspitter -->
             <name>Spark Elemental (token)</name>
@@ -3160,7 +2602,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
 
 At the beginning of the end step, sacrifice Spark Elemental.</text>
             <token>1</token>
-            <reverse-related>Sparkspitter</reverse-related>
         </card>
         <card>
             <name>Spawn</name>
@@ -3171,7 +2612,6 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Spawning Pit</reverse-related>
         </card>
         <card>
             <name>Sphinx</name>
@@ -3183,7 +2623,6 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Hour of Need</reverse-related>
         </card>
         <card>
             <name>Spider</name>
@@ -3197,9 +2636,6 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
             <text>Reach</text>
             <token>1</token>
-            <reverse-related>Arachnogenesis</reverse-related>
-            <reverse-related>Gloomwidow's Feast</reverse-related>
-            <reverse-related>Spider Spawning</reverse-related>
         </card>
         <card>
             <name>Spider </name>
@@ -3211,7 +2647,6 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
             <text>Reach</text>
             <token>1</token>
-            <reverse-related>Penumbra Spider</reverse-related>
         </card>
         <card>
             <name>Spider  </name>
@@ -3223,7 +2658,6 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
             <text>Reach</text>
             <token>1</token>
-            <reverse-related>Renowned Weaver</reverse-related>
         </card>
         <card>
             <name>Spike</name>
@@ -3235,7 +2669,6 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Spike Breeder</reverse-related>
         </card>
         <card>
             <name>Spirit</name>
@@ -3259,36 +2692,6 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Abzan Ascendancy</reverse-related>
-            <reverse-related>Afterlife</reverse-related>
-            <reverse-related>Avacyn's Collar</reverse-related>
-            <reverse-related>Benevolent Offering</reverse-related>
-            <reverse-related>Custodi Soulbinders</reverse-related>
-            <reverse-related>Doomed Traveler</reverse-related>
-            <reverse-related>Elgaud Inquisitor</reverse-related>
-            <reverse-related>Field of Souls</reverse-related>
-            <reverse-related>Funeral Pyre</reverse-related>
-            <reverse-related>Gallows at Willow Hill</reverse-related>
-            <reverse-related>Geist-Honored Monk</reverse-related>
-            <reverse-related>Hallowed Spiritkeeper</reverse-related>
-            <reverse-related>Kirtar's Wrath</reverse-related>
-            <reverse-related>Lingering Souls</reverse-related>
-            <reverse-related>Luminous Angel</reverse-related>
-            <reverse-related>March of Souls</reverse-related>
-            <reverse-related>Mausoleum Guard</reverse-related>
-            <reverse-related>Midnight Haunting</reverse-related>
-            <reverse-related>Moorland Haunt</reverse-related>
-            <reverse-related>Requiem Angel</reverse-related>
-            <reverse-related>Rousing of Souls</reverse-related>
-            <reverse-related>Sandsteppe Outcast</reverse-related>
-            <reverse-related>Seize the Soul</reverse-related>
-            <reverse-related>Spectral Procession</reverse-related>
-            <reverse-related>Spirit Bonds</reverse-related>
-            <reverse-related>Spirit Cairn</reverse-related>
-            <reverse-related>Teysa, Orzhov Scion</reverse-related>
-            <reverse-related>Transluminant</reverse-related>
-            <reverse-related>Triplicate Spirits</reverse-related>
-            <reverse-related>Twilight Drover</reverse-related>
         </card>
         <card>
             <name>Spirit </name>
@@ -3300,7 +2703,6 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Geist Snatch</reverse-related>
         </card>
         <card>
             <name>Spirit  </name>
@@ -3315,8 +2717,6 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Beckon Apparition</reverse-related>
-            <reverse-related>Teysa, Envoy of Ghosts</reverse-related>
         </card>
         <card>
             <name>Spirit   </name>
@@ -3327,14 +2727,6 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Baku Altar</reverse-related>
-            <reverse-related>Dripping-Tongue Zubera</reverse-related>
-            <reverse-related>Forbidden Orchard</reverse-related>
-            <reverse-related>Gods' Eye, Gate to the Reikai</reverse-related>
-            <reverse-related>Honden of Life's Web</reverse-related>
-            <reverse-related>Promise of Bunrei</reverse-related>
-            <reverse-related>Sekki, Seasons' Guide</reverse-related>
-            <reverse-related>Spiritual Visit</reverse-related>
         </card>
         <card>
             <name>Spirit    </name>
@@ -3346,7 +2738,6 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Broken Visage</reverse-related>
         </card>
         <card>
             <name>Spirit     </name>
@@ -3358,7 +2749,6 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Oyobi, Who Split the Heavens</reverse-related>
         </card>
         <card>
             <name>Spirit      </name>
@@ -3371,7 +2761,6 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
             <text>This creature's power and toughness are each equal to the number of experience counters you have.</text>
             <token>1</token>
-            <reverse-related>Daxos the Returned</reverse-related>
         </card>
         <card>
             <name>Spirit Warrior</name>
@@ -3384,7 +2773,6 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Kin-Tree Invocation</reverse-related>
         </card>
         <card>
             <name>Splinter </name>
@@ -3398,7 +2786,6 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
 
 Cumulative upkeep {G}</text>
             <token>1</token>
-            <reverse-related>Splintering Wind</reverse-related>
         </card>
         <card>
             <name>Squid</name>
@@ -3410,8 +2797,6 @@ Cumulative upkeep {G}</text>
             <tablerow>2</tablerow>
             <text>Islandwalk</text>
             <token>1</token>
-            <reverse-related>Chasm Skulker</reverse-related>
-            <reverse-related>Coral Barrier</reverse-related>
         </card>
         <card>
             <name>Squirrel</name>
@@ -3424,16 +2809,6 @@ Cumulative upkeep {G}</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Acorn Catapult</reverse-related>
-            <reverse-related>Acorn Harvest</reverse-related>
-            <reverse-related>Chatter of the Squirrel</reverse-related>
-            <reverse-related>Deranged Hermit</reverse-related>
-            <reverse-related>Druid's Call</reverse-related>
-            <reverse-related>Liege of the Hollows</reverse-related>
-            <reverse-related>Nantuko Shrine</reverse-related>
-            <reverse-related>Nut Collector</reverse-related>
-            <reverse-related>Squirrel Nest</reverse-related>
-            <reverse-related>Squirrel Wrangler</reverse-related>
         </card>
         <card>
             <name>Stangg Twin</name>
@@ -3446,7 +2821,6 @@ Cumulative upkeep {G}</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Stangg</reverse-related>
         </card>
         <card>
             <name>Starfish</name>
@@ -3458,7 +2832,6 @@ Cumulative upkeep {G}</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Spiny Starfish</reverse-related>
         </card>
         <card>
             <name>Stoneforged Blade</name>
@@ -3472,7 +2845,6 @@ Equipped creature gets +5/+5 and has double strike.
 
 Equip {0}</text>
             <token>1</token>
-            <reverse-related>Nahiri, the Lithomancer</reverse-related>
         </card>
         <card>
             <name>Survivor</name>
@@ -3484,7 +2856,6 @@ Equip {0}</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Varchild's War-Riders</reverse-related>
         </card>
         <card>
             <name>Tetravite</name>
@@ -3497,7 +2868,6 @@ Equip {0}</text>
 
 This creature can't be enchanted.</text>
             <token>1</token>
-            <reverse-related>Tetravus</reverse-related>
         </card>
         <card>
             <name>Thopter</name>
@@ -3510,16 +2880,6 @@ This creature can't be enchanted.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Aspiring Aeronaut</reverse-related>
-            <reverse-related>Foundry of the Consuls</reverse-related>
-            <reverse-related>Ghirapur Gearcrafter</reverse-related>
-            <reverse-related>Hangarback Walker</reverse-related>
-            <reverse-related>Pia and Kiran Nalaar</reverse-related>
-            <reverse-related>Thopter Assembly</reverse-related>
-            <reverse-related>Thopter Engineer</reverse-related>
-            <reverse-related>Thopter Spy Network</reverse-related>
-            <reverse-related>Thopter Squadron</reverse-related>
-            <reverse-related>Whirler Rogue</reverse-related>
         </card>
         <card>
             <name>Thopter </name>
@@ -3531,8 +2891,6 @@ This creature can't be enchanted.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Sharding Sphinx</reverse-related>
-            <reverse-related>Thopter Foundry</reverse-related>
         </card>
         <card>
             <name>Thrull</name>
@@ -3544,7 +2902,6 @@ This creature can't be enchanted.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Breeding Pit</reverse-related>
         </card>
         <card>
             <name>Thrull </name>
@@ -3557,7 +2914,6 @@ This creature can't be enchanted.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Endrek Sahr, Master Breeder</reverse-related>
         </card>
         <card>
             <name>Tombspawn</name>
@@ -3569,7 +2925,6 @@ This creature can't be enchanted.</text>
             <tablerow>2</tablerow>
             <text>Haste</text>
             <token>1</token>
-            <reverse-related>Tombstone Stairwell</reverse-related>
         </card>
         <card>
             <name>Treefolk</name>
@@ -3581,7 +2936,6 @@ This creature can't be enchanted.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Sylvan Offering</reverse-related>
         </card>
         <card>
             <name>Treefolk Shaman</name>
@@ -3594,7 +2948,6 @@ This creature can't be enchanted.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Reach of Branches</reverse-related>
         </card>
         <card>
             <name>Treefolk Warrior</name>
@@ -3606,7 +2959,6 @@ This creature can't be enchanted.</text>
             <tablerow>2</tablerow>
             <text>This creature's power and toughness are each equal to the number of Forests you control.</text>
             <token>1</token>
-            <reverse-related>Kalonian Twingrove</reverse-related>
         </card>
         <card>
             <name>Triskelavite</name>
@@ -3619,7 +2971,6 @@ This creature can't be enchanted.</text>
 
 Sacrifice this creature: This creature deals 1 damage to target creature or player.</text>
             <token>1</token>
-            <reverse-related>Triskelavus</reverse-related>
         </card>
         <card>
             <name>Tuktuk The Returned</name>
@@ -3631,7 +2982,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Tuktuk the Explorer</reverse-related>
         </card>
         <card>
             <name>Twin</name>
@@ -3642,7 +2992,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Gemini Engine</reverse-related>
         </card>
         <card>
             <name>Urami</name>
@@ -3654,7 +3003,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Tomb of Urami</reverse-related>
         </card>
         <card>
             <name>Vampire</name>
@@ -3667,9 +3015,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Bloodline Keeper</reverse-related>
-            <reverse-related>Lord of Lineage</reverse-related>
-            <reverse-related>Sorin, Solemn Visitor</reverse-related>
         </card>
         <card>
             <name>Vampire </name>
@@ -3681,7 +3026,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text>Lifelink</text>
             <token>1</token>
-            <reverse-related>Sorin, Lord of Innistrad</reverse-related>
         </card>
         <card>
             <name>Vampire  </name>
@@ -3693,7 +3037,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Kalitas, Bloodchief of Ghet</reverse-related>
         </card>
         <card>
             <name>Voja</name>
@@ -3706,7 +3049,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Tolsimir Wolfblood</reverse-related>
         </card>
         <card>
             <name>Wall</name>
@@ -3717,7 +3059,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text>Defender</text>
             <token>1</token>
-            <reverse-related>Basalt Golem</reverse-related>
         </card>
         <card>
             <name>Wall </name>
@@ -3729,7 +3070,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text>Defender</text>
             <token>1</token>
-            <reverse-related>Tidal Wave</reverse-related>
         </card>
         <card>
             <name>Wasp</name>
@@ -3740,7 +3080,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>The Hive</reverse-related>
         </card>
         <card>
             <name>Warrior</name>
@@ -3752,7 +3091,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Rally the Horde</reverse-related>
         </card>
         <card>
             <name>Warrior </name>
@@ -3768,11 +3106,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Herald of Anafenza</reverse-related>
-            <reverse-related>Mardu Charm</reverse-related>
-            <reverse-related>Mardu Hordechief</reverse-related>
-            <reverse-related>Secure the Wastes</reverse-related>
-            <reverse-related>Take Up Arms</reverse-related>
         </card>
         <card>
             <name>Warrior  </name>
@@ -3784,7 +3117,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Mardu Strike Leader</reverse-related>
         </card>
         <card>
             <name>Weird</name>
@@ -3796,7 +3128,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text>Defender, flying</text>
             <token>1</token>
-            <reverse-related>Thunderheads</reverse-related>
         </card>
         <card>
             <name>Whale</name>
@@ -3819,7 +3150,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Wirefly Hive</reverse-related>
         </card>
         <card>
             <name>Wolf</name>
@@ -3843,23 +3173,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Bestial Menace</reverse-related>
-            <reverse-related>Fable of Wolf and Owl</reverse-related>
-            <reverse-related>Feed the Pack</reverse-related>
-            <reverse-related>Garruk Relentless</reverse-related>
-            <reverse-related>Howl of the Night Pack</reverse-related>
-            <reverse-related>Howlpack Alpha</reverse-related>
-            <reverse-related>Huntmaster of the Fells</reverse-related>
-            <reverse-related>Kessig Cagebreakers</reverse-related>
-            <reverse-related>Master of the Wild Hunt</reverse-related>
-            <reverse-related>Predator's Howl</reverse-related>
-            <reverse-related>Raised by Wolves</reverse-related>
-            <reverse-related>Sword of Body and Mind</reverse-related>
-            <reverse-related>Turntimber Ranger</reverse-related>
-            <reverse-related>Wolf-Skull Shaman</reverse-related>
-            <reverse-related>Wolfbriar Elemental</reverse-related>
-            <reverse-related>Wolfcaller's Howl</reverse-related>
-            <reverse-related>Wren's Run Packmaster</reverse-related>
         </card>
         <card>
             <name>Wolf </name>
@@ -3871,7 +3184,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text>Deathtouch</text>
             <token>1</token>
-            <reverse-related>Garruk, the Veil-Cursed</reverse-related>
         </card>
         <card>
             <name>Wolf  </name>
@@ -3883,7 +3195,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text>This creature gets +1/+1 for each card named Sound the Call in each graveyard.</text>
             <token>1</token>
-            <reverse-related>Sound the Call</reverse-related>
         </card>
         <card>
             <name>Wolves of the Hunt</name>
@@ -3895,7 +3206,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text>Bands with other creatures named Wolves of the Hunt.</text>
             <token>1</token>
-            <reverse-related>Master of the Hunt</reverse-related>
         </card>
         <card><!-- Created by and can be sacrificed to Jungle Patrol. -->
             <name>Wood</name>
@@ -3907,7 +3217,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text>Defender</text>
             <token>1</token>
-            <reverse-related>Jungle Patrol</reverse-related>
         </card>
         <card>
             <name>Worm</name>
@@ -3922,8 +3231,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Creakwood Liege</reverse-related>
-            <reverse-related>Worm Harvest</reverse-related>
         </card>
         <card>
             <name>Wurm</name>
@@ -3937,10 +3244,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Crush of Wurms</reverse-related>
-            <reverse-related>Garruk, Primal Hunter</reverse-related>
-            <reverse-related>Roar of the Wurm</reverse-related>
-            <reverse-related>Wurmweaver Coil</reverse-related>
         </card>
         <card>
             <name>Wurm </name>
@@ -3952,7 +3255,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text>Lifelink</text>
             <token>1</token>
-            <reverse-related>Wurmcoil Engine</reverse-related>
         </card>
         <card>
             <name>Wurm  </name>
@@ -3964,7 +3266,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text>Deathtouch</text>
             <token>1</token>
-            <reverse-related>Wurmcoil Engine</reverse-related>
         </card>
         <card>
             <name>Wurm   </name>
@@ -3976,7 +3277,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text>Trample</text>
             <token>1</token>
-            <reverse-related>Penumbra Wurm</reverse-related>
         </card>
         <card>
             <name>Wurm    </name>
@@ -3988,9 +3288,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text>Trample</text>
             <token>1</token>
-            <reverse-related>Advent of the Wurm</reverse-related>
-            <reverse-related>Armada Wurm</reverse-related>
-            <reverse-related>Worldspine Wurm</reverse-related>
         </card>
         <card>
             <name>Wurm     </name>
@@ -4002,8 +3299,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Baru, Fist of Krosa</reverse-related>
-            <reverse-related>Wurmcalling</reverse-related>
         </card>
         <card>
             <name>Zombie</name>
@@ -4034,47 +3329,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Archdemon of Unx</reverse-related>
-            <reverse-related>Army of the Damned</reverse-related>
-            <reverse-related>Bridge from Below</reverse-related>
-            <reverse-related>Cellar Door</reverse-related>
-            <reverse-related>Cemetery Reaper</reverse-related>
-            <reverse-related>Curse of Shallow Graves</reverse-related>
-            <reverse-related>Dread Summons</reverse-related>
-            <reverse-related>Empty the Pits</reverse-related>
-            <reverse-related>Endless Ranks of the Dead</reverse-related>
-            <reverse-related>Feast or Famine</reverse-related>
-            <reverse-related>Ghoulcaller Gisa</reverse-related>
-            <reverse-related>Grave Titan</reverse-related>
-            <reverse-related>Grixis Slavedriver</reverse-related>
-            <reverse-related>Havengul Runebinder</reverse-related>
-            <reverse-related>Lair of the Ashen Idol</reverse-related>
-            <reverse-related>Liliana's Reaver</reverse-related>
-            <reverse-related>Liliana, Heretical Healer</reverse-related>
-            <reverse-related>Maalfeld Twins</reverse-related>
-            <reverse-related>Midnight Ritual</reverse-related>
-            <reverse-related>Moan of the Unhallowed</reverse-related>
-            <reverse-related>Necromancer's Covenant</reverse-related>
-            <reverse-related>Necromancer's Stockpile</reverse-related>
-            <reverse-related>Necromaster Dragon</reverse-related>
-            <reverse-related>Nested Ghoul</reverse-related>
-            <reverse-related>Overseer of the Damned</reverse-related>
-            <reverse-related>Rakshasa Gravecaller</reverse-related>
-            <reverse-related>Reap the Seagraf</reverse-related>
-            <reverse-related>Rotlung Reanimator</reverse-related>
-            <reverse-related>Rotted Ones, Lay Siege</reverse-related>
-            <reverse-related>Sarcomancy</reverse-related>
-            <reverse-related>Sidisi, Brood Tyrant</reverse-related>
-            <reverse-related>Syphon Flesh</reverse-related>
-            <reverse-related>The Fourth Sphere</reverse-related>
-            <reverse-related>Undead Alchemist</reverse-related>
-            <reverse-related>Undead Servant</reverse-related>
-            <reverse-related>Unscythe, Killer of Kings</reverse-related>
-            <reverse-related>Vile Rebirth</reverse-related>
-            <reverse-related>Wakedancer</reverse-related>
-            <reverse-related>Waste Not</reverse-related>
-            <reverse-related>Xathrid Necromancer</reverse-related>
-            <reverse-related>Zombie Infestation</reverse-related>
         </card>
         <card>
             <name>Zombie </name>
@@ -4086,7 +3340,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Forlorn Pseudamma</reverse-related>
         </card>
         <card>
             <name>Zombie  </name>
@@ -4098,7 +3351,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Ritual of the Returned</reverse-related>
         </card>
         <card>
             <name>Zombie   </name>
@@ -4110,7 +3362,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Stitcher Geralf</reverse-related>
         </card>
         <card>
             <name>Zombie Giant</name>
@@ -4122,7 +3373,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Quest for the Gravelord</reverse-related>
         </card>
          <card>
             <name>Zombie Horror</name>
@@ -4134,7 +3384,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Corpseweft</reverse-related>
         </card>
         <card>
             <name>Zombie Wizard</name>
@@ -4147,7 +3396,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Lich Lord of Unx</reverse-related>
         </card>
         <card>
             <name>Ajani Steadfast (emblem)</name>
@@ -4157,7 +3405,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>If a source would deal damage to you or a planeswalker you control, prevent all but 1 of that damage.</text>
             <token>1</token>
-            <reverse-related>Ajani Steadfast</reverse-related>
         </card>
         <card>
             <name>Chandra, Roaring Flame (emblem)</name>
@@ -4167,7 +3414,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>At the beginning of your upkeep, this emblem deals 3 damage to you.</text>
             <token>1</token>
-            <reverse-related>Chandra, Roaring Flame</reverse-related>
         </card>
         <card>
             <name>Dack Fayden (emblem)</name>
@@ -4177,7 +3423,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Whenever you cast a spell that targets one or more permanents, gain control of those permanents.</text>
             <token>1</token>
-            <reverse-related>Dack Fayden</reverse-related>
         </card>
         <card>
             <name>Daretti, Scrap Savant (emblem)</name>
@@ -4187,7 +3432,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Whenever an artifact is put into your graveyard from the battlefield, return that card to the battlefield at the beginning of the next end step.</text>
             <token>1</token>
-            <reverse-related>Daretti, Scrap Savant</reverse-related>
         </card>
         <card>
             <name>Domri Rade (emblem)</name>
@@ -4197,7 +3441,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Creatures you control have double strike, trample, hexproof, and haste.</text>
             <token>1</token>
-            <reverse-related>Domri Rade</reverse-related>
         </card>
         <card>
             <name>Elspeth, Knight Errant (emblem)</name>
@@ -4208,7 +3451,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Artifacts, creatures, enchantments, and lands you control have indestructible.</text>
             <token>1</token>
-            <reverse-related>Elspeth, Knight Errant</reverse-related>
         </card>
         <card>
             <name>Elspeth, Sun's Champion (emblem)</name>
@@ -4218,7 +3460,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Creatures you control get +2/+2 and have flying.</text>
             <token>1</token>
-            <reverse-related>Elspeth, Sun's Champion</reverse-related>
         </card>
         <card>
             <name>Garruk, Caller of Beasts (emblem)</name>
@@ -4228,7 +3469,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle your library.</text>
             <token>1</token>
-            <reverse-related>Garruk, Caller of Beasts</reverse-related>
         </card>
         <card>
             <name>Garruk, Apex Predator (emblem)</name>
@@ -4238,7 +3478,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Whenever a creature attacks you, it gets +5/+5 and gains trample until end of turn.</text>
             <token>1</token>
-            <reverse-related>Garruk, Apex Predator</reverse-related>
         </card>
         <card>
             <name>Gideon, Ally of Zendikar (emblem)</name>
@@ -4248,7 +3487,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Creatures you control get +1/+1.</text>
             <token>1</token>
-            <reverse-related>Gideon, Ally of Zendikar</reverse-related>
         </card>
         <card>
             <name>Jace, Telepath Unbound (emblem)</name>
@@ -4258,7 +3496,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Whenever you cast a spell, target opponent puts the top five cards of his or her library into his or her graveyard.</text>
             <token>1</token>
-            <reverse-related>Jace, Telepath Unbound</reverse-related>
         </card>
         <card>
             <name>Kiora, the Crashing Wave (emblem)</name>
@@ -4268,7 +3505,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>At the beginning of your end step, put a 9/9 blue Kraken creature token onto the battlefield.</text>
             <token>1</token>
-            <reverse-related>Kiora, the Crashing Wave</reverse-related>
         </card>
         <card>
             <name>Kiora, Master of the Depths (emblem)</name>
@@ -4278,7 +3514,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Whenever a creature enters the battlefield under your control, you may have it fight target creature.</text>
             <token>1</token>
-            <reverse-related>Kiora, Master of the Depths</reverse-related>
         </card>
         <card>
             <name>Koth of the Hammer (emblem)</name>
@@ -4288,7 +3523,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Mountains you control have ‘Tap: This land deals 1 damage to target creature or player.'</text>
             <token>1</token>
-            <reverse-related>Koth of the Hammer</reverse-related>
         </card>
         <card>
             <name>Liliana of the Dark Realms (emblem)</name>
@@ -4299,7 +3533,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Swamps you control have ‘Tap: Add {B}{B}{B}{B} to your mana pool.'</text>
             <token>1</token>
-            <reverse-related>Liliana of the Dark Realms</reverse-related>
         </card>
         <card>
             <name>Liliana, Defiant Necromancer (emblem)</name>
@@ -4309,7 +3542,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Whenever a creature dies, return it to the battlefield under your control at the beginning of the next end step.</text>
             <token>1</token>
-            <reverse-related>Liliana, Defiant Necromancer</reverse-related>
         </card>
         <card>
             <name>Narset Transcendent (emblem)</name>
@@ -4319,7 +3551,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Your opponents can't cast noncreature spells.</text>
             <token>1</token>
-            <reverse-related>Narset Transcendent</reverse-related>
         </card>
         <card>
             <name>Ob Nixilis of the Black Oath (emblem)</name>
@@ -4329,7 +3560,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>{1}{B}, Sacrifice a creature: You gain X life and draw X cards, where X is the sacrificed creature's power.</text>
             <token>1</token>
-            <reverse-related>Ob Nixilis of the Black Oath</reverse-related>
         </card>
         <card>
             <name>Ob Nixilis Reignited (emblem)</name>
@@ -4339,7 +3569,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Whenever a player draws a card, you lose 2 life.</text>
             <token>1</token>
-            <reverse-related>Ob Nixilis Reignited</reverse-related>
         </card>
         <card>
             <name>Sarkhan, the Dragonspeaker (emblem)</name>
@@ -4351,7 +3580,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
 
 At the beginning of your end step, discard your hand.</text>
             <token>1</token>
-            <reverse-related>Sarkhan, the Dragonspeaker</reverse-related>
         </card>
         <card>
             <name>Sorin, Lord of Innistrad (emblem)</name>
@@ -4361,7 +3589,6 @@ At the beginning of your end step, discard your hand.</text>
             <tablerow>1</tablerow>
             <text>Creatures you control get +1/+0.</text>
             <token>1</token>
-            <reverse-related>Sorin, Lord of Innistrad</reverse-related>
         </card>
         <card>
             <name>Sorin, Solemn Visitor (emblem)</name>
@@ -4371,7 +3598,6 @@ At the beginning of your end step, discard your hand.</text>
             <tablerow>1</tablerow>
             <text>At the beginning of each opponent's upkeep, that player sacrifices a creature.</text>
             <token>1</token>
-            <reverse-related>Sorin, Solemn Visitor</reverse-related>
         </card>
         <card>
             <name>Tamiyo, the Moon Sage (emblem)</name>
@@ -4383,7 +3609,6 @@ At the beginning of your end step, discard your hand.</text>
 
 Whenever a card is put into your graveyard from anywhere, you may return it to your hand.</text>
             <token>1</token>
-            <reverse-related>Tamiyo, the Moon Sage</reverse-related>
         </card>
         <card>
             <name>Teferi, Temporal Archmage (emblem)</name>
@@ -4393,7 +3618,6 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <tablerow>1</tablerow>
             <text>You may activate loyalty abilities of planeswalkers you control on any player's turn any time you could cast an instant.</text>
             <token>1</token>
-            <reverse-related>Teferi, Temporal Archmage</reverse-related>
         </card>
         <card>
             <name>Venser, the Sojourner (emblem)</name>
@@ -4403,7 +3627,6 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <tablerow>1</tablerow>
             <text>Whenever you cast a spell, exile target permanent.</text>
             <token>1</token>
-            <reverse-related>Venser, the Sojourner</reverse-related>
         </card>
         <card>
             <name>Experience Counter</name>
@@ -4413,11 +3636,6 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <tablerow>1</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Daxos the Returned</reverse-related>
-            <reverse-related>Ezuri, Claw of Progress</reverse-related>
-            <reverse-related>Kalemne, Disciple of Iroas</reverse-related>
-            <reverse-related>Meren of Clan Nel Toth</reverse-related>
-            <reverse-related>Mizzix of the Izmagnus</reverse-related>
         </card>
         <card>
             <name>Poison Counter</name>
