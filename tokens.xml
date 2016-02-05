@@ -67,6 +67,7 @@
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
+            <reverse-related>Linvala, the Preserver</reverse-related>
         </card>
         <card>
             <name>Antelope</name>
@@ -932,7 +933,9 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Sacrifice this creature: Add {C} to your mana pool.</text>
             <token>1</token>
+            <reverse-related>Abstruse Interference</reverse-related>
             <reverse-related>Adverse Conditions</reverse-related>
+            <reverse-related>Birthing Hulk</reverse-related>
             <reverse-related>Blight Herder</reverse-related>
             <reverse-related>Blisterpod</reverse-related>
             <reverse-related>Brood Butcher</reverse-related>
@@ -946,8 +949,12 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>From Beyond</reverse-related>
             <reverse-related>Grave Birthing</reverse-related>
             <reverse-related>Incubator Drone</reverse-related>
+            <reverse-related>Scion Summoner</reverse-related>
+            <reverse-related>Sifter of Skulls</reverse-related>
             <reverse-related>Spawning Bed</reverse-related>
+            <reverse-related>Vile Redeemer</reverse-related>
             <reverse-related>Void Attendant</reverse-related>
+            <reverse-related>Warping Wail</reverse-related>
         </card>
         <card>
             <name>Eldrazi Scion (2)</name>
@@ -1074,6 +1081,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>Chandra, Flamecaller</reverse-related>
             <reverse-related>Feral Lightning</reverse-related>
             <reverse-related>Lightning Coils</reverse-related>
             <reverse-related>Rakka Mar</reverse-related>
@@ -1143,6 +1151,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <token>1</token>
             <reverse-related>Dokai, Weaver of Life</reverse-related>
             <reverse-related>Marath, Will of the Wild</reverse-related>
+            <reverse-related>Seed Guardian</reverse-related>
         </card>
         <card>
             <name>Elemental         </name>
@@ -2248,6 +2257,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>Allied Reinforcements</reverse-related>
             <reverse-related>Gideon, Ally of Zendikar</reverse-related>
         </card>
         <card><!-- Created by
@@ -2276,6 +2286,8 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>Captain's Claws</reverse-related>
+            <reverse-related>Oath of Gideon</reverse-related>
             <reverse-related>Retreat to Emeria</reverse-related>
             <reverse-related>Unified Front</reverse-related>
         </card>
@@ -2526,6 +2538,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>Crush of Tentacles</reverse-related>
             <reverse-related>Kiora, Master of the Depths</reverse-related>
         </card>
         <card>
@@ -2685,6 +2698,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related>Evil Comes to Fruition</reverse-related>
             <reverse-related>Khalni Garden</reverse-related>
             <reverse-related>Nature Shields Its Own</reverse-related>
+            <reverse-related>Nissa, Voice of Zendikar</reverse-related>
         </card>
         <card>
             <name>Plant </name>
@@ -4040,6 +4054,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Cellar Door</reverse-related>
             <reverse-related>Cemetery Reaper</reverse-related>
             <reverse-related>Curse of Shallow Graves</reverse-related>
+            <reverse-related>Drana's Chosen</reverse-related>
             <reverse-related>Dread Summons</reverse-related>
             <reverse-related>Empty the Pits</reverse-related>
             <reverse-related>Endless Ranks of the Dead</reverse-related>
@@ -4048,6 +4063,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Grave Titan</reverse-related>
             <reverse-related>Grixis Slavedriver</reverse-related>
             <reverse-related>Havengul Runebinder</reverse-related>
+            <reverse-related>Kalitas, Traitor of Ghet</reverse-related>
             <reverse-related>Lair of the Ashen Idol</reverse-related>
             <reverse-related>Liliana's Reaver</reverse-related>
             <reverse-related>Liliana, Heretical Healer</reverse-related>
@@ -4058,6 +4074,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Necromancer's Stockpile</reverse-related>
             <reverse-related>Necromaster Dragon</reverse-related>
             <reverse-related>Nested Ghoul</reverse-related>
+            <reverse-related>Null Caller</reverse-related>
             <reverse-related>Overseer of the Damned</reverse-related>
             <reverse-related>Rakshasa Gravecaller</reverse-related>
             <reverse-related>Reap the Seagraf</reverse-related>
