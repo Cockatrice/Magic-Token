@@ -16,6 +16,7 @@
          -->
         <card>
             <name>Angel</name>
+            <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_OnvtmxOuug.png">SOI</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_KWY1Kgc86t.png">C15</set>
             <set picURL="http://media.wizards.com/2015/images/daily/en_b3znv1aqdq.png">ORI</set>
             <set picURL="http://magiccards.info/extras/token/commander-2014/angel.jpg">C14</set>
@@ -686,6 +687,21 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Cloudseeder</reverse-related>
         </card>
         <card>
+            <name>Clue</name>
+            <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_Pdlgntbr3f.png">SOI</set>
+            <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_y9rdQBkOEb.png">SOI</set>
+            <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_IhCXdxohl3.png">SOI</set>
+            <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_V2yqkDIY0I.png">SOI</set>
+            <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_hFK9CuGyR3.png">SOI</set>
+            <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_hFK9CuGyR3.png">SOI</set>
+            <color></color>
+            <manacost></manacost>
+            <type>Token Artifact — Clue</type>
+            <tablerow>2</tablerow>
+            <text>{2}, Sacrifice this artifact: Draw a card.</text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Construct</name>
             <set picURL="http://magiccards.info/extras/token/worldwake/construct.jpg">WWK</set>
             <manacost></manacost>
@@ -755,6 +771,17 @@ Cloud Sprite can block only creatures with flying.</text>
             <text></text>
             <token>1</token>
             <reverse-related>Kjeldoran Home Guard</reverse-related>
+        </card>
+        <card>
+            <name>Devil</name>
+            <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_qhIEFoclOO.png">SOI</set>
+            <color>R</color>
+            <manacost></manacost>
+            <type>Token Creature — Devil</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>When this creature dies, it deals 1 damage to target creature or player.</text>
+            <token>1</token>
         </card>
         <card>
             <name>Djinn</name>
@@ -2008,6 +2035,28 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Thatcher Revolt</reverse-related>
         </card>
         <card>
+            <name>Human Cleric</name>
+            <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_9BXzi51Vmy.png">SOI</set>
+            <color>WB</color>
+            <manacost></manacost>
+            <type>Token Creature — Human Cleric</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Human Soldier</name>
+            <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_fPCM1CDouX.png">SOI</set>
+            <color>W</color>
+            <manacost></manacost>
+            <type>Token Creature — Human Soldier</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Hydra</name>
             <set picURL="http://magiccards.info/extras/token/journey-into-nyx/hydra.jpg">JOU</set>
             <color>G</color>
@@ -2072,6 +2121,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Insect  </name>
+            <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_DJi1itoTAo.png">SOI</set>
             <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_hqtAtsjDRA.png">MM2</set>
             <set picURL="http://magiccards.info/extras/token/magic-2010/insect.jpg">M10</set>
             <set picURL="http://magiccards.info/extras/token/player-rewards-2003/insect.jpg">ONS</set>
@@ -2616,6 +2666,17 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <manacost></manacost>
             <type>Token Creature — Ooze</type>
             <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+        <card>
+            <name>Ooze    </name>
+            <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_RbPPm8e2Wb.png">SOI</set>
+            <color>G</color>
+            <manacost></manacost>
+            <type>Token Creature — Ooze</type>
+            <pt>3/3</pt>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
@@ -3253,6 +3314,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spirit</name>
+            <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_2dPK4cEymD.png">SOI</set>
             <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_E3hF5KOp1J.png">MM2</set>
             <set picURL="http://magiccards.info/extras/token/fate-reforged/spirit.jpg">FRF</set>
             <set picURL="http://magiccards.info/extras/token/commander-2014/spirit.jpg">C14</set>
@@ -3710,6 +3772,17 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Kalitas, Bloodchief of Ghet</reverse-related>
         </card>
         <card>
+            <name>Vampire Knight</name>
+            <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_Lz7fjwmpzN.png">SOI</set>
+            <color></color>
+            <manacost></manacost>
+            <type>Token Creature — Vampire Knight</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Lifelink</text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Voja</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/9/91/Voja.jpg">RAV</set>
             <color>G</color>
@@ -3837,6 +3910,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Wolf</name>
+            <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_BW6wmU7cbv.png">SOI</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_IWGaI59e15.png">C15</set>
             <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_Nd1vBcud86.png">MM2</set>
             <set picURL="http://magiccards.info/extras/token/commander-2014/wolf.jpg">C14</set>
@@ -4021,6 +4095,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Zombie</name>
+            <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_Hys6V2Lnum.png">SOI</set>
             <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_uoBpnCUEg1.png">OGW</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_jVoQGXYWRq.png">C15</set>
             <set picURL="http://media.wizards.com/2015/images/daily/en_zxes762z5e.png">ORI</set>
@@ -4177,6 +4252,16 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Ajani Steadfast</reverse-related>
         </card>
         <card>
+            <name>Arlinn Kord (emblem)</name>
+            <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_JJ0x2nMAKz.png">SOI</set>
+            <color></color>
+            <manacost></manacost>
+            <type>Emblem — Arlinn</type>
+            <tablerow>2</tablerow>
+            <text>Creatures you control have haste and "{T}: This creature deals damage equal to its power to target creature or player."</text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Chandra, Roaring Flame (emblem)</name>
             <set picURL="http://media.wizards.com/2015/images/daily/en_gjqxspbw14.png">ORI</set>
             <manacost></manacost>
@@ -4276,6 +4361,17 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Whenever you cast a spell, target opponent puts the top five cards of his or her library into his or her graveyard.</text>
             <token>1</token>
             <reverse-related>Jace, Telepath Unbound</reverse-related>
+        </card>
+        <card>
+            <name>Jace, Unraveler of Secrets (emblem)</name>
+            <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_us6FYXzyW4.png">SOI</set>
+            <color></color>
+            <manacost></manacost>
+            <type>Emblem – Jace</type>
+            <tablerow>2</tablerow>
+            <text>Whenever an opponent casts his or her first spell each turn, counter that spell.</text>
+            <token>1</token>
+            <reverse-related>Jace, Unraveler of Secrets</reverse-related>
         </card>
         <card>
             <name>Kiora, the Crashing Wave (emblem)</name>
