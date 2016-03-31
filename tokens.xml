@@ -45,6 +45,8 @@
             <reverse-related>Moonsilver Spear</reverse-related>
             <reverse-related>Sigil of the Empty Throne</reverse-related>
             <reverse-related>Urbis Protector</reverse-related>
+            <reverse-related>Descend upon the Sinful</reverse-related>
+            <reverse-related>Invocation of Saint Traft</reverse-related>
         </card>
         <card>
             <name>Angel </name>
@@ -694,12 +696,34 @@ Cloud Sprite can block only creatures with flying.</text>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_V2yqkDIY0I.png">SOI</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_hFK9CuGyR3.png">SOI</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_hFK9CuGyR3.png">SOI</set>
-            <color></color>
             <manacost></manacost>
             <type>Token Artifact — Clue</type>
             <tablerow>2</tablerow>
             <text>{2}, Sacrifice this artifact: Draw a card.</text>
             <token>1</token>
+            <reverse-related>Bearer of Overwhelming Truths</reverse-related>
+            <reverse-related>Briarbridge Patrol</reverse-related>
+            <reverse-related>Bygone Bishop</reverse-related>
+            <reverse-related>Byway Courier</reverse-related>
+            <reverse-related>Confirm Suspicions</reverse-related>
+            <reverse-related>Confront the Unknown</reverse-related>
+            <reverse-related>Drownyard Explorers</reverse-related>
+            <reverse-related>Expose Evil</reverse-related>
+            <reverse-related>Fleeting Memories</reverse-related>
+            <reverse-related>Gone Missing</reverse-related>
+            <reverse-related>Humble the Brute</reverse-related>
+            <reverse-related>Jace's Scrutiny</reverse-related>
+            <reverse-related>Magnifying Glass</reverse-related>
+            <reverse-related>Ongoing Investigation</reverse-related>
+            <reverse-related>Press for Answers</reverse-related>
+            <reverse-related>Root Out</reverse-related>
+            <reverse-related>Survive the Night</reverse-related>
+            <reverse-related>Tamiyo's Journal</reverse-related>
+            <reverse-related>Thraben Inspector</reverse-related>
+            <reverse-related>Tireless Tracker</reverse-related>
+            <reverse-related>Trail of Evidence</reverse-related>
+            <reverse-related>Ulvenwald Mysteries</reverse-related>
+            <reverse-related>Weirding Wood</reverse-related>
         </card>
         <card>
             <name>Construct</name>
@@ -782,6 +806,8 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>When this creature dies, it deals 1 damage to target creature or player.</text>
             <token>1</token>
+            <reverse-related>Dance with Devils</reverse-related>
+            <reverse-related>Devils' Playground</reverse-related>
         </card>
         <card>
             <name>Djinn</name>
@@ -2044,6 +2070,8 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>Westvale Abbey</reverse-related>
+            <reverse-related>Westvale Cult Leader</reverse-related>
         </card>
         <card>
             <name>Human Soldier</name>
@@ -2055,6 +2083,9 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>Sigarda, Heron's Grace</reverse-related>
+            <reverse-related>Strength of Arms</reverse-related>
+            <reverse-related>Ulvenwald Mysteries</reverse-related>
         </card>
         <card>
             <name>Hydra</name>
@@ -2145,6 +2176,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Symbiotic Wurm</reverse-related>
             <reverse-related>Vitality Charm</reverse-related>
             <reverse-related>Wirewood Hivemaster</reverse-related>
+            <reverse-related>Crawling Sensation</reverse-related>
         </card>
         <card>
             <name>Insect   </name>
@@ -2680,6 +2712,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>Inexorable Blob</reverse-related>
         </card>
         <card>
             <name>Orb</name>
@@ -3365,6 +3398,13 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related>Transluminant</reverse-related>
             <reverse-related>Triplicate Spirits</reverse-related>
             <reverse-related>Twilight Drover</reverse-related>
+            <reverse-related>Dauntless Cathar</reverse-related>
+            <reverse-related>Drogskol Cavalry</reverse-related>
+            <reverse-related>Emissary of the Sleepless</reverse-related>
+            <reverse-related>Nearheath Chaplain</reverse-related>
+            <reverse-related>Not Forgotten</reverse-related>
+            <reverse-related>Slayer's Plate</reverse-related>
+            <reverse-related>Vessel of Ephemera</reverse-related>
         </card>
         <card>
             <name>Spirit </name>
@@ -3774,13 +3814,14 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         <card>
             <name>Vampire Knight</name>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_Lz7fjwmpzN.png">SOI</set>
-            <color></color>
             <manacost></manacost>
             <type>Token Creature — Vampire Knight</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
             <text>Lifelink</text>
             <token>1</token>
+            <reverse-related>Call the Bloodline</reverse-related>
+            <reverse-related>Sorin, Grim Nemesis</reverse-related>
         </card>
         <card>
             <name>Voja</name>
@@ -3948,6 +3989,10 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Wolfbriar Elemental</reverse-related>
             <reverse-related>Wolfcaller's Howl</reverse-related>
             <reverse-related>Wren's Run Packmaster</reverse-related>
+            <reverse-related>Arlinn Kord</reverse-related>
+            <reverse-related>Cult of the Waxing Moon</reverse-related>
+            <reverse-related>Pack Guardian</reverse-related>
+            <reverse-related>Silverfur Partisan</reverse-related>
         </card>
         <card>
             <name>Wolf </name>
@@ -4167,6 +4212,13 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Waste Not</reverse-related>
             <reverse-related>Xathrid Necromancer</reverse-related>
             <reverse-related>Zombie Infestation</reverse-related>
+            <reverse-related>Diregraf Colossus</reverse-related>
+            <reverse-related>Drunau Corpse Trawler</reverse-related>
+            <reverse-related>From Under the Floorboards</reverse-related>
+            <reverse-related>Ghoulcaller's Accomplice</reverse-related>
+            <reverse-related>Gisa's Bidding</reverse-related>
+            <reverse-related>Rise from the Tides</reverse-related>
+            <reverse-related>Shamble Back</reverse-related>
         </card>
         <card>
             <name>Zombie </name>
@@ -4254,12 +4306,12 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         <card>
             <name>Arlinn Kord (emblem)</name>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_JJ0x2nMAKz.png">SOI</set>
-            <color></color>
             <manacost></manacost>
             <type>Emblem — Arlinn</type>
             <tablerow>2</tablerow>
             <text>Creatures you control have haste and "{T}: This creature deals damage equal to its power to target creature or player."</text>
             <token>1</token>
+            <reverse-related>Arlinn Kord</reverse-related>
         </card>
         <card>
             <name>Chandra, Roaring Flame (emblem)</name>
@@ -4365,7 +4417,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         <card>
             <name>Jace, Unraveler of Secrets (emblem)</name>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_us6FYXzyW4.png">SOI</set>
-            <color></color>
             <manacost></manacost>
             <type>Emblem – Jace</type>
             <tablerow>2</tablerow>
@@ -4541,7 +4592,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <text></text>
             <token>1</token>
             <reverse-related>Blackcleave Goblin</reverse-related>
-            <reverse-related>Blight Mamba</reverse-relatedL>
+            <reverse-related>Blight Mamba</reverse-related>
             <reverse-related>Blighted Agent</reverse-related>
             <reverse-related>Blightsteel Colossus</reverse-related>
             <reverse-related>Blightwidow</reverse-related>
