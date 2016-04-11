@@ -698,7 +698,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_hFK9CuGyR3.png">SOI</set>
             <manacost></manacost>
             <type>Token Artifact — Clue</type>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             <text>{2}, Sacrifice this artifact: Draw a card.</text>
             <token>1</token>
             <reverse-related>Bearer of Overwhelming Truths</reverse-related>
@@ -4308,7 +4308,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_JJ0x2nMAKz.png">SOI</set>
             <manacost></manacost>
             <type>Emblem — Arlinn</type>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             <text>Creatures you control have haste and "{T}: This creature deals damage equal to its power to target creature or player."</text>
             <token>1</token>
             <reverse-related>Arlinn Kord</reverse-related>
@@ -4419,7 +4419,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_us6FYXzyW4.png">SOI</set>
             <manacost></manacost>
             <type>Emblem – Jace</type>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             <text>Whenever an opponent casts his or her first spell each turn, counter that spell.</text>
             <token>1</token>
             <reverse-related>Jace, Unraveler of Secrets</reverse-related>
