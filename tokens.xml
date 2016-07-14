@@ -982,6 +982,17 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Hedron Fields of Agadeem</reverse-related>
         </card>
         <card>
+            <name>Eldrazi Horror</name>
+            <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_r0E8h7Sx7s.png">EMN</set>
+            <color></color>
+            <manacost></manacost>
+            <type>Token Creature — Eldrazi Horror</type>
+            <pt>3/2</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Eldrazi Scion</name>
             <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_MxPVFC6BEh.png">OGW</set>
             <set picURL="http://media.wizards.com/2015/images/daily/jzkBRlkQ2X.png">BFZ</set>
@@ -2060,13 +2071,13 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Human </name>
+            <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_nQw4fq2DYT.png">EMN</set>
             <set picURL="http://magiccards.info/extras/token/avacyn-restored/human-2.jpg">AVR</set>
             <color>R</color>
             <manacost></manacost>
             <type>Token Creature — Human</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>Haste</text>
             <token>1</token>
             <reverse-related>Thatcher Revolt</reverse-related>
         </card>
@@ -2096,6 +2107,17 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Sigarda, Heron's Grace</reverse-related>
             <reverse-related>Strength of Arms</reverse-related>
             <reverse-related>Ulvenwald Mysteries</reverse-related>
+        </card>
+        <card>
+            <name>Human Wizard</name>
+            <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_E3kNrs8HWP.png">EMN</set>
+            <color>U</color>
+            <manacost></manacost>
+            <type>Token Creature — Human Wizard</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
         </card>
         <card>
             <name>Hydra</name>
@@ -2410,7 +2432,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <text></text>
             <token>1</token>
             <reverse-related>Kiora, the Crashing Wave</reverse-related>
-            <reverse-related>Kiora, the Crashing Wave (emblem)</reverse-related>
         </card>
         <card>
             <name>Land Mine</name>
@@ -3305,6 +3326,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spider</name>
+            <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_KiwJSuvSso.png">EMN</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_eeuO57mVX3.png">C15</set>
             <set picURL="http://magiccards.info/extras/token/innistrad/spider.jpg">ISD</set>
             <set picURL="http://magiccards.info/extras/token/shadowmoor/spider.jpg">SHM</set>
@@ -4152,6 +4174,10 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Zombie</name>
+            <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_agGWKXppaH.png">EMN</set>
+            <!-- <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_vpvtSxqjtz.png">EMN</set> -->
+            <!-- <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_bgb9weEZA4.png">EMN</set> -->
+            <!-- <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_SwNMotyu8E.png">EMN</set> -->
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_bsHDG8OapS.png">EMA</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_Hys6V2Lnum.png">SOI</set>
             <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_uoBpnCUEg1.png">OGW</set>
@@ -4448,6 +4474,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>At the beginning of your end step, put a 9/9 blue Kraken creature token onto the battlefield.</text>
             <token>1</token>
             <reverse-related>Kiora, the Crashing Wave</reverse-related>
+            <related>Kraken</related>
         </card>
         <card>
             <name>Kiora, Master of the Depths (emblem)</name>
@@ -4489,6 +4516,18 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Whenever a creature dies, return it to the battlefield under your control at the beginning of the next end step.</text>
             <token>1</token>
             <reverse-related>Liliana, Defiant Necromancer</reverse-related>
+        </card>
+        <card>
+            <name>Liliana, the Last Hope (emblem)</name>
+            <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_3uiqIat9XN.png">EMN</set>
+            <color></color>
+            <manacost></manacost>
+            <type>Emblem — Liliana</type>
+            <tablerow>1</tablerow>
+            <text>At the beginning of your end step, put X 2/2 black Zombie creature tokens onto the battlefield, where X is two plus the number of Zombies you control.</text>
+            <token>1</token>
+            <reverse-related>Liliana, the Last Hope</reverse-related>
+            <related>Zombie</related>
         </card>
         <card>
             <name>Narset Transcendent (emblem)</name>
@@ -4551,6 +4590,17 @@ At the beginning of your end step, discard your hand.</text>
             <text>At the beginning of each opponent's upkeep, that player sacrifices a creature.</text>
             <token>1</token>
             <reverse-related>Sorin, Solemn Visitor</reverse-related>
+        </card>
+        <card>
+            <name>Tamiyo, Field Researcher (emblem)</name>
+            <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_c30wTaXc7C.png">EMN</set>
+            <color></color>
+            <manacost></manacost>
+            <type>Emblem — Tamiyo</type>
+            <tablerow>1</tablerow>
+            <text>You may cast nonland cards from your hand without paying their mana costs.</text>
+            <token>1</token>
+            <reverse-related>Tamiyo, Field Researcher</reverse-related>
         </card>
         <card>
             <name>Tamiyo, the Moon Sage (emblem)</name>
