@@ -812,6 +812,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <token>1</token>
             <reverse-related>Dance with Devils</reverse-related>
             <reverse-related>Devils' Playground</reverse-related>
+            <reverse-related>Make Mischief</reverse-related>
         </card>
         <card>
             <name>Djinn</name>
@@ -984,13 +985,23 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Eldrazi Horror</name>
             <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_r0E8h7Sx7s.png">EMN</set>
-            <color></color>
+
             <manacost></manacost>
             <type>Token Creature — Eldrazi Horror</type>
             <pt>3/2</pt>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>Desperate Sentry</reverse-related>
+            <reverse-related>Emrakul's Evangel</reverse-related>
+            <reverse-related>Enlightened Maniac</reverse-related>
+            <reverse-related>Extricator of Flesh</reverse-related>
+            <reverse-related>Extricator of Sin</reverse-related>
+            <reverse-related>Foul Emissary</reverse-related>
+            <reverse-related>Hanweir, the Writhing Township</reverse-related>
+            <reverse-related>Howling Chorus</reverse-related>
+            <reverse-related>Otherworldly Outburst</reverse-related>
+            <reverse-related>Wharf Infiltrator</reverse-related>
         </card>
         <card>
             <name>Eldrazi Scion</name>
@@ -2080,6 +2091,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <token>1</token>
             <reverse-related>Thatcher Revolt</reverse-related>
+            <reverse-related>Hanweir Garrison</reverse-related>
         </card>
         <card>
             <name>Human Cleric</name>
@@ -2107,6 +2119,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Sigarda, Heron's Grace</reverse-related>
             <reverse-related>Strength of Arms</reverse-related>
             <reverse-related>Ulvenwald Mysteries</reverse-related>
+            <reverse-related>Thraben Standard Bearer</reverse-related>
         </card>
         <card>
             <name>Human Wizard</name>
@@ -2118,6 +2131,8 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>Docent of Perfection</reverse-related>
+            <reverse-related>Final Iteration</reverse-related>
         </card>
         <card>
             <name>Hydra</name>
@@ -2209,6 +2224,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Vitality Charm</reverse-related>
             <reverse-related>Wirewood Hivemaster</reverse-related>
             <reverse-related>Crawling Sensation</reverse-related>
+            <reverse-related>It of the Horrid Swarm</reverse-related>
         </card>
         <card>
             <name>Insect   </name>
@@ -3340,6 +3356,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related>Arachnogenesis</reverse-related>
             <reverse-related>Gloomwidow's Feast</reverse-related>
             <reverse-related>Spider Spawning</reverse-related>
+            <reverse-related>Ishkanah, Grafwidow</reverse-related>
         </card>
         <card>
             <name>Spider </name>
@@ -3438,6 +3455,9 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related>Not Forgotten</reverse-related>
             <reverse-related>Slayer's Plate</reverse-related>
             <reverse-related>Vessel of Ephemera</reverse-related>
+            <reverse-related>Haunted Dead</reverse-related>
+            <reverse-related>Sanctifier of Souls</reverse-related>
+            <reverse-related>Spectral Reserves</reverse-related>
         </card>
         <card>
             <name>Spirit </name>
@@ -4026,6 +4046,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Cult of the Waxing Moon</reverse-related>
             <reverse-related>Pack Guardian</reverse-related>
             <reverse-related>Silverfur Partisan</reverse-related>
+            <reverse-related>Wolfkin Bond</reverse-related>
         </card>
         <card>
             <name>Wolf </name>
@@ -4258,6 +4279,12 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Gisa's Bidding</reverse-related>
             <reverse-related>Rise from the Tides</reverse-related>
             <reverse-related>Shamble Back</reverse-related>
+            <reverse-related>Cryptbreaker</reverse-related>
+            <reverse-related>Dark Salvation</reverse-related>
+            <reverse-related>Graf Harvest</reverse-related>
+            <reverse-related>Liliana, the Last Hope</reverse-related>
+            <reverse-related>Noosegraf Mob</reverse-related>
+            <reverse-related>Oath of Liliana</reverse-related>
         </card>
         <card>
             <name>Zombie </name>
@@ -4520,7 +4547,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         <card>
             <name>Liliana, the Last Hope (emblem)</name>
             <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_3uiqIat9XN.png">EMN</set>
-            <color></color>
+
             <manacost></manacost>
             <type>Emblem — Liliana</type>
             <tablerow>1</tablerow>
@@ -4594,7 +4621,7 @@ At the beginning of your end step, discard your hand.</text>
         <card>
             <name>Tamiyo, Field Researcher (emblem)</name>
             <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_c30wTaXc7C.png">EMN</set>
-            <color></color>
+
             <manacost></manacost>
             <type>Emblem — Tamiyo</type>
             <tablerow>1</tablerow>
