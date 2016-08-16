@@ -4755,5 +4755,15 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <reverse-related>Virulent Wound</reverse-related>
             <reverse-related>Whispering Specter</reverse-related>
         </card>
+        <card>
+            <name>The Monarch</name>
+            <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_OFPgMTjwcu.png">CN2</set>
+            <manacost></manacost>
+            <type>State</type>
+            <tablerow>1</tablerow>
+            <text>At the beginning of your end step, draw a card.
+Whenever a creature deals combat damage to you, its controller becomes the monarch.</text>
+            <token>1</token>
+        </card>
     </cards>
 </cockatrice_carddatabase>
