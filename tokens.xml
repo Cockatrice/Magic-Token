@@ -138,6 +138,17 @@
             <reverse-related>Vraska the Unseen</reverse-related>
         </card>
         <card>
+            <name>Assassin </name>
+            <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_6ho4wbGR0y.png">CN2</set>
+            <color>B</color>
+            <manacost></manacost>
+            <type>Token Creature — Assassin</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Deathtouch, haste</text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Assembly-Worker </name>
             <set picURL="http://cdn.staticneo.com/w/mtg/d/dd/Assembly-Worker.jpg">TSP</set>
             <manacost></manacost>
@@ -221,6 +232,7 @@
         </card>
         <card>
             <name>Beast</name>
+            <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_3ginm6gErc.png">CN2</set>
             <set picURL="http://magiccards.info/extras/token/commander-2014/beast-1.jpg">C14</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0009_MTGM15_TOK_EN%20copy.png">M15</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/beast.jpg">M14</set>
@@ -742,6 +754,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Construct </name>
+            <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_d3hA3fK2vj.png">CN2</set>
             <set picURL="http://magiccards.info/extras/token/conspiracy/construct.jpg">CNS</set>
             <manacost></manacost>
             <type>Token Artifact Creature — Construct</type>
@@ -840,6 +853,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Dragon</name>
+            <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_tUlOveGiwh.png">CN2</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_PngB7kxTCg.png">C15</set>
             <set picURL="http://media.wizards.com/2015/images/daily/FoyMVxznmy.png">BFZ</set>
             <set picURL="http://magiccards.info/extras/token/worldwake/dragon.jpg">WWK</set>
@@ -1754,6 +1768,17 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Warbreak Trumpeter</reverse-related>
         </card>
         <card>
+            <name>Goblin </name>
+            <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_d4N21UwrYX.png">CN2</set>
+            <color>R</color>
+            <manacost></manacost>
+            <type>Token Creature — Goblin</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>This creature can't block.</text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Goblin  </name>
             <set picURL="http://cdn.staticneo.com/w/mtg/8/80/Goblin4.jpg">DIS</set>
             <color>R</color>
@@ -2199,6 +2224,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Insect  </name>
+            <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_FFbXRwKrvA.png">CN2</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_DJi1itoTAo.png">SOI</set>
             <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_hqtAtsjDRA.png">MM2</set>
             <set picURL="http://magiccards.info/extras/token/magic-2010/insect.jpg">M10</set>
@@ -2484,6 +2510,17 @@ At the beginning of the end step, sacrifice this creature.</text>
             <text></text>
             <token>1</token>
             <reverse-related>Predatory Advantage</reverse-related>
+        </card>
+        <card>
+            <name>Lizard </name>
+            <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_VyVhztSkQq.png">CN2</set>
+            <color>R</color>
+            <manacost></manacost>
+            <type>Token Creature – Lizard</type>
+            <pt>8/8</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
         </card>
         <card><!-- Created by Llanowar Mentor -->
             <name>Llanowar Elves (token)</name>
@@ -3196,6 +3233,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Soldier</name>
+            <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_3W2HGUwu5Z.png">CN2</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_xvaBbBCiuf.png">EMA</set>
             <set picURL="http://media.wizards.com/2015/images/daily/en_5n24neg1wf.png">ORI</set>
             <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_vIxQpTbO6b.png">MM2</set>
@@ -3266,6 +3304,17 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related>Assemble the Legion</reverse-related>
             <reverse-related>Blaze Commando</reverse-related>
             <reverse-related>Sunhome Guildmage</reverse-related>
+        </card>
+        <card>
+            <name>Soldier  </name>
+            <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_Uod6lKrGvi.png">CN2</set>
+            <color>W</color>
+            <manacost></manacost>
+            <type>Token Creature — Soldier</type>
+            <pt>1/2</pt>
+            <tablerow>2</tablerow>
+            <text>Defender</text>
+            <token>1</token>
         </card>
         <card>
             <name>Soldier    </name>
@@ -3396,6 +3445,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spirit</name>
+            <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_uKWYrCTL44.png">CN2</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_cxaUJXygwx.png">EMA</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_2dPK4cEymD.png">SOI</set>
             <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_E3hF5KOp1J.png">MM2</set>
@@ -4195,6 +4245,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Zombie</name>
+            <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_jiQZPry4Js.png">CN2</set>
             <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_agGWKXppaH.png">EMN</set>
             <!-- <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_vpvtSxqjtz.png">EMN</set> -->
             <!-- <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_bgb9weEZA4.png">EMN</set> -->
