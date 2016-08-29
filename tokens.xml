@@ -147,6 +147,7 @@
             <tablerow>2</tablerow>
             <text>Deathtouch, haste</text>
             <token>1</token>
+            <reverse-related>Queen Marchesa</reverse-related>
         </card>
         <card>
             <name>Assembly-Worker </name>
@@ -626,6 +627,7 @@
             <reverse-related>Centaur Glade</reverse-related>
             <reverse-related>Centaur's Herald</reverse-related>
             <reverse-related>Trostani's Summoner</reverse-related>
+            <reverse-related>Vitu-Ghazi Guildmage</reverse-related>
         </card>
         <card>
             <name>Centaur </name>
@@ -764,6 +766,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <token>1</token>
             <reverse-related>Flamewright</reverse-related>
             <reverse-related>Sentinel Dispatch</reverse-related>
+            <reverse-related>Daretti, Ingenious Iconoclast</reverse-related>
         </card>
         <card>
             <name>Demon</name>
@@ -874,6 +877,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Look Skyward and Despair</reverse-related>
             <reverse-related>Sarkhan the Mad</reverse-related>
             <reverse-related>Shiv</reverse-related>
+            <reverse-related>Skyline Despot</reverse-related>
         </card>
         <card>
             <name>Dragon  </name>
@@ -1530,6 +1534,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <text></text>
             <token>1</token>
             <reverse-related>Mercy Killing</reverse-related>
+            <reverse-related>Rhys the Redeemed</reverse-related>
         </card>
         <card>
             <name>Faerie</name>
@@ -1777,6 +1782,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>This creature can't block.</text>
             <token>1</token>
+            <reverse-related>Hold the Perimeter</reverse-related>
         </card>
         <card>
             <name>Goblin  </name>
@@ -2516,11 +2522,12 @@ At the beginning of the end step, sacrifice this creature.</text>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_VyVhztSkQq.png">CN2</set>
             <color>R</color>
             <manacost></manacost>
-            <type>Token Creature – Lizard</type>
+            <type>Token Creature — Lizard</type>
             <pt>8/8</pt>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>Subterranean Tremors</reverse-related>
         </card>
         <card><!-- Created by Llanowar Mentor -->
             <name>Llanowar Elves (token)</name>
@@ -3288,6 +3295,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related>Stormfront Riders</reverse-related>
             <reverse-related>Throne of Empires</reverse-related>
             <reverse-related>Timely Reinforcements</reverse-related>
+            <reverse-related>Lieutenants of the Guard</reverse-related>
         </card>
         <card>
             <name>Soldier </name>
@@ -3315,6 +3323,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text>Defender</text>
             <token>1</token>
+            <reverse-related>Hold the Perimeter</reverse-related>
         </card>
         <card>
             <name>Soldier    </name>
@@ -4336,6 +4345,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Liliana, the Last Hope</reverse-related>
             <reverse-related>Noosegraf Mob</reverse-related>
             <reverse-related>Oath of Liliana</reverse-related>
+            <reverse-related>Assemble the Rank and Vile</reverse-related>
         </card>
         <card>
             <name>Zombie </name>
@@ -4473,7 +4483,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Domri Rade</reverse-related>
         </card>
         <card>
-            <name>Elspeth, Knight Errant (emblem)</name>
+            <name>Elspeth, Knight-Errant (emblem)</name>
             <set picURL="http://magiccards.info/extras/token/modern-event-deck/emblem-elspeth-knight-errant.jpg">MD1</set>
             <set picURL="http://magiccards.info/extras/token/modern-masters/emblem-elspeth-knight-errant.jpg">MMA</set>
             <manacost></manacost>
@@ -4481,7 +4491,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Artifacts, creatures, enchantments, and lands you control have indestructible.</text>
             <token>1</token>
-            <reverse-related>Elspeth, Knight Errant</reverse-related>
+            <reverse-related>Elspeth, Knight-Errant</reverse-related>
         </card>
         <card>
             <name>Elspeth, Sun's Champion (emblem)</name>
@@ -4537,7 +4547,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <name>Jace, Unraveler of Secrets (emblem)</name>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_us6FYXzyW4.png">SOI</set>
             <manacost></manacost>
-            <type>Emblem – Jace</type>
+            <type>Emblem — Jace</type>
             <tablerow>1</tablerow>
             <text>Whenever an opponent casts his or her first spell each turn, counter that spell.</text>
             <token>1</token>
