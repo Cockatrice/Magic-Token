@@ -350,6 +350,16 @@
             <reverse-related>Garruk, Apex Predator</reverse-related>
         </card>
         <card>
+            <name>Beast       </name>
+            <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_t4SGoWqjbW.png">KLD</set>
+            <manacost></manacost>
+            <type>Token Artifact Creature — Beast</type>
+            <pt>6/6</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Bird</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/3/37/Bird2.jpg">DIS</set>
             <color>W</color>
@@ -769,6 +779,17 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Daretti, Ingenious Iconoclast</reverse-related>
         </card>
         <card>
+            <name>Construct  </name>
+            <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_ROHZBBAJrp.png">KLD</set>
+            <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_fCSrpoVGcO.png">KLD</set>
+            <manacost></manacost>
+            <type>Token Artifact Creature — Construct</type>
+            <pt>*/*</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Demon</name>
             <set picURL="http://media.wizards.com/2015/images/daily/en_16don62w6w.png">ORI</set>
             <set picURL="http://magiccards.info/extras/token/commander-2014/demon-2.jpg">C14</set>
@@ -1003,7 +1024,6 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Eldrazi Horror</name>
             <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_r0E8h7Sx7s.png">EMN</set>
-
             <manacost></manacost>
             <type>Token Creature — Eldrazi Horror</type>
             <pt>3/2</pt>
@@ -1597,7 +1617,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <type>Token Creature — Fish</type>
             <pt>3/3</pt>
             <tablerow>2</tablerow>
-            <text>When this creature dies, put a 6/6 blue Whale creature token onto the battlefield with "When this creature dies, put a 9/9 blue Kraken creature token onto the battlefield."</text>
+            <text>When this creature dies, create a 6/6 blue Whale creature token with "When this creature dies, create a 9/9 blue Kraken creature token."</text>
             <token>1</token>
             <related>Whale</related>
             <reverse-related>Reef Worm</reverse-related>
@@ -2778,7 +2798,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <type>Token Creature — Ooze</type>
             <pt>2/2</pt>
             <tablerow>2</tablerow>
-            <text>When this creature dies, put two 1/1 green Ooze creature tokens onto the battlefield.</text>
+            <text>When this creature dies, create two 1/1 green Ooze creature tokens.</text>
             <token>1</token>
             <related>Ooze   </related>
             <reverse-related>Mitotic Slime</reverse-related>
@@ -3109,6 +3129,18 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <text></text>
             <token>1</token>
             <reverse-related>Sengir Autocrat</reverse-related>
+        </card>
+        <card>
+            <name>Servo</name>
+            <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_xzZQc5a68Z.png">KLD</set>
+            <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_oKAeTK3DKA.png">KLD</set>
+            <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_b786LD89UN.png">KLD</set>
+            <manacost></manacost>
+            <type>Token Artifact Creature — Servo</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
         </card>
         <card>
             <name>Shapeshifter </name>
@@ -3730,6 +3762,9 @@ This creature can't be enchanted.</text>
         </card>
         <card>
             <name>Thopter</name>
+            <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_ZQ77vJDpoE.png">KLD</set>
+            <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_V8a0HO5toy.png">KLD</set>
+            <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_PQycN8PjmE.png">KLD</set>
             <set picURL="http://media.wizards.com/2015/images/daily/en_9ju9ab3gkt.png">ORI</set>
             <!-- <set picURL="http://media.wizards.com/2015/images/daily/en_rntjyw1s1o.png">ORI</set> -->
             <set picURL="http://magiccards.info/extras/token/mirrodin-besieged/thopter.jpg">MBS</set>
@@ -4046,7 +4081,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <type>Token Creature — Whale</type>
             <pt>6/6</pt>
             <tablerow>2</tablerow>
-            <text>When this creature dies, put a 9/9 blue Kraken creature token onto the battlefield.</text>
+            <text>When this creature dies, create a 9/9 blue Kraken creature token.</text>
             <token>1</token>
             <related>Kraken</related>
         </card>
@@ -4452,6 +4487,15 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Chandra, Roaring Flame</reverse-related>
         </card>
         <card>
+            <name>Chandra, Torch of Defiance (emblem)</name>
+            <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_hPjChGGcMo.png">KLD</set>
+            <manacost></manacost>
+            <type>Emblem — Chandra</type>
+            <tablerow>1</tablerow>
+            <text>Whenever you cast a spell, this emblem deals 5 damage to target creature or player.</text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Dack Fayden (emblem)</name>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_KZQONbOfjg.png">EMA</set>
             <set picURL="http://magiccards.info/extras/token/conspiracy/emblem-dack-fayden.jpg">CNS</set>
@@ -4481,6 +4525,15 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Creatures you control have double strike, trample, hexproof, and haste.</text>
             <token>1</token>
             <reverse-related>Domri Rade</reverse-related>
+        </card>
+        <card>
+            <name>Dovin Baan (emblem)</name>
+            <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_TndzDeN0rh.png">KLD</set>
+            <manacost></manacost>
+            <type>Emblem — Dovin</type>
+            <tablerow>1</tablerow>
+            <text>Your opponents can't untap more than two permanents during their untap steps.</text>
+            <token>1</token>
         </card>
         <card>
             <name>Elspeth, Knight-Errant (emblem)</name>
@@ -4559,7 +4612,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <manacost></manacost>
             <type>Emblem — Kiora</type>
             <tablerow>1</tablerow>
-            <text>At the beginning of your end step, put a 9/9 blue Kraken creature token onto the battlefield.</text>
+            <text>At the beginning of your end step, create a 9/9 blue Kraken creature token.</text>
             <token>1</token>
             <reverse-related>Kiora, the Crashing Wave</reverse-related>
             <related>Kraken</related>
@@ -4608,11 +4661,10 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         <card>
             <name>Liliana, the Last Hope (emblem)</name>
             <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_3uiqIat9XN.png">EMN</set>
-
             <manacost></manacost>
             <type>Emblem — Liliana</type>
             <tablerow>1</tablerow>
-            <text>At the beginning of your end step, put X 2/2 black Zombie creature tokens onto the battlefield, where X is two plus the number of Zombies you control.</text>
+            <text>At the beginning of your end step, create X 2/2 black Zombie creature tokens, where X is two plus the number of Zombies you control.</text>
             <token>1</token>
             <reverse-related>Liliana, the Last Hope</reverse-related>
             <related>Zombie</related>
@@ -4626,6 +4678,15 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Your opponents can't cast noncreature spells.</text>
             <token>1</token>
             <reverse-related>Narset Transcendent</reverse-related>
+        </card>
+        <card>
+            <name>Nissa, Vital Force (emblem)</name>
+            <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_L3HvZKtjG2.png">KLD</set>
+            <manacost></manacost>
+            <type>Emblem — Nissa</type>
+            <tablerow>1</tablerow>
+            <text>Whenever a land enters the battlefield under your control, you may draw a card.</text>
+            <token>1</token>
         </card>
         <card>
             <name>Ob Nixilis of the Black Oath (emblem)</name>
@@ -4682,7 +4743,6 @@ At the beginning of your end step, discard your hand.</text>
         <card>
             <name>Tamiyo, Field Researcher (emblem)</name>
             <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_c30wTaXc7C.png">EMN</set>
-
             <manacost></manacost>
             <type>Emblem — Tamiyo</type>
             <tablerow>1</tablerow>
