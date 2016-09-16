@@ -4783,6 +4783,15 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <reverse-related>Venser, the Sojourner</reverse-related>
         </card>
         <card>
+            <name>Energy Reserve</name>
+            <set picURL="http://i.imgur.com/D4xLMxC.png">KLD</set>
+            <manacost></manacost>
+            <type>Counter</type>
+            <tablerow>1</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Experience Counter</name>
             <set picURL="http://i.imgur.com/GgQ6lhZ.jpg">C15</set>
             <manacost></manacost>
