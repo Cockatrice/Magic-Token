@@ -358,6 +358,7 @@
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>Architect of the Untamed</reverse-related>
         </card>
         <card>
             <name>Bird</name>
@@ -788,6 +789,8 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>Metallurgic Summonings</reverse-related>
+            <reverse-related>Oviya Pashiri, Sage Lifecrafter</reverse-related>
         </card>
         <card>
             <name>Demon</name>
@@ -3141,6 +3144,25 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>Accomplished Automaton</reverse-related>
+            <reverse-related>Ambitious Aetherborn</reverse-related>
+            <reverse-related>Angel of Invention</reverse-related>
+            <reverse-related>Animation Module</reverse-related>
+            <reverse-related>Cogworker's Puzzleknot</reverse-related>
+            <reverse-related>Cultivator of Blades</reverse-related>
+            <reverse-related>Elegant Edgecrafters</reverse-related>
+            <reverse-related>Glint-Sleeve Artisan</reverse-related>
+            <reverse-related>Highspire Artisan</reverse-related>
+            <reverse-related>Iron League Steed</reverse-related>
+            <reverse-related>Marionette Master</reverse-related>
+            <reverse-related>Master Trinketeer</reverse-related>
+            <reverse-related>Maulfist Squad</reverse-related>
+            <reverse-related>Oviya Pashiri, Sage Lifecrafter</reverse-related>
+            <reverse-related>Peema Outrider</reverse-related>
+            <reverse-related>Propeller Pioneer</reverse-related>
+            <reverse-related>Servo Exhibition</reverse-related>
+            <reverse-related>Visionary Augmenter</reverse-related>
+            <reverse-related>Weaponcraft Enthusiast</reverse-related>
         </card>
         <card>
             <name>Shapeshifter </name>
@@ -3784,6 +3806,10 @@ This creature can't be enchanted.</text>
             <reverse-related>Thopter Spy Network</reverse-related>
             <reverse-related>Thopter Squadron</reverse-related>
             <reverse-related>Whirler Rogue</reverse-related>
+            <reverse-related>Experimental Aviator</reverse-related>
+            <reverse-related>Pia Nalaar</reverse-related>
+            <reverse-related>Whirler Virtuoso</reverse-related>
+            <reverse-related>Whirlermaker</reverse-related>
         </card>
         <card>
             <name>Thopter </name>
@@ -4494,6 +4520,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Whenever you cast a spell, this emblem deals 5 damage to target creature or player.</text>
             <token>1</token>
+            <reverse-related>Chandra, Torch of Defiance</reverse-related>
         </card>
         <card>
             <name>Dack Fayden (emblem)</name>
@@ -4534,6 +4561,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Your opponents can't untap more than two permanents during their untap steps.</text>
             <token>1</token>
+            <reverse-related>Dovin Baan</reverse-related>
         </card>
         <card>
             <name>Elspeth, Knight-Errant (emblem)</name>
@@ -4687,6 +4715,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Whenever a land enters the battlefield under your control, you may draw a card.</text>
             <token>1</token>
+            <reverse-related>Nissa, Vital Force</reverse-related>
         </card>
         <card>
             <name>Ob Nixilis of the Black Oath (emblem)</name>
