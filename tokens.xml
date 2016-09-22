@@ -4431,6 +4431,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text></text>
             <token>1</token>
             <reverse-related>Ritual of the Returned</reverse-related>
+            <reverse-related>Soul Separator</reverse-related>
         </card>
         <card>
             <name>Zombie   </name>
