@@ -196,7 +196,6 @@
             <pt>1/2</pt>
             <tablerow>2</tablerow>
             <text>Flying
-
 {1}{B}, Sacrifice this creature: Return an exiled card named Sengir Nosferatu to the battlefield under its owner's control.</text>
             <token>1</token>
             <reverse-related>Sengir Nosferatu</reverse-related>
@@ -712,7 +711,6 @@
             <pt>1/1</pt>
             <tablerow>2</tablerow>
             <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
-
 Cloud Sprite can block only creatures with flying.</text>
             <token>1</token>
             <reverse-related>Cloudseeder</reverse-related>
@@ -957,7 +955,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <pt>2/2</pt>
             <tablerow>2</tablerow>
             <text>Flying
-
 {R}: This creature gets +1/+0 until end of turn.</text>
             <token>1</token>
             <reverse-related>Brood Keeper</reverse-related>
@@ -2523,7 +2520,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <pt>5/1</pt>
             <tablerow>2</tablerow>
             <text>Trample, haste
-
 At the beginning of the end step, sacrifice this creature.</text>
             <token>1</token>
             <reverse-related>Rite of the Raging Storm</reverse-related>
@@ -2572,7 +2568,6 @@ At the beginning of the end step, sacrifice this creature.</text>
             <pt>2/2</pt>
             <tablerow>2</tablerow>
             <text>(You can cover a face-down manifested creature with this reminder card.
-
 A manifested creature card can be turned face up any time for its mana cost. A face-down card can also be turned face up for its morph cost.)</text>
             <token>1</token>
         </card>
@@ -2695,7 +2690,6 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <pt>2/2</pt>
             <tablerow>2</tablerow>
             <text>(You can cover a face-down creature with this reminder card.
-
 A card with morph can be turned face up any time for its morph cost.)</text>
             <token>1</token>
         </card>
@@ -3424,7 +3418,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <pt>3/1</pt>
             <tablerow>2</tablerow>
             <text>Trample, haste
-
 At the beginning of the end step, sacrifice Spark Elemental.</text>
             <token>1</token>
             <reverse-related>Sparkspitter</reverse-related>
@@ -3678,7 +3671,6 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
             <text>Flying
-
 Cumulative upkeep {G}</text>
             <token>1</token>
             <reverse-related>Splintering Wind</reverse-related>
@@ -3750,9 +3742,7 @@ Cumulative upkeep {G}</text>
             <type>Token Artifact — Equipment</type>
             <tablerow>2</tablerow>
             <text>Indestructible
-
 Equipped creature gets +5/+5 and has double strike.
-
 Equip {0}</text>
             <token>1</token>
             <reverse-related>Nahiri, the Lithomancer</reverse-related>
@@ -3777,7 +3767,6 @@ Equip {0}</text>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
             <text>Flying
-
 This creature can't be enchanted.</text>
             <token>1</token>
             <reverse-related>Tetravus</reverse-related>
@@ -3905,7 +3894,6 @@ This creature can't be enchanted.</text>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
             <text>Flying
-
 Sacrifice this creature: This creature deals 1 damage to target creature or player.</text>
             <token>1</token>
             <reverse-related>Triskelavus</reverse-related>
@@ -4745,7 +4733,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <type>Emblem — Sarkhan</type>
             <tablerow>1</tablerow>
             <text>At the beginning of your draw step, draw two additional cards.
-
 At the beginning of your end step, discard your hand.</text>
             <token>1</token>
             <reverse-related>Sarkhan, the Dragonspeaker</reverse-related>
@@ -4787,7 +4774,6 @@ At the beginning of your end step, discard your hand.</text>
             <type>Emblem — Tamiyo</type>
             <tablerow>1</tablerow>
             <text>You have no maximum hand size.
-
 Whenever a card is put into your graveyard from anywhere, you may return it to your hand.</text>
             <token>1</token>
             <reverse-related>Tamiyo, the Moon Sage</reverse-related>
