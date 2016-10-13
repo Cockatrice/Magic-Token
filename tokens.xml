@@ -1044,7 +1044,14 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Eldrazi Scion</name>
             <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_MxPVFC6BEh.png">OGW</set>
+            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_k3VHCBBEl9.png">OGW</set>
+            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_UaWgUgRPe9.png">OGW</set>
+            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_UqWPea58yj.png">OGW</set>
+            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_IuTCHzzj8b.png">OGW</set>
+            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_4wGdCfATt4.png">OGW</set>
             <set picURL="http://media.wizards.com/2015/images/daily/jzkBRlkQ2X.png">BFZ</set>
+            <set picURL="http://media.wizards.com/2015/images/daily/pAT2ZVOJYc.png">BFZ</set>
+            <set picURL="http://media.wizards.com/2015/images/daily/ERZfWSN2Kh.png">BFZ</set>
             <manacost></manacost>
             <type>Token Creature — Eldrazi Scion</type>
             <pt>1/1</pt>
@@ -1075,61 +1082,13 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Warping Wail</reverse-related>
         </card>
         <card>
-            <name>Eldrazi Scion (2)</name>
-            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_k3VHCBBEl9.png">OGW</set>
-            <set picURL="http://media.wizards.com/2015/images/daily/pAT2ZVOJYc.png">BFZ</set>
-            <manacost></manacost>
-            <type>Token Creature — Eldrazi Scion</type>
-            <pt>1/1</pt>
-            <tablerow>2</tablerow>
-            <text>Sacrifice this creature: Add {C} to your mana pool.</text>
-            <token>1</token>
-        </card>
-        <card>
-            <name>Eldrazi Scion (3)</name>
-            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_UaWgUgRPe9.png">OGW</set>
-            <set picURL="http://media.wizards.com/2015/images/daily/ERZfWSN2Kh.png">BFZ</set>
-            <manacost></manacost>
-            <type>Token Creature — Eldrazi Scion</type>
-            <pt>1/1</pt>
-            <tablerow>2</tablerow>
-            <text>Sacrifice this creature: Add {C} to your mana pool.</text>
-            <token>1</token>
-        </card>
-        <card>
-            <name>Eldrazi Scion (4)</name>
-            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_UqWPea58yj.png">OGW</set>
-            <manacost></manacost>
-            <type>Token Creature — Eldrazi Scion</type>
-            <pt>1/1</pt>
-            <tablerow>2</tablerow>
-            <text>Sacrifice this creature: Add {C} to your mana pool.</text>
-            <token>1</token>
-        </card>
-        <card>
-            <name>Eldrazi Scion (5)</name>
-            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_IuTCHzzj8b.png">OGW</set>
-            <manacost></manacost>
-            <type>Token Creature — Eldrazi Scion</type>
-            <pt>1/1</pt>
-            <tablerow>2</tablerow>
-            <text>Sacrifice this creature: Add {C} to your mana pool.</text>
-            <token>1</token>
-        </card>
-        <card>
-            <name>Eldrazi Scion (6)</name>
-            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_4wGdCfATt4.png">OGW</set>
-            <manacost></manacost>
-            <type>Token Creature — Eldrazi Scion</type>
-            <pt>1/1</pt>
-            <tablerow>2</tablerow>
-            <text>Sacrifice this creature: Add {C} to your mana pool.</text>
-            <token>1</token>
-        </card>
-        <card>
             <name>Eldrazi Spawn</name>
             <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_ZEgJlqKKxe.png">MM2</set>
+            <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_Hhuj1GUOBt.png">MM2</set>
+            <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_fUx3VrMDnA.png">MM2</set>
             <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/eldrazi-spawn-1.jpg">ROE</set>
+            <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/eldrazi-spawn-2.jpg">ROE</set>
+            <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/eldrazi-spawn-3.jpg">ROE</set>
             <manacost></manacost>
             <type>Token Creature — Eldrazi Spawn</type>
             <pt>0/1</pt>
@@ -1150,28 +1109,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Skittering Invasion</reverse-related>
             <reverse-related>Spawning Breath</reverse-related>
             <reverse-related>Spawnsire of Ulamog</reverse-related>
-        </card>
-        <card>
-            <name>Eldrazi Spawn </name>
-            <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_Hhuj1GUOBt.png">MM2</set>
-            <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/eldrazi-spawn-2.jpg">ROE</set>
-            <manacost></manacost>
-            <type>Token Creature — Eldrazi Spawn</type>
-            <pt>0/1</pt>
-            <tablerow>2</tablerow>
-            <text>Sacrifice this creature: Add {C} to your mana pool.</text>
-            <token>1</token>
-        </card>
-        <card>
-            <name>Eldrazi Spawn  </name>
-            <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_fUx3VrMDnA.png">MM2</set>
-            <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/eldrazi-spawn-3.jpg">ROE</set>
-            <manacost></manacost>
-            <type>Token Creature — Eldrazi Spawn</type>
-            <pt>0/1</pt>
-            <tablerow>2</tablerow>
-            <text>Sacrifice this creature: Add {C} to your mana pool.</text>
-            <token>1</token>
         </card>
         <card>
             <name>Elemental</name>
@@ -3777,7 +3714,7 @@ This creature can't be enchanted.</text>
             <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_V8a0HO5toy.png">KLD</set>
             <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_PQycN8PjmE.png">KLD</set>
             <set picURL="http://media.wizards.com/2015/images/daily/en_9ju9ab3gkt.png">ORI</set>
-            <!-- <set picURL="http://media.wizards.com/2015/images/daily/en_rntjyw1s1o.png">ORI</set> -->
+            <set picURL="http://media.wizards.com/2015/images/daily/en_rntjyw1s1o.png">ORI</set>
             <set picURL="http://magiccards.info/extras/token/mirrodin-besieged/thopter.jpg">MBS</set>
             <manacost></manacost>
             <type>Token Artifact Creature — Thopter</type>
@@ -4047,9 +3984,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <name>Warrior </name>
             <set picURL="http://magiccards.info/extras/token/dragons-of-tarkir/warrior.jpg">DTK</set>
             <set picURL="http://magiccards.info/extras/token/khans-of-tarkir/warrior-1.jpg">KTK</set>
-            <!-- 
             <set picURL="http://magiccards.info/extras/token/khans-of-tarkir/warrior-2.jpg">KTK</set>
-            -->
             <color>W</color>
             <manacost></manacost>
             <type>Token Creature — Warrior</type>
@@ -4305,9 +4240,9 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <name>Zombie</name>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_jiQZPry4Js.png">CN2</set>
             <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_agGWKXppaH.png">EMN</set>
-            <!-- <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_vpvtSxqjtz.png">EMN</set> -->
-            <!-- <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_bgb9weEZA4.png">EMN</set> -->
-            <!-- <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_SwNMotyu8E.png">EMN</set> -->
+            <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_vpvtSxqjtz.png">EMN</set>
+            <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_bgb9weEZA4.png">EMN</set>
+            <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_SwNMotyu8E.png">EMN</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_bsHDG8OapS.png">EMA</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_Hys6V2Lnum.png">SOI</set>
             <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_uoBpnCUEg1.png">OGW</set>
