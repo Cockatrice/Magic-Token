@@ -5,7 +5,7 @@
 -->
 <cockatrice_carddatabase version="3">
     <cards>
-        <!-- 
+        <!--
         <card>
             <name></name>
             <set picURL=""></set>
@@ -378,7 +378,6 @@
             <set picURL="http://magiccards.info/extras/token/born-of-the-gods/bird-1.jpg">BNG</set>
             <set picURL="http://magiccards.info/extras/token/zendikar/bird.jpg">ZEN</set>
             <set picURL="http://magiccards.info/extras/token/return-to-ravnica/bird.jpg">RTR</set>
-            <!-- <set picURL="http://magiccards.info/extras/token/league/bird.jpg">LGE</set> -->
             <color>W</color>
             <manacost></manacost>
             <type>Token Creature — Bird</type>
@@ -624,7 +623,6 @@
         <card>
             <name>Centaur</name>
             <set picURL="http://magiccards.info/extras/token/return-to-ravnica/centaur-1.jpg">RTR</set>
-            <!-- <set picURL="http://magiccards.info/extras/token/league/centaur.jpg">LGE</set> -->
             <color>G</color>
             <manacost></manacost>
             <type>Token Creature — Centaur</type>
@@ -702,7 +700,7 @@
             <token>1</token>
             <reverse-related>Heliod, God of the Sun</reverse-related>
         </card>
-        <card><!-- Created by Cloudseeder -->
+        <card>
             <name>Cloud Sprite (token)</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/a/a7/Cloud_Sprite.jpg">FUT</set>
             <color>U</color>
@@ -1010,7 +1008,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <token>1</token>
             <reverse-related>Desolation Twin</reverse-related>
         </card>
-        <card><!-- Created by Planechase 2 Plane "Hedron Fields of Agadeem" -->
+        <card>
             <name>Eldrazi </name>
             <set picURL="http://oi41.tinypic.com/2e37pmq.jpg">PC2</set>
             <manacost></manacost>
@@ -1534,7 +1532,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <token>1</token>
             <reverse-related>Oona, Queen of the Fae</reverse-related>
         </card>
-        <card><!-- Created by Skirk Ridge Exhumer -->
+        <card>
             <name>Festering Goblin (token)</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/2/24/Festering_Goblin.jpg">FUT</set>
             <color>B</color>
@@ -1822,7 +1820,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Gild</reverse-related>
             <reverse-related>King Macar, the Gold-Cursed</reverse-related>
         </card>
-        <card><!-- Created by Goldmeadow Lookout -->
+        <card>
             <name>Goldmeadow Harrier (token)</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/0/0c/Goldmeadow_Harrier.jpg">FUT</set>
             <color>W</color>
@@ -2084,7 +2082,8 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Human Cleric</name>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_9BXzi51Vmy.png">SOI</set>
-            <color>WB</color>
+            <color>W</color>
+            <color>B</color>
             <manacost></manacost>
             <type>Token Creature — Human Cleric</type>
             <pt>1/1</pt>
@@ -2241,7 +2240,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Kaldra</name>
-            <set picURL="http://cdn.staticneo.com/w/mtg/3/3d/Kaldra.jpg">DST</set><!-- Official art, ugly as it is. http://archive.wizards.com/Magic/magazine/article.aspx?x=mtgcom/arcana/617 -->
+            <set picURL="http://cdn.staticneo.com/w/mtg/3/3d/Kaldra.jpg">DST</set>
             <manacost></manacost>
             <type>Token Legendary Creature — Avatar</type>
             <pt>4/4</pt>
@@ -2300,7 +2299,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_989oeP4YLT.png">C15</set>
             <set picURL="http://media.wizards.com/2015/images/daily/en_ai1c87k93o.png">ORI</set>
             <set picURL="http://magiccards.info/extras/token/return-to-ravnica/knight.jpg">RTR</set>
-            <!-- <set picURL="http://magiccards.info/extras/token/league/knight.jpg">LGE</set> -->
             <color>W</color>
             <manacost></manacost>
             <type>Token Creature — Knight</type>
@@ -2379,10 +2377,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Allied Reinforcements</reverse-related>
             <reverse-related>Gideon, Ally of Zendikar</reverse-related>
         </card>
-        <card><!-- Created by
-            Kher Keep
-            Prossh, Skyraider of Kher 
-            -->
+        <card>
             <name>Kobolds of Kher Keep (token)</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/c/ca/Kobolds_of_Kher_Keep.jpg">TSP</set>
             <color>R</color>
@@ -2485,7 +2480,7 @@ At the beginning of the end step, sacrifice this creature.</text>
             <token>1</token>
             <reverse-related>Subterranean Tremors</reverse-related>
         </card>
-        <card><!-- Created by Llanowar Mentor -->
+        <card>
             <name>Llanowar Elves (token)</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/7/71/Llanowar_Elves.jpg">FUT</set>
             <color>G</color>
@@ -2546,7 +2541,7 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <reverse-related>Stonybrook Schoolmaster</reverse-related>
             <reverse-related>Summon the School</reverse-related>
         </card>
-        <card><!-- Created by Sliversmith -->
+        <card>
             <name>Metallic Sliver (token)</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/b/bf/Metallic_Sliver.jpg">FUT</set>
             <manacost></manacost>
@@ -2617,7 +2612,7 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <text>Prowess</text>
             <token>1</token>
             <reverse-related>Monastery Mentor</reverse-related>
-        </card>        
+        </card>
         <card>
             <name>Morph</name>
             <set picURL="http://magiccards.info/extras/token/dragons-of-tarkir/morph.jpg">DTK</set>
@@ -3137,7 +3132,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0001_MTGM15_TOK_EN%20copy.png">M15</set>
             <set picURL="http://magiccards.info/extras/token/player-rewards-2003/sliver.jpg">LGN</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/sliver.jpg">M14</set>
-            <!-- <set picURL="http://magiccards.info/extras/token/league/sliver.jpg">LGE</set> -->
             <manacost></manacost>
             <type>Token Creature — Sliver</type>
             <pt>1/1</pt>
@@ -3201,8 +3195,8 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         <card>
             <name>Snake   </name>
             <set picURL="http://magiccards.info/extras/token/journey-into-nyx/snake.jpg">JOU</set>
-            <color>G</color>
             <color>B</color>
+            <color>G</color>
             <manacost></manacost>
             <type>Token Enchantment Creature — Snake</type>
             <pt>1/1</pt>
@@ -3285,7 +3279,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         <card>
             <name>Soldier </name>
             <set picURL="http://magiccards.info/extras/token/gatecrash/soldier.jpg">GTC</set>
-            <!-- <set picURL="http://magiccards.info/extras/token/league/soldier.jpg">LGE</set> -->
             <color>R</color>
             <color>W</color>
             <manacost></manacost>
@@ -3346,7 +3339,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <token>1</token>
             <reverse-related>Join the Ranks</reverse-related>
         </card>
-        <card><!-- Created by Sparkspitter -->
+        <card>
             <name>Spark Elemental (token)</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/a/ae/Spark_Elemental.jpg">FUT</set>
             <color>R</color>
@@ -4127,7 +4120,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
             <reverse-related>Master of the Hunt</reverse-related>
         </card>
-        <card><!-- Created by and can be sacrificed to Jungle Patrol. -->
+        <card>
             <name>Wood</name>
             <set picURL="http://oi43.tinypic.com/2z6s4ly.jpg">MIR</set>
             <color>G</color>
