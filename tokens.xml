@@ -5,7 +5,7 @@
 -->
 <cockatrice_carddatabase version="3">
     <cards>
-        <!-- 
+        <!--
         <card>
             <name></name>
             <set picURL=""></set>
@@ -2084,7 +2084,8 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Human Cleric</name>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_9BXzi51Vmy.png">SOI</set>
-            <color>WB</color>
+            <color>W</color>
+            <color>B</color>
             <manacost></manacost>
             <type>Token Creature — Human Cleric</type>
             <pt>1/1</pt>
@@ -2381,7 +2382,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card><!-- Created by
             Kher Keep
-            Prossh, Skyraider of Kher 
+            Prossh, Skyraider of Kher
             -->
             <name>Kobolds of Kher Keep (token)</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/c/ca/Kobolds_of_Kher_Keep.jpg">TSP</set>
@@ -2617,7 +2618,7 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <text>Prowess</text>
             <token>1</token>
             <reverse-related>Monastery Mentor</reverse-related>
-        </card>        
+        </card>
         <card>
             <name>Morph</name>
             <set picURL="http://magiccards.info/extras/token/dragons-of-tarkir/morph.jpg">DTK</set>
