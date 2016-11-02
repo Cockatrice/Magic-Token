@@ -232,6 +232,7 @@
         </card>
         <card>
             <name>Beast</name>
+            <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/W0xMFNlHxf_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_3ginm6gErc.png">CN2</set>
             <set picURL="http://magiccards.info/extras/token/commander-2014/beast-1.jpg">C14</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0009_MTGM15_TOK_EN%20copy.png">M15</set>
@@ -375,6 +376,7 @@
         </card>
         <card>
             <name>Bird </name>
+            <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/xA26RzQIyY_EN.png">C16</set>
             <set picURL="http://magiccards.info/extras/token/born-of-the-gods/bird-1.jpg">BNG</set>
             <set picURL="http://magiccards.info/extras/token/zendikar/bird.jpg">ZEN</set>
             <set picURL="http://magiccards.info/extras/token/return-to-ravnica/bird.jpg">RTR</set>
@@ -421,6 +423,7 @@
         </card>
         <card>
             <name>Bird    </name>
+            <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/x6wvejvxOl_EN.png">C16</set>
             <set picURL="http://magiccards.info/extras/token/theros/bird.jpg">THS</set>
             <color>U</color>
             <manacost></manacost>
@@ -1220,6 +1223,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental          </name>
+            <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/hLbATbkzqS_EN.png">C16</set>
             <set picURL="http://magiccards.info/extras/token/lorwyn/elemental-2.jpg">LRW</set>
             <color>W</color>
             <manacost></manacost>
@@ -1451,6 +1455,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elf Warrior</name>
+            <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/3kKodsqlXd_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_5V69YTP0YA.png">EMA</set>
             <set picURL="http://media.wizards.com/2015/images/daily/en_1pdn4qr9ho.png">ORI</set>
             <set picURL="http://magiccards.info/extras/token/commander-2014/elf-warrior.jpg">C14</set>
@@ -1584,6 +1589,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Germ</name>
+            <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/byg00olvZx_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_UF6tUBntoI.png">C15</set>
             <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_dKOkeEXQ9V.png">MM2</set>
             <set picURL="http://magiccards.info/extras/token/commander-2014/germ.jpg">C14</set>
@@ -1657,6 +1663,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Goat</name>
+            <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/2QtBY6BF4T_EN.png">C16</set>
             <set picURL="http://magiccards.info/extras/token/commander-2014/goat.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/goat.jpg">M14</set>
             <set picURL="http://magiccards.info/extras/token/magic-2013/goat.jpg">M13</set>
@@ -1750,6 +1757,18 @@ Cloud Sprite can block only creatures with flying.</text>
             <text>Haste</text>
             <token>1</token>
             <reverse-related>Rakdos Guildmage</reverse-related>
+        </card>
+        <card>
+            <name>Goblin   </name>
+            <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/nW8u7HgucU_EN.png">C16</set>
+            <color>R</color>
+            <manacost></manacost>
+            <type>Token Creature — Goblin</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Creatures you control attack each combat if able.</text>
+            <token>1</token>
+            <reverse-related>Goblin Spymaster</reverse-related>
         </card>
         <card>
             <name>Goblin Rogue</name>
@@ -1989,6 +2008,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Horror</name>
+            <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/FcpMah0evd_EN.png">C16</set>
             <set picURL="http://magiccards.info/extras/token/mirrodin-besieged/horror.jpg">MBS</set>
             <manacost></manacost>
             <type>Token Artifact Creature — Horror</type>
@@ -2627,6 +2647,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Myr</name>
+            <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/ZcDckQNuvU_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_ANw57RqESf.png">MM2</set>
             <set picURL="http://magiccards.info/extras/token/commander-2014/myr.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/modern-event-deck/myr.jpg">MD1</set>
@@ -2666,6 +2687,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Ogre</name>
+            <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/FJxOEvQb3P_EN.png">C16</set>
             <set picURL="http://magiccards.info/extras/token/worldwake/ogre.jpg">WWK</set>
             <color>R</color>
             <manacost></manacost>
@@ -2936,6 +2958,8 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Saproling</name>
+            <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/GDoSGrEih8_EN.png">C16</set>
+            <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/r73oaJWhdf_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_aoxNphcwIn.png">C15</set>
             <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_hHD76MxLFo.png">MM2</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/saproling.jpg">M14</set>
@@ -3219,6 +3243,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Soldier</name>
+            <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/MPxJre1G3p_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_3W2HGUwu5Z.png">CN2</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_xvaBbBCiuf.png">EMA</set>
             <set picURL="http://media.wizards.com/2015/images/daily/en_5n24neg1wf.png">ORI</set>
@@ -3431,6 +3456,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spirit</name>
+            <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/a8Dcl06bW6_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_uKWYrCTL44.png">CN2</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_cxaUJXygwx.png">EMA</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_2dPK4cEymD.png">SOI</set>
@@ -3525,6 +3551,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spirit   </name>
+            <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/bQqBAcQB03_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_qQaHPqyjyC.png">EMA</set>
             <set picURL="http://magiccards.info/extras/token/player-rewards-2004/spirit.jpg">CHK</set>
             <manacost></manacost>
@@ -3607,6 +3634,7 @@ Cumulative upkeep {G}</text>
         </card>
         <card>
             <name>Squid</name>
+            <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/I59skxnJe9_EN.png">C16</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0004_MTGM15_TOK_EN%20copy.png">M15</set>
             <color>U</color>
             <manacost></manacost>
@@ -3732,6 +3760,7 @@ This creature can't be enchanted.</text>
         </card>
         <card>
             <name>Thopter </name>
+            <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/PK9s0eoiqm_EN.png">C16</set>
             <set picURL="http://magiccards.info/extras/token/shards-of-alara/thopter.jpg">ALA</set>
             <color>U</color>
             <manacost></manacost>
@@ -4134,6 +4163,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Worm</name>
+            <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/YRX6z4VY3I_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_o6daS1QNfK.png">MM2</set>
             <set picURL="http://magiccards.info/extras/token/modern-masters/worm.jpg">MMA</set>
             <set picURL="http://magiccards.info/extras/token/eventide/worm.jpg">EVE</set>
@@ -4231,6 +4261,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Zombie</name>
+            <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/KuzDDwCJi3_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_jiQZPry4Js.png">CN2</set>
             <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_agGWKXppaH.png">EMN</set>
             <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_vpvtSxqjtz.png">EMN</set>
@@ -4452,6 +4483,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Daretti, Scrap Savant (emblem)</name>
+            <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/no0YB9HlIT_EN.png">C16</set>
             <set picURL="http://magiccards.info/extras/token/commander-2014/emblem-daretti.jpg">C14</set>
             <manacost></manacost>
             <type>Emblem — Daretti</type>
