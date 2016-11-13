@@ -391,6 +391,7 @@
             <reverse-related>Beck // Call</reverse-related>
             <reverse-related>Emeria Angel</reverse-related>
             <reverse-related>Jötun Owl Keeper</reverse-related>
+            <reverse-related>Migratory Route</reverse-related>
             <reverse-related>Ornitharch</reverse-related>
             <reverse-related>Seller of Songbirds</reverse-related>
         </card>
@@ -1604,6 +1605,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Batterskull</reverse-related>
             <reverse-related>Bonehoard</reverse-related>
             <reverse-related>Flayer Husk</reverse-related>
+            <reverse-related>Grip of Phyresis</reverse-related>
             <reverse-related>Lashwrithe</reverse-related>
             <reverse-related>Mortarpod</reverse-related>
             <reverse-related>Necropouncer</reverse-related>
@@ -2980,6 +2982,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>Aether Mutation</reverse-related>
             <reverse-related>Artifact Mutation</reverse-related>
             <reverse-related>Aura Mutation</reverse-related>
             <reverse-related>Bramble Elemental</reverse-related>
@@ -3030,6 +3033,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related>Sprout Swarm</reverse-related>
             <reverse-related>Sprouting Thrinax</reverse-related>
             <reverse-related>Supply // Demand</reverse-related>
+            <reverse-related>Tana, the Bloodsower</reverse-related>
             <reverse-related>Thallid</reverse-related>
             <reverse-related>Thallid Devourer</reverse-related>
             <reverse-related>Thallid Germinator</reverse-related>
@@ -3043,7 +3047,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related>Verdeloth the Ancient</reverse-related>
             <reverse-related>Vitaspore Thallid</reverse-related>
             <reverse-related>Vitu-Ghazi, the City-Tree</reverse-related>
-            <reverse-related>Æther Mutation</reverse-related>
         </card>
         <card>
             <name>Saproling </name>
@@ -3283,6 +3286,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related>Elspeth Tirel</reverse-related>
             <reverse-related>Elspeth, Knight-Errant</reverse-related>
             <reverse-related>Elspeth, Sun's Champion</reverse-related>
+            <reverse-related>Entrapment Maneuver</reverse-related>
             <reverse-related>Evangel of Heliod</reverse-related>
             <reverse-related>Even the Odds</reverse-related>
             <reverse-related>First Response</reverse-related>
@@ -3769,6 +3773,7 @@ This creature can't be enchanted.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
+            <reverse-related>Breya, Etherium Shaper</reverse-related>
             <reverse-related>Sharding Sphinx</reverse-related>
             <reverse-related>Thopter Foundry</reverse-related>
         </card>
