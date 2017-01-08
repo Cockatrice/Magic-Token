@@ -1487,6 +1487,17 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Rhys the Redeemed</reverse-related>
         </card>
         <card>
+            <name>Etherium Cell</name>
+            <set picURL="http://media.wizards.com/2016/c1lRLirbrl_AER/en_jFEx2smDi8.png">AER</set>
+            <color></color>
+            <manacost></manacost>
+            <type>Token Artifact</type>
+            <tablerow>1</tablerow>
+            <text>{T}, Sacrifice this artifact: Add one mana of any color to your mana pool.</text>
+            <token>1</token>
+            <reverse-related>Tezzeret the Schemer</reverse-related>
+        </card>
+        <card>
             <name>Faerie</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/e/e8/Faerie.jpg">RAV</set>
             <color>U</color>
@@ -1909,6 +1920,19 @@ Cloud Sprite can block only creatures with flying.</text>
             <token>1</token>
             <reverse-related>Balduvian Dead</reverse-related>
             <reverse-related>Sek'Kuar, Deathkeeper</reverse-related>
+        </card>
+        <card>
+            <name>Gremlin</name>
+            <set picURL="http://media.wizards.com/2016/c1lRLirbrl_AER/en_EBAuYV3Zn3.png">AER</set>
+            <color>R</color>
+            <manacost></manacost>
+            <type>Token Creature — Gremlin</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>Gremlin Infestation</reverse-related>
+            <reverse-related>Release the Gremlins</reverse-related>
         </card>
         <card>
             <name>Griffin</name>
@@ -2881,6 +2905,18 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <text></text>
             <token>1</token>
             <reverse-related>Diamond Kaleidoscope</reverse-related>
+        </card>
+        <card>
+            <name>Ragavan</name>
+            <set picURL="http://media.wizards.com/2016/c1lRLirbrl_AER/en_rzqBW60kOg.png">AER</set>
+            <color>R</color>
+            <manacost></manacost>
+            <type>Token Legendary Creature — Monkey</type>
+            <pt>2/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>Kari Zev, Skyship Raider</reverse-related>
         </card>
         <card>
             <name>Rat</name>
@@ -4753,6 +4789,16 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <text>You may activate loyalty abilities of planeswalkers you control on any player's turn any time you could cast an instant.</text>
             <token>1</token>
             <reverse-related>Teferi, Temporal Archmage</reverse-related>
+        </card>
+        <card>
+            <name>Tezzeret the Schemer (emblem)</name>
+            <set picURL="http://media.wizards.com/2016/c1lRLirbrl_AER/en_kbLsVYA78b.png">AER</set>
+            <manacost></manacost>
+            <type>Emblem — Tezzeret</type>
+            <tablerow>1</tablerow>
+            <text>At the beginning of combat on your turn, target artifact you control becomes an artifact creature with base power and toughness 5/5.</text>
+            <token>1</token>
+            <reverse-related>Tezzeret the Schemer</reverse-related>
         </card>
         <card>
             <name>Venser, the Sojourner (emblem)</name>
