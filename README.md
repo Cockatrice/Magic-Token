@@ -1,7 +1,7 @@
 Magic-Token
 =================
 
-This repo contains tokens information in [Cockatrice](http://github.com/cockatrice/cockatirce)'s XML card database format for Magic: The Gathering
+This repo contains tokens information in [Cockatrice](https://github.com/cockatrice/cockatrice)'s XML card database format for Magic: The Gathering
 
 For normal tokens, save the file found here: [**tokens.xml**](https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml)
 
