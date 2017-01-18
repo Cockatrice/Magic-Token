@@ -3135,6 +3135,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <text></text>
             <token>1</token>
             <reverse-related>Accomplished Automaton</reverse-related>
+            <reverse-related>Aether Herder</reverse-related>
             <reverse-related>Ambitious Aetherborn</reverse-related>
             <reverse-related>Angel of Invention</reverse-related>
             <reverse-related>Animation Module</reverse-related>
@@ -4818,6 +4819,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <tablerow>1</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>Aether Herder</reverse-related>
             <reverse-related>Aether Hub</reverse-related>
             <reverse-related>Aether Meltdown</reverse-related>
             <reverse-related>Aether Theorist</reverse-related>
