@@ -1489,7 +1489,6 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Etherium Cell</name>
             <set picURL="http://media.wizards.com/2016/c1lRLirbrl_AER/en_jFEx2smDi8.png">AER</set>
-            <color></color>
             <manacost></manacost>
             <type>Token Artifact</type>
             <tablerow>1</tablerow>
@@ -3153,6 +3152,17 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related>Servo Exhibition</reverse-related>
             <reverse-related>Visionary Augmenter</reverse-related>
             <reverse-related>Weaponcraft Enthusiast</reverse-related>
+            <reverse-related>Aether Chaser</reverse-related>
+            <reverse-related>Aether Herder</reverse-related>
+            <reverse-related>Aether Inspector</reverse-related>
+            <reverse-related>Aether Poisoner</reverse-related>
+            <reverse-related>Aether Swooper</reverse-related>
+            <reverse-related>Countless Gears Renegade</reverse-related>
+            <reverse-related>Hidden Stockpile</reverse-related>
+            <reverse-related>Renegade's Getaway</reverse-related>
+            <reverse-related>Servo Schematic</reverse-related>
+            <reverse-related>Sly Requisitioner</reverse-related>
+            <reverse-related>Sram's Expertise</reverse-related>
         </card>
         <card>
             <name>Shapeshifter </name>
@@ -3798,6 +3808,9 @@ This creature can't be enchanted.</text>
             <reverse-related>Whirler Rogue</reverse-related>
             <reverse-related>Whirler Virtuoso</reverse-related>
             <reverse-related>Whirlermaker</reverse-related>
+            <reverse-related>Efficient Construction</reverse-related>
+            <reverse-related>Filigree Crawler</reverse-related>
+            <reverse-related>Maverick Thopterist</reverse-related>
         </card>
         <card>
             <name>Thopter </name>
@@ -4865,6 +4878,29 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <reverse-related>Voltaic Brawler</reverse-related>
             <reverse-related>Whirler Virtuoso</reverse-related>
             <reverse-related>Woodweaver's Puzzleknot</reverse-related>
+            <reverse-related>Aether Chaser</reverse-related>
+            <reverse-related>Aether Herder</reverse-related>
+            <reverse-related>Aether Inspector</reverse-related>
+            <reverse-related>Aether Poisoner</reverse-related>
+            <reverse-related>Aether Swooper</reverse-related>
+            <reverse-related>Aethergeode Miner</reverse-related>
+            <reverse-related>Aethersphere Harvester</reverse-related>
+            <reverse-related>Aetherstream Leopard</reverse-related>
+            <reverse-related>Aethertide Whale</reverse-related>
+            <reverse-related>Aetherwind Basker</reverse-related>
+            <reverse-related>Consulate Turret</reverse-related>
+            <reverse-related>Glint-Sleeve Siphoner</reverse-related>
+            <reverse-related>Gonti's Aether Heart</reverse-related>
+            <reverse-related>Gonti's Machinations</reverse-related>
+            <reverse-related>Greenbelt Rampager</reverse-related>
+            <reverse-related>Highspire Infusion</reverse-related>
+            <reverse-related>Lightning Runner</reverse-related>
+            <reverse-related>Peema Aether-Seer</reverse-related>
+            <reverse-related>Reservoir Walker</reverse-related>
+            <reverse-related>Rogue Refiner</reverse-related>
+            <reverse-related>Scrapper Champion</reverse-related>
+            <reverse-related>Shielded Aether Thief</reverse-related>
+            <reverse-related>Shipwreck Moray</reverse-related>
         </card>
         <card>
             <name>Experience Counter</name>
