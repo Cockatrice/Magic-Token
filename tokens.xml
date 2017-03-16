@@ -376,7 +376,7 @@
             <text>Flying</text>
             <token>1</token>
             <reverse-related>Battle Screech</reverse-related>
-            <reverse-related>Beck // Call</reverse-related>
+            <reverse-related count="4">Beck // Call</reverse-related>
             <reverse-related>Emeria Angel</reverse-related>
             <reverse-related>Jötun Owl Keeper</reverse-related>
             <reverse-related>Migratory Route</reverse-related>
@@ -4367,7 +4367,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Empty the Pits</reverse-related>
             <reverse-related>Endless Ranks of the Dead</reverse-related>
             <reverse-related>Feast or Famine</reverse-related>
-            <reverse-related>From Under the Floorboards</reverse-related>
+            <reverse-related count="3">From Under the Floorboards</reverse-related>
             <reverse-related>Ghoulcaller Gisa</reverse-related>
             <reverse-related>Ghoulcaller's Accomplice</reverse-related>
             <reverse-related count="2">Gisa's Bidding</reverse-related>
