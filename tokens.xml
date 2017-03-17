@@ -20,6 +20,7 @@
          -->
         <card>
             <name>Angel</name>
+            <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_gvwFXo4kL2.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_OnvtmxOuug.png">SOI</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_KWY1Kgc86t.png">C15</set>
             <set picURL="http://media.wizards.com/2015/images/daily/en_b3znv1aqdq.png">ORI</set>
@@ -220,6 +221,7 @@
         </card>
         <card>
             <name>Beast</name>
+            <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_usBhGfeR1M.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/W0xMFNlHxf_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_3ginm6gErc.png">CN2</set>
             <set picURL="http://magiccards.info/extras/token/commander-2014/beast-1.jpg">C14</set>
@@ -257,6 +259,7 @@
         </card>
         <card>
             <name>Beast </name>
+            <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_sExTvXEuyG.png">MM3</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_hHSzfAwFwd.png">C15</set>
             <set picURL="http://magiccards.info/extras/token/commander-2014/beast-2.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/zendikar/beast.jpg">ZEN</set>
@@ -364,6 +367,7 @@
         </card>
         <card>
             <name>Bird </name>
+            <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_2wXcJD92zt.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/xA26RzQIyY_EN.png">C16</set>
             <set picURL="http://magiccards.info/extras/token/born-of-the-gods/bird-1.jpg">BNG</set>
             <set picURL="http://magiccards.info/extras/token/zendikar/bird.jpg">ZEN</set>
@@ -614,6 +618,7 @@
         </card>
         <card>
             <name>Centaur</name>
+            <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_ah0ecd5RgR.png">MM3</set>
             <set picURL="http://magiccards.info/extras/token/return-to-ravnica/centaur-1.jpg">RTR</set>
             <color>G</color>
             <manacost></manacost>
@@ -869,6 +874,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Dragon</name>
+            <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_TKuSkyDBa4.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_tUlOveGiwh.png">CN2</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_PngB7kxTCg.png">C15</set>
             <set picURL="http://media.wizards.com/2015/images/daily/FoyMVxznmy.png">BFZ</set>
@@ -1279,6 +1285,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental               </name>
+            <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_rONwJn9fUD.png">MM3</set>
             <set picURL="http://magiccards.info/extras/token/dragons-maze/elemental.jpg">DGM</set>
             <color>G</color>
             <color>W</color>
@@ -1405,6 +1412,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elephant</name>
+            <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_0F4M7yiktn.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_cQ9QQhPytK.png">EMA</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_F7cegsyXsw.png">C15</set>
             <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_tf0WqzqwuA.png">MM2</set>
@@ -1640,6 +1648,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Giant Warrior </name>
+            <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_g6xO4gTFLu.png">MM3</set>
             <set picURL="http://magiccards.info/extras/token/shadowmoor/giant-warrior.jpg">SHM</set>
             <color>R</color>
             <color>G</color>
@@ -1683,6 +1692,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Goblin</name>
+            <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_lT7oIjqrTl.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_aYWcAETlLv.png">EMA</set>
             <set picURL="http://media.wizards.com/2015/images/daily/en_vr1ovlnd3s.png">ORI</set>
             <set picURL="http://magiccards.info/extras/token/dragons-of-tarkir/goblin.jpg">DTK</set>
@@ -1817,6 +1827,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Goblin Warrior</name>
+            <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_k1q8e9nFZc.png">MM3</set>
             <set picURL="http://magiccards.info/extras/token/shadowmoor/goblin-warrior.jpg">SHM</set>
             <color>R</color>
             <color>G</color>
@@ -1854,6 +1865,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Golem</name>
+            <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_BsmvNmPP4D.png">MM3</set>
             <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_FFbEKgocU5.png">MM2</set>
             <set picURL="http://magiccards.info/extras/token/new-phyrexia/golem.jpg">NPH</set>
             <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/golem.jpg">SOM</set>
@@ -2738,6 +2750,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Ooze</name>
+            <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_fzNmUE7vkf.png">MM3</set>
             <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/ooze.jpg">ROE</set>
             <set picURL="http://magiccards.info/extras/token/shards-of-alara/ooze.jpg">ALA</set>
             <set picURL="http://magiccards.info/extras/token/return-to-ravnica/ooze.jpg">RTR</set>
@@ -2996,6 +3009,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Saproling</name>
+            <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_SbfhAAr1fv.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/GDoSGrEih8_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/r73oaJWhdf_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_aoxNphcwIn.png">C15</set>
@@ -3293,6 +3307,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Soldier</name>
+            <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_cUwkB5W9WX.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/MPxJre1G3p_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_3W2HGUwu5Z.png">CN2</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_xvaBbBCiuf.png">EMA</set>
@@ -3354,6 +3369,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Soldier </name>
+            <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_5NCosBXuge.png">MM3</set>
             <set picURL="http://magiccards.info/extras/token/gatecrash/soldier.jpg">GTC</set>
             <color>R</color>
             <color>W</color>
@@ -3471,6 +3487,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spider </name>
+            <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_DunTMmGo41.png">MM3</set>
             <set picURL="http://magiccards.info/extras/token/modern-masters/spider.jpg">MMA</set>
             <color>B</color>
             <manacost></manacost>
@@ -3507,6 +3524,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spirit</name>
+            <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_OoBnRxjJID.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/a8Dcl06bW6_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_uKWYrCTL44.png">CN2</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_cxaUJXygwx.png">EMA</set>
@@ -4289,6 +4307,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Wurm    </name>
+            <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_PkUDpUlSzD.png">MM3</set>
             <set picURL="http://magiccards.info/extras/token/return-to-ravnica/wurm.jpg">RTR</set>
             <color>G</color>
             <manacost></manacost>
@@ -4316,6 +4335,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Zombie</name>
+            <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_mdCldta8UM.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/KuzDDwCJi3_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_jiQZPry4Js.png">CN2</set>
             <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_agGWKXppaH.png">EMN</set>
@@ -4549,6 +4569,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Domri Rade (emblem)</name>
+            <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_5qdqzZr9eA.png">MM3</set>
             <set picURL="http://magiccards.info/extras/token/gatecrash/emblem-domri-rade.jpg">GTC</set>
             <manacost></manacost>
             <type>Emblem — Domri</type>
