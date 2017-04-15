@@ -78,6 +78,31 @@
             <reverse-related>Linvala, the Preserver</reverse-related>
         </card>
         <card>
+            <name>Angel of Sanctions (token)</name>
+            <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_4QM8Rarpb3.png">AKH</set>
+            <color>W</color>
+            <manacost></manacost>
+            <type>Token Creature — Zombie Angel</type>
+            <pt>3/4</pt>
+            <tablerow>2</tablerow>
+            <text>Flying
+When Angel of Sanctions enters the battlefield, you may exile target nonland permanent an opponent controls until Angel of Sanctions leaves the battlefield.</text>
+            <token>1</token>
+            <reverse-related>Angel of Sanctions</reverse-related>
+        </card>
+        <card>
+            <name>Anointer Priest (token)</name>
+            <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_37utTYc2ch.png">AKH</set>
+            <color>W</color>
+            <manacost></manacost>
+            <type>Token Creature — Zombie Human Cleric</type>
+            <pt>1/3</pt>
+            <tablerow>2</tablerow>
+            <text>Whenver a creature token enters the battlefield under your control, you gain 1 life.</text>
+            <token>1</token>
+            <reverse-related>Anointer Priest</reverse-related>
+        </card>
+        <card>
             <name>Antelope</name>
             <set picURL="http://s8.postimg.org/t5pmpgout/ANTELOPE.jpg">VAN</set>
             <color>G</color>
@@ -162,6 +187,31 @@
             <text>This creature's power and toughness are each equal to your life total.</text>
             <token>1</token>
             <reverse-related>Ajani Goldmane</reverse-related>
+        </card>
+        <card>
+            <name>Aven Initiate (token)</name>
+            <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_eRUouN79Mz.png">AKH</set>
+            <color>W</color>
+            <manacost></manacost>
+            <type>Token Creature — Zombie Bird Warrior</type>
+            <pt>3/2</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+            <reverse-related>Aven Initiate</reverse-related>
+        </card>
+        <card>
+            <name>Aven Wind Guide (token)</name>
+            <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_XBpcUCZnIC.png">AKH</set>
+            <color>W</color>
+            <manacost></manacost>
+            <type>Token Creature — Zombie Bird Warrior</type>
+            <pt>2/3</pt>
+            <tablerow>2</tablerow>
+            <text>Flying, vigilance
+Creature tokens you control have flying and vigilance.</text>
+            <token>1</token>
+            <reverse-related>Aven Wind Guide</reverse-related>
         </card>
         <card>
             <name>Bat</name>
@@ -350,6 +400,17 @@
             <text></text>
             <token>1</token>
             <reverse-related>Architect of the Untamed</reverse-related>
+        </card>
+        <card>
+            <name>Beast        </name>
+            <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_y6a4yyYcr2.png">AKH</set>
+            <color>G</color>
+            <manacost></manacost>
+            <type>Token Creature — Beast</type>
+            <pt>4/2</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
         </card>
         <card>
             <name>Bird</name>
@@ -591,6 +652,17 @@
             <text></text>
             <token>1</token>
             <reverse-related>Waiting in the Weeds</reverse-related>
+        </card>
+        <card>
+            <name>Cat   </name>
+            <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_sz4TjDakcm.png">AKH</set>
+            <color>W</color>
+            <manacost></manacost>
+            <type>Token Creature — Cat</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Lifelink</text>
+            <token>1</token>
         </card>
         <card>
             <name>Cat Soldier</name>
@@ -972,6 +1044,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Drake</name>
+            <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_Ux7X4BWQ08.png">AKH</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_YQgzJqST41.png">C15</set>
             <set picURL="http://magiccards.info/extras/token/magic-2013/drake.jpg">M13</set>
             <color>U</color>
@@ -1662,6 +1735,19 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Giantbaiting</reverse-related>
         </card>
         <card>
+            <name>Glyph Keeper (token)</name>
+            <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_CkELLJcnf2.png">AKH</set>
+            <color>W</color>
+            <manacost></manacost>
+            <type>Token Creature — Zombie Sphinx</type>
+            <pt>5/3</pt>
+            <tablerow>2</tablerow>
+            <text>Flying
+Whenever Glyph Keeper becomes the target of a spell or ability for the first time each turn, counter that spell or ability.</text>
+            <token>1</token>
+            <reverse-related>Glyph Keeper</reverse-related>
+        </card>
+        <card>
             <name>Gnome</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/1/12/Gnome.jpg">USG</set>
             <manacost></manacost>
@@ -1972,6 +2058,18 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Abhorrent Overlord</reverse-related>
         </card>
         <card>
+            <name>Heart-Piercer Manticore (token)</name>
+            <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_f4x6nZuyNC.png">AKH</set>
+            <color>W</color>
+            <manacost></manacost>
+            <type>Token Creature — Zombie Manticore</type>
+            <pt>4/3</pt>
+            <tablerow>2</tablerow>
+            <text>When Heart-Piercer Manticore enters the battlefield, you may sacrifice another creature. When you do, Heart-Piercer Manticore deals damage equal to that creature's power to target creature or player.</text>
+            <token>1</token>
+            <reverse-related>Heart-Piercer Manticore</reverse-related>
+        </card>
+        <card>
             <name>Hellion</name>
             <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/hellion.jpg">ROE</set>
             <set picURL="http://magiccards.info/extras/token/magic-2013/hellion.jpg">M13</set>
@@ -1999,6 +2097,17 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Questing Phelddagrif</reverse-related>
         </card>
         <card>
+            <name>Hippo </name>
+            <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_WH5A9ESPOc.png">AKH</set>
+            <color>G</color>
+            <manacost></manacost>
+            <type>Token Creature — Hippo</type>
+            <pt>3/3</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Homunculus</name>
             <set picURL="http://magiccards.info/extras/token/innistrad/homunculus.jpg">ISD</set>
             <color>U</color>
@@ -2021,6 +2130,18 @@ Cloud Sprite can block only creatures with flying.</text>
             <text></text>
             <token>1</token>
             <reverse-related>Puppet Conjurer</reverse-related>
+        </card>
+        <card>
+            <name>Hooded Hydra (token)</name>
+            <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_atY1pxZyKC.png">AKH</set>
+            <color>W</color>
+            <manacost></manacost>
+            <type>Token Creature — Zombie Snake Hydra</type>
+            <pt>6/6</pt>
+            <tablerow>2</tablerow>
+            <text>Trample</text>
+            <token>1</token>
+            <reverse-related>Hooded Hydra</reverse-related>
         </card>
         <card>
             <name>Hornet</name>
@@ -2286,6 +2407,17 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Carrion</reverse-related>
         </card>
         <card>
+            <name>Insect     </name>
+            <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_FL1NUV3YIx.png">AKH</set>
+            <color>B</color>
+            <manacost></manacost>
+            <type>Token Creature — Insect</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Kaldra</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/3/3d/Kaldra.jpg">DST</set>
             <manacost></manacost>
@@ -2479,6 +2611,18 @@ Cloud Sprite can block only creatures with flying.</text>
             <text></text>
             <token>1</token>
             <reverse-related>Kiora, the Crashing Wave</reverse-related>
+        </card>
+        <card>
+            <name>Labyrinth Guardian (token)</name>
+            <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_C9M5PWE9cs.png">AKH</set>
+            <color>W</color>
+            <manacost></manacost>
+            <type>Token Creature — Zombie Illusion Warrior</type>
+            <pt>2/3</pt>
+            <tablerow>2</tablerow>
+            <text>When Labyrinth Guardian becomes the target of a spell, sacrifice it.</text>
+            <token>1</token>
+            <reverse-related>Labyrinth Guardian</reverse-related>
         </card>
         <card>
             <name>Land Mine</name>
@@ -2750,6 +2894,18 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related>Grenzo's Rebuttal</reverse-related>
         </card>
         <card>
+            <name>Okerta's Attendant (token)</name>
+            <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_E2GGYGs2JC.png">AKH</set>
+            <color>W</color>
+            <manacost></manacost>
+            <type>Token Creature — Zombie Bird Soldier</type>
+            <pt>3/3</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+            <reverse-related>Okerta's Attendant</reverse-related>
+        </card>
+        <card>
             <name>Ooze</name>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_fzNmUE7vkf.png">MM3</set>
             <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/ooze.jpg">ROE</set>
@@ -2982,6 +3138,18 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <text>Trample</text>
             <token>1</token>
             <reverse-related>Trostani's Summoner</reverse-related>
+        </card>
+        <card>
+            <name>Sacred Cat (token)</name>
+            <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_oaNEwsvOtd.png">AKH</set>
+            <color>W</color>
+            <manacost></manacost>
+            <type>Token Creature — Zombie Cat</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Lifelink</text>
+            <token>1</token>
+            <reverse-related>Sacred Cat</reverse-related>
         </card>
         <card>
             <name>Sand</name>
@@ -3305,6 +3473,17 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <text>Deathtouch</text>
             <token>1</token>
             <reverse-related>Ophiomancer</reverse-related>
+        </card>
+        <card>
+            <name>Snake     </name>
+            <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_88tr8Qj4t3.png">AKH</set>
+            <color>G</color>
+            <manacost></manacost>
+            <type>Token Creature — Snake</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Deathtouch</text>
+            <token>1</token>
         </card>
         <card>
             <name>Soldier</name>
@@ -3788,6 +3967,30 @@ Equip {0}</text>
             <reverse-related>Varchild's War-Riders</reverse-related>
         </card>
         <card>
+            <name>Tah-Crop Skirmisher (token)</name>
+            <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_q2HzgMMHt9.png">AKH</set>
+            <color>W</color>
+            <manacost></manacost>
+            <type>Token Creature — Zombie Naga Warrior</type>
+            <pt>2/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>Tah-Crop Skirmisher</reverse-related>
+        </card>
+        <card>
+            <name>Temmet, Vizier of Naktamun (token)</name>
+            <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_Bi0nMOU6Uo.png">AKH</set>
+            <color>W</color>
+            <manacost></manacost>
+            <type>Token Legendary Creature — Zombie Human Cleric</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>At the beginning of combat on your turn, target creature token you control gets +1/+1 until end of turn and can't be blocked this turn.</text>
+            <token>1</token>
+            <reverse-related>Temmet, Vizier of Naktamun</reverse-related>
+        </card>
+        <card>
             <name>Tetravite</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/e/e6/Tetravite.jpg">ATQ</set>
             <manacost></manacost>
@@ -3932,6 +4135,18 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Triskelavus</reverse-related>
         </card>
         <card>
+            <name>Trueheart Duelist (token)</name>
+            <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_Npe8YOnalQ.png">AKH</set>
+            <color>W</color>
+            <manacost></manacost>
+            <type>Token Creature — Zombie Human Warrior</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>Trueheart Duelist can block an additional creature each combat.</text>
+            <token>1</token>
+            <reverse-related>Trueheart Duelist</reverse-related>
+        </card>
+        <card>
             <name>Tuktuk The Returned</name>
             <set picURL="http://magiccards.info/extras/token/commander-2014/tuktuk-the-returned.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/tuktuk-the-returned.jpg">ROE</set>
@@ -3953,6 +4168,18 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text></text>
             <token>1</token>
             <reverse-related>Gemini Engine</reverse-related>
+        </card>
+        <card>
+            <name>Unwavering Initiate (token)</name>
+            <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_Aj1Of7p9dg.png">AKH</set>
+            <color>W</color>
+            <manacost></manacost>
+            <type>Token Creature — Zombie Human Warrior</type>
+            <pt>3/2</pt>
+            <tablerow>2</tablerow>
+            <text>Vigilance</text>
+            <token>1</token>
+            <reverse-related>Unwavering Initiate</reverse-related>
         </card>
         <card>
             <name>Urami</name>
@@ -4016,6 +4243,18 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
             <reverse-related>Call the Bloodline</reverse-related>
             <reverse-related>Sorin, Grim Nemesis</reverse-related>
+        </card>
+        <card>
+            <name>Vizier of Many Faces (token)</name>
+            <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_uZz9anWPGE.png">AKH</set>
+            <color>W</color>
+            <manacost></manacost>
+            <type>Token Creature — Zombie Shapeshifter Cleric</type>
+            <pt>0/0</pt>
+            <tablerow>2</tablerow>
+            <text>You may have Vizier of Many Faces enter the battlefield as a copy of any creature on the battlefield, except it has no mana cost, it's white, and it's a Zombie in addition to its other types.</text>
+            <token>1</token>
+            <reverse-related>Vizier of Many Faces</reverse-related>
         </card>
         <card>
             <name>Voja</name>
@@ -4105,6 +4344,17 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text></text>
             <token>1</token>
             <reverse-related>Mardu Strike Leader</reverse-related>
+        </card>
+        <card>
+            <name>Warrior   </name>
+            <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_MGhKsBQ06g.png">AKH</set>
+            <color></color>
+            <manacost></manacost>
+            <type>Token Creature — Warrior</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Vigilance</text>
+            <token>1</token>
         </card>
         <card>
             <name>Weird</name>
@@ -4335,7 +4585,19 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Wurmcalling</reverse-related>
         </card>
         <card>
+            <name>Wurm      </name>
+            <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_ppznEJAxKl.png">AKH</set>
+            <color>G</color>
+            <manacost></manacost>
+            <type>Token Creature — Wurm</type>
+            <pt>5/5</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Zombie</name>
+            <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_ZXm4Fy8X48.png">AKH</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_mdCldta8UM.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/KuzDDwCJi3_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_jiQZPry4Js.png">CN2</set>
@@ -4629,6 +4891,17 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Whenever a creature attacks you, it gets +5/+5 and gains trample until end of turn.</text>
             <token>1</token>
             <reverse-related>Garruk, Apex Predator</reverse-related>
+        </card>
+        <card>
+            <name>Gideon of the Trials (Emblem)</name>
+            <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_xGQqUrsRXl.png">AKH</set>
+            <color></color>
+            <manacost></manacost>
+            <type>Emblem — Gideon</type>
+            <tablerow>1</tablerow>
+            <text>As long as you control a Gideon planeswalker, you can't lose the game and your opponents can't win the ganme.</text>
+            <token>1</token>
+            <reverse-related>Gideon of the Trials</reverse-related>
         </card>
         <card>
             <name>Gideon, Ally of Zendikar (emblem)</name>
