@@ -4900,7 +4900,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <manacost></manacost>
             <type>Emblem — Gideon</type>
             <tablerow>1</tablerow>
-            <text>As long as you control a Gideon planeswalker, you can't lose the game and your opponents can't win the ganme.</text>
+            <text>As long as you control a Gideon planeswalker, you can't lose the game and your opponents can't win the game.</text>
             <token>1</token>
             <reverse-related>Gideon of the Trials</reverse-related>
         </card>
