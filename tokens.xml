@@ -411,6 +411,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>Trial of Strength</reverse-related>
         </card>
         <card>
             <name>Bird</name>
@@ -663,6 +664,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
             <text>Lifelink</text>
             <token>1</token>
+            <reverse-related>Regal Caracal</reverse-related>
         </card>
         <card>
             <name>Cat Soldier</name>
@@ -1056,6 +1058,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <token>1</token>
             <reverse-related>Talrand's Invocation</reverse-related>
             <reverse-related>Talrand, Sky Summoner</reverse-related>
+            <reverse-related>Drake Haven</reverse-related>
         </card>
         <card>
             <name>Drake </name>
@@ -2106,6 +2109,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>Mouth // Feed</reverse-related>
         </card>
         <card>
             <name>Homunculus</name>
@@ -2416,6 +2420,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>Nest of Scarabs</reverse-related>
         </card>
         <card>
             <name>Kaldra</name>
@@ -3485,6 +3490,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text>Deathtouch</text>
             <token>1</token>
+            <reverse-related>Hapatra, Vizier of Poisons</reverse-related>
         </card>
         <card>
             <name>Soldier</name>
@@ -4349,13 +4355,18 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         <card>
             <name>Warrior   </name>
             <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_MGhKsBQ06g.png">AKH</set>
-            <color></color>
+            <color>W</color>
             <manacost></manacost>
             <type>Token Creature — Warrior</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
             <text>Vigilance</text>
             <token>1</token>
+            <reverse-related>Cartouche of Solidarity</reverse-related>
+            <reverse-related>Oketra the True</reverse-related>
+            <reverse-related>Oketra's Monument</reverse-related>
+            <reverse-related>Start // Finish</reverse-related>
+            <reverse-related>Supply Caravan</reverse-related>
         </card>
         <card>
             <name>Weird</name>
@@ -4595,6 +4606,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>Sandwurm Convergence</reverse-related>
         </card>
         <card>
             <name>Zombie</name>
@@ -4693,6 +4705,12 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Waste Not</reverse-related>
             <reverse-related>Xathrid Necromancer</reverse-related>
             <reverse-related>Zombie Infestation</reverse-related>
+            <reverse-related>Cradle of the Accursed</reverse-related>
+            <reverse-related>Doomed Dissenter</reverse-related>
+            <reverse-related>Liliana's Mastery</reverse-related>
+            <reverse-related>Liliana, Death's Majesty</reverse-related>
+            <reverse-related>Never // Return</reverse-related>
+            <reverse-related>Stir the Sands</reverse-related>
         </card>
         <card>
             <name>Zombie </name>
@@ -4894,9 +4912,8 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Garruk, Apex Predator</reverse-related>
         </card>
         <card>
-            <name>Gideon of the Trials (Emblem)</name>
+            <name>Gideon of the Trials (emblem)</name>
             <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_xGQqUrsRXl.png">AKH</set>
-            <color></color>
             <manacost></manacost>
             <type>Emblem — Gideon</type>
             <tablerow>1</tablerow>
@@ -5291,6 +5308,14 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <reverse-related>Virulent Sliver</reverse-related>
             <reverse-related>Virulent Wound</reverse-related>
             <reverse-related>Whispering Specter</reverse-related>
+            <reverse-related>Burn the Impure</reverse-related>
+            <reverse-related>Carrion Call</reverse-related>
+            <reverse-related>Leeches</reverse-related>
+            <reverse-related>Melira, Sylvok Outcast</reverse-related>
+            <reverse-related>Mindcrank</reverse-related>
+            <reverse-related>Mycosynth Fiend</reverse-related>
+            <reverse-related>Serpent Generator</reverse-related>
+            <reverse-related>Trigon of Infestation</reverse-related>
         </card>
         <card>
             <name>The Monarch</name>
