@@ -2136,7 +2136,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related>Puppet Conjurer</reverse-related>
         </card>
         <card>
-            <name>Hooded Hydra (token)</name>
+            <name>Honored Hydra (token)</name>
             <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_atY1pxZyKC.png">AKH</set>
             <color>W</color>
             <manacost></manacost>
@@ -2145,7 +2145,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
             <text>Trample</text>
             <token>1</token>
-            <reverse-related>Hooded Hydra</reverse-related>
+            <reverse-related>Honored Hydra</reverse-related>
         </card>
         <card>
             <name>Hornet</name>
