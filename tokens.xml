@@ -949,7 +949,6 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Dragon</name>
-            <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_TKuSkyDBa4.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_tUlOveGiwh.png">CN2</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_PngB7kxTCg.png">C15</set>
             <set picURL="http://media.wizards.com/2015/images/daily/FoyMVxznmy.png">BFZ</set>
@@ -975,6 +974,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Dragon  </name>
+            <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_TKuSkyDBa4.png">MM3</set>
             <set picURL="http://magiccards.info/extras/token/dragons-of-tarkir/dragon.jpg">DTK</set>
             <set picURL="http://magiccards.info/extras/token/modern-masters/dragon.jpg">MMA</set>
             <set picURL="http://magiccards.info/extras/token/shards-of-alara/dragon.jpg">ALA</set>
