@@ -4242,6 +4242,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         <card>
             <name>Vampire Knight</name>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_Lz7fjwmpzN.png">SOI</set>
+            <color>B</color>
             <manacost></manacost>
             <type>Token Creature — Vampire Knight</type>
             <pt>1/1</pt>
