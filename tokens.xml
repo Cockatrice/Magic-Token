@@ -1204,7 +1204,8 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Elemental  </name>
             <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_lrSfRX41Ri.png">OGW</set>
-            <set picURL="http://magiccards.info/extras/token/conflux/elemental.jpg">DIS</set>
+            <set picURL="http://magiccards.info/extras/token/conflux/elemental.jpg">CON</set>
+            <set picURL="http://cdn.staticneo.com/w/mtg/1/17/Elemental5.jpg">DIS</set>
             <color>R</color>
             <manacost></manacost>
             <type>Token Creature — Elemental</type>
