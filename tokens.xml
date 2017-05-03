@@ -448,6 +448,7 @@ Creature tokens you control have flying and vigilance.</text>
             <reverse-related>Jötun Owl Keeper</reverse-related>
             <reverse-related>Migratory Route</reverse-related>
             <reverse-related>Ornitharch</reverse-related>
+            <reverse-related>Scion of Vitu-Ghazi</reverse-related>
             <reverse-related>Seller of Songbirds</reverse-related>
         </card>
         <card>
@@ -3144,6 +3145,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <text>Trample</text>
             <token>1</token>
             <reverse-related>Trostani's Summoner</reverse-related>
+            <reverse-related>Horncaller's Chant</reverse-related>
         </card>
         <card>
             <name>Sacred Cat (token)</name>
