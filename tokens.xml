@@ -4979,7 +4979,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <manacost></manacost>
             <type>Emblem — Koth</type>
             <tablerow>1</tablerow>
-            <text>Mountains you control have ‘Tap: This land deals 1 damage to target creature or player.'</text>
+            <text>Mountains you control have 'Tap: This land deals 1 damage to target creature or player.'</text>
             <token>1</token>
             <reverse-related>Koth of the Hammer</reverse-related>
         </card>
@@ -4990,7 +4990,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <manacost></manacost>
             <type>Emblem — Liliana</type>
             <tablerow>1</tablerow>
-            <text>Swamps you control have ‘Tap: Add {B}{B}{B}{B} to your mana pool.'</text>
+            <text>Swamps you control have 'Tap: Add {B}{B}{B}{B} to your mana pool.'</text>
             <token>1</token>
             <reverse-related>Liliana of the Dark Realms</reverse-related>
         </card>
