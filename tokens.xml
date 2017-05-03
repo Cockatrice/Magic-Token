@@ -5235,6 +5235,8 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
         <card>
             <name>Poison Counter</name>
             <set picURL="http://magiccards.info/extras/token/new-phyrexia/poison-counter.jpg">NPH</set>
+            <set picURL="http://magiccards.info/extras/token/mirrodin-besieged/poison-counter.jpg">MBS</set>
+            <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/poison-counter.jpg">SOM</set>
             <manacost></manacost>
             <type>Counter</type>
             <tablerow>1</tablerow>
