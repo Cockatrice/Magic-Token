@@ -1196,6 +1196,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>Elemental Mastery</reverse-related>
             <reverse-related>Molten Birth</reverse-related>
             <reverse-related>Tempt with Vengeance</reverse-related>
             <reverse-related>Young Pyromancer</reverse-related>
@@ -1459,18 +1460,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <text></text>
             <token>1</token>
             <reverse-related>Evil Comes to Fruition</reverse-related>
-        </card>
-        <card>
-            <name>Elemental                        </name>
-            <set picURL="http://magiccards.info/extras/token/shadowmoor/elemental-1.jpg">SHM</set>
-            <color>R</color>
-            <manacost></manacost>
-            <type>Token Creature — Elemental</type>
-            <pt>1/1</pt>
-            <tablerow>2</tablerow>
-            <text>Haste</text>
-            <token>1</token>
-            <reverse-related>Elemental Mastery</reverse-related>
         </card>
         <card>
             <name>Elemental Cat</name>
