@@ -23,7 +23,7 @@
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_gvwFXo4kL2.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_OnvtmxOuug.png">SOI</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_KWY1Kgc86t.png">C15</set>
-            <set picURL="http://media.wizards.com/2015/images/daily/en_b3znv1aqdq.png">ORI</set>
+            <set picURL="http://magiccards.info/extras/token/magic-origins/angel.jpg">ORI</set>
             <set picURL="http://magiccards.info/extras/token/commander-2014/angel.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/angel.jpg">M14</set>
             <set picURL="http://magiccards.info/extras/token/gatecrash/angel.jpg">GTC</set>
@@ -67,7 +67,7 @@
         </card>
         <card>
             <name>Angel  </name>
-            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_3sSk9R7ZqJ.png">OGW</set>
+            <set picURL="http://magiccards.info/extras/token/oath-of-the-gatewatch/angel.jpg">OGW</set>
             <color>W</color>
             <manacost></manacost>
             <type>Token Creature — Angel</type>
@@ -116,7 +116,6 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
         <card>
             <name>Ape</name>
             <set picURL="http://magiccards.info/extras/token/commander-2014/ape.jpg">C14</set>
-            <set picURL="http://cdn.staticneo.com/w/mtg/d/db/Ape.jpg">PLC</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token Creature — Ape</type>
@@ -128,7 +127,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
         </card>
         <card>
             <name>Ashaya, the Awoken World</name>
-            <set picURL="http://media.wizards.com/2015/images/daily/en_ygup3uo7vv.png">ORI</set>
+            <set picURL="http://magiccards.info/extras/token/magic-origins/ashaya-the-awoken-world.jpg">ORI</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token Legendary Creature — Elemental</type>
@@ -864,7 +863,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Demon</name>
-            <set picURL="http://media.wizards.com/2015/images/daily/en_16don62w6w.png">ORI</set>
+            <set picURL="http://magiccards.info/extras/token/magic-origins/demon.jpg">ORI</set>
             <set picURL="http://magiccards.info/extras/token/commander-2014/demon-2.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/avacyn-restored-the-helvault-experience/demon.jpg">pPRE</set>
             <set picURL="http://magiccards.info/extras/token/avacyn-restored/demon.jpg">AVR</set>
@@ -952,7 +951,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <name>Dragon</name>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_tUlOveGiwh.png">CN2</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_PngB7kxTCg.png">C15</set>
-            <set picURL="http://media.wizards.com/2015/images/daily/FoyMVxznmy.png">BFZ</set>
+            <set picURL="http://magiccards.info/extras/token/battle-for-zendikar/dragon.jpg">BFZ</set>
             <set picURL="http://magiccards.info/extras/token/worldwake/dragon.jpg">WWK</set>
             <set picURL="http://magiccards.info/extras/token/tenth-edition/dragon.jpg">10E</set>
             <set picURL="http://magiccards.info/extras/token/player-rewards-2002/dragon.jpg">ONS</set>
@@ -1076,7 +1075,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Eldrazi</name>
-            <set picURL="http://media.wizards.com/2015/images/daily/kWadJiABeY.png">BFZ</set>
+            <set picURL="http://magiccards.info/extras/token/battle-for-zendikar/eldrazi.jpg">BFZ</set>
             <manacost></manacost>
             <type>Token Creature — Eldrazi</type>
             <pt>10/10</pt>
@@ -1118,15 +1117,15 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Eldrazi Scion</name>
-            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_MxPVFC6BEh.png">OGW</set>
-            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_k3VHCBBEl9.png">OGW</set>
-            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_UaWgUgRPe9.png">OGW</set>
-            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_UqWPea58yj.png">OGW</set>
-            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_IuTCHzzj8b.png">OGW</set>
-            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_4wGdCfATt4.png">OGW</set>
-            <set picURL="http://media.wizards.com/2015/images/daily/jzkBRlkQ2X.png">BFZ</set>
-            <set picURL="http://media.wizards.com/2015/images/daily/pAT2ZVOJYc.png">BFZ</set>
-            <set picURL="http://media.wizards.com/2015/images/daily/ERZfWSN2Kh.png">BFZ</set>
+            <set picURL="http://magiccards.info/extras/token/oath-of-the-gatewatch/eldrazi-scion-4.jpg">OGW</set>
+            <set picURL="http://magiccards.info/extras/token/oath-of-the-gatewatch/eldrazi-scion-5.jpg">OGW</set>
+            <set picURL="http://magiccards.info/extras/token/oath-of-the-gatewatch/eldrazi-scion-6.jpg">OGW</set>
+            <set picURL="http://magiccards.info/extras/token/oath-of-the-gatewatch/eldrazi-scion-1.jpg">OGW</set>
+            <set picURL="http://magiccards.info/extras/token/oath-of-the-gatewatch/eldrazi-scion-2.jpg">OGW</set>
+            <set picURL="http://magiccards.info/extras/token/oath-of-the-gatewatch/eldrazi-scion-3.jpg">OGW</set>
+            <set picURL="http://magiccards.info/extras/token/battle-for-zendikar/eldrazi-scion-1.jpg">BFZ</set>
+            <set picURL="http://magiccards.info/extras/token/battle-for-zendikar/eldrazi-scion-2.jpg">BFZ</set>
+            <set picURL="http://magiccards.info/extras/token/battle-for-zendikar/eldrazi-scion-3.jpg">BFZ</set>
             <manacost></manacost>
             <type>Token Creature — Eldrazi Scion</type>
             <pt>1/1</pt>
@@ -1158,9 +1157,9 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Eldrazi Spawn</name>
-            <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_ZEgJlqKKxe.png">MM2</set>
-            <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_Hhuj1GUOBt.png">MM2</set>
-            <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_fUx3VrMDnA.png">MM2</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters-2015/eldrazi-spawn-1.jpg">MM2</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters-2015/eldrazi-spawn-2.jpg">MM2</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters-2015/eldrazi-spawn-3.jpg">MM2</set>
             <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/eldrazi-spawn-1.jpg">ROE</set>
             <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/eldrazi-spawn-2.jpg">ROE</set>
             <set picURL="http://magiccards.info/extras/token/rise-of-the-eldrazi/eldrazi-spawn-3.jpg">ROE</set>
@@ -1203,9 +1202,8 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental  </name>
-            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_lrSfRX41Ri.png">OGW</set>
+            <set picURL="http://magiccards.info/extras/token/oath-of-the-gatewatch/elemental-1.jpg">OGW</set>
             <set picURL="http://magiccards.info/extras/token/conflux/elemental.jpg">CON</set>
-            <set picURL="http://cdn.staticneo.com/w/mtg/1/17/Elemental5.jpg">DIS</set>
             <color>R</color>
             <manacost></manacost>
             <type>Token Creature — Elemental</type>
@@ -1272,7 +1270,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental        </name>
-            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_P1vyxE48Sl.png">OGW</set>
+            <set picURL="http://magiccards.info/extras/token/oath-of-the-gatewatch/elemental-2.jpg">OGW</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token Creature — Elemental</type>
@@ -1414,7 +1412,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental                   </name>
-            <set picURL="http://media.wizards.com/2015/images/daily/en_jvbnzml9rt.png">ORI</set>
+            <set picURL="http://magiccards.info/extras/token/magic-origins/elemental.jpg">ORI</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token Creature — Elemental</type>
@@ -1426,7 +1424,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental                     </name>
-            <set picURL="http://media.wizards.com/2015/images/daily/mam91uW2Ld.png">BFZ</set>
+            <set picURL="http://magiccards.info/extras/token/battle-for-zendikar/elemental-1.jpg">BFZ</set>
             <color>R</color>
             <manacost></manacost>
             <type>Token Creature — Elemental</type>
@@ -1438,7 +1436,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental                      </name>
-            <set picURL="http://media.wizards.com/2015/images/daily/es6ELrarbB.png">BFZ</set>
+            <set picURL="http://magiccards.info/extras/token/battle-for-zendikar/elemental-2.jpg">BFZ</set>
             <color>R</color>
             <color>G</color>
             <manacost></manacost>
@@ -1494,7 +1492,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_0F4M7yiktn.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_cQ9QQhPytK.png">EMA</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_F7cegsyXsw.png">C15</set>
-            <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_tf0WqzqwuA.png">MM2</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters-2015/elephant.jpg">MM2</set>
             <set picURL="http://magiccards.info/extras/token/commander-2014/elephant.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/conspiracy/elephant.jpg">CNS</set>
             <set picURL="http://magiccards.info/extras/token/worldwake/elephant.jpg">WWK</set>
@@ -1534,7 +1532,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <name>Elf Warrior</name>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/3kKodsqlXd_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_5V69YTP0YA.png">EMA</set>
-            <set picURL="http://media.wizards.com/2015/images/daily/en_1pdn4qr9ho.png">ORI</set>
+            <set picURL="http://magiccards.info/extras/token/magic-origins/elf-warrior.jpg">ORI</set>
             <set picURL="http://magiccards.info/extras/token/commander-2014/elf-warrior.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/shadowmoor/elf-warrior-1.jpg">SHM</set>
             <set picURL="http://magiccards.info/extras/token/duel-decks-elves-vs-goblins/elf-warrior.jpg">EVG</set>
@@ -1597,7 +1595,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Faerie Rogue</name>
-            <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_6IOrNA1GbG.png">MM2</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters-2015/faerie-rogue.jpg">MM2</set>
             <set picURL="http://magiccards.info/extras/token/morningtide/faerie-rogue.jpg">MOR</set>
             <color>B</color>
             <manacost></manacost>
@@ -1678,7 +1676,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <name>Germ</name>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/byg00olvZx_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_UF6tUBntoI.png">C15</set>
-            <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_dKOkeEXQ9V.png">MM2</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters-2015/germ.jpg">MM2</set>
             <set picURL="http://magiccards.info/extras/token/commander-2014/germ.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/mirrodin-besieged/germ.jpg">MBS</set>
             <color>B</color>
@@ -1786,7 +1784,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <name>Goblin</name>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_lT7oIjqrTl.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_aYWcAETlLv.png">EMA</set>
-            <set picURL="http://media.wizards.com/2015/images/daily/en_vr1ovlnd3s.png">ORI</set>
+            <set picURL="http://magiccards.info/extras/token/magic-origins/goblin.jpg">ORI</set>
             <set picURL="http://magiccards.info/extras/token/dragons-of-tarkir/goblin.jpg">DTK</set>
             <set picURL="http://magiccards.info/extras/token/commander-2014/goblin.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/khans-of-tarkir/goblin.jpg">KTK</set>
@@ -1958,7 +1956,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         <card>
             <name>Golem</name>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_BsmvNmPP4D.png">MM3</set>
-            <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_FFbEKgocU5.png">MM2</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters-2015/golem.jpg">MM2</set>
             <set picURL="http://magiccards.info/extras/token/new-phyrexia/golem.jpg">NPH</set>
             <set picURL="http://magiccards.info/extras/token/scars-of-mirrodin/golem.jpg">SOM</set>
             <manacost></manacost>
@@ -2362,7 +2360,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <name>Insect  </name>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_FFbXRwKrvA.png">CN2</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_DJi1itoTAo.png">SOI</set>
-            <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_hqtAtsjDRA.png">MM2</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters-2015/insect.jpg">MM2</set>
             <set picURL="http://magiccards.info/extras/token/magic-2010/insect.jpg">M10</set>
             <set picURL="http://magiccards.info/extras/token/player-rewards-2003/insect.jpg">ONS</set>
             <color>G</color>
@@ -2483,7 +2481,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         <card>
             <name>Knight</name>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_989oeP4YLT.png">C15</set>
-            <set picURL="http://media.wizards.com/2015/images/daily/en_ai1c87k93o.png">ORI</set>
+            <set picURL="http://magiccards.info/extras/token/magic-origins/knight.jpg">ORI</set>
             <set picURL="http://magiccards.info/extras/token/return-to-ravnica/knight.jpg">RTR</set>
             <color>W</color>
             <manacost></manacost>
@@ -2504,7 +2502,6 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         <card>
             <name>Knight </name>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_dEwDCo3Xh2.png">C15</set>
-            <set picURL="http://cdn.staticneo.com/w/mtg/3/33/Knight1.jpg">RAV</set>
             <color>W</color>
             <manacost></manacost>
             <type>Token Creature — Knight</type>
@@ -2552,7 +2549,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Knight Ally</name>
-            <set picURL="http://media.wizards.com/2015/images/daily/okAysNztfA.png">BFZ</set>
+            <set picURL="http://magiccards.info/extras/token/battle-for-zendikar/knight-ally.jpg">BFZ</set>
             <color>W</color>
             <manacost></manacost>
             <type>Token Creature — Knight Ally</type>
@@ -2578,7 +2575,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Kor Ally</name>
-            <set picURL="http://media.wizards.com/2015/images/daily/My4kFweDNz.png">BFZ</set>
+            <set picURL="http://magiccards.info/extras/token/battle-for-zendikar/kor-ally.jpg">BFZ</set>
             <color>W</color>
             <manacost></manacost>
             <type>Token Creature — Kor Ally</type>
@@ -2838,7 +2835,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         <card>
             <name>Myr</name>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/ZcDckQNuvU_EN.png">C16</set>
-            <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_ANw57RqESf.png">MM2</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters-2015/myr.jpg">MM2</set>
             <set picURL="http://magiccards.info/extras/token/commander-2014/myr.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/modern-event-deck/myr.jpg">MD1</set>
             <set picURL="http://magiccards.info/extras/token/new-phyrexia/myr.jpg">NPH</set>
@@ -2864,7 +2861,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Octopus</name>
-            <set picURL="http://media.wizards.com/2015/images/daily/V2qe0ALQPq.png">BFZ</set>
+            <set picURL="http://magiccards.info/extras/token/battle-for-zendikar/octopus.jpg">BFZ</set>
             <color>U</color>
             <manacost></manacost>
             <type>Token Creature — Octopus</type>
@@ -3044,7 +3041,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Plant</name>
-            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_qcpll4yBTI.png">OGW</set>
+            <set picURL="http://magiccards.info/extras/token/oath-of-the-gatewatch/plant.jpg">OGW</set>
             <set picURL="http://magiccards.info/extras/token/worldwake/plant.jpg">WWK</set>
             <color>G</color>
             <manacost></manacost>
@@ -3061,7 +3058,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Plant </name>
-            <set picURL="http://media.wizards.com/2015/images/daily/VIQOdH0X0n.png">BFZ</set>
+            <set picURL="http://magiccards.info/extras/token/battle-for-zendikar/plant.jpg">BFZ</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token Creature — Plant</type>
@@ -3191,7 +3188,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/GDoSGrEih8_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/r73oaJWhdf_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_aoxNphcwIn.png">C15</set>
-            <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_hHD76MxLFo.png">MM2</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters-2015/saproling.jpg">MM2</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/saproling.jpg">M14</set>
             <set picURL="http://magiccards.info/extras/token/modern-masters/saproling.jpg">MMA</set>
             <set picURL="http://magiccards.info/extras/token/magic-2012/saproling.jpg">M12</set>
@@ -3412,7 +3409,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         <card>
             <name>Snake</name>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_41udRw7sFl.png">C15</set>
-            <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_0ZWDRrxtpY.png">MM2</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters-2015/snake.jpg">MM2</set>
             <set picURL="http://magiccards.info/extras/token/khans-of-tarkir/snake.jpg">KTK</set>
             <set picURL="http://magiccards.info/extras/token/zendikar/snake.jpg">ZEN</set>
             <color>G</color>
@@ -3501,8 +3498,8 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/MPxJre1G3p_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_3W2HGUwu5Z.png">CN2</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_xvaBbBCiuf.png">EMA</set>
-            <set picURL="http://media.wizards.com/2015/images/daily/en_5n24neg1wf.png">ORI</set>
-            <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_vIxQpTbO6b.png">MM2</set>
+            <set picURL="http://magiccards.info/extras/token/magic-origins/soldier.jpg">ORI</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters-2015/soldier.jpg">MM2</set>
             <set picURL="http://magiccards.info/extras/token/commander-2014/soldier.jpg">C14</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0002_MTGM15_TOK_EN%20copy.png">M15</set>
             <set picURL="http://magiccards.info/extras/token/modern-event-deck/soldier.jpg">MD1</set>
@@ -3719,7 +3716,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_uKWYrCTL44.png">CN2</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_cxaUJXygwx.png">EMA</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_2dPK4cEymD.png">SOI</set>
-            <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_E3hF5KOp1J.png">MM2</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters-2015/spirit.jpg">MM2</set>
             <set picURL="http://magiccards.info/extras/token/fate-reforged/spirit.jpg">FRF</set>
             <set picURL="http://magiccards.info/extras/token/commander-2014/spirit.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/khans-of-tarkir/spirit.jpg">KTK</set>
@@ -4017,8 +4014,8 @@ This creature can't be enchanted.</text>
             <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_ZQ77vJDpoE.png">KLD</set>
             <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_V8a0HO5toy.png">KLD</set>
             <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_PQycN8PjmE.png">KLD</set>
-            <set picURL="http://media.wizards.com/2015/images/daily/en_9ju9ab3gkt.png">ORI</set>
-            <set picURL="http://media.wizards.com/2015/images/daily/en_rntjyw1s1o.png">ORI</set>
+            <set picURL="http://magiccards.info/extras/token/magic-origins/thopter-1.jpg">ORI</set>
+            <set picURL="http://magiccards.info/extras/token/magic-origins/thopter-2.jpg">ORI</set>
             <set picURL="http://magiccards.info/extras/token/mirrodin-besieged/thopter.jpg">MBS</set>
             <manacost></manacost>
             <type>Token Artifact Creature — Thopter</type>
@@ -4073,7 +4070,7 @@ This creature can't be enchanted.</text>
         </card>
         <card>
             <name>Thrull </name>
-            <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_lDMIi3XONu.png">MM2</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters-2015/thrull.jpg">MM2</set>
             <color>B</color>
             <manacost></manacost>
             <type>Token Creature — Thrull</type>
@@ -4411,7 +4408,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <name>Wolf</name>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_BW6wmU7cbv.png">SOI</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_IWGaI59e15.png">C15</set>
-            <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_Nd1vBcud86.png">MM2</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters-2015/wolf.jpg">MM2</set>
             <set picURL="http://magiccards.info/extras/token/commander-2014/wolf.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/conspiracy/wolf.jpg">CNS</set>
             <set picURL="http://magiccards.info/extras/token/born-of-the-gods/wolf.jpg">BNG</set>
@@ -4504,7 +4501,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         <card>
             <name>Worm</name>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/YRX6z4VY3I_EN.png">C16</set>
-            <set picURL="http://media.wizards.com/2015/mm2_9vgauji43t9a/en_o6daS1QNfK.png">MM2</set>
+            <set picURL="http://magiccards.info/extras/token/modern-masters-2015/worm.jpg">MM2</set>
             <set picURL="http://magiccards.info/extras/token/modern-masters/worm.jpg">MMA</set>
             <set picURL="http://magiccards.info/extras/token/eventide/worm.jpg">EVE</set>
             <color>B</color>
@@ -4624,9 +4621,9 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_SwNMotyu8E.png">EMN</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_bsHDG8OapS.png">EMA</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_Hys6V2Lnum.png">SOI</set>
-            <set picURL="http://media.wizards.com/2015/ogw_239nCi30ks3/en_uoBpnCUEg1.png">OGW</set>
+            <set picURL="http://magiccards.info/extras/token/oath-of-the-gatewatch/zombie.jpg">OGW</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_jVoQGXYWRq.png">C15</set>
-            <set picURL="http://media.wizards.com/2015/images/daily/en_zxes762z5e.png">ORI</set>
+            <set picURL="http://magiccards.info/extras/token/magic-origins/zombie.jpg">ORI</set>
             <set picURL="http://magiccards.info/extras/token/dragons-of-tarkir/zombie.jpg">DTK</set>
             <set picURL="http://magiccards.info/extras/token/commander-2014/zombie-2.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/khans-of-tarkir/zombie.jpg">KTK</set>
@@ -4813,7 +4810,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Chandra, Roaring Flame (emblem)</name>
-            <set picURL="http://media.wizards.com/2015/images/daily/en_gjqxspbw14.png">ORI</set>
+            <set picURL="http://magiccards.info/extras/token/magic-origins/emblem-3.jpg">ORI</set>
             <manacost></manacost>
             <type>Emblem — Chandra</type>
             <tablerow>1</tablerow>
@@ -4927,7 +4924,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Gideon, Ally of Zendikar (emblem)</name>
-            <set picURL="http://media.wizards.com/2015/images/daily/jvSkttHcrm.png">BFZ</set>
+            <set picURL="http://magiccards.info/extras/token/battle-for-zendikar/emblem-1.jpg">BFZ</set>
             <manacost></manacost>
             <type>Emblem — Gideon</type>
             <tablerow>1</tablerow>
@@ -4937,7 +4934,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Jace, Telepath Unbound (emblem)</name>
-            <set picURL="http://media.wizards.com/2015/images/daily/en_rri1iwnt1o.png">ORI</set>
+            <set picURL="http://magiccards.info/extras/token/magic-origins/emblem-1.jpg">ORI</set>
             <manacost></manacost>
             <type>Emblem — Jace</type>
             <tablerow>1</tablerow>
@@ -4968,7 +4965,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Kiora, Master of the Depths (emblem)</name>
-            <set picURL="http://media.wizards.com/2015/images/daily/BdrcxTuuOn.png">BFZ</set>
+            <set picURL="http://magiccards.info/extras/token/battle-for-zendikar/emblem-3.jpg">BFZ</set>
             <manacost></manacost>
             <type>Emblem — Kiora</type>
             <tablerow>1</tablerow>
@@ -4999,7 +4996,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Liliana, Defiant Necromancer (emblem)</name>
-            <set picURL="http://media.wizards.com/2015/images/daily/en_1j3ypa60bu.png">ORI</set>
+            <set picURL="http://magiccards.info/extras/token/magic-origins/emblem-2.jpg">ORI</set>
             <manacost></manacost>
             <type>Emblem — Liliana</type>
             <tablerow>1</tablerow>
@@ -5050,7 +5047,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Ob Nixilis Reignited (emblem)</name>
-            <set picURL="http://media.wizards.com/2015/images/daily/ECytCRIuXD.png">BFZ</set>
+            <set picURL="http://magiccards.info/extras/token/battle-for-zendikar/emblem-2.jpg">BFZ</set>
             <manacost></manacost>
             <type>Emblem — Nixilis</type>
             <tablerow>1</tablerow>
