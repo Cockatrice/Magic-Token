@@ -1284,7 +1284,8 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Elemental         </name>
-            <set picURL="http://magiccards.info/extras/token/duel-decks-elves-vs-goblins/elemental.jpg">EVG</set>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-elves-vs-goblins/elemental.jpg">DD1</set>
+            <set picURL="http://i.imgur.com/iws246V.jpg">EVG</set>
             <color>G</color>
             <manacost></manacost>
             <type>Token Creature — Elemental</type>
@@ -1535,7 +1536,8 @@ Cloud Sprite can block only creatures with flying.</text>
             <set picURL="http://magiccards.info/extras/token/magic-origins/elf-warrior.jpg">ORI</set>
             <set picURL="http://magiccards.info/extras/token/commander-2014/elf-warrior.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/shadowmoor/elf-warrior-1.jpg">SHM</set>
-            <set picURL="http://magiccards.info/extras/token/duel-decks-elves-vs-goblins/elf-warrior.jpg">EVG</set>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-elves-vs-goblins/elf-warrior.jpg">DD1</set>
+            <set picURL="http://i.imgur.com/xr7FXCO.jpg">EVG</set>
             <set picURL="http://magiccards.info/extras/token/lorwyn/elf-warrior.jpg">LRW</set>
             <color>G</color>
             <manacost></manacost>
@@ -1796,7 +1798,8 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <set picURL="http://magiccards.info/extras/token/magic-2013/goblin.jpg">M13</set>
             <set picURL="http://magiccards.info/extras/token/magic-2010/goblin.jpg">M10</set>
             <set picURL="http://magiccards.info/extras/token/shards-of-alara/goblin.jpg">ALA</set>
-            <set picURL="http://magiccards.info/extras/token/duel-decks-elves-vs-goblins/goblin.jpg">EVG</set>
+            <set picURL="http://magiccards.info/extras/token/duel-decks-elves-vs-goblins/goblin.jpg">DD1</set>
+            <set picURL="http://i.imgur.com/fCMiYwL.jpg">EVG</set>
             <set picURL="http://magiccards.info/extras/token/tenth-edition/goblin.jpg">10E</set>
             <set picURL="http://magiccards.info/extras/token/return-to-ravnica/goblin.jpg">RTR</set>
             <set picURL="http://magiccards.info/extras/token/player-rewards-2003/goblin.jpg">LGN</set>
