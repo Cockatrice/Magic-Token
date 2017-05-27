@@ -2697,6 +2697,25 @@ At the beginning of the end step, sacrifice this creature.</text>
             <text>(You can cover a face-down manifested creature with this reminder card.
 A manifested creature card can be turned face up any time for its mana cost. A face-down card can also be turned face up for its morph cost.)</text>
             <token>1</token>
+            <reverse-related>Reality Shift</reverse-related>
+            <reverse-related>Sultai Emissary</reverse-related>
+            <reverse-related>Write into Being</reverse-related>
+            <reverse-related>Jeskai Infiltrator</reverse-related>
+            <reverse-related>Soul Summons</reverse-related>
+            <reverse-related>Qarsi High Priest</reverse-related>
+            <reverse-related>Temur War Shaman</reverse-related>
+            <reverse-related>Wildcall</reverse-related>
+            <reverse-related>Fierce Invocation</reverse-related>
+            <reverse-related>Formless Nurturing</reverse-related>
+            <reverse-related>Ghastly Conscription</reverse-related>
+            <reverse-related>Mastery of the Unseen</reverse-related>
+            <reverse-related>Arbiter of the Ideal</reverse-related>
+            <reverse-related>Ethereal Ambush</reverse-related>
+            <reverse-related>Whisperwood Elemental</reverse-related>
+            <reverse-related>Rageform</reverse-related>
+            <reverse-related>Lightform</reverse-related>
+            <reverse-related>Arashin War Beast</reverse-related>
+            <reverse-related>Cloudform</reverse-related>
         </card>
         <card>
             <name>Marit Lage</name>
@@ -2831,6 +2850,188 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <text>(You can cover a face-down creature with this reminder card.
 A card with morph can be turned face up any time for its morph cost.)</text>
             <token>1</token>
+            <reverse-related>Pine Walker</reverse-related>
+            <reverse-related>Aven Liberator</reverse-related>
+            <reverse-related>Shorecrasher Elemental</reverse-related>
+            <reverse-related>Mistform Shrieker</reverse-related>
+            <reverse-related>Weathered Bodyguards</reverse-related>
+            <reverse-related>Karona's Zealot</reverse-related>
+            <reverse-related>Birchlore Rangers</reverse-related>
+            <reverse-related>Titanic Bulvox</reverse-related>
+            <reverse-related>Dragon's Eye Savants</reverse-related>
+            <reverse-related>Liege of the Pit</reverse-related>
+            <reverse-related>Broodhatch Nantuko</reverse-related>
+            <reverse-related>Efreet Weaponmaster</reverse-related>
+            <reverse-related>Dirgur Nemesis</reverse-related>
+            <reverse-related>Nameless One</reverse-related>
+            <reverse-related>Echo Tracer</reverse-related>
+            <reverse-related>Primal Whisperer</reverse-related>
+            <reverse-related>Stratus Dancer</reverse-related>
+            <reverse-related>Misthoof Kirin</reverse-related>
+            <reverse-related>Abomination of Gudul</reverse-related>
+            <reverse-related>Imperial Hellkite</reverse-related>
+            <reverse-related>Sootfeather Flock</reverse-related>
+            <reverse-related>Watcher of the Roost</reverse-related>
+            <reverse-related>Snapping Thragg</reverse-related>
+            <reverse-related>Riptide Pilferer</reverse-related>
+            <reverse-related>Guardian Shield-Bearer</reverse-related>
+            <reverse-related>Ascending Aven</reverse-related>
+            <reverse-related>Unblinking Bleb</reverse-related>
+            <reverse-related>Skirk Marauder</reverse-related>
+            <reverse-related>Deathmist Raptor</reverse-related>
+            <reverse-related>Hystrodon</reverse-related>
+            <reverse-related>Fortune Thief</reverse-related>
+            <reverse-related>Crude Rampart</reverse-related>
+            <reverse-related>Exalted Angel</reverse-related>
+            <reverse-related>Aerie Bowmasters</reverse-related>
+            <reverse-related>Kin-Tree Warden</reverse-related>
+            <reverse-related>Ojutai Interceptor</reverse-related>
+            <reverse-related>Ire Shaman</reverse-related>
+            <reverse-related>Skinthinner</reverse-related>
+            <reverse-related>Daru Sanctifier</reverse-related>
+            <reverse-related>Fallen Cleric</reverse-related>
+            <reverse-related>Aquamorph Entity</reverse-related>
+            <reverse-related>Haunted Cadaver</reverse-related>
+            <reverse-related>Krosan Cloudscraper</reverse-related>
+            <reverse-related>Slipstream Serpent</reverse-related>
+            <reverse-related>Warbreak Trumpeter</reverse-related>
+            <reverse-related>Spined Basher</reverse-related>
+            <reverse-related>Krosan Colossus</reverse-related>
+            <reverse-related>Weaver of Lies</reverse-related>
+            <reverse-related>Zoetic Cavern</reverse-related>
+            <reverse-related>Raven Guild Master</reverse-related>
+            <reverse-related>Gudul Lurker</reverse-related>
+            <reverse-related>Branchsnap Lorian</reverse-related>
+            <reverse-related>Infernal Caretaker</reverse-related>
+            <reverse-related>Jeering Instigator</reverse-related>
+            <reverse-related>Belltoll Dragon</reverse-related>
+            <reverse-related>Towering Baloth</reverse-related>
+            <reverse-related>Skirk Volcanist</reverse-related>
+            <reverse-related>Foothill Guide</reverse-related>
+            <reverse-related>Ainok Tracker</reverse-related>
+            <reverse-related>Fledgling Mawcor</reverse-related>
+            <reverse-related>Monastery Loremaster</reverse-related>
+            <reverse-related>Whetwheel</reverse-related>
+            <reverse-related>Headhunter</reverse-related>
+            <reverse-related>Lumithread Field</reverse-related>
+            <reverse-related>Segmented Krotiq</reverse-related>
+            <reverse-related>Sagu Archer</reverse-related>
+            <reverse-related>Gravel Slinger</reverse-related>
+            <reverse-related>Daru Mender</reverse-related>
+            <reverse-related>Defender of the Order</reverse-related>
+            <reverse-related>Kolaghan Stormsinger</reverse-related>
+            <reverse-related>Sagu Mauler</reverse-related>
+            <reverse-related>Rockshard Elemental</reverse-related>
+            <reverse-related>Aven Sunstriker</reverse-related>
+            <reverse-related>Sidisi's Pet</reverse-related>
+            <reverse-related>Nantuko Vigilante</reverse-related>
+            <reverse-related>Daru Lancer</reverse-related>
+            <reverse-related>Silumgar Spell-Eater</reverse-related>
+            <reverse-related>Akroma, Angel of Fury</reverse-related>
+            <reverse-related>Putrid Raptor</reverse-related>
+            <reverse-related>Scornful Egotist</reverse-related>
+            <reverse-related>Fathom Seer</reverse-related>
+            <reverse-related>Atarka Efreet</reverse-related>
+            <reverse-related>Coral Trickster</reverse-related>
+            <reverse-related>Serpentine Basilisk</reverse-related>
+            <reverse-related>Herdchaser Dragon</reverse-related>
+            <reverse-related>Rattleclaw Mystic</reverse-related>
+            <reverse-related>Bloodstoke Howler</reverse-related>
+            <reverse-related>Woolly Loxodon</reverse-related>
+            <reverse-related>Dawning Purist</reverse-related>
+            <reverse-related>Mistfire Weaver</reverse-related>
+            <reverse-related>Timebender</reverse-related>
+            <reverse-related>Gathan Raiders</reverse-related>
+            <reverse-related>War Behemoth</reverse-related>
+            <reverse-related>Mistform Seaswift</reverse-related>
+            <reverse-related>Dulcet Sirens</reverse-related>
+            <reverse-related>Silumgar Assassin</reverse-related>
+            <reverse-related>Monastery Flock</reverse-related>
+            <reverse-related>Kheru Spellsnatcher</reverse-related>
+            <reverse-related>Aphetto Alchemist</reverse-related>
+            <reverse-related>Sage-Eye Harrier</reverse-related>
+            <reverse-related>Whipcorder</reverse-related>
+            <reverse-related>Liege of the Axe</reverse-related>
+            <reverse-related>Salt Road Ambushers</reverse-related>
+            <reverse-related>Woodcloaker</reverse-related>
+            <reverse-related>Vesuvan Shapeshifter</reverse-related>
+            <reverse-related>Cabal Executioner</reverse-related>
+            <reverse-related>Snarling Undorak</reverse-related>
+            <reverse-related>Shieldhide Dragon</reverse-related>
+            <reverse-related>Grinning Demon</reverse-related>
+            <reverse-related>Temur Charger</reverse-related>
+            <reverse-related>Shaleskin Plower</reverse-related>
+            <reverse-related>Frontline Strategist</reverse-related>
+            <reverse-related>Abzan Guide</reverse-related>
+            <reverse-related>Thrashing Mudspawn</reverse-related>
+            <reverse-related>Boneknitter</reverse-related>
+            <reverse-related>Venomspout Brackus</reverse-related>
+            <reverse-related>Horde Ambusher</reverse-related>
+            <reverse-related>Voidmage Apprentice</reverse-related>
+            <reverse-related>Voidmage Prodigy</reverse-related>
+            <reverse-related>Zombie Cutthroat</reverse-related>
+            <reverse-related>Patron of the Wild</reverse-related>
+            <reverse-related>Krumar Bond-Kin</reverse-related>
+            <reverse-related>Chromeshell Crab</reverse-related>
+            <reverse-related>Disruptive Pitmage</reverse-related>
+            <reverse-related>Raven Guild Initiate</reverse-related>
+            <reverse-related>Canyon Lurkers</reverse-related>
+            <reverse-related>Stormwing Dragon</reverse-related>
+            <reverse-related>Mystic of the Hidden Way</reverse-related>
+            <reverse-related>Master of the Veil</reverse-related>
+            <reverse-related>Shaper Parasite</reverse-related>
+            <reverse-related>Skittish Valesk</reverse-related>
+            <reverse-related>Riptide Entrancer</reverse-related>
+            <reverse-related>Thelonite Hermit</reverse-related>
+            <reverse-related>Skirk Commando</reverse-related>
+            <reverse-related>Proteus Machine</reverse-related>
+            <reverse-related>Riptide Survivor</reverse-related>
+            <reverse-related>Blistering Firecat</reverse-related>
+            <reverse-related>Icefeather Aven</reverse-related>
+            <reverse-related>Thousand Winds</reverse-related>
+            <reverse-related>Willbender</reverse-related>
+            <reverse-related>Dermoplasm</reverse-related>
+            <reverse-related>Wall of Deceit</reverse-related>
+            <reverse-related>Acid-Spewer Dragon</reverse-related>
+            <reverse-related>Brine Elemental</reverse-related>
+            <reverse-related>Snowhorn Rider</reverse-related>
+            <reverse-related>Charging Slateback</reverse-related>
+            <reverse-related>Riptide Biologist</reverse-related>
+            <reverse-related>Marang River Skeleton</reverse-related>
+            <reverse-related>Spitting Gourna</reverse-related>
+            <reverse-related>Battering Craghorn</reverse-related>
+            <reverse-related>Ironfist Crusher</reverse-related>
+            <reverse-related>Ainok Survivalist</reverse-related>
+            <reverse-related>Grim Haruspex</reverse-related>
+            <reverse-related>Treespring Lorian</reverse-related>
+            <reverse-related>Goblin Taskmaster</reverse-related>
+            <reverse-related>Stormcrag Elemental</reverse-related>
+            <reverse-related>Ponyback Brigade</reverse-related>
+            <reverse-related>Witness of the Ages</reverse-related>
+            <reverse-related>Daru Healer</reverse-related>
+            <reverse-related>Sandstorm Charger</reverse-related>
+            <reverse-related>Bane of the Living</reverse-related>
+            <reverse-related>Wingbeat Warrior</reverse-related>
+            <reverse-related>Den Protector</reverse-related>
+            <reverse-related>Quicksilver Dragon</reverse-related>
+            <reverse-related>Mischievous Quanar</reverse-related>
+            <reverse-related>Maelstrom Djinn</reverse-related>
+            <reverse-related>Unstable Hulk</reverse-related>
+            <reverse-related>Whip-Spine Drake</reverse-related>
+            <reverse-related>Marsh Hulk</reverse-related>
+            <reverse-related>Tribal Forcemage</reverse-related>
+            <reverse-related>Ebonblade Reaper</reverse-related>
+            <reverse-related>Silent Specter</reverse-related>
+            <reverse-related>Hidden Dragonslayer</reverse-related>
+            <reverse-related>Dwarven Blastminer</reverse-related>
+            <reverse-related>Glacial Stalker</reverse-related>
+            <reverse-related>Aphetto Exterminator</reverse-related>
+            <reverse-related>Master of Pearls</reverse-related>
+            <reverse-related>Root Elemental</reverse-related>
+            <reverse-related>Ashcloud Phoenix</reverse-related>
+            <reverse-related>Soul Collector</reverse-related>
+            <reverse-related>Ruthless Ripper</reverse-related>
+            <reverse-related>Hooded Hydra</reverse-related>
         </card>
         <card>
             <name>Myr</name>
