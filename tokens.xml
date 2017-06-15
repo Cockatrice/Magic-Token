@@ -42,10 +42,10 @@
             <token>1</token>
             <reverse-related>Angelic Accord</reverse-related>
             <reverse-related>Angelic Favor</reverse-related>
-            <reverse-related>Decree of Justice</reverse-related>
+            <reverse-related count="x">Decree of Justice</reverse-related>
             <reverse-related>Descend upon the Sinful</reverse-related>
-            <reverse-related>Devout Invocation</reverse-related>
-            <reverse-related>Entreat the Angels</reverse-related>
+            <reverse-related count="x">Devout Invocation</reverse-related>
+            <reverse-related count="x">Entreat the Angels</reverse-related>
             <reverse-related>Geist of Saint Traft</reverse-related>
             <reverse-related>Invocation of Saint Traft</reverse-related>
             <reverse-related>Luminarch Ascension</reverse-related>
@@ -148,7 +148,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <tablerow>2</tablerow>
             <text>Whenever this creature deals combat damage to a player, that player loses the game.</text>
             <token>1</token>
-            <reverse-related>Vraska the Unseen</reverse-related>
+            <reverse-related count="3">Vraska the Unseen</reverse-related>
         </card>
         <card>
             <name>Assassin </name>
@@ -222,8 +222,8 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Belfry Spirit</reverse-related>
-            <reverse-related>Skeletal Vampire</reverse-related>
+            <reverse-related count="2">Belfry Spirit</reverse-related>
+            <reverse-related count="2">Skeletal Vampire</reverse-related>
         </card>
         <card>
             <name>Bat </name>
@@ -251,9 +251,10 @@ Creature tokens you control have flying and vigilance.</text>
             <text></text>
             <token>1</token>
             <reverse-related>Bearscape</reverse-related>
-            <reverse-related>Caller of the Claw</reverse-related>
-            <reverse-related>Grizzly Fate</reverse-related>
-            <reverse-related>Kamahl's Summons</reverse-related>
+            <reverse-related count="x">Caller of the Claw</reverse-related>
+            <reverse-related count="2">Grizzly Fate</reverse-related>
+            <reverse-related count="4" exclude="exclude">Grizzly Fate</reverse-related>
+            <reverse-related count="x">Kamahl's Summons</reverse-related>
             <reverse-related>Words of Wilding</reverse-related>
         </card>
         <card>
@@ -295,11 +296,11 @@ Creature tokens you control have flying and vigilance.</text>
             <token>1</token>
             <reverse-related>Beast Within</reverse-related>
             <reverse-related>Bringer of the Green Dawn</reverse-related>
-            <reverse-related>Feral Incarnation</reverse-related>
-            <reverse-related>Fresh Meat</reverse-related>
+            <reverse-related count="3">Feral Incarnation</reverse-related>
+            <reverse-related count="x">Fresh Meat</reverse-related>
             <reverse-related>Garruk Wildspeaker</reverse-related>
             <reverse-related>Garruk, Primal Hunter</reverse-related>
-            <reverse-related>Midsummer Revel</reverse-related>
+            <reverse-related count="x">Midsummer Revel</reverse-related>
             <reverse-related>Primeval Bounty</reverse-related>
             <reverse-related>Pulse of the Tangle</reverse-related>
             <reverse-related>Savage Conception</reverse-related>
@@ -323,7 +324,7 @@ Creature tokens you control have flying and vigilance.</text>
             <token>1</token>
             <reverse-related>Baloth Cage Trap</reverse-related>
             <reverse-related>Beast Attack</reverse-related>
-            <reverse-related>Ezuri's Predation</reverse-related>
+            <reverse-related count="x">Ezuri's Predation</reverse-related>
             <reverse-related>Hunting Pack</reverse-related>
             <reverse-related>Rampaging Baloths</reverse-related>
         </card>
@@ -423,7 +424,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Dovescape</reverse-related>
+            <reverse-related count="x">Dovescape</reverse-related>
             <reverse-related>Pride of the Clouds</reverse-related>
         </card>
         <card>
@@ -440,13 +441,13 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Battle Screech</reverse-related>
-            <reverse-related>Beck // Call</reverse-related>
+            <reverse-related count="2">Battle Screech</reverse-related>
+            <reverse-related count="4">Beck // Call</reverse-related>
             <reverse-related>Emeria Angel</reverse-related>
             <reverse-related>Eyes in the Skies</reverse-related>
-            <reverse-related>Jötun Owl Keeper</reverse-related>
-            <reverse-related>Migratory Route</reverse-related>
-            <reverse-related>Ornitharch</reverse-related>
+            <reverse-related count="x">Jötun Owl Keeper</reverse-related>
+            <reverse-related count="4">Migratory Route</reverse-related>
+            <reverse-related count="2">Ornitharch</reverse-related>
             <reverse-related>Scion of Vitu-Ghazi</reverse-related>
             <reverse-related>Seller of Songbirds</reverse-related>
         </card>
@@ -462,7 +463,7 @@ Creature tokens you control have flying and vigilance.</text>
             <text>Flying</text>
             <token>1</token>
             <reverse-related>Fable of Wolf and Owl</reverse-related>
-            <reverse-related>Ordered Migration</reverse-related>
+            <reverse-related count="x">Ordered Migration</reverse-related>
         </card>
         <card>
             <name>Bird   </name>
@@ -501,7 +502,7 @@ Creature tokens you control have flying and vigilance.</text>
             <text>Flying</text>
             <token>1</token>
             <reverse-related>Aerie Worshippers</reverse-related>
-            <reverse-related>Rise of Eagles</reverse-related>
+            <reverse-related count="2">Rise of Eagles</reverse-related>
         </card>
         <card>
             <name>Bird      </name>
@@ -537,7 +538,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Flurry of Wings</reverse-related>
+            <reverse-related count="x">Flurry of Wings</reverse-related>
         </card>
         <card>
             <name>Boar</name>
@@ -561,7 +562,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Curse of the Swine</reverse-related>
+            <reverse-related count="x">Curse of the Swine</reverse-related>
         </card>
         <card>
             <name>Butterfly</name>
@@ -585,7 +586,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Homarid Spawning Bed</reverse-related>
+            <reverse-related count="x">Homarid Spawning Bed</reverse-related>
         </card>
         <card>
             <name>Caribou</name>
@@ -626,9 +627,9 @@ Creature tokens you control have flying and vigilance.</text>
             <text></text>
             <token>1</token>
             <reverse-related>Ajani's Chosen</reverse-related>
-            <reverse-related>Ajani, Caller of the Pride</reverse-related>
-            <reverse-related>Kemba, Kha Regent</reverse-related>
-            <reverse-related>White Sun's Zenith</reverse-related>
+            <reverse-related count="x">Ajani, Caller of the Pride</reverse-related>
+            <reverse-related count="x">Kemba, Kha Regent</reverse-related>
+            <reverse-related count="x">White Sun's Zenith</reverse-related>
         </card>
         <card>
             <name>Cat </name>
@@ -652,7 +653,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Waiting in the Weeds</reverse-related>
+            <reverse-related count="x">Waiting in the Weeds</reverse-related>
         </card>
         <card>
             <name>Cat   </name>
@@ -664,7 +665,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
             <text>Lifelink</text>
             <token>1</token>
-            <reverse-related>Regal Caracal</reverse-related>
+            <reverse-related count="2">Regal Caracal</reverse-related>
         </card>
         <card>
             <name>Cat Soldier</name>
@@ -706,6 +707,7 @@ Creature tokens you control have flying and vigilance.</text>
             <reverse-related>Call of the Conclave</reverse-related>
             <reverse-related>Centaur Glade</reverse-related>
             <reverse-related>Centaur's Herald</reverse-related>
+            <reverse-related>Coursers' Accord</reverse-related>
             <reverse-related>Trostani's Summoner</reverse-related>
             <reverse-related>Vitu-Ghazi Guildmage</reverse-related>
         </card>
@@ -719,7 +721,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
             <text>Protection from black</text>
             <token>1</token>
-            <reverse-related>Hunted Horror</reverse-related>
+            <reverse-related count="2">Hunted Horror</reverse-related>
         </card>
         <card>
             <name>Centaur   </name>
@@ -731,7 +733,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Fated Intervention</reverse-related>
+            <reverse-related count="2">Fated Intervention</reverse-related>
             <reverse-related>Pheres-Band Raiders</reverse-related>
         </card>
         <card>
@@ -744,8 +746,8 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Icatian Crier</reverse-related>
-            <reverse-related>Icatian Town</reverse-related>
+            <reverse-related count="2">Icatian Crier</reverse-related>
+            <reverse-related count="4">Icatian Town</reverse-related>
         </card>
         <card>
             <name>Cleric</name>
@@ -919,8 +921,8 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>When this creature dies, it deals 1 damage to target creature or player.</text>
             <token>1</token>
-            <reverse-related>Dance with Devils</reverse-related>
-            <reverse-related>Devils' Playground</reverse-related>
+            <reverse-related count="2">Dance with Devils</reverse-related>
+            <reverse-related count="4">Devils' Playground</reverse-related>
             <reverse-related>Make Mischief</reverse-related>
         </card>
         <card>
@@ -986,10 +988,10 @@ Cloud Sprite can block only creatures with flying.</text>
             <text>Flying</text>
             <token>1</token>
             <reverse-related>Broodmate Dragon</reverse-related>
-            <reverse-related>Descent of the Dragons</reverse-related>
+            <reverse-related count="x">Descent of the Dragons</reverse-related>
             <reverse-related>Dragon Whisperer</reverse-related>
             <reverse-related>Sarkhan Unbroken</reverse-related>
-            <reverse-related>Sarkhan Vol</reverse-related>
+            <reverse-related count="5">Sarkhan Vol</reverse-related>
         </card>
         <card>
             <name>Dragon </name>
@@ -1056,9 +1058,9 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Talrand's Invocation</reverse-related>
-            <reverse-related>Talrand, Sky Summoner</reverse-related>
             <reverse-related>Drake Haven</reverse-related>
+            <reverse-related count="2">Talrand's Invocation</reverse-related>
+            <reverse-related>Talrand, Sky Summoner</reverse-related>
         </card>
         <card>
             <name>Drake </name>
@@ -1105,12 +1107,12 @@ Cloud Sprite can block only creatures with flying.</text>
             <text></text>
             <token>1</token>
             <reverse-related>Desperate Sentry</reverse-related>
-            <reverse-related>Emrakul's Evangel</reverse-related>
+            <reverse-related count="x">Emrakul's Evangel</reverse-related>
             <reverse-related>Enlightened Maniac</reverse-related>
             <reverse-related>Extricator of Flesh</reverse-related>
             <reverse-related>Extricator of Sin</reverse-related>
             <reverse-related>Foul Emissary</reverse-related>
-            <reverse-related>Hanweir, the Writhing Township</reverse-related>
+            <reverse-related count="2">Hanweir, the Writhing Township</reverse-related>
             <reverse-related>Howling Chorus</reverse-related>
             <reverse-related>Otherworldly Outburst</reverse-related>
             <reverse-related>Wharf Infiltrator</reverse-related>
@@ -1134,24 +1136,24 @@ Cloud Sprite can block only creatures with flying.</text>
             <token>1</token>
             <reverse-related>Abstruse Interference</reverse-related>
             <reverse-related>Adverse Conditions</reverse-related>
-            <reverse-related>Birthing Hulk</reverse-related>
-            <reverse-related>Blight Herder</reverse-related>
+            <reverse-related count="2">Birthing Hulk</reverse-related>
+            <reverse-related count="3">Blight Herder</reverse-related>
             <reverse-related>Blisterpod</reverse-related>
             <reverse-related>Brood Butcher</reverse-related>
-            <reverse-related>Brood Monitor</reverse-related>
-            <reverse-related>Call the Scions</reverse-related>
+            <reverse-related count="3">Brood Monitor</reverse-related>
+            <reverse-related count="2">Call the Scions</reverse-related>
             <reverse-related>Carrier Thrall</reverse-related>
             <reverse-related>Catacomb Sifter</reverse-related>
-            <reverse-related>Drowner of Hope</reverse-related>
+            <reverse-related count="2">Drowner of Hope</reverse-related>
             <reverse-related>Eldrazi Skyspawner</reverse-related>
-            <reverse-related>Eyeless Watcher</reverse-related>
+            <reverse-related count="2">Eyeless Watcher</reverse-related>
             <reverse-related>From Beyond</reverse-related>
             <reverse-related>Grave Birthing</reverse-related>
             <reverse-related>Incubator Drone</reverse-related>
             <reverse-related>Scion Summoner</reverse-related>
             <reverse-related>Sifter of Skulls</reverse-related>
-            <reverse-related>Spawning Bed</reverse-related>
-            <reverse-related>Vile Redeemer</reverse-related>
+            <reverse-related count="3">Spawning Bed</reverse-related>
+            <reverse-related count="x">Vile Redeemer</reverse-related>
             <reverse-related>Void Attendant</reverse-related>
             <reverse-related>Warping Wail</reverse-related>
         </card>
@@ -1170,19 +1172,19 @@ Cloud Sprite can block only creatures with flying.</text>
             <text>Sacrifice this creature: Add {C} to your mana pool.</text>
             <token>1</token>
             <reverse-related>Awakening Zone</reverse-related>
-            <reverse-related>Brood Birthing</reverse-related>
-            <reverse-related>Corpsehatch</reverse-related>
-            <reverse-related>Dread Drone</reverse-related>
-            <reverse-related>Emrakul's Hatcher</reverse-related>
-            <reverse-related>Essence Feed</reverse-related>
+            <reverse-related count="3">Brood Birthing</reverse-related>
+            <reverse-related count="2">Corpsehatch</reverse-related>
+            <reverse-related count="2">Dread Drone</reverse-related>
+            <reverse-related count="3">Emrakul's Hatcher</reverse-related>
+            <reverse-related count="3">Essence Feed</reverse-related>
             <reverse-related>Growth Spasm</reverse-related>
-            <reverse-related>Kozilek's Predator</reverse-related>
+            <reverse-related count="2">Kozilek's Predator</reverse-related>
             <reverse-related>Nest Invader</reverse-related>
             <reverse-related>Pawn of Ulamog</reverse-related>
             <reverse-related>Rapacious One</reverse-related>
-            <reverse-related>Skittering Invasion</reverse-related>
+            <reverse-related count="5">Skittering Invasion</reverse-related>
             <reverse-related>Spawning Breath</reverse-related>
-            <reverse-related>Spawnsire of Ulamog</reverse-related>
+            <reverse-related count="2">Spawnsire of Ulamog</reverse-related>
         </card>
         <card>
             <name>Elemental</name>
@@ -1195,9 +1197,9 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Elemental Mastery</reverse-related>
-            <reverse-related>Molten Birth</reverse-related>
-            <reverse-related>Tempt with Vengeance</reverse-related>
+            <reverse-related count="x">Elemental Mastery</reverse-related>
+            <reverse-related count="2">Molten Birth</reverse-related>
+            <reverse-related count="x">Tempt with Vengeance</reverse-related>
             <reverse-related>Young Pyromancer</reverse-related>
         </card>
         <card>
@@ -1211,8 +1213,8 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Chandra, Flamecaller</reverse-related>
-            <reverse-related>Feral Lightning</reverse-related>
+            <reverse-related count="2">Chandra, Flamecaller</reverse-related>
+            <reverse-related count="3">Feral Lightning</reverse-related>
             <reverse-related>Lightning Coils</reverse-related>
             <reverse-related>Rakka Mar</reverse-related>
             <reverse-related>Research // Development</reverse-related>
@@ -1227,7 +1229,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Devastating Summons</reverse-related>
+            <reverse-related count="2">Devastating Summons</reverse-related>
         </card>
         <card>
             <name>Elemental     </name>
@@ -1384,7 +1386,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Master of Waves</reverse-related>
+            <reverse-related count="x">Master of Waves</reverse-related>
         </card>
         <card>
             <name>Elemental                 </name>
@@ -1457,7 +1459,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Evil Comes to Fruition</reverse-related>
+            <reverse-related count="7" exclude="exclude">Evil Comes to Fruition</reverse-related>
         </card>
         <card>
             <name>Elemental Cat</name>
@@ -1469,7 +1471,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Firecat Blitz</reverse-related>
+            <reverse-related count="x">Firecat Blitz</reverse-related>
         </card>
         <card>
             <name>Elemental Shaman</name>
@@ -1483,8 +1485,8 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Hearthcage Giant</reverse-related>
-            <reverse-related>Hostility</reverse-related>
+            <reverse-related count="2">Hearthcage Giant</reverse-related>
+            <reverse-related count="x">Hostility</reverse-related>
             <reverse-related>Rebellion of the Flamekin</reverse-related>
         </card>
         <card>
@@ -1513,8 +1515,9 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Elephant Guide</reverse-related>
             <reverse-related>Elephant Resurgence</reverse-related>
             <reverse-related>Kazandu Tuskcaller</reverse-related>
-            <reverse-related>Selvala's Charge</reverse-related>
-            <reverse-related>Terastodon</reverse-related>
+            <reverse-related count="2" exclude="exclude">Kazandu Tuskcaller</reverse-related>
+            <reverse-related count="x">Selvala's Charge</reverse-related>
+            <reverse-related count="x=3">Terastodon</reverse-related>
         </card>
         <card>
             <name>Elf Druid</name>
@@ -1546,16 +1549,16 @@ Cloud Sprite can block only creatures with flying.</text>
             <token>1</token>
             <reverse-related>Ambassador Oak</reverse-related>
             <reverse-related>Dwynen's Elite</reverse-related>
-            <reverse-related>Elvish Promenade</reverse-related>
+            <reverse-related count="x">Elvish Promenade</reverse-related>
             <reverse-related>Flourishing Defenses</reverse-related>
-            <reverse-related>Gilt-Leaf Ambush</reverse-related>
-            <reverse-related>Hunting Triad</reverse-related>
+            <reverse-related count="2">Gilt-Leaf Ambush</reverse-related>
+            <reverse-related count="3">Hunting Triad</reverse-related>
             <reverse-related>Imperious Perfect</reverse-related>
             <reverse-related>Lys Alana Huntmaster</reverse-related>
             <reverse-related>Nath of the Gilt-Leaf</reverse-related>
             <reverse-related>Presence of Gond</reverse-related>
             <reverse-related>Prowess of the Fair</reverse-related>
-            <reverse-related>Sylvan Offering</reverse-related>
+            <reverse-related count="x">Sylvan Offering</reverse-related>
         </card>
         <card>
             <name>Elf Warrior </name>
@@ -1568,7 +1571,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Mercy Killing</reverse-related>
+            <reverse-related count="x">Mercy Killing</reverse-related>
             <reverse-related>Rhys the Redeemed</reverse-related>
         </card>
         <card>
@@ -1591,7 +1594,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Hunted Troll</reverse-related>
+            <reverse-related count="4">Hunted Troll</reverse-related>
         </card>
         <card>
             <name>Faerie Rogue</name>
@@ -1605,7 +1608,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <text>Flying</text>
             <token>1</token>
             <reverse-related>Bitterblossom</reverse-related>
-            <reverse-related>Notorious Throng</reverse-related>
+            <reverse-related count="x">Notorious Throng</reverse-related>
             <reverse-related>Violet Pall</reverse-related>
         </card>
         <card>
@@ -1620,7 +1623,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Oona, Queen of the Fae</reverse-related>
+            <reverse-related count="x">Oona, Queen of the Fae</reverse-related>
         </card>
         <card>
             <name>Festering Goblin (token)</name>
@@ -1686,17 +1689,17 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Batterskull</reverse-related>
-            <reverse-related>Bonehoard</reverse-related>
-            <reverse-related>Flayer Husk</reverse-related>
+            <reverse-related attach="attach">Batterskull</reverse-related>
+            <reverse-related attach="attach">Bonehoard</reverse-related>
+            <reverse-related attach="attach">Flayer Husk</reverse-related>
             <reverse-related>Grip of Phyresis</reverse-related>
-            <reverse-related>Lashwrithe</reverse-related>
-            <reverse-related>Mortarpod</reverse-related>
-            <reverse-related>Necropouncer</reverse-related>
-            <reverse-related>Scytheclaw</reverse-related>
-            <reverse-related>Sickleslicer</reverse-related>
-            <reverse-related>Skinwing</reverse-related>
-            <reverse-related>Strandwalker</reverse-related>
+            <reverse-related attach="attach">Lashwrithe</reverse-related>
+            <reverse-related attach="attach">Mortarpod</reverse-related>
+            <reverse-related attach="attach">Necropouncer</reverse-related>
+            <reverse-related attach="attach">Scytheclaw</reverse-related>
+            <reverse-related attach="attach">Sickleslicer</reverse-related>
+            <reverse-related attach="attach">Skinwing</reverse-related>
+            <reverse-related attach="attach">Strandwalker</reverse-related>
         </card>
         <card>
             <name>Giant</name>
@@ -1759,6 +1762,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related count="4" exclude="exclude">Metrognome</reverse-related>
             <reverse-related>Metrognome</reverse-related>
         </card>
         <card>
@@ -1775,9 +1779,10 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related count="3" exclude="exclude">Goldmeadow</reverse-related>
             <reverse-related>Goldmeadow</reverse-related>
             <reverse-related>Springjack Pasture</reverse-related>
-            <reverse-related>Springjack Shepherd</reverse-related>
+            <reverse-related count="x">Springjack Shepherd</reverse-related>
             <reverse-related>Trading Post</reverse-related>
         </card>
         <card>
@@ -1807,33 +1812,34 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Beetleback Chief</reverse-related>
+            <reverse-related count="2">Beetleback Chief</reverse-related>
             <reverse-related>Chancellor of the Forge</reverse-related>
-            <reverse-related>Dragon Fodder</reverse-related>
-            <reverse-related>Empty the Warrens</reverse-related>
+            <reverse-related count="x">Chancellor of the Forge</reverse-related>
+            <reverse-related count="2">Dragon Fodder</reverse-related>
+            <reverse-related count="2">Empty the Warrens</reverse-related>
             <reverse-related>Goblin Assault</reverse-related>
-            <reverse-related>Goblin Marshal</reverse-related>
-            <reverse-related>Goblin Offensive</reverse-related>
+            <reverse-related count="2">Goblin Marshal</reverse-related>
+            <reverse-related count="x">Goblin Offensive</reverse-related>
             <reverse-related>Goblin Rabblemaster</reverse-related>
-            <reverse-related>Goblin Rally</reverse-related>
-            <reverse-related>Goblin Warrens</reverse-related>
+            <reverse-related count="4">Goblin Rally</reverse-related>
+            <reverse-related count="3">Goblin Warrens</reverse-related>
             <reverse-related>Goblinslide</reverse-related>
-            <reverse-related>Hordeling Outburst</reverse-related>
-            <reverse-related>Hunted Phantasm</reverse-related>
-            <reverse-related>Ib Halfheart, Goblin Tactician</reverse-related>
-            <reverse-related>Jund</reverse-related>
-            <reverse-related>Kathari Bomber</reverse-related>
-            <reverse-related>Krenko's Command</reverse-related>
-            <reverse-related>Krenko, Mob Boss</reverse-related>
-            <reverse-related>Kuldotha Rebirth</reverse-related>
+            <reverse-related count="3">Hordeling Outburst</reverse-related>
+            <reverse-related count="5">Hunted Phantasm</reverse-related>
+            <reverse-related count="2">Ib Halfheart, Goblin Tactician</reverse-related>
+            <reverse-related count="2">Jund</reverse-related>
+            <reverse-related count="2">Kathari Bomber</reverse-related>
+            <reverse-related count="2">Krenko's Command</reverse-related>
+            <reverse-related count="x">Krenko, Mob Boss</reverse-related>
+            <reverse-related count="3">Kuldotha Rebirth</reverse-related>
             <reverse-related>Mardu Ascendancy</reverse-related>
-            <reverse-related>Mogg Alarm</reverse-related>
-            <reverse-related>Mogg Infestation</reverse-related>
+            <reverse-related count="2">Mogg Alarm</reverse-related>
+            <reverse-related count="x=2">Mogg Infestation</reverse-related>
             <reverse-related>Mogg War Marshal</reverse-related>
-            <reverse-related>Ponyback Brigade</reverse-related>
-            <reverse-related>Siege-Gang Commander</reverse-related>
+            <reverse-related count="3">Ponyback Brigade</reverse-related>
+            <reverse-related count="3">Siege-Gang Commander</reverse-related>
             <reverse-related>Survey the Wreckage</reverse-related>
-            <reverse-related>Warbreak Trumpeter</reverse-related>
+            <reverse-related count="x">Warbreak Trumpeter</reverse-related>
         </card>
         <card>
             <name>Goblin </name>
@@ -1883,9 +1889,9 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <text></text>
             <token>1</token>
             <reverse-related>Boggart Mob</reverse-related>
-            <reverse-related>Marsh Flitter</reverse-related>
-            <reverse-related>Warren Weirding</reverse-related>
-            <reverse-related>Weirding Shaman</reverse-related>
+            <reverse-related count="2">Marsh Flitter</reverse-related>
+            <reverse-related count="2">Warren Weirding</reverse-related>
+            <reverse-related count="2">Weirding Shaman</reverse-related>
         </card>
         <card>
             <name>Goblin Scout</name>
@@ -1897,7 +1903,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
             <text>Mountainwalk</text>
             <token>1</token>
-            <reverse-related>Goblin Scouts</reverse-related>
+            <reverse-related count="3">Goblin Scouts</reverse-related>
         </card>
         <card>
             <name>Goblin Soldier</name>
@@ -1912,8 +1918,8 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Goblin Trenches</reverse-related>
-            <reverse-related>Rise of the Hobgoblins</reverse-related>
+            <reverse-related count="2">Goblin Trenches</reverse-related>
+            <reverse-related count="x">Rise of the Hobgoblins</reverse-related>
         </card>
         <card>
             <name>Goblin Warrior</name>
@@ -1927,7 +1933,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Wort, the Raidmother</reverse-related>
+            <reverse-related count="2">Wort, the Raidmother</reverse-related>
         </card>
         <card>
             <name>Gold</name>
@@ -1969,8 +1975,8 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related>Conversion Chamber</reverse-related>
             <reverse-related>Golem Foundry</reverse-related>
             <reverse-related>Master Splicer</reverse-related>
-            <reverse-related>Maul Splicer</reverse-related>
-            <reverse-related>Precursor Golem</reverse-related>
+            <reverse-related count="2">Maul Splicer</reverse-related>
+            <reverse-related count="2">Precursor Golem</reverse-related>
             <reverse-related>Sensor Splicer</reverse-related>
             <reverse-related>Vital Splicer</reverse-related>
             <reverse-related>Wing Splicer</reverse-related>
@@ -2033,7 +2039,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <text></text>
             <token>1</token>
             <reverse-related>Gremlin Infestation</reverse-related>
-            <reverse-related>Release the Gremlins</reverse-related>
+            <reverse-related count="x">Release the Gremlins</reverse-related>
         </card>
         <card>
             <name>Griffin</name>
@@ -2058,7 +2064,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Abhorrent Overlord</reverse-related>
+            <reverse-related count="x">Abhorrent Overlord</reverse-related>
         </card>
         <card>
             <name>Heart-Piercer Manticore (token)</name>
@@ -2218,7 +2224,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Mongrel Pack</reverse-related>
+            <reverse-related count="4">Mongrel Pack</reverse-related>
         </card>
         <card>
             <name>Human</name>
@@ -2233,8 +2239,10 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <text></text>
             <token>1</token>
             <reverse-related>Commander's Authority</reverse-related>
-            <reverse-related>Gather the Townsfolk</reverse-related>
-            <reverse-related>Increasing Devotion</reverse-related>
+            <reverse-related count="2">Gather the Townsfolk</reverse-related>
+            <reverse-related count="5" exclude="exclude">Gather the Townsfolk</reverse-related>
+            <reverse-related count="5">Increasing Devotion</reverse-related>
+            <reverse-related count="10" exclude="exclude">Increasing Devotion</reverse-related>
             <reverse-related>Thraben Doomsayer</reverse-related>
             <reverse-related>Voice of the Provinces</reverse-related>
         </card>
@@ -2248,8 +2256,8 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <pt>1/1</pt>
             <tablerow>2</tablerow>
             <token>1</token>
-            <reverse-related>Hanweir Garrison</reverse-related>
-            <reverse-related>Thatcher Revolt</reverse-related>
+            <reverse-related count="2">Hanweir Garrison</reverse-related>
+            <reverse-related count="3">Thatcher Revolt</reverse-related>
         </card>
         <card>
             <name>Human Cleric</name>
@@ -2303,7 +2311,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Hydra Broodmaster</reverse-related>
+            <reverse-related count="x">Hydra Broodmaster</reverse-related>
         </card>
         <card>
             <name>Illusion</name>
@@ -2339,8 +2347,8 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
             <text>Infect</text>
             <token>1</token>
-            <reverse-related>Carrion Call</reverse-related>
-            <reverse-related>Phyrexian Swarmlord</reverse-related>
+            <reverse-related count="2">Carrion Call</reverse-related>
+            <reverse-related count="x">Phyrexian Swarmlord</reverse-related>
             <reverse-related>Trigon of Infestation</reverse-related>
         </card>
         <card>
@@ -2354,7 +2362,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <text>Flying, deathtouch</text>
             <token>1</token>
             <reverse-related>Hornet Nest</reverse-related>
-            <reverse-related>Hornet Queen</reverse-related>
+            <reverse-related count="4">Hornet Queen</reverse-related>
         </card>
         <card>
             <name>Insect  </name>
@@ -2371,18 +2379,18 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <text></text>
             <token>1</token>
             <reverse-related>Ant Queen</reverse-related>
-            <reverse-related>Beacon of Creation</reverse-related>
+            <reverse-related count="x">Beacon of Creation</reverse-related>
             <reverse-related>Broodhatch Nantuko</reverse-related>
             <reverse-related>Crawling Sensation</reverse-related>
             <reverse-related>Dragonlair Spider</reverse-related>
             <reverse-related>Infested Roothold</reverse-related>
-            <reverse-related>It of the Horrid Swarm</reverse-related>
+            <reverse-related count="2">It of the Horrid Swarm</reverse-related>
             <reverse-related>Living Hive</reverse-related>
-            <reverse-related>One Dozen Eyes</reverse-related>
+            <reverse-related count="5">One Dozen Eyes</reverse-related>
             <reverse-related>Saber Ants</reverse-related>
-            <reverse-related>Symbiotic Beast</reverse-related>
-            <reverse-related>Symbiotic Elf</reverse-related>
-            <reverse-related>Symbiotic Wurm</reverse-related>
+            <reverse-related count="4">Symbiotic Beast</reverse-related>
+            <reverse-related count="2">Symbiotic Elf</reverse-related>
+            <reverse-related count="7">Symbiotic Wurm</reverse-related>
             <reverse-related>Vitality Charm</reverse-related>
             <reverse-related>Wirewood Hivemaster</reverse-related>
         </card>
@@ -2408,7 +2416,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Carrion</reverse-related>
+            <reverse-related count="x">Carrion</reverse-related>
         </card>
         <card>
             <name>Insect     </name>
@@ -2469,14 +2477,14 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Cenn's Enlistment</reverse-related>
-            <reverse-related>Cloudgoat Ranger</reverse-related>
-            <reverse-related>Guardian of Cloverdell</reverse-related>
+            <reverse-related count="2">Cenn's Enlistment</reverse-related>
+            <reverse-related count="3">Cloudgoat Ranger</reverse-related>
+            <reverse-related count="3">Guardian of Cloverdell</reverse-related>
             <reverse-related>Gwyllion Hedge-Mage</reverse-related>
-            <reverse-related>Kinsbaile Borderguard</reverse-related>
+            <reverse-related count="x">Kinsbaile Borderguard</reverse-related>
             <reverse-related>Militia's Pride</reverse-related>
             <reverse-related>Patrol Signaler</reverse-related>
-            <reverse-related>Repel Intruders</reverse-related>
+            <reverse-related count="2">Repel Intruders</reverse-related>
         </card>
         <card>
             <name>Knight</name>
@@ -2490,8 +2498,8 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
             <text>Vigilance</text>
             <token>1</token>
-            <reverse-related>Gideon's Phalanx</reverse-related>
-            <reverse-related>Knight Watch</reverse-related>
+            <reverse-related count="4">Gideon's Phalanx</reverse-related>
+            <reverse-related count="2">Knight Watch</reverse-related>
             <reverse-related>Knightly Valor</reverse-related>
             <reverse-related>Righteous Confluence</reverse-related>
             <reverse-related>Security Blockade</reverse-related>
@@ -2509,7 +2517,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
             <text>First strike</text>
             <token>1</token>
-            <reverse-related>Hunted Dragon</reverse-related>
+            <reverse-related count="3">Hunted Dragon</reverse-related>
         </card>
         <card>
             <name>Knight  </name>
@@ -2521,7 +2529,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Waylay</reverse-related>
+            <reverse-related count="3">Waylay</reverse-related>
         </card>
         <card>
             <name>Knight   </name>
@@ -2557,7 +2565,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Allied Reinforcements</reverse-related>
+            <reverse-related count="2">Allied Reinforcements</reverse-related>
             <reverse-related>Gideon, Ally of Zendikar</reverse-related>
         </card>
         <card>
@@ -2571,7 +2579,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <text></text>
             <token>1</token>
             <reverse-related>Kher Keep</reverse-related>
-            <reverse-related>Prossh, Skyraider of Kher</reverse-related>
+            <reverse-related count="x">Prossh, Skyraider of Kher</reverse-related>
         </card>
         <card>
             <name>Kor Ally</name>
@@ -2584,9 +2592,9 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <text></text>
             <token>1</token>
             <reverse-related>Captain's Claws</reverse-related>
-            <reverse-related>Oath of Gideon</reverse-related>
+            <reverse-related count="2">Oath of Gideon</reverse-related>
             <reverse-related>Retreat to Emeria</reverse-related>
-            <reverse-related>Unified Front</reverse-related>
+            <reverse-related count="x">Unified Front</reverse-related>
         </card>
         <card>
             <name>Kor Soldier</name>
@@ -2599,9 +2607,10 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Conqueror's Pledge</reverse-related>
+            <reverse-related count="6">Conqueror's Pledge</reverse-related>
+            <reverse-related count="12" exclude="exclude">Conqueror's Pledge</reverse-related>
             <reverse-related>Nahiri, the Lithomancer</reverse-related>
-            <reverse-related>Nomads' Assembly</reverse-related>
+            <reverse-related count="x">Nomads' Assembly</reverse-related>
         </card>
         <card>
             <name>Kraken</name>
@@ -2697,6 +2706,25 @@ At the beginning of the end step, sacrifice this creature.</text>
             <text>(You can cover a face-down manifested creature with this reminder card.
 A manifested creature card can be turned face up any time for its mana cost. A face-down card can also be turned face up for its morph cost.)</text>
             <token>1</token>
+            <reverse-related>Arashin War Beast</reverse-related>
+            <reverse-related>Arbiter of the Ideal</reverse-related>
+            <reverse-related>Cloudform</reverse-related>
+            <reverse-related>Ethereal Ambush</reverse-related>
+            <reverse-related>Fierce Invocation</reverse-related>
+            <reverse-related>Formless Nurturing</reverse-related>
+            <reverse-related>Ghastly Conscription</reverse-related>
+            <reverse-related>Jeskai Infiltrator</reverse-related>
+            <reverse-related>Lightform</reverse-related>
+            <reverse-related>Mastery of the Unseen</reverse-related>
+            <reverse-related>Qarsi High Priest</reverse-related>
+            <reverse-related>Rageform</reverse-related>
+            <reverse-related>Reality Shift</reverse-related>
+            <reverse-related>Soul Summons</reverse-related>
+            <reverse-related>Sultai Emissary</reverse-related>
+            <reverse-related>Temur War Shaman</reverse-related>
+            <reverse-related>Whisperwood Elemental</reverse-related>
+            <reverse-related>Wildcall</reverse-related>
+            <reverse-related>Write into Being</reverse-related>
         </card>
         <card>
             <name>Marit Lage</name>
@@ -2732,9 +2760,9 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Benthicore</reverse-related>
+            <reverse-related count="2">Benthicore</reverse-related>
             <reverse-related>Stonybrook Schoolmaster</reverse-related>
-            <reverse-related>Summon the School</reverse-related>
+            <reverse-related count="2">Summon the School</reverse-related>
         </card>
         <card>
             <name>Metallic Sliver (token)</name>
@@ -2769,7 +2797,7 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Infernal Genesis</reverse-related>
+            <reverse-related count="x">Infernal Genesis</reverse-related>
         </card>
         <card>
             <name>Minor Demon</name>
@@ -2794,7 +2822,7 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Flurry of Horns</reverse-related>
+            <reverse-related count="2">Flurry of Horns</reverse-related>
         </card>
         <card>
             <name>Monk</name>
@@ -2818,7 +2846,7 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Monkey Cage</reverse-related>
+            <reverse-related count="x">Monkey Cage</reverse-related>
         </card>
         <card>
             <name>Morph</name>
@@ -2831,6 +2859,188 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <text>(You can cover a face-down creature with this reminder card.
 A card with morph can be turned face up any time for its morph cost.)</text>
             <token>1</token>
+            <reverse-related attach="attach">Abomination of Gudul</reverse-related>
+            <reverse-related attach="attach">Abzan Guide</reverse-related>
+            <reverse-related attach="attach">Acid-Spewer Dragon</reverse-related>
+            <reverse-related attach="attach">Aerie Bowmasters</reverse-related>
+            <reverse-related attach="attach">Ainok Survivalist</reverse-related>
+            <reverse-related attach="attach">Ainok Tracker</reverse-related>
+            <reverse-related attach="attach">Akroma, Angel of Fury</reverse-related>
+            <reverse-related attach="attach">Aphetto Alchemist</reverse-related>
+            <reverse-related attach="attach">Aphetto Exterminator</reverse-related>
+            <reverse-related attach="attach">Aquamorph Entity</reverse-related>
+            <reverse-related attach="attach">Ascending Aven</reverse-related>
+            <reverse-related attach="attach">Ashcloud Phoenix</reverse-related>
+            <reverse-related attach="attach">Atarka Efreet</reverse-related>
+            <reverse-related attach="attach">Aven Liberator</reverse-related>
+            <reverse-related attach="attach">Aven Sunstriker</reverse-related>
+            <reverse-related attach="attach">Bane of the Living</reverse-related>
+            <reverse-related attach="attach">Battering Craghorn</reverse-related>
+            <reverse-related attach="attach">Belltoll Dragon</reverse-related>
+            <reverse-related attach="attach">Birchlore Rangers</reverse-related>
+            <reverse-related attach="attach">Blistering Firecat</reverse-related>
+            <reverse-related attach="attach">Bloodstoke Howler</reverse-related>
+            <reverse-related attach="attach">Boneknitter</reverse-related>
+            <reverse-related attach="attach">Branchsnap Lorian</reverse-related>
+            <reverse-related attach="attach">Brine Elemental</reverse-related>
+            <reverse-related attach="attach">Broodhatch Nantuko</reverse-related>
+            <reverse-related attach="attach">Cabal Executioner</reverse-related>
+            <reverse-related attach="attach">Canyon Lurkers</reverse-related>
+            <reverse-related attach="attach">Charging Slateback</reverse-related>
+            <reverse-related attach="attach">Chromeshell Crab</reverse-related>
+            <reverse-related attach="attach">Coral Trickster</reverse-related>
+            <reverse-related attach="attach">Crude Rampart</reverse-related>
+            <reverse-related attach="attach">Daru Healer</reverse-related>
+            <reverse-related attach="attach">Daru Lancer</reverse-related>
+            <reverse-related attach="attach">Daru Mender</reverse-related>
+            <reverse-related attach="attach">Daru Sanctifier</reverse-related>
+            <reverse-related attach="attach">Dawning Purist</reverse-related>
+            <reverse-related attach="attach">Deathmist Raptor</reverse-related>
+            <reverse-related attach="attach">Defender of the Order</reverse-related>
+            <reverse-related attach="attach">Den Protector</reverse-related>
+            <reverse-related attach="attach">Dermoplasm</reverse-related>
+            <reverse-related attach="attach">Dirgur Nemesis</reverse-related>
+            <reverse-related attach="attach">Disruptive Pitmage</reverse-related>
+            <reverse-related attach="attach">Dragon's Eye Savants</reverse-related>
+            <reverse-related attach="attach">Dulcet Sirens</reverse-related>
+            <reverse-related attach="attach">Dwarven Blastminer</reverse-related>
+            <reverse-related attach="attach">Ebonblade Reaper</reverse-related>
+            <reverse-related attach="attach">Echo Tracer</reverse-related>
+            <reverse-related attach="attach">Efreet Weaponmaster</reverse-related>
+            <reverse-related attach="attach">Exalted Angel</reverse-related>
+            <reverse-related attach="attach">Fallen Cleric</reverse-related>
+            <reverse-related attach="attach">Fathom Seer</reverse-related>
+            <reverse-related attach="attach">Fledgling Mawcor</reverse-related>
+            <reverse-related attach="attach">Foothill Guide</reverse-related>
+            <reverse-related attach="attach">Fortune Thief</reverse-related>
+            <reverse-related attach="attach">Frontline Strategist</reverse-related>
+            <reverse-related attach="attach">Gathan Raiders</reverse-related>
+            <reverse-related attach="attach">Glacial Stalker</reverse-related>
+            <reverse-related attach="attach">Goblin Taskmaster</reverse-related>
+            <reverse-related attach="attach">Gravel Slinger</reverse-related>
+            <reverse-related attach="attach">Grim Haruspex</reverse-related>
+            <reverse-related attach="attach">Grinning Demon</reverse-related>
+            <reverse-related attach="attach">Guardian Shield-Bearer</reverse-related>
+            <reverse-related attach="attach">Gudul Lurker</reverse-related>
+            <reverse-related attach="attach">Haunted Cadaver</reverse-related>
+            <reverse-related attach="attach">Headhunter</reverse-related>
+            <reverse-related attach="attach">Herdchaser Dragon</reverse-related>
+            <reverse-related attach="attach">Hidden Dragonslayer</reverse-related>
+            <reverse-related attach="attach">Hooded Hydra</reverse-related>
+            <reverse-related attach="attach">Horde Ambusher</reverse-related>
+            <reverse-related attach="attach">Hystrodon</reverse-related>
+            <reverse-related attach="attach">Icefeather Aven</reverse-related>
+            <reverse-related attach="attach">Imperial Hellkite</reverse-related>
+            <reverse-related attach="attach">Infernal Caretaker</reverse-related>
+            <reverse-related attach="attach">Ire Shaman</reverse-related>
+            <reverse-related attach="attach">Ironfist Crusher</reverse-related>
+            <reverse-related attach="attach">Jeering Instigator</reverse-related>
+            <reverse-related attach="attach">Karona's Zealot</reverse-related>
+            <reverse-related attach="attach">Kheru Spellsnatcher</reverse-related>
+            <reverse-related attach="attach">Kin-Tree Warden</reverse-related>
+            <reverse-related attach="attach">Kolaghan Stormsinger</reverse-related>
+            <reverse-related attach="attach">Krosan Cloudscraper</reverse-related>
+            <reverse-related attach="attach">Krosan Colossus</reverse-related>
+            <reverse-related attach="attach">Krumar Bond-Kin</reverse-related>
+            <reverse-related attach="attach">Liege of the Axe</reverse-related>
+            <reverse-related attach="attach">Liege of the Pit</reverse-related>
+            <reverse-related attach="attach">Lumithread Field</reverse-related>
+            <reverse-related attach="attach">Maelstrom Djinn</reverse-related>
+            <reverse-related attach="attach">Marang River Skeleton</reverse-related>
+            <reverse-related attach="attach">Marsh Hulk</reverse-related>
+            <reverse-related attach="attach">Master of Pearls</reverse-related>
+            <reverse-related attach="attach">Master of the Veil</reverse-related>
+            <reverse-related attach="attach">Mischievous Quanar</reverse-related>
+            <reverse-related attach="attach">Mistfire Weaver</reverse-related>
+            <reverse-related attach="attach">Mistform Seaswift</reverse-related>
+            <reverse-related attach="attach">Mistform Shrieker</reverse-related>
+            <reverse-related attach="attach">Misthoof Kirin</reverse-related>
+            <reverse-related attach="attach">Monastery Flock</reverse-related>
+            <reverse-related attach="attach">Monastery Loremaster</reverse-related>
+            <reverse-related attach="attach">Mystic of the Hidden Way</reverse-related>
+            <reverse-related attach="attach">Nameless One</reverse-related>
+            <reverse-related attach="attach">Nantuko Vigilante</reverse-related>
+            <reverse-related attach="attach">Ojutai Interceptor</reverse-related>
+            <reverse-related attach="attach">Patron of the Wild</reverse-related>
+            <reverse-related attach="attach">Pine Walker</reverse-related>
+            <reverse-related attach="attach">Ponyback Brigade</reverse-related>
+            <reverse-related attach="attach">Primal Whisperer</reverse-related>
+            <reverse-related attach="attach">Proteus Machine</reverse-related>
+            <reverse-related attach="attach">Putrid Raptor</reverse-related>
+            <reverse-related attach="attach">Quicksilver Dragon</reverse-related>
+            <reverse-related attach="attach">Rattleclaw Mystic</reverse-related>
+            <reverse-related attach="attach">Raven Guild Initiate</reverse-related>
+            <reverse-related attach="attach">Raven Guild Master</reverse-related>
+            <reverse-related attach="attach">Riptide Biologist</reverse-related>
+            <reverse-related attach="attach">Riptide Entrancer</reverse-related>
+            <reverse-related attach="attach">Riptide Pilferer</reverse-related>
+            <reverse-related attach="attach">Riptide Survivor</reverse-related>
+            <reverse-related attach="attach">Rockshard Elemental</reverse-related>
+            <reverse-related attach="attach">Root Elemental</reverse-related>
+            <reverse-related attach="attach">Ruthless Ripper</reverse-related>
+            <reverse-related attach="attach">Sage-Eye Harrier</reverse-related>
+            <reverse-related attach="attach">Sagu Archer</reverse-related>
+            <reverse-related attach="attach">Sagu Mauler</reverse-related>
+            <reverse-related attach="attach">Salt Road Ambushers</reverse-related>
+            <reverse-related attach="attach">Sandstorm Charger</reverse-related>
+            <reverse-related attach="attach">Scornful Egotist</reverse-related>
+            <reverse-related attach="attach">Segmented Krotiq</reverse-related>
+            <reverse-related attach="attach">Serpentine Basilisk</reverse-related>
+            <reverse-related attach="attach">Shaleskin Plower</reverse-related>
+            <reverse-related attach="attach">Shaper Parasite</reverse-related>
+            <reverse-related attach="attach">Shieldhide Dragon</reverse-related>
+            <reverse-related attach="attach">Shorecrasher Elemental</reverse-related>
+            <reverse-related attach="attach">Sidisi's Pet</reverse-related>
+            <reverse-related attach="attach">Silent Specter</reverse-related>
+            <reverse-related attach="attach">Silumgar Assassin</reverse-related>
+            <reverse-related attach="attach">Silumgar Spell-Eater</reverse-related>
+            <reverse-related attach="attach">Skinthinner</reverse-related>
+            <reverse-related attach="attach">Skirk Commando</reverse-related>
+            <reverse-related attach="attach">Skirk Marauder</reverse-related>
+            <reverse-related attach="attach">Skirk Volcanist</reverse-related>
+            <reverse-related attach="attach">Skittish Valesk</reverse-related>
+            <reverse-related attach="attach">Slipstream Serpent</reverse-related>
+            <reverse-related attach="attach">Snapping Thragg</reverse-related>
+            <reverse-related attach="attach">Snarling Undorak</reverse-related>
+            <reverse-related attach="attach">Snowhorn Rider</reverse-related>
+            <reverse-related attach="attach">Sootfeather Flock</reverse-related>
+            <reverse-related attach="attach">Soul Collector</reverse-related>
+            <reverse-related attach="attach">Spined Basher</reverse-related>
+            <reverse-related attach="attach">Spitting Gourna</reverse-related>
+            <reverse-related attach="attach">Stormcrag Elemental</reverse-related>
+            <reverse-related attach="attach">Stormwing Dragon</reverse-related>
+            <reverse-related attach="attach">Stratus Dancer</reverse-related>
+            <reverse-related attach="attach">Temur Charger</reverse-related>
+            <reverse-related attach="attach">Thelonite Hermit</reverse-related>
+            <reverse-related attach="attach">Thousand Winds</reverse-related>
+            <reverse-related attach="attach">Thrashing Mudspawn</reverse-related>
+            <reverse-related attach="attach">Timebender</reverse-related>
+            <reverse-related attach="attach">Titanic Bulvox</reverse-related>
+            <reverse-related attach="attach">Towering Baloth</reverse-related>
+            <reverse-related attach="attach">Treespring Lorian</reverse-related>
+            <reverse-related attach="attach">Tribal Forcemage</reverse-related>
+            <reverse-related attach="attach">Unblinking Bleb</reverse-related>
+            <reverse-related attach="attach">Unstable Hulk</reverse-related>
+            <reverse-related attach="attach">Venomspout Brackus</reverse-related>
+            <reverse-related attach="attach">Vesuvan Shapeshifter</reverse-related>
+            <reverse-related attach="attach">Voidmage Apprentice</reverse-related>
+            <reverse-related attach="attach">Voidmage Prodigy</reverse-related>
+            <reverse-related attach="attach">Wall of Deceit</reverse-related>
+            <reverse-related attach="attach">War Behemoth</reverse-related>
+            <reverse-related attach="attach">Warbreak Trumpeter</reverse-related>
+            <reverse-related attach="attach">Watcher of the Roost</reverse-related>
+            <reverse-related attach="attach">Weathered Bodyguards</reverse-related>
+            <reverse-related attach="attach">Weaver of Lies</reverse-related>
+            <reverse-related attach="attach">Whetwheel</reverse-related>
+            <reverse-related attach="attach">Whip-Spine Drake</reverse-related>
+            <reverse-related attach="attach">Whipcorder</reverse-related>
+            <reverse-related attach="attach">Willbender</reverse-related>
+            <reverse-related attach="attach">Wingbeat Warrior</reverse-related>
+            <reverse-related attach="attach">Witness of the Ages</reverse-related>
+            <reverse-related attach="attach">Woodcloaker</reverse-related>
+            <reverse-related attach="attach">Woolly Loxodon</reverse-related>
+            <reverse-related attach="attach">Zoetic Cavern</reverse-related>
+            <reverse-related attach="attach">Zombie Cutthroat</reverse-related>
         </card>
         <card>
             <name>Myr</name>
@@ -2848,8 +3058,8 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <text></text>
             <token>1</token>
             <reverse-related>Genesis Chamber</reverse-related>
-            <reverse-related>Master's Call</reverse-related>
-            <reverse-related>Myr Battlesphere</reverse-related>
+            <reverse-related count="2">Master's Call</reverse-related>
+            <reverse-related count="4">Myr Battlesphere</reverse-related>
             <reverse-related>Myr Incubator</reverse-related>
             <reverse-related>Myr Matrix</reverse-related>
             <reverse-related>Myr Sire</reverse-related>
@@ -2857,7 +3067,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related>Myrsmith</reverse-related>
             <reverse-related>Origin Spellbomb</reverse-related>
             <reverse-related>Parasitic Implant</reverse-related>
-            <reverse-related>Shrine of Loyal Legions</reverse-related>
+            <reverse-related count="x">Shrine of Loyal Legions</reverse-related>
         </card>
         <card>
             <name>Octopus</name>
@@ -2870,7 +3080,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <text></text>
             <token>1</token>
             <reverse-related>Crush of Tentacles</reverse-related>
-            <reverse-related>Kiora, Master of the Depths</reverse-related>
+            <reverse-related count="3">Kiora, Master of the Depths</reverse-related>
         </card>
         <card>
             <name>Ogre</name>
@@ -2922,7 +3132,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Gelatinous Genesis</reverse-related>
+            <reverse-related count="x">Gelatinous Genesis</reverse-related>
             <reverse-related>Miming Slime</reverse-related>
             <reverse-related>Mystic Genesis</reverse-related>
             <reverse-related>Ooze Flux</reverse-related>
@@ -2952,7 +3162,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <text>When this creature dies, create two 1/1 green Ooze creature tokens.</text>
             <token>1</token>
             <related>Ooze   </related>
-            <reverse-related>Mitotic Slime</reverse-related>
+            <reverse-related count="2">Mitotic Slime</reverse-related>
         </card>
         <card>
             <name>Ooze   </name>
@@ -3002,7 +3212,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related>Pegasus Refuge</reverse-related>
             <reverse-related>Pegasus Stampede</reverse-related>
             <reverse-related>Sacred Mesa</reverse-related>
-            <reverse-related>Storm Herd</reverse-related>
+            <reverse-related count="x">Storm Herd</reverse-related>
         </card>
         <card>
             <name>Pentavite</name>
@@ -3050,8 +3260,8 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Avenger of Zendikar</reverse-related>
-            <reverse-related>Evil Comes to Fruition</reverse-related>
+            <reverse-related count="x">Avenger of Zendikar</reverse-related>
+            <reverse-related count="7">Evil Comes to Fruition</reverse-related>
             <reverse-related>Khalni Garden</reverse-related>
             <reverse-related>Nature Shields Its Own</reverse-related>
             <reverse-related>Nissa, Voice of Zendikar</reverse-related>
@@ -3104,9 +3314,9 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <text></text>
             <token>1</token>
             <reverse-related>Lab Rats</reverse-related>
-            <reverse-related>Marrow-Gnawer</reverse-related>
+            <reverse-related count="x">Marrow-Gnawer</reverse-related>
             <reverse-related>Ogre Slumlord</reverse-related>
-            <reverse-related>Plague of Vermin</reverse-related>
+            <reverse-related count="x">Plague of Vermin</reverse-related>
         </card>
         <card>
             <name>Reflection</name>
@@ -3142,8 +3352,8 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text>Trample</text>
             <token>1</token>
-            <reverse-related>Trostani's Summoner</reverse-related>
             <reverse-related>Horncaller's Chant</reverse-related>
+            <reverse-related>Trostani's Summoner</reverse-related>
         </card>
         <card>
             <name>Sacred Cat (token)</name>
@@ -3166,7 +3376,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Dune-Brood Nephilim</reverse-related>
+            <reverse-related count="x">Dune-Brood Nephilim</reverse-related>
         </card>
         <card>
             <name>Sand Warrior</name>
@@ -3180,7 +3390,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Hazezon Tamar</reverse-related>
+            <reverse-related count="x">Hazezon Tamar</reverse-related>
         </card>
         <card>
             <name>Saproling</name>
@@ -3207,69 +3417,69 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Aether Mutation</reverse-related>
-            <reverse-related>Artifact Mutation</reverse-related>
-            <reverse-related>Aura Mutation</reverse-related>
-            <reverse-related>Bramble Elemental</reverse-related>
-            <reverse-related>Death Mutation</reverse-related>
+            <reverse-related count="x">Aether Mutation</reverse-related>
+            <reverse-related count="x">Artifact Mutation</reverse-related>
+            <reverse-related count="x">Aura Mutation</reverse-related>
+            <reverse-related count="2">Bramble Elemental</reverse-related>
+            <reverse-related count="x">Death Mutation</reverse-related>
             <reverse-related>Deathspore Thallid</reverse-related>
             <reverse-related>Dreampod Druid</reverse-related>
             <reverse-related>Druidic Satchel</reverse-related>
             <reverse-related>Elvish Farmer</reverse-related>
-            <reverse-related>Fertile Imagination</reverse-related>
-            <reverse-related>Fists of Ironwood</reverse-related>
+            <reverse-related count="x=2">Fertile Imagination</reverse-related>
+            <reverse-related count="2">Fists of Ironwood</reverse-related>
             <reverse-related>Flash Foliage</reverse-related>
-            <reverse-related>Fungal Sprouting</reverse-related>
+            <reverse-related count="x">Fungal Sprouting</reverse-related>
             <reverse-related>Ghave, Guru of Spores</reverse-related>
             <reverse-related>Golgari Germination</reverse-related>
-            <reverse-related>Grand Ossuary</reverse-related>
+            <reverse-related count="x">Grand Ossuary</reverse-related>
             <reverse-related>Greener Pastures</reverse-related>
             <reverse-related>Jade Mage</reverse-related>
             <reverse-related>Jund Battlemage</reverse-related>
-            <reverse-related>Korozda Guildmage</reverse-related>
-            <reverse-related>Last Stand</reverse-related>
-            <reverse-related>Morbid Bloom</reverse-related>
+            <reverse-related count="x">Korozda Guildmage</reverse-related>
+            <reverse-related count="x">Last Stand</reverse-related>
+            <reverse-related count="x">Morbid Bloom</reverse-related>
             <reverse-related>Mycologist</reverse-related>
-            <reverse-related>Mycoloth</reverse-related>
+            <reverse-related count="x">Mycoloth</reverse-related>
             <reverse-related>Necrogenesis</reverse-related>
             <reverse-related>Nemata, Grove Guardian</reverse-related>
             <reverse-related>Night Soil</reverse-related>
             <reverse-related>Pallid Mycoderm</reverse-related>
             <reverse-related>Pollenbright Wings</reverse-related>
             <reverse-related>Psychotrope Thallid</reverse-related>
-            <reverse-related>Rith's Charm</reverse-related>
-            <reverse-related>Rith, the Awakener</reverse-related>
-            <reverse-related>Roots of All Evil</reverse-related>
+            <reverse-related count="3">Rith's Charm</reverse-related>
+            <reverse-related count="x">Rith, the Awakener</reverse-related>
+            <reverse-related count="5">Roots of All Evil</reverse-related>
             <reverse-related>Saproling Cluster</reverse-related>
             <reverse-related>Saproling Infestation</reverse-related>
-            <reverse-related>Saproling Symbiosis</reverse-related>
+            <reverse-related count="x">Saproling Symbiosis</reverse-related>
             <reverse-related>Savage Thallid</reverse-related>
-            <reverse-related>Scatter the Seeds</reverse-related>
-            <reverse-related>Seed Spark</reverse-related>
+            <reverse-related count="3">Scatter the Seeds</reverse-related>
+            <reverse-related count="2">Seed Spark</reverse-related>
             <reverse-related>Selesnya Evangel</reverse-related>
             <reverse-related>Selesnya Guildmage</reverse-related>
-            <reverse-related>Spontaneous Generation</reverse-related>
-            <reverse-related>Spore Burst</reverse-related>
+            <reverse-related count="x">Spontaneous Generation</reverse-related>
+            <reverse-related count="x">Spore Burst</reverse-related>
             <reverse-related>Sporemound</reverse-related>
             <reverse-related>Sporesower Thallid</reverse-related>
-            <reverse-related>Sporogenesis</reverse-related>
+            <reverse-related count="x">Sporogenesis</reverse-related>
             <reverse-related>Sporoloth Ancient</reverse-related>
             <reverse-related>Sprout</reverse-related>
             <reverse-related>Sprout Swarm</reverse-related>
-            <reverse-related>Sprouting Thrinax</reverse-related>
+            <reverse-related count="3">Sprouting Thrinax</reverse-related>
             <reverse-related>Supply // Demand</reverse-related>
             <reverse-related>Tana, the Bloodsower</reverse-related>
             <reverse-related>Thallid</reverse-related>
             <reverse-related>Thallid Devourer</reverse-related>
             <reverse-related>Thallid Germinator</reverse-related>
             <reverse-related>Thallid Shell-Dweller</reverse-related>
-            <reverse-related>Thelonite Hermit</reverse-related>
+            <reverse-related count="4">Thelonite Hermit</reverse-related>
             <reverse-related>Tukatongue Thallid</reverse-related>
-            <reverse-related>Ulasht, the Hate Seed</reverse-related>
+            <reverse-related count="x">Ulasht, the Hate Seed</reverse-related>
             <reverse-related>Utopia Mycon</reverse-related>
             <reverse-related>Verdant Embrace</reverse-related>
             <reverse-related>Verdant Force</reverse-related>
-            <reverse-related>Verdeloth the Ancient</reverse-related>
+            <reverse-related count="x">Verdeloth the Ancient</reverse-related>
             <reverse-related>Vitaspore Thallid</reverse-related>
             <reverse-related>Vitu-Ghazi, the City-Tree</reverse-related>
         </card>
@@ -3296,7 +3506,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Revel of the Fallen God</reverse-related>
+            <reverse-related count="4">Revel of the Fallen God</reverse-related>
             <reverse-related>Xenagos, the Reveler</reverse-related>
         </card>
         <card>
@@ -3309,7 +3519,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Sengir Autocrat</reverse-related>
+            <reverse-related count="3">Sengir Autocrat</reverse-related>
         </card>
         <card>
             <name>Servo</name>
@@ -3323,35 +3533,35 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <text></text>
             <token>1</token>
             <reverse-related>Accomplished Automaton</reverse-related>
-            <reverse-related>Ambitious Aetherborn</reverse-related>
-            <reverse-related>Angel of Invention</reverse-related>
-            <reverse-related>Animation Module</reverse-related>
-            <reverse-related>Cogworker's Puzzleknot</reverse-related>
-            <reverse-related>Cultivator of Blades</reverse-related>
-            <reverse-related>Elegant Edgecrafters</reverse-related>
-            <reverse-related>Glint-Sleeve Artisan</reverse-related>
-            <reverse-related>Highspire Artisan</reverse-related>
-            <reverse-related>Iron League Steed</reverse-related>
-            <reverse-related>Marionette Master</reverse-related>
-            <reverse-related>Master Trinketeer</reverse-related>
-            <reverse-related>Maulfist Squad</reverse-related>
-            <reverse-related>Oviya Pashiri, Sage Lifecrafter</reverse-related>
-            <reverse-related>Peema Outrider</reverse-related>
-            <reverse-related>Propeller Pioneer</reverse-related>
-            <reverse-related>Servo Exhibition</reverse-related>
-            <reverse-related>Visionary Augmenter</reverse-related>
-            <reverse-related>Weaponcraft Enthusiast</reverse-related>
             <reverse-related>Aether Chaser</reverse-related>
             <reverse-related>Aether Herder</reverse-related>
             <reverse-related>Aether Inspector</reverse-related>
             <reverse-related>Aether Poisoner</reverse-related>
             <reverse-related>Aether Swooper</reverse-related>
+            <reverse-related>Ambitious Aetherborn</reverse-related>
+            <reverse-related count="2">Angel of Invention</reverse-related>
+            <reverse-related>Animation Module</reverse-related>
+            <reverse-related>Cogworker's Puzzleknot</reverse-related>
             <reverse-related>Countless Gears Renegade</reverse-related>
+            <reverse-related count="2">Cultivator of Blades</reverse-related>
+            <reverse-related count="2">Elegant Edgecrafters</reverse-related>
+            <reverse-related>Glint-Sleeve Artisan</reverse-related>
             <reverse-related>Hidden Stockpile</reverse-related>
+            <reverse-related>Highspire Artisan</reverse-related>
+            <reverse-related>Iron League Steed</reverse-related>
+            <reverse-related count="3">Marionette Master</reverse-related>
+            <reverse-related>Master Trinketeer</reverse-related>
+            <reverse-related>Maulfist Squad</reverse-related>
+            <reverse-related>Oviya Pashiri, Sage Lifecrafter</reverse-related>
+            <reverse-related>Peema Outrider</reverse-related>
+            <reverse-related>Propeller Pioneer</reverse-related>
             <reverse-related>Renegade's Getaway</reverse-related>
+            <reverse-related count="2">Servo Exhibition</reverse-related>
             <reverse-related>Servo Schematic</reverse-related>
             <reverse-related>Sly Requisitioner</reverse-related>
-            <reverse-related>Sram's Expertise</reverse-related>
+            <reverse-related count="3">Sram's Expertise</reverse-related>
+            <reverse-related count="2">Visionary Augmenter</reverse-related>
+            <reverse-related count="2">Weaponcraft Enthusiast</reverse-related>
         </card>
         <card>
             <name>Shapeshifter </name>
@@ -3402,7 +3612,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <text></text>
             <token>1</token>
             <reverse-related>Brood Sliver</reverse-related>
-            <reverse-related>Hive Stirrings</reverse-related>
+            <reverse-related count="2">Hive Stirrings</reverse-related>
             <reverse-related>Sliver Hive</reverse-related>
             <reverse-related>Sliver Queen</reverse-related>
         </card>
@@ -3420,16 +3630,16 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <text></text>
             <token>1</token>
             <reverse-related>Bestial Menace</reverse-related>
-            <reverse-related>Cobra Trap</reverse-related>
-            <reverse-related>Endless Swarm</reverse-related>
-            <reverse-related>Hooded Hydra</reverse-related>
+            <reverse-related count="4">Cobra Trap</reverse-related>
+            <reverse-related count="x">Endless Swarm</reverse-related>
+            <reverse-related count="x=5">Hooded Hydra</reverse-related>
             <reverse-related>Orochi Eggwatcher</reverse-related>
-            <reverse-related>Orochi Hatchery</reverse-related>
+            <reverse-related count="x">Orochi Hatchery</reverse-related>
             <reverse-related>Rite of the Serpent</reverse-related>
             <reverse-related>Seed the Land</reverse-related>
-            <reverse-related>Snake Basket</reverse-related>
+            <reverse-related count="x">Snake Basket</reverse-related>
             <reverse-related>Snake Pit</reverse-related>
-            <reverse-related>Sosuke's Summons</reverse-related>
+            <reverse-related count="2">Sosuke's Summons</reverse-related>
         </card>
         <card>
             <name>Snake </name>
@@ -3453,7 +3663,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Patagia Viper</reverse-related>
+            <reverse-related count="2">Patagia Viper</reverse-related>
         </card>
         <card>
             <name>Snake   </name>
@@ -3523,36 +3733,37 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <text></text>
             <token>1</token>
             <reverse-related>Akroan Horse</reverse-related>
-            <reverse-related>Alliance of Arms</reverse-related>
+            <reverse-related count="x">Alliance of Arms</reverse-related>
             <reverse-related>Attended Knight</reverse-related>
             <reverse-related>Bant Sojourners</reverse-related>
             <reverse-related>Benalish Commander</reverse-related>
-            <reverse-related>Captain of the Watch</reverse-related>
-            <reverse-related>Captain's Call</reverse-related>
+            <reverse-related count="3">Captain of the Watch</reverse-related>
+            <reverse-related count="3">Captain's Call</reverse-related>
             <reverse-related>Darien, King of Kjeldor</reverse-related>
-            <reverse-related>Decree of Justice</reverse-related>
-            <reverse-related>Deploy to the Front</reverse-related>
-            <reverse-related>Elspeth Tirel</reverse-related>
+            <reverse-related count="x" exclude="exclude">Decree of Justice</reverse-related>
+            <reverse-related count="x">Deploy to the Front</reverse-related>
+            <reverse-related count="3">Elspeth Tirel</reverse-related>
             <reverse-related>Elspeth, Knight-Errant</reverse-related>
-            <reverse-related>Elspeth, Sun's Champion</reverse-related>
-            <reverse-related>Entrapment Maneuver</reverse-related>
-            <reverse-related>Evangel of Heliod</reverse-related>
-            <reverse-related>Even the Odds</reverse-related>
+            <reverse-related count="3">Elspeth, Sun's Champion</reverse-related>
+            <reverse-related count="x">Entrapment Maneuver</reverse-related>
+            <reverse-related count="x">Evangel of Heliod</reverse-related>
+            <reverse-related count="3">Even the Odds</reverse-related>
             <reverse-related>First Response</reverse-related>
-            <reverse-related>Hero of Bladehold</reverse-related>
+            <reverse-related count="2">Hero of Bladehold</reverse-related>
             <reverse-related>Kjeldoran Outpost</reverse-related>
-            <reverse-related>Knight-Captain of Eos</reverse-related>
-            <reverse-related>Launch the Fleet</reverse-related>
-            <reverse-related>Lieutenants of the Guard</reverse-related>
-            <reverse-related>Martial Coup</reverse-related>
+            <reverse-related count="2">Knight-Captain of Eos</reverse-related>
+            <reverse-related count="x">Launch the Fleet</reverse-related>
+            <reverse-related count="x">Lieutenants of the Guard</reverse-related>
+            <reverse-related count="x">Martial Coup</reverse-related>
             <reverse-related>Mobilization</reverse-related>
-            <reverse-related>Murder Investigation</reverse-related>
+            <reverse-related count="x">Murder Investigation</reverse-related>
             <reverse-related>Precinct Captain</reverse-related>
-            <reverse-related>Raise the Alarm</reverse-related>
+            <reverse-related count="2">Raise the Alarm</reverse-related>
             <reverse-related>Security Detail</reverse-related>
             <reverse-related>Stormfront Riders</reverse-related>
             <reverse-related>Throne of Empires</reverse-related>
-            <reverse-related>Timely Reinforcements</reverse-related>
+            <reverse-related count="5" exclude="exclude">Throne of Empires</reverse-related>
+            <reverse-related count="3">Timely Reinforcements</reverse-related>
         </card>
         <card>
             <name>Soldier </name>
@@ -3566,8 +3777,8 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text>Haste</text>
             <token>1</token>
-            <reverse-related>Assemble the Legion</reverse-related>
-            <reverse-related>Blaze Commando</reverse-related>
+            <reverse-related count="x">Assemble the Legion</reverse-related>
+            <reverse-related count="2">Blaze Commando</reverse-related>
             <reverse-related>Sunhome Guildmage</reverse-related>
         </card>
         <card>
@@ -3604,7 +3815,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>God-Favored General</reverse-related>
+            <reverse-related count="2">God-Favored General</reverse-related>
         </card>
         <card>
             <name>Soldier Ally</name>
@@ -3616,7 +3827,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Join the Ranks</reverse-related>
+            <reverse-related count="2">Join the Ranks</reverse-related>
         </card>
         <card>
             <name>Spark Elemental (token)</name>
@@ -3652,7 +3863,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Hour of Need</reverse-related>
+            <reverse-related count="x">Hour of Need</reverse-related>
         </card>
         <card>
             <name>Spider</name>
@@ -3667,10 +3878,10 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
             <text>Reach</text>
             <token>1</token>
-            <reverse-related>Arachnogenesis</reverse-related>
+            <reverse-related count="x">Arachnogenesis</reverse-related>
             <reverse-related>Gloomwidow's Feast</reverse-related>
-            <reverse-related>Ishkanah, Grafwidow</reverse-related>
-            <reverse-related>Spider Spawning</reverse-related>
+            <reverse-related count="3">Ishkanah, Grafwidow</reverse-related>
+            <reverse-related count="x">Spider Spawning</reverse-related>
         </card>
         <card>
             <name>Spider </name>
@@ -3739,7 +3950,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related>Abzan Ascendancy</reverse-related>
             <reverse-related>Afterlife</reverse-related>
             <reverse-related>Avacyn's Collar</reverse-related>
-            <reverse-related>Benevolent Offering</reverse-related>
+            <reverse-related count="3">Benevolent Offering</reverse-related>
             <reverse-related>Custodi Soulbinders</reverse-related>
             <reverse-related>Dauntless Cathar</reverse-related>
             <reverse-related>Doomed Traveler</reverse-related>
@@ -3749,33 +3960,33 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related>Field of Souls</reverse-related>
             <reverse-related>Funeral Pyre</reverse-related>
             <reverse-related>Gallows at Willow Hill</reverse-related>
-            <reverse-related>Geist-Honored Monk</reverse-related>
-            <reverse-related>Hallowed Spiritkeeper</reverse-related>
+            <reverse-related count="2">Geist-Honored Monk</reverse-related>
+            <reverse-related count="x">Hallowed Spiritkeeper</reverse-related>
             <reverse-related>Haunted Dead</reverse-related>
-            <reverse-related>Kirtar's Wrath</reverse-related>
-            <reverse-related>Lingering Souls</reverse-related>
+            <reverse-related count="2">Kirtar's Wrath</reverse-related>
+            <reverse-related count="2">Lingering Souls</reverse-related>
             <reverse-related>Luminous Angel</reverse-related>
-            <reverse-related>March of Souls</reverse-related>
-            <reverse-related>Mausoleum Guard</reverse-related>
-            <reverse-related>Midnight Haunting</reverse-related>
+            <reverse-related count="x">March of Souls</reverse-related>
+            <reverse-related count="2">Mausoleum Guard</reverse-related>
+            <reverse-related count="2">Midnight Haunting</reverse-related>
             <reverse-related>Moorland Haunt</reverse-related>
-            <reverse-related>Nearheath Chaplain</reverse-related>
+            <reverse-related count="2">Nearheath Chaplain</reverse-related>
             <reverse-related>Not Forgotten</reverse-related>
             <reverse-related>Requiem Angel</reverse-related>
-            <reverse-related>Rousing of Souls</reverse-related>
+            <reverse-related count="x">Rousing of Souls</reverse-related>
             <reverse-related>Sanctifier of Souls</reverse-related>
             <reverse-related>Sandsteppe Outcast</reverse-related>
             <reverse-related>Seize the Soul</reverse-related>
             <reverse-related>Slayer's Plate</reverse-related>
-            <reverse-related>Spectral Procession</reverse-related>
-            <reverse-related>Spectral Reserves</reverse-related>
+            <reverse-related count="3">Spectral Procession</reverse-related>
+            <reverse-related count="2">Spectral Reserves</reverse-related>
             <reverse-related>Spirit Bonds</reverse-related>
             <reverse-related>Spirit Cairn</reverse-related>
             <reverse-related>Teysa, Orzhov Scion</reverse-related>
             <reverse-related>Transluminant</reverse-related>
-            <reverse-related>Triplicate Spirits</reverse-related>
-            <reverse-related>Twilight Drover</reverse-related>
-            <reverse-related>Vessel of Ephemera</reverse-related>
+            <reverse-related count="3">Triplicate Spirits</reverse-related>
+            <reverse-related count="2">Twilight Drover</reverse-related>
+            <reverse-related count="2">Vessel of Ephemera</reverse-related>
         </card>
         <card>
             <name>Spirit </name>
@@ -3817,11 +4028,11 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <text></text>
             <token>1</token>
             <reverse-related>Baku Altar</reverse-related>
-            <reverse-related>Dripping-Tongue Zubera</reverse-related>
+            <reverse-related count="x">Dripping-Tongue Zubera</reverse-related>
             <reverse-related>Forbidden Orchard</reverse-related>
             <reverse-related>Gods' Eye, Gate to the Reikai</reverse-related>
-            <reverse-related>Honden of Life's Web</reverse-related>
-            <reverse-related>Promise of Bunrei</reverse-related>
+            <reverse-related count="x">Honden of Life's Web</reverse-related>
+            <reverse-related count="4">Promise of Bunrei</reverse-related>
             <reverse-related>Sekki, Seasons' Guide</reverse-related>
             <reverse-related>Spiritual Visit</reverse-related>
         </card>
@@ -3899,7 +4110,7 @@ Cumulative upkeep {G}</text>
             <tablerow>2</tablerow>
             <text>Islandwalk</text>
             <token>1</token>
-            <reverse-related>Chasm Skulker</reverse-related>
+            <reverse-related count="x">Chasm Skulker</reverse-related>
             <reverse-related>Coral Barrier</reverse-related>
         </card>
         <card>
@@ -3914,15 +4125,15 @@ Cumulative upkeep {G}</text>
             <text></text>
             <token>1</token>
             <reverse-related>Acorn Catapult</reverse-related>
-            <reverse-related>Acorn Harvest</reverse-related>
+            <reverse-related count="2">Acorn Harvest</reverse-related>
             <reverse-related>Chatter of the Squirrel</reverse-related>
-            <reverse-related>Deranged Hermit</reverse-related>
+            <reverse-related count="4">Deranged Hermit</reverse-related>
             <reverse-related>Druid's Call</reverse-related>
             <reverse-related>Liege of the Hollows</reverse-related>
-            <reverse-related>Nantuko Shrine</reverse-related>
+            <reverse-related count="x">Nantuko Shrine</reverse-related>
             <reverse-related>Nut Collector</reverse-related>
             <reverse-related>Squirrel Nest</reverse-related>
-            <reverse-related>Squirrel Wrangler</reverse-related>
+            <reverse-related count="2">Squirrel Wrangler</reverse-related>
         </card>
         <card>
             <name>Stangg Twin</name>
@@ -3947,7 +4158,7 @@ Cumulative upkeep {G}</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Spiny Starfish</reverse-related>
+            <reverse-related count="x">Spiny Starfish</reverse-related>
         </card>
         <card>
             <name>Stoneforged Blade</name>
@@ -3959,7 +4170,7 @@ Cumulative upkeep {G}</text>
 Equipped creature gets +5/+5 and has double strike.
 Equip {0}</text>
             <token>1</token>
-            <reverse-related>Nahiri, the Lithomancer</reverse-related>
+            <reverse-related exclude="exclude">Nahiri, the Lithomancer</reverse-related>
         </card>
         <card>
             <name>Survivor</name>
@@ -3971,7 +4182,7 @@ Equip {0}</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Varchild's War-Riders</reverse-related>
+            <reverse-related count="x">Varchild's War-Riders</reverse-related>
         </card>
         <card>
             <name>Tah-Crop Skirmisher (token)</name>
@@ -4024,22 +4235,22 @@ This creature can't be enchanted.</text>
             <text>Flying</text>
             <token>1</token>
             <reverse-related>Aspiring Aeronaut</reverse-related>
-            <reverse-related>Experimental Aviator</reverse-related>
-            <reverse-related>Foundry of the Consuls</reverse-related>
+            <reverse-related>Efficient Construction</reverse-related>
+            <reverse-related count="2">Experimental Aviator</reverse-related>
+            <reverse-related>Filigree Crawler</reverse-related>
+            <reverse-related count="2">Foundry of the Consuls</reverse-related>
             <reverse-related>Ghirapur Gearcrafter</reverse-related>
-            <reverse-related>Hangarback Walker</reverse-related>
+            <reverse-related count="x">Hangarback Walker</reverse-related>
+            <reverse-related count="2">Maverick Thopterist</reverse-related>
             <reverse-related>Pia Nalaar</reverse-related>
-            <reverse-related>Pia and Kiran Nalaar</reverse-related>
-            <reverse-related>Thopter Assembly</reverse-related>
+            <reverse-related count="2">Pia and Kiran Nalaar</reverse-related>
+            <reverse-related count="5">Thopter Assembly</reverse-related>
             <reverse-related>Thopter Engineer</reverse-related>
             <reverse-related>Thopter Spy Network</reverse-related>
             <reverse-related>Thopter Squadron</reverse-related>
-            <reverse-related>Whirler Rogue</reverse-related>
+            <reverse-related count="2">Whirler Rogue</reverse-related>
             <reverse-related>Whirler Virtuoso</reverse-related>
             <reverse-related>Whirlermaker</reverse-related>
-            <reverse-related>Efficient Construction</reverse-related>
-            <reverse-related>Filigree Crawler</reverse-related>
-            <reverse-related>Maverick Thopterist</reverse-related>
         </card>
         <card>
             <name>Thopter </name>
@@ -4052,7 +4263,7 @@ This creature can't be enchanted.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>Breya, Etherium Shaper</reverse-related>
+            <reverse-related count="2">Breya, Etherium Shaper</reverse-related>
             <reverse-related>Sharding Sphinx</reverse-related>
             <reverse-related>Thopter Foundry</reverse-related>
         </card>
@@ -4078,7 +4289,7 @@ This creature can't be enchanted.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Endrek Sahr, Master Breeder</reverse-related>
+            <reverse-related count="x">Endrek Sahr, Master Breeder</reverse-related>
         </card>
         <card>
             <name>Tombspawn</name>
@@ -4090,7 +4301,7 @@ This creature can't be enchanted.</text>
             <tablerow>2</tablerow>
             <text>Haste</text>
             <token>1</token>
-            <reverse-related>Tombstone Stairwell</reverse-related>
+            <reverse-related count="x">Tombstone Stairwell</reverse-related>
         </card>
         <card>
             <name>Treefolk</name>
@@ -4250,7 +4461,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Lifelink</text>
             <token>1</token>
             <reverse-related>Call the Bloodline</reverse-related>
-            <reverse-related>Sorin, Grim Nemesis</reverse-related>
+            <reverse-related count="x">Sorin, Grim Nemesis</reverse-related>
         </card>
         <card>
             <name>Vizier of Many Faces (token)</name>
@@ -4321,7 +4532,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Rally the Horde</reverse-related>
+            <reverse-related count="x">Rally the Horde</reverse-related>
         </card>
         <card>
             <name>Warrior </name>
@@ -4336,10 +4547,10 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text></text>
             <token>1</token>
             <reverse-related>Herald of Anafenza</reverse-related>
-            <reverse-related>Mardu Charm</reverse-related>
+            <reverse-related count="2">Mardu Charm</reverse-related>
             <reverse-related>Mardu Hordechief</reverse-related>
-            <reverse-related>Secure the Wastes</reverse-related>
-            <reverse-related>Take Up Arms</reverse-related>
+            <reverse-related count="x">Secure the Wastes</reverse-related>
+            <reverse-related count="3">Take Up Arms</reverse-related>
         </card>
         <card>
             <name>Warrior  </name>
@@ -4366,7 +4577,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Cartouche of Solidarity</reverse-related>
             <reverse-related>Oketra the True</reverse-related>
             <reverse-related>Oketra's Monument</reverse-related>
-            <reverse-related>Start // Finish</reverse-related>
+            <reverse-related count="2">Start // Finish</reverse-related>
             <reverse-related>Supply Caravan</reverse-related>
         </card>
         <card>
@@ -4431,22 +4642,23 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Bestial Menace</reverse-related>
             <reverse-related>Cult of the Waxing Moon</reverse-related>
             <reverse-related>Fable of Wolf and Owl</reverse-related>
-            <reverse-related>Feed the Pack</reverse-related>
+            <reverse-related count="x">Feed the Pack</reverse-related>
             <reverse-related>Garruk Relentless</reverse-related>
-            <reverse-related>Howl of the Night Pack</reverse-related>
+            <reverse-related count="x">Howl of the Night Pack</reverse-related>
             <reverse-related>Howlpack Alpha</reverse-related>
             <reverse-related>Huntmaster of the Fells</reverse-related>
-            <reverse-related>Kessig Cagebreakers</reverse-related>
+            <reverse-related count="x">Kessig Cagebreakers</reverse-related>
             <reverse-related>Master of the Wild Hunt</reverse-related>
             <reverse-related>Pack Guardian</reverse-related>
             <reverse-related>Predator's Howl</reverse-related>
-            <reverse-related>Raised by Wolves</reverse-related>
+            <reverse-related count="3" exclude="exclude">Predator's Howl</reverse-related>
+            <reverse-related count="2">Raised by Wolves</reverse-related>
             <reverse-related>Silverfur Partisan</reverse-related>
             <reverse-related>Sword of Body and Mind</reverse-related>
             <reverse-related>Turntimber Ranger</reverse-related>
             <reverse-related>Wolf-Skull Shaman</reverse-related>
-            <reverse-related>Wolfbriar Elemental</reverse-related>
-            <reverse-related>Wolfcaller's Howl</reverse-related>
+            <reverse-related count="x">Wolfbriar Elemental</reverse-related>
+            <reverse-related count="x">Wolfcaller's Howl</reverse-related>
             <reverse-related>Wolfkin Bond</reverse-related>
             <reverse-related>Wren's Run Packmaster</reverse-related>
         </card>
@@ -4513,7 +4725,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text></text>
             <token>1</token>
             <reverse-related>Creakwood Liege</reverse-related>
-            <reverse-related>Worm Harvest</reverse-related>
+            <reverse-related count="x">Worm Harvest</reverse-related>
         </card>
         <card>
             <name>Wurm</name>
@@ -4528,8 +4740,8 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Crush of Wurms</reverse-related>
-            <reverse-related>Garruk, Primal Hunter</reverse-related>
+            <reverse-related count="3">Crush of Wurms</reverse-related>
+            <reverse-related count="x" exclude="exclude">Garruk, Primal Hunter</reverse-related>
             <reverse-related>Roar of the Wurm</reverse-related>
             <reverse-related>Wurmweaver Coil</reverse-related>
         </card>
@@ -4582,7 +4794,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
             <reverse-related>Advent of the Wurm</reverse-related>
             <reverse-related>Armada Wurm</reverse-related>
-            <reverse-related>Worldspine Wurm</reverse-related>
+            <reverse-related count="3">Worldspine Wurm</reverse-related>
         </card>
         <card>
             <name>Wurm     </name>
@@ -4649,69 +4861,71 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text></text>
             <token>1</token>
             <reverse-related>Archdemon of Unx</reverse-related>
-            <reverse-related>Army of the Damned</reverse-related>
+            <reverse-related count="13">Army of the Damned</reverse-related>
             <reverse-related>Assemble the Rank and Vile</reverse-related>
             <reverse-related>Bridge from Below</reverse-related>
             <reverse-related>Cellar Door</reverse-related>
             <reverse-related>Cemetery Reaper</reverse-related>
+            <reverse-related>Cradle of the Accursed</reverse-related>
             <reverse-related>Cryptbreaker</reverse-related>
             <reverse-related>Curse of Shallow Graves</reverse-related>
-            <reverse-related>Dark Salvation</reverse-related>
+            <reverse-related count="x">Dark Salvation</reverse-related>
             <reverse-related>Diregraf Colossus</reverse-related>
+            <reverse-related>Doomed Dissenter</reverse-related>
             <reverse-related>Drana's Chosen</reverse-related>
-            <reverse-related>Dread Summons</reverse-related>
+            <reverse-related count="x">Dread Summons</reverse-related>
             <reverse-related>Drunau Corpse Trawler</reverse-related>
-            <reverse-related>Empty the Pits</reverse-related>
-            <reverse-related>Endless Ranks of the Dead</reverse-related>
+            <reverse-related count="x">Empty the Pits</reverse-related>
+            <reverse-related count="x">Endless Ranks of the Dead</reverse-related>
             <reverse-related>Feast or Famine</reverse-related>
-            <reverse-related>From Under the Floorboards</reverse-related>
-            <reverse-related>Ghoulcaller Gisa</reverse-related>
+            <reverse-related count="3">From Under the Floorboards</reverse-related>
+            <reverse-related count="x" exclude="exclude">From Under the Floorboards</reverse-related>
+            <reverse-related count="x">Ghoulcaller Gisa</reverse-related>
             <reverse-related>Ghoulcaller's Accomplice</reverse-related>
-            <reverse-related>Gisa's Bidding</reverse-related>
+            <reverse-related count="2">Gisa's Bidding</reverse-related>
             <reverse-related>Graf Harvest</reverse-related>
-            <reverse-related>Grave Titan</reverse-related>
+            <reverse-related count="2">Grave Titan</reverse-related>
             <reverse-related>Grixis Slavedriver</reverse-related>
             <reverse-related>Havengul Runebinder</reverse-related>
             <reverse-related>Kalitas, Traitor of Ghet</reverse-related>
             <reverse-related>Lair of the Ashen Idol</reverse-related>
+            <reverse-related count="2">Liliana's Mastery</reverse-related>
             <reverse-related>Liliana's Reaver</reverse-related>
+            <reverse-related>Liliana, Death's Majesty</reverse-related>
             <reverse-related>Liliana, Heretical Healer</reverse-related>
-            <reverse-related>Liliana, the Last Hope</reverse-related>
-            <reverse-related>Maalfeld Twins</reverse-related>
-            <reverse-related>Midnight Ritual</reverse-related>
-            <reverse-related>Moan of the Unhallowed</reverse-related>
-            <reverse-related>Necromancer's Covenant</reverse-related>
+            <reverse-related count="x">Liliana, the Last Hope</reverse-related>
+            <reverse-related count="2">Maalfeld Twins</reverse-related>
+            <reverse-related count="x">Midnight Ritual</reverse-related>
+            <reverse-related count="2">Moan of the Unhallowed</reverse-related>
+            <reverse-related count="x">Necromancer's Covenant</reverse-related>
             <reverse-related>Necromancer's Stockpile</reverse-related>
             <reverse-related>Necromaster Dragon</reverse-related>
             <reverse-related>Nested Ghoul</reverse-related>
+            <reverse-related>Never // Return</reverse-related>
             <reverse-related>Noosegraf Mob</reverse-related>
             <reverse-related>Null Caller</reverse-related>
             <reverse-related>Oath of Liliana</reverse-related>
             <reverse-related>Overseer of the Damned</reverse-related>
-            <reverse-related>Rakshasa Gravecaller</reverse-related>
+            <reverse-related count="2">Rakshasa Gravecaller</reverse-related>
             <reverse-related>Reap the Seagraf</reverse-related>
-            <reverse-related>Rise from the Tides</reverse-related>
+            <reverse-related count="x">Rise from the Tides</reverse-related>
             <reverse-related>Rotlung Reanimator</reverse-related>
-            <reverse-related>Rotted Ones, Lay Siege</reverse-related>
+            <reverse-related count="x">Rotted Ones, Lay Siege</reverse-related>
             <reverse-related>Sarcomancy</reverse-related>
             <reverse-related>Shamble Back</reverse-related>
             <reverse-related>Sidisi, Brood Tyrant</reverse-related>
-            <reverse-related>Syphon Flesh</reverse-related>
+            <reverse-related count="3">Stir the Sands</reverse-related>
+            <reverse-related>Stir the Sands</reverse-related>
+            <reverse-related count="x">Syphon Flesh</reverse-related>
             <reverse-related>The Fourth Sphere</reverse-related>
             <reverse-related>Undead Alchemist</reverse-related>
-            <reverse-related>Undead Servant</reverse-related>
+            <reverse-related count="x">Undead Servant</reverse-related>
             <reverse-related>Unscythe, Killer of Kings</reverse-related>
             <reverse-related>Vile Rebirth</reverse-related>
             <reverse-related>Wakedancer</reverse-related>
             <reverse-related>Waste Not</reverse-related>
             <reverse-related>Xathrid Necromancer</reverse-related>
             <reverse-related>Zombie Infestation</reverse-related>
-            <reverse-related>Cradle of the Accursed</reverse-related>
-            <reverse-related>Doomed Dissenter</reverse-related>
-            <reverse-related>Liliana's Mastery</reverse-related>
-            <reverse-related>Liliana, Death's Majesty</reverse-related>
-            <reverse-related>Never // Return</reverse-related>
-            <reverse-related>Stir the Sands</reverse-related>
         </card>
         <card>
             <name>Zombie </name>
@@ -4795,7 +5009,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>If a source would deal damage to you or a planeswalker you control, prevent all but 1 of that damage.</text>
             <token>1</token>
-            <reverse-related>Ajani Steadfast</reverse-related>
+            <reverse-related exclude="exclude">Ajani Steadfast</reverse-related>
         </card>
         <card>
             <name>Arlinn Kord (emblem)</name>
@@ -4805,8 +5019,8 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Creatures you control have haste and "{T}: This creature deals damage equal to its power to target creature or player."</text>
             <token>1</token>
-            <reverse-related>Arlinn Kord</reverse-related>
-            <reverse-related>Arlinn, Embraced by the Moon</reverse-related>
+            <reverse-related exclude="exclude">Arlinn Kord</reverse-related>
+            <reverse-related exclude="exclude">Arlinn, Embraced by the Moon</reverse-related>
         </card>
         <card>
             <name>Chandra, Roaring Flame (emblem)</name>
@@ -4816,7 +5030,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>At the beginning of your upkeep, this emblem deals 3 damage to you.</text>
             <token>1</token>
-            <reverse-related>Chandra, Roaring Flame</reverse-related>
+            <reverse-related exclude="exclude">Chandra, Roaring Flame</reverse-related>
         </card>
         <card>
             <name>Chandra, Torch of Defiance (emblem)</name>
@@ -4826,7 +5040,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Whenever you cast a spell, this emblem deals 5 damage to target creature or player.</text>
             <token>1</token>
-            <reverse-related>Chandra, Torch of Defiance</reverse-related>
+            <reverse-related exclude="exclude">Chandra, Torch of Defiance</reverse-related>
         </card>
         <card>
             <name>Dack Fayden (emblem)</name>
@@ -4837,7 +5051,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Whenever you cast a spell that targets one or more permanents, gain control of those permanents.</text>
             <token>1</token>
-            <reverse-related>Dack Fayden</reverse-related>
+            <reverse-related exclude="exclude">Dack Fayden</reverse-related>
         </card>
         <card>
             <name>Daretti, Scrap Savant (emblem)</name>
@@ -4848,7 +5062,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Whenever an artifact is put into your graveyard from the battlefield, return that card to the battlefield at the beginning of the next end step.</text>
             <token>1</token>
-            <reverse-related>Daretti, Scrap Savant</reverse-related>
+            <reverse-related exclude="exclude">Daretti, Scrap Savant</reverse-related>
         </card>
         <card>
             <name>Domri Rade (emblem)</name>
@@ -4859,7 +5073,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Creatures you control have double strike, trample, hexproof, and haste.</text>
             <token>1</token>
-            <reverse-related>Domri Rade</reverse-related>
+            <reverse-related exclude="exclude">Domri Rade</reverse-related>
         </card>
         <card>
             <name>Dovin Baan (emblem)</name>
@@ -4869,7 +5083,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Your opponents can't untap more than two permanents during their untap steps.</text>
             <token>1</token>
-            <reverse-related>Dovin Baan</reverse-related>
+            <reverse-related exclude="exclude">Dovin Baan</reverse-related>
         </card>
         <card>
             <name>Elspeth, Knight-Errant (emblem)</name>
@@ -4880,7 +5094,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Artifacts, creatures, enchantments, and lands you control have indestructible.</text>
             <token>1</token>
-            <reverse-related>Elspeth, Knight-Errant</reverse-related>
+            <reverse-related exclude="exclude">Elspeth, Knight-Errant</reverse-related>
         </card>
         <card>
             <name>Elspeth, Sun's Champion (emblem)</name>
@@ -4890,7 +5104,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Creatures you control get +2/+2 and have flying.</text>
             <token>1</token>
-            <reverse-related>Elspeth, Sun's Champion</reverse-related>
+            <reverse-related exclude="exclude">Elspeth, Sun's Champion</reverse-related>
         </card>
         <card>
             <name>Garruk, Caller of Beasts (emblem)</name>
@@ -4900,7 +5114,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle your library.</text>
             <token>1</token>
-            <reverse-related>Garruk, Caller of Beasts</reverse-related>
+            <reverse-related exclude="exclude">Garruk, Caller of Beasts</reverse-related>
         </card>
         <card>
             <name>Garruk, Apex Predator (emblem)</name>
@@ -4910,7 +5124,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Whenever a creature attacks you, it gets +5/+5 and gains trample until end of turn.</text>
             <token>1</token>
-            <reverse-related>Garruk, Apex Predator</reverse-related>
+            <reverse-related exclude="exclude">Garruk, Apex Predator</reverse-related>
         </card>
         <card>
             <name>Gideon of the Trials (emblem)</name>
@@ -4920,7 +5134,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>As long as you control a Gideon planeswalker, you can't lose the game and your opponents can't win the game.</text>
             <token>1</token>
-            <reverse-related>Gideon of the Trials</reverse-related>
+            <reverse-related exclude="exclude">Gideon of the Trials</reverse-related>
         </card>
         <card>
             <name>Gideon, Ally of Zendikar (emblem)</name>
@@ -4930,7 +5144,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Creatures you control get +1/+1.</text>
             <token>1</token>
-            <reverse-related>Gideon, Ally of Zendikar</reverse-related>
+            <reverse-related exclude="exclude">Gideon, Ally of Zendikar</reverse-related>
         </card>
         <card>
             <name>Jace, Telepath Unbound (emblem)</name>
@@ -4940,7 +5154,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Whenever you cast a spell, target opponent puts the top five cards of his or her library into his or her graveyard.</text>
             <token>1</token>
-            <reverse-related>Jace, Telepath Unbound</reverse-related>
+            <reverse-related exclude="exclude">Jace, Telepath Unbound</reverse-related>
         </card>
         <card>
             <name>Jace, Unraveler of Secrets (emblem)</name>
@@ -4950,7 +5164,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Whenever an opponent casts his or her first spell each turn, counter that spell.</text>
             <token>1</token>
-            <reverse-related>Jace, Unraveler of Secrets</reverse-related>
+            <reverse-related exclude="exclude">Jace, Unraveler of Secrets</reverse-related>
         </card>
         <card>
             <name>Kiora, the Crashing Wave (emblem)</name>
@@ -4960,8 +5174,8 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>At the beginning of your end step, create a 9/9 blue Kraken creature token.</text>
             <token>1</token>
-            <related>Kraken</related>            
-            <reverse-related>Kiora, the Crashing Wave</reverse-related>
+            <related>Kraken</related>
+            <reverse-related exclude="exclude">Kiora, the Crashing Wave</reverse-related>
         </card>
         <card>
             <name>Kiora, Master of the Depths (emblem)</name>
@@ -4971,7 +5185,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Whenever a creature enters the battlefield under your control, you may have it fight target creature.</text>
             <token>1</token>
-            <reverse-related>Kiora, Master of the Depths</reverse-related>
+            <reverse-related exclude="exclude">Kiora, Master of the Depths</reverse-related>
         </card>
         <card>
             <name>Koth of the Hammer (emblem)</name>
@@ -4981,7 +5195,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Mountains you control have 'Tap: This land deals 1 damage to target creature or player.'</text>
             <token>1</token>
-            <reverse-related>Koth of the Hammer</reverse-related>
+            <reverse-related exclude="exclude">Koth of the Hammer</reverse-related>
         </card>
         <card>
             <name>Liliana of the Dark Realms (emblem)</name>
@@ -4992,7 +5206,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Swamps you control have 'Tap: Add {B}{B}{B}{B} to your mana pool.'</text>
             <token>1</token>
-            <reverse-related>Liliana of the Dark Realms</reverse-related>
+            <reverse-related exclude="exclude">Liliana of the Dark Realms</reverse-related>
         </card>
         <card>
             <name>Liliana, Defiant Necromancer (emblem)</name>
@@ -5002,7 +5216,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Whenever a creature dies, return it to the battlefield under your control at the beginning of the next end step.</text>
             <token>1</token>
-            <reverse-related>Liliana, Defiant Necromancer</reverse-related>
+            <reverse-related exclude="exclude">Liliana, Defiant Necromancer</reverse-related>
         </card>
         <card>
             <name>Liliana, the Last Hope (emblem)</name>
@@ -5013,7 +5227,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>At the beginning of your end step, create X 2/2 black Zombie creature tokens, where X is two plus the number of Zombies you control.</text>
             <token>1</token>
             <related>Zombie</related>
-            <reverse-related>Liliana, the Last Hope</reverse-related>
+            <reverse-related exclude="exclude">Liliana, the Last Hope</reverse-related>
         </card>
         <card>
             <name>Narset Transcendent (emblem)</name>
@@ -5023,7 +5237,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Your opponents can't cast noncreature spells.</text>
             <token>1</token>
-            <reverse-related>Narset Transcendent</reverse-related>
+            <reverse-related exclude="exclude">Narset Transcendent</reverse-related>
         </card>
         <card>
             <name>Nissa, Vital Force (emblem)</name>
@@ -5033,7 +5247,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Whenever a land enters the battlefield under your control, you may draw a card.</text>
             <token>1</token>
-            <reverse-related>Nissa, Vital Force</reverse-related>
+            <reverse-related exclude="exclude">Nissa, Vital Force</reverse-related>
         </card>
         <card>
             <name>Ob Nixilis of the Black Oath (emblem)</name>
@@ -5043,7 +5257,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>{1}{B}, Sacrifice a creature: You gain X life and draw X cards, where X is the sacrificed creature's power.</text>
             <token>1</token>
-            <reverse-related>Ob Nixilis of the Black Oath</reverse-related>
+            <reverse-related exclude="exclude">Ob Nixilis of the Black Oath</reverse-related>
         </card>
         <card>
             <name>Ob Nixilis Reignited (emblem)</name>
@@ -5053,7 +5267,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
             <text>Whenever a player draws a card, you lose 2 life.</text>
             <token>1</token>
-            <reverse-related>Ob Nixilis Reignited</reverse-related>
+            <reverse-related exclude="exclude">Ob Nixilis Reignited</reverse-related>
         </card>
         <card>
             <name>Sarkhan, the Dragonspeaker (emblem)</name>
@@ -5064,7 +5278,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>At the beginning of your draw step, draw two additional cards.
 At the beginning of your end step, discard your hand.</text>
             <token>1</token>
-            <reverse-related>Sarkhan, the Dragonspeaker</reverse-related>
+            <reverse-related exclude="exclude">Sarkhan, the Dragonspeaker</reverse-related>
         </card>
         <card>
             <name>Sorin, Lord of Innistrad (emblem)</name>
@@ -5074,7 +5288,7 @@ At the beginning of your end step, discard your hand.</text>
             <tablerow>1</tablerow>
             <text>Creatures you control get +1/+0.</text>
             <token>1</token>
-            <reverse-related>Sorin, Lord of Innistrad</reverse-related>
+            <reverse-related exclude="exclude">Sorin, Lord of Innistrad</reverse-related>
         </card>
         <card>
             <name>Sorin, Solemn Visitor (emblem)</name>
@@ -5084,7 +5298,7 @@ At the beginning of your end step, discard your hand.</text>
             <tablerow>1</tablerow>
             <text>At the beginning of each opponent's upkeep, that player sacrifices a creature.</text>
             <token>1</token>
-            <reverse-related>Sorin, Solemn Visitor</reverse-related>
+            <reverse-related exclude="exclude">Sorin, Solemn Visitor</reverse-related>
         </card>
         <card>
             <name>Tamiyo, Field Researcher (emblem)</name>
@@ -5094,7 +5308,7 @@ At the beginning of your end step, discard your hand.</text>
             <tablerow>1</tablerow>
             <text>You may cast nonland cards from your hand without paying their mana costs.</text>
             <token>1</token>
-            <reverse-related>Tamiyo, Field Researcher</reverse-related>
+            <reverse-related exclude="exclude">Tamiyo, Field Researcher</reverse-related>
         </card>
         <card>
             <name>Tamiyo, the Moon Sage (emblem)</name>
@@ -5105,7 +5319,7 @@ At the beginning of your end step, discard your hand.</text>
             <text>You have no maximum hand size.
 Whenever a card is put into your graveyard from anywhere, you may return it to your hand.</text>
             <token>1</token>
-            <reverse-related>Tamiyo, the Moon Sage</reverse-related>
+            <reverse-related exclude="exclude">Tamiyo, the Moon Sage</reverse-related>
         </card>
         <card>
             <name>Teferi, Temporal Archmage (emblem)</name>
@@ -5115,7 +5329,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <tablerow>1</tablerow>
             <text>You may activate loyalty abilities of planeswalkers you control on any player's turn any time you could cast an instant.</text>
             <token>1</token>
-            <reverse-related>Teferi, Temporal Archmage</reverse-related>
+            <reverse-related exclude="exclude">Teferi, Temporal Archmage</reverse-related>
         </card>
         <card>
             <name>Tezzeret the Schemer (emblem)</name>
@@ -5125,7 +5339,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <tablerow>1</tablerow>
             <text>At the beginning of combat on your turn, target artifact you control becomes an artifact creature with base power and toughness 5/5.</text>
             <token>1</token>
-            <reverse-related>Tezzeret the Schemer</reverse-related>
+            <reverse-related exclude="exclude">Tezzeret the Schemer</reverse-related>
         </card>
         <card>
             <name>Venser, the Sojourner (emblem)</name>
@@ -5135,7 +5349,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <tablerow>1</tablerow>
             <text>Whenever you cast a spell, exile target permanent.</text>
             <token>1</token>
-            <reverse-related>Venser, the Sojourner</reverse-related>
+            <reverse-related exclude="exclude">Venser, the Sojourner</reverse-related>
         </card>
         <card>
             <name>Energy Reserve</name>
@@ -5145,76 +5359,76 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <tablerow>1</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Aether Hub</reverse-related>
-            <reverse-related>Aether Meltdown</reverse-related>
-            <reverse-related>Aether Theorist</reverse-related>
-            <reverse-related>Aethersquall Ancient</reverse-related>
-            <reverse-related>Aetherstorm Roc</reverse-related>
-            <reverse-related>Aethertorch Renegade</reverse-related>
-            <reverse-related>Aetherworks Marvel</reverse-related>
-            <reverse-related>Architect of the Untamed</reverse-related>
-            <reverse-related>Attune with Aether</reverse-related>
-            <reverse-related>Bristling Hydra</reverse-related>
-            <reverse-related>Confiscation Coup</reverse-related>
-            <reverse-related>Consul's Shieldguard</reverse-related>
-            <reverse-related>Consulate Surveillance</reverse-related>
-            <reverse-related>Deadlock Trap</reverse-related>
-            <reverse-related>Decoction Module</reverse-related>
-            <reverse-related>Demon of Dark Schemes</reverse-related>
-            <reverse-related>Die Young</reverse-related>
-            <reverse-related>Dynavolt Tower</reverse-related>
-            <reverse-related>Eddytrail Hawk</reverse-related>
-            <reverse-related>Electrostatic Pummeler</reverse-related>
-            <reverse-related>Empyreal Voyager</reverse-related>
-            <reverse-related>Era of Innovation</reverse-related>
-            <reverse-related>Fabrication Module</reverse-related>
-            <reverse-related>Glassblower's Puzzleknot</reverse-related>
-            <reverse-related>Glimmer of Genius</reverse-related>
-            <reverse-related>Harnessed Lightning</reverse-related>
-            <reverse-related>Hightide Hermit</reverse-related>
-            <reverse-related>Janjeet Sentry</reverse-related>
-            <reverse-related>Lathnu Hellion</reverse-related>
-            <reverse-related>Live Fast</reverse-related>
-            <reverse-related>Longtusk Cub</reverse-related>
-            <reverse-related>Maulfist Doorbuster</reverse-related>
-            <reverse-related>Minister of Inquiries</reverse-related>
-            <reverse-related>Multiform Wonder</reverse-related>
-            <reverse-related>Riparian Tiger</reverse-related>
-            <reverse-related>Sage of Shaila's Claim</reverse-related>
-            <reverse-related>Servant of the Conduit</reverse-related>
-            <reverse-related>Spontaneous Artist</reverse-related>
-            <reverse-related>Territorial Gorger</reverse-related>
-            <reverse-related>Thriving Grubs</reverse-related>
-            <reverse-related>Thriving Ibex</reverse-related>
-            <reverse-related>Thriving Rats</reverse-related>
-            <reverse-related>Thriving Rhino</reverse-related>
-            <reverse-related>Thriving Turtle</reverse-related>
-            <reverse-related>Voltaic Brawler</reverse-related>
-            <reverse-related>Whirler Virtuoso</reverse-related>
-            <reverse-related>Woodweaver's Puzzleknot</reverse-related>
-            <reverse-related>Aether Chaser</reverse-related>
-            <reverse-related>Aether Herder</reverse-related>
-            <reverse-related>Aether Inspector</reverse-related>
-            <reverse-related>Aether Poisoner</reverse-related>
-            <reverse-related>Aether Swooper</reverse-related>
-            <reverse-related>Aethergeode Miner</reverse-related>
-            <reverse-related>Aethersphere Harvester</reverse-related>
-            <reverse-related>Aetherstream Leopard</reverse-related>
-            <reverse-related>Aethertide Whale</reverse-related>
-            <reverse-related>Aetherwind Basker</reverse-related>
-            <reverse-related>Consulate Turret</reverse-related>
-            <reverse-related>Glint-Sleeve Siphoner</reverse-related>
-            <reverse-related>Gonti's Aether Heart</reverse-related>
-            <reverse-related>Gonti's Machinations</reverse-related>
-            <reverse-related>Greenbelt Rampager</reverse-related>
-            <reverse-related>Highspire Infusion</reverse-related>
-            <reverse-related>Lightning Runner</reverse-related>
-            <reverse-related>Peema Aether-Seer</reverse-related>
-            <reverse-related>Reservoir Walker</reverse-related>
-            <reverse-related>Rogue Refiner</reverse-related>
-            <reverse-related>Scrapper Champion</reverse-related>
-            <reverse-related>Shielded Aether Thief</reverse-related>
-            <reverse-related>Shipwreck Moray</reverse-related>
+            <reverse-related exclude="exclude">Aether Chaser</reverse-related>
+            <reverse-related exclude="exclude">Aether Herder</reverse-related>
+            <reverse-related exclude="exclude">Aether Hub</reverse-related>
+            <reverse-related exclude="exclude">Aether Inspector</reverse-related>
+            <reverse-related exclude="exclude">Aether Meltdown</reverse-related>
+            <reverse-related exclude="exclude">Aether Poisoner</reverse-related>
+            <reverse-related exclude="exclude">Aether Swooper</reverse-related>
+            <reverse-related exclude="exclude">Aether Theorist</reverse-related>
+            <reverse-related exclude="exclude">Aethergeode Miner</reverse-related>
+            <reverse-related exclude="exclude">Aethersphere Harvester</reverse-related>
+            <reverse-related exclude="exclude">Aethersquall Ancient</reverse-related>
+            <reverse-related exclude="exclude">Aetherstorm Roc</reverse-related>
+            <reverse-related exclude="exclude">Aetherstream Leopard</reverse-related>
+            <reverse-related exclude="exclude">Aethertide Whale</reverse-related>
+            <reverse-related exclude="exclude">Aethertorch Renegade</reverse-related>
+            <reverse-related exclude="exclude">Aetherwind Basker</reverse-related>
+            <reverse-related exclude="exclude">Aetherworks Marvel</reverse-related>
+            <reverse-related exclude="exclude">Architect of the Untamed</reverse-related>
+            <reverse-related exclude="exclude">Attune with Aether</reverse-related>
+            <reverse-related exclude="exclude">Bristling Hydra</reverse-related>
+            <reverse-related exclude="exclude">Confiscation Coup</reverse-related>
+            <reverse-related exclude="exclude">Consul's Shieldguard</reverse-related>
+            <reverse-related exclude="exclude">Consulate Surveillance</reverse-related>
+            <reverse-related exclude="exclude">Consulate Turret</reverse-related>
+            <reverse-related exclude="exclude">Deadlock Trap</reverse-related>
+            <reverse-related exclude="exclude">Decoction Module</reverse-related>
+            <reverse-related exclude="exclude">Demon of Dark Schemes</reverse-related>
+            <reverse-related exclude="exclude">Die Young</reverse-related>
+            <reverse-related exclude="exclude">Dynavolt Tower</reverse-related>
+            <reverse-related exclude="exclude">Eddytrail Hawk</reverse-related>
+            <reverse-related exclude="exclude">Electrostatic Pummeler</reverse-related>
+            <reverse-related exclude="exclude">Empyreal Voyager</reverse-related>
+            <reverse-related exclude="exclude">Era of Innovation</reverse-related>
+            <reverse-related exclude="exclude">Fabrication Module</reverse-related>
+            <reverse-related exclude="exclude">Glassblower's Puzzleknot</reverse-related>
+            <reverse-related exclude="exclude">Glimmer of Genius</reverse-related>
+            <reverse-related exclude="exclude">Glint-Sleeve Siphoner</reverse-related>
+            <reverse-related exclude="exclude">Gonti's Aether Heart</reverse-related>
+            <reverse-related exclude="exclude">Gonti's Machinations</reverse-related>
+            <reverse-related exclude="exclude">Greenbelt Rampager</reverse-related>
+            <reverse-related exclude="exclude">Harnessed Lightning</reverse-related>
+            <reverse-related exclude="exclude">Highspire Infusion</reverse-related>
+            <reverse-related exclude="exclude">Hightide Hermit</reverse-related>
+            <reverse-related exclude="exclude">Janjeet Sentry</reverse-related>
+            <reverse-related exclude="exclude">Lathnu Hellion</reverse-related>
+            <reverse-related exclude="exclude">Lightning Runner</reverse-related>
+            <reverse-related exclude="exclude">Live Fast</reverse-related>
+            <reverse-related exclude="exclude">Longtusk Cub</reverse-related>
+            <reverse-related exclude="exclude">Maulfist Doorbuster</reverse-related>
+            <reverse-related exclude="exclude">Minister of Inquiries</reverse-related>
+            <reverse-related exclude="exclude">Multiform Wonder</reverse-related>
+            <reverse-related exclude="exclude">Peema Aether-Seer</reverse-related>
+            <reverse-related exclude="exclude">Reservoir Walker</reverse-related>
+            <reverse-related exclude="exclude">Riparian Tiger</reverse-related>
+            <reverse-related exclude="exclude">Rogue Refiner</reverse-related>
+            <reverse-related exclude="exclude">Sage of Shaila's Claim</reverse-related>
+            <reverse-related exclude="exclude">Scrapper Champion</reverse-related>
+            <reverse-related exclude="exclude">Servant of the Conduit</reverse-related>
+            <reverse-related exclude="exclude">Shielded Aether Thief</reverse-related>
+            <reverse-related exclude="exclude">Shipwreck Moray</reverse-related>
+            <reverse-related exclude="exclude">Spontaneous Artist</reverse-related>
+            <reverse-related exclude="exclude">Territorial Gorger</reverse-related>
+            <reverse-related exclude="exclude">Thriving Grubs</reverse-related>
+            <reverse-related exclude="exclude">Thriving Ibex</reverse-related>
+            <reverse-related exclude="exclude">Thriving Rats</reverse-related>
+            <reverse-related exclude="exclude">Thriving Rhino</reverse-related>
+            <reverse-related exclude="exclude">Thriving Turtle</reverse-related>
+            <reverse-related exclude="exclude">Voltaic Brawler</reverse-related>
+            <reverse-related exclude="exclude">Whirler Virtuoso</reverse-related>
+            <reverse-related exclude="exclude">Woodweaver's Puzzleknot</reverse-related>
         </card>
         <card>
             <name>Experience Counter</name>
@@ -5224,11 +5438,11 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <tablerow>1</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Daxos the Returned</reverse-related>
-            <reverse-related>Ezuri, Claw of Progress</reverse-related>
-            <reverse-related>Kalemne, Disciple of Iroas</reverse-related>
-            <reverse-related>Meren of Clan Nel Toth</reverse-related>
-            <reverse-related>Mizzix of the Izmagnus</reverse-related>
+            <reverse-related exclude="exclude">Daxos the Returned</reverse-related>
+            <reverse-related exclude="exclude">Ezuri, Claw of Progress</reverse-related>
+            <reverse-related exclude="exclude">Kalemne, Disciple of Iroas</reverse-related>
+            <reverse-related exclude="exclude">Meren of Clan Nel Toth</reverse-related>
+            <reverse-related exclude="exclude">Mizzix of the Izmagnus</reverse-related>
         </card>
         <card>
             <name>Poison Counter</name>
@@ -5240,85 +5454,85 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <tablerow>1</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Blackcleave Goblin</reverse-related>
-            <reverse-related>Blight Mamba</reverse-related>
-            <reverse-related>Blighted Agent</reverse-related>
-            <reverse-related>Blightsteel Colossus</reverse-related>
-            <reverse-related>Blightwidow</reverse-related>
-            <reverse-related>Caress of Phyrexia</reverse-related>
-            <reverse-related>Chained Throatseeker</reverse-related>
-            <reverse-related>Contagious Nim</reverse-related>
-            <reverse-related>Core Prowler</reverse-related>
-            <reverse-related>Corpse Cur</reverse-related>
-            <reverse-related>Corrupted Conscience</reverse-related>
-            <reverse-related>Crypt Cobra</reverse-related>
-            <reverse-related>Cystbearer</reverse-related>
-            <reverse-related>Decimator Web</reverse-related>
-            <reverse-related>Fallen Ferromancer</reverse-related>
-            <reverse-related>Flensermite</reverse-related>
-            <reverse-related>Flesh-Eater Imp</reverse-related>
-            <reverse-related>Glistener Elf</reverse-related>
-            <reverse-related>Glistening Oil</reverse-related>
-            <reverse-related>Grafted Exoskeleton</reverse-related>
-            <reverse-related>Hand of the Praetors</reverse-related>
-            <reverse-related>Ichor Rats</reverse-related>
-            <reverse-related>Ichorclaw Myr</reverse-related>
-            <reverse-related>Inkmoth Nexus</reverse-related>
-            <reverse-related>Insect</reverse-related>
-            <reverse-related>Lost Leonin</reverse-related>
-            <reverse-related>Marsh Viper</reverse-related>
-            <reverse-related>Necropede</reverse-related>
-            <reverse-related>Ogre Menial</reverse-related>
-            <reverse-related>Pestilent Souleater</reverse-related>
-            <reverse-related>Phyresis</reverse-related>
-            <reverse-related>Phyrexian Crusader</reverse-related>
-            <reverse-related>Phyrexian Digester</reverse-related>
-            <reverse-related>Phyrexian Hydra</reverse-related>
-            <reverse-related>Phyrexian Juggernaut</reverse-related>
-            <reverse-related>Phyrexian Swarmlord</reverse-related>
-            <reverse-related>Phyrexian Unlife</reverse-related>
-            <reverse-related>Phyrexian Vatmother</reverse-related>
-            <reverse-related>Pistus Strike</reverse-related>
-            <reverse-related>Pit Scorpion</reverse-related>
-            <reverse-related>Plague Myr</reverse-related>
-            <reverse-related>Plague Stinger</reverse-related>
-            <reverse-related>Priests of Norn</reverse-related>
-            <reverse-related>Putrefax</reverse-related>
-            <reverse-related>Razor Swine</reverse-related>
-            <reverse-related>Reaper of Sheoldred</reverse-related>
-            <reverse-related>Relic Putrescence</reverse-related>
-            <reverse-related>Rot Wolf</reverse-related>
-            <reverse-related>Sabertooth Cobra</reverse-related>
-            <reverse-related>Scourge Servant</reverse-related>
-            <reverse-related>Septic Rats</reverse-related>
-            <reverse-related>Shriek Raptor</reverse-related>
-            <reverse-related>Skithiryx, the Blight Dragon</reverse-related>
-            <reverse-related>Snake </reverse-related>
-            <reverse-related>Snake Cult Initiation</reverse-related>
-            <reverse-related>Spinebiter</reverse-related>
-            <reverse-related>Suq'Ata Assassin</reverse-related>
-            <reverse-related>Swamp Mosquito</reverse-related>
-            <reverse-related>Tainted Strike</reverse-related>
-            <reverse-related>Tangle Angler</reverse-related>
-            <reverse-related>Tel-Jilad Fallen</reverse-related>
-            <reverse-related>Tine Shrike</reverse-related>
-            <reverse-related>Toxic Nim</reverse-related>
-            <reverse-related>Triumph of the Hordes</reverse-related>
-            <reverse-related>Vector Asp</reverse-related>
-            <reverse-related>Viral Drake</reverse-related>
-            <reverse-related>Viridian Betrayers</reverse-related>
-            <reverse-related>Viridian Corrupter</reverse-related>
-            <reverse-related>Virulent Sliver</reverse-related>
-            <reverse-related>Virulent Wound</reverse-related>
-            <reverse-related>Whispering Specter</reverse-related>
-            <reverse-related>Burn the Impure</reverse-related>
-            <reverse-related>Carrion Call</reverse-related>
-            <reverse-related>Leeches</reverse-related>
-            <reverse-related>Melira, Sylvok Outcast</reverse-related>
-            <reverse-related>Mindcrank</reverse-related>
-            <reverse-related>Mycosynth Fiend</reverse-related>
-            <reverse-related>Serpent Generator</reverse-related>
-            <reverse-related>Trigon of Infestation</reverse-related>
+            <reverse-related exclude="exclude">Blackcleave Goblin</reverse-related>
+            <reverse-related exclude="exclude">Blight Mamba</reverse-related>
+            <reverse-related exclude="exclude">Blighted Agent</reverse-related>
+            <reverse-related exclude="exclude">Blightsteel Colossus</reverse-related>
+            <reverse-related exclude="exclude">Blightwidow</reverse-related>
+            <reverse-related exclude="exclude">Burn the Impure</reverse-related>
+            <reverse-related exclude="exclude">Caress of Phyrexia</reverse-related>
+            <reverse-related exclude="exclude">Carrion Call</reverse-related>
+            <reverse-related exclude="exclude">Chained Throatseeker</reverse-related>
+            <reverse-related exclude="exclude">Contagious Nim</reverse-related>
+            <reverse-related exclude="exclude">Core Prowler</reverse-related>
+            <reverse-related exclude="exclude">Corpse Cur</reverse-related>
+            <reverse-related exclude="exclude">Corrupted Conscience</reverse-related>
+            <reverse-related exclude="exclude">Crypt Cobra</reverse-related>
+            <reverse-related exclude="exclude">Cystbearer</reverse-related>
+            <reverse-related exclude="exclude">Decimator Web</reverse-related>
+            <reverse-related exclude="exclude">Fallen Ferromancer</reverse-related>
+            <reverse-related exclude="exclude">Flensermite</reverse-related>
+            <reverse-related exclude="exclude">Flesh-Eater Imp</reverse-related>
+            <reverse-related exclude="exclude">Glistener Elf</reverse-related>
+            <reverse-related exclude="exclude">Glistening Oil</reverse-related>
+            <reverse-related exclude="exclude">Grafted Exoskeleton</reverse-related>
+            <reverse-related exclude="exclude">Hand of the Praetors</reverse-related>
+            <reverse-related exclude="exclude">Ichor Rats</reverse-related>
+            <reverse-related exclude="exclude">Ichorclaw Myr</reverse-related>
+            <reverse-related exclude="exclude">Inkmoth Nexus</reverse-related>
+            <reverse-related exclude="exclude">Insect</reverse-related>
+            <reverse-related exclude="exclude">Leeches</reverse-related>
+            <reverse-related exclude="exclude">Lost Leonin</reverse-related>
+            <reverse-related exclude="exclude">Marsh Viper</reverse-related>
+            <reverse-related exclude="exclude">Melira, Sylvok Outcast</reverse-related>
+            <reverse-related exclude="exclude">Mindcrank</reverse-related>
+            <reverse-related exclude="exclude">Mycosynth Fiend</reverse-related>
+            <reverse-related exclude="exclude">Necropede</reverse-related>
+            <reverse-related exclude="exclude">Ogre Menial</reverse-related>
+            <reverse-related exclude="exclude">Pestilent Souleater</reverse-related>
+            <reverse-related exclude="exclude">Phyresis</reverse-related>
+            <reverse-related exclude="exclude">Phyrexian Crusader</reverse-related>
+            <reverse-related exclude="exclude">Phyrexian Digester</reverse-related>
+            <reverse-related exclude="exclude">Phyrexian Hydra</reverse-related>
+            <reverse-related exclude="exclude">Phyrexian Juggernaut</reverse-related>
+            <reverse-related exclude="exclude">Phyrexian Swarmlord</reverse-related>
+            <reverse-related exclude="exclude">Phyrexian Unlife</reverse-related>
+            <reverse-related exclude="exclude">Phyrexian Vatmother</reverse-related>
+            <reverse-related exclude="exclude">Pistus Strike</reverse-related>
+            <reverse-related exclude="exclude">Pit Scorpion</reverse-related>
+            <reverse-related exclude="exclude">Plague Myr</reverse-related>
+            <reverse-related exclude="exclude">Plague Stinger</reverse-related>
+            <reverse-related exclude="exclude">Priests of Norn</reverse-related>
+            <reverse-related exclude="exclude">Putrefax</reverse-related>
+            <reverse-related exclude="exclude">Razor Swine</reverse-related>
+            <reverse-related exclude="exclude">Reaper of Sheoldred</reverse-related>
+            <reverse-related exclude="exclude">Relic Putrescence</reverse-related>
+            <reverse-related exclude="exclude">Rot Wolf</reverse-related>
+            <reverse-related exclude="exclude">Sabertooth Cobra</reverse-related>
+            <reverse-related exclude="exclude">Scourge Servant</reverse-related>
+            <reverse-related exclude="exclude">Septic Rats</reverse-related>
+            <reverse-related exclude="exclude">Serpent Generator</reverse-related>
+            <reverse-related exclude="exclude">Shriek Raptor</reverse-related>
+            <reverse-related exclude="exclude">Skithiryx, the Blight Dragon</reverse-related>
+            <reverse-related exclude="exclude">Snake </reverse-related>
+            <reverse-related exclude="exclude">Snake Cult Initiation</reverse-related>
+            <reverse-related exclude="exclude">Spinebiter</reverse-related>
+            <reverse-related exclude="exclude">Suq'Ata Assassin</reverse-related>
+            <reverse-related exclude="exclude">Swamp Mosquito</reverse-related>
+            <reverse-related exclude="exclude">Tainted Strike</reverse-related>
+            <reverse-related exclude="exclude">Tangle Angler</reverse-related>
+            <reverse-related exclude="exclude">Tel-Jilad Fallen</reverse-related>
+            <reverse-related exclude="exclude">Tine Shrike</reverse-related>
+            <reverse-related exclude="exclude">Toxic Nim</reverse-related>
+            <reverse-related exclude="exclude">Trigon of Infestation</reverse-related>
+            <reverse-related exclude="exclude">Triumph of the Hordes</reverse-related>
+            <reverse-related exclude="exclude">Vector Asp</reverse-related>
+            <reverse-related exclude="exclude">Viral Drake</reverse-related>
+            <reverse-related exclude="exclude">Viridian Betrayers</reverse-related>
+            <reverse-related exclude="exclude">Viridian Corrupter</reverse-related>
+            <reverse-related exclude="exclude">Virulent Sliver</reverse-related>
+            <reverse-related exclude="exclude">Virulent Wound</reverse-related>
+            <reverse-related exclude="exclude">Whispering Specter</reverse-related>
         </card>
         <card>
             <name>The Monarch</name>
