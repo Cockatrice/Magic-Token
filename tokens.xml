@@ -659,6 +659,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
             <text>Lifelink</text>
             <token>1</token>
+            <reverse-related count="2">Pride Sovereign</reverse-related>
             <reverse-related count="2">Regal Caracal</reverse-related>
         </card>
         <card>
@@ -4868,6 +4869,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Drana's Chosen</reverse-related>
             <reverse-related count="x">Dread Summons</reverse-related>
             <reverse-related>Drunau Corpse Trawler</reverse-related>
+            <reverse-related>Dunes of the Dead</reverse-related>
             <reverse-related count="x">Empty the Pits</reverse-related>
             <reverse-related count="x">Endless Ranks of the Dead</reverse-related>
             <reverse-related>Feast or Famine</reverse-related>
