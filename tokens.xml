@@ -225,6 +225,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Bat</name>
+            <set picURL="http://media.wizards.com/2017/c17/en_ZFLPIGrCB6.png">C17</set>
             <set picURL="http://magiccards.info/extras/token/modern-masters/bat.jpg">MMA</set>
             <color>B</color>
             <cmc>0</cmc>
@@ -611,6 +612,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Cat</name>
+            <set picURL="http://media.wizards.com/2017/c17/en_HtuDJUhFfD.png">C17</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_yUL1MXcDyV.png">C15</set>
             <set picURL="http://magiccards.info/extras/token/commander-2014/cat.jpg">C14</set>
             <set picURL="http://magiccards.info/extras/token/magic-2014/cat.jpg">M14</set>
@@ -663,6 +665,20 @@ Creature tokens you control have flying and vigilance.</text>
             <reverse-related count="2">Regal Caracal</reverse-related>
         </card>
         <card>
+            <name>Cat Dragon</name>
+            <set picURL="http://media.wizards.com/2017/c17/en_HtuDJUhFfD.png">C17</set>
+            <color>B</color>
+            <color>R</color>
+            <color>G</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Cat Dragon</type>
+            <pt>3/3</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+            <reverse-related>Wasitora, Nekoru Queen</reverse-related>
+        </card>
+        <card>
             <name>Cat Soldier</name>
             <set picURL="http://magiccards.info/extras/token/born-of-the-gods/cat-soldier.jpg">BNG</set>
             <color>W</color>
@@ -677,6 +693,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Cat Warrior</name>
+            <set picURL="http://media.wizards.com/2017/c17/en_jwlAZwv0U5.png">C17</set>
             <set picURL="http://cdn.staticneo.com/w/mtg/2/2d/Cat_Warrior.jpg">PLC</set>
             <color>G</color>
             <cmc>0</cmc>
@@ -977,6 +994,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Dragon  </name>
+            <set picURL="http://media.wizards.com/2017/c17/en_ZFbcBMu8c4.png">C17</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_TKuSkyDBa4.png">MM3</set>
             <set picURL="http://magiccards.info/extras/token/dragons-of-tarkir/dragon.jpg">DTK</set>
             <set picURL="http://magiccards.info/extras/token/modern-masters/dragon.jpg">MMA</set>
@@ -1009,6 +1027,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Dragon   </name>
+            <set picURL="http://media.wizards.com/2017/c17/en_4lYKRIzRuS.png">C17</set>
             <set picURL="http://magiccards.info/extras/token/return-to-ravnica/dragon.jpg">RTR</set>
             <color>R</color>
             <cmc>0</cmc>
@@ -1184,6 +1203,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Eldrazi Spawn</name>
+            <set picURL="http://media.wizards.com/2017/c17/en_bFYnM2Jm7i.png">C17</set>
             <set picURL="http://magiccards.info/extras/token/modern-masters-2015/eldrazi-spawn-1.jpg">MM2</set>
             <set picURL="http://magiccards.info/extras/token/modern-masters-2015/eldrazi-spawn-2.jpg">MM2</set>
             <set picURL="http://magiccards.info/extras/token/modern-masters-2015/eldrazi-spawn-3.jpg">MM2</set>
@@ -1934,6 +1954,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Gold</name>
+            <set picURL="http://media.wizards.com/2017/c17/en_bFYnM2Jm7i.png">C17</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_tqOTRxQqlD.png">C15</set>
             <set picURL="http://magiccards.info/extras/token/born-of-the-gods/gold.jpg">BNG</set>
             <cmc>0</cmc>
@@ -1941,6 +1962,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>1</tablerow>
             <text>Sacrifice this artifact: Add one mana of any color to your mana pool.</text>
             <token>1</token>
+            <reverse-related>Curse of Opulence</reverse-related>
             <reverse-related>Gild</reverse-related>
             <reverse-related>King Macar, the Gold-Cursed</reverse-related>
         </card>
@@ -3296,6 +3318,18 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related count="x">Plague of Vermin</reverse-related>
         </card>
         <card>
+            <name>Rat </name>
+            <set picURL="http://media.wizards.com/2017/c17/en_bFYnM2Jm7i.png">C17</set>
+            <color>B</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Rat</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Deathtouch</text>
+            <token>1</token>
+            <reverse-related>Hungry Lynx</reverse-related>
+        </card>
+        <card>
             <name>Reflection</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/e/e2/Reflection1.jpg">INV</set>
             <color>W</color>
@@ -4454,6 +4488,18 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Kalitas, Bloodchief of Ghet</reverse-related>
         </card>
         <card>
+            <name>Vampire   </name>
+            <set picURL="http://media.wizards.com/2017/c17/en_ozQ4wGzLWP.png">C17</set>
+            <color>B</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Vampire</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>Edgar Markov</reverse-related>
+        </card>
+        <card>
             <name>Vampire Knight</name>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_Lz7fjwmpzN.png">SOI</set>
             <color>B</color>
@@ -4818,6 +4864,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Zombie</name>
+            <set picURL="http://media.wizards.com/2017/c17/en_P0pLlthNJf.png">C17</set>
             <set picURL="http://media.wizards.com/2017/dw466ytu5_akh/en_ZXm4Fy8X48.png">AKH</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_mdCldta8UM.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/KuzDDwCJi3_EN.png">C16</set>
@@ -4862,6 +4909,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Cemetery Reaper</reverse-related>
             <reverse-related>Cradle of the Accursed</reverse-related>
             <reverse-related>Cryptbreaker</reverse-related>
+            <reverse-related>Curse of Disturbance</reverse-related>
             <reverse-related>Curse of Shallow Graves</reverse-related>
             <reverse-related count="x">Dark Salvation</reverse-related>
             <reverse-related>Diregraf Colossus</reverse-related>
