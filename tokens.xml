@@ -954,7 +954,10 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>Trample</text>
             <token>1</token>
-            <reverse-related></reverse-related>
+            <reverse-related>Huatli, Warrior Poet</reverse-related>
+            <reverse-related>Raptor Hatchling</reverse-related>
+            <reverse-related>Regisaur Alpha</reverse-related>
+            <reverse-related>Thundering Spineback</reverse-related>
         </card>
         <card>
             <name>Djinn</name>
@@ -2234,6 +2237,20 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related>Spoils of Blood</reverse-related>
         </card>
         <card>
+            <name>Horror    </name>
+            <set picURL="">E01</set>
+            <color>B</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Horror</type>
+            <pt>3/3</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>For Each of You, a Gift</reverse-related>
+            <reverse-related>My Forces Are Innumerable</reverse-related>
+            <reverse-related>There Is No Refuge</reverse-related>
+        </card>
+        <card>
             <name>Horse</name>
             <set picURL="http://media.wizards.com/2017/hou/en_SUdSId6sUW.png">HOU</set>
             <color>W</color>
@@ -2371,6 +2388,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
             <text>When this creature becomes the target of a spell, sacrifice it.</text>
             <token>1</token>
+            <reverse-related>Jace, Cunning Castaway</reverse-related>
         </card>
         <card>
             <name>Insect</name>
@@ -2793,6 +2811,7 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <tablerow>2</tablerow>
             <text>Hexproof</text>
             <token>1</token>
+            <reverse-related>Deeproot Waters</reverse-related>
         </card>
         <card>
             <name>Merfolk Wizard</name>
@@ -3287,6 +3306,8 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text>Menace</text>
             <token>1</token>
+            <reverse-related>Fathom Fleet Captain</reverse-related>
+            <reverse-related>Vraska, Relic Seeker</reverse-related>
         </card>
         <card>
             <name>Plant</name>
@@ -3325,6 +3346,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text>Defender</text>
             <token>1</token>
+            <reverse-related count="2">Dowsing Dagger</reverse-related>
         </card>
         <card>
             <name>Prism</name>
@@ -4413,6 +4435,24 @@ This creature can't be enchanted.</text>
             <tablerow>1</tablerow>
             <text>{T}, Sacrifice this artifact: Add one mana of any color to your mana pool.</text>
             <token>1</token>
+            <reverse-related>Captain Lannery Storm</reverse-related>
+            <reverse-related count="2">Contract Killing</reverse-related>
+            <reverse-related>Deadeye Plunderers</reverse-related>
+            <reverse-related>Depths of Desire</reverse-related>
+            <reverse-related>Dire Fleet Hoarder</reverse-related>
+            <reverse-related>Heartless Pillage</reverse-related>
+            <reverse-related>Pirate's Prize</reverse-related>
+            <reverse-related count="2">Prosperous Pirates</reverse-related>
+            <reverse-related>Prying Blade</reverse-related>
+            <reverse-related>Revel in Riches</reverse-related>
+            <reverse-related count="2">Ruthless Knave</reverse-related>
+            <reverse-related>Sailor of Means</reverse-related>
+            <reverse-related count="x">Spell Swindle</reverse-related>
+            <reverse-related count="3">Treasure Map</reverse-related>
+            <reverse-related>Trove of Temptation</reverse-related>
+            <reverse-related>Vraska, Relic Seeker</reverse-related>
+            <reverse-related count="2">Wanted Scoundrels</reverse-related>
+            <reverse-related>Wily Goblin</reverse-related>
         </card>
         <card>
             <name>Treefolk</name>
@@ -4578,6 +4618,12 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text>Lifelink</text>
             <token>1</token>
+            <reverse-related>Adanto, the First Fort</reverse-related>
+            <reverse-related count="3">Call to the Feast</reverse-related>
+            <reverse-related>Legion's Landing</reverse-related>
+            <reverse-related>Mavren Fein, Dusk Apostle</reverse-related>
+            <reverse-related>Paladin of the Bloodstained</reverse-related>
+            <reverse-related count="2">Queen's Commission</reverse-related>
         </card>
         <card>
             <name>Vampire Knight</name>
