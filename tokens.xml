@@ -9,7 +9,7 @@
         <!--
         <card>
             <name></name>
-            <set picURL=""></set>
+            <set picURL="">UST</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -35,6 +35,7 @@
         </card>
         <card>
             <name>Angel</name>
+            <set picURL="https://media.wizards.com/2017/ust/en_NE0jIpGdx5.png">UST</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_gvwFXo4kL2.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_OnvtmxOuug.png">SOI</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_KWY1Kgc86t.png">C15</set>
@@ -282,6 +283,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Beast</name>
+            <set picURL="https://media.wizards.com/2017/ust/en_nDIhTLwNrc.png">UST</set>
             <set picURL="https://magiccards.info/extras/token/archenemy-nicol-bolas/beast-1.jpg">E01</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_usBhGfeR1M.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/W0xMFNlHxf_EN.png">C16</set>
@@ -812,6 +814,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Clue</name>
+            <set picURL="https://media.wizards.com/2017/ust/en_qK2MGqzQbu.png">UST</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_Pdlgntbr3f.png">SOI</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_y9rdQBkOEb.png">SOI</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_IhCXdxohl3.png">SOI</set>
@@ -1251,6 +1254,8 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Elemental</name>
+            <set picURL="https://media.wizards.com/2017/rix/en_it7lbrrNfw.png">RIX</set>
+            <set picURL="https://media.wizards.com/2017/ust/en_1zKJiI6bIw.png">UST</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_43rUaKSbgs.png">EMA</set>
             <set picURL="https://magiccards.info/extras/token/magic-2014/elemental-1.jpg">M14</set>
             <color>R</color>
@@ -1420,6 +1425,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Elemental               </name>
+            <set picURL="https://media.wizards.com/2017/ust/en_hVi6aiRirc.png">UST</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_rONwJn9fUD.png">MM3</set>
             <set picURL="https://magiccards.info/extras/token/dragons-maze/elemental.jpg">DGM</set>
             <color>G</color>
@@ -1510,6 +1516,18 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
             <token>1</token>
             <reverse-related count="7" exclude="exclude">Evil Comes to Fruition</reverse-related>
+        </card>
+        <card>
+            <name>Elemental                        </name>
+            <set picURL="https://media.wizards.com/2017/rix/en_uFXjevfdSn.png">RIX</set>
+            <color>R</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Elemental</type>
+            <pt>0/1</pt>
+            <tablerow>2</tablerow>
+            <text>At the beginning of your upkeep, sacrifice this creature and return target card named Rekindling Phoenix from your graveyard to the battlefield. It gains haste until end of turn.</text>
+            <token>1</token>
+            <reverse-related></reverse-related>
         </card>
         <card>
             <name>Elemental Cat</name>
@@ -2036,6 +2054,18 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
             <token>1</token>
             <reverse-related>The Iron Guardian Stirs</reverse-related>
+        </card>
+        <card>
+            <name>Golem   </name>
+            <set picURL="https://media.wizards.com/2017/rix/en_emZEVtYuDj.png">RIX</set>
+            <color></color>
+            <cmc>0</cmc>
+            <type>Token Artifact Creature — Golem</type>
+            <pt>4/4</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related></reverse-related>
         </card>
         <card>
             <name>Golem    </name>
@@ -3494,6 +3524,8 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Saproling</name>
+            <set picURL="https://media.wizards.com/2017/rix/en_d10yUrbm43.png">RIX</set>
+            <set picURL="https://media.wizards.com/2017/ust/en_xz62g8fvtZ.png">UST</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_SbfhAAr1fv.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/GDoSGrEih8_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/r73oaJWhdf_EN.png">C16</set>
@@ -4032,6 +4064,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spirit</name>
+            <set picURL="https://media.wizards.com/2017/ust/en_jOLUnmQ3sd.png">UST</set>
             <set picURL="https://magiccards.info/extras/token/archenemy-nicol-bolas/spirit.jpg">E01</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_OoBnRxjJID.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/a8Dcl06bW6_EN.png">C16</set>
@@ -4381,6 +4414,7 @@ This creature can't be enchanted.</text>
         </card>
         <card>
             <name>Thopter </name>
+            <set picURL="https://media.wizards.com/2017/ust/en_R8H1j5GjDU.png">UST</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/PK9s0eoiqm_EN.png">C16</set>
             <set picURL="https://magiccards.info/extras/token/shards-of-alara/thopter.jpg">ALA</set>
             <color>U</color>
@@ -4564,6 +4598,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Vampire</name>
+            <set picURL="https://media.wizards.com/2017/ust/en_VElKRrZCMz.png">UST</set>
             <set picURL="https://magiccards.info/extras/token/khans-of-tarkir/vampire.jpg">KTK</set>
             <set picURL="https://magiccards.info/extras/token/innistrad/vampire.jpg">ISD</set>
             <color>B</color>
@@ -4994,6 +5029,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Zombie</name>
+            <set picURL="https://media.wizards.com/2017/ust/en_PdePJoDtFG.png">UST</set>
             <set picURL="https://magiccards.info/extras/token/commander-2017/zombie.jpg">C17</set>
             <set picURL="https://magiccards.info/extras/token/amonkhet/zombie.jpg">AKH</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_mdCldta8UM.png">MM3</set>
@@ -5299,6 +5335,15 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Creatures you control get +1/+1.</text>
             <token>1</token>
             <reverse-related exclude="exclude">Gideon, Ally of Zendikar</reverse-related>
+        </card>
+        <card>
+            <name>Hualti, Radiant Champion (emblem)</name>
+            <set picURL="https://media.wizards.com/2017/rix/en_eLQMf4RB6k.png">RIX</set>
+            <type>Emblem — Hualti</type>
+            <tablerow>1</tablerow>
+            <text>Whenever a creature enters the battlefield under your control, you may draw a card.</text>
+            <token>1</token>
+            <reverse-related>Hualti, Radiant Champion</reverse-related>
         </card>
         <card>
             <name>Jace, Telepath Unbound (emblem)</name>
@@ -5663,6 +5708,15 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <reverse-related exclude="exclude">Whispering Specter</reverse-related>
         </card>
         <card>
+            <name>City's Blessing</name>
+            <set picURL="https://media.wizards.com/2017/rix/en_2MWLzaZo23.png">RIX</set>
+            <type>State</type>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related></reverse-related>
+        </card>
+        <card>
             <name>The Monarch</name>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_OFPgMTjwcu.png">CN2</set>
             <type>State</type>
@@ -5702,5 +5756,6 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>God-Pharoah's Gift</reverse-related>
             <reverse-related>Hour of Eternity</reverse-related>
         </card>
+        
     </cards>
 </cockatrice_carddatabase>
