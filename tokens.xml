@@ -887,6 +887,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <token>1</token>
             <reverse-related>Metallurgic Summonings</reverse-related>
             <reverse-related>Oviya Pashiri, Sage Lifecrafter</reverse-related>
+            <reverse-related>Rapid Prototyper</reverse-related>
         </card>
         <card>
             <name>Demon</name>
@@ -963,6 +964,8 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Raptor Hatchling</reverse-related>
             <reverse-related>Regisaur Alpha</reverse-related>
             <reverse-related>Thundering Spineback</reverse-related>
+            <reverse-related>Baffling End</reverse-related>
+            <reverse-related>Crested Herdcaller</reverse-related>
         </card>
         <card>
             <name>Djinn</name>
@@ -1268,6 +1271,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <reverse-related count="2">Molten Birth</reverse-related>
             <reverse-related count="x">Tempt with Vengeance</reverse-related>
             <reverse-related>Young Pyromancer</reverse-related>
+            <reverse-related count="x">Tilonalli's Summoner</reverse-related>
         </card>
         <card>
             <name>Elemental  </name>
@@ -1527,7 +1531,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
             <text>At the beginning of your upkeep, sacrifice this creature and return target card named Rekindling Phoenix from your graveyard to the battlefield. It gains haste until end of turn.</text>
             <token>1</token>
-            <reverse-related></reverse-related>
+            <reverse-related>Rekindling Phoenix</reverse-related>
         </card>
         <card>
             <name>Elemental Cat</name>
@@ -1822,6 +1826,9 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <token>1</token>
             <reverse-related count="4" exclude="exclude">Metrognome</reverse-related>
             <reverse-related>Metrognome</reverse-related>
+            <reverse-related>By Gnome Means</reverse-related>
+            <reverse-related>Gnome-Made Engine</reverse-related>
+            <reverse-related count="2">Gnomeball Machine</reverse-related>
         </card>
         <card>
             <name>Goat</name>
@@ -1896,6 +1903,8 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related count="3">Siege-Gang Commander</reverse-related>
             <reverse-related>Survey the Wreckage</reverse-related>
             <reverse-related count="x">Warbreak Trumpeter</reverse-related>
+            <reverse-related count="x">Box of Free-Range Goblins</reverse-related>
+            <reverse-related count="x">Gift Horse</reverse-related>
         </card>
         <card>
             <name>Goblin </name>
@@ -2058,14 +2067,13 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         <card>
             <name>Golem   </name>
             <set picURL="https://media.wizards.com/2017/rix/en_emZEVtYuDj.png">RIX</set>
-            <color></color>
             <cmc>0</cmc>
             <type>Token Artifact Creature — Golem</type>
             <pt>4/4</pt>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related></reverse-related>
+            <reverse-related>Gold-Forge Garrison</reverse-related>
         </card>
         <card>
             <name>Golem    </name>
@@ -2186,6 +2194,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
             <token>1</token>
             <reverse-related>Stitcher's Apprentice</reverse-related>
+            <reverse-related>Handy Dandy Clone Machine</reverse-related>
         </card>
         <card>
             <name>Homunculus </name>
@@ -2844,6 +2853,8 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <text>Hexproof</text>
             <token>1</token>
             <reverse-related>Deeproot Waters</reverse-related>
+            <reverse-related count="2">Aquatic Incursion</reverse-related>
+            <reverse-related>Jungleborn Pioneer</reverse-related>
         </card>
         <card>
             <name>Merfolk Wizard</name>
@@ -3613,6 +3624,8 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related count="x">Verdeloth the Ancient</reverse-related>
             <reverse-related>Vitaspore Thallid</reverse-related>
             <reverse-related>Vitu-Ghazi, the City-Tree</reverse-related>
+            <reverse-related>Overgrown Armasaur</reverse-related>
+            <reverse-related>Tendershoot Dryad</reverse-related>
         </card>
         <card>
             <name>Saproling </name>
@@ -4274,6 +4287,9 @@ Cumulative upkeep {G}</text>
             <reverse-related>Nut Collector</reverse-related>
             <reverse-related>Squirrel Nest</reverse-related>
             <reverse-related count="2">Squirrel Wrangler</reverse-related>
+            <reverse-related>Chittering Doom</reverse-related>
+            <reverse-related>Earl of Squirrel</reverse-related>
+            <reverse-related>Squirrel Dealer</reverse-related>
         </card>
         <card>
             <name>Stangg Twin</name>
@@ -4491,6 +4507,13 @@ This creature can't be enchanted.</text>
             <reverse-related>Vraska, Relic Seeker</reverse-related>
             <reverse-related count="2">Wanted Scoundrels</reverse-related>
             <reverse-related>Wily Goblin</reverse-related>
+            <reverse-related>Brass's Bounty</reverse-related>
+            <reverse-related>Brazen Freebooter</reverse-related>
+            <reverse-related>Gleaming Barrier</reverse-related>
+            <reverse-related>Hornswoggle</reverse-related>
+            <reverse-related count="2">Pirate's Pillage</reverse-related>
+            <reverse-related>Pitiless Plunderer</reverse-related>
+            <reverse-related>Storm the Vault</reverse-related>
         </card>
         <card>
             <name>Treefolk</name>
@@ -4663,6 +4686,9 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Mavren Fein, Dusk Apostle</reverse-related>
             <reverse-related>Paladin of the Bloodstained</reverse-related>
             <reverse-related count="2">Queen's Commission</reverse-related>
+            <reverse-related count="x">Elenda, the Dusk Rose</reverse-related>
+            <reverse-related>Martyr of Dusk</reverse-related>
+            <reverse-related>Squire's Devotion</reverse-related>
         </card>
         <card>
             <name>Vampire Knight</name>
@@ -5714,7 +5740,29 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related></reverse-related>
+            <reverse-related>Arch of Orazca</reverse-related>
+            <reverse-related>Deadeye Brawler</reverse-related>
+            <reverse-related>Dusk Charger</reverse-related>
+            <reverse-related>Expel from Orazca</reverse-related>
+            <reverse-related>Golden Demise</reverse-related>
+            <reverse-related>Kumena's Awakening</reverse-related>
+            <reverse-related>Mausoleum Harpy</reverse-related>
+            <reverse-related>Orazca Relic</reverse-related>
+            <reverse-related>Pride of Conquerors</reverse-related>
+            <reverse-related>Radiant Destiny</reverse-related>
+            <reverse-related>Resplendent Griffin</reverse-related>
+            <reverse-related>Secrets of the Golden</reverse-related>
+            <reverse-related>Skymarcher Aspirant</reverse-related>
+            <reverse-related>Slippery Scoundrel</reverse-related>
+            <reverse-related>Snubhorn Sentry</reverse-related>
+            <reverse-related>Spire Winder</reverse-related>
+            <reverse-related>Storm Fleet Swashbuckler</reverse-related>
+            <reverse-related>Tendershoot Dryad</reverse-related>
+            <reverse-related>Tilonalli's Summoner</reverse-related>
+            <reverse-related>Timestream Navigator</reverse-related>
+            <reverse-related>Twilight Prophet</reverse-related>
+            <reverse-related>Vona's Hunger</reverse-related>
+            <reverse-related>Wayward Swordtooth</reverse-related>
         </card>
         <card>
             <name>The Monarch</name>
