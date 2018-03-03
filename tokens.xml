@@ -35,6 +35,7 @@
         </card>
         <card>
             <name>Angel</name>
+            <set picURL="https://media.wizards.com/2018/a25/en_S2PxKHYae5.png">A25</set>
             <set picURL="https://media.wizards.com/2017/ust/en_NE0jIpGdx5.png">UST</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_gvwFXo4kL2.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_OnvtmxOuug.png">SOI</set>
@@ -1602,6 +1603,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Elf Warrior</name>
+            <set picURL="https://media.wizards.com/2018/a25/en_B4VqZzneN9.png">A25</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/3kKodsqlXd_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_5V69YTP0YA.png">EMA</set>
             <set picURL="https://magiccards.info/extras/token/magic-origins/elf-warrior.jpg">ORI</set>
@@ -1706,6 +1708,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Fish</name>
+            <set picURL="https://media.wizards.com/2018/a25/en_0MZScjB7tc.png">A25</set>
             <set picURL="https://magiccards.info/extras/token/commander-2014/fish.jpg">C14</set>
             <color>U</color>
             <cmc>0</cmc>
@@ -1851,6 +1854,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Goblin</name>
+            <set picURL="https://media.wizards.com/2018/a25/en_Sqgppqpxj0.png">A25</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_lT7oIjqrTl.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_aYWcAETlLv.png">EMA</set>
             <set picURL="https://magiccards.info/extras/token/magic-origins/goblin.jpg">ORI</set>
@@ -2460,6 +2464,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Insect  </name>
+            <set picURL="https://media.wizards.com/2018/a25/en_pIc2s1fJ7N.png">A25</set>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_FFbXRwKrvA.png">CN2</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_DJi1itoTAo.png">SOI</set>
             <set picURL="https://magiccards.info/extras/token/modern-masters-2015/insect.jpg">MM2</set>
@@ -2669,7 +2674,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Kobolds of Kher Keep (token)</name>
-            <set picURL="http://cdn.staticneo.com/w/mtg/c/ca/Kobolds_of_Kher_Keep.jpg">TSP</set>
+            <set picURL="https://media.wizards.com/2018/a25/en_Cthmwau2Ha.png">A25</set>
             <color>R</color>
             <cmc>0</cmc>
             <type>Token Creature — Kobold</type>
@@ -2710,6 +2715,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Kraken</name>
+            <set picURL="https://media.wizards.com/2018/a25/en_fKO9THV3bj.png">A25</set>
             <set picURL="https://magiccards.info/extras/token/commander-2014/kraken.jpg">C14</set>
             <set picURL="https://magiccards.info/extras/token/born-of-the-gods/kraken.jpg">BNG</set>
             <color>U</color>
@@ -2949,6 +2955,7 @@ A manifested creature card can be turned face up any time for its mana cost. A f
         </card>
         <card>
             <name>Morph</name>
+            <set picURL="https://media.wizards.com/2018/a25/en_ak0QBpuIOt.png">A25</set>
             <set picURL="https://magiccards.info/extras/token/dragons-of-tarkir/morph.jpg">DTK</set>
             <set picURL="https://magiccards.info/extras/token/khans-of-tarkir/morph.jpg">KTK</set>
             <cmc>0</cmc>
@@ -3741,6 +3748,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Skeleton</name>
+            <set picURL="https://media.wizards.com/2018/a25/en_BglFuPhY0n.png">A25</set>
             <set picURL="https://magiccards.info/extras/token/shards-of-alara/skeleton.jpg">ALA</set>
             <color>B</color>
             <cmc>0</cmc>
@@ -3864,6 +3872,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Soldier</name>
+            <set picURL="https://media.wizards.com/2018/a25/en_rjWdBD6PXM.png">A25</set>
             <set picURL="https://magiccards.info/extras/token/archenemy-nicol-bolas/soldier.jpg">E01</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_cUwkB5W9WX.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/MPxJre1G3p_EN.png">C16</set>
@@ -4077,6 +4086,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spirit</name>
+            <set picURL="https://media.wizards.com/2018/a25/en_MfLkYTjk6c.png">A25</set>
             <set picURL="https://media.wizards.com/2017/ust/en_jOLUnmQ3sd.png">UST</set>
             <set picURL="https://magiccards.info/extras/token/archenemy-nicol-bolas/spirit.jpg">E01</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_OoBnRxjJID.png">MM3</set>
@@ -4175,6 +4185,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spirit   </name>
+            <set picURL="https://media.wizards.com/2018/a25/en_Zm3GZBOnwD.png">A25</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/bQqBAcQB03_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_qQaHPqyjyC.png">EMA</set>
             <set picURL="https://magiccards.info/extras/token/player-rewards-2004/spirit.jpg">CHK</set>
@@ -4293,7 +4304,7 @@ Cumulative upkeep {G}</text>
         </card>
         <card>
             <name>Stangg Twin</name>
-            <set picURL="http://cdn.staticneo.com/w/mtg/0/04/Stangg_Twin.jpg">ME3</set>
+            <set picURL="https://media.wizards.com/2018/a25/en_6IgrqKnNQk.png">A25</set>
             <color>R</color>
             <color>G</color>
             <cmc>0</cmc>
@@ -4831,6 +4842,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Whale</name>
+            <set picURL="https://media.wizards.com/2018/a25/en_JMtRnyeKH4.png">A25</set>
             <set picURL="https://magiccards.info/extras/token/commander-2014/whale.jpg">C14</set>
             <color>U</color>
             <cmc>0</cmc>
@@ -4854,6 +4866,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Wolf</name>
+            <set picURL="https://media.wizards.com/2018/a25/en_YMeT9fmnKH.png">A25</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_BW6wmU7cbv.png">SOI</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_IWGaI59e15.png">C15</set>
             <set picURL="https://magiccards.info/extras/token/modern-masters-2015/wolf.jpg">MM2</set>
