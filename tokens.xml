@@ -9,7 +9,7 @@
         <!--
         <card>
             <name></name>
-            <set picURL="">UST</set>
+            <set picURL=""></set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -801,6 +801,16 @@ Creature tokens you control have flying and vigilance.</text>
             <reverse-related>Heliod, God of the Sun</reverse-related>
         </card>
         <card>
+            <name>Cleric  </name>
+            <set picURL="https://media.wizards.com/2018/dom/en_TVBrhF4uTw.png">DOM</set>
+            <color>B</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Cleric</type>
+            <pt>0/1</pt>
+            <tablerow>2</tablerow>
+            <token>1</token>
+        </card>
+        <card>
             <name>Cloud Sprite (token)</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/a/a7/Cloud_Sprite.jpg">FUT</set>
             <color>U</color>
@@ -891,6 +901,16 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Rapid Prototyper</reverse-related>
         </card>
         <card>
+            <name>Construct   </name>
+            <set picURL="https://media.wizards.com/2018/dom/en_fyrNJBF5ZM.png">DOM</set>
+            <cmc>0</cmc>
+            <type>Token Artifact Creature — Construct</type>
+            <pt>0/0</pt>
+            <tablerow>2</tablerow>
+            <text>This creature gets +1/+1 for each artifact you control.</text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Demon</name>
             <set picURL="https://magiccards.info/extras/token/magic-origins/demon.jpg">ORI</set>
             <set picURL="https://magiccards.info/extras/token/commander-2014/demon-2.jpg">C14</set>
@@ -925,6 +945,18 @@ Cloud Sprite can block only creatures with flying.</text>
             <token>1</token>
             <reverse-related>Promise of Power</reverse-related>
             <reverse-related>Reign of the Pit</reverse-related>
+        </card>
+        <card>
+            <name>Demon  </name>
+            <set picURL="https://media.wizards.com/2018/dom/en_ONhjW5oRug.png">DOM</set>
+            <color>B</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Demon</type>
+            <pt>6/6</pt>
+            <tablerow>2</tablerow>
+            <text>Flying, trample
+At the beginning of your upkeep, sacrifice another creature. If you can't, this creature deals 6 damage to you.</text>
+            <token>1</token>
         </card>
         <card>
             <name>Deserter</name>
@@ -1489,6 +1521,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Elemental                     </name>
+            <set picURL="https://media.wizards.com/2018/dom/en_1rXJAntafJ.png">DOM</set>
             <set picURL="https://magiccards.info/extras/token/battle-for-zendikar/elemental-1.jpg">BFZ</set>
             <color>R</color>
             <cmc>0</cmc>
@@ -1854,6 +1887,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Goblin</name>
+            <set picURL="https://media.wizards.com/2018/dom/en_EZdDBcrqwr.png">DOM</set>
             <set picURL="https://media.wizards.com/2018/a25/en_Sqgppqpxj0.png">A25</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_lT7oIjqrTl.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_aYWcAETlLv.png">EMA</set>
@@ -2550,6 +2584,17 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related>Helm of Kaldra</reverse-related>
         </card>
         <card>
+            <name>Karox Bladewing</name>
+            <set picURL="https://media.wizards.com/2018/dom/en_e9zSIkv3b5.png">DOM</set>
+            <color>R</color>
+            <cmc>0</cmc>
+            <type>Token Legendary Creature — Dragon</type>
+            <pt>4/4</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Kavu</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/4/42/Kavu.jpg">APC</set>
             <color>B</color>
@@ -2594,6 +2639,8 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Knight</name>
+            <set picURL="https://media.wizards.com/2018/dom/en_sYO9Sdh8Vs.png">DOM</set>
+            <set picURL="https://media.wizards.com/2018/dom/en_jZzvwfMjcS.png">DOM</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_989oeP4YLT.png">C15</set>
             <set picURL="https://magiccards.info/extras/token/magic-origins/knight.jpg">ORI</set>
             <set picURL="https://magiccards.info/extras/token/return-to-ravnica/knight.jpg">RTR</set>
@@ -3175,6 +3222,16 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related count="x">Shrine of Loyal Legions</reverse-related>
         </card>
         <card>
+            <name>Nightmare Horror</name>
+            <set picURL="https://media.wizards.com/2018/dom/en_jiTGmOs7ND.png">DOM</set>
+            <color>B</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Nightmare Horror</type>
+            <pt>*/*</pt>
+            <tablerow>2</tablerow>
+            <token>1</token>
+        </card>
+        <card>
             <name>Octopus</name>
             <set picURL="https://magiccards.info/extras/token/battle-for-zendikar/octopus.jpg">BFZ</set>
             <color>U</color>
@@ -3542,6 +3599,9 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Saproling</name>
+            <set picURL="https://media.wizards.com/2018/dom/en_LOqdfjtnAr.png">DOM</set>
+            <set picURL="https://media.wizards.com/2018/dom/en_7j8M2Q8rpE.png">DOM</set>
+            <set picURL="https://media.wizards.com/2018/dom/en_nX2NtdaX1u.png">DOM</set>
             <set picURL="https://media.wizards.com/2017/rix/en_d10yUrbm43.png">RIX</set>
             <set picURL="https://media.wizards.com/2017/ust/en_xz62g8fvtZ.png">UST</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_SbfhAAr1fv.png">MM3</set>
@@ -3872,6 +3932,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Soldier</name>
+            <set picURL="https://media.wizards.com/2018/dom/en_IEkybS0amO.png">DOM</set>
             <set picURL="https://media.wizards.com/2018/a25/en_rjWdBD6PXM.png">A25</set>
             <set picURL="https://magiccards.info/extras/token/archenemy-nicol-bolas/soldier.jpg">E01</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_cUwkB5W9WX.png">MM3</set>
@@ -5233,6 +5294,17 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Corpseweft</reverse-related>
         </card>
         <card>
+            <name>Zombie Knight</name>
+            <set picURL="https://media.wizards.com/2018/dom/en_nVhp5RHRhP.png">DOM</set>
+            <color>B</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Zombie Knight</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>Menace</text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Zombie Wizard</name>
             <set picURL="https://magiccards.info/extras/token/alara-reborn/zombie-wizard.jpg">ARB</set>
             <color>U</color>
@@ -5403,6 +5475,15 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related exclude="exclude">Jace, Unraveler of Secrets</reverse-related>
         </card>
         <card>
+            <name>Jaya Ballard (emblem)</name>
+            <set picURL="https://media.wizards.com/2018/dom/en_oc0QKHQBLU.png">DOM</set>
+            <type>Emblem — Jaya</type>
+            <tablerow>1</tablerow>
+            <text>You may cast instant and sorcery cards from your graveyard. If a card cast this way would be put into your graveyard, exile it instead.</text>
+            <token>1</token>
+            <reverse-related>Jaya Ballard</reverse-related>
+        </card>
+        <card>
             <name>Kiora, the Crashing Wave (emblem)</name>
             <set picURL="https://magiccards.info/extras/token/born-of-the-gods/emblem-kiora-the-crashing-wave.jpg">BNG</set>
             <type>Emblem — Kiora</type>
@@ -5541,6 +5622,15 @@ At the beginning of your end step, discard your hand.</text>
 Whenever a card is put into your graveyard from anywhere, you may return it to your hand.</text>
             <token>1</token>
             <reverse-related exclude="exclude">Tamiyo, the Moon Sage</reverse-related>
+        </card>
+        <card>
+            <name>Teferi, Hero of Dominaria (emblem)</name>
+            <set picURL="https://media.wizards.com/2018/dom/en_X0R9KqGOxX.png">DOM</set>
+            <type>Emblem — Teferi</type>
+            <tablerow>1</tablerow>
+            <text>Whenever you draw a card, exile target permanent an opponent controls.</text>
+            <token>1</token>
+            <reverse-related>Teferi, Hero of Dominaria</reverse-related>
         </card>
         <card>
             <name>Teferi, Temporal Archmage (emblem)</name>
