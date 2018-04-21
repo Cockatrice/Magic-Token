@@ -809,6 +809,7 @@ Creature tokens you control have flying and vigilance.</text>
             <pt>0/1</pt>
             <tablerow>2</tablerow>
             <token>1</token>
+            <reverse-related count="2">Rite of Belzenlok</reverse-related>
         </card>
         <card>
             <name>Cloud Sprite (token)</name>
@@ -909,6 +910,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
             <text>This creature gets +1/+1 for each artifact you control.</text>
             <token>1</token>
+            <reverse-related>Karn, Scion of Urza</reverse-related>
         </card>
         <card>
             <name>Demon</name>
@@ -957,6 +959,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <text>Flying, trample
 At the beginning of your upkeep, sacrifice another creature. If you can't, this creature deals 6 damage to you.</text>
             <token>1</token>
+            <reverse-related exclude="exclude">Rite of Belzenlok</reverse-related>
         </card>
         <card>
             <name>Deserter</name>
@@ -1233,7 +1236,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <type>Token Creature — Eldrazi Scion</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>Sacrifice this creature: Add {C} to your mana pool.</text>
+            <text>Sacrifice this creature: Add {C}.</text>
             <token>1</token>
             <reverse-related>Abstruse Interference</reverse-related>
             <reverse-related>Adverse Conditions</reverse-related>
@@ -1271,7 +1274,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <type>Token Creature — Eldrazi Spawn</type>
             <pt>0/1</pt>
             <tablerow>2</tablerow>
-            <text>Sacrifice this creature: Add {C} to your mana pool.</text>
+            <text>Sacrifice this creature: Add {C}.</text>
             <token>1</token>
             <reverse-related>Awakening Zone</reverse-related>
             <reverse-related count="3">Brood Birthing</reverse-related>
@@ -1531,6 +1534,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <text>Trample, haste</text>
             <token>1</token>
             <reverse-related>Akoum Stonewaker</reverse-related>
+            <reverse-related count="x">Valduk, Keeper of the Flame</reverse-related>
         </card>
         <card>
             <name>Elemental                      </name>
@@ -1630,7 +1634,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <type>Token Creature — Elf Druid</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>{T}: Add {G} to your mana pool.</text>
+            <text>{T}: Add {G}.</text>
             <token>1</token>
             <reverse-related>Freyalise, Llanowar's Fury</reverse-related>
         </card>
@@ -1682,7 +1686,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <cmc>0</cmc>
             <type>Token Artifact</type>
             <tablerow>1</tablerow>
-            <text>{T}, Sacrifice this artifact: Add one mana of any color to your mana pool.</text>
+            <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
             <token>1</token>
             <reverse-related>Tezzeret the Schemer</reverse-related>
         </card>
@@ -2043,7 +2047,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <cmc>0</cmc>
             <type>Token Artifact</type>
             <tablerow>1</tablerow>
-            <text>Sacrifice this artifact: Add one mana of any color to your mana pool.</text>
+            <text>Sacrifice this artifact: Add one mana of any color.</text>
             <token>1</token>
             <reverse-related>Curse of Opulence</reverse-related>
             <reverse-related>Gild</reverse-related>
@@ -2593,6 +2597,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
+            <reverse-related>Verix Bladewing</reverse-related>
         </card>
         <card>
             <name>Kavu</name>
@@ -2659,6 +2664,9 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related>Selesnya Charm</reverse-related>
             <reverse-related>Sunspire Gatekeepers</reverse-related>
             <reverse-related>Trostani's Summoner</reverse-related>
+            <reverse-related>Aryel, Knight of Windgrace</reverse-related>
+            <reverse-related count="2">Call the Cavalry</reverse-related>
+            <reverse-related>History of Benalia</reverse-related>
         </card>
         <card>
             <name>Knight </name>
@@ -2838,7 +2846,7 @@ At the beginning of the end step, sacrifice this creature.</text>
             <type>Token Creature — Elf Druid</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>{T}: Add {G} to your mana pool.</text>
+            <text>{T}: Add {G}.</text>
             <token>1</token>
             <reverse-related>Llanowar Mentor</reverse-related>
         </card>
@@ -3230,6 +3238,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <pt>*/*</pt>
             <tablerow>2</tablerow>
             <token>1</token>
+            <reverse-related>Chainer's Torment</reverse-related>
         </card>
         <card>
             <name>Octopus</name>
@@ -3693,6 +3702,14 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related>Vitu-Ghazi, the City-Tree</reverse-related>
             <reverse-related>Overgrown Armasaur</reverse-related>
             <reverse-related>Tendershoot Dryad</reverse-related>
+            <reverse-related>Deathbloom Thallid</reverse-related>
+            <reverse-related>Fungal Infection</reverse-related>
+            <reverse-related>Fungal Plots</reverse-related>
+            <reverse-related count="2">Saproling Migration</reverse-related>
+            <reverse-related count="4" exclude="exclude">Saproling Migration</reverse-related>            
+            <reverse-related>Slimefoot, the Stowaway</reverse-related>
+            <reverse-related count="3">Spore Swarm</reverse-related>
+            <reverse-related>Yavimaya Sapherd</reverse-related>
         </card>
         <card>
             <name>Saproling </name>
@@ -3994,6 +4011,8 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related>Throne of Empires</reverse-related>
             <reverse-related count="5" exclude="exclude">Throne of Empires</reverse-related>
             <reverse-related count="3">Timely Reinforcements</reverse-related>
+            <reverse-related count="2">Memorial to Glory</reverse-related>
+            <reverse-related count="2">Sergeant-at-Arms</reverse-related>
         </card>
         <card>
             <name>Soldier </name>
@@ -4559,7 +4578,7 @@ This creature can't be enchanted.</text>
             <cmc>0</cmc>
             <type>Token Artifact — Treasure</type>
             <tablerow>1</tablerow>
-            <text>{T}, Sacrifice this artifact: Add one mana of any color to your mana pool.</text>
+            <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
             <token>1</token>
             <reverse-related>Captain Lannery Storm</reverse-related>
             <reverse-related count="2">Contract Killing</reverse-related>
@@ -5303,6 +5322,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text>Menace</text>
             <token>1</token>
+            <reverse-related count="8">Josu Vess, Lich Knight</reverse-related>
         </card>
         <card>
             <name>Zombie Wizard</name>
@@ -5517,7 +5537,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="https://magiccards.info/extras/token/magic-2013/liliana-of-the-dark-realms-emblem.jpg">M13</set>
             <type>Emblem — Liliana</type>
             <tablerow>1</tablerow>
-            <text>Swamps you control have 'Tap: Add {B}{B}{B}{B} to your mana pool.'</text>
+            <text>Swamps you control have 'Tap: Add {B}{B}{B}{B}.'</text>
             <token>1</token>
             <reverse-related exclude="exclude">Liliana of the Dark Realms</reverse-related>
         </card>
