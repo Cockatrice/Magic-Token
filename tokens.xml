@@ -4879,6 +4879,9 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Mardu Hordechief</reverse-related>
             <reverse-related count="x">Secure the Wastes</reverse-related>
             <reverse-related count="3">Take Up Arms</reverse-related>
+            <reverse-related>Blaring Recruiter</reverse-related>
+            <reverse-related count="x=1">Najeela, the Blade-Blossom</reverse-related>
+            <reverse-related count="2">Regna, the Redeemer</reverse-related>
         </card>
         <card>
             <name>Warrior  </name>
@@ -5597,6 +5600,15 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related exclude="exclude">Ob Nixilis Reignited</reverse-related>
         </card>
         <card>
+            <name>Rowan Kenrith (emblem)</name>
+            <set picURL="">BBD</set>
+            <type>Emblem — Rowan</type>
+            <tablerow>1</tablerow>
+            <text>Whenever you activate an ability that isn't a mana ability, copy it. You may choose new targets for the copy.</text>
+            <token>1</token>
+            <reverse-related exclude="exclude">Rowan Kenrith</reverse-related>
+        </card>
+        <card>
             <name>Sarkhan, the Dragonspeaker (emblem)</name>
             <set picURL="https://magiccards.info/extras/token/khans-of-tarkir/emblem-sarkhan.jpg">KTK</set>
             <type>Emblem — Sarkhan</type>
@@ -5678,6 +5690,15 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <text>Whenever you cast a spell, exile target permanent.</text>
             <token>1</token>
             <reverse-related exclude="exclude">Venser, the Sojourner</reverse-related>
+        </card>
+        <card>
+            <name>Will Kenrith (emblem)</name>
+            <set picURL="">BBD</set>
+            <type>Emblem — Will</type>
+            <tablerow>1</tablerow>
+            <text>Whenever you cast an instant or sorcery spell, copy it. You may choose new targets for the copy.</text>
+            <token>1</token>
+            <reverse-related exclude="exclude">Will Kenrith</reverse-related>
         </card>
         <card>
             <name>Energy Reserve</name>
