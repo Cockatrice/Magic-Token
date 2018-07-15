@@ -95,6 +95,18 @@
             <reverse-related>Linvala, the Preserver</reverse-related>
         </card>
         <card>
+            <name>Angel   </name>
+            <set picURL="https://img.scryfall.com/cards/png/en/tm19/1.png">M19</set>
+            <color>W</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Angel</type>
+            <pt>4/4</pt>
+            <tablerow>2</tablerow>
+            <text>Flying, vigilance</text>
+            <token>1</token>
+            <reverse-related>Resplendent Angel</reverse-related>
+        </card>
+        <card>
             <name>Angel of Sanctions (token)</name>
             <set picURL="https://magiccards.info/extras/token/amonkhet/angel-of-sanctions.jpg">AKH</set>
             <color>W</color>
@@ -202,6 +214,18 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <reverse-related>Ajani Goldmane</reverse-related>
         </card>
         <card>
+            <name>Avatar </name>
+            <set picURL="https://img.scryfall.com/cards/png/en/tm19/2.png">M19</set>
+            <color>W</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Avatar</type>
+            <pt>4/4</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+            <reverse-related>Ajani's Last Stand</reverse-related>
+        </card>
+        <card>
             <name>Aven Initiate (token)</name>
             <set picURL="https://magiccards.info/extras/token/amonkhet/aven-initiate.jpg">AKH</set>
             <color>W</color>
@@ -228,6 +252,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Bat</name>
+            <set picURL="https://img.scryfall.com/cards/png/en/tm19/7.png">M19</set>
             <set picURL="https://magiccards.info/extras/token/commander-2017/bat.jpg">C17</set>
             <set picURL="https://magiccards.info/extras/token/modern-masters/bat.jpg">MMA</set>
             <color>B</color>
@@ -239,6 +264,8 @@ Creature tokens you control have flying and vigilance.</text>
             <token>1</token>
             <reverse-related count="2">Belfry Spirit</reverse-related>
             <reverse-related count="2">Skeletal Vampire</reverse-related>
+            <reverse-related>Desecrated Tomb</reverse-related>
+            <reverse-related>Regal Bloodlord</reverse-related>
         </card>
         <card>
             <name>Bat </name>
@@ -284,6 +311,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Beast</name>
+            <set picURL="https://img.scryfall.com/cards/png/en/tm19/12.png">M19</set>
             <set picURL="https://media.wizards.com/2017/ust/en_nDIhTLwNrc.png">UST</set>
             <set picURL="https://magiccards.info/extras/token/archenemy-nicol-bolas/beast-1.jpg">E01</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_usBhGfeR1M.png">MM3</set>
@@ -320,6 +348,7 @@ Creature tokens you control have flying and vigilance.</text>
             <reverse-related>Savage Conception</reverse-related>
             <reverse-related>Soul of Zendikar</reverse-related>
             <reverse-related>Thragtusk</reverse-related>
+            <reverse-related>Druid of Horns</reverse-related>
         </card>
         <card>
             <name>Beast </name>
@@ -659,6 +688,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Cat   </name>
+            <set picURL="https://img.scryfall.com/cards/png/en/tm19/3.png">M19</set>
             <set picURL="https://magiccards.info/extras/token/amonkhet/cat.jpg">AKH</set>
             <color>W</color>
             <cmc>0</cmc>
@@ -669,6 +699,8 @@ Creature tokens you control have flying and vigilance.</text>
             <token>1</token>
             <reverse-related count="2">Pride Sovereign</reverse-related>
             <reverse-related count="2">Regal Caracal</reverse-related>
+            <reverse-related count="2">Leonin Warleader</reverse-related>
+            <reverse-related count="3" exclude="exclude">Ajani, Adversary of Tyrants</reverse-related>
         </card>
         <card>
             <name>Cat Dragon</name>
@@ -1029,6 +1061,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
         </card>
         <card>
             <name>Dragon</name>
+            <set picURL="https://img.scryfall.com/cards/png/en/tm19/10.png">M19</set>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_tUlOveGiwh.png">CN2</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_PngB7kxTCg.png">C15</set>
             <set picURL="https://magiccards.info/extras/token/battle-for-zendikar/dragon.jpg">BFZ</set>
@@ -1051,6 +1084,9 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <reverse-related>Sarkhan the Mad</reverse-related>
             <reverse-related>Shiv</reverse-related>
             <reverse-related>Skyline Despot</reverse-related>
+            <reverse-related>Draconic Disciple</reverse-related>
+            <reverse-related>Lathliss, Dragon Queen</reverse-related>
+            <reverse-related count="4">Sarkhan, Fireblood</reverse-related>
         </card>
         <card>
             <name>Dragon  </name>
@@ -1100,6 +1136,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
         </card>
         <card>
             <name>Dragon    </name>
+            <set picURL="https://img.scryfall.com/cards/png/en/tm19/9.png">M19</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_K2g14Mh1K4.png">EMA</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0007_MTGM15_TOK_EN%20copy.png">M15</set>
             <set picURL="https://magiccards.info/extras/token/magic-2014/dragon.jpg">M14</set>
@@ -1640,6 +1677,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Elf Warrior</name>
+            <set picURL="https://img.scryfall.com/cards/png/en/tm19/13.png">M19</set>
             <set picURL="https://media.wizards.com/2018/a25/en_B4VqZzneN9.png">A25</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/3kKodsqlXd_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_5V69YTP0YA.png">EMA</set>
@@ -1666,6 +1704,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <reverse-related>Presence of Gond</reverse-related>
             <reverse-related>Prowess of the Fair</reverse-related>
             <reverse-related count="x">Sylvan Offering</reverse-related>
+            <reverse-related>Thorn Lieutenant</reverse-related>
         </card>
         <card>
             <name>Elf Warrior </name>
@@ -1891,6 +1930,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Goblin</name>
+            <set picURL="https://img.scryfall.com/cards/png/en/tm19/11.png">M19</set>
             <set picURL="https://media.wizards.com/2018/dom/en_EZdDBcrqwr.png">DOM</set>
             <set picURL="https://media.wizards.com/2018/a25/en_Sqgppqpxj0.png">A25</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_lT7oIjqrTl.png">MM3</set>
@@ -1947,6 +1987,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related count="x">Warbreak Trumpeter</reverse-related>
             <reverse-related count="x">Box of Free-Range Goblins</reverse-related>
             <reverse-related count="x">Gift Horse</reverse-related>
+            <reverse-related>Goblin Instigator</reverse-related>
         </card>
         <card>
             <name>Goblin </name>
@@ -2644,6 +2685,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Knight</name>
+            <set picURL="https://img.scryfall.com/cards/png/en/tm19/4.png">M19</set>
             <set picURL="https://media.wizards.com/2018/dom/en_sYO9Sdh8Vs.png">DOM</set>
             <set picURL="https://media.wizards.com/2018/dom/en_jZzvwfMjcS.png">DOM</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_989oeP4YLT.png">C15</set>
@@ -2667,6 +2709,8 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related>Aryel, Knight of Windgrace</reverse-related>
             <reverse-related count="2">Call the Cavalry</reverse-related>
             <reverse-related>History of Benalia</reverse-related>
+            <reverse-related>Gallant Cavalry</reverse-related>
+            <reverse-related>Sigiled Sword of Valeron</reverse-related>
         </card>
         <card>
             <name>Knight </name>
@@ -3365,6 +3409,18 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related>Phantasmal Sphere</reverse-related>
         </card>
         <card>
+            <name>Ox</name>
+            <set picURL="https://img.scryfall.com/cards/png/en/tm19/5.png">M19</set>
+            <color>W</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Ox</type>
+            <pt>2/4</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>Transmogrifying Wand</reverse-related>
+        </card>
+        <card>
             <name>Pegasus</name>
             <set picURL="https://magiccards.info/extras/token/commander-2014/pegasus.jpg">C14</set>
             <color>W</color>
@@ -3949,6 +4005,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Soldier</name>
+            <set picURL="https://img.scryfall.com/cards/png/en/tm19/6.png">M19</set>
             <set picURL="https://media.wizards.com/2018/dom/en_IEkybS0amO.png">DOM</set>
             <set picURL="https://media.wizards.com/2018/a25/en_rjWdBD6PXM.png">A25</set>
             <set picURL="https://magiccards.info/extras/token/archenemy-nicol-bolas/soldier.jpg">E01</set>
@@ -4013,6 +4070,8 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related count="3">Timely Reinforcements</reverse-related>
             <reverse-related count="2">Memorial to Glory</reverse-related>
             <reverse-related count="2">Sergeant-at-Arms</reverse-related>
+            <reverse-related count="2">Heroic Reinforcements</reverse-related>
+            <reverse-related count="x">Lena, Selfless Champion</reverse-related>
         </card>
         <card>
             <name>Soldier </name>
@@ -4489,6 +4548,7 @@ This creature can't be enchanted.</text>
         </card>
         <card>
             <name>Thopter</name>
+            <set picURL="https://img.scryfall.com/cards/png/en/tm19/14.png">M19</set>
             <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_ZQ77vJDpoE.png">KLD</set>
             <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_V8a0HO5toy.png">KLD</set>
             <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_PQycN8PjmE.png">KLD</set>
@@ -4518,6 +4578,9 @@ This creature can't be enchanted.</text>
             <reverse-related count="2">Whirler Rogue</reverse-related>
             <reverse-related>Whirler Virtuoso</reverse-related>
             <reverse-related>Whirlermaker</reverse-related>
+            <reverse-related>Aviation Pioneer</reverse-related>
+            <reverse-related>Sai, Master Thopterist</reverse-related>
+            <reverse-related>Tezzeret, Artifice Master</reverse-related>
         </card>
         <card>
             <name>Thopter </name>
@@ -5151,6 +5214,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Zombie</name>
+            <set picURL="https://img.scryfall.com/cards/png/en/tm19/8.png">M19</set>
             <set picURL="https://media.wizards.com/2017/ust/en_PdePJoDtFG.png">UST</set>
             <set picURL="https://magiccards.info/extras/token/commander-2017/zombie.jpg">C17</set>
             <set picURL="https://magiccards.info/extras/token/amonkhet/zombie.jpg">AKH</set>
@@ -5258,6 +5322,8 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Waste Not</reverse-related>
             <reverse-related>Xathrid Necromancer</reverse-related>
             <reverse-related>Zombie Infestation</reverse-related>
+            <reverse-related>Graveyard Marshal</reverse-related>
+            <reverse-related>Open the Graves</reverse-related>
         </card>
         <card>
             <name>Zombie </name>
@@ -5349,6 +5415,16 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related exclude="exclude">Ajani Steadfast</reverse-related>
         </card>
         <card>
+            <name>Ajani, Adversary of Tyrants (emblem)</name>
+            <set picURL="https://img.scryfall.com/cards/png/en/tm19/15.png">M19</set>
+            <type>Emblem — Ajani</type>
+            <tablerow>1</tablerow>
+            <text>At the beginning of your end step, create three 1/1 white Cat creature tokens with lifelink.</text>
+            <token>1</token>
+            <reverse-related>Ajani, Adversary of Tyrants</reverse-related>
+            <related count="3">Cat   </related>
+        </card>
+        <card>
             <name>Arlinn Kord (emblem)</name>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_JJ0x2nMAKz.png">SOI</set>
             <type>Emblem — Arlinn</type>
@@ -5435,15 +5511,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related exclude="exclude">Elspeth, Sun's Champion</reverse-related>
         </card>
         <card>
-            <name>Garruk, Caller of Beasts (emblem)</name>
-            <set picURL="https://magiccards.info/extras/token/magic-2014/emblem-garruk-caller-of-beasts.jpg">M14</set>
-            <type>Emblem — Garruk</type>
-            <tablerow>1</tablerow>
-            <text>Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle your library.</text>
-            <token>1</token>
-            <reverse-related exclude="exclude">Garruk, Caller of Beasts</reverse-related>
-        </card>
-        <card>
             <name>Garruk, Apex Predator (emblem)</name>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0014_MTGM15_TOK_EN%20copy.png">M15</set>
             <type>Emblem — Garruk</type>
@@ -5451,6 +5518,15 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Whenever a creature attacks you, it gets +5/+5 and gains trample until end of turn.</text>
             <token>1</token>
             <reverse-related exclude="exclude">Garruk, Apex Predator</reverse-related>
+        </card>
+        <card>
+            <name>Garruk, Caller of Beasts (emblem)</name>
+            <set picURL="https://magiccards.info/extras/token/magic-2014/emblem-garruk-caller-of-beasts.jpg">M14</set>
+            <type>Emblem — Garruk</type>
+            <tablerow>1</tablerow>
+            <text>Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle your library.</text>
+            <token>1</token>
+            <reverse-related exclude="exclude">Garruk, Caller of Beasts</reverse-related>
         </card>
         <card>
             <name>Gideon of the Trials (emblem)</name>
@@ -5507,6 +5583,15 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Jaya Ballard</reverse-related>
         </card>
         <card>
+            <name>Kiora, Master of the Depths (emblem)</name>
+            <set picURL="https://magiccards.info/extras/token/battle-for-zendikar/emblem-3.jpg">BFZ</set>
+            <type>Emblem — Kiora</type>
+            <tablerow>1</tablerow>
+            <text>Whenever a creature enters the battlefield under your control, you may have it fight target creature.</text>
+            <token>1</token>
+            <reverse-related exclude="exclude">Kiora, Master of the Depths</reverse-related>
+        </card>
+        <card>
             <name>Kiora, the Crashing Wave (emblem)</name>
             <set picURL="https://magiccards.info/extras/token/born-of-the-gods/emblem-kiora-the-crashing-wave.jpg">BNG</set>
             <type>Emblem — Kiora</type>
@@ -5515,15 +5600,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
             <related>Kraken</related>
             <reverse-related exclude="exclude">Kiora, the Crashing Wave</reverse-related>
-        </card>
-        <card>
-            <name>Kiora, Master of the Depths (emblem)</name>
-            <set picURL="https://magiccards.info/extras/token/battle-for-zendikar/emblem-3.jpg">BFZ</set>
-            <type>Emblem — Kiora</type>
-            <tablerow>1</tablerow>
-            <text>Whenever a creature enters the battlefield under your control, you may have it fight target creature.</text>
-            <token>1</token>
-            <reverse-related exclude="exclude">Kiora, Master of the Depths</reverse-related>
         </card>
         <card>
             <name>Koth of the Hammer (emblem)</name>
@@ -5683,6 +5759,15 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <reverse-related exclude="exclude">Tezzeret the Schemer</reverse-related>
         </card>
         <card>
+            <name>Tezzeret, Artifice Master (emblem)</name>
+            <set picURL="https://img.scryfall.com/cards/png/en/tm19/16.png">M19</set>
+            <type>Emblem — Tezzeret</type>
+            <tablerow>1</tablerow>
+            <text>At the beginning of your end step, search your library for a permanent card, put it onto the battlefield, then shuffle your library.</text>
+            <token>1</token>
+            <reverse-related exclude="exclude">Tezzeret, Artifice Master</reverse-related>
+        </card>
+        <card>
             <name>Venser, the Sojourner (emblem)</name>
             <set picURL="https://magiccards.info/extras/token/duel-decks-venser-vs-koth/emblem-venser-the-sojourner.jpg">DDI</set>
             <type>Emblem — Venser</type>
@@ -5690,6 +5775,15 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <text>Whenever you cast a spell, exile target permanent.</text>
             <token>1</token>
             <reverse-related exclude="exclude">Venser, the Sojourner</reverse-related>
+        </card>
+        <card>
+            <name>Vivien Reid (emblem)</name>
+            <set picURL="https://img.scryfall.com/cards/png/en/tm19/17.png">M19</set>
+            <type>Emblem — Vivien</type>
+            <tablerow>1</tablerow>
+            <text>Creatures you control get +2/+2 and have vigilance, trample, and indestructible.</text>
+            <token>1</token>
+            <reverse-related exclude="exclude">Vivien Reid</reverse-related>
         </card>
         <card>
             <name>Will Kenrith (emblem)</name>
@@ -5948,6 +6042,5 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>God-Pharoah's Gift</reverse-related>
             <reverse-related>Hour of Eternity</reverse-related>
         </card>
-        
     </cards>
 </cockatrice_carddatabase>
