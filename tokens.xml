@@ -35,6 +35,7 @@
         </card>
         <card>
             <name>Angel</name>
+            <set picURL="https://media.wizards.com/2018/c18/en_51u40KF6eI.png">C18</set>
             <set picURL="https://media.wizards.com/2018/a25/en_S2PxKHYae5.png">A25</set>
             <set picURL="https://media.wizards.com/2017/ust/en_NE0jIpGdx5.png">UST</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_gvwFXo4kL2.png">MM3</set>
@@ -352,6 +353,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Beast </name>
+            <set picURL="https://media.wizards.com/2018/c18/en_zY5Api5UdC.png">C18</set>
             <set picURL="https://magiccards.info/extras/token/archenemy-nicol-bolas/beast-2.jpg">E01</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_sExTvXEuyG.png">MM3</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_hHSzfAwFwd.png">C15</set>
@@ -408,7 +410,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Beast     </name>
-            <set picURL="http://s17.postimg.org/63464zbtr/Beast4.png">C13</set>
+            <set picURL="https://media.wizards.com/2018/c18/en_OmdgAGDK6p.png">C18</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Beast</type>
@@ -647,6 +649,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Cat</name>
+            <set picURL="https://media.wizards.com/2018/c18/en_OKSc5ByNDU.png">C18</set>
             <set picURL="https://magiccards.info/extras/token/commander-2017/cat.jpg">C17</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_yUL1MXcDyV.png">C15</set>
             <set picURL="https://magiccards.info/extras/token/commander-2014/cat.jpg">C14</set>
@@ -731,6 +734,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Cat Warrior</name>
+            <set picURL="https://media.wizards.com/2018/c18/en_R9R0pmo5zu.png">C18</set>
             <set picURL="https://magiccards.info/extras/token/commander-2017/cat-warrior.jpg">C17</set>
             <set picURL="http://cdn.staticneo.com/w/mtg/2/2d/Cat_Warrior.jpg">PLC</set>
             <color>G</color>
@@ -858,6 +862,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Clue</name>
+            <set picURL="https://media.wizards.com/2018/c18/en_1LubZ0qmyk.png">C18</set>
             <set picURL="https://media.wizards.com/2017/ust/en_qK2MGqzQbu.png">UST</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_Pdlgntbr3f.png">SOI</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_y9rdQBkOEb.png">SOI</set>
@@ -897,6 +902,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Construct</name>
+            <set picURL="https://media.wizards.com/2018/c18/en_MJZbSQyxfg.png">C18</set>
             <set picURL="https://magiccards.info/extras/token/worldwake/construct.jpg">WWK</set>
             <cmc>0</cmc>
             <type>Token Artifact Creature — Construct</type>
@@ -943,6 +949,15 @@ Cloud Sprite can block only creatures with flying.</text>
             <text>This creature gets +1/+1 for each artifact you control.</text>
             <token>1</token>
             <reverse-related>Karn, Scion of Urza</reverse-related>
+        </card>
+        <card>
+            <name>Construct    </name>
+            <set picURL="https://media.wizards.com/2018/c18/en_IxxQEPgrRI.png">C18</set>
+            <cmc>0</cmc>
+            <type>Token Artifact Creature — Construct</type>
+            <pt>4/4</pt>
+            <tablerow>2</tablerow>
+            <token>1</token>
         </card>
         <card>
             <name>Demon</name>
@@ -1136,6 +1151,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
         </card>
         <card>
             <name>Dragon    </name>
+            <set picURL="https://media.wizards.com/2018/c18/en_zL9su9fE6o.png">C18</set>
             <set picURL="https://img.scryfall.com/cards/png/en/tm19/9.png">M19</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_K2g14Mh1K4.png">EMA</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0007_MTGM15_TOK_EN%20copy.png">M15</set>
@@ -1150,6 +1166,19 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <token>1</token>
             <reverse-related>Brood Keeper</reverse-related>
             <reverse-related>Dragon Egg</reverse-related>
+        </card>
+        <card>
+            <name>Dragon Egg (token)</name>
+            <set picURL="https://media.wizards.com/2018/c18/en_nEav0mwmHj.png">C18</set>
+            <color>R</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Dragon Egg</type>
+            <pt>0/2</pt>
+            <tablerow>2</tablerow>
+            <text>Defender
+When this creature dies, create a 2/2 red Dragon creature token with flying and "{R}: This creature gets +1/+0 until end of turn."</text>
+            <token>1</token>
+            <related>Dragon    </related>
         </card>
         <card>
             <name>Dragon Spirit</name>
@@ -1412,6 +1441,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Elemental        </name>
+            <set picURL="https://media.wizards.com/2018/c18/en_efmGDBhowI.png">C18</set>
             <set picURL="https://magiccards.info/extras/token/oath-of-the-gatewatch/elemental-2.jpg">OGW</set>
             <color>G</color>
             <cmc>0</cmc>
@@ -2315,6 +2345,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Horror</name>
+            <set picURL="https://media.wizards.com/2018/c18/en_krflCNhKUy.png">C18</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/FcpMah0evd_EN.png">C16</set>
             <set picURL="https://magiccards.info/extras/token/mirrodin-besieged/horror.jpg">MBS</set>
             <cmc>0</cmc>
@@ -2896,6 +2927,7 @@ At the beginning of the end step, sacrifice this creature.</text>
         </card>
         <card>
             <name>Manifest</name>
+            <set picURL="https://media.wizards.com/2018/c18/en_4pAyT2EoSw.png">C18</set>
             <set picURL="https://magiccards.info/extras/token/fate-reforged/manifest.jpg">FRF</set>
             <cmc>0</cmc>
             <type>Creature</type>
@@ -2935,6 +2967,17 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <text>Flying, indestructible</text>
             <token>1</token>
             <reverse-related>Dark Depths</reverse-related>
+        </card>
+        <card>
+            <name>Mask</name>
+            <set picURL="https://media.wizards.com/2018/c18/en_av97DvZi26.png">C18</set>
+            <color>W</color>
+            <cmc>0</cmc>
+            <type>Token Enchantment — Aura</type>
+            <tablerow>1</tablerow>
+            <text>Enchant permanent
+Totem armor</text>
+            <token>1</token>
         </card>
         <card>
             <name>Merfolk</name>
@@ -3249,6 +3292,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Myr</name>
+            <set picURL="https://media.wizards.com/2018/c18/en_x7ivUnnF1w.png">C18</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/ZcDckQNuvU_EN.png">C16</set>
             <set picURL="https://magiccards.info/extras/token/modern-masters-2015/myr.jpg">MM2</set>
             <set picURL="https://magiccards.info/extras/token/commander-2014/myr.jpg">C14</set>
@@ -3272,6 +3316,16 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related>Origin Spellbomb</reverse-related>
             <reverse-related>Parasitic Implant</reverse-related>
             <reverse-related count="x">Shrine of Loyal Legions</reverse-related>
+        </card>
+        <card>
+            <name>Myr </name>
+            <set picURL="https://media.wizards.com/2018/c18/en_91HuVMHk2Q.png">C18</set>
+            <color>U</color>
+            <cmc>0</cmc>
+            <type>Token Artifact Creature — Myr</type>
+            <pt>2/1</pt>
+            <tablerow>2</tablerow>
+            <token>1</token>
         </card>
         <card>
             <name>Nightmare Horror</name>
@@ -3483,6 +3537,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Plant</name>
+            <set picURL="https://media.wizards.com/2018/c18/en_ZjevIjFfjB.png">C18</set>
             <set picURL="https://magiccards.info/extras/token/oath-of-the-gatewatch/plant.jpg">OGW</set>
             <set picURL="https://magiccards.info/extras/token/worldwake/plant.jpg">WWK</set>
             <color>G</color>
@@ -3846,6 +3901,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Shapeshifter </name>
+            <set picURL="https://media.wizards.com/2018/c18/en_Wgq29EPRnO.png">C18</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_v2CKUzXPj8.png">C15</set>
             <set picURL="https://magiccards.info/extras/token/lorwyn/shapeshifter.jpg">LRW</set>
             <cmc>0</cmc>
@@ -4005,6 +4061,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Soldier</name>
+            <set picURL="https://media.wizards.com/2018/c18/en_JMxD8MQKRM.png">C18</set>
             <set picURL="https://img.scryfall.com/cards/png/en/tm19/6.png">M19</set>
             <set picURL="https://media.wizards.com/2018/dom/en_IEkybS0amO.png">DOM</set>
             <set picURL="https://media.wizards.com/2018/a25/en_rjWdBD6PXM.png">A25</set>
@@ -4502,7 +4559,7 @@ Equip {0}</text>
         </card>
         <card>
             <name>Survivor</name>
-            <set picURL="http://cdn.staticneo.com/w/mtg/1/14/Survivor.jpg">MED</set>
+            <set picURL="https://media.wizards.com/2018/c18/en_PHvsYoiHLn.png">C18</set>
             <color>R</color>
             <cmc>0</cmc>
             <type>Token Creature — Survivor</type>
@@ -4548,6 +4605,8 @@ This creature can't be enchanted.</text>
         </card>
         <card>
             <name>Thopter</name>
+            <set picURL="https://media.wizards.com/2018/c18/en_mBoeau7u3l.png">C18</set>
+            <set picURL="https://media.wizards.com/2018/c18/en_Lw5bv3eHeO.png">C18</set>
             <set picURL="https://img.scryfall.com/cards/png/en/tm19/14.png">M19</set>
             <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_ZQ77vJDpoE.png">KLD</set>
             <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_V8a0HO5toy.png">KLD</set>
@@ -4584,6 +4643,7 @@ This creature can't be enchanted.</text>
         </card>
         <card>
             <name>Thopter </name>
+            <set picURL="https://media.wizards.com/2018/c18/en_R477TZPffA.png">C18</set>
             <set picURL="https://media.wizards.com/2017/ust/en_R8H1j5GjDU.png">UST</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/PK9s0eoiqm_EN.png">C16</set>
             <set picURL="https://magiccards.info/extras/token/shards-of-alara/thopter.jpg">ALA</set>
@@ -5107,6 +5167,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Worm</name>
+            <set picURL="https://media.wizards.com/2018/c18/en_CBoPclvY3j.png">C18</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/YRX6z4VY3I_EN.png">C16</set>
             <set picURL="https://magiccards.info/extras/token/modern-masters-2015/worm.jpg">MM2</set>
             <set picURL="https://magiccards.info/extras/token/modern-masters/worm.jpg">MMA</set>
@@ -5214,6 +5275,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Zombie</name>
+            <set picURL="https://media.wizards.com/2018/c18/en_NlO9xMIqTz.png">C18</set>
             <set picURL="https://img.scryfall.com/cards/png/en/tm19/8.png">M19</set>
             <set picURL="https://media.wizards.com/2017/ust/en_PdePJoDtFG.png">UST</set>
             <set picURL="https://magiccards.info/extras/token/commander-2017/zombie.jpg">C17</set>
