@@ -64,6 +64,7 @@
             <reverse-related>Descend upon the Sinful</reverse-related>
             <reverse-related count="x">Devout Invocation</reverse-related>
             <reverse-related count="x">Entreat the Angels</reverse-related>
+            <reverse-related count="x=1">Empyrial Storm</reverse-related>
             <reverse-related>Geist of Saint Traft</reverse-related>
             <reverse-related>Invocation of Saint Traft</reverse-related>
             <reverse-related>Luminarch Ascension</reverse-related>
@@ -745,6 +746,7 @@ Creature tokens you control have flying and vigilance.</text>
             <text>Forestwalk</text>
             <token>1</token>
             <reverse-related>Jedit Ojanen of Efrava</reverse-related>
+            <reverse-related count="6">Lord Windgrace</reverse-related>
         </card>
         <card>
             <name>Centaur</name>
@@ -911,6 +913,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <text>Trample</text>
             <token>1</token>
             <reverse-related>Stone Idol Trap</reverse-related>
+            <reverse-related>Ancient Stone Idol</reverse-related>
         </card>
         <card>
             <name>Construct </name>
@@ -958,6 +961,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <pt>4/4</pt>
             <tablerow>2</tablerow>
             <token>1</token>
+            <reverse-related exclude="exclude">Retrofitter Foundry</reverse-related>
         </card>
         <card>
             <name>Demon</name>
@@ -1179,6 +1183,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
 When this creature dies, create a 2/2 red Dragon creature token with flying and "{R}: This creature gets +1/+0 until end of turn."</text>
             <token>1</token>
             <related>Dragon    </related>
+            <reverse-related>Nesting Dragon</reverse-related>
         </card>
         <card>
             <name>Dragon Spirit</name>
@@ -2978,6 +2983,7 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <text>Enchant permanent
 Totem armor</text>
             <token>1</token>
+            <reverse-related>Estrid, the Masked</reverse-related>
         </card>
         <card>
             <name>Merfolk</name>
@@ -3326,6 +3332,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <pt>2/1</pt>
             <tablerow>2</tablerow>
             <token>1</token>
+            <reverse-related>Brudiclad, Telchor Engineer</reverse-related>
         </card>
         <card>
             <name>Nightmare Horror</name>
@@ -3551,6 +3558,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related>Khalni Garden</reverse-related>
             <reverse-related>Nature Shields Its Own</reverse-related>
             <reverse-related>Nissa, Voice of Zendikar</reverse-related>
+            <reverse-related>Turntimber Sower</reverse-related>
         </card>
         <card>
             <name>Plant </name>
@@ -3860,6 +3868,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Servo</name>
+            <set picURL="https://media.wizards.com/2018/c18/en_JyIqd8Hnqa.png">C18</set>
             <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_xzZQc5a68Z.png">KLD</set>
             <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_oKAeTK3DKA.png">KLD</set>
             <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_b786LD89UN.png">KLD</set>
@@ -3898,6 +3907,8 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related count="3">Sram's Expertise</reverse-related>
             <reverse-related count="2">Visionary Augmenter</reverse-related>
             <reverse-related count="2">Weaponcraft Enthusiast</reverse-related>
+            <reverse-related>Retrofitter Foundry</reverse-related>
+            <reverse-related>Saheeli, the Gifted</reverse-related>
         </card>
         <card>
             <name>Shapeshifter </name>
@@ -4567,6 +4578,7 @@ Equip {0}</text>
             <tablerow>2</tablerow>
             <token>1</token>
             <reverse-related count="x">Varchild's War-Riders</reverse-related>
+            <reverse-related count="x=3">Varchild, Betrayer of Kjeldor</reverse-related>
         </card>
         <card>
             <name>Tah-Crop Skirmisher (token)</name>
@@ -4640,6 +4652,8 @@ This creature can't be enchanted.</text>
             <reverse-related>Aviation Pioneer</reverse-related>
             <reverse-related>Sai, Master Thopterist</reverse-related>
             <reverse-related>Tezzeret, Artifice Master</reverse-related>
+            <reverse-related>Loyal Apprentice</reverse-related>
+            <reverse-related exclude="exclude">Retrofitter Foundry</reverse-related>
         </card>
         <card>
             <name>Thopter </name>
@@ -5386,6 +5400,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Zombie Infestation</reverse-related>
             <reverse-related>Graveyard Marshal</reverse-related>
             <reverse-related>Open the Graves</reverse-related>
+            <reverse-related>Varina, Lich Queen</reverse-related>
         </card>
         <card>
             <name>Zombie </name>
