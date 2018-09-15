@@ -23,7 +23,7 @@
          -->
         <card>
             <name>Adorned Pouncer (token)</name>
-            <set picURL="https://magiccards.info/extras/token/hour-of-devastation/adorned-pouncer.jpg">HOU</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/thou/1.jpg">HOU</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie Cat</type>
@@ -41,16 +41,15 @@
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_gvwFXo4kL2.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_OnvtmxOuug.png">SOI</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_KWY1Kgc86t.png">C15</set>
-            <set picURL="https://magiccards.info/extras/token/magic-origins/angel.jpg">ORI</set>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/angel.jpg">C14</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2014/angel.jpg">M14</set>
-            <set picURL="https://magiccards.info/extras/token/gatecrash/angel.jpg">GTC</set>
-            <set picURL="https://magiccards.info/extras/token/avacyn-restored-the-helvault-experience/angel.jpg">pPRE</set>
-            <set picURL="https://magiccards.info/extras/token/avacyn-restored/angel.jpg">AVR</set>
-            <set picURL="https://magiccards.info/extras/token/innistrad/angel.jpg">ISD</set>
-            <set picURL="https://magiccards.info/extras/token/zendikar/angel.jpg">ZEN</set>
-            <set picURL="https://magiccards.info/extras/token/conflux/angel.jpg">CON</set>
-            <set picURL="https://magiccards.info/extras/token/player-rewards-2004/angel.jpg">SCG</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tori/1.jpg">ORI</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/1.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm14/2.jpg">M14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tgtc/1.jpg">GTC</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/p04/2.jpg">pPRE</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tavr/1.jpg">AVR</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tisd/1.jpg">ISD</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tzen/1.jpg">ZEN</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tcon/1.jpg">CON</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Angel</type>
@@ -86,7 +85,7 @@
         </card>
         <card>
             <name>Angel  </name>
-            <set picURL="https://magiccards.info/extras/token/oath-of-the-gatewatch/angel.jpg">OGW</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/togw/7.jpg">OGW</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Angel</type>
@@ -110,7 +109,7 @@
         </card>
         <card>
             <name>Angel of Sanctions (token)</name>
-            <set picURL="https://magiccards.info/extras/token/amonkhet/angel-of-sanctions.jpg">AKH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/takh/1.jpg">AKH</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie Angel</type>
@@ -123,7 +122,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
         </card>
         <card>
             <name>Anointer Priest (token)</name>
-            <set picURL="https://magiccards.info/extras/token/amonkhet/anointer-priest.jpg">AKH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/takh/2.jpg">AKH</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie Human Cleric</type>
@@ -146,7 +145,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
         </card>
         <card>
             <name>Ape</name>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/ape.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/18.jpg">C14</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Ape</type>
@@ -157,7 +156,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
         </card>
         <card>
             <name>Ashaya, the Awoken World</name>
-            <set picURL="https://magiccards.info/extras/token/magic-origins/ashaya-the-awoken-world.jpg">ORI</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tori/7.jpg">ORI</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Legendary Creature — Elemental</type>
@@ -168,8 +167,8 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
         </card>
         <card>
             <name>Assassin</name>
-            <set picURL="https://magiccards.info/extras/token/duel-decks-jace-vs-vraska/assassin.jpg">DDM</set>
-            <set picURL="https://magiccards.info/extras/token/return-to-ravnica/assassin.jpg">RTR</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tddm/1.jpg">DDM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/trtr/4.jpg">RTR</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Assassin</type>
@@ -203,9 +202,9 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
         </card>
         <card>
             <name>Avatar</name>
-            <set picURL="https://magiccards.info/extras/token/magic-2011/avatar.jpg">M11</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2010/avatar.jpg">M10</set>
-            <set picURL="https://magiccards.info/extras/token/lorwyn/avatar.jpg">LRW</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm11/1.jpg">M11</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm10/1.jpg">M10</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tlrw/1.jpg">LRW</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Avatar</type>
@@ -229,7 +228,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
         </card>
         <card>
             <name>Aven Initiate (token)</name>
-            <set picURL="https://magiccards.info/extras/token/amonkhet/aven-initiate.jpg">AKH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/takh/3.jpg">AKH</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie Bird Warrior</type>
@@ -241,7 +240,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
         </card>
         <card>
             <name>Aven Wind Guide (token)</name>
-            <set picURL="https://magiccards.info/extras/token/amonkhet/aven-wind-guide.jpg">AKH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/takh/4.jpg">AKH</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie Bird Warrior</type>
@@ -255,8 +254,8 @@ Creature tokens you control have flying and vigilance.</text>
         <card>
             <name>Bat</name>
             <set picURL="https://img.scryfall.com/cards/png/en/tm19/7.png">M19</set>
-            <set picURL="https://magiccards.info/extras/token/commander-2017/bat.jpg">C17</set>
-            <set picURL="https://magiccards.info/extras/token/modern-masters/bat.jpg">MMA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc17/2.jpg">C17</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmma/5.jpg">MMA</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Bat</type>
@@ -285,8 +284,8 @@ Creature tokens you control have flying and vigilance.</text>
         <card>
             <name>Bear</name>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_X4EoEnpo8O.png">C15</set>
-            <set picURL="https://magiccards.info/extras/token/player-rewards-2001/bear.jpg">ODY</set>
-            <set picURL="https://magiccards.info/extras/token/player-rewards-2003/bear.jpg">ONS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmpr/7.jpg">ODY</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/p03/4.jpg">ONS</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Bear</type>
@@ -302,7 +301,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Bear </name>
-            <set picURL="https://magiccards.info/extras/token/khans-of-tarkir/bear.jpg">KTK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tktk/8.jpg">KTK</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Bear</type>
@@ -315,23 +314,23 @@ Creature tokens you control have flying and vigilance.</text>
             <name>Beast</name>
             <set picURL="https://img.scryfall.com/cards/png/en/tm19/12.png">M19</set>
             <set picURL="https://media.wizards.com/2017/ust/en_nDIhTLwNrc.png">UST</set>
-            <set picURL="https://magiccards.info/extras/token/archenemy-nicol-bolas/beast-1.jpg">E01</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/te01/4.jpg">E01</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_usBhGfeR1M.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/W0xMFNlHxf_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_3ginm6gErc.png">CN2</set>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/beast-1.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/19.jpg">C14</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0009_MTGM15_TOK_EN%20copy.png">M15</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2014/beast.jpg">M14</set>
-            <set picURL="https://magiccards.info/extras/token/duel-decks-heroes-vs-monsters/beast.jpg">DDL</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2013/beast.jpg">M13</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2012/beast.jpg">M12</set>
-            <set picURL="https://magiccards.info/extras/token/new-phyrexia/beast.jpg">NPH</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2011/beast.jpg">M11</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2010/beast.jpg">M10</set>
-            <set picURL="https://magiccards.info/extras/token/duel-decks-garruk-vs-liliana/beast-1.jpg">DDD</set>
-            <set picURL="https://magiccards.info/extras/token/eventide/beast.jpg">EVE</set>
-            <set picURL="https://magiccards.info/extras/token/lorwyn/beast.jpg">LRW</set>
-            <set picURL="https://magiccards.info/extras/token/player-rewards-2004/beast.jpg">DST</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm14/9.jpg">M14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tddl/2.jpg">DDL</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm13/8.jpg">M13</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm12/4.jpg">M12</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tnph/1.jpg">NPH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm11/4.jpg">M11</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm10/5.jpg">M10</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tddd/1.jpg">DDD</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/teve/3.jpg">EVE</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tlrw/7.jpg">LRW</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/p04/5.jpg">DST</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Beast</type>
@@ -355,13 +354,13 @@ Creature tokens you control have flying and vigilance.</text>
         <card>
             <name>Beast </name>
             <set picURL="https://media.wizards.com/2018/c18/en_zY5Api5UdC.png">C18</set>
-            <set picURL="https://magiccards.info/extras/token/archenemy-nicol-bolas/beast-2.jpg">E01</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/te01/5.jpg">E01</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_sExTvXEuyG.png">MM3</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_hHSzfAwFwd.png">C15</set>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/beast-2.jpg">C14</set>
-            <set picURL="https://magiccards.info/extras/token/zendikar/beast.jpg">ZEN</set>
-            <set picURL="https://magiccards.info/extras/token/duel-decks-garruk-vs-liliana/beast-2.jpg">DDD</set>
-            <set picURL="https://magiccards.info/extras/token/player-rewards-2001/beast.jpg">ODY</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/20.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tzen/9.jpg">ZEN</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tddd/2.jpg">DDD</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/mpr/8.jpg">ODY</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Beast</type>
@@ -376,7 +375,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Beast  </name>
-            <set picURL="https://magiccards.info/extras/token/shards-of-alara/beast.jpg">ALA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tala/10.jpg">ALA</set>
             <color>R</color>
             <color>G</color>
             <color>W</color>
@@ -445,7 +444,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Beast        </name>
-            <set picURL="https://magiccards.info/extras/token/amonkhet/beast.jpg">AKH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/takh/21.jpg">AKH</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Beast</type>
@@ -472,9 +471,9 @@ Creature tokens you control have flying and vigilance.</text>
             <name>Bird </name>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_2wXcJD92zt.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/xA26RzQIyY_EN.png">C16</set>
-            <set picURL="https://magiccards.info/extras/token/born-of-the-gods/bird-1.jpg">BNG</set>
-            <set picURL="https://magiccards.info/extras/token/zendikar/bird.jpg">ZEN</set>
-            <set picURL="https://magiccards.info/extras/token/return-to-ravnica/bird.jpg">RTR</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tbng/1.jpg">BNG</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tzen/2.jpg">ZEN</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/trtr/1.jpg">RTR</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Bird</type>
@@ -494,8 +493,8 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Bird  </name>
-            <set picURL="https://magiccards.info/extras/token/eventide/bird.jpg">EVE</set>
-            <set picURL="https://magiccards.info/extras/token/player-rewards-2001/bird.jpg">INV</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/teve/2.jpg">EVE</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/mpr/4.jpg">INV</set>
             <color>U</color>
             <cmc>0</cmc>
             <type>Token Creature — Bird</type>
@@ -508,8 +507,8 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Bird   </name>
-            <set picURL="https://magiccards.info/extras/token/magic-2012/bird.jpg">M12</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2011/bird.jpg">M11</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm12/1.jpg">M12</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm11/2.jpg">M11</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Bird</type>
@@ -522,7 +521,7 @@ Creature tokens you control have flying and vigilance.</text>
         <card>
             <name>Bird    </name>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/x6wvejvxOl_EN.png">C16</set>
-            <set picURL="https://magiccards.info/extras/token/theros/bird.jpg">THS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tths/4.jpg">THS</set>
             <color>U</color>
             <cmc>0</cmc>
             <type>Token Creature — Bird</type>
@@ -534,7 +533,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Bird     </name>
-            <set picURL="https://magiccards.info/extras/token/born-of-the-gods/bird-2.jpg">BNG</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tbng/4.jpg">BNG</set>
             <color>U</color>
             <cmc>0</cmc>
             <type>Token Enchantment Creature — Bird</type>
@@ -547,7 +546,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Bird      </name>
-            <set picURL="https://magiccards.info/extras/token/player-rewards-2003/rukh.jpg">8ED</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/p03/7.jpg">8ED</set>
             <color>R</color>
             <cmc>0</cmc>
             <type>Token Creature — Bird</type>
@@ -559,7 +558,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Bird       </name>
-            <set picURL="https://magiccards.info/extras/token/khans-of-tarkir/bird.jpg">KTK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tktk/1.jpg">KTK</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Bird</type>
@@ -571,7 +570,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Bird Soldier</name>
-            <set picURL="https://magiccards.info/extras/token/alara-reborn/bird-soldier.jpg">ARB</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tarb/1.jpg">ARB</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Bird Soldier</type>
@@ -583,7 +582,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Boar</name>
-            <set picURL="https://magiccards.info/extras/token/planechase-anthology/boar.jpg">PCA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tpca/14.jpg">PCA</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Boar</type>
@@ -594,7 +593,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Boar </name>
-            <set picURL="https://magiccards.info/extras/token/theros/boar.jpg">THS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tths/8.jpg">THS</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Boar</type>
@@ -651,12 +650,12 @@ Creature tokens you control have flying and vigilance.</text>
         <card>
             <name>Cat</name>
             <set picURL="https://media.wizards.com/2018/c18/en_OKSc5ByNDU.png">C18</set>
-            <set picURL="https://magiccards.info/extras/token/commander-2017/cat.jpg">C17</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc17/1.jpg">C17</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_yUL1MXcDyV.png">C15</set>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/cat.jpg">C14</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2014/cat.jpg">M14</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2013/cat.jpg">M13</set>
-            <set picURL="https://magiccards.info/extras/token/scars-of-mirrodin/cat.jpg">SOM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/2.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm14/3.jpg">M14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm13/1.jpg">M13</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tsom/1.jpg">SOM</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Cat</type>
@@ -693,7 +692,7 @@ Creature tokens you control have flying and vigilance.</text>
         <card>
             <name>Cat   </name>
             <set picURL="https://img.scryfall.com/cards/png/en/tm19/3.png">M19</set>
-            <set picURL="https://magiccards.info/extras/token/amonkhet/cat.jpg">AKH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/takh/16.jpg">AKH</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Cat</type>
@@ -708,7 +707,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Cat Dragon</name>
-            <set picURL="https://magiccards.info/extras/token/commander-2017/cat-dragon.jpg">C17</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc17/9.jpg">C17</set>
             <color>B</color>
             <color>R</color>
             <color>G</color>
@@ -722,7 +721,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Cat Soldier</name>
-            <set picURL="https://magiccards.info/extras/token/born-of-the-gods/cat-soldier.jpg">BNG</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tbng/2.jpg">BNG</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Cat Soldier</type>
@@ -736,7 +735,7 @@ Creature tokens you control have flying and vigilance.</text>
         <card>
             <name>Cat Warrior</name>
             <set picURL="https://media.wizards.com/2018/c18/en_R9R0pmo5zu.png">C18</set>
-            <set picURL="https://magiccards.info/extras/token/commander-2017/cat-warrior.jpg">C17</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc17/8.jpg">C17</set>
             <set picURL="http://cdn.staticneo.com/w/mtg/2/2d/Cat_Warrior.jpg">PLC</set>
             <color>G</color>
             <cmc>0</cmc>
@@ -751,7 +750,7 @@ Creature tokens you control have flying and vigilance.</text>
         <card>
             <name>Centaur</name>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_ah0ecd5RgR.png">MM3</set>
-            <set picURL="https://magiccards.info/extras/token/return-to-ravnica/centaur-1.jpg">RTR</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/trtr/7.jpg">RTR</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Centaur</type>
@@ -780,7 +779,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Centaur   </name>
-            <set picURL="https://magiccards.info/extras/token/born-of-the-gods/centaur.jpg">BNG</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tbng/8.jpg">BNG</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Enchantment Creature — Centaur</type>
@@ -792,7 +791,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Champion of Wits (token)</name>
-            <set picURL="https://magiccards.info/extras/token/hour-of-devastation/champion-of-wits.jpg">HOU</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/thou/2.jpg">HOU</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie Naga Wizard</type>
@@ -816,7 +815,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Cleric</name>
-            <set picURL="https://magiccards.info/extras/token/gatecrash/cleric.jpg">GTC</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tgtc/4.jpg">GTC</set>
             <color>W</color>
             <color>B</color>
             <cmc>0</cmc>
@@ -829,7 +828,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Cleric </name>
-            <set picURL="https://magiccards.info/extras/token/theros/cleric.jpg">THS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tths/1.jpg">THS</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Enchantment Creature — Cleric</type>
@@ -905,7 +904,7 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Construct</name>
             <set picURL="https://media.wizards.com/2018/c18/en_MJZbSQyxfg.png">C18</set>
-            <set picURL="https://magiccards.info/extras/token/worldwake/construct.jpg">WWK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/twwk/6.jpg">WWK</set>
             <cmc>0</cmc>
             <type>Token Artifact Creature — Construct</type>
             <pt>6/12</pt>
@@ -918,7 +917,7 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Construct </name>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_d3hA3fK2vj.png">CN2</set>
-            <set picURL="https://magiccards.info/extras/token/conspiracy/construct.jpg">CNS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tcns/8.jpg">CNS</set>
             <cmc>0</cmc>
             <type>Token Artifact Creature — Construct</type>
             <pt>1/1</pt>
@@ -965,12 +964,10 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Demon</name>
-            <set picURL="https://magiccards.info/extras/token/magic-origins/demon.jpg">ORI</set>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/demon-2.jpg">C14</set>
-            <set picURL="https://magiccards.info/extras/token/avacyn-restored-the-helvault-experience/demon.jpg">pPRE</set>
-            <set picURL="https://magiccards.info/extras/token/avacyn-restored/demon.jpg">AVR</set>
-            <set picURL="https://magiccards.info/extras/token/innistrad/demon.jpg">ISD</set>
-            <set picURL="https://magiccards.info/extra/token/player-rewards-2003/demon.jpg">MIR</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tori/4.jpg">ORI</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/13.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tavr/5.jpg">AVR</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tisd/4.jpg">ISD</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Demon</type>
@@ -985,10 +982,10 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Demon </name>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/demon-1.jpg">C14</set>
-            <set picURL="https://magiccards.info/extras/token/conspiracy/demon.jpg">CNS</set>
-            <set picURL="https://magiccards.info/extras/token/duel-decks-divine-vs-demonic/demon.jpg">DDC</set>
-            <set picURL="https://magiccards.info/extras/token/player-rewards-2003/demon.jpg">MIR</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/12.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tcns/2.jpg">CNS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tddc/2.jpg">DDC</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/p03/6.jpg">MIR</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Demon</type>
@@ -1067,7 +1064,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
         </card>
         <card>
             <name>Djinn Monk</name>
-            <set picURL="https://magiccards.info/extras/token/dragons-of-tarkir/djinn-monk.jpg">DTK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tdtk/2.jpg">DTK</set>
             <color>U</color>
             <cmc>0</cmc>
             <type>Token Creature — Djinn Monk</type>
@@ -1083,10 +1080,10 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <set picURL="https://img.scryfall.com/cards/png/en/tm19/10.png">M19</set>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_tUlOveGiwh.png">CN2</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_PngB7kxTCg.png">C15</set>
-            <set picURL="https://magiccards.info/extras/token/battle-for-zendikar/dragon.jpg">BFZ</set>
-            <set picURL="https://magiccards.info/extras/token/worldwake/dragon.jpg">WWK</set>
-            <set picURL="https://magiccards.info/extras/token/tenth-edition/dragon.jpg">10E</set>
-            <set picURL="https://magiccards.info/extras/token/player-rewards-2002/dragon.jpg">ONS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tbfz/8.jpg">BFZ</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/twwk/2.jpg">WWK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/t10E/3.jpg">10E</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/pr2/7.jpg">ONS</set>
             <color>R</color>
             <cmc>0</cmc>
             <type>Token Creature — Dragon</type>
@@ -1109,11 +1106,11 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
         </card>
         <card>
             <name>Dragon  </name>
-            <set picURL="https://magiccards.info/extras/token/commander-2017/dragon-1.jpg">C17</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc17/6.jpg">C17</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_TKuSkyDBa4.png">MM3</set>
-            <set picURL="https://magiccards.info/extras/token/dragons-of-tarkir/dragon.jpg">DTK</set>
-            <set picURL="https://magiccards.info/extras/token/modern-masters/dragon.jpg">MMA</set>
-            <set picURL="https://magiccards.info/extras/token/shards-of-alara/dragon.jpg">ALA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tdtk/5.jpg">DTK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmma/9.jpg">MMA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tala/6.jpg">ALA</set>
             <color>R</color>
             <cmc>0</cmc>
             <type>Token Creature — Dragon</type>
@@ -1129,7 +1126,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
         </card>
         <card>
             <name>Dragon </name>
-            <set picURL="https://magiccards.info/extras/token/alara-reborn/dragon.jpg">ARB</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tarb/3.jpg">ARB</set>
             <color>R</color>
             <color>G</color>
             <cmc>0</cmc>
@@ -1142,8 +1139,8 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
         </card>
         <card>
             <name>Dragon   </name>
-            <set picURL="https://magiccards.info/extras/token/commander-2017/dragon-2.jpg">C17</set>
-            <set picURL="https://magiccards.info/extras/token/return-to-ravnica/dragon.jpg">RTR</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc17/7.jpg">C17</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/trtr/5.jpg">RTR</set>
             <color>R</color>
             <cmc>0</cmc>
             <type>Token Creature — Dragon</type>
@@ -1159,7 +1156,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <set picURL="https://img.scryfall.com/cards/png/en/tm19/9.png">M19</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_K2g14Mh1K4.png">EMA</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0007_MTGM15_TOK_EN%20copy.png">M15</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2014/dragon.jpg">M14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm14/6.jpg">M14</set>
             <color>R</color>
             <cmc>0</cmc>
             <type>Token Creature — Dragon</type>
@@ -1199,9 +1196,9 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
         </card>
         <card>
             <name>Drake</name>
-            <set picURL="https://magiccards.info/extras/token/amonkhet/drake.jpg">AKH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/takh/18.jpg">AKH</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_YQgzJqST41.png">C15</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2013/drake.jpg">M13</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm13/4.jpg">M13</set>
             <color>U</color>
             <cmc>0</cmc>
             <type>Token Creature — Drake</type>
@@ -1215,7 +1212,7 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
         </card>
         <card>
             <name>Drake </name>
-            <set picURL="https://magiccards.info/extras/token/commander-anthology/drake.jpg">DIS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tcma/18.jpg">CMA</set>
             <color>G</color>
             <color>U</color>
             <cmc>0</cmc>
@@ -1228,7 +1225,7 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
         </card>
         <card>
             <name>Dreamstealer (token)</name>
-            <set picURL="https://magiccards.info/extras/token/hour-of-devastation/dreamstealer.jpg">HOU</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/thou/3.jpg">HOU</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie Human Wizard</type>
@@ -1241,7 +1238,7 @@ Whenever Dreamstealer deals combat damage to a player, that player discards that
         </card>
         <card>
             <name>Earthshaker Khenra (token)</name>
-            <set picURL="https://magiccards.info/extras/token/hour-of-devastation/earthshaker-khenra.jpg">HOU</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/thou/4.jpg">HOU</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie Jackal Warrior</type>
@@ -1254,7 +1251,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Eldrazi</name>
-            <set picURL="https://magiccards.info/extras/token/battle-for-zendikar/eldrazi.jpg">BFZ</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tbfz/1.jpg">BFZ</set>
             <cmc>0</cmc>
             <type>Token Creature — Eldrazi</type>
             <pt>10/10</pt>
@@ -1264,7 +1261,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Eldrazi </name>
-            <set picURL="https://magiccards.info/extras/token/planechase-anthology/eldrazi.jpg">PCA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tpca/1.jpg">PCA</set>
             <cmc>0</cmc>
             <type>Token Creature — Eldrazi</type>
             <pt>7/7</pt>
@@ -1294,15 +1291,15 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Eldrazi Scion</name>
-            <set picURL="https://magiccards.info/extras/token/oath-of-the-gatewatch/eldrazi-scion-4.jpg">OGW</set>
-            <set picURL="https://magiccards.info/extras/token/oath-of-the-gatewatch/eldrazi-scion-5.jpg">OGW</set>
-            <set picURL="https://magiccards.info/extras/token/oath-of-the-gatewatch/eldrazi-scion-6.jpg">OGW</set>
-            <set picURL="https://magiccards.info/extras/token/oath-of-the-gatewatch/eldrazi-scion-1.jpg">OGW</set>
-            <set picURL="https://magiccards.info/extras/token/oath-of-the-gatewatch/eldrazi-scion-2.jpg">OGW</set>
-            <set picURL="https://magiccards.info/extras/token/oath-of-the-gatewatch/eldrazi-scion-3.jpg">OGW</set>
-            <set picURL="https://magiccards.info/extras/token/battle-for-zendikar/eldrazi-scion-1.jpg">BFZ</set>
-            <set picURL="https://magiccards.info/extras/token/battle-for-zendikar/eldrazi-scion-2.jpg">BFZ</set>
-            <set picURL="https://magiccards.info/extras/token/battle-for-zendikar/eldrazi-scion-3.jpg">BFZ</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/togw/1.jpg">OGW</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/togw/2.jpg">OGW</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/togw/3.jpg">OGW</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/togw/4.jpg">OGW</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/togw/5.jpg">OGW</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/togw/6.jpg">OGW</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tbfz/2.jpg">BFZ</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tbfz/3.jpg">BFZ</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tbfz/4.jpg">BFZ</set>
             <cmc>0</cmc>
             <type>Token Creature — Eldrazi Scion</type>
             <pt>1/1</pt>
@@ -1334,13 +1331,13 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Eldrazi Spawn</name>
-            <set picURL="https://magiccards.info/extras/token/commander-2017/eldrazi-spawn.jpg">C17</set>
-            <set picURL="https://magiccards.info/extras/token/modern-masters-2015/eldrazi-spawn-1.jpg">MM2</set>
-            <set picURL="https://magiccards.info/extras/token/modern-masters-2015/eldrazi-spawn-2.jpg">MM2</set>
-            <set picURL="https://magiccards.info/extras/token/modern-masters-2015/eldrazi-spawn-3.jpg">MM2</set>
-            <set picURL="https://magiccards.info/extras/token/rise-of-the-eldrazi/eldrazi-spawn-1.jpg">ROE</set>
-            <set picURL="https://magiccards.info/extras/token/rise-of-the-eldrazi/eldrazi-spawn-2.jpg">ROE</set>
-            <set picURL="https://magiccards.info/extras/token/rise-of-the-eldrazi/eldrazi-spawn-3.jpg">ROE</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc17/11.jpg">C17</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmm2/1.jpg">MM2</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmm2/2.jpg">MM2</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmm2/3.jpg">MM2</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/troe/1a.jpg">ROE</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/troe/1b.jpg">ROE</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/troe/1c.jpg">ROE</set>
             <cmc>0</cmc>
             <type>Token Creature — Eldrazi Spawn</type>
             <pt>0/1</pt>
@@ -1367,7 +1364,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <set picURL="https://media.wizards.com/2017/rix/en_it7lbrrNfw.png">RIX</set>
             <set picURL="https://media.wizards.com/2017/ust/en_1zKJiI6bIw.png">UST</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_43rUaKSbgs.png">EMA</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2014/elemental-1.jpg">M14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm14/7.jpg">M14</set>
             <color>R</color>
             <cmc>0</cmc>
             <type>Token Creature — Elemental</type>
@@ -1382,8 +1379,8 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Elemental  </name>
-            <set picURL="https://magiccards.info/extras/token/oath-of-the-gatewatch/elemental-1.jpg">OGW</set>
-            <set picURL="https://magiccards.info/extras/token/conflux/elemental.jpg">CON</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/togw/9.jpg">OGW</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tcon/2.jpg">CON</set>
             <color>R</color>
             <cmc>0</cmc>
             <type>Token Creature — Elemental</type>
@@ -1398,7 +1395,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Elemental    </name>
-            <set picURL="https://magiccards.info/extras/token/rise-of-the-eldrazi/elemental.jpg">ROE</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/troe/2.jpg">ROE</set>
             <color>R</color>
             <cmc>0</cmc>
             <type>Token Creature — Elemental</type>
@@ -1409,7 +1406,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Elemental     </name>
-            <set picURL="https://magiccards.info/extras/token/zendikar/elemental.jpg">ZEN</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tzen/8.jpg">ZEN</set>
             <color>R</color>
             <cmc>0</cmc>
             <type>Token Creature — Elemental</type>
@@ -1433,8 +1430,8 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Elemental       </name>
-            <set picURL="https://magiccards.info/extras/token/modern-masters/elemental.jpg">MMA</set>
-            <set picURL="https://magiccards.info/extras/token/lorwyn/elemental-1.jpg">LRW</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmma/11.jpg">MMA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tlrw/6.jpg">LRW</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Elemental</type>
@@ -1447,7 +1444,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         <card>
             <name>Elemental        </name>
             <set picURL="https://media.wizards.com/2018/c18/en_efmGDBhowI.png">C18</set>
-            <set picURL="https://magiccards.info/extras/token/oath-of-the-gatewatch/elemental-2.jpg">OGW</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/togw/10.jpg">OGW</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Elemental</type>
@@ -1460,7 +1457,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Elemental         </name>
-            <set picURL="https://magiccards.info/extras/token/duel-decks-elves-vs-goblins/elemental.jpg">EVG</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tevg/1.jpg">EVG</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Elemental</type>
@@ -1473,7 +1470,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         <card>
             <name>Elemental          </name>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/hLbATbkzqS_EN.png">C16</set>
-            <set picURL="https://magiccards.info/extras/token/lorwyn/elemental-2.jpg">LRW</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tlrw/2.jpg">LRW</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Elemental</type>
@@ -1497,7 +1494,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Elemental            </name>
-            <set picURL="https://magiccards.info/extras/token/shadowmoor/elemental-2.jpg">SHM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tshm/9.jpg">SHM</set>
             <color>B</color>
             <color>R</color>
             <cmc>0</cmc>
@@ -1511,7 +1508,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <name>Elemental             </name>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_QkXPO6OqIO.png">EMA</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_l280zeUKr7.png">C15</set>
-            <set picURL="https://magiccards.info/extras/token/eventide/elemental.jpg">EVE</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/teve/5.jpg">EVE</set>
             <color>U</color>
             <color>R</color>
             <cmc>0</cmc>
@@ -1524,7 +1521,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Elemental              </name>
-            <set picURL="https://magiccards.info/extras/token/return-to-ravnica/elemental.jpg">RTR</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/trtr/12.jpg">RTR</set>
             <color>G</color>
             <color>W</color>
             <cmc>0</cmc>
@@ -1539,7 +1536,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <name>Elemental               </name>
             <set picURL="https://media.wizards.com/2017/ust/en_hVi6aiRirc.png">UST</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_rONwJn9fUD.png">MM3</set>
-            <set picURL="https://magiccards.info/extras/token/dragons-maze/elemental.jpg">DGM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tdgm/1.jpg">DGM</set>
             <color>G</color>
             <color>W</color>
             <cmc>0</cmc>
@@ -1552,7 +1549,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Elemental                </name>
-            <set picURL="https://magiccards.info/extras/token/theros/elemental.jpg">THS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tths/5.jpg">THS</set>
             <color>U</color>
             <cmc>0</cmc>
             <type>Token Creature — Elemental</type>
@@ -1563,7 +1560,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Elemental                 </name>
-            <set picURL="https://magiccards.info/extras/token/born-of-the-gods/elemental.jpg">BNG</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tbng/7.jpg">BNG</set>
             <color>R</color>
             <cmc>0</cmc>
             <type>Token Enchantment Creature — Elemental</type>
@@ -1574,7 +1571,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Elemental                  </name>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/elemental.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/21.jpg">C14</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Elemental</type>
@@ -1585,7 +1582,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Elemental                   </name>
-            <set picURL="https://magiccards.info/extras/token/magic-origins/elemental.jpg">ORI</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tori/8.jpg">ORI</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Elemental</type>
@@ -1597,7 +1594,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         <card>
             <name>Elemental                     </name>
             <set picURL="https://media.wizards.com/2018/dom/en_1rXJAntafJ.png">DOM</set>
-            <set picURL="https://magiccards.info/extras/token/battle-for-zendikar/elemental-1.jpg">BFZ</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tbfz/9.jpg">BFZ</set>
             <color>R</color>
             <cmc>0</cmc>
             <type>Token Creature — Elemental</type>
@@ -1610,7 +1607,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Elemental                      </name>
-            <set picURL="https://magiccards.info/extras/token/battle-for-zendikar/elemental-2.jpg">BFZ</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tbfz/11.jpg">BFZ</set>
             <color>R</color>
             <color>G</color>
             <cmc>0</cmc>
@@ -1657,8 +1654,8 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         <card>
             <name>Elemental Shaman</name>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_WIclKPYNay.png">C15</set>
-            <set picURL="https://magiccards.info/extras/token/duel-decks-jace-vs-chandra/elemental-shaman.jpg">DD2</set>
-            <set picURL="https://magiccards.info/extras/token/lorwyn/elemental-shaman.jpg">LRW</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tdd2/1.jpg">DD2</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tlrw/6.jpg">LRW</set>
             <color>R</color>
             <cmc>0</cmc>
             <type>Token Creature — Elemental Shaman</type>
@@ -1674,13 +1671,13 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_0F4M7yiktn.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_cQ9QQhPytK.png">EMA</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_F7cegsyXsw.png">C15</set>
-            <set picURL="https://magiccards.info/extras/token/modern-masters-2015/elephant.jpg">MM2</set>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/elephant.jpg">C14</set>
-            <set picURL="https://magiccards.info/extras/token/conspiracy/elephant.jpg">CNS</set>
-            <set picURL="https://magiccards.info/extras/token/worldwake/elephant.jpg">WWK</set>
-            <set picURL="https://magiccards.info/extras/token/duel-decks-garruk-vs-liliana/elephant.jpg">DDD</set>
-            <set picURL="https://magiccards.info/extras/token/player-rewards-2001/elephant.jpg">INV</set>
-            <set picURL="https://magiccards.info/extras/token/player-rewards-2002/elephant.jpg">ODY</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmm2/9.jpg">MM2</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/22.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tcns/5.jpg">CNS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/twwk/4.jpg">WWK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tddd/3.jpg">DDD</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/mpr/3.jpg">INV</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/pr2/5.jpg">ODY</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Elephant</type>
@@ -1700,7 +1697,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Elf Druid</name>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/elf-druid.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/23.jpg">C14</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Elf Druid</type>
@@ -1716,11 +1713,11 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <set picURL="https://media.wizards.com/2018/a25/en_B4VqZzneN9.png">A25</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/3kKodsqlXd_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_5V69YTP0YA.png">EMA</set>
-            <set picURL="https://magiccards.info/extras/token/magic-origins/elf-warrior.jpg">ORI</set>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/elf-warrior.jpg">C14</set>
-            <set picURL="https://magiccards.info/extras/token/shadowmoor/elf-warrior-1.jpg">SHM</set>
-            <set picURL="https://magiccards.info/extras/token/duel-decks-elves-vs-goblins/elf-warrior.jpg">EVG</set>
-            <set picURL="https://magiccards.info/extras/token/lorwyn/elf-warrior.jpg">LRW</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tori/9.jpg">ORI</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/24.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tshm/5.jpg">SHM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tevg/2.jpg">EVG</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tlrw/9.jpg">LRW</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Elf Warrior</type>
@@ -1743,7 +1740,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Elf Warrior </name>
-            <set picURL="https://magiccards.info/extras/token/shadowmoor/elf-warrior-2.jpg">SHM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tshm/12.jpg">SHM</set>
             <color>G</color>
             <color>W</color>
             <cmc>0</cmc>
@@ -1756,7 +1753,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Etherium Cell</name>
-            <set picURL="https://magiccards.info/extras/token/aether-revolt/etherium-cell.jpg">AER</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/taer/3.jpg">AER</set>
             <cmc>0</cmc>
             <type>Token Artifact</type>
             <tablerow>1</tablerow>
@@ -1778,8 +1775,8 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Faerie Rogue</name>
-            <set picURL="https://magiccards.info/extras/token/modern-masters-2015/faerie-rogue.jpg">MM2</set>
-            <set picURL="https://magiccards.info/extras/token/morningtide/faerie-rogue.jpg">MOR</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmm2/6.jpg">MM2</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmor/2.jpg">MOR</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Faerie Rogue</type>
@@ -1793,8 +1790,8 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Faerie Rogue </name>
-            <set picURL="https://magiccards.info/extras/token/modern-masters/faerie-rogue.jpg">MMA</set>
-            <set picURL="https://magiccards.info/extras/token/shadowmoor/faerie-rogue.jpg">SHM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmma/14.jpg">MMA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tshm/8.jpg">SHM</set>
             <color>U</color>
             <color>B</color>
             <cmc>0</cmc>
@@ -1820,7 +1817,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         <card>
             <name>Fish</name>
             <set picURL="https://media.wizards.com/2018/a25/en_0MZScjB7tc.png">A25</set>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/fish.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/8.jpg">C14</set>
             <color>U</color>
             <cmc>0</cmc>
             <type>Token Creature — Fish</type>
@@ -1834,7 +1831,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         <card>
             <name>Frog Lizard</name>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_ezDepR29P8.png">C15</set>
-            <set picURL="https://magiccards.info/extras/token/gatecrash/frog-lizard.jpg">GTC</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tgtc/3.jpg">GTC</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Frog Lizard</type>
@@ -1845,8 +1842,8 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Gargoyle</name>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/gargoyle.jpg">C14</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2010/gargoyle.jpg">M10</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/27.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm10/8.jpg">M10</set>
             <cmc>0</cmc>
             <type>Token Artifact Creature — Gargoyle</type>
             <pt>3/4</pt>
@@ -1859,9 +1856,9 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <name>Germ</name>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/byg00olvZx_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_UF6tUBntoI.png">C15</set>
-            <set picURL="https://magiccards.info/extras/token/modern-masters-2015/germ.jpg">MM2</set>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/germ.jpg">C14</set>
-            <set picURL="https://magiccards.info/extras/token/mirrodin-besieged/germ.jpg">MBS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmm2/7.jpg">MM2</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/14.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmbs/1.jpg">MBS</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Germ</type>
@@ -1893,8 +1890,8 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Giant Warrior</name>
-            <set picURL="https://magiccards.info/extras/token/morningtide/giant-warrior.jpg">MOR</set>
-            <set picURL="https://magiccards.info/extras/token/modern-masters/giant-warrior.jpg">MMA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmor/1.jpg">MOR</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmma/1.jpg">MMA</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Giant Warrior</type>
@@ -1906,7 +1903,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         <card>
             <name>Giant Warrior </name>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_g6xO4gTFLu.png">MM3</set>
-            <set picURL="https://magiccards.info/extras/token/shadowmoor/giant-warrior.jpg">SHM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tshm/10.jpg">SHM</set>
             <color>R</color>
             <color>G</color>
             <cmc>0</cmc>
@@ -1919,7 +1916,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Glyph Keeper (token)</name>
-            <set picURL="https://magiccards.info/extras/token/amonkhet/glyph-keeper.jpg">AKH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/takh/5.jpg">AKH</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie Sphinx</type>
@@ -1947,10 +1944,10 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         <card>
             <name>Goat</name>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/2QtBY6BF4T_EN.png">C16</set>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/goat.jpg">C14</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2014/goat.jpg">M14</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2013/goat.jpg">M13</set>
-            <set picURL="https://magiccards.info/extras/token/eventide/goat.jpg">EVE</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/3.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm14/4.jpg">M14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm13/2.jpg">M13</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/teve/1.jpg">EVE</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Goat</type>
@@ -1970,22 +1967,22 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <set picURL="https://media.wizards.com/2018/a25/en_Sqgppqpxj0.png">A25</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_lT7oIjqrTl.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_aYWcAETlLv.png">EMA</set>
-            <set picURL="https://magiccards.info/extras/token/magic-origins/goblin.jpg">ORI</set>
-            <set picURL="https://magiccards.info/extras/token/dragons-of-tarkir/goblin.jpg">DTK</set>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/goblin.jpg">C14</set>
-            <set picURL="https://magiccards.info/extras/token/khans-of-tarkir/goblin.jpg">KTK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tori/6.jpg">ORI</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tdtk/6.jpg">DTK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/17.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tktk/7.jpg">KTK</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0008_MTGM15_TOK_EN%20copy.png">M15</set>
-            <set picURL="https://magiccards.info/extras/token/modern-masters/goblin.jpg">MMA</set>
-            <set picURL="https://magiccards.info/extras/token/new-phyrexia/goblin.jpg">NPH</set>
-            <set picURL="https://magiccards.info/extras/token/scars-of-mirrodin/goblin.jpg">SOM</set>
-            <set picURL="https://magiccards.info/extras/token/duel-decks-knights-vs-dragons/goblin.jpg">DDG</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2013/goblin.jpg">M13</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2010/goblin.jpg">M10</set>
-            <set picURL="https://magiccards.info/extras/token/shards-of-alara/goblin.jpg">ALA</set>
-            <set picURL="https://magiccards.info/extras/token/duel-decks-elves-vs-goblins/goblin.jpg">EVG</set>
-            <set picURL="https://magiccards.info/extras/token/tenth-edition/goblin.jpg">10E</set>
-            <set picURL="https://magiccards.info/extras/token/return-to-ravnica/goblin.jpg">RTR</set>
-            <set picURL="https://magiccards.info/extras/token/player-rewards-2003/goblin.jpg">LGN</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmma/10.jpg">MMA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tnph/2.jpg">NPH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tsom/3.jpg">SOM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tddg/1.jpg">DDG</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm13/6.jpg">M13</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm10/4.jpg">M10</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tala/7.jpg">ALA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tevg/3.jpg">EVG</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/t10E/4.jpg">10E</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/trtr/6.jpg">RTR</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/l12/1.jpg">LGN</set>
             <color>R</color>
             <cmc>0</cmc>
             <type>Token Creature — Goblin</type>
@@ -2062,8 +2059,8 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Goblin Rogue</name>
-            <set picURL="https://magiccards.info/extras/token/modern-masters/goblin-rogue.jpg">MMA</set>
-            <set picURL="https://magiccards.info/extras/token/lorwyn/goblin-rogue.jpg">LRW</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmma/6.jpg">MMA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tlrw/5.jpg">LRW</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Goblin Rogue</type>
@@ -2090,8 +2087,8 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         <card>
             <name>Goblin Soldier</name>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_fhdI96oKsU.png">EMA</set>
-            <set picURL="https://magiccards.info/extras/token/eventide/goblin-soldier.jpg">EVE</set>
-            <set picURL="https://magiccards.info/extras/token/player-rewards-2001/goblin-soldier.jpg">APC</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/teve/7.jpg">EVE</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/mpr/6.jpg">APC</set>
             <color>R</color>
             <color>W</color>
             <cmc>0</cmc>
@@ -2105,7 +2102,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         <card>
             <name>Goblin Warrior</name>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_k1q8e9nFZc.png">MM3</set>
-            <set picURL="https://magiccards.info/extras/token/shadowmoor/goblin-warrior.jpg">SHM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tshm/11.jpg">SHM</set>
             <color>R</color>
             <color>G</color>
             <cmc>0</cmc>
@@ -2117,9 +2114,9 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Gold</name>
-            <set picURL="https://magiccards.info/extras/token/commander-2017/gold.jpg">C17</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc17/10.jpg">C17</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_tqOTRxQqlD.png">C15</set>
-            <set picURL="https://magiccards.info/extras/token/born-of-the-gods/gold.jpg">BNG</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tbng/10.jpg">BNG</set>
             <cmc>0</cmc>
             <type>Token Artifact</type>
             <tablerow>1</tablerow>
@@ -2144,9 +2141,9 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         <card>
             <name>Golem</name>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_BsmvNmPP4D.png">MM3</set>
-            <set picURL="https://magiccards.info/extras/token/modern-masters-2015/golem.jpg">MM2</set>
-            <set picURL="https://magiccards.info/extras/token/new-phyrexia/golem.jpg">NPH</set>
-            <set picURL="https://magiccards.info/extras/token/scars-of-mirrodin/golem.jpg">SOM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmm2/15.jpg">MM2</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tnph/3.jpg">NPH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tsom/6.jpg">SOM</set>
             <cmc>0</cmc>
             <type>Token Artifact Creature — Golem</type>
             <pt>3/3</pt>
@@ -2164,7 +2161,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Golem </name>
-            <set picURL="https://magiccards.info/extras/token/mirrodin-besieged/golem.jpg">MBS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmbs/3.jpg">MBS</set>
             <cmc>0</cmc>
             <type>Token Artifact Creature — Golem</type>
             <pt>9/9</pt>
@@ -2195,7 +2192,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Golem    </name>
-            <set picURL="https://magiccards.info/extras/token/theros/golem.jpg">THS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tths/10.jpg">THS</set>
             <cmc>0</cmc>
             <type>Token Enchantment Artifact Creature — Golem</type>
             <pt>3/3</pt>
@@ -2219,7 +2216,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Gremlin</name>
-            <set picURL="https://magiccards.info/extras/token/aether-revolt/gremlin.jpg">AER</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/taer/1.jpg">AER</set>
             <color>R</color>
             <cmc>0</cmc>
             <type>Token Creature — Gremlin</type>
@@ -2231,8 +2228,8 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Griffin</name>
-            <set picURL="https://magiccards.info/extras/token/duel-decks-ajani-vs-nicol-bolas/griffin.jpg">DDH</set>
-            <set picURL="https://magiccards.info/extras/token/duel-decks-heroes-vs-monsters/griffin.jpg">DDL</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tddh/1.jpg">DDH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tddl/1.jpg">DDL</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Griffin</type>
@@ -2244,7 +2241,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Harpy</name>
-            <set picURL="https://magiccards.info/extras/token/theros/harpy.jpg">THS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tths/6.jpg">THS</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Harpy</type>
@@ -2256,7 +2253,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Heart-Piercer Manticore (token)</name>
-            <set picURL="https://magiccards.info/extras/token/amonkhet/heart-piercer-manticore.jpg">AKH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/takh/6.jpg">AKH</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie Manticore</type>
@@ -2268,8 +2265,8 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Hellion</name>
-            <set picURL="https://magiccards.info/extras/token/rise-of-the-eldrazi/hellion.jpg">ROE</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2013/hellion.jpg">M13</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/troe/3.jpg">ROE</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm13/7.jpg">M13</set>
             <color>R</color>
             <cmc>0</cmc>
             <type>Token Creature — Hellion</type>
@@ -2293,7 +2290,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Hippo </name>
-            <set picURL="https://magiccards.info/extras/token/amonkhet/hippo.jpg">AKH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/takh/22.jpg">AKH</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Hippo</type>
@@ -2304,7 +2301,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Homunculus</name>
-            <set picURL="https://magiccards.info/extras/token/innistrad/homunculus.jpg">ISD</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tisd/3.jpg">ISD</set>
             <color>U</color>
             <cmc>0</cmc>
             <type>Token Creature — Homunculus</type>
@@ -2316,7 +2313,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Homunculus </name>
-            <set picURL="https://magiccards.info/extras/token/shards-of-alara/homunculus.jpg">ALA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tala/2.jpg">ALA</set>
             <color>U</color>
             <cmc>0</cmc>
             <type>Token Artifact Creature — Homunculus</type>
@@ -2327,7 +2324,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Honored Hydra (token)</name>
-            <set picURL="https://magiccards.info/extras/token/amonkhet/honored-hydra.jpg">AKH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/takh/7.jpg">AKH</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie Snake Hydra</type>
@@ -2339,7 +2336,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Hornet</name>
-            <set picURL="https://magiccards.info/extras/token/duel-decks-phyrexia-vs-the-coalition/hornet.jpg">DDE</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tdde/1.jpg">DDE</set>
             <cmc>0</cmc>
             <type>Token Artifact Creature — Insect</type>
             <pt>1/1</pt>
@@ -2352,7 +2349,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <name>Horror</name>
             <set picURL="https://media.wizards.com/2018/c18/en_krflCNhKUy.png">C18</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/FcpMah0evd_EN.png">C16</set>
-            <set picURL="https://magiccards.info/extras/token/mirrodin-besieged/horror.jpg">MBS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmbs/4.jpg">MBS</set>
             <cmc>0</cmc>
             <type>Token Artifact Creature — Horror</type>
             <pt>*/*</pt>
@@ -2362,7 +2359,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Horror </name>
-            <set picURL="https://magiccards.info/extras/token/gatecrash/horror.jpg">GTC</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tgtc/5.jpg">GTC</set>
             <color>U</color>
             <color>B</color>
             <cmc>0</cmc>
@@ -2386,7 +2383,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Horror   </name>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/horror.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/15.jpg">C14</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Horror</type>
@@ -2398,7 +2395,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Horror    </name>
-            <set picURL="https://magiccards.info/extras/token/archenemy-nicol-bolas/horror.jpg">E01</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/te01/3.jpg">E01</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Horror</type>
@@ -2412,7 +2409,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Horse</name>
-            <set picURL="https://magiccards.info/extras/token/hour-of-devastation/horse.jpg">HOU</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/thou/10.jpg">HOU</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Horse</type>
@@ -2435,9 +2432,9 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Human</name>
-            <set picURL="https://magiccards.info/extras/token/avacyn-restored/human-1.jpg">AVR</set>
-            <set picURL="https://magiccards.info/extras/token/friday-night-magic/human.jpg">pFNM</set>
-            <set picURL="https://magiccards.info/extras/token/dark-ascension/human.jpg">DKA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tavr/2.jpg">AVR</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tpFNM/human.jpg">pFNM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tdka/1.jpg">DKA</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Human</type>
@@ -2455,7 +2452,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         <card>
             <name>Human </name>
             <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_nQw4fq2DYT.png">EMN</set>
-            <set picURL="https://magiccards.info/extras/token/avacyn-restored/human-2.jpg">AVR</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tavr/7.jpg">AVR</set>
             <color>R</color>
             <cmc>0</cmc>
             <type>Token Creature — Human</type>
@@ -2506,7 +2503,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Hydra</name>
-            <set picURL="https://magiccards.info/extras/token/journey-into-nyx/hydra.jpg">JOU</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tjou/4.jpg">JOU</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Hydra</type>
@@ -2517,7 +2514,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Illusion</name>
-            <set picURL="https://magiccards.info/extras/token/zendikar/illusion.jpg">ZEN</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tzen/4.jpg">ZEN</set>
             <color>U</color>
             <cmc>0</cmc>
             <type>Token Creature — Illusion</type>
@@ -2528,7 +2525,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Illusion </name>
-            <set picURL="https://magiccards.info/extras/token/modern-masters/illusion.jpg">MMA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmma/4.jpg">MMA</set>
             <color>U</color>
             <cmc>0</cmc>
             <type>Token Creature — Illusion</type>
@@ -2552,7 +2549,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Insect</name>
-            <set picURL="https://magiccards.info/extras/token/scars-of-mirrodin/insect.jpg">SOM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tsom/4.jpg">SOM</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Insect</type>
@@ -2582,9 +2579,9 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <set picURL="https://media.wizards.com/2018/a25/en_pIc2s1fJ7N.png">A25</set>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_FFbXRwKrvA.png">CN2</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_DJi1itoTAo.png">SOI</set>
-            <set picURL="https://magiccards.info/extras/token/modern-masters-2015/insect.jpg">MM2</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2010/insect.jpg">M10</set>
-            <set picURL="https://magiccards.info/extras/token/player-rewards-2003/insect.jpg">ONS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmm2/10.jpg">MM2</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm10/6.jpg">M10</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/p03/2.jpg">ONS</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Insect</type>
@@ -2632,7 +2629,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Insect     </name>
-            <set picURL="https://magiccards.info/extras/token/amonkhet/insect.jpg">AKH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/takh/19.jpg">AKH</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Insect</type>
@@ -2643,7 +2640,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Insect      </name>
-            <set picURL="https://magiccards.info/extras/token/hour-of-devastation/insect.jpg">HOU</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/thou/12.jpg">HOU</set>
             <color>U</color>
             <color>R</color>
             <cmc>0</cmc>
@@ -2701,9 +2698,9 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Kithkin Soldier</name>
-            <set picURL="https://magiccards.info/extras/token/modern-masters/kithkin-soldier.jpg">MMA</set>
-            <set picURL="https://magiccards.info/extras/token/shadowmoor/kithkin-soldier.jpg">SHM</set>
-            <set picURL="https://magiccards.info/extras/token/lorwyn/kithkin-soldier.jpg">LRW</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmma/2.jpg">MMA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tshm/1.jpg">SHM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tlrw/3.jpg">LRW</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Kithkin Soldier</type>
@@ -2725,8 +2722,8 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <set picURL="https://media.wizards.com/2018/dom/en_sYO9Sdh8Vs.png">DOM</set>
             <set picURL="https://media.wizards.com/2018/dom/en_jZzvwfMjcS.png">DOM</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_989oeP4YLT.png">C15</set>
-            <set picURL="https://magiccards.info/extras/token/magic-origins/knight.jpg">ORI</set>
-            <set picURL="https://magiccards.info/extras/token/return-to-ravnica/knight.jpg">RTR</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tori/2.jpg">ORI</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/trtr/2.jpg">RTR</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Knight</type>
@@ -2797,7 +2794,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Knight Ally</name>
-            <set picURL="https://magiccards.info/extras/token/battle-for-zendikar/knight-ally.jpg">BFZ</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tbfz/5.jpg">BFZ</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Knight Ally</type>
@@ -2821,7 +2818,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Kor Ally</name>
-            <set picURL="https://magiccards.info/extras/token/battle-for-zendikar/kor-ally.jpg">BFZ</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tbfz/6.jpg">BFZ</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Kor Ally</type>
@@ -2835,8 +2832,8 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Kor Soldier</name>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/kor-soldier.jpg">C14</set>
-            <set picURL="https://magiccards.info/extras/token/zendikar/kor-soldier.jpg">ZEN</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/4.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tzen/3.jpg">ZEN</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Kor Soldier</type>
@@ -2851,8 +2848,8 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         <card>
             <name>Kraken</name>
             <set picURL="https://media.wizards.com/2018/a25/en_fKO9THV3bj.png">A25</set>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/kraken.jpg">C14</set>
-            <set picURL="https://magiccards.info/extras/token/born-of-the-gods/kraken.jpg">BNG</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/9.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tbng/5.jpg">BNG</set>
             <color>U</color>
             <cmc>0</cmc>
             <type>Token Creature — Kraken</type>
@@ -2863,7 +2860,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Labyrinth Guardian (token)</name>
-            <set picURL="https://magiccards.info/extras/token/amonkhet/labyrinth-guardian.jpg">AKH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/takh/8.jpg">AKH</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie Illusion Warrior</type>
@@ -2898,7 +2895,7 @@ At the beginning of the end step, sacrifice this creature.</text>
         </card>
         <card>
             <name>Lizard</name>
-            <set picURL="https://magiccards.info/extras/token/alara-reborn/lizard.jpg">ARB</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tarb/2.jpg">ARB</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Lizard</type>
@@ -2933,7 +2930,7 @@ At the beginning of the end step, sacrifice this creature.</text>
         <card>
             <name>Manifest</name>
             <set picURL="https://media.wizards.com/2018/c18/en_4pAyT2EoSw.png">C18</set>
-            <set picURL="https://magiccards.info/extras/token/fate-reforged/manifest.jpg">FRF</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tfrf/4.jpg">FRF</set>
             <cmc>0</cmc>
             <type>Creature</type>
             <pt>2/2</pt>
@@ -2963,7 +2960,7 @@ A manifested creature card can be turned face up any time for its mana cost. A f
         </card>
         <card>
             <name>Marit Lage</name>
-            <set picURL="https://magiccards.info/extras/token/coldsnap/marit-lage.jpg">CSP</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tcsp/1.jpg">CSP</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Legendary Creature — Avatar</type>
@@ -2987,7 +2984,7 @@ Totem armor</text>
         </card>
         <card>
             <name>Merfolk</name>
-            <set picURL="https://magiccards.info/extras/token/zendikar/merfolk.jpg">ZEN</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tzen/5.jpg">ZEN</set>
             <color>U</color>
             <cmc>0</cmc>
             <type>Token Creature — Merfolk</type>
@@ -3012,7 +3009,7 @@ Totem armor</text>
         </card>
         <card>
             <name>Merfolk Wizard</name>
-            <set picURL="https://magiccards.info/extras/token/lorwyn/merfolk-wizard.jpg">LRW</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tlrw/4.jpg">LRW</set>
             <color>U</color>
             <cmc>0</cmc>
             <type>Token Creature — Merfolk Wizard</type>
@@ -3035,7 +3032,7 @@ Totem armor</text>
         </card>
         <card>
             <name>Minion</name>
-            <set picURL="https://magiccards.info/extras/token/duel-decks-phyrexia-vs-the-coalition/minion.jpg">DDE</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tdde/2.jpg">DDE</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Minion</type>
@@ -3069,7 +3066,7 @@ Totem armor</text>
         </card>
         <card>
             <name>Minotaur</name>
-            <set picURL="https://magiccards.info/extras/token/journey-into-nyx/minotaur.jpg">JOU</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tjou/3.jpg">JOU</set>
             <color>R</color>
             <cmc>0</cmc>
             <type>Token Creature — Minotaur</type>
@@ -3080,7 +3077,7 @@ Totem armor</text>
         </card>
         <card>
             <name>Monk</name>
-            <set picURL="https://magiccards.info/extras/token/fate-reforged/monk.jpg">FRF</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tfrf/1.jpg">FRF</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Monk</type>
@@ -3104,8 +3101,8 @@ Totem armor</text>
         <card>
             <name>Morph</name>
             <set picURL="https://media.wizards.com/2018/a25/en_ak0QBpuIOt.png">A25</set>
-            <set picURL="https://magiccards.info/extras/token/dragons-of-tarkir/morph.jpg">DTK</set>
-            <set picURL="https://magiccards.info/extras/token/khans-of-tarkir/morph.jpg">KTK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tdtk/7.jpg">DTK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tktk/11.jpg">KTK</set>
             <cmc>0</cmc>
             <type>Creature</type>
             <pt>2/2</pt>
@@ -3300,12 +3297,12 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <name>Myr</name>
             <set picURL="https://media.wizards.com/2018/c18/en_x7ivUnnF1w.png">C18</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/ZcDckQNuvU_EN.png">C16</set>
-            <set picURL="https://magiccards.info/extras/token/modern-masters-2015/myr.jpg">MM2</set>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/myr.jpg">C14</set>
-            <set picURL="https://magiccards.info/extras/token/modern-event-deck/myr.jpg">MD1</set>
-            <set picURL="https://magiccards.info/extras/token/new-phyrexia/myr.jpg">NPH</set>
-            <set picURL="https://magiccards.info/extras/token/scars-of-mirrodin/myr.jpg">SOM</set>
-            <set picURL="https://magiccards.info/extras/token/player-rewards-2004/myr.jpg">MRD</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmm2/16.jpg">MM2</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/28.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmd1/3.jpg">MD1</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tnph/4.jpg">NPH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tsom/7.jpg">SOM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/p04/4.jpg">MRD</set>
             <cmc>0</cmc>
             <type>Token Artifact Creature — Myr</type>
             <pt>1/1</pt>
@@ -3347,7 +3344,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Octopus</name>
-            <set picURL="https://magiccards.info/extras/token/battle-for-zendikar/octopus.jpg">BFZ</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tbfz/7.jpg">BFZ</set>
             <color>U</color>
             <cmc>0</cmc>
             <type>Token Creature — Octopus</type>
@@ -3360,7 +3357,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         <card>
             <name>Ogre</name>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/FJxOEvQb3P_EN.png">C16</set>
-            <set picURL="https://magiccards.info/extras/token/worldwake/ogre.jpg">WWK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/twwk/3.jpg">WWK</set>
             <color>R</color>
             <cmc>0</cmc>
             <type>Token Creature — Ogre</type>
@@ -3371,7 +3368,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Ogre </name>
-            <set picURL="https://magiccards.info/extras/token/conspiracy/ogre.jpg">CNS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tcns/4.jpg">CNS</set>
             <color>R</color>
             <cmc>0</cmc>
             <type>Token Creature — Ogre</type>
@@ -3382,7 +3379,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Oketra's Attendant (token)</name>
-            <set picURL="https://magiccards.info/extras/token/amonkhet/oketras-attendant.jpg">AKH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/takh/9.jpg">AKH</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie Bird Soldier</type>
@@ -3395,9 +3392,9 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         <card>
             <name>Ooze</name>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_fzNmUE7vkf.png">MM3</set>
-            <set picURL="https://magiccards.info/extras/token/rise-of-the-eldrazi/ooze.jpg">ROE</set>
-            <set picURL="https://magiccards.info/extras/token/shards-of-alara/ooze.jpg">ALA</set>
-            <set picURL="https://magiccards.info/extras/token/return-to-ravnica/ooze.jpg">RTR</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/troe/4.jpg">ROE</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tala/8.jpg">ALA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/trtr/8.jpg">RTR</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Ooze</type>
@@ -3413,7 +3410,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Ooze </name>
-            <set picURL="https://magiccards.info/extras/token/innistrad/ooze.jpg">ISD</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tisd/10.jpg">ISD</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Ooze</type>
@@ -3425,7 +3422,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Ooze  </name>
-            <set picURL="https://magiccards.info/extras/token/magic-2011/ooze-1.jpg">M11</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm11/5.jpg">M11</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Ooze</type>
@@ -3438,7 +3435,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Ooze   </name>
-            <set picURL="https://magiccards.info/extras/token/magic-2011/ooze-2.jpg">M11</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm11/6.jpg">M11</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Ooze</type>
@@ -3483,7 +3480,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Pegasus</name>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/pegasus.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/5.jpg">C14</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Pegasus</type>
@@ -3498,9 +3495,9 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Pentavite</name>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/pentavite.jpg">C14</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2012/pentavite.jpg">M12</set>
-            <set picURL="https://magiccards.info/extras/token/player-rewards-2004/pentavite.jpg">MRD</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/29.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm12/7.jpg">M12</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/p04/3.jpg">MRD</set>
             <cmc>0</cmc>
             <type>Token Artifact Creature — Pentavite</type>
             <pt>1/1</pt>
@@ -3545,8 +3542,8 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         <card>
             <name>Plant</name>
             <set picURL="https://media.wizards.com/2018/c18/en_ZjevIjFfjB.png">C18</set>
-            <set picURL="https://magiccards.info/extras/token/oath-of-the-gatewatch/plant.jpg">OGW</set>
-            <set picURL="https://magiccards.info/extras/token/worldwake/plant.jpg">WWK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/togw/11.jpg">OGW</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/twwk/5.jpg">WWK</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Plant</type>
@@ -3562,7 +3559,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Plant </name>
-            <set picURL="https://magiccards.info/extras/token/battle-for-zendikar/plant.jpg">BFZ</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tbfz/10.jpg">BFZ</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Plant</type>
@@ -3595,7 +3592,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Proven Combatant (token)</name>
-            <set picURL="https://magiccards.info/extras/token/hour-of-devastation/proven-combatant.jpg">HOU</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/thou/5.jpg">HOU</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie Human Warrior</type>
@@ -3606,7 +3603,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Ragavan</name>
-            <set picURL="https://magiccards.info/extras/token/aether-revolt/ragavan.jpg">AER</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/taer/2.jpg">AER</set>
             <color>R</color>
             <cmc>0</cmc>
             <type>Token Legendary Creature — Monkey</type>
@@ -3618,8 +3615,8 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Rat</name>
-            <set picURL="https://magiccards.info/extras/token/shadowmoor/rat.jpg">SHM</set>
-            <set picURL="https://magiccards.info/extras/token/gatecrash/rat.jpg">GTC</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tshm/3.jpg">SHM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tgtc/2.jpg">GTC</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Rat</type>
@@ -3633,7 +3630,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Rat </name>
-            <set picURL="https://magiccards.info/extras/token/commander-2017/rat.jpg">C17</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc17/3.jpg">C17</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Rat</type>
@@ -3667,7 +3664,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Resilient Khenra (token)</name>
-            <set picURL="https://magiccards.info/extras/token/hour-of-devastation/resilient-khenra.jpg">HOU</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/thou/6.jpg">HOU</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie Jackal Wizard</type>
@@ -3679,7 +3676,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Rhino</name>
-            <set picURL="https://magiccards.info/extras/token/return-to-ravnica/rhino.jpg">RTR</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/trtr/9.jpg">RTR</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Rhino</type>
@@ -3692,7 +3689,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Sacred Cat (token)</name>
-            <set picURL="https://magiccards.info/extras/token/amonkhet/sacred-cat.jpg">AKH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/takh/10.jpg">AKH</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie Cat</type>
@@ -3736,18 +3733,18 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/GDoSGrEih8_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/r73oaJWhdf_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_aoxNphcwIn.png">C15</set>
-            <set picURL="https://magiccards.info/extras/token/modern-masters-2015/saproling.jpg">MM2</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2014/saproling.jpg">M14</set>
-            <set picURL="https://magiccards.info/extras/token/modern-masters/saproling.jpg">MMA</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2012/saproling.jpg">M12</set>
-            <set picURL="https://magiccards.info/extras/token/duel-decks-ajani-vs-nicol-bolas/saproling.jpg">DDH</set>
-            <set picURL="https://magiccards.info/extras/token/duel-decks-phyrexia-vs-the-coalition/saproling.jpg">DDE</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2013/saproling.jpg">M13</set>
-            <set picURL="https://magiccards.info/extras/token/shards-of-alara/saproling.jpg">ALA</set>
-            <set picURL="https://magiccards.info/extras/token/tenth-edition/saproling.jpg">10E</set>
-            <set picURL="https://magiccards.info/extras/token/duel-decks-izzet-vs-golgari/saproling.jpg">DDJ</set>
-            <set picURL="https://magiccards.info/extras/token/return-to-ravnica/saproling.jpg">RTR</set>
-            <set picURL="https://magiccards.info/extras/token/player-rewards-2001/saproling.jpg">INV</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmm2/11.jpg">MM2</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm14/10.jpg">M14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmma/12.jpg">MMA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm12/5.jpg">M12</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tddh/2.jpg">DDH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tdde/3.jpg">DDE</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm13/9.jpg">M13</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tala/9.jpg">ALA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/t10E/5.jpg">10E</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tddj/1.jpg">DDJ</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/trtr/10.jpg">RTR</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/mpr/2.jpg">INV</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Saproling</type>
@@ -3844,7 +3841,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Satyr</name>
-            <set picURL="https://magiccards.info/extras/token/theros/satyr.jpg">THS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tths/9.jpg">THS</set>
             <color>R</color>
             <color>G</color>
             <cmc>0</cmc>
@@ -3914,7 +3911,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <name>Shapeshifter </name>
             <set picURL="https://media.wizards.com/2018/c18/en_Wgq29EPRnO.png">C18</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_v2CKUzXPj8.png">C15</set>
-            <set picURL="https://magiccards.info/extras/token/lorwyn/shapeshifter.jpg">LRW</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tlrw/11.jpg">LRW</set>
             <cmc>0</cmc>
             <type>Token Creature — Shapeshifter</type>
             <pt>1/1</pt>
@@ -3936,7 +3933,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Sinuous Striker (token)</name>
-            <set picURL="https://magiccards.info/extras/token/hour-of-devastation/sinuous-striker.jpg">HOU</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/thou/7.jpg">HOU</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie Naga Warrior</type>
@@ -3949,7 +3946,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         <card>
             <name>Skeleton</name>
             <set picURL="https://media.wizards.com/2018/a25/en_BglFuPhY0n.png">A25</set>
-            <set picURL="https://magiccards.info/extras/token/shards-of-alara/skeleton.jpg">ALA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tala/4.jpg">ALA</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Skeleton</type>
@@ -3963,8 +3960,8 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         <card>
             <name>Sliver</name>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0001_MTGM15_TOK_EN%20copy.png">M15</set>
-            <set picURL="https://magiccards.info/extras/token/player-rewards-2003/sliver.jpg">LGN</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2014/sliver.jpg">M14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/l13/3.jpg">LGN</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm14/1.jpg">M14</set>
             <cmc>0</cmc>
             <type>Token Creature — Sliver</type>
             <pt>1/1</pt>
@@ -3978,9 +3975,9 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         <card>
             <name>Snake</name>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_41udRw7sFl.png">C15</set>
-            <set picURL="https://magiccards.info/extras/token/modern-masters-2015/snake.jpg">MM2</set>
-            <set picURL="https://magiccards.info/extras/token/khans-of-tarkir/snake.jpg">KTK</set>
-            <set picURL="https://magiccards.info/extras/token/zendikar/snake.jpg">ZEN</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmm2/12.jpg">MM2</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tktk/9.jpg">KTK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tzen/10.jpg">ZEN</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Snake</type>
@@ -4024,7 +4021,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Snake   </name>
-            <set picURL="https://magiccards.info/extras/token/journey-into-nyx/snake.jpg">JOU</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tjou/6.jpg">JOU</set>
             <color>B</color>
             <color>G</color>
             <cmc>0</cmc>
@@ -4049,7 +4046,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Snake     </name>
-            <set picURL="https://magiccards.info/extras/token/amonkhet/snake.jpg">AKH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/takh/23.jpg">AKH</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Snake</type>
@@ -4061,7 +4058,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Snake      </name>
-            <set picURL="https://magiccards.info/extras/token/hour-of-devastation/snake.jpg">HOU</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/thou/11.jpg">HOU</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Snake</type>
@@ -4076,28 +4073,28 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <set picURL="https://img.scryfall.com/cards/png/en/tm19/6.png">M19</set>
             <set picURL="https://media.wizards.com/2018/dom/en_IEkybS0amO.png">DOM</set>
             <set picURL="https://media.wizards.com/2018/a25/en_rjWdBD6PXM.png">A25</set>
-            <set picURL="https://magiccards.info/extras/token/archenemy-nicol-bolas/soldier.jpg">E01</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/te01/1.jpg">E01</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_cUwkB5W9WX.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/MPxJre1G3p_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_3W2HGUwu5Z.png">CN2</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_xvaBbBCiuf.png">EMA</set>
-            <set picURL="https://magiccards.info/extras/token/magic-origins/soldier.jpg">ORI</set>
-            <set picURL="https://magiccards.info/extras/token/modern-masters-2015/soldier.jpg">MM2</set>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/soldier.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tori/3.jpg">ORI</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmm2/4.jpg">MM2</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/6.jpg">C14</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0002_MTGM15_TOK_EN%20copy.png">M15</set>
-            <set picURL="https://magiccards.info/extras/token/modern-event-deck/soldier.jpg">MD1</set>
-            <set picURL="https://magiccards.info/extras/token/theros/soldier-1.jpg">THS</set>
-            <set picURL="https://magiccards.info/extras/token/theros/soldier-2.jpg">THS</set>
-            <set picURL="https://magiccards.info/extras/token/modern-masters/soldier.jpg">MMA</set>
-            <set picURL="https://magiccards.info/extras/token/return-to-ravnica/soldier.jpg">RTR</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2013/soldier.jpg">M13</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2012/soldier.jpg">M12</set>
-            <set picURL="https://magiccards.info/extras/token/scars-of-mirrodin/soldier.jpg">SOM</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2010/soldier.jpg">M10</set>
-            <set picURL="https://magiccards.info/extras/token/shards-of-alara/soldier.jpg">ALA</set>
-            <set picURL="https://magiccards.info/extras/token/duel-decks-elspeth-vs-tezzeret/soldier.jpg">DDF</set>
-            <set picURL="https://magiccards.info/extras/token/tenth-edition/soldier.jpg">10E</set>
-            <set picURL="https://magiccards.info/extras/token/player-rewards-2002/soldier.jpg">ONS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmd1/1.jpg">MD1</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tths/3.jpg">THS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tths/2.jpg">THS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmma/3.jpg">MMA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/trtr/3.jpg">RTR</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm13/3.jpg">M13</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm12/2.jpg">M12</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tsom/2.jpg">SOM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm10/2.jpg">M10</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tala/1.jpg">ALA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tddf/1.jpg">DDF</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/t10E/1.jpg">10E</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/pr2/8.jpg">ONS</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Soldier</type>
@@ -4144,7 +4141,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         <card>
             <name>Soldier </name>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_5NCosBXuge.png">MM3</set>
-            <set picURL="https://magiccards.info/extras/token/gatecrash/soldier.jpg">GTC</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tgtc/6.jpg">GTC</set>
             <color>R</color>
             <color>W</color>
             <cmc>0</cmc>
@@ -4171,7 +4168,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Soldier    </name>
-            <set picURL="https://magiccards.info/extras/token/theros/soldier-3.jpg">THS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tths/7.jpg">THS</set>
             <color>R</color>
             <cmc>0</cmc>
             <type>Token Creature — Soldier</type>
@@ -4182,7 +4179,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Soldier     </name>
-            <set picURL="https://magiccards.info/extras/token/born-of-the-gods/soldier.jpg">BNG</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tbng/3.jpg">BNG</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Enchantment Creature — Soldier</type>
@@ -4193,7 +4190,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Soldier Ally</name>
-            <set picURL="https://magiccards.info/extras/token/worldwake/soldier-ally.jpg">WWK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/twwk/1.jpg">WWK</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Soldier Ally</type>
@@ -4227,7 +4224,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Sphinx</name>
-            <set picURL="https://magiccards.info/extras/token/journey-into-nyx/sphinx.jpg">JOU</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tjou/1.jpg">JOU</set>
             <color>U</color>
             <cmc>0</cmc>
             <type>Token Creature — Sphinx</type>
@@ -4241,8 +4238,8 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <name>Spider</name>
             <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_KiwJSuvSso.png">EMN</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_eeuO57mVX3.png">C15</set>
-            <set picURL="https://magiccards.info/extras/token/innistrad/spider.jpg">ISD</set>
-            <set picURL="https://magiccards.info/extras/token/shadowmoor/spider.jpg">SHM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tisd/11.jpg">ISD</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tshm/6.jpg">SHM</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Spider</type>
@@ -4258,7 +4255,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         <card>
             <name>Spider </name>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_DunTMmGo41.png">MM3</set>
-            <set picURL="https://magiccards.info/extras/token/modern-masters/spider.jpg">MMA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmma/7.jpg">MMA</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Spider</type>
@@ -4270,7 +4267,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spider  </name>
-            <set picURL="https://magiccards.info/extras/token/journey-into-nyx/spider.jpg">JOU</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tjou/5.jpg">JOU</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Enchantment Creature — Spider</type>
@@ -4295,25 +4292,25 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <name>Spirit</name>
             <set picURL="https://media.wizards.com/2018/a25/en_MfLkYTjk6c.png">A25</set>
             <set picURL="https://media.wizards.com/2017/ust/en_jOLUnmQ3sd.png">UST</set>
-            <set picURL="https://magiccards.info/extras/token/archenemy-nicol-bolas/spirit.jpg">E01</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/te01/2.jpg">E01</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_OoBnRxjJID.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/a8Dcl06bW6_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_uKWYrCTL44.png">CN2</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_cxaUJXygwx.png">EMA</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_2dPK4cEymD.png">SOI</set>
-            <set picURL="https://magiccards.info/extras/token/modern-masters-2015/spirit.jpg">MM2</set>
-            <set picURL="https://magiccards.info/extras/token/fate-reforged/spirit.jpg">FRF</set>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/spirit.jpg">C14</set>
-            <set picURL="https://magiccards.info/extras/token/khans-of-tarkir/spirit.jpg">KTK</set>
-            <set picURL="https://magiccards.info/extras/token/modern-event-deck/spirit.jpg">MD1</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmm2/5.jpg">MM2</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tfrf/2.jpg">FRF</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/7.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tktk/2.jpg">KTK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmd1/2.jpg">MD1</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0003_MTGM15_TOK_EN%20copy.png">M15</set>
-            <set picURL="https://magiccards.info/extras/token/conspiracy/spirit.jpg">CNS</set>
-            <set picURL="https://magiccards.info/extras/token/avacyn-restored/spirit-1.jpg">AVR</set>
-            <set picURL="https://magiccards.info/extras/token/innistrad/spirit.jpg">ISD</set>
-            <set picURL="https://magiccards.info/extras/token/duel-decks-divine-vs-demonic/spirit.jpg">DDC</set>
-            <set picURL="https://magiccards.info/extras/token/shadowmoor/spirit.jpg">SHM</set>
-            <set picURL="https://magiccards.info/extras/token/duel-decks-sorin-vs-tibalt/spirit.jpg">DDK</set>
-            <set picURL="https://magiccards.info/extras/token/player-rewards-2001/spirit.jpg">PLS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tcns/1.jpg">CNS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tavr/3.jpg">AVR</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tisd/2.jpg">ISD</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tddc/1.jpg">DDC</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tshm/2.jpg">SHM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tddk/1.jpg">DDK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/mpr/5.jpg">PLS</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Spirit</type>
@@ -4364,7 +4361,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spirit </name>
-            <set picURL="https://magiccards.info/extras/token/avacyn-restored/spirit-2.jpg">AVR</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tavr/4.jpg">AVR</set>
             <color>U</color>
             <cmc>0</cmc>
             <type>Token Creature — Spirit</type>
@@ -4377,8 +4374,8 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         <card>
             <name>Spirit  </name>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_GNBqMfbnJz.png">C15</set>
-            <set picURL="https://magiccards.info/extras/token/gatecrash/spirit.jpg">GTC</set>
-            <set picURL="https://magiccards.info/extras/token/eventide/spirit.jpg">EVE</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tgtc/7.jpg">GTC</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/teve/4.jpg">EVE</set>
             <color>W</color>
             <color>B</color>
             <cmc>0</cmc>
@@ -4395,7 +4392,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <set picURL="https://media.wizards.com/2018/a25/en_Zm3GZBOnwD.png">A25</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/bQqBAcQB03_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_qQaHPqyjyC.png">EMA</set>
-            <set picURL="https://magiccards.info/extras/token/player-rewards-2004/spirit.jpg">CHK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/p04/6.jpg">CHK</set>
             <cmc>0</cmc>
             <type>Token Creature — Spirit</type>
             <pt>1/1</pt>
@@ -4448,7 +4445,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spirit Warrior</name>
-            <set picURL="https://magiccards.info/extras/token/khans-of-tarkir/spirit-warrior.jpg">KTK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tktk/10.jpg">KTK</set>
             <color>B</color>
             <color>G</color>
             <cmc>0</cmc>
@@ -4487,8 +4484,8 @@ Cumulative upkeep {G}</text>
         </card>
         <card>
             <name>Squirrel</name>
-            <set picURL="https://magiccards.info/extras/token/conspiracy/squirrel.jpg">CNS</set>
-            <set picURL="https://magiccards.info/extras/token/player-rewards-2002/squirrel.jpg">ODY</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tcns/6.jpg">CNS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/pr2/3.jpg">ODY</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Squirrel</type>
@@ -4534,7 +4531,7 @@ Cumulative upkeep {G}</text>
         </card>
         <card>
             <name>Steadfast Sentinel (token)</name>
-            <set picURL="https://magiccards.info/extras/token/hour-of-devastation/steadfast-sentinel.jpg">HOU</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/thou/8.jpg">HOU</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie Human Cleric</type>
@@ -4546,7 +4543,7 @@ Cumulative upkeep {G}</text>
         </card>
         <card>
             <name>Stoneforged Blade</name>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/stoneforged-blade.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/30.jpg">C14</set>
             <cmc>0</cmc>
             <type>Token Artifact — Equipment</type>
             <tablerow>2</tablerow>
@@ -4558,7 +4555,7 @@ Equip {0}</text>
         </card>
         <card>
             <name>Sunscourge Champion (token)</name>
-            <set picURL="https://magiccards.info/extras/token/hour-of-devastation/sunscourge-champion.jpg">HOU</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/thou/9.jpg">HOU</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie Human Wizard</type>
@@ -4582,7 +4579,7 @@ Equip {0}</text>
         </card>
         <card>
             <name>Tah-Crop Skirmisher (token)</name>
-            <set picURL="https://magiccards.info/extras/token/amonkhet/tah-crop-skirmisher.jpg">AKH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/takh/11.jpg">AKH</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie Naga Warrior</type>
@@ -4593,7 +4590,7 @@ Equip {0}</text>
         </card>
         <card>
             <name>Temmet, Vizier of Naktamun (token)</name>
-            <set picURL="https://magiccards.info/extras/token/amonkhet/temmet-vizier-of-naktamun.jpg">AKH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/takh/12.jpg">AKH</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Legendary Creature — Zombie Human Cleric</type>
@@ -4623,9 +4620,9 @@ This creature can't be enchanted.</text>
             <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_ZQ77vJDpoE.png">KLD</set>
             <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_V8a0HO5toy.png">KLD</set>
             <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_PQycN8PjmE.png">KLD</set>
-            <set picURL="https://magiccards.info/extras/token/magic-origins/thopter-1.jpg">ORI</set>
-            <set picURL="https://magiccards.info/extras/token/magic-origins/thopter-2.jpg">ORI</set>
-            <set picURL="https://magiccards.info/extras/token/mirrodin-besieged/thopter.jpg">MBS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tori/11.jpg">ORI</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tori/10.jpg">ORI</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmbs/5.jpg">MBS</set>
             <cmc>0</cmc>
             <type>Token Artifact Creature — Thopter</type>
             <pt>1/1</pt>
@@ -4660,7 +4657,7 @@ This creature can't be enchanted.</text>
             <set picURL="https://media.wizards.com/2018/c18/en_R477TZPffA.png">C18</set>
             <set picURL="https://media.wizards.com/2017/ust/en_R8H1j5GjDU.png">UST</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/PK9s0eoiqm_EN.png">C16</set>
-            <set picURL="https://magiccards.info/extras/token/shards-of-alara/thopter.jpg">ALA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tala/3.jpg">ALA</set>
             <color>U</color>
             <cmc>0</cmc>
             <type>Token Artifact Creature — Thopter</type>
@@ -4674,7 +4671,7 @@ This creature can't be enchanted.</text>
         </card>
         <card>
             <name>Thrull</name>
-            <set picURL="https://magiccards.info/extras/token/duel-decks-divine-vs-demonic/thrull.jpg">DDC</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tddc/3.jpg">DDC</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Thrull</type>
@@ -4685,7 +4682,7 @@ This creature can't be enchanted.</text>
         </card>
         <card>
             <name>Thrull </name>
-            <set picURL="https://magiccards.info/extras/token/modern-masters-2015/thrull.jpg">MM2</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmm2/8.jpg">MM2</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Thrull</type>
@@ -4745,7 +4742,7 @@ This creature can't be enchanted.</text>
         </card>
         <card>
             <name>Treefolk</name>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/treefolk.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/25.jpg">C14</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Treefolk</type>
@@ -4756,8 +4753,8 @@ This creature can't be enchanted.</text>
         </card>
         <card>
             <name>Treefolk Shaman</name>
-            <set picURL="https://magiccards.info/extras/token/modern-masters/treefolk-shaman.jpg">MMA</set>
-            <set picURL="https://magiccards.info/extras/token/morningtide/treefolk-shaman.jpg">MOR</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmma/13.jpg">MMA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmor/3.jpg">MOR</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Treefolk Shaman</type>
@@ -4792,7 +4789,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Trueheart Duelist (token)</name>
-            <set picURL="https://magiccards.info/extras/token/amonkhet/trueheart-duelist.jpg">AKH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/takh/13.jpg">AKH</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie Human Warrior</type>
@@ -4804,8 +4801,8 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Tuktuk The Returned</name>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/tuktuk-the-returned.jpg">C14</set>
-            <set picURL="https://magiccards.info/extras/token/rise-of-the-eldrazi/tuktuk-the-returned.jpg">ROE</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/31.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/troe/5.jpg">ROE</set>
             <cmc>0</cmc>
             <type>Token Legendary Artifact Creature — Goblin Golem</type>
             <pt>5/5</pt>
@@ -4825,7 +4822,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Unwavering Initiate (token)</name>
-            <set picURL="https://magiccards.info/extras/token/amonkhet/unwavering-initiate.jpg">AKH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/takh/14.jpg">AKH</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie Human Warrior</type>
@@ -4850,8 +4847,8 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         <card>
             <name>Vampire</name>
             <set picURL="https://media.wizards.com/2017/ust/en_VElKRrZCMz.png">UST</set>
-            <set picURL="https://magiccards.info/extras/token/khans-of-tarkir/vampire.jpg">KTK</set>
-            <set picURL="https://magiccards.info/extras/token/innistrad/vampire.jpg">ISD</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tktk/5.jpg">KTK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tisd/5.jpg">ISD</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Vampire</type>
@@ -4865,7 +4862,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Vampire </name>
-            <set picURL="https://magiccards.info/extras/token/dark-ascension/vampire.jpg">DKA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tdka/2.jpg">DKA</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Vampire</type>
@@ -4877,7 +4874,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Vampire  </name>
-            <set picURL="https://magiccards.info/extras/token/zendikar/vampire.jpg">ZEN</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tzen/6.jpg">ZEN</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Vampire</type>
@@ -4888,7 +4885,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Vampire   </name>
-            <set picURL="https://magiccards.info/extras/token/commander-2017/vampire.jpg">C17</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc17/4.jpg">C17</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Vampire</type>
@@ -4933,7 +4930,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Vizier of Many Faces (token)</name>
-            <set picURL="https://magiccards.info/extras/token/amonkhet/vizier-of-many-faces.jpg">AKH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/takh/15.jpg">AKH</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie Shapeshifter Cleric</type>
@@ -4980,7 +4977,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Wasp</name>
-            <set picURL="https://magiccards.info/extras/token/tenth-edition/wasp.jpg">10E</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/t10E/6.jpg">10E</set>
             <cmc>0</cmc>
             <type>Token Artifact Creature — Insect</type>
             <pt>1/1</pt>
@@ -5002,9 +4999,9 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Warrior </name>
-            <set picURL="https://magiccards.info/extras/token/dragons-of-tarkir/warrior.jpg">DTK</set>
-            <set picURL="https://magiccards.info/extras/token/khans-of-tarkir/warrior-1.jpg">KTK</set>
-            <set picURL="https://magiccards.info/extras/token/khans-of-tarkir/warrior-2.jpg">KTK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tdtk/1.jpg">DTK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tktk/4.jpg">KTK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tktk/3.jpg">KTK</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Warrior</type>
@@ -5022,7 +5019,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Warrior  </name>
-            <set picURL="https://magiccards.info/extras/token/fate-reforged/warrior.jpg">FRF</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tfrf/3.jpg">FRF</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Warrior</type>
@@ -5033,7 +5030,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Warrior   </name>
-            <set picURL="https://magiccards.info/extras/token/amonkhet/warrior.jpg">AKH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/takh/17.jpg">AKH</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Warrior</type>
@@ -5063,7 +5060,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         <card>
             <name>Whale</name>
             <set picURL="https://media.wizards.com/2018/a25/en_JMtRnyeKH4.png">A25</set>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/whale.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/10.jpg">C14</set>
             <color>U</color>
             <cmc>0</cmc>
             <type>Token Creature — Whale</type>
@@ -5089,18 +5086,18 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="https://media.wizards.com/2018/a25/en_YMeT9fmnKH.png">A25</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_BW6wmU7cbv.png">SOI</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_IWGaI59e15.png">C15</set>
-            <set picURL="https://magiccards.info/extras/token/modern-masters-2015/wolf.jpg">MM2</set>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/wolf.jpg">C14</set>
-            <set picURL="https://magiccards.info/extras/token/conspiracy/wolf.jpg">CNS</set>
-            <set picURL="https://magiccards.info/extras/token/born-of-the-gods/wolf.jpg">BNG</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2014/wolf.jpg">M14</set>
-            <set picURL="https://magiccards.info/extras/token/friday-night-magic/wolf.jpg">pFNM</set>
-            <set picURL="https://magiccards.info/extras/token/innistrad/wolf-2.jpg">ISD</set>
-            <set picURL="https://magiccards.info/extras/token/scars-of-mirrodin/wolf.jpg">SOM</set>
-            <set picURL="https://magiccards.info/extras/token/zendikar/wolf.jpg">ZEN</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2010/wolf.jpg">M10</set>
-            <set picURL="https://magiccards.info/extras/token/shadowmoor/wolf.jpg">SHM</set>
-            <set picURL="https://magiccards.info/extras/token/lorwyn/wolf.jpg">LRW</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmm2/13.jpg">MM2</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/26.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tcns/7.jpg">CNS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tbng/9.jpg">BNG</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm14/11.jpg">M14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tpFNM/wolf.jpg">pFNM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tisd/12.jpg">ISD</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tsom/5.jpg">SOM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tzen/11.jpg">ZEN</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm10/7.jpg">M10</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tshm/7.jpg">SHM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tlrw/10.jpg">LRW</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Wolf</type>
@@ -5133,7 +5130,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Wolf </name>
-            <set picURL="https://magiccards.info/extras/token/innistrad/wolf-1.jpg">ISD</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tisd/6.jpg">ISD</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Wolf</type>
@@ -5183,9 +5180,9 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <name>Worm</name>
             <set picURL="https://media.wizards.com/2018/c18/en_CBoPclvY3j.png">C18</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/YRX6z4VY3I_EN.png">C16</set>
-            <set picURL="https://magiccards.info/extras/token/modern-masters-2015/worm.jpg">MM2</set>
-            <set picURL="https://magiccards.info/extras/token/modern-masters/worm.jpg">MMA</set>
-            <set picURL="https://magiccards.info/extras/token/eventide/worm.jpg">EVE</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmm2/14.jpg">MM2</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmma/15.jpg">MMA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/teve/6.jpg">EVE</set>
             <color>B</color>
             <color>G</color>
             <cmc>0</cmc>
@@ -5199,9 +5196,9 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         <card>
             <name>Wurm</name>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_gVChXwjDd1.png">EMA</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2013/wurm.jpg">M13</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2012/wurm.jpg">M12</set>
-            <set picURL="https://magiccards.info/extras/token/player-rewards-2002/wurm.jpg">ODY</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm13/10.jpg">M13</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm12/6.jpg">M12</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/pr2/6.jpg">ODY</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Wurm</type>
@@ -5215,8 +5212,8 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Wurm </name>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/wurm-2.jpg">C14</set>
-            <set picURL="https://magiccards.info/extras/token/scars-of-mirrodin/wurm-2.jpg">SOM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/33.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tsom/9.jpg">SOM</set>
             <cmc>0</cmc>
             <type>Token Artifact Creature — Wurm</type>
             <pt>3/3</pt>
@@ -5227,8 +5224,8 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Wurm  </name>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/wurm-1.jpg">C14</set>
-            <set picURL="https://magiccards.info/extras/token/scars-of-mirrodin/wurm-1.jpg">SOM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/32.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tsom/8.jpg">SOM</set>
             <cmc>0</cmc>
             <type>Token Artifact Creature — Wurm</type>
             <pt>3/3</pt>
@@ -5252,7 +5249,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         <card>
             <name>Wurm    </name>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_PkUDpUlSzD.png">MM3</set>
-            <set picURL="https://magiccards.info/extras/token/return-to-ravnica/wurm.jpg">RTR</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/trtr/11.jpg">RTR</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Wurm</type>
@@ -5278,7 +5275,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Wurm      </name>
-            <set picURL="https://magiccards.info/extras/token/amonkhet/wurm.jpg">AKH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/takh/24.jpg">AKH</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Wurm</type>
@@ -5292,8 +5289,8 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="https://media.wizards.com/2018/c18/en_NlO9xMIqTz.png">C18</set>
             <set picURL="https://img.scryfall.com/cards/png/en/tm19/8.png">M19</set>
             <set picURL="https://media.wizards.com/2017/ust/en_PdePJoDtFG.png">UST</set>
-            <set picURL="https://magiccards.info/extras/token/commander-2017/zombie.jpg">C17</set>
-            <set picURL="https://magiccards.info/extras/token/amonkhet/zombie.jpg">AKH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc17/5.jpg">C17</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/takh/20.jpg">AKH</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_mdCldta8UM.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/KuzDDwCJi3_EN.png">C16</set>
             <set picURL="http://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_jiQZPry4Js.png">CN2</set>
@@ -5303,26 +5300,26 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_SwNMotyu8E.png">EMN</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_bsHDG8OapS.png">EMA</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_Hys6V2Lnum.png">SOI</set>
-            <set picURL="https://magiccards.info/extras/token/oath-of-the-gatewatch/zombie.jpg">OGW</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/togw/8.jpg">OGW</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_jVoQGXYWRq.png">C15</set>
-            <set picURL="https://magiccards.info/extras/token/magic-origins/zombie.jpg">ORI</set>
-            <set picURL="https://magiccards.info/extras/token/dragons-of-tarkir/zombie.jpg">DTK</set>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/zombie-2.jpg">C14</set>
-            <set picURL="https://magiccards.info/extras/token/khans-of-tarkir/zombie.jpg">KTK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tori/5.jpg">ORI</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tdtk/3.jpg">DTK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/16.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tktk/6.jpg">KTK</set>
             <set picURL="http://media.wizards.com/images/magic/daily/arcana/0006_MTGM15_TOK_EN%20copy.png">M15</set>
-            <set picURL="https://magiccards.info/extras/token/conspiracy/zombie.jpg">CNS</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2014/zombie.jpg">M14</set>
-            <set picURL="https://magiccards.info/extras/token/modern-masters/zombie.jpg">MMA</set>
-            <set picURL="https://magiccards.info/extras/token/avacyn-restored/zombie.jpg">AVR</set>
-            <set picURL="https://magiccards.info/extras/token/innistrad/zombie-2.jpg">ISD</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2012/zombie.jpg">M12</set>
-            <set picURL="https://magiccards.info/extras/token/mirrodin-besieged/zombie.jpg">MBS</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2011/zombie.jpg">M11</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2013/zombie.jpg">M13</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2010/zombie.jpg">M10</set>
-            <set picURL="https://magiccards.info/extras/token/shards-of-alara/zombie.jpg">ALA</set>
-            <set picURL="https://magiccards.info/extras/token/tenth-edition/zombie.jpg">10E</set>
-            <set picURL="https://magiccards.info/extras/token/player-rewards-2002/zombie.jpg">ODY</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tcns/3.jpg">CNS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm14/5.jpg">M14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmma/8.jpg">MMA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tavr/6.jpg">AVR</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tisd/7.jpg">ISD</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm12/3.jpg">M12</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmbs/2.jpg">MBS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm11/3.jpg">M11</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm13/5.jpg">M13</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm10/3.jpg">M10</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tala/5.jpg">ALA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/t10E/2.jpg">10E</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/pr2/4.jpg">ODY</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie</type>
@@ -5404,7 +5401,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Zombie </name>
-            <set picURL="https://magiccards.info/extras/token/born-of-the-gods/zombie.jpg">BNG</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tbng/6.jpg">BNG</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Enchantment Creature — Zombie</type>
@@ -5415,7 +5412,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Zombie  </name>
-            <set picURL="https://magiccards.info/extras/token/journey-into-nyx/zombie.jpg">JOU</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tjou/2.jpg">JOU</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie</type>
@@ -5427,7 +5424,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Zombie   </name>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/zombie-1.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/1.jpg">C14</set>
             <color>U</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie</type>
@@ -5438,7 +5435,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Zombie Giant</name>
-            <set picURL="https://magiccards.info/extras/token/zendikar/zombie-giant.jpg">ZEN</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tzen/7.jpg">ZEN</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie Giant</type>
@@ -5449,7 +5446,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
          <card>
             <name>Zombie Horror</name>
-            <set picURL="https://magiccards.info/extras/token/dragons-of-tarkir/zombie-horror.jpg">DTK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tdtk/4.jpg">DTK</set>
             <color>B</color>
             <cmc>0</cmc>
             <type>Token Creature — Zombie Horror</type>
@@ -5472,7 +5469,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Zombie Wizard</name>
-            <set picURL="https://magiccards.info/extras/token/alara-reborn/zombie-wizard.jpg">ARB</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tarb/4.jpg">ARB</set>
             <color>U</color>
             <color>B</color>
             <cmc>0</cmc>
@@ -5513,7 +5510,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Chandra, Roaring Flame (emblem)</name>
-            <set picURL="https://magiccards.info/extras/token/magic-origins/emblem-3.jpg">ORI</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tori/14.jpg">ORI</set>
             <type>Emblem — Chandra</type>
             <tablerow>1</tablerow>
             <text>At the beginning of your upkeep, this emblem deals 3 damage to you.</text>
@@ -5532,7 +5529,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         <card>
             <name>Dack Fayden (emblem)</name>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_KZQONbOfjg.png">EMA</set>
-            <set picURL="https://magiccards.info/extras/token/conspiracy/emblem-dack-fayden.jpg">CNS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tcns/9.jpg">CNS</set>
             <type>Emblem — Dack</type>
             <tablerow>1</tablerow>
             <text>Whenever you cast a spell that targets one or more permanents, gain control of those permanents.</text>
@@ -5542,7 +5539,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         <card>
             <name>Daretti, Scrap Savant (emblem)</name>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/no0YB9HlIT_EN.png">C16</set>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/emblem-daretti.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/36.jpg">C14</set>
             <type>Emblem — Daretti</type>
             <tablerow>1</tablerow>
             <text>Whenever an artifact is put into your graveyard from the battlefield, return that card to the battlefield at the beginning of the next end step.</text>
@@ -5552,7 +5549,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         <card>
             <name>Domri Rade (emblem)</name>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_5qdqzZr9eA.png">MM3</set>
-            <set picURL="https://magiccards.info/extras/token/gatecrash/emblem-domri-rade.jpg">GTC</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tgtc/8.jpg">GTC</set>
             <type>Emblem — Domri</type>
             <tablerow>1</tablerow>
             <text>Creatures you control have double strike, trample, hexproof, and haste.</text>
@@ -5570,8 +5567,8 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Elspeth, Knight-Errant (emblem)</name>
-            <set picURL="https://magiccards.info/extras/token/modern-event-deck/emblem-elspeth-knight-errant.jpg">MD1</set>
-            <set picURL="https://magiccards.info/extras/token/modern-masters/emblem-elspeth-knight-errant.jpg">MMA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmd1/4.jpg">MD1</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmma/16.jpg">MMA</set>
             <type>Emblem — Elspeth</type>
             <tablerow>1</tablerow>
             <text>Artifacts, creatures, enchantments, and lands you control have indestructible.</text>
@@ -5580,7 +5577,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Elspeth, Sun's Champion (emblem)</name>
-            <set picURL="https://magiccards.info/extras/token/theros/elspeth-suns-champion-emblem.jpg">THS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tths/11.jpg">THS</set>
             <type>Emblem — Elspeth</type>
             <tablerow>1</tablerow>
             <text>Creatures you control get +2/+2 and have flying.</text>
@@ -5598,7 +5595,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Garruk, Caller of Beasts (emblem)</name>
-            <set picURL="https://magiccards.info/extras/token/magic-2014/emblem-garruk-caller-of-beasts.jpg">M14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm14/13.jpg">M14</set>
             <type>Emblem — Garruk</type>
             <tablerow>1</tablerow>
             <text>Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle your library.</text>
@@ -5607,7 +5604,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Gideon of the Trials (emblem)</name>
-            <set picURL="https://magiccards.info/extras/token/amonkhet/emblem-gideon.jpg">AKH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/takh/25.jpg">AKH</set>
             <type>Emblem — Gideon</type>
             <tablerow>1</tablerow>
             <text>As long as you control a Gideon planeswalker, you can't lose the game and your opponents can't win the game.</text>
@@ -5616,7 +5613,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Gideon, Ally of Zendikar (emblem)</name>
-            <set picURL="https://magiccards.info/extras/token/battle-for-zendikar/emblem-1.jpg">BFZ</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tbfz/12.jpg">BFZ</set>
             <type>Emblem — Gideon</type>
             <tablerow>1</tablerow>
             <text>Creatures you control get +1/+1.</text>
@@ -5634,7 +5631,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Jace, Telepath Unbound (emblem)</name>
-            <set picURL="https://magiccards.info/extras/token/magic-origins/emblem-1.jpg">ORI</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tori/12.jpg">ORI</set>
             <type>Emblem — Jace</type>
             <tablerow>1</tablerow>
             <text>Whenever you cast a spell, target opponent puts the top five cards of his or her library into his or her graveyard.</text>
@@ -5661,7 +5658,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Kiora, Master of the Depths (emblem)</name>
-            <set picURL="https://magiccards.info/extras/token/battle-for-zendikar/emblem-3.jpg">BFZ</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tbfz/14.jpg">BFZ</set>
             <type>Emblem — Kiora</type>
             <tablerow>1</tablerow>
             <text>Whenever a creature enters the battlefield under your control, you may have it fight target creature.</text>
@@ -5670,7 +5667,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Kiora, the Crashing Wave (emblem)</name>
-            <set picURL="https://magiccards.info/extras/token/born-of-the-gods/emblem-kiora-the-crashing-wave.jpg">BNG</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tbng/5.jpg">BNG</set>
             <type>Emblem — Kiora</type>
             <tablerow>1</tablerow>
             <text>At the beginning of your end step, create a 9/9 blue Kraken creature token.</text>
@@ -5680,7 +5677,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Koth of the Hammer (emblem)</name>
-            <set picURL="https://magiccards.info/extras/token/duel-decks-venser-vs-koth/emblem-koth-of-the-hammer.jpg">DDI</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tddi/2.jpg">DDI</set>
             <type>Emblem — Koth</type>
             <tablerow>1</tablerow>
             <text>Mountains you control have 'Tap: This land deals 1 damage to target creature or player.'</text>
@@ -5689,8 +5686,8 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Liliana of the Dark Realms (emblem)</name>
-            <set picURL="https://magiccards.info/extras/token/magic-2014/emblem-liliana-of-the-dark-realms.jpg">M14</set>
-            <set picURL="https://magiccards.info/extras/token/magic-2013/liliana-of-the-dark-realms-emblem.jpg">M13</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm14/12.jpg">M14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm13/11.jpg">M13</set>
             <type>Emblem — Liliana</type>
             <tablerow>1</tablerow>
             <text>Swamps you control have 'Tap: Add {B}{B}{B}{B}.'</text>
@@ -5699,7 +5696,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Liliana, Defiant Necromancer (emblem)</name>
-            <set picURL="https://magiccards.info/extras/token/magic-origins/emblem-2.jpg">ORI</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tori/13.jpg">ORI</set>
             <type>Emblem — Liliana</type>
             <tablerow>1</tablerow>
             <text>Whenever a creature dies, return it to the battlefield under your control at the beginning of the next end step.</text>
@@ -5718,7 +5715,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Narset Transcendent (emblem)</name>
-            <set picURL="https://magiccards.info/extras/token/dragons-of-tarkir/emblem-narset.jpg">DTK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tdtk/8.jpg">DTK</set>
             <type>Emblem — Narset</type>
             <tablerow>1</tablerow>
             <text>Your opponents can't cast noncreature spells.</text>
@@ -5736,7 +5733,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Ob Nixilis of the Black Oath (emblem)</name>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/emblem-nixilis.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/35.jpg">C14</set>
             <type>Emblem — Nixilis</type>
             <tablerow>1</tablerow>
             <text>{1}{B}, Sacrifice a creature: You gain X life and draw X cards, where X is the sacrificed creature's power.</text>
@@ -5745,7 +5742,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Ob Nixilis Reignited (emblem)</name>
-            <set picURL="https://magiccards.info/extras/token/battle-for-zendikar/emblem-2.jpg">BFZ</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tbfz/13.jpg">BFZ</set>
             <type>Emblem — Nixilis</type>
             <tablerow>1</tablerow>
             <text>Whenever a player draws a card, you lose 2 life.</text>
@@ -5763,7 +5760,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Sarkhan, the Dragonspeaker (emblem)</name>
-            <set picURL="https://magiccards.info/extras/token/khans-of-tarkir/emblem-sarkhan.jpg">KTK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tktk/12.jpg">KTK</set>
             <type>Emblem — Sarkhan</type>
             <tablerow>1</tablerow>
             <text>At the beginning of your draw step, draw two additional cards.
@@ -5773,7 +5770,7 @@ At the beginning of your end step, discard your hand.</text>
         </card>
         <card>
             <name>Sorin, Lord of Innistrad (emblem)</name>
-            <set picURL="https://magiccards.info/extras/token/dark-ascension/emblem.jpg">DKA</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tdka/3.jpg">DKA</set>
             <type>Emblem — Sorin</type>
             <tablerow>1</tablerow>
             <text>Creatures you control get +1/+0.</text>
@@ -5782,7 +5779,7 @@ At the beginning of your end step, discard your hand.</text>
         </card>
         <card>
             <name>Sorin, Solemn Visitor (emblem)</name>
-            <set picURL="https://magiccards.info/extras/token/khans-of-tarkir/emblem-sorin.jpg">KTK</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tktk/13.jpg">KTK</set>
             <type>Emblem — Sorin</type>
             <tablerow>1</tablerow>
             <text>At the beginning of each opponent's upkeep, that player sacrifices a creature.</text>
@@ -5800,7 +5797,7 @@ At the beginning of your end step, discard your hand.</text>
         </card>
         <card>
             <name>Tamiyo, the Moon Sage (emblem)</name>
-            <set picURL="https://magiccards.info/extras/token/avacyn-restored/emblem-tamiyo-the-moon-sage.jpg">AVR</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tavr/8.jpg">AVR</set>
             <type>Emblem — Tamiyo</type>
             <tablerow>1</tablerow>
             <text>You have no maximum hand size.
@@ -5819,7 +5816,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
         </card>
         <card>
             <name>Teferi, Temporal Archmage (emblem)</name>
-            <set picURL="https://magiccards.info/extras/token/commander-2014/emblem-teferi.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tc14/34.jpg">C14</set>
             <type>Emblem — Teferi</type>
             <tablerow>1</tablerow>
             <text>You may activate loyalty abilities of planeswalkers you control on any player's turn any time you could cast an instant.</text>
@@ -5828,7 +5825,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
         </card>
         <card>
             <name>Tezzeret the Schemer (emblem)</name>
-            <set picURL="https://magiccards.info/extras/token/aether-revolt/emblem-tezzeret.jpg">AER</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/taer/4.jpg">AER</set>
             <type>Emblem — Tezzeret</type>
             <tablerow>1</tablerow>
             <text>At the beginning of combat on your turn, target artifact you control becomes an artifact creature with base power and toughness 5/5.</text>
@@ -5846,7 +5843,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
         </card>
         <card>
             <name>Venser, the Sojourner (emblem)</name>
-            <set picURL="https://magiccards.info/extras/token/duel-decks-venser-vs-koth/emblem-venser-the-sojourner.jpg">DDI</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tddi/1.jpg">DDI</set>
             <type>Emblem — Venser</type>
             <tablerow>1</tablerow>
             <text>Whenever you cast a spell, exile target permanent.</text>
@@ -5962,9 +5959,9 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
         </card>
         <card>
             <name>Poison Counter</name>
-            <set picURL="https://magiccards.info/extras/token/new-phyrexia/poison-counter.jpg">NPH</set>
-            <set picURL="https://magiccards.info/extras/token/mirrodin-besieged/poison-counter.jpg">MBS</set>
-            <set picURL="https://magiccards.info/extras/token/scars-of-mirrodin/poison-counter.jpg">SOM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tnph/5.jpg">NPH</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tmbs/6.jpg">MBS</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/tsom/10.jpg">SOM</set>
             <type>Counter</type>
             <tablerow>1</tablerow>
             <token>1</token>
@@ -6107,7 +6104,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
         </card>
         <card><!-- Custom request. Delete after HOU rotates. -->
             <name>(Unknown card name - token)</name>
-            <set picURL="https://magiccards.info/extras/token/hour-of-devastation/proven-combatant.jpg">HOU</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/thou/5.jpg">HOU</set>
             <color>B</color>
             <cmc>??</cmc>
             <type>Token Creature — Zombie</type>
