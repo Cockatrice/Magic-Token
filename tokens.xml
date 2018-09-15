@@ -97,6 +97,7 @@
         </card>
         <card>
             <name>Angel   </name>
+            <set picURL="https://media.wizards.com/2018/grn/en_cutNouFkys.png">GRN</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tm19/1.jpg">M19</set>
             <color>W</color>
             <cmc>0</cmc>
@@ -567,6 +568,18 @@ Creature tokens you control have flying and vigilance.</text>
             <text>Flying</text>
             <token>1</token>
             <reverse-related>Wingmate Roc</reverse-related>
+        </card>
+        <card>
+            <name>Bird Illusion</name>
+            <set picURL="https://media.wizards.com/2018/grn/en_0N2GFFWJJW.png">GRN</set>
+            <color>U</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Bird Illusion</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+            <reverse-related>Murmuring Mystic</reverse-related>
         </card>
         <card>
             <name>Bird Soldier</name>
@@ -1708,6 +1721,19 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <reverse-related>Freyalise, Llanowar's Fury</reverse-related>
         </card>
         <card>
+            <name>Elf Knight</name>
+            <set picURL="https://media.wizards.com/2018/grn/en_xCkCRdunFv.png">GRN</set>
+            <color>G</color>
+            <color>W</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Elf Knight</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>Vigilance</text>
+            <token>1</token>
+            <reverse-related>Conclave Guildmage</reverse-related>
+        </card>
+        <card>
             <name>Elf Warrior</name>
             <set picURL="https://img.scryfall.com/cards/large/en/tm19/13.jpg">M19</set>
             <set picURL="https://media.wizards.com/2018/a25/en_B4VqZzneN9.png">A25</set>
@@ -1962,6 +1988,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Goblin</name>
+            <set picURL="https://media.wizards.com/2018/grn/en_yjjrSUmn9t.png">GRN</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tm19/11.jpg">M19</set>
             <set picURL="https://media.wizards.com/2018/dom/en_EZdDBcrqwr.png">DOM</set>
             <set picURL="https://media.wizards.com/2018/a25/en_Sqgppqpxj0.png">A25</set>
@@ -2009,6 +2036,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related count="2">Krenko's Command</reverse-related>
             <reverse-related count="x">Krenko, Mob Boss</reverse-related>
             <reverse-related count="3">Kuldotha Rebirth</reverse-related>
+            <reverse-related>Legion Warboss</reverse-related>
             <reverse-related>Mardu Ascendancy</reverse-related>
             <reverse-related count="2">Mogg Alarm</reverse-related>
             <reverse-related count="x=2">Mogg Infestation</reverse-related>
@@ -2650,6 +2678,18 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <text>Flying, haste</text>
             <token>1</token>
             <reverse-related>The Locust God</reverse-related>
+        </card>
+        <card>
+            <name>Insect       </name>
+            <set picURL="https://media.wizards.com/2018/grn/en_7Bx9CRd7sO.png">GRN</set>
+            <color>B</color>
+            <color>G</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Insect</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <token>1</token>
+            <reverse-related count="x">Izoni, Thousand-Eyed</reverse-related>
         </card>
         <card>
             <name>Kaldra</name>
@@ -4165,6 +4205,19 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <text>Defender</text>
             <token>1</token>
             <reverse-related>Hold the Perimeter</reverse-related>
+        </card>
+        <card>
+            <name>Soldier   </name>
+            <set picURL="https://media.wizards.com/2018/grn/en_LW2RdY0Tx0.png">GRN</set>
+            <color>W</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Soldier</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Lifelink</text>
+            <token>1</token>
+            <reverse-related>Emmara, Soul of the Accord</reverse-related>
+            <reverse-related count="x">March of the Multitudes</reverse-related>
         </card>
         <card>
             <name>Soldier    </name>
@@ -5748,6 +5801,24 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Whenever a player draws a card, you lose 2 life.</text>
             <token>1</token>
             <reverse-related exclude="exclude">Ob Nixilis Reignited</reverse-related>
+        </card>
+        <card>
+            <name>Ral, Izzet Viceroy (emblem)</name>
+            <set picURL="https://media.wizards.com/2018/grn/en_cSIhkW4Oic.png">GRN</set>
+            <type>Emblem — Ral</type>
+            <tablerow>1</tablerow>
+            <text>Whenever you cast an instant or sorcery spell, this emblem deals 4 damage to any target and you draw two cards.</text>
+            <token>1</token>
+            <reverse-related>Ral, Izzet Viceroy</reverse-related>
+        </card>
+        <card>
+            <name>Vraska, Golgari Queen (emblem)</name>
+            <set picURL="https://media.wizards.com/2018/grn/en_Gq70SfRJ8Z.png">GRN</set>
+            <type>Emblem — Vraska</type>
+            <tablerow>1</tablerow>
+            <text>Whenever a creature you control deals combat damage to a player, that player loses the game.</text>
+            <token>1</token>
+            <reverse-related>Vraska, Golgari Queen</reverse-related>
         </card>
         <card>
             <name>Rowan Kenrith (emblem)</name>
