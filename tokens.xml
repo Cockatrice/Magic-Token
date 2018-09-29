@@ -62,6 +62,7 @@
             <reverse-related count="x">Decree of Justice</reverse-related>
             <reverse-related>Descend upon the Sinful</reverse-related>
             <reverse-related count="x">Devout Invocation</reverse-related>
+            <reverse-related count="x">Divine Visitation</reverse-related>
             <reverse-related count="x">Entreat the Angels</reverse-related>
             <reverse-related count="x=1">Empyrial Storm</reverse-related>
             <reverse-related>Geist of Saint Traft</reverse-related>
@@ -1731,7 +1732,10 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
             <text>Vigilance</text>
             <token>1</token>
+            <reverse-related count="3">Assure // Assemble</reverse-related>
+            <reverse-related count="2">Conclave Cavalier</reverse-related>
             <reverse-related>Conclave Guildmage</reverse-related>
+            <reverse-related>Sprouting Renewal</reverse-related>
         </card>
         <card>
             <name>Elf Warrior</name>
@@ -4216,8 +4220,14 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text>Lifelink</text>
             <token>1</token>
+            <reverse-related>Dawn of Hope</reverse-related>
             <reverse-related>Emmara, Soul of the Accord</reverse-related>
+            <reverse-related>Haazda Marshal</reverse-related>
+            <reverse-related>Hunted Witness</reverse-related>
+            <reverse-related>Ledev Champion</reverse-related>
             <reverse-related count="x">March of the Multitudes</reverse-related>
+            <reverse-related count="2">Sworn Companions</reverse-related>
+            <reverse-related count="2">Trostani Discordant</reverse-related>
         </card>
         <card>
             <name>Soldier    </name>
