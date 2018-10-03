@@ -6183,19 +6183,5 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>Throne of the High City</reverse-related>
             <reverse-related>Throne Warden</reverse-related>
         </card>
-        <card><!-- Custom request. Delete after HOU rotates. -->
-            <name>(Unknown card name - token)</name>
-            <set picURL="https://img.scryfall.com/cards/large/en/thou/5.jpg">HOU</set>
-            <color>B</color>
-            <cmc>??</cmc>
-            <type>Token Creature — Zombie</type>
-            <pt>4/4</pt>
-            <tablerow>2</tablerow>
-            <text>(This token represents an exiled creature card from a graveyard, except it's a 4/4 Black Zombie. It retains its mana cost.)</text>
-            <token>1</token>
-            <reverse-related>The Scarab God</reverse-related>
-            <reverse-related>God-Pharoah's Gift</reverse-related>
-            <reverse-related>Hour of Eternity</reverse-related>
-        </card>
     </cards>
 </cockatrice_carddatabase>
