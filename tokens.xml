@@ -62,7 +62,6 @@
             <reverse-related count="x">Decree of Justice</reverse-related>
             <reverse-related>Descend upon the Sinful</reverse-related>
             <reverse-related count="x">Devout Invocation</reverse-related>
-            <reverse-related count="x">Divine Visitation</reverse-related>
             <reverse-related count="x">Entreat the Angels</reverse-related>
             <reverse-related count="x=1">Empyrial Storm</reverse-related>
             <reverse-related>Geist of Saint Traft</reverse-related>
@@ -107,6 +106,7 @@
             <tablerow>2</tablerow>
             <text>Flying, vigilance</text>
             <token>1</token>
+            <reverse-related count="x">Divine Visitation</reverse-related>
             <reverse-related>Resplendent Angel</reverse-related>
         </card>
         <card>
