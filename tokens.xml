@@ -456,6 +456,18 @@ Creature tokens you control have flying and vigilance.</text>
             <reverse-related>Trial of Strength</reverse-related>
         </card>
         <card>
+            <name>Beast         </name>
+            <set picURL="https://media.wizards.com/2018/rna/en_gcngyJXapg.png">RNA</set>
+            <color>R</color>
+            <color>G</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Beast</type>
+            <pt>4/4</pt>
+            <tablerow>2</tablerow>
+            <text>Trample</text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Bird</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/3/37/Bird2.jpg">DIS</set>
             <color>W</color>
@@ -763,6 +775,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Centaur</name>
+            <set picURL="https://media.wizards.com/2018/rna/en_puSB7xDOQj.png">RNA</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_ah0ecd5RgR.png">MM3</set>
             <set picURL="https://img.scryfall.com/cards/large/en/trtr/7.jpg">RTR</set>
             <color>G</color>
@@ -1860,6 +1873,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Frog Lizard</name>
+            <set picURL="https://media.wizards.com/2018/rna/en_qYavMoWVko.png">RNA</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_ezDepR29P8.png">C15</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tgtc/3.jpg">GTC</set>
             <color>G</color>
@@ -1992,6 +2006,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Goblin</name>
+            <set picURL="https://media.wizards.com/2018/rna/en_NaVWfo0f7A.png">RNA</set>
             <set picURL="https://media.wizards.com/2018/grn/en_yjjrSUmn9t.png">GRN</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tm19/11.jpg">M19</set>
             <set picURL="https://media.wizards.com/2018/dom/en_EZdDBcrqwr.png">DOM</set>
@@ -2464,6 +2479,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Human</name>
+            <set picURL="https://media.wizards.com/2018/rna/en_IeLQUTgkMy.png">RNA</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tavr/2.jpg">AVR</set>
             <set picURL="https://img.scryfall.com/cards/large/en/f12/human.jpg">pFNM</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tdka/1.jpg">DKA</set>
@@ -2578,6 +2594,17 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <text>When this creature becomes the target of a spell, sacrifice it.</text>
             <token>1</token>
             <reverse-related>Jace, Cunning Castaway</reverse-related>
+        </card>
+        <card>
+            <name>Illusion   </name>
+            <set picURL="https://media.wizards.com/2018/rna/en_ufNtrZErSM.png">RNA</set>
+            <color>U</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Illusion</type>
+            <pt>0/2</pt>
+            <tablerow>2</tablerow>
+            <text>Whenever this creature blocks a creature, that creature doesn't untap during its controller's next untap step.</text>
+            <token>1</token>
         </card>
         <card>
             <name>Insect</name>
@@ -3499,6 +3526,16 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related>Inexorable Blob</reverse-related>
         </card>
         <card>
+            <name>Ooze     </name>
+            <set picURL="https://media.wizards.com/2018/rna/en_muk9bcLe4j.png">RNA</set>
+            <color>G</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Ooze</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <token>1</token>
+        </card>
+        <card>
             <name>Orb</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/4/44/Orb.jpg">ALL</set>
             <color>U</color>
@@ -4298,6 +4335,18 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related count="x">Hour of Need</reverse-related>
         </card>
         <card>
+            <name>Sphinx </name>
+            <set picURL="https://media.wizards.com/2018/rna/en_tgCJ9tXkbe.png">RNA</set>
+            <color>W</color>
+            <color>U</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Sphinx</type>
+            <pt>4/4</pt>
+            <tablerow>2</tablerow>
+            <text>Flying, vigilance</text>
+            <token>1</token>
+        </card>
+        <card>
             <name>Spider</name>
             <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_KiwJSuvSso.png">EMN</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_eeuO57mVX3.png">C15</set>
@@ -4436,6 +4485,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spirit  </name>
+            <set picURL="https://media.wizards.com/2018/rna/en_ABtRyfECoT.png">RNA</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_GNBqMfbnJz.png">C15</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tgtc/7.jpg">GTC</set>
             <set picURL="https://img.scryfall.com/cards/large/en/teve/4.jpg">EVE</set>
@@ -4677,6 +4727,7 @@ This creature can't be enchanted.</text>
         </card>
         <card>
             <name>Thopter</name>
+            <set picURL="https://media.wizards.com/2018/rna/en_VL2JcQP37W.png">RNA</set>
             <set picURL="https://media.wizards.com/2018/c18/en_mBoeau7u3l.png">C18</set>
             <set picURL="https://media.wizards.com/2018/c18/en_Lw5bv3eHeO.png">C18</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tm19/14.jpg">M19</set>
@@ -4768,6 +4819,7 @@ This creature can't be enchanted.</text>
         </card>
         <card>
             <name>Treasure</name>
+            <set picURL="https://media.wizards.com/2018/rna/en_tgR7GbIWg8.png">RNA</set>
             <set picURL="https://media.wizards.com/2017/xln/en_1x8JYIHKSF_b.png">XLN</set>
             <set picURL="https://media.wizards.com/2017/xln/en_yQpDYPpsn4_b.png">XLN</set>
             <set picURL="https://media.wizards.com/2017/xln/en_N4n6GAhvNw_b.png">XLN</set>
@@ -5349,6 +5401,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Zombie</name>
+            <set picURL="https://media.wizards.com/2018/rna/en_FV4qTNvNWC.png">RNA</set>
             <set picURL="https://media.wizards.com/2018/c18/en_NlO9xMIqTz.png">C18</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tm19/8.jpg">M19</set>
             <set picURL="https://media.wizards.com/2017/ust/en_PdePJoDtFG.png">UST</set>
@@ -5618,6 +5671,15 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Creatures you control have double strike, trample, hexproof, and haste.</text>
             <token>1</token>
             <reverse-related exclude="exclude">Domri Rade</reverse-related>
+        </card>
+        <card>
+            <name>Domri, Chaos Bringer (emblem)</name>
+            <set picURL="https://media.wizards.com/2018/rna/en_FdzLIC4pdx.png">RNA</set>
+            <type>Emblem — Domri</type>
+            <tablerow>1</tablerow>
+            <text>At the beginning of each end step, create a 4/4 red and green Beast creature token with trample.</text>
+            <token>1</token>
+            <reverse-related>Domri, Chaos Bringer</reverse-related>
         </card>
         <card>
             <name>Dovin Baan (emblem)</name>
