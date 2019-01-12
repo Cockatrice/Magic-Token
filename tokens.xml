@@ -466,6 +466,9 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
             <text>Trample</text>
             <token>1</token>
+            <reverse-related>Domri, Chaos Bringer</reverse-related>
+            <reverse-related>Domri, Chaos Bringer (emblem)</reverse-related>
+            <reverse-related>Thrash // Threat</reverse-related>
         </card>
         <card>
             <name>Bird</name>
@@ -789,6 +792,7 @@ Creature tokens you control have flying and vigilance.</text>
             <reverse-related>Centaur Glade</reverse-related>
             <reverse-related>Centaur's Herald</reverse-related>
             <reverse-related>Coursers' Accord</reverse-related>
+            <reverse-related count="x">Rampage of the Clans</reverse-related>
             <reverse-related>Trostani's Summoner</reverse-related>
             <reverse-related>Vitu-Ghazi Guildmage</reverse-related>
         </card>
@@ -1882,6 +1886,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <pt>3/3</pt>
             <tablerow>2</tablerow>
             <token>1</token>
+            <reverse-related>Incubation // Incongruity</reverse-related>
             <reverse-related>Rapid Hybridization</reverse-related>
         </card>
         <card>
@@ -2041,6 +2046,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related count="2">Dragon Fodder</reverse-related>
             <reverse-related count="2">Empty the Warrens</reverse-related>
             <reverse-related>Goblin Assault</reverse-related>
+            <reverse-related count="x=2">Goblin Gathering</reverse-related>
             <reverse-related count="2">Goblin Marshal</reverse-related>
             <reverse-related count="x">Goblin Offensive</reverse-related>
             <reverse-related>Goblin Rabblemaster</reverse-related>
@@ -2494,8 +2500,10 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related count="5" exclude="exclude">Gather the Townsfolk</reverse-related>
             <reverse-related count="5">Increasing Devotion</reverse-related>
             <reverse-related count="10" exclude="exclude">Increasing Devotion</reverse-related>
+            <reverse-related>Hero of Precinct One</reverse-related>
             <reverse-related>Thraben Doomsayer</reverse-related>
             <reverse-related>Voice of the Provinces</reverse-related>
+            <reverse-related>Watchful Giant</reverse-related>
         </card>
         <card>
             <name>Human </name>
@@ -2605,6 +2613,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
             <text>Whenever this creature blocks a creature, that creature doesn't untap during its controller's next untap step.</text>
             <token>1</token>
+            <reverse-related count="2">Mesmerizing Benthid</reverse-related>
         </card>
         <card>
             <name>Insect</name>
@@ -3534,6 +3543,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <pt>2/2</pt>
             <tablerow>2</tablerow>
             <token>1</token>
+            <reverse-related count="x=1">Biogenic Ooze</reverse-related>
         </card>
         <card>
             <name>Orb</name>
@@ -4345,6 +4355,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
             <text>Flying, vigilance</text>
             <token>1</token>
+            <reverse-related>Warrant // Warden</reverse-related>
         </card>
         <card>
             <name>Spider</name>
@@ -4498,7 +4509,18 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <text>Flying</text>
             <token>1</token>
             <reverse-related>Beckon Apparition</reverse-related>
+            <reverse-related count="2">Debtors' Transport</reverse-related>
+            <reverse-related count="x">Ethereal Absolution</reverse-related>
+            <reverse-related>Imperious Oligarch</reverse-related>
+            <reverse-related>Knight of Sorrows</reverse-related>
+            <reverse-related count="x">Knight of the Last Breath</reverse-related>
+            <reverse-related count="2">Ministrant of Obligation</reverse-related>
+            <reverse-related>Orzhov Enforcer</reverse-related>
+            <reverse-related count="2">Orzhov Racketeers</reverse-related>
+            <reverse-related count="2">Seraph of the Scales</reverse-related>
+            <reverse-related>Syndicate Messenger</reverse-related>
             <reverse-related>Teysa, Envoy of Ghosts</reverse-related>
+            <reverse-related>Tithe Taker</reverse-related>
         </card>
         <card>
             <name>Spirit   </name>
@@ -4744,6 +4766,8 @@ This creature can't be enchanted.</text>
             <text>Flying</text>
             <token>1</token>
             <reverse-related>Aspiring Aeronaut</reverse-related>
+            <reverse-related count="2">Depose // Deploy</reverse-related>
+            <reverse-related>Dovin, Grand Arbiter</reverse-related>
             <reverse-related>Efficient Construction</reverse-related>
             <reverse-related count="2">Experimental Aviator</reverse-related>
             <reverse-related>Filigree Crawler</reverse-related>
@@ -4829,31 +4853,32 @@ This creature can't be enchanted.</text>
             <tablerow>1</tablerow>
             <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
             <token>1</token>
+            <reverse-related>Brass's Bounty</reverse-related>
+            <reverse-related>Brazen Freebooter</reverse-related>
             <reverse-related>Captain Lannery Storm</reverse-related>
             <reverse-related count="2">Contract Killing</reverse-related>
             <reverse-related>Deadeye Plunderers</reverse-related>
             <reverse-related>Depths of Desire</reverse-related>
             <reverse-related>Dire Fleet Hoarder</reverse-related>
+            <reverse-related>Gleaming Barrier</reverse-related>
             <reverse-related>Heartless Pillage</reverse-related>
+            <reverse-related>Hornswoggle</reverse-related>
+            <reverse-related count="2">Pirate's Pillage</reverse-related>
             <reverse-related>Pirate's Prize</reverse-related>
+            <reverse-related>Pitiless Plunderer</reverse-related>
             <reverse-related count="2">Prosperous Pirates</reverse-related>
             <reverse-related>Prying Blade</reverse-related>
             <reverse-related>Revel in Riches</reverse-related>
             <reverse-related count="2">Ruthless Knave</reverse-related>
             <reverse-related>Sailor of Means</reverse-related>
+            <reverse-related>Smothering Tithe</reverse-related>
             <reverse-related count="x">Spell Swindle</reverse-related>
+            <reverse-related>Storm the Vault</reverse-related>
             <reverse-related count="3">Treasure Map</reverse-related>
             <reverse-related>Trove of Temptation</reverse-related>
             <reverse-related>Vraska, Relic Seeker</reverse-related>
             <reverse-related count="2">Wanted Scoundrels</reverse-related>
             <reverse-related>Wily Goblin</reverse-related>
-            <reverse-related>Brass's Bounty</reverse-related>
-            <reverse-related>Brazen Freebooter</reverse-related>
-            <reverse-related>Gleaming Barrier</reverse-related>
-            <reverse-related>Hornswoggle</reverse-related>
-            <reverse-related count="2">Pirate's Pillage</reverse-related>
-            <reverse-related>Pitiless Plunderer</reverse-related>
-            <reverse-related>Storm the Vault</reverse-related>
         </card>
         <card>
             <name>Treefolk</name>
@@ -5445,7 +5470,9 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Archdemon of Unx</reverse-related>
             <reverse-related count="13">Army of the Damned</reverse-related>
             <reverse-related>Assemble the Rank and Vile</reverse-related>
+            <reverse-related count="x">Awaken the Erstwhile</reverse-related>
             <reverse-related>Bridge from Below</reverse-related>
+            <reverse-related count="x=5">Captive Audience</reverse-related>
             <reverse-related>Cellar Door</reverse-related>
             <reverse-related>Cemetery Reaper</reverse-related>
             <reverse-related>Cradle of the Accursed</reverse-related>
