@@ -45,7 +45,7 @@
             <set picURL="https://img.scryfall.com/cards/large/en/tc14/1.jpg">C14</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tm14/2.jpg">M14</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tgtc/1.jpg">GTC</set>
-            <set picURL="https://img.scryfall.com/cards/large/en/p04/2.jpg">pPRE</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/p04/2.jpg">PPRE</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tavr/1.jpg">AVR</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tisd/1.jpg">ISD</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tzen/1.jpg">ZEN</set>
@@ -136,7 +136,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
         </card>
         <card>
             <name>Antelope</name>
-            <set picURL="http://s8.postimg.org/t5pmpgout/ANTELOPE.jpg">VAN</set>
+            <set picURL="http://s8.postimg.org/t5pmpgout/ANTELOPE.jpg">PVAN</set>
             <color>G</color>
             <cmc>0</cmc>
             <type>Token Creature — Antelope</type>
@@ -2487,7 +2487,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <name>Human</name>
             <set picURL="https://media.wizards.com/2018/rna/en_IeLQUTgkMy.png">RNA</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tavr/2.jpg">AVR</set>
-            <set picURL="https://img.scryfall.com/cards/large/en/f12/human.jpg">pFNM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/f12/human.jpg">FNM</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tdka/1.jpg">DKA</set>
             <color>W</color>
             <cmc>0</cmc>
@@ -5231,7 +5231,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="https://img.scryfall.com/cards/large/en/tcns/7.jpg">CNS</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tbng/9.jpg">BNG</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tm14/11.jpg">M14</set>
-            <set picURL="https://img.scryfall.com/cards/large/en/f12/1ab.jpg">pFNM</set>
+            <set picURL="https://img.scryfall.com/cards/large/en/f12/1ab.jpg">FNM</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tisd/12.jpg">ISD</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tsom/5.jpg">SOM</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tzen/11.jpg">ZEN</set>
