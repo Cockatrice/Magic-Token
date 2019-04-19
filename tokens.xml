@@ -108,6 +108,8 @@
             <text>Flying, vigilance</text>
             <token>1</token>
             <reverse-related count="x">Divine Visitation</reverse-related>
+            <reverse-related count="x" exclude="exclude">Finale of Glory</reverse-related>
+            <reverse-related count="2">Parhelion II</reverse-related>
             <reverse-related>Resplendent Angel</reverse-related>
         </card>
         <card>
@@ -204,7 +206,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <text>Deathtouch
 Whenever this creature deals damage to a planeswalker, destroy that planeswalker.</text>
             <token>1</token>
-            <reverse-related></reverse-related>
+            <reverse-related>Vraska, Swarm's Eminence</reverse-related>
         </card>
         <card>
             <name>Assembly-Worker </name>
@@ -872,7 +874,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
             <text>This creature is all colors.</text>
             <token>1</token>
-            <reverse-related></reverse-related>
+            <reverse-related>Planewide Celebration</reverse-related>
         </card>
         <card>
             <name>Cleric</name>
@@ -1095,6 +1097,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <reverse-related count="2">Dance with Devils</reverse-related>
             <reverse-related count="4">Devils' Playground</reverse-related>
             <reverse-related>Make Mischief</reverse-related>
+            <reverse-related>Tibalt, Rakish Instigator</reverse-related>
         </card>
         <card>
             <name>Dinosaur</name>
@@ -1184,6 +1187,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <reverse-related>Broodmate Dragon</reverse-related>
             <reverse-related count="x">Descent of the Dragons</reverse-related>
             <reverse-related>Dragon Whisperer</reverse-related>
+            <reverse-related>Sarkhan the Masterless</reverse-related>
             <reverse-related>Sarkhan Unbroken</reverse-related>
             <reverse-related count="5">Sarkhan Vol</reverse-related>
         </card>
@@ -2093,6 +2097,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related count="2">Kathari Bomber</reverse-related>
             <reverse-related count="2">Krenko's Command</reverse-related>
             <reverse-related count="x">Krenko, Mob Boss</reverse-related>
+            <reverse-related count="x">Krenko, Tin Street Kingpin</reverse-related>
             <reverse-related count="3">Kuldotha Rebirth</reverse-related>
             <reverse-related>Legion Warboss</reverse-related>
             <reverse-related>Mardu Ascendancy</reverse-related>
@@ -4026,6 +4031,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related count="2">Visionary Augmenter</reverse-related>
             <reverse-related count="2">Weaponcraft Enthusiast</reverse-related>
             <reverse-related>Retrofitter Foundry</reverse-related>
+            <reverse-related>Saheeli, Sublime Artificer</reverse-related>
             <reverse-related>Saheeli, the Gifted</reverse-related>
         </card>
         <card>
@@ -4330,7 +4336,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Soldier      </name>
-            <set picURL="https://media.wizards.com/2019/war/en_EBxyIpwnom.png"></set>
+            <set picURL="https://media.wizards.com/2019/war/en_EBxyIpwnom.png">WAR</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Soldier</type>
@@ -4338,7 +4344,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
             <text>Vigilance</text>
             <token>1</token>
-            <reverse-related></reverse-related>
+            <reverse-related count="x">Finale of Victory</reverse-related>
         </card>
         <card>
             <name>Soldier Ally</name>
@@ -4628,7 +4634,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <pt>2/2</pt>
             <tablerow>2</tablerow>
             <token>1</token>
-            <reverse-related></reverse-related>
+            <reverse-related>Ugin, the Ineffable</reverse-related>
         </card>
         <card>
             <name>Spirit Warrior</name>
@@ -5145,7 +5151,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Voja, Friend to Elves</name>
-            <set picURL="https://media.wizards.com/2019/war/en_2XrXcJcCdF.png"></set>
+            <set picURL="https://media.wizards.com/2019/war/en_2XrXcJcCdF.png">WAR</set>
             <color>G</color>
             <color>W</color>
             <cmc>0</cmc>
@@ -5153,7 +5159,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <pt>3/3</pt>
             <tablerow>2</tablerow>
             <token>1</token>
-            <reverse-related></reverse-related>
+            <reverse-related>Tolsimir, Friend to Wolves</reverse-related>
         </card>
         <card>
             <name>Wall</name>
@@ -5188,7 +5194,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text>Defender</text>
             <token>1</token>
-            <reverse-related></reverse-related>
+            <reverse-related>Teyo, the Shieldmage</reverse-related>
         </card>
         <card>
             <name>Wasp</name>
@@ -5305,11 +5311,11 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <pt>2/2</pt>
             <tablerow>2</tablerow>
             <token>1</token>
-            <reverse-related></reverse-related>
+            <reverse-related>Kasmina, Enigmatic Mentor</reverse-related>
         </card>
         <card>
             <name>Wolf</name>
-            <set picURL="https://media.wizards.com/2019/war/en_vc9PEBCee6.png"></set>
+            <set picURL="https://media.wizards.com/2019/war/en_vc9PEBCee6.png">WAR</set>
             <set picURL="https://media.wizards.com/2018/a25/en_YMeT9fmnKH.png">A25</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_BW6wmU7cbv.png">SOI</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_IWGaI59e15.png">C15</set>
@@ -5332,6 +5338,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <token>1</token>
             <reverse-related>Arlinn Kord</reverse-related>
+            <reverse-related>Arlinn, Voice of the Pack</reverse-related>
             <reverse-related>Bestial Menace</reverse-related>
             <reverse-related>Cult of the Waxing Moon</reverse-related>
             <reverse-related>Fable of Wolf and Owl</reverse-related>
@@ -5592,6 +5599,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related count="2">Liliana's Mastery</reverse-related>
             <reverse-related>Liliana's Reaver</reverse-related>
             <reverse-related>Liliana, Death's Majesty</reverse-related>
+            <reverse-related>Liliana, Dreadhorde General</reverse-related>
             <reverse-related>Liliana, Heretical Healer</reverse-related>
             <reverse-related count="x">Liliana, the Last Hope</reverse-related>
             <reverse-related count="2">Maalfeld Twins</reverse-related>
@@ -5675,7 +5683,25 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <pt>0/0</pt>
             <tablerow>2</tablerow>
             <token>1</token>
-            <reverse-related></reverse-related>
+            <reverse-related>Angrath, Captain of Chaos</reverse-related>
+            <reverse-related>Aven Eternal</reverse-related>
+            <reverse-related>Bleeding Edge</reverse-related>
+            <reverse-related>Callous Dismissal</reverse-related>
+            <reverse-related>Crush Dissent</reverse-related>
+            <reverse-related>Dreadhorde Invasion</reverse-related>
+            <reverse-related>Dreadhorde Twins</reverse-related>
+            <reverse-related>Eternal Skylord</reverse-related>
+            <reverse-related>Gleaming Overseer</reverse-related>
+            <reverse-related>Grim Initiate</reverse-related>
+            <reverse-related>Herald of the Dreadhorde</reverse-related>
+            <reverse-related>Honor the God-Pharaoh</reverse-related>
+            <reverse-related>Invade the City</reverse-related>
+            <reverse-related>Invading Manticore</reverse-related>
+            <reverse-related>Lazotep Plating</reverse-related>
+            <reverse-related>Lazotep Reaver</reverse-related>
+            <reverse-related>Relentless Advance</reverse-related>
+            <reverse-related>Vizier of the Scorpion</reverse-related>
+            <reverse-related>Widespread Brutality</reverse-related>
         </card>
         <card>
             <name>Zombie Giant</name>
@@ -5721,7 +5747,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
             <text>Vigilance</text>
             <token>1</token>
-            <reverse-related></reverse-related>
+            <reverse-related>God-Eternal Oketra</reverse-related>
         </card>
         <card>
             <name>Zombie Wizard</name>
