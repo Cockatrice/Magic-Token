@@ -97,6 +97,7 @@
         </card>
         <card>
             <name>Angel   </name>
+            <set picURL="https://media.wizards.com/2019/war/en_1ShIwwC1vp.png">WAR</set>
             <set picURL="https://media.wizards.com/2018/grn/en_cutNouFkys.png">GRN</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tm19/1.jpg">M19</set>
             <color>W</color>
@@ -191,6 +192,19 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <text>Deathtouch, haste</text>
             <token>1</token>
             <reverse-related>Queen Marchesa</reverse-related>
+        </card>
+        <card>
+            <name>Assassin  </name>
+            <set picURL="https://media.wizards.com/2019/war/en_65RMAQl0an.png">WAR</set>
+            <color>B</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Assassin</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Deathtouch
+Whenever this creature deals damage to a planeswalker, destroy that planeswalker.</text>
+            <token>1</token>
+            <reverse-related></reverse-related>
         </card>
         <card>
             <name>Assembly-Worker </name>
@@ -845,6 +859,22 @@ Creature tokens you control have flying and vigilance.</text>
             <reverse-related count="4">Icatian Town</reverse-related>
         </card>
         <card>
+            <name>Citizen </name>
+            <set picURL="https://media.wizards.com/2019/war/en_LdDdsguWQD.png">WAR</set>
+            <color>W</color>
+            <color>U</color>
+            <color>B</color>
+            <color>R</color>
+            <color>G</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Citizen</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>This creature is all colors.</text>
+            <token>1</token>
+            <reverse-related></reverse-related>
+        </card>
+        <card>
             <name>Cleric</name>
             <set picURL="https://img.scryfall.com/cards/large/en/tgtc/4.jpg">GTC</set>
             <color>W</color>
@@ -1053,13 +1083,14 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
         </card>
         <card>
             <name>Devil</name>
+            <set picURL="https://media.wizards.com/2019/war/en_7jfeiDSYRB.png">WAR</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_qhIEFoclOO.png">SOI</set>
             <color>R</color>
             <cmc>0</cmc>
             <type>Token Creature — Devil</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>When this creature dies, it deals 1 damage to target creature or player.</text>
+            <text>When this creature dies, it deals 1 damage to any target.</text>
             <token>1</token>
             <reverse-related count="2">Dance with Devils</reverse-related>
             <reverse-related count="4">Devils' Playground</reverse-related>
@@ -1137,6 +1168,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
         </card>
         <card>
             <name>Dragon  </name>
+            <set picURL="https://media.wizards.com/2019/war/en_5bH9Soy3zF.png">WAR</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tc17/6.jpg">C17</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_TKuSkyDBa4.png">MM3</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tdtk/5.jpg">DTK</set>
@@ -2011,6 +2043,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
         </card>
         <card>
             <name>Goblin</name>
+            <set picURL="https://media.wizards.com/2019/war/en_aQgSh0czs9.png">WAR</set>
             <set picURL="https://media.wizards.com/2018/rna/en_NaVWfo0f7A.png">RNA</set>
             <set picURL="https://media.wizards.com/2018/grn/en_yjjrSUmn9t.png">GRN</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tm19/11.jpg">M19</set>
@@ -2239,7 +2272,6 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <type>Token Artifact Creature — Golem</type>
             <pt>4/4</pt>
             <tablerow>2</tablerow>
-            <text></text>
             <token>1</token>
             <reverse-related>Gold-Forge Garrison</reverse-related>
         </card>
@@ -2454,7 +2486,6 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <type>Token Creature — Horror</type>
             <pt>3/3</pt>
             <tablerow>2</tablerow>
-            <text></text>
             <token>1</token>
             <reverse-related>For Each of You, a Gift</reverse-related>
             <reverse-related>My Forces Are Innumerable</reverse-related>
@@ -2468,7 +2499,6 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <type>Token Creature — Horse</type>
             <pt>5/5</pt>
             <tablerow>2</tablerow>
-            <text></text>
             <token>1</token>
             <reverse-related>Crested Sunmare</reverse-related>
         </card>
@@ -3565,7 +3595,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <type>Token Creature — Ox</type>
             <pt>2/4</pt>
             <tablerow>2</tablerow>
-            <text></text>
             <token>1</token>
             <reverse-related>Transmogrifying Wand</reverse-related>
         </card>
@@ -3956,6 +3985,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Servo</name>
+            <set picURL="https://media.wizards.com/2019/war/en_Jg1FD7mOfM.png">WAR</set>
             <set picURL="https://media.wizards.com/2018/c18/en_JyIqd8Hnqa.png">C18</set>
             <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_xzZQc5a68Z.png">KLD</set>
             <set picURL="http://media.wizards.com/2016/bVvMNuiu2i_KLD/en_oKAeTK3DKA.png">KLD</set>
@@ -4299,6 +4329,18 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related count="2">God-Favored General</reverse-related>
         </card>
         <card>
+            <name>Soldier      </name>
+            <set picURL="https://media.wizards.com/2019/war/en_EBxyIpwnom.png"></set>
+            <color>W</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Soldier</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>Vigilance</text>
+            <token>1</token>
+            <reverse-related></reverse-related>
+        </card>
+        <card>
             <name>Soldier Ally</name>
             <set picURL="https://img.scryfall.com/cards/large/en/twwk/1.jpg">WWK</set>
             <color>W</color>
@@ -4577,6 +4619,16 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <text>This creature's power and toughness are each equal to the number of experience counters you have.</text>
             <token>1</token>
             <reverse-related>Daxos the Returned</reverse-related>
+        </card>
+        <card>
+            <name>Spirit       </name>
+            <set picURL="https://media.wizards.com/2019/war/en_eq8OiBawU6.png">WAR</set>
+            <cmc>0</cmc>
+            <type>Token Creature — Spirit</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <token>1</token>
+            <reverse-related></reverse-related>
         </card>
         <card>
             <name>Spirit Warrior</name>
@@ -5031,7 +5083,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <type>Token Creature — Vampire</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text></text>
             <token>1</token>
             <reverse-related>Edgar Markov</reverse-related>
         </card>
@@ -5093,6 +5144,18 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Tolsimir Wolfblood</reverse-related>
         </card>
         <card>
+            <name>Voja, Friend to Elves</name>
+            <set picURL="https://media.wizards.com/2019/war/en_2XrXcJcCdF.png"></set>
+            <color>G</color>
+            <color>W</color>
+            <cmc>0</cmc>
+            <type>Token Legendary Creature — Wolf</type>
+            <pt>3/3</pt>
+            <tablerow>2</tablerow>
+            <token>1</token>
+            <reverse-related></reverse-related>
+        </card>
+        <card>
             <name>Wall</name>
             <set picURL="http://cdn.staticneo.com/w/mtg/3/36/Wall2.jpg">MIR</set>
             <cmc>0</cmc>
@@ -5114,6 +5177,18 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Defender</text>
             <token>1</token>
             <reverse-related>Tidal Wave</reverse-related>
+        </card>
+        <card>
+            <name>Wall  </name>
+            <set picURL="https://media.wizards.com/2019/war/en_5wkIKBAuYS.png">WAR</set>
+            <color>W</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Wall</type>
+            <pt>0/3</pt>
+            <tablerow>2</tablerow>
+            <text>Defender</text>
+            <token>1</token>
+            <reverse-related></reverse-related>
         </card>
         <card>
             <name>Wasp</name>
@@ -5222,7 +5297,19 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Wirefly Hive</reverse-related>
         </card>
         <card>
+            <name>Wizard</name>
+            <set picURL="https://media.wizards.com/2019/war/en_kBbazARQoi.png">WAR</set>
+            <color>U</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Wizard</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <token>1</token>
+            <reverse-related></reverse-related>
+        </card>
+        <card>
             <name>Wolf</name>
+            <set picURL="https://media.wizards.com/2019/war/en_vc9PEBCee6.png"></set>
             <set picURL="https://media.wizards.com/2018/a25/en_YMeT9fmnKH.png">A25</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_BW6wmU7cbv.png">SOI</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_IWGaI59e15.png">C15</set>
@@ -5426,6 +5513,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Zombie</name>
+            <set picURL="https://media.wizards.com/2019/war/en_kpTtzDM6jX.png">WAR</set>
             <set picURL="https://media.wizards.com/2018/rna/en_FV4qTNvNWC.png">RNA</set>
             <set picURL="https://media.wizards.com/2018/c18/en_NlO9xMIqTz.png">C18</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tm19/8.jpg">M19</set>
@@ -5577,6 +5665,19 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Stitcher Geralf</reverse-related>
         </card>
         <card>
+            <name>Zombie Army</name>
+            <set picURL="https://media.wizards.com/2019/war/en_KzBBNMF6y0.png">WAR</set>
+            <set picURL="https://media.wizards.com/2019/war/en_R8RtdR3FnK.png">WAR</set>
+            <set picURL="https://media.wizards.com/2019/war/en_OxSS3LpAEh.png">WAR</set>
+            <color>B</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Zombie Army</type>
+            <pt>0/0</pt>
+            <tablerow>2</tablerow>
+            <token>1</token>
+            <reverse-related></reverse-related>
+        </card>
+        <card>
             <name>Zombie Giant</name>
             <set picURL="https://img.scryfall.com/cards/large/en/tzen/7.jpg">ZEN</set>
             <color>B</color>
@@ -5609,6 +5710,18 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Menace</text>
             <token>1</token>
             <reverse-related count="8">Josu Vess, Lich Knight</reverse-related>
+        </card>
+        <card>
+            <name>Zombie Warrior</name>
+            <set picURL="https://media.wizards.com/2019/war/en_NcUbPzHvVu.png">WAR</set>
+            <color>B</color>
+            <cmc>0</cmc>
+            <type>Token Creature — Zombie Warrior</type>
+            <pt>4/4</pt>
+            <tablerow>2</tablerow>
+            <text>Vigilance</text>
+            <token>1</token>
+            <reverse-related></reverse-related>
         </card>
         <card>
             <name>Zombie Wizard</name>
@@ -5882,6 +5995,15 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Whenever a land enters the battlefield under your control, you may draw a card.</text>
             <token>1</token>
             <reverse-related exclude="exclude">Nissa, Vital Force</reverse-related>
+        </card>
+        <card>
+            <name>Nissa, Who Shakes the World (emblem)</name>
+            <set picURL="https://media.wizards.com/2019/war/en_l7Xfh2sI2X.png">WAR</set>
+            <type>Emblem — Nissa</type>
+            <tablerow>1</tablerow>
+            <text>Lands you control have indestructible.</text>
+            <token>1</token>
+            <reverse-related>Nissa, Who Shakes the World</reverse-related>
         </card>
         <card>
             <name>Ob Nixilis of the Black Oath (emblem)</name>
@@ -6220,7 +6342,6 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <set picURL="https://media.wizards.com/2017/rix/en_2MWLzaZo23.png">RIX</set>
             <type>State</type>
             <tablerow>1</tablerow>
-            <text></text>
             <token>1</token>
             <reverse-related>Arch of Orazca</reverse-related>
             <reverse-related>Deadeye Brawler</reverse-related>
