@@ -4336,7 +4336,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Soldier      </name>
-            <set picURL="https://media.wizards.com/2019/war/en_EBxyIpwnom.png"></set>
+            <set picURL="https://media.wizards.com/2019/war/en_EBxyIpwnom.png">WAR</set>
             <color>W</color>
             <cmc>0</cmc>
             <type>Token Creature — Soldier</type>
@@ -5151,7 +5151,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Voja, Friend to Elves</name>
-            <set picURL="https://media.wizards.com/2019/war/en_2XrXcJcCdF.png"></set>
+            <set picURL="https://media.wizards.com/2019/war/en_2XrXcJcCdF.png">WAR</set>
             <color>G</color>
             <color>W</color>
             <cmc>0</cmc>
@@ -5315,7 +5315,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Wolf</name>
-            <set picURL="https://media.wizards.com/2019/war/en_vc9PEBCee6.png"></set>
+            <set picURL="https://media.wizards.com/2019/war/en_vc9PEBCee6.png">WAR</set>
             <set picURL="https://media.wizards.com/2018/a25/en_YMeT9fmnKH.png">A25</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_BW6wmU7cbv.png">SOI</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_IWGaI59e15.png">C15</set>
