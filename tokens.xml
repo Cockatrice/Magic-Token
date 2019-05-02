@@ -4203,10 +4203,12 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         <card>
             <name>Ragavan</name>
             <set picURL="https://img.scryfall.com/cards/large/en/taer/2.jpg">AER</set>
+            <prop>
                 <colors>R</colors>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <type>Token Legendary Creature — Monkey</type>
                 <pt>2/1</pt>
+            </prop>
             <tablerow>2</tablerow>
             <cipt>1</cipt>
             <token>1</token>
@@ -6480,13 +6482,15 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Ajani, Adversary of Tyrants (emblem)</name>
-            <set picURL="https://img.scryfall.com/cards/large/en/tm19/15.jpg">M19</set>
-                <type>Emblem — Ajani</type>
-            <tablerow>1</tablerow>
             <text>At the beginning of your end step, create three 1/1 white Cat creature tokens with lifelink.</text>
-            <token>1</token>
+            <prop>
+                <type>Emblem — Ajani</type>
+            </prop>
+            <set picURL="https://img.scryfall.com/cards/large/en/tm19/15.jpg">M19</set>
             <reverse-related>Ajani, Adversary of Tyrants</reverse-related>
             <related count="3">Cat   </related>
+            <token>1</token>
+            <tablerow>1</tablerow>            
         </card>
         <card>
             <name>Arlinn Kord (emblem)</name>
