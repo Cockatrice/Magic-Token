@@ -18,9 +18,9 @@
                 <pt>/</pt>
             </prop>
             <set picURL=""></set>
-            <token>1</token>
             <reverse-related></reverse-related>
-            <tablerow>2</tablerow
+            <token>1</token>
+            <tablerow>2</tablerow>
         </card>
          -->
         <card>
@@ -114,6 +114,7 @@
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/mh1/en_rx0beSrdYU.png">MH1</set>
             <set picURL="https://media.wizards.com/2019/war/en_1ShIwwC1vp.png">WAR</set>
             <set picURL="https://media.wizards.com/2018/grn/en_cutNouFkys.png">GRN</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tm19/1.jpg">M19</set>
@@ -121,6 +122,7 @@
             <reverse-related count="x" exclude="exclude">Finale of Glory</reverse-related>
             <reverse-related count="2">Parhelion II</reverse-related>
             <reverse-related>Resplendent Angel</reverse-related>
+            <reverse-related>Serra the Benevolent</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -349,14 +351,18 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/mh1/en_jtlCPiMdPo.png">MH1</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_X4EoEnpo8O.png">C15</set>
             <set picURL="https://img.scryfall.com/cards/large/en/mpr/7.jpg">ODY</set>
             <set picURL="https://img.scryfall.com/cards/large/en/p03/4.jpg">ONS</set>
+            <reverse-related>Ayula's Influence</reverse-related>
+            <reverse-related count="x" exclude="exclude">Ayula's Influence</reverse-related>
             <reverse-related>Bearscape</reverse-related>
             <reverse-related count="x">Caller of the Claw</reverse-related>
             <reverse-related count="2">Grizzly Fate</reverse-related>
             <reverse-related count="4" exclude="exclude">Grizzly Fate</reverse-related>
             <reverse-related count="x">Kamahl's Summons</reverse-related>
+            <reverse-related count="2">Mother Bear</reverse-related>
             <reverse-related>Words of Wilding</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -573,6 +579,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/mh1/en_QJTb0Exxb5.png">MH1</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_2wXcJD92zt.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/xA26RzQIyY_EN.png">C16</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tbng/1.jpg">BNG</set>
@@ -1141,8 +1148,10 @@ Cloud Sprite can block only creatures with flying.</text>
             <cmc>0</cmc>
                 <pt>0/0</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/mh1/en_XpfrQhOv2b.png">MH1</set>
             <set picURL="https://media.wizards.com/2018/dom/en_fyrNJBF5ZM.png">DOM</set>
             <reverse-related>Karn, Scion of Urza</reverse-related>
+            <reverse-related>Urza, Lord High Artificer</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -1613,12 +1622,15 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/mh1/en_uecu91gJps.png">MH1</set>
             <set picURL="https://media.wizards.com/2017/rix/en_it7lbrrNfw.png">RIX</set>
             <set picURL="https://media.wizards.com/2017/ust/en_1zKJiI6bIw.png">UST</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_43rUaKSbgs.png">EMA</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tm14/7.jpg">M14</set>
             <reverse-related count="x">Elemental Mastery</reverse-related>
             <reverse-related count="2">Molten Birth</reverse-related>
+            <reverse-related count="x=1">Seasoned Pyromancer</reverse-related>
+            <reverse-related count="2" exclude="exclude">Seasoned Pyromancer</reverse-related>            
             <reverse-related count="x">Tempt with Vengeance</reverse-related>
             <reverse-related>Young Pyromancer</reverse-related>
             <reverse-related count="x">Tilonalli's Summoner</reverse-related>
@@ -1878,9 +1890,11 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>3/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/mh1/en_2rhWOlO1LA.png">MH1</set>
             <set picURL="https://media.wizards.com/2018/dom/en_1rXJAntafJ.png">DOM</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tbfz/9.jpg">BFZ</set>
             <reverse-related>Akoum Stonewaker</reverse-related>
+            <reverse-related count="2">Force of Rage</reverse-related>
             <reverse-related count="x">Valduk, Keeper of the Flame</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -1963,6 +1977,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/mh1/en_bSdEUZ4hMv.png">MH1</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_0F4M7yiktn.png">MM3</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_cQ9QQhPytK.png">EMA</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_F7cegsyXsw.png">C15</set>
@@ -1979,10 +1994,12 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <reverse-related>Elephant Ambush</reverse-related>
             <reverse-related>Elephant Guide</reverse-related>
             <reverse-related>Elephant Resurgence</reverse-related>
+            <reverse-related>Generous Gift</reverse-related>
             <reverse-related>Kazandu Tuskcaller</reverse-related>
             <reverse-related count="2" exclude="exclude">Kazandu Tuskcaller</reverse-related>
             <reverse-related count="x">Selvala's Charge</reverse-related>
             <reverse-related count="x=3">Terastodon</reverse-related>
+            <reverse-related>Trumpeting Herd</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -2311,6 +2328,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/mh1/en_ZN8J4ERaoN.png">MH1</set>
             <set picURL="https://media.wizards.com/2019/war/en_aQgSh0czs9.png">WAR</set>
             <set picURL="https://media.wizards.com/2018/rna/en_NaVWfo0f7A.png">RNA</set>
             <set picURL="https://media.wizards.com/2018/grn/en_yjjrSUmn9t.png">GRN</set>
@@ -2347,6 +2365,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related>Goblin Rabblemaster</reverse-related>
             <reverse-related count="4">Goblin Rally</reverse-related>
             <reverse-related count="3">Goblin Warrens</reverse-related>
+            <reverse-related count="3">Goblin War Party</reverse-related>
             <reverse-related>Goblinslide</reverse-related>
             <reverse-related count="3">Hordeling Outburst</reverse-related>
             <reverse-related count="5">Hunted Phantasm</reverse-related>
@@ -2362,8 +2381,10 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related count="2">Mogg Alarm</reverse-related>
             <reverse-related count="x=2">Mogg Infestation</reverse-related>
             <reverse-related>Mogg War Marshal</reverse-related>
+            <reverse-related count="2">Pashalik Mons</reverse-related>
             <reverse-related count="3">Ponyback Brigade</reverse-related>
             <reverse-related count="3">Siege-Gang Commander</reverse-related>
+            <reverse-related count="2">Sling-Gang Lieutenant</reverse-related>
             <reverse-related>Survey the Wreckage</reverse-related>
             <reverse-related count="x">Warbreak Trumpeter</reverse-related>
             <reverse-related count="x">Box of Free-Range Goblins</reverse-related>
@@ -2512,6 +2533,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/mh1/en_skGeUMCHa2.png">MH1</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_BsmvNmPP4D.png">MM3</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tmm2/15.jpg">MM2</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tnph/3.jpg">NPH</set>
@@ -2523,6 +2545,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related count="2">Maul Splicer</reverse-related>
             <reverse-related count="2">Precursor Golem</reverse-related>
             <reverse-related>Sensor Splicer</reverse-related>
+            <reverse-related>Splicer's Skill</reverse-related>
             <reverse-related>Vital Splicer</reverse-related>
             <reverse-related>Wing Splicer</reverse-related>
             <token>1</token>
@@ -2958,8 +2981,10 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/mh1/en_nhgQzVX6Ow.png">MH1</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tmma/4.jpg">MMA</set>
             <reverse-related>Meloku the Clouded Mirror</reverse-related>
+            <reverse-related>Moonblade Shinobi</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3481,8 +3506,10 @@ A manifested creature card can be turned face up any time for its mana cost. A f
                 <cmc>0</cmc>
                 <pt>20/20</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/mh1/en_sHmt9uKnHu.png">MH1</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tcsp/1.jpg">CSP</set>
             <reverse-related>Dark Depths</reverse-related>
+            <reverse-related>Marit Lage's Slumber</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3839,6 +3866,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/mh1/en_xKv8DrRlty.png">MH1</set>
             <set picURL="https://media.wizards.com/2018/c18/en_x7ivUnnF1w.png">C18</set>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/ZcDckQNuvU_EN.png">C16</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tmm2/16.jpg">MM2</set>
@@ -3849,6 +3877,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <set picURL="https://img.scryfall.com/cards/large/en/p04/4.jpg">MRD</set>
             <reverse-related>Genesis Chamber</reverse-related>
             <reverse-related count="2">Master's Call</reverse-related>
+            <reverse-related>Mirrodin Besieged</reverse-related>
             <reverse-related count="4">Myr Battlesphere</reverse-related>
             <reverse-related>Myr Incubator</reverse-related>
             <reverse-related>Myr Matrix</reverse-related>
@@ -4294,7 +4323,9 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/mh1/en_i0EAXzpVzO.png">MH1</set>
             <set picURL="https://img.scryfall.com/cards/large/en/trtr/9.jpg">RTR</set>
+            <reverse-related count="2">Crashing Footfalls</reverse-related>
             <reverse-related>Horncaller's Chant</reverse-related>
             <reverse-related>Trostani's Summoner</reverse-related>
             <token>1</token>
@@ -4551,6 +4582,20 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Shapeshifter  </name>
+            <text>Changeling</text>
+            <prop>
+                <cmc>0</cmc>
+                <type>Token Creature — Shapeshifter</type>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/mh1/en_tM8ljjBCro.png">MH1</set>
+            <token>1</token>
+            <reverse-related>Birthing Boughs</reverse-related>
+            <reverse-related>Irregular Cohort</reverse-related>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Sheep</name>
             <prop>
                 <colors>G</colors>
@@ -4725,6 +4770,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/mh1/en_9kqwet6XiZ.png">MH1</set>
             <set picURL="https://media.wizards.com/2018/c18/en_JMxD8MQKRM.png">C18</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tm19/6.jpg">M19</set>
             <set picURL="https://media.wizards.com/2018/dom/en_IEkybS0amO.png">DOM</set>
@@ -4778,6 +4824,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related count="x">Murder Investigation</reverse-related>
             <reverse-related>Precinct Captain</reverse-related>
             <reverse-related count="2">Raise the Alarm</reverse-related>
+            <reverse-related>Recruit the Worthy</reverse-related>
             <reverse-related>Security Detail</reverse-related>
             <reverse-related>Stormfront Riders</reverse-related>
             <reverse-related>Throne of Empires</reverse-related>
@@ -4959,6 +5006,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>1/2</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/mh1/en_HFnAMI1lTc.png">MH1</set>
             <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_KiwJSuvSso.png">EMN</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_eeuO57mVX3.png">C15</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tisd/11.jpg">ISD</set>
@@ -4966,7 +5014,9 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related count="x">Arachnogenesis</reverse-related>
             <reverse-related>Gloomwidow's Feast</reverse-related>
             <reverse-related count="3">Ishkanah, Grafwidow</reverse-related>
+            <reverse-related>Rotwidow Pack</reverse-related>
             <reverse-related count="x">Spider Spawning</reverse-related>
+            <reverse-related>Twin-Silk Spider</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -5108,6 +5158,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/mh1/en_STsizkmF7m.png">MH1</set>
             <set picURL="https://media.wizards.com/2018/rna/en_ABtRyfECoT.png">RNA</set>
             <set picURL="http://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_GNBqMfbnJz.png">C15</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tgtc/7.jpg">GTC</set>
@@ -5116,6 +5167,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related count="2">Debtors' Transport</reverse-related>
             <reverse-related count="x">Ethereal Absolution</reverse-related>
             <reverse-related>Imperious Oligarch</reverse-related>
+            <reverse-related>Kaya's Guile</reverse-related>
             <reverse-related>Knight of Sorrows</reverse-related>
             <reverse-related count="x">Knight of the Last Breath</reverse-related>
             <reverse-related count="2">Ministrant of Obligation</reverse-related>
@@ -5255,11 +5307,13 @@ Cumulative upkeep {G}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/mh1/en_ekxScmW9bT.png">MH1</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tcns/6.jpg">CNS</set>
             <set picURL="https://img.scryfall.com/cards/large/en/pr2/3.jpg">ODY</set>
             <reverse-related>Acorn Catapult</reverse-related>
             <reverse-related count="2">Acorn Harvest</reverse-related>
             <reverse-related>Chatter of the Squirrel</reverse-related>
+            <reverse-related count="4">Deep Forest Hermit</reverse-related>
             <reverse-related count="4">Deranged Hermit</reverse-related>
             <reverse-related>Druid's Call</reverse-related>
             <reverse-related>Liege of the Hollows</reverse-related>
@@ -6212,6 +6266,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/mh1/en_QGq3XFvF38.png">MH1</set>
             <set picURL="https://media.wizards.com/2019/war/en_kpTtzDM6jX.png">WAR</set>
             <set picURL="https://media.wizards.com/2018/rna/en_FV4qTNvNWC.png">RNA</set>
             <set picURL="https://media.wizards.com/2018/c18/en_NlO9xMIqTz.png">C18</set>
@@ -6301,6 +6356,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Oath of Liliana</reverse-related>
             <reverse-related>Overseer of the Damned</reverse-related>
             <reverse-related count="2">Rakshasa Gravecaller</reverse-related>
+            <reverse-related>Rank Officer</reverse-related>
             <reverse-related>Reap the Seagraf</reverse-related>
             <reverse-related count="x">Rise from the Tides</reverse-related>
             <reverse-related>Rotlung Reanimator</reverse-related>
@@ -6831,17 +6887,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Vraska, Golgari Queen (emblem)</name>
-            <text>Whenever a creature you control deals combat damage to a player, that player loses the game.</text>
-            <prop>
-                <type>Emblem — Vraska</type>
-            </prop>
-            <set picURL="https://media.wizards.com/2018/grn/en_Gq70SfRJ8Z.png">GRN</set>
-            <reverse-related>Vraska, Golgari Queen</reverse-related>
-            <token>1</token>
-            <tablerow>1</tablerow>
-        </card>
-        <card>
             <name>Rowan Kenrith (emblem)</name>
             <text>Whenever you activate an ability that isn't a mana ability, copy it. You may choose new targets for the copy.</text>
             <prop>
@@ -6862,6 +6907,17 @@ At the beginning of your end step, discard your hand.</text>
             <set picURL="https://img.scryfall.com/cards/large/en/tktk/12.jpg">KTK</set>
             <reverse-related exclude="exclude">Sarkhan, the Dragonspeaker</reverse-related>
             <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Serra the Benevolent (emblem)</name>
+            <text>If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead.</text>
+            <prop>
+                <type>Emblem — Serra</type>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/mh1/en_tZJMic1WRU.png">MH1</set>
+            <token>1</token>
+            <reverse-related exclude="exclude">Serra the Benevolent</reverse-related>
             <tablerow>1</tablerow>
         </card>
         <card>
@@ -6976,6 +7032,17 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <tablerow>1</tablerow>
         </card>
         <card>
+            <name>Vraska, Golgari Queen (emblem)</name>
+            <text>Whenever a creature you control deals combat damage to a player, that player loses the game.</text>
+            <prop>
+                <type>Emblem — Vraska</type>
+            </prop>
+            <set picURL="https://media.wizards.com/2018/grn/en_Gq70SfRJ8Z.png">GRN</set>
+            <reverse-related>Vraska, Golgari Queen</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Will Kenrith (emblem)</name>
             <text>Whenever you cast an instant or sorcery spell, copy it. You may choose new targets for the copy.</text>
             <prop>
@@ -6983,6 +7050,17 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/en/tbbd/7.jpg">BBD</set>
             <reverse-related exclude="exclude">Will Kenrith</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Wrenn and Six (emblem)</name>
+            <text>Instant and sorcery cards in your graveyard have retrace.</text>
+            <prop>
+                <type>Emblem — Wrenn</type>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/mh1/en_WOLuLrR6W5.png">MH1</set>
+            <reverse-related exclude="exclude">Wrenn and Six</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
