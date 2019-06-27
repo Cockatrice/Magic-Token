@@ -38,6 +38,20 @@
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Ajani's Pridemate</name>
+            <text>Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.</text>
+            <prop>
+                <colors>W</colors>
+                <cmc>0</cmc>
+                <type>Token Creature — Cat Soldier</type>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/m20/en_CG2GSQIUiW.png">M20</set>
+            <reverse-related>Ajani, Strength of the Pride</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Angel</name>
             <text>Flying</text>
             <prop>
@@ -1176,10 +1190,12 @@ Cloud Sprite can block only creatures with flying.</text>
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/m20/en_150qEXnWWt.png">M20</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tori/4.jpg">ORI</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tc14/13.jpg">C14</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tavr/5.jpg">AVR</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tisd/4.jpg">ISD</set>
+            <reverse-related>Bloodsoaked Altar</reverse-related>
             <reverse-related>Demonic Rising</reverse-related>
             <reverse-related>Ob Nixilis of the Black Oath</reverse-related>
             <reverse-related>Priest of the Blood Rite</reverse-related>
@@ -1622,15 +1638,19 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/m20/en_WiBAwccjqG.png">M20</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_uecu91gJps.png">MH1</set>
             <set picURL="https://media.wizards.com/2017/rix/en_it7lbrrNfw.png">RIX</set>
             <set picURL="https://media.wizards.com/2017/ust/en_1zKJiI6bIw.png">UST</set>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_43rUaKSbgs.png">EMA</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tm14/7.jpg">M14</set>
+            <reverse-related count="2">Chandra, Acolyte of Flame</reverse-related>
             <reverse-related count="x">Elemental Mastery</reverse-related>
+            <reverse-related attach="attach">Mask of Immolation</reverse-related>
             <reverse-related count="2">Molten Birth</reverse-related>
             <reverse-related count="x=1">Seasoned Pyromancer</reverse-related>
-            <reverse-related count="2" exclude="exclude">Seasoned Pyromancer</reverse-related>            
+            <reverse-related count="2" exclude="exclude">Seasoned Pyromancer</reverse-related>
+            <reverse-related count="2">Scampering Scorcher</reverse-related>            
             <reverse-related count="x">Tempt with Vengeance</reverse-related>
             <reverse-related>Young Pyromancer</reverse-related>
             <reverse-related count="x">Tilonalli's Summoner</reverse-related>
@@ -1936,6 +1956,20 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             </prop>
             <set picURL="https://media.wizards.com/2017/rix/en_uFXjevfdSn.png">RIX</set>
             <reverse-related>Rekindling Phoenix</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Elemental Bird</name>
+            <text>Flying</text>
+            <prop>
+                <colors>U</colors>
+                <cmc>0</cmc>
+                <type>Token Creature — Elemental Bird</type>
+                <pt>4/4</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/m20/en_cokR4rnrAl.png">M20</set>
+            <reverse-related>Mu Yanling, Sky Dancer</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -2533,15 +2567,18 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/m20/en_EfeEwTXnO0.png">M20</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_skGeUMCHa2.png">MH1</set>
             <set picURL="http://media.wizards.com/2017/b9jm8nwv_mm3/en_BsmvNmPP4D.png">MM3</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tmm2/15.jpg">MM2</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tnph/3.jpg">NPH</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tsom/6.jpg">SOM</set>
             <reverse-related>Blade Splicer</reverse-related>
+            <reverse-related>Cavalier of Dawn</reverse-related>
             <reverse-related>Conversion Chamber</reverse-related>
             <reverse-related>Golem Foundry</reverse-related>
             <reverse-related>Master Splicer</reverse-related>
+            <reverse-related count="2">Masterful Replication</reverse-related>
             <reverse-related count="2">Maul Splicer</reverse-related>
             <reverse-related count="2">Precursor Golem</reverse-related>
             <reverse-related>Sensor Splicer</reverse-related>
@@ -4770,6 +4807,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/m20/en_8w9LAwzvXk.png">M20</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_9kqwet6XiZ.png">MH1</set>
             <set picURL="https://media.wizards.com/2018/c18/en_JMxD8MQKRM.png">C18</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tm19/6.jpg">M19</set>
@@ -4799,6 +4837,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <set picURL="https://img.scryfall.com/cards/large/en/pr2/8.jpg">ONS</set>
             <reverse-related>Akroan Horse</reverse-related>
             <reverse-related count="x">Alliance of Arms</reverse-related>
+            <reverse-related attach="attach">Ancestral Blade</reverse-related>
             <reverse-related>Attended Knight</reverse-related>
             <reverse-related>Bant Sojourners</reverse-related>
             <reverse-related>Benalish Commander</reverse-related>
@@ -4815,6 +4854,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related count="3">Even the Odds</reverse-related>
             <reverse-related>First Response</reverse-related>
             <reverse-related count="2">Hero of Bladehold</reverse-related>
+            <reverse-related count="x=1">Ironroot Warlord</reverse-related>
             <reverse-related>Kjeldoran Outpost</reverse-related>
             <reverse-related count="2">Knight-Captain of Eos</reverse-related>
             <reverse-related count="x">Launch the Fleet</reverse-related>
@@ -4826,6 +4866,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related count="2">Raise the Alarm</reverse-related>
             <reverse-related>Recruit the Worthy</reverse-related>
             <reverse-related>Security Detail</reverse-related>
+            <reverse-related>Skyknight Vanguard</reverse-related>
             <reverse-related>Stormfront Riders</reverse-related>
             <reverse-related>Throne of Empires</reverse-related>
             <reverse-related count="5" exclude="exclude">Throne of Empires</reverse-related>
@@ -5071,6 +5112,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/m20/en_a5z4djZ5ky.png">M20</set>
             <set picURL="https://media.wizards.com/2018/a25/en_MfLkYTjk6c.png">A25</set>
             <set picURL="https://media.wizards.com/2017/ust/en_jOLUnmQ3sd.png">UST</set>
             <set picURL="https://img.scryfall.com/cards/large/en/te01/2.jpg">E01</set>
@@ -5096,6 +5138,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related>Afterlife</reverse-related>
             <reverse-related>Avacyn's Collar</reverse-related>
             <reverse-related count="3">Benevolent Offering</reverse-related>
+            <reverse-related>Bishop of Wings</reverse-related>
             <reverse-related>Custodi Soulbinders</reverse-related>
             <reverse-related>Dauntless Cathar</reverse-related>
             <reverse-related>Doomed Traveler</reverse-related>
@@ -5107,8 +5150,10 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related>Gallows at Willow Hill</reverse-related>
             <reverse-related count="2">Geist-Honored Monk</reverse-related>
             <reverse-related count="x">Hallowed Spiritkeeper</reverse-related>
+            <reverse-related>Hanged Executioner</reverse-related>
             <reverse-related>Haunted Dead</reverse-related>
             <reverse-related count="2">Kirtar's Wrath</reverse-related>
+            <reverse-related>Kykar, Wind's Fury</reverse-related>
             <reverse-related count="2">Lingering Souls</reverse-related>
             <reverse-related>Luminous Angel</reverse-related>
             <reverse-related count="x">March of Souls</reverse-related>
@@ -5561,6 +5606,7 @@ This creature can't be enchanted.</text>
                 <type>Token Artifact — Treasure</type>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://media.wizards.com/2019/m20/en_kZwk2VjcE9.png">M20</set>
             <set picURL="https://media.wizards.com/2018/rna/en_tgR7GbIWg8.png">RNA</set>
             <set picURL="https://media.wizards.com/2017/xln/en_1x8JYIHKSF_b.png">XLN</set>
             <set picURL="https://media.wizards.com/2017/xln/en_yQpDYPpsn4_b.png">XLN</set>
@@ -5581,6 +5627,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Pitiless Plunderer</reverse-related>
             <reverse-related count="2">Prosperous Pirates</reverse-related>
             <reverse-related>Prying Blade</reverse-related>
+            <reverse-related count="2">Rapacious Dragon</reverse-related>
             <reverse-related>Revel in Riches</reverse-related>
             <reverse-related count="2">Ruthless Knave</reverse-related>
             <reverse-related>Sailor of Means</reverse-related>
@@ -6036,6 +6083,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/m20/en_yGHIfVnYBa.png">M20</set>
             <set picURL="https://media.wizards.com/2019/war/en_vc9PEBCee6.png">WAR</set>
             <set picURL="https://media.wizards.com/2018/a25/en_YMeT9fmnKH.png">A25</set>
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_BW6wmU7cbv.png">SOI</set>
@@ -6058,12 +6106,15 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Cult of the Waxing Moon</reverse-related>
             <reverse-related>Fable of Wolf and Owl</reverse-related>
             <reverse-related count="x">Feed the Pack</reverse-related>
+            <reverse-related>Ferocious Pup</reverse-related>
             <reverse-related>Garruk Relentless</reverse-related>
             <reverse-related count="x">Howl of the Night Pack</reverse-related>
+            <reverse-related count="2">Howling Giant</reverse-related>
             <reverse-related>Howlpack Alpha</reverse-related>
             <reverse-related>Huntmaster of the Fells</reverse-related>
             <reverse-related count="x">Kessig Cagebreakers</reverse-related>
             <reverse-related>Master of the Wild Hunt</reverse-related>
+            <reverse-related>Nightpack Ambusher</reverse-related>
             <reverse-related>Pack Guardian</reverse-related>
             <reverse-related>Predator's Howl</reverse-related>
             <reverse-related count="3" exclude="exclude">Predator's Howl</reverse-related>
@@ -6075,6 +6126,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related count="x">Wolfbriar Elemental</reverse-related>
             <reverse-related count="x">Wolfcaller's Howl</reverse-related>
             <reverse-related>Wolfkin Bond</reverse-related>
+            <reverse-related attach="attach">Wolfrider's Saddle</reverse-related>
             <reverse-related>Wren's Run Packmaster</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -6266,6 +6318,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/m20/en_lb4QSh11Zp.png">M20</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_QGq3XFvF38.png">MH1</set>
             <set picURL="https://media.wizards.com/2019/war/en_kpTtzDM6jX.png">WAR</set>
             <set picURL="https://media.wizards.com/2018/rna/en_FV4qTNvNWC.png">RNA</set>
@@ -6307,6 +6360,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related count="13">Army of the Damned</reverse-related>
             <reverse-related>Assemble the Rank and Vile</reverse-related>
             <reverse-related count="x">Awaken the Erstwhile</reverse-related>
+            <reverse-related>Boneclad Necromancer</reverse-related>
             <reverse-related>Bridge from Below</reverse-related>
             <reverse-related count="x=5">Captive Audience</reverse-related>
             <reverse-related>Cellar Door</reverse-related>
@@ -6325,6 +6379,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related count="x">Empty the Pits</reverse-related>
             <reverse-related count="x">Endless Ranks of the Dead</reverse-related>
             <reverse-related>Feast or Famine</reverse-related>
+            <reverse-related>Field of the Dead</reverse-related>
             <reverse-related count="3">From Under the Floorboards</reverse-related>
             <reverse-related count="x" exclude="exclude">From Under the Floorboards</reverse-related>
             <reverse-related count="x">Ghoulcaller Gisa</reverse-related>
@@ -6546,7 +6601,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Ajani, Adversary of Tyrants</reverse-related>
             <related count="3">Cat   </related>
             <token>1</token>
-            <tablerow>1</tablerow>            
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Arlinn Kord (emblem)</name>
@@ -6557,6 +6612,17 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_JJ0x2nMAKz.png">SOI</set>
             <reverse-related exclude="exclude">Arlinn Kord</reverse-related>
             <reverse-related exclude="exclude">Arlinn, Embraced by the Moon</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Chandra, Awakened Inferno (emblem)</name>
+            <text>At the beginning of your upkeep, this emblem deals 1 damage to you.</text>
+            <prop>
+                <type>Emblem</type>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/m20/en_aGRMLZsIL8.png">M20</set>
+            <reverse-related>Chandra, Awakened Inferno</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -6817,6 +6883,17 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_3uiqIat9XN.png">EMN</set>
             <related>Zombie</related>
             <reverse-related exclude="exclude">Liliana, the Last Hope</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Mu Yanling, Sky Dancer (emblem)</name>
+            <text>Islands you control have "{T}: Draw a card."</text>
+            <prop>
+                <type>Emblem</type>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/m20/en_5gj5ITJyFE.png">M20</set>
+            <reverse-related exclude="exclude">Mu Yanling, Sky Dancer</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
