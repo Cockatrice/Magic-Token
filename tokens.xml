@@ -947,7 +947,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Centaur</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
             <set picURL="http://cdn.staticneo.com/w/mtg/c/c5/Centaur.jpg">RAV</set>
@@ -960,7 +960,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Enchantment Creature — Centaur</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/en/tbng/8.jpg">BNG</set>
@@ -975,7 +975,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Zombie Naga Wizard</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/en/thou/2.jpg">HOU</set>
@@ -988,7 +988,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Citizen</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
             <set picURL="http://cdn.staticneo.com/w/mtg/1/15/Citizen.jpg">6ED</set>
@@ -1003,7 +1003,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>WUBRG</colors>
                 <type>Token Creature — Citizen</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
             <set picURL="https://media.wizards.com/2019/war/en_LdDdsguWQD.png">WAR</set>
@@ -1017,7 +1017,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>WB</colors>
                 <type>Token Creature — Cleric</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/en/tgtc/4.jpg">GTC</set>
@@ -1030,7 +1030,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Enchantment Creature — Cleric</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>2/1</pt>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/en/tths/1.jpg">THS</set>
@@ -1043,7 +1043,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Cleric</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
             <set picURL="https://media.wizards.com/2018/dom/en_TVBrhF4uTw.png">DOM</set>
@@ -1058,7 +1058,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Faerie</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
             <set picURL="http://cdn.staticneo.com/w/mtg/a/a7/Cloud_Sprite.jpg">FUT</set>
@@ -1159,7 +1159,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <text>This creature gets +1/+1 for each artifact you control.</text>
             <prop>
                 <type>Token Artifact Creature — Construct</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>0/0</pt>
             </prop>
             <set picURL="https://media.wizards.com/2019/mh1/en_XpfrQhOv2b.png">MH1</set>
@@ -1173,7 +1173,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <name>Construct    </name>
             <prop>
                 <type>Token Artifact Creature — Construct</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
             <set picURL="https://media.wizards.com/2018/c18/en_IxxQEPgrRI.png">C18</set>
@@ -1228,7 +1228,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Demon</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>6/6</pt>
             </prop>
             <set picURL="https://media.wizards.com/2018/dom/en_ONhjW5oRug.png">DOM</set>
@@ -1241,7 +1241,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Deserter</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
             <set picURL="https://i.imgur.com/cHNbJQM.jpg">ME2</set>
@@ -1255,7 +1255,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Devil</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://media.wizards.com/2019/war/en_7jfeiDSYRB.png">WAR</set>
@@ -1273,7 +1273,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Dinosaur</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
             <set picURL="https://media.wizards.com/2017/xln/en_TStEIHIslY_b.png">XLN</set>
@@ -1291,7 +1291,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <text>Flying</text>
             <prop>
                 <type>Token Artifact Creature — Djinn</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
             <set picURL="http://cdn.staticneo.com/w/mtg/0/0a/Djinn.jpg">ME4</set>
@@ -1305,7 +1305,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Djinn Monk</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/en/tdtk/2.jpg">DTK</set>
@@ -1375,7 +1375,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <prop>
                 <colors>RG</colors>
                 <type>Token Creature — Dragon</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/en/tarb/3.jpg">ARB</set>
@@ -1389,7 +1389,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Dragon</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>6/6</pt>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/en/tc17/7.jpg">C17</set>
@@ -1425,7 +1425,7 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Dragon Egg</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>0/2</pt>
             </prop>
             <set picURL="https://media.wizards.com/2018/c18/en_nEav0mwmHj.png">C18</set>
@@ -1440,7 +1440,7 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Dragon Spirit</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
             <set picURL="https://i.imgur.com/8wb1Y6p.jpg">CHK</set>
@@ -1472,7 +1472,7 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
             <prop>
                 <colors>GU</colors>
                 <type>Token Creature — Drake</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/en/tcma/18.jpg">CMA</set>
@@ -1487,7 +1487,7 @@ Whenever Dreamstealer deals combat damage to a player, that player discards that
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Zombie Human Wizard</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/en/thou/3.jpg">HOU</set>
@@ -1502,7 +1502,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Zombie Jackal Warrior</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/en/thou/4.jpg">HOU</set>
@@ -1514,7 +1514,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <name>Eldrazi</name>
             <prop>
                 <type>Token Creature — Eldrazi</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>10/10</pt>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/en/tbfz/1.jpg">BFZ</set>
@@ -1527,7 +1527,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <text>Annihilator 1</text>
             <prop>
                 <type>Token Creature — Eldrazi</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>7/7</pt>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/en/tpca/1.jpg">PCA</set>
@@ -1539,7 +1539,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <name>Eldrazi Horror</name>
             <prop>
                 <type>Token Creature — Eldrazi Horror</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>3/2</pt>
             </prop>
             <set picURL="http://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_r0E8h7Sx7s.png">EMN</set>
@@ -1662,7 +1662,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Elemental</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>3/1</pt>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/en/togw/9.jpg">OGW</set>
@@ -1680,7 +1680,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Elemental</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/en/troe/2.jpg">ROE</set>
@@ -1694,7 +1694,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Elemental</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>7/1</pt>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/en/tzen/8.jpg">ZEN</set>
@@ -1708,7 +1708,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Elemental</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
             <set picURL="http://cdn.staticneo.com/w/mtg/0/0a/Elemental8.jpg">DST</set>
@@ -1721,7 +1721,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Elemental</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/en/tmma/11.jpg">MMA</set>
@@ -1736,7 +1736,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Elemental</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
             <set picURL="https://media.wizards.com/2018/c18/en_efmGDBhowI.png">C18</set>
@@ -1753,7 +1753,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Elemental</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>7/7</pt>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/en/tevg/1.jpg">EVG</set>
@@ -1767,7 +1767,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Elemental</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
             <set picURL="http://media.wizards.com/2016/bn8f9t2zc_C16/hLbATbkzqS_EN.png">C16</set>
@@ -1782,7 +1782,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Elemental</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
             <set picURL="http://cdn.staticneo.com/w/mtg/8/89/Elemental7.jpg">DST</set>
@@ -1795,7 +1795,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>BR</colors>
                 <type>Token Creature — Elemental</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/en/tshm/9.jpg">SHM</set>
@@ -1809,7 +1809,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>UR</colors>
                 <type>Token Creature — Elemental</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
             <set picURL="http://media.wizards.com/2016/adhfianalodifdj2_EMA/en_QkXPO6OqIO.png">EMA</set>
@@ -1825,7 +1825,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>GW</colors>
                 <type>Token Creature — Elemental</type>
-            <cmc>0</cmc>
+                <cmc>0</cmc>
                 <pt>8/8</pt>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/en/trtr/12.jpg">RTR</set>
