@@ -564,7 +564,7 @@ Creature tokens you control have flying and vigilance.</text>
             </prop>
             <set picURL="https://media.wizards.com/2018/rna/en_gcngyJXapg.png">RNA</set>
             <reverse-related>Domri, Chaos Bringer</reverse-related>
-            <reverse-related>Domri, Chaos Bringer (emblem)</reverse-related>
+            <reverse-related>Domri, Chaos Bringer (Emblem)</reverse-related>
             <reverse-related>Thrash // Threat</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -6581,7 +6581,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Ajani Steadfast (emblem)</name>
+            <name>Ajani Steadfast (Emblem)</name>
             <text>If a source would deal damage to you or a planeswalker you control, prevent all but 1 of that damage.</text>
             <prop>
                 <type>Emblem — Ajani</type>
@@ -6592,7 +6592,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Ajani, Adversary of Tyrants (emblem)</name>
+            <name>Ajani, Adversary of Tyrants (Emblem)</name>
             <text>At the beginning of your end step, create three 1/1 white Cat creature tokens with lifelink.</text>
             <prop>
                 <type>Emblem — Ajani</type>
@@ -6604,7 +6604,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Arlinn Kord (emblem)</name>
+            <name>Arlinn Kord (Emblem)</name>
             <text>Creatures you control have haste and "{T}: This creature deals damage equal to its power to target creature or player."</text>
             <prop>
                 <type>Emblem — Arlinn</type>
@@ -6616,7 +6616,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Chandra, Awakened Inferno (emblem)</name>
+            <name>Chandra, Awakened Inferno (Emblem)</name>
             <text>At the beginning of your upkeep, this emblem deals 1 damage to you.</text>
             <prop>
                 <type>Emblem</type>
@@ -6627,7 +6627,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Chandra, Roaring Flame (emblem)</name>
+            <name>Chandra, Roaring Flame (Emblem)</name>
             <text>At the beginning of your upkeep, this emblem deals 3 damage to you.</text>
             <prop>
                 <type>Emblem — Chandra</type>
@@ -6638,7 +6638,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Chandra, Torch of Defiance (emblem)</name>
+            <name>Chandra, Torch of Defiance (Emblem)</name>
             <text>Whenever you cast a spell, this emblem deals 5 damage to target creature or player.</text>
             <prop>
                 <type>Emblem — Chandra</type>
@@ -6649,7 +6649,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Dack Fayden (emblem)</name>
+            <name>Dack Fayden (Emblem)</name>
             <text>Whenever you cast a spell that targets one or more permanents, gain control of those permanents.</text>
             <prop>
                 <type>Emblem — Dack</type>
@@ -6661,7 +6661,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Daretti, Scrap Savant (emblem)</name>
+            <name>Daretti, Scrap Savant (Emblem)</name>
             <text>Whenever an artifact is put into your graveyard from the battlefield, return that card to the battlefield at the beginning of the next end step.</text>
             <prop>
                 <type>Emblem — Daretti</type>
@@ -6673,7 +6673,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Domri Rade (emblem)</name>
+            <name>Domri Rade (Emblem)</name>
             <text>Creatures you control have double strike, trample, hexproof, and haste.</text>
             <prop>
                 <type>Emblem — Domri</type>
@@ -6685,7 +6685,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Domri, Chaos Bringer (emblem)</name>
+            <name>Domri, Chaos Bringer (Emblem)</name>
             <text>At the beginning of each end step, create a 4/4 red and green Beast creature token with trample.</text>
             <prop>
                 <type>Emblem — Domri</type>
@@ -6696,7 +6696,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Dovin Baan (emblem)</name>
+            <name>Dovin Baan (Emblem)</name>
             <text>Your opponents can't untap more than two permanents during their untap steps.</text>
             <prop>
                 <type>Emblem — Dovin</type>
@@ -6707,7 +6707,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Elspeth, Knight-Errant (emblem)</name>
+            <name>Elspeth, Knight-Errant (Emblem)</name>
             <text>Artifacts, creatures, enchantments, and lands you control have indestructible.</text>
             <prop>
                 <type>Emblem — Elspeth</type>
@@ -6719,7 +6719,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Elspeth, Sun's Champion (emblem)</name>
+            <name>Elspeth, Sun's Champion (Emblem)</name>
             <text>Creatures you control get +2/+2 and have flying.</text>
             <prop>
                 <type>Emblem — Elspeth</type>
@@ -6730,7 +6730,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Garruk, Apex Predator (emblem)</name>
+            <name>Garruk, Apex Predator (Emblem)</name>
             <text>Whenever a creature attacks you, it gets +5/+5 and gains trample until end of turn.</text>
             <prop>
                 <type>Emblem — Garruk</type>
@@ -6741,7 +6741,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Garruk, Caller of Beasts (emblem)</name>
+            <name>Garruk, Caller of Beasts (Emblem)</name>
             <text>Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle your library.</text>
             <prop>
                 <type>Emblem — Garruk</type>
@@ -6752,7 +6752,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Gideon of the Trials (emblem)</name>
+            <name>Gideon of the Trials (Emblem)</name>
             <text>As long as you control a Gideon planeswalker, you can't lose the game and your opponents can't win the game.</text>
             <prop>
                 <type>Emblem — Gideon</type>
@@ -6763,7 +6763,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Gideon, Ally of Zendikar (emblem)</name>
+            <name>Gideon, Ally of Zendikar (Emblem)</name>
             <text>Creatures you control get +1/+1.</text>
             <prop>
                 <type>Emblem — Gideon</type>
@@ -6774,7 +6774,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Huatli, Radiant Champion (emblem)</name>
+            <name>Huatli, Radiant Champion (Emblem)</name>
             <text>Whenever a creature enters the battlefield under your control, you may draw a card.</text>
             <prop>
                 <type>Emblem — Huatli</type>
@@ -6785,7 +6785,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Jace, Telepath Unbound (emblem)</name>
+            <name>Jace, Telepath Unbound (Emblem)</name>
             <text>Whenever you cast a spell, target opponent puts the top five cards of his or her library into his or her graveyard.</text>
             <prop>
                 <type>Emblem — Jace</type>
@@ -6796,7 +6796,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Jace, Unraveler of Secrets (emblem)</name>
+            <name>Jace, Unraveler of Secrets (Emblem)</name>
             <text>Whenever an opponent casts his or her first spell each turn, counter that spell.</text>
             <prop>
                 <type>Emblem — Jace</type>
@@ -6807,7 +6807,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Jaya Ballard (emblem)</name>
+            <name>Jaya Ballard (Emblem)</name>
             <text>You may cast instant and sorcery cards from your graveyard. If a card cast this way would be put into your graveyard, exile it instead.</text>
             <prop>
                 <type>Emblem — Jaya</type>
@@ -6818,7 +6818,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Kiora, Master of the Depths (emblem)</name>
+            <name>Kiora, Master of the Depths (Emblem)</name>
             <text>Whenever a creature enters the battlefield under your control, you may have it fight target creature.</text>
             <prop>
                 <type>Emblem — Kiora</type>
@@ -6829,7 +6829,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Kiora, the Crashing Wave (emblem)</name>
+            <name>Kiora, the Crashing Wave (Emblem)</name>
             <text>At the beginning of your end step, create a 9/9 blue Kraken creature token.</text>
             <prop>
                 <type>Emblem — Kiora</type>
@@ -6841,7 +6841,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Koth of the Hammer (emblem)</name>
+            <name>Koth of the Hammer (Emblem)</name>
             <text>Mountains you control have 'Tap: This land deals 1 damage to target creature or player.'</text>
             <prop>
                 <type>Emblem — Koth</type>
@@ -6852,7 +6852,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Liliana of the Dark Realms (emblem)</name>
+            <name>Liliana of the Dark Realms (Emblem)</name>
             <text>Swamps you control have 'Tap: Add {B}{B}{B}{B}.'</text>
             <prop>
                 <type>Emblem — Liliana</type>
@@ -6864,7 +6864,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Liliana, Defiant Necromancer (emblem)</name>
+            <name>Liliana, Defiant Necromancer (Emblem)</name>
             <text>Whenever a creature dies, return it to the battlefield under your control at the beginning of the next end step.</text>
             <prop>
                 <type>Emblem — Liliana</type>
@@ -6875,7 +6875,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Liliana, the Last Hope (emblem)</name>
+            <name>Liliana, the Last Hope (Emblem)</name>
             <text>At the beginning of your end step, create X 2/2 black Zombie creature tokens, where X is two plus the number of Zombies you control.</text>
             <prop>
                 <type>Emblem — Liliana</type>
@@ -6887,7 +6887,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Mu Yanling, Sky Dancer (emblem)</name>
+            <name>Mu Yanling, Sky Dancer (Emblem)</name>
             <text>Islands you control have "{T}: Draw a card."</text>
             <prop>
                 <type>Emblem</type>
@@ -6898,7 +6898,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Narset Transcendent (emblem)</name>
+            <name>Narset Transcendent (Emblem)</name>
             <text>Your opponents can't cast noncreature spells.</text>
             <prop>
                 <type>Emblem — Narset</type>
@@ -6909,7 +6909,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Nissa, Vital Force (emblem)</name>
+            <name>Nissa, Vital Force (Emblem)</name>
             <text>Whenever a land enters the battlefield under your control, you may draw a card.</text>
             <prop>
                 <type>Emblem — Nissa</type>
@@ -6920,7 +6920,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Nissa, Who Shakes the World (emblem)</name>
+            <name>Nissa, Who Shakes the World (Emblem)</name>
             <text>Lands you control have indestructible.</text>
             <prop>
                 <type>Emblem — Nissa</type>
@@ -6931,7 +6931,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Ob Nixilis of the Black Oath (emblem)</name>
+            <name>Ob Nixilis of the Black Oath (Emblem)</name>
             <text>{1}{B}, Sacrifice a creature: You gain X life and draw X cards, where X is the sacrificed creature's power.</text>
             <prop>
                 <type>Emblem — Nixilis</type>
@@ -6942,7 +6942,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Ob Nixilis Reignited (emblem)</name>
+            <name>Ob Nixilis Reignited (Emblem)</name>
             <text>Whenever a player draws a card, you lose 2 life.</text>
             <prop>
                 <type>Emblem — Nixilis</type>
@@ -6953,7 +6953,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Ral, Izzet Viceroy (emblem)</name>
+            <name>Ral, Izzet Viceroy (Emblem)</name>
             <text>Whenever you cast an instant or sorcery spell, this emblem deals 4 damage to any target and you draw two cards.</text>
             <prop>
                 <type>Emblem — Ral</type>
@@ -6964,7 +6964,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Rowan Kenrith (emblem)</name>
+            <name>Rowan Kenrith (Emblem)</name>
             <text>Whenever you activate an ability that isn't a mana ability, copy it. You may choose new targets for the copy.</text>
             <prop>
                 <type>Emblem — Rowan</type>
@@ -6975,7 +6975,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Sarkhan, the Dragonspeaker (emblem)</name>
+            <name>Sarkhan, the Dragonspeaker (Emblem)</name>
             <text>At the beginning of your draw step, draw two additional cards.
 At the beginning of your end step, discard your hand.</text>
             <prop>
@@ -6987,7 +6987,7 @@ At the beginning of your end step, discard your hand.</text>
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Serra the Benevolent (emblem)</name>
+            <name>Serra the Benevolent (Emblem)</name>
             <text>If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead.</text>
             <prop>
                 <type>Emblem — Serra</type>
@@ -6998,7 +6998,7 @@ At the beginning of your end step, discard your hand.</text>
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Sorin, Lord of Innistrad (emblem)</name>
+            <name>Sorin, Lord of Innistrad (Emblem)</name>
             <text>Creatures you control get +1/+0.</text>
             <prop>
                 <type>Emblem — Sorin</type>
@@ -7009,7 +7009,7 @@ At the beginning of your end step, discard your hand.</text>
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Sorin, Solemn Visitor (emblem)</name>
+            <name>Sorin, Solemn Visitor (Emblem)</name>
             <text>At the beginning of each opponent's upkeep, that player sacrifices a creature.</text>
             <prop>
                 <type>Emblem — Sorin</type>
@@ -7020,7 +7020,7 @@ At the beginning of your end step, discard your hand.</text>
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Tamiyo, Field Researcher (emblem)</name>
+            <name>Tamiyo, Field Researcher (Emblem)</name>
             <text>You may cast nonland cards from your hand without paying their mana costs.</text>
             <prop>
                 <type>Emblem — Tamiyo</type>
@@ -7031,7 +7031,7 @@ At the beginning of your end step, discard your hand.</text>
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Tamiyo, the Moon Sage (emblem)</name>
+            <name>Tamiyo, the Moon Sage (Emblem)</name>
             <text>You have no maximum hand size.
 Whenever a card is put into your graveyard from anywhere, you may return it to your hand.</text>
             <prop>
@@ -7043,7 +7043,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Teferi, Hero of Dominaria (emblem)</name>
+            <name>Teferi, Hero of Dominaria (Emblem)</name>
             <text>Whenever you draw a card, exile target permanent an opponent controls.</text>
             <prop>
                 <type>Emblem — Teferi</type>
@@ -7054,7 +7054,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Teferi, Temporal Archmage (emblem)</name>
+            <name>Teferi, Temporal Archmage (Emblem)</name>
             <text>You may activate loyalty abilities of planeswalkers you control on any player's turn any time you could cast an instant.</text>
             <prop>
                 <type>Emblem — Teferi</type>
@@ -7065,7 +7065,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Tezzeret the Schemer (emblem)</name>
+            <name>Tezzeret the Schemer (Emblem)</name>
             <text>At the beginning of combat on your turn, target artifact you control becomes an artifact creature with base power and toughness 5/5.</text>
             <prop>
                 <type>Emblem — Tezzeret</type>
@@ -7076,7 +7076,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Tezzeret, Artifice Master (emblem)</name>
+            <name>Tezzeret, Artifice Master (Emblem)</name>
             <text>At the beginning of your end step, search your library for a permanent card, put it onto the battlefield, then shuffle your library.</text>
             <prop>
                 <type>Emblem — Tezzeret</type>
@@ -7087,7 +7087,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Venser, the Sojourner (emblem)</name>
+            <name>Venser, the Sojourner (Emblem)</name>
             <text>Whenever you cast a spell, exile target permanent.</text>
             <prop>
                 <type>Emblem — Venser</type>
@@ -7098,7 +7098,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Vivien Reid (emblem)</name>
+            <name>Vivien Reid (Emblem)</name>
             <text>Creatures you control get +2/+2 and have vigilance, trample, and indestructible.</text>
             <prop>
                 <type>Emblem — Vivien</type>
@@ -7109,7 +7109,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Vraska, Golgari Queen (emblem)</name>
+            <name>Vraska, Golgari Queen (Emblem)</name>
             <text>Whenever a creature you control deals combat damage to a player, that player loses the game.</text>
             <prop>
                 <type>Emblem — Vraska</type>
@@ -7120,7 +7120,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Will Kenrith (emblem)</name>
+            <name>Will Kenrith (Emblem)</name>
             <text>Whenever you cast an instant or sorcery spell, copy it. You may choose new targets for the copy.</text>
             <prop>
                 <type>Emblem — Will</type>
@@ -7131,7 +7131,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Wrenn and Six (emblem)</name>
+            <name>Wrenn and Six (Emblem)</name>
             <text>Instant and sorcery cards in your graveyard have retrace.</text>
             <prop>
                 <type>Emblem — Wrenn</type>
