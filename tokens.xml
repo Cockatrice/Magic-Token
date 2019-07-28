@@ -100,7 +100,7 @@
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/b/bb/Angel3.jpg">APC</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/b/bb/Angel3.jpg">APC</set>
             <reverse-related>Haunted Angel</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -259,7 +259,7 @@ Whenever this creature deals damage to a planeswalker, destroy that planeswalker
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/d/dd/Assembly-Worker.jpg">TSP</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/d/dd/Assembly-Worker.jpg">TSP</set>
             <reverse-related>Urza's Factory</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -352,7 +352,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>1/2</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/2/20/Bat.jpg">TSP</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/2/20/Bat.jpg">TSP</set>
             <reverse-related>Sengir Nosferatu</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -482,7 +482,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/c/cd/Beast5.jpg">EXO</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/c/cd/Beast5.jpg">EXO</set>
             <reverse-related>Keeper of the Beasts</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -495,7 +495,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/a/a6/Beast4.jpg">MRD</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/a/a6/Beast4.jpg">MRD</set>
             <reverse-related>One Dozen Eyes</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -578,7 +578,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/3/37/Bird2.jpg">DIS</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/3/37/Bird2.jpg">DIS</set>
             <reverse-related count="x">Dovescape</reverse-related>
             <reverse-related>Pride of the Clouds</reverse-related>
             <token>1</token>
@@ -763,7 +763,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/7/77/Butterfly.jpg">VIS</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/7/77/Butterfly.jpg">VIS</set>
             <reverse-related>Giant Caterpillar</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -776,7 +776,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/b/b8/Camarid.jpg">FEM</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/b/b8/Camarid.jpg">FEM</set>
             <reverse-related count="x">Homarid Spawning Bed</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -789,7 +789,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/f/fd/Caribou.jpg">ME2</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/f/fd/Caribou.jpg">ME2</set>
             <reverse-related>Caribou Range</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -837,7 +837,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>2/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/0/08/Cat2.jpg">APC</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/0/08/Cat2.jpg">APC</set>
             <reverse-related>Penumbra Bobcat</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -850,7 +850,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/d/d1/Cat.jpg">6ED</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/d/d1/Cat.jpg">6ED</set>
             <reverse-related count="x">Waiting in the Weeds</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -913,7 +913,7 @@ Creature tokens you control have flying and vigilance.</text>
             </prop>
             <set picURL="https://media.wizards.com/2018/c18/en_R9R0pmo5zu.png">C18</set>
             <set picURL="https://img.scryfall.com/cards/large/en/tc17/8.jpg">C17</set>
-            <set picURL="http://cdn.staticneo.com/w/mtg/2/2d/Cat_Warrior.jpg">PLC</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/2/2d/Cat_Warrior.jpg">PLC</set>
             <reverse-related>Jedit Ojanen of Efrava</reverse-related>
             <reverse-related count="6">Lord Windgrace</reverse-related>
             <token>1</token>
@@ -950,7 +950,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/c/c5/Centaur.jpg">RAV</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/c/c5/Centaur.jpg">RAV</set>
             <reverse-related count="2">Hunted Horror</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -991,7 +991,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/1/15/Citizen.jpg">6ED</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/1/15/Citizen.jpg">6ED</set>
             <reverse-related count="2">Icatian Crier</reverse-related>
             <reverse-related count="4">Icatian Town</reverse-related>
             <token>1</token>
@@ -1061,7 +1061,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/a/a7/Cloud_Sprite.jpg">FUT</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/a/a7/Cloud_Sprite.jpg">FUT</set>
             <reverse-related>Cloudseeder</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -1294,7 +1294,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/0/0a/Djinn.jpg">ME4</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/0/0a/Djinn.jpg">ME4</set>
             <reverse-related>Bottle of Suleiman</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -1711,7 +1711,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/0/0a/Elemental8.jpg">DST</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/0/0a/Elemental8.jpg">DST</set>
             <reverse-related>Wand of the Elements</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -1785,7 +1785,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/8/89/Elemental7.jpg">DST</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/8/89/Elemental7.jpg">DST</set>
             <reverse-related>Wand of the Elements</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -1981,7 +1981,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/4/42/Elemental_Cat.jpg">JUD</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/4/42/Elemental_Cat.jpg">JUD</set>
             <reverse-related count="x">Firecat Blitz</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -2136,7 +2136,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/e/e8/Faerie.jpg">RAV</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/e/e8/Faerie.jpg">RAV</set>
             <reverse-related count="4">Hunted Troll</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -2182,7 +2182,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/2/24/Festering_Goblin.jpg">FUT</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/2/24/Festering_Goblin.jpg">FUT</set>
             <reverse-related>Skirk Ridge Exhumer</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -2268,7 +2268,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/4/4c/Giant.jpg">FUT</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/4/4c/Giant.jpg">FUT</set>
             <reverse-related>Pact of the Titan</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -2324,7 +2324,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/1/12/Gnome.jpg">USG</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/1/12/Gnome.jpg">USG</set>
             <reverse-related count="4" exclude="exclude">Metrognome</reverse-related>
             <reverse-related>Metrognome</reverse-related>
             <reverse-related>By Gnome Means</reverse-related>
@@ -2450,7 +2450,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>2/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/8/80/Goblin4.jpg">DIS</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/8/80/Goblin4.jpg">DIS</set>
             <reverse-related>Rakdos Guildmage</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -2495,7 +2495,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/b/bd/Goblin_Scout.jpg">MIR</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/b/bd/Goblin_Scout.jpg">MIR</set>
             <reverse-related count="3">Goblin Scouts</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -2555,7 +2555,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/0/0c/Goldmeadow_Harrier.jpg">FUT</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/0/0c/Goldmeadow_Harrier.jpg">FUT</set>
             <reverse-related>Goldmeadow Lookout</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -2840,7 +2840,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/e/e6/Horror2.jpg">RAV</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/e/e6/Horror2.jpg">RAV</set>
             <reverse-related>Hunted Lammasu</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -2895,7 +2895,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/c/cd/Hound.jpg">TMP</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/c/cd/Hound.jpg">TMP</set>
             <reverse-related count="4">Mongrel Pack</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -3125,7 +3125,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>6/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/2/23/Insect4.jpg">PLC</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/2/23/Insect4.jpg">PLC</set>
             <reverse-related>Deadly Grub</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -3138,7 +3138,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/d/df/Insect3.jpg">MIR</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/d/df/Insect3.jpg">MIR</set>
             <reverse-related count="x">Carrion</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -3190,7 +3190,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/3/3d/Kaldra.jpg">DST</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/3/3d/Kaldra.jpg">DST</set>
             <reverse-related>Helm of Kaldra</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -3217,7 +3217,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/4/42/Kavu.jpg">APC</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/4/42/Kavu.jpg">APC</set>
             <reverse-related>Penumbra Kavu</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -3339,7 +3339,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/c/c3/Knight5.jpg">PLC</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/c/c3/Knight5.jpg">PLC</set>
             <reverse-related>Riftmarked Knight</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -3496,7 +3496,7 @@ At the beginning of the end step, sacrifice this creature.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/7/71/Llanowar_Elves.jpg">FUT</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/7/71/Llanowar_Elves.jpg">FUT</set>
             <reverse-related>Llanowar Mentor</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -3615,7 +3615,7 @@ Totem armor</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/b/bf/Metallic_Sliver.jpg">FUT</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/b/bf/Metallic_Sliver.jpg">FUT</set>
             <reverse-related>Sliversmith</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -3654,7 +3654,7 @@ Totem armor</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/c/c7/Minor_Demon.jpg">ME3</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/c/c7/Minor_Demon.jpg">ME3</set>
             <reverse-related>Boris Devilboon</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -3694,7 +3694,7 @@ Totem armor</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/9/97/Ape1.jpg">MMQ</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/9/97/Ape1.jpg">MMQ</set>
             <reverse-related count="x">Monkey Cage</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4105,7 +4105,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/4/44/Orb.jpg">ALL</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/4/44/Orb.jpg">ALL</set>
             <reverse-related>Phantasmal Sphere</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4174,7 +4174,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/8/88/Pincher.jpg">5DN</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/8/88/Pincher.jpg">5DN</set>
             <reverse-related>Summoning Station</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4248,7 +4248,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/f/fb/Prism.jpg">VIS</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/f/fb/Prism.jpg">VIS</set>
             <reverse-related>Diamond Kaleidoscope</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4319,7 +4319,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/e/e2/Reflection1.jpg">INV</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/e/e2/Reflection1.jpg">INV</set>
             <reverse-related>Pure Reflection</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4332,7 +4332,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/2/27/Reflection2.jpg">TMP</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/2/27/Reflection2.jpg">TMP</set>
             <reverse-related>Spirit Mirror</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4389,7 +4389,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/3/33/Sand1.jpg">GPT</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/3/33/Sand1.jpg">GPT</set>
             <reverse-related count="x">Dune-Brood Nephilim</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4523,7 +4523,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/7/76/Saproling3.jpg">NEM</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/7/76/Saproling3.jpg">NEM</set>
             <reverse-related>Saproling Burst</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4640,7 +4640,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/5/57/Sheep1.jpg">TSB</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/5/57/Sheep1.jpg">TSB</set>
             <reverse-related>Ovinomancer</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4726,7 +4726,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/0/01/Snake3.jpg">MED</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/0/01/Snake3.jpg">MED</set>
             <reverse-related>Serpent Generator</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4767,7 +4767,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="http://media-dominaria.cursecdn.com/attachments/113/426/635201279747658553.jpg">C13</set>
+            <set picURL="https://media-dominaria.cursecdn.com/attachments/113/426/635201279747658553.jpg">C13</set>
             <reverse-related>Ophiomancer</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4993,7 +4993,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>3/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/a/ae/Spark_Elemental.jpg">FUT</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/a/ae/Spark_Elemental.jpg">FUT</set>
             <reverse-related>Sparkspitter</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5005,7 +5005,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/d/d3/Spawn.jpg">DST</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/d/d3/Spawn.jpg">DST</set>
             <reverse-related>Spawning Pit</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5098,7 +5098,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/7/7c/Spike.jpg">STH</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/7/7c/Spike.jpg">STH</set>
             <reverse-related>Spike Breeder</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5269,7 +5269,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/6/6a/Spirit3.jpg">BOK</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/6/6a/Spirit3.jpg">BOK</set>
             <reverse-related>Oyobi, Who Split the Heavens</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5323,7 +5323,7 @@ Cumulative upkeep {G}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/f/f6/Splinter.jpg">ALL</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/f/f6/Splinter.jpg">ALL</set>
             <reverse-related>Splintering Wind</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5490,7 +5490,7 @@ This creature can't be enchanted.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/e/e6/Tetravite.jpg">ATQ</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/e/e6/Tetravite.jpg">ATQ</set>
             <reverse-related>Tetravus</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5594,7 +5594,7 @@ This creature can't be enchanted.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/5/5c/Tombspawn.jpg">MIR</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/5/5c/Tombspawn.jpg">MIR</set>
             <reverse-related count="x">Tombstone Stairwell</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5692,7 +5692,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/a/a7/Triskelavite.jpg">TSP</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/a/a7/Triskelavite.jpg">TSP</set>
             <reverse-related>Triskelavus</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5731,7 +5731,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/7/78/Twin.jpg">DST</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/7/78/Twin.jpg">DST</set>
             <reverse-related>Gemini Engine</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5759,7 +5759,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/f/f1/Urami.jpg">SOK</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/f/f1/Urami.jpg">SOK</set>
             <reverse-related>Tomb of Urami</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5881,7 +5881,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/9/91/Voja.jpg">RAV</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/9/91/Voja.jpg">RAV</set>
             <reverse-related>Tolsimir Wolfblood</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5907,7 +5907,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>0/2</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/3/36/Wall2.jpg">MIR</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/3/36/Wall2.jpg">MIR</set>
             <reverse-related>Basalt Golem</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5961,7 +5961,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/9/95/Warrior.jpg">SOK</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/9/95/Warrior.jpg">SOK</set>
             <reverse-related count="x">Rally the Horde</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -6029,7 +6029,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/a/ae/Weird.jpg">GPT</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/a/ae/Weird.jpg">GPT</set>
             <reverse-related>Thunderheads</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -6057,7 +6057,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/f/f5/Wirefly.jpg">DST</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/f/f5/Wirefly.jpg">DST</set>
             <reverse-related>Wirefly Hive</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -6154,7 +6154,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/d/d1/Wolf1.jpg">CSP</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/d/d1/Wolf1.jpg">CSP</set>
             <reverse-related>Sound the Call</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -6261,7 +6261,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>6/6</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/d/d9/Wurm3.jpg">APC</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/d/d9/Wurm3.jpg">APC</set>
             <reverse-related>Penumbra Wurm</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -6291,7 +6291,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
-            <set picURL="http://cdn.staticneo.com/w/mtg/7/7e/Wurm2.jpg">FUT</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/7/7e/Wurm2.jpg">FUT</set>
             <reverse-related>Baru, Fist of Krosa</reverse-related>
             <reverse-related>Wurmcalling</reverse-related>
             <token>1</token>
@@ -7146,7 +7146,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <prop>
                 <type>Counter</type>
             </prop>
-            <set picURL="http://i.imgur.com/D4xLMxC.png">KLD</set>
+            <set picURL="https://i.imgur.com/D4xLMxC.png">KLD</set>
             <reverse-related exclude="exclude">Aether Chaser</reverse-related>
             <reverse-related exclude="exclude">Aether Herder</reverse-related>
             <reverse-related exclude="exclude">Aether Hub</reverse-related>
@@ -7225,7 +7225,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <prop>
                 <type>Counter</type>
             </prop>
-            <set picURL="http://i.imgur.com/GgQ6lhZ.jpg">C15</set>
+            <set picURL="https://i.imgur.com/GgQ6lhZ.jpg">C15</set>
             <reverse-related exclude="exclude">Daxos the Returned</reverse-related>
             <reverse-related exclude="exclude">Ezuri, Claw of Progress</reverse-related>
             <reverse-related exclude="exclude">Kalemne, Disciple of Iroas</reverse-related>
