@@ -70,7 +70,7 @@
             <set picURL="https://img.scryfall.com/cards/large/front/9/c/9c8fe0d7-5c40-45fe-b3d8-47852380845e.jpg">C14</set>
             <set picURL="https://img.scryfall.com/cards/large/front/8/2/826320b7-4ccf-4ace-8c2c-15052b6bad73.jpg">M14</set>
             <set picURL="https://img.scryfall.com/cards/large/front/7/1/71766a5a-ce00-4e48-b4f6-0d1a7f5b2691.jpg">GTC</set>
-            <set picURL="https://api.scryfall.com/cards/p04/2?format=image">PPRE</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/c/7/c7f3264a-7b4a-4fef-af73-d4241742a4e8.jpg">PPRE</set>
             <set picURL="https://img.scryfall.com/cards/large/front/6/8/68dd1682-a5d5-4323-b876-66a86c311c43.jpg">AVR</set>
             <set picURL="https://img.scryfall.com/cards/large/front/a/0/a0d7d857-2a54-4d0e-a97c-11400053194c.jpg">ISD</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/f/1fc37484-b58b-4a42-9281-b4272dc7c872.jpg">ZEN</set>
@@ -367,8 +367,8 @@ Creature tokens you control have flying and vigilance.</text>
             </prop>
             <set picURL="https://media.wizards.com/2019/mh1/en_jtlCPiMdPo.png">MH1</set>
             <set picURL="https://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_X4EoEnpo8O.png">C15</set>
-            <set picURL="https://api.scryfall.com/cards/mpr/7?format=image">ODY</set>
-            <set picURL="https://api.scryfall.com/cards/p03/4?format=image">ONS</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/0/a/0a21bc37-6f21-4dda-a313-a0d75696f7fc.jpg">ODY</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/6/e/6e1fc8db-f4a3-4f9c-bfab-64d5a3968435.jpg">ONS</set>
             <reverse-related>Ayula's Influence</reverse-related>
             <reverse-related count="x" exclude="exclude">Ayula's Influence</reverse-related>
             <reverse-related>Bearscape</reverse-related>
@@ -420,7 +420,7 @@ Creature tokens you control have flying and vigilance.</text>
             <set picURL="https://img.scryfall.com/cards/large/front/d/9/d98c546e-2933-4833-b47b-084db56fb5d6.jpg">DDD</set>
             <set picURL="https://img.scryfall.com/cards/large/front/3/f/3fc3a29a-280d-4f2c-9a01-8cfead75f583.jpg">EVE</set>
             <set picURL="https://img.scryfall.com/cards/large/front/c/3/c3cbd01b-dbf5-424a-855d-f9a9d7e7e414.jpg">LRW</set>
-            <set picURL="https://api.scryfall.com/cards/p04/5?format=image">DST</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/d/0/d02d5670-fff3-4011-8e45-e6843e4e8988.jpg">DST</set>
             <reverse-related>Beast Within</reverse-related>
             <reverse-related>Bringer of the Green Dawn</reverse-related>
             <reverse-related count="3">Feral Incarnation</reverse-related>
@@ -452,7 +452,7 @@ Creature tokens you control have flying and vigilance.</text>
             <set picURL="https://img.scryfall.com/cards/large/front/c/3/c30a67ba-df39-4a70-a725-6853e3fcba0b.jpg">C14</set>
             <set picURL="https://img.scryfall.com/cards/large/front/7/6/76b5e455-053d-4a86-93b2-2436b554b638.jpg">ZEN</set>
             <set picURL="https://img.scryfall.com/cards/large/front/6/f/6fd6877b-b4f1-4953-b9a4-c97d0ae7d673.jpg">DDD</set>
-            <set picURL="https://api.scryfall.com/cards/mpr/8?format=image">ODY</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/c/e/ce45e037-5efb-4735-afee-12d7dc3127d1.jpg">ODY</set>
             <reverse-related>Baloth Cage Trap</reverse-related>
             <reverse-related>Beast Attack</reverse-related>
             <reverse-related count="x">Ezuri's Predation</reverse-related>
@@ -621,7 +621,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/d/4/d453ee89-6122-4d51-989c-e78b046a9de3.jpg">EVE</set>
-            <set picURL="https://api.scryfall.com/cards/mpr/4?format=image">INV</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/2/6/26e0e196-36e6-4d7a-a76b-1c2a18270267.jpg">INV</set>
             <reverse-related>Fable of Wolf and Owl</reverse-related>
             <reverse-related count="x">Ordered Migration</reverse-related>
             <token>1</token>
@@ -681,7 +681,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
-            <set picURL="https://api.scryfall.com/cards/p03/7?format=image">8ED</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/b/5/b5489e26-6aec-4706-9c3e-8454878fa6c3.jpg">8ED</set>
             <reverse-related>Rukh Egg</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -1215,7 +1215,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <set picURL="https://img.scryfall.com/cards/large/front/9/5/952e41e4-2e1e-4977-a33b-6835446af0e6.jpg">C14</set>
             <set picURL="https://img.scryfall.com/cards/large/front/8/5/8597029c-3b0d-476e-a6ee-48402f815dab.jpg">CNS</set>
             <set picURL="https://img.scryfall.com/cards/large/front/3/6/367c872c-d019-42aa-b75a-1c66ec81e766.jpg">DDC</set>
-            <set picURL="https://api.scryfall.com/cards/p03/6?format=image">MIR</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/0/8/084c3292-c3ec-431e-b162-309b5cf6309e.jpg">MIR</set>
             <reverse-related>Promise of Power</reverse-related>
             <reverse-related>Reign of the Pit</reverse-related>
             <token>1</token>
@@ -1329,7 +1329,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <set picURL="https://img.scryfall.com/cards/large/front/e/8/e8e4b631-7374-4503-aa66-2a45a41972d3.jpg">BFZ</set>
             <set picURL="https://img.scryfall.com/cards/large/front/b/8/b87835c7-4739-45c9-a15a-889aa6b6b7ab.jpg">WWK</set>
             <set picURL="https://img.scryfall.com/cards/large/front/9/9/993b3b90-74c3-479b-b3e6-3f1cd8f1da04.jpg">10E</set>
-            <set picURL="https://api.scryfall.com/cards/pr2/7?format=image">ONS</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/5/6/56c0fa29-fbcb-41fe-94ab-a39b1154c99b.jpg">ONS</set>
             <reverse-related>Awaken the Sky Tyrant</reverse-related>
             <reverse-related>Day of the Dragons</reverse-related>
             <reverse-related>Death by Dragons</reverse-related>
@@ -2020,8 +2020,8 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <set picURL="https://img.scryfall.com/cards/large/front/5/7/572840b5-c0a1-4a9d-8913-f38fc7b2da78.jpg">CNS</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/c/1c5a05d3-7824-4570-b32d-91fe2dced952.jpg">WWK</set>
             <set picURL="https://img.scryfall.com/cards/large/front/e/3/e357b329-b624-4c9a-bacf-d4744745860a.jpg">DDD</set>
-            <set picURL="https://api.scryfall.com/cards/mpr/3?format=image">INV</set>
-            <set picURL="https://api.scryfall.com/cards/pr2/5?format=image">ODY</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/5/4/540a3b26-ca61-46c6-9e75-981cae435b2e.jpg">INV</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/3/d/3dc13cf6-665a-4d92-836f-b2e10ca08ecd.jpg">ODY</set>
             <reverse-related>Assault // Battery</reverse-related>
             <reverse-related>Bestial Menace</reverse-related>
             <reverse-related>Call of the Herd</reverse-related>
@@ -2386,7 +2386,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <set picURL="https://img.scryfall.com/cards/large/front/f/f/ff1df646-52f5-4292-9fd5-5b8393f63931.jpg">EVG</set>
             <set picURL="https://img.scryfall.com/cards/large/front/e/9/e9577d3c-ee19-4b53-adac-b304287a066f.jpg">10E</set>
             <set picURL="https://img.scryfall.com/cards/large/front/5/7/577c2e32-deb6-40d9-a050-c2acb5bfc05f.jpg">RTR</set>
-            <set picURL="https://api.scryfall.com/cards/l12/1?format=image">LGN</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/0/6/062043de-a199-408d-8d77-09531ad38b16.jpg">LGN</set>
             <reverse-related count="2">Beetleback Chief</reverse-related>
             <reverse-related>Chancellor of the Forge</reverse-related>
             <reverse-related count="x">Chancellor of the Forge</reverse-related>
@@ -2510,7 +2510,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             </prop>
             <set picURL="https://media.wizards.com/2016/adhfianalodifdj2_EMA/en_fhdI96oKsU.png">EMA</set>
             <set picURL="https://img.scryfall.com/cards/large/front/e/8/e836db04-161c-4f4f-88d2-4271cec62008.jpg">EVE</set>
-            <set picURL="https://api.scryfall.com/cards/mpr/6?format=image">APC</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/b/3/b3b52233-d240-4be5-bbde-b1e67367ede4.jpg">APC</set>
             <reverse-related count="2">Goblin Trenches</reverse-related>
             <reverse-related count="x">Rise of the Hobgoblins</reverse-related>
             <token>1</token>
@@ -3097,7 +3097,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_DJi1itoTAo.png">SOI</set>
             <set picURL="https://img.scryfall.com/cards/large/front/5/9/599b5074-86a5-4666-8cf4-3deb83c09ba0.jpg">MM2</set>
             <set picURL="https://img.scryfall.com/cards/large/front/6/7/67563770-a392-4f69-b93b-6029da639993.jpg">M10</set>
-            <set picURL="https://api.scryfall.com/cards/p03/2?format=image">ONS</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/a/a/aa47df37-f246-4f80-a944-008cdf347dad.jpg">ONS</set>
             <reverse-related>Ant Queen</reverse-related>
             <reverse-related count="x">Beacon of Creation</reverse-related>
             <reverse-related>Broodhatch Nantuko</reverse-related>
@@ -3911,7 +3911,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <set picURL="https://img.scryfall.com/cards/large/front/d/f/dfe197cf-6f36-424e-a544-cbe7a56f8a32.jpg">MD1</set>
             <set picURL="https://img.scryfall.com/cards/large/front/5/c/5c087beb-99c0-403e-bb44-33cfc549a831.jpg">NPH</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/8/182308b3-86e0-46d8-9104-95576a3d3921.jpg">SOM</set>
-            <set picURL="https://api.scryfall.com/cards/p04/4?format=image">MRD</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/1/8/187cf6d5-c352-48f2-b8bf-fe1bf946e2ac.jpg">MRD</set>
             <reverse-related>Genesis Chamber</reverse-related>
             <reverse-related count="2">Master's Call</reverse-related>
             <reverse-related>Mirrodin Besieged</reverse-related>
@@ -4150,7 +4150,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/0/a/0a9a25fd-1a4c-4d63-bbfa-296ef53feb8b.jpg">C14</set>
             <set picURL="https://img.scryfall.com/cards/large/front/a/1/a1f88c3e-3532-489a-8f31-e07e8040f28e.jpg">M12</set>
-            <set picURL="https://api.scryfall.com/cards/p04/3?format=image">MRD</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/4/f/4fbb0dc6-2f9e-4389-8a90-531e94009bfb.jpg">MRD</set>
             <reverse-related>Pentavus</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4435,7 +4435,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <set picURL="https://img.scryfall.com/cards/large/front/6/9/698d48fa-d6c1-44b9-8aa2-bb03e0e53788.jpg">10E</set>
             <set picURL="https://img.scryfall.com/cards/large/front/0/0/006c118e-b5c7-4726-acee-59132f23e4fc.jpg">DDJ</set>
             <set picURL="https://img.scryfall.com/cards/large/front/e/6/e6544989-91b4-4db7-ad44-f1355f1d6e6b.jpg">RTR</set>
-            <set picURL="https://api.scryfall.com/cards/mpr/2?format=image">INV</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/6/1/61587ac5-0cfe-4e5d-baa2-c9a458e40474.jpg">INV</set>
             <reverse-related count="x">Aether Mutation</reverse-related>
             <reverse-related count="x">Artifact Mutation</reverse-related>
             <reverse-related count="x">Aura Mutation</reverse-related>
@@ -4683,7 +4683,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://media.wizards.com/images/magic/daily/arcana/0001_MTGM15_TOK_EN%20copy.png">M15</set>
-            <set picURL="https://api.scryfall.com/cards/l13/3?format=image">LGN</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/5/0/50c4f43e-ed03-43de-8ff1-2d4431c1684a.jpg">LGN</set>
             <set picURL="https://img.scryfall.com/cards/large/front/6/8/68353af0-9cd0-43c0-9b39-8f904c618e3a.jpg">M14</set>
             <reverse-related>Brood Sliver</reverse-related>
             <reverse-related count="2">Hive Stirrings</reverse-related>
@@ -4834,7 +4834,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <set picURL="https://img.scryfall.com/cards/large/front/9/2/927580e6-353a-46bb-ac05-52a5fa78a959.jpg">ALA</set>
             <set picURL="https://img.scryfall.com/cards/large/front/c/8/c848b20e-a99c-445e-bf27-45a8e65a50d2.jpg">DDF</set>
             <set picURL="https://img.scryfall.com/cards/large/front/c/8/c8ae31d1-9a6e-43f3-9b04-bd15699f73d6.jpg">10E</set>
-            <set picURL="https://api.scryfall.com/cards/pr2/8?format=image">ONS</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/5/b/5b953ca2-5be4-4c6a-a0fd-b53219ca6341.jpg">ONS</set>
             <reverse-related>Akroan Horse</reverse-related>
             <reverse-related count="x">Alliance of Arms</reverse-related>
             <reverse-related attach="attach">Ancestral Blade</reverse-related>
@@ -5133,7 +5133,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <set picURL="https://img.scryfall.com/cards/large/front/4/b/4b9a934b-dbd2-4691-8c96-a2f25ca18db0.jpg">DDC</set>
             <set picURL="https://img.scryfall.com/cards/large/front/c/b/cba50f25-ad8c-4244-8dc1-f8656f4c8c0b.jpg">SHM</set>
             <set picURL="https://img.scryfall.com/cards/large/front/5/8/58be6a05-8021-4fca-8e9f-0ebb4769c635.jpg">DDK</set>
-            <set picURL="https://api.scryfall.com/cards/mpr/5?format=image">PLS</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/1/4/14ef4815-3dfe-47b3-ad81-1506925280d3.jpg">PLS</set>
             <reverse-related>Abzan Ascendancy</reverse-related>
             <reverse-related>Afterlife</reverse-related>
             <reverse-related>Avacyn's Collar</reverse-related>
@@ -5235,7 +5235,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <set picURL="https://media.wizards.com/2018/a25/en_Zm3GZBOnwD.png">A25</set>
             <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/bQqBAcQB03_EN.png">C16</set>
             <set picURL="https://media.wizards.com/2016/adhfianalodifdj2_EMA/en_qQaHPqyjyC.png">EMA</set>
-            <set picURL="https://api.scryfall.com/cards/p04/6?format=image">CHK</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/4/6/46b60d95-b9bc-40f8-b986-bfa8e3eb74f3.jpg">CHK</set>
             <reverse-related>Baku Altar</reverse-related>
             <reverse-related count="x">Dripping-Tongue Zubera</reverse-related>
             <reverse-related>Forbidden Orchard</reverse-related>
@@ -5354,7 +5354,7 @@ Cumulative upkeep {G}</text>
             </prop>
             <set picURL="https://media.wizards.com/2019/mh1/en_ekxScmW9bT.png">MH1</set>
             <set picURL="https://img.scryfall.com/cards/large/front/3/a/3af9733f-192f-4028-8ad6-aa1187dd15e7.jpg">CNS</set>
-            <set picURL="https://api.scryfall.com/cards/pr2/3?format=image">ODY</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/a/f/af7c2def-d20d-4670-8950-7042e9380844.jpg">ODY</set>
             <reverse-related>Acorn Catapult</reverse-related>
             <reverse-related count="2">Acorn Harvest</reverse-related>
             <reverse-related>Chatter of the Squirrel</reverse-related>
@@ -6216,7 +6216,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="https://media.wizards.com/2016/adhfianalodifdj2_EMA/en_gVChXwjDd1.png">EMA</set>
             <set picURL="https://img.scryfall.com/cards/large/front/a/4/a4d87f38-c342-4186-8768-c3f1aceb680a.jpg">M13</set>
             <set picURL="https://img.scryfall.com/cards/large/front/8/4/84dc847c-7a37-4c7f-b02c-30b3e4c91fb6.jpg">M12</set>
-            <set picURL="https://api.scryfall.com/cards/pr2/6?format=image">ODY</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/9/f/9fc04b19-e636-4868-8224-a5da75ea01c8.jpg">ODY</set>
             <reverse-related count="3">Crush of Wurms</reverse-related>
             <reverse-related count="x" exclude="exclude">Garruk, Primal Hunter</reverse-related>
             <reverse-related>Roar of the Wurm</reverse-related>
@@ -6355,7 +6355,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="https://img.scryfall.com/cards/large/front/c/d/cd51a6b5-1165-4df6-a30d-d46c729633f7.jpg">M10</set>
             <set picURL="https://img.scryfall.com/cards/large/front/b/a/ba9b6612-5372-4e6f-841f-20009f71a736.jpg">ALA</set>
             <set picURL="https://img.scryfall.com/cards/large/front/8/a/8a73e348-5bf1-4465-978b-3f31408bade9.jpg">10E</set>
-            <set picURL="https://api.scryfall.com/cards/pr2/4?format=image">ODY</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/6/5/657fa00d-ddb5-49e6-a01e-82038cccfe30.jpg">ODY</set>
             <reverse-related>Archdemon of Unx</reverse-related>
             <reverse-related count="13">Army of the Damned</reverse-related>
             <reverse-related>Assemble the Rank and Vile</reverse-related>
