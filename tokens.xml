@@ -367,6 +367,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/eld/en_c9I616MaCv.png">ELD</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_jtlCPiMdPo.png">MH1</set>
             <set picURL="https://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_X4EoEnpo8O.png">C15</set>
             <set picURL="https://img.scryfall.com/cards/large/front/0/a/0a21bc37-6f21-4dda-a313-a0d75696f7fc.jpg">ODY</set>
@@ -375,6 +376,7 @@ Creature tokens you control have flying and vigilance.</text>
             <reverse-related count="x" exclude="exclude">Ayula's Influence</reverse-related>
             <reverse-related>Bearscape</reverse-related>
             <reverse-related count="x">Caller of the Claw</reverse-related>
+            <reverse-related count="3">Flaxen Intruder // Welcome Home</reverse-related>
             <reverse-related count="2">Grizzly Fate</reverse-related>
             <reverse-related count="4" exclude="exclude">Grizzly Fate</reverse-related>
             <reverse-related count="x">Kamahl's Summons</reverse-related>
@@ -757,6 +759,21 @@ Creature tokens you control have flying and vigilance.</text>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/2/f/2f40613b-1bde-4939-86ad-6bd40f9db0d6.jpg">THS</set>
             <reverse-related count="x">Curse of the Swine</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Boar  </name>
+            <text>When this creature dies, create a Food token.</text>
+            <prop>
+                <colors>G</colors>
+                <cmc>0</cmc>
+                <type>Token Creature — Boar</type>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/eld/en_Q6649AYZtV.png">ELD</set>
+            <reverse-related count="3">Wolf's Quarry</reverse-related>
+            <related>Food</related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -1505,6 +1522,19 @@ Whenever Dreamstealer deals combat damage to a player, that player discards that
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Dwarf</name>
+            <prop>
+                <colors>R</colors>
+                <cmc>0</cmc>
+                <type>Token Creature — Dwarf</type>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/eld/en_MTBE2eZjU3.png">ELD</set>
+            <reverse-related>Dwarven Mine</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Earthshaker Khenra (Token)</name>
             <text>Haste
 When Earthshaker Khenra enters the battlefield, target creature with power less than or equal to Earthshaker Khenra's power can't block this turn.</text>
@@ -2161,8 +2191,13 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/eld/en_AVBcx5FLom.png">ELD</set>
             <set picURL="https://cdn.staticneo.com/w/mtg/e/e8/Faerie.jpg">RAV</set>
+            <reverse-related>Alela, Artful Provocateur</reverse-related>
+            <reverse-related count="x=1">Faerie Formation</reverse-related>
             <reverse-related count="4">Hunted Troll</reverse-related>
+            <reverse-related>Improbable Alliance</reverse-related>
+            <reverse-related count="x=0">Stolen by the Fae</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -2227,6 +2262,40 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <reverse-related>Reef Worm</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Food</name>
+            <text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+            <prop>
+                <cmc>0</cmc>
+                <type>Token Artifact — Food</type>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/eld/en_Il49X0ZN05.png">ELD</set>
+            <set picURL="https://media.wizards.com/2019/eld/en_8MSslzedLY.png">ELD</set>
+            <set picURL="https://media.wizards.com/2019/eld/en_zSLS0TURcJ.png">ELD</set>
+            <set picURL="https://media.wizards.com/2019/eld/en_4OwNtoBgbf.png">ELD</set>
+            <reverse-related>Bake into a Pie</reverse-related>
+            <reverse-related>Bartered Cow</reverse-related>
+            <reverse-related>Curious Pair // Treats to Share</reverse-related>
+            <reverse-related count="3">Feasting Troll King</reverse-related>
+            <reverse-related>Fell the Pheasant</reverse-related>
+            <reverse-related>Fierce Witchstalker</reverse-related>
+            <reverse-related>Foreboding Fruit</reverse-related>
+            <reverse-related>Fortifying Provisions</reverse-related>
+            <reverse-related exclude="exclude" count="3">Giant Opportunity</reverse-related>
+            <reverse-related>Giant's Skewer</reverse-related>
+            <reverse-related>Gilded Goose</reverse-related>
+            <reverse-related>Gingerbread Cabin</reverse-related>
+            <reverse-related count="x=1">Gluttonous Troll</reverse-related>
+            <reverse-related>Oko, Thief of Crowns</reverse-related>
+            <reverse-related>Savvy Hunter</reverse-related>
+            <reverse-related count="3">Taste of Death</reverse-related>
+            <reverse-related>Tempting Witch</reverse-related>
+            <reverse-related>Trail of Crumbs</reverse-related>
+            <reverse-related>Turn into a Pumpkin</reverse-related>
+            <reverse-related count="x=1">Witch's Oven</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Frog Lizard</name>
@@ -2300,6 +2369,19 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Giant </name>
+            <prop>
+                <colors>G</colors>
+                <cmc>0</cmc>
+                <type>Token Creature — Giant</type>
+                <pt>7/7</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/eld/en_NlxwADf25B.png">ELD</set>
+            <reverse-related>Giant Opportunity</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Giant Warrior</name>
             <prop>
                 <colors>W</colors>
@@ -2367,11 +2449,13 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/eld/en_RXskaZkva9.png">ELD</set>
             <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/2QtBY6BF4T_EN.png">C16</set>
             <set picURL="https://img.scryfall.com/cards/large/front/5/b/5ba0e1c8-bb8e-4be4-8177-b2175e0c33fb.jpg">C14</set>
             <set picURL="https://img.scryfall.com/cards/large/front/6/4/64e90524-bad8-4d24-85be-9402401e7b42.jpg">M14</set>
             <set picURL="https://img.scryfall.com/cards/large/front/f/a/fa0f1de9-464c-4f12-bd1d-a4a5b88fe803.jpg">M13</set>
             <set picURL="https://img.scryfall.com/cards/large/front/9/0/90f67615-8a09-4ab9-9927-899a15e72c03.jpg">EVE</set>
+            <reverse-related count="3">Clackbridge Troll</reverse-related>
             <reverse-related count="3" exclude="exclude">Goldmeadow</reverse-related>
             <reverse-related>Goldmeadow</reverse-related>
             <reverse-related>Springjack Pasture</reverse-related>
@@ -2936,20 +3020,28 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/eld/en_OnoAHjNCtA.png">ELD</set>
             <set picURL="https://media.wizards.com/2019/c19/en_0GA7rbmHav.png">C19</set>
             <set picURL="https://media.wizards.com/2018/rna/en_IeLQUTgkMy.png">RNA</set>
             <set picURL="https://img.scryfall.com/cards/large/front/8/8/8894949b-f190-461e-996a-cf2b39f08a5d.jpg">AVR</set>
             <set picURL="https://img.scryfall.com/cards/large/front/3/a/3a98c51f-c55c-4bd9-853b-65b8bad5a29f.jpg">FNM</set>
             <set picURL="https://img.scryfall.com/cards/large/front/b/d/bd5cd362-34f9-445f-85e1-9f6694f0f90a.jpg">DKA</set>
+            <reverse-related>Castle Ardenvale</reverse-related>
             <reverse-related>Commander's Authority</reverse-related>
             <reverse-related count="2">Gather the Townsfolk</reverse-related>
             <reverse-related count="5" exclude="exclude">Gather the Townsfolk</reverse-related>
+            <reverse-related count="2">Harmonious Archon</reverse-related>
+            <reverse-related>Hero of Precinct One</reverse-related>
             <reverse-related count="5">Increasing Devotion</reverse-related>
             <reverse-related count="10" exclude="exclude">Increasing Devotion</reverse-related>
-            <reverse-related>Hero of Precinct One</reverse-related>
+            <reverse-related>Inquisitive Puppet</reverse-related>
+            <reverse-related>Lovestruck Beast // Heart's Desire</reverse-related>
+            <reverse-related count="2">Oakhame Ranger // Bring Back</reverse-related>
+            <reverse-related count="2">Rally for the Throne</reverse-related>
             <reverse-related>Thraben Doomsayer</reverse-related>
             <reverse-related>Voice of the Provinces</reverse-related>
             <reverse-related>Watchful Giant</reverse-related>
+            <reverse-related>Worthy Knight</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -2983,6 +3075,35 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Human Cleric </name>
+            <text>Lifelink, haste</text>
+            <prop>
+                <colors>RW</colors>
+                <cmc>0</cmc>
+                <type>Token Creature — Human Cleric</type>
+                <pt>2/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/eld/en_VnC5zkyexJ.png">ELD</set>
+            <reverse-related exclude="exclude">Outlaws' Merriment</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Human Rogue</name>
+            <text>Haste
+When this creature enters the battlefield, it deals 1 damage to any target.</text>
+            <prop>
+                <colors>RW</colors>
+                <cmc>0</cmc>
+                <type>Token Creature — Human Rogue</type>
+                <pt>1/2</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/eld/en_d2nMcuoD13.png">ELD</set>
+            <reverse-related exclude="exclude">Outlaws' Merriment</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Human Soldier</name>
             <prop>
                 <colors>W</colors>
@@ -2995,6 +3116,20 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related>Strength of Arms</reverse-related>
             <reverse-related>Thraben Standard Bearer</reverse-related>
             <reverse-related>Ulvenwald Mysteries</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Human Warrior</name>
+            <text>Trample, haste</text>
+            <prop>
+                <colors>RW</colors>
+                <cmc>0</cmc>
+                <type>Token Creature — Human Warrior</type>
+                <pt>3/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/eld/en_rUJrVey9SW.png">ELD</set>
+            <reverse-related exclude="exclude">Outlaws' Merriment</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3296,25 +3431,31 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/eld/en_9Imcz8rwoV.png">ELD</set>
             <set picURL="https://img.scryfall.com/cards/large/front/f/d/fd8ca5ee-7b93-4248-8f4a-b88261ee1eed.jpg">M19</set>
             <set picURL="https://media.wizards.com/2018/dom/en_sYO9Sdh8Vs.png">DOM</set>
             <set picURL="https://media.wizards.com/2018/dom/en_jZzvwfMjcS.png">DOM</set>
             <set picURL="https://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_989oeP4YLT.png">C15</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/b/1bc2969b-2176-4471-b316-9c80443866dd.jpg">ORI</set>
             <set picURL="https://img.scryfall.com/cards/large/front/6/7/67d3d039-248a-4eb8-be5c-12959b458fea.jpg">RTR</set>
+            <reverse-related>Aryel, Knight of Windgrace</reverse-related>
+            <reverse-related>Banish into Fable</reverse-related>
+            <reverse-related count="2">Call the Cavalry</reverse-related>
+            <reverse-related>Doom Foretold</reverse-related>
+            <reverse-related>Gallant Cavalry</reverse-related>
             <reverse-related count="4">Gideon's Phalanx</reverse-related>
+            <reverse-related>History of Benalia</reverse-related>
             <reverse-related count="2">Knight Watch</reverse-related>
             <reverse-related>Knightly Valor</reverse-related>
+            <reverse-related>Lonesome Unicorn // Rider in Need</reverse-related>
             <reverse-related>Righteous Confluence</reverse-related>
             <reverse-related>Security Blockade</reverse-related>
             <reverse-related>Selesnya Charm</reverse-related>
-            <reverse-related>Sunspire Gatekeepers</reverse-related>
-            <reverse-related>Trostani's Summoner</reverse-related>
-            <reverse-related>Aryel, Knight of Windgrace</reverse-related>
-            <reverse-related count="2">Call the Cavalry</reverse-related>
-            <reverse-related>History of Benalia</reverse-related>
-            <reverse-related>Gallant Cavalry</reverse-related>
             <reverse-related>Sigiled Sword of Valeron</reverse-related>
+            <reverse-related count="x=1">Silverwing Squadron</reverse-related>
+            <reverse-related>Sunspire Gatekeepers</reverse-related>
+            <reverse-related>The Circle of Loyalty</reverse-related>
+            <reverse-related>Trostani's Summoner</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3928,6 +4069,19 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Mouse</name>
+            <prop>
+                <colors>W</colors>
+                <cmc>0</cmc>
+                <type>Token Creature — Mouse</type>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/eld/en_184efSzNtO.png">ELD</set>
+            <reverse-related count="2">Enchanted Carriage</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Myr</name>
             <prop>
                 <type>Token Artifact Creature — Myr</type>
@@ -4322,11 +4476,15 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/eld/en_tDPQM7Tbuv.png">ELD</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/a/1a85fe9d-ef18-46c4-88b0-cf2e222e30e4.jpg">SHM</set>
             <set picURL="https://img.scryfall.com/cards/large/front/f/1/f1fb8ca6-7351-457a-b2a4-48f57ec3c64a.jpg">GTC</set>
+            <reverse-related count="x">Chittering Witch</reverse-related>
             <reverse-related>Lab Rats</reverse-related>
+            <reverse-related count="2">Mad Ratter</reverse-related>
             <reverse-related count="x">Marrow-Gnawer</reverse-related>
             <reverse-related>Ogre Slumlord</reverse-related>
+            <reverse-related>Piper of the Swarm</reverse-related>
             <reverse-related count="x">Plague of Vermin</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -6215,6 +6373,20 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Wolf   </name>
+            <text>When this creature dies, put a loyalty counter on each Garruk you control.</text>
+            <prop>
+                <colors>BG</colors>
+                <cmc>0</cmc>
+                <type>Token Creature — Wolf</type>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/eld/en_3Tje2bVC1M.png">ELD</set>
+            <reverse-related count="2">Garruk, Cursed Huntsman</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Wolves of the Hunt</name>
             <text>Bands with other creatures named Wolves of the Hunt.</text>
             <prop>
@@ -6807,6 +6979,17 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/d/1/d16429cb-9b00-4411-9ffc-252b38ad0b8c.jpg">M14</set>
             <reverse-related exclude="exclude">Garruk, Caller of Beasts</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Garruk, Cursed Huntsman (Emblem)</name>
+            <text>Creatures you control get +3/+3 and have trample.</text>
+            <prop>
+                <type>Emblem</type>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/eld/en_NnhZRCN1FS.png">ELD</set>
+            <reverse-related exclude="exclude">Garruk, Cursed Huntsman</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -7441,6 +7624,46 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>Thorn of the Black Rose</reverse-related>
             <reverse-related>Throne of the High City</reverse-related>
             <reverse-related>Throne Warden</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>On an Adventure</name>
+            <text>(After an Adventure resolves, you can place the exiled card here. You may cast the creature from exile.)</text>
+            <prop>
+                <type>State</type>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/eld/en_crQ9MSOI2z.png">ELD</set>
+            <reverse-related attach="attach">Animating Faerie // Bring to Life</reverse-related>
+            <reverse-related attach="attach">Ardenvale Tactician // Dizzying Swoop</reverse-related>
+            <reverse-related attach="attach">Beanstalk Giant // Fertile Footsteps</reverse-related>
+            <reverse-related attach="attach">Bonecrusher Giant // Stomp</reverse-related>
+            <reverse-related attach="attach">Brazen Borrower // Petty Theft</reverse-related>
+            <reverse-related attach="attach">Curious Pair // Treats to Share</reverse-related>
+            <reverse-related attach="attach">Embereth Shieldbreaker // Battle Display</reverse-related>
+            <reverse-related attach="attach">Fae of Wishes // Granted</reverse-related>
+            <reverse-related attach="attach">Faerie Guidemother // Gift of the Fae</reverse-related>
+            <reverse-related attach="attach">Flaxen Intruder // Welcome Home</reverse-related>
+            <reverse-related attach="attach">Foulmire Knight // Profane Insight</reverse-related>
+            <reverse-related attach="attach">Garenbrig Carver // Shield's Might</reverse-related>
+            <reverse-related attach="attach">Giant Killer // Chop Down</reverse-related>
+            <reverse-related attach="attach">Hypnotic Sprite // Mesmeric Glare</reverse-related>
+            <reverse-related attach="attach">Lonesome Unicorn // Rider in Need</reverse-related>
+            <reverse-related attach="attach">Lovestruck Beast // Heart's Desire</reverse-related>
+            <reverse-related attach="attach">Merchant of the Vale // Haggle</reverse-related>
+            <reverse-related attach="attach">Merfolk Secretkeeper // Venture Deeper</reverse-related>
+            <reverse-related attach="attach">Murderous Rider // Swift End</reverse-related>
+            <reverse-related attach="attach">Oakhame Ranger // Bring Back</reverse-related>
+            <reverse-related attach="attach">Order of Midnight // Alter Fate</reverse-related>
+            <reverse-related attach="attach">Queen of Ice // Rage of Winter</reverse-related>
+            <reverse-related attach="attach">Realm-Cloaked Giant // Cast Off</reverse-related>
+            <reverse-related attach="attach">Reaper of Night // Harvest Fear</reverse-related>
+            <reverse-related attach="attach">Rimrock Knight // Boulder Rush</reverse-related>
+            <reverse-related attach="attach">Rosethorn Acolyte // Seasonal Ritual</reverse-related>
+            <reverse-related attach="attach">Shepherd of the Flock // Usher to Safety</reverse-related>
+            <reverse-related attach="attach">Silverflame Squire // On Alert</reverse-related>
+            <reverse-related attach="attach">Smitten Swordmaster // Curry Favor</reverse-related>
+            <reverse-related attach="attach">Tuinvale Treefolk // Oaken Boon</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
