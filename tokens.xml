@@ -29,6 +29,7 @@
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Zombie Cat</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -44,6 +45,7 @@
                 <colors>W</colors>
                 <cmc>0</cmc>
                 <type>Token Creature — Cat Soldier</type>
+                <maintype>Creature</maintype>
                 <pt>2/2</pt>
             </prop>
             <set picURL="https://media.wizards.com/2019/m20/en_CG2GSQIUiW.png">M20</set>
@@ -57,6 +59,7 @@
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Angel</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -97,6 +100,7 @@
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Angel</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -111,6 +115,7 @@
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Angel</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -125,6 +130,7 @@
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Angel</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -147,6 +153,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Zombie Angel</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/4</pt>
             </prop>
@@ -162,6 +169,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Zombie Human Cleric</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/3</pt>
             </prop>
@@ -176,6 +184,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Antelope</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/3</pt>
             </prop>
@@ -188,6 +197,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Ape</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -201,6 +211,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <prop>
                 <colors>G</colors>
                 <type>Token Legendary Creature — Elemental</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -215,6 +226,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Assassin</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -231,6 +243,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Assassin</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -246,6 +259,7 @@ Whenever this creature deals damage to a planeswalker, destroy that planeswalker
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Assassin</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -258,6 +272,7 @@ Whenever this creature deals damage to a planeswalker, destroy that planeswalker
             <name>Assembly-Worker </name>
             <prop>
                 <type>Token Artifact Creature — Assembly-Worker</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -272,6 +287,7 @@ Whenever this creature deals damage to a planeswalker, destroy that planeswalker
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Avatar</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -288,6 +304,7 @@ Whenever this creature deals damage to a planeswalker, destroy that planeswalker
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Avatar</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -302,6 +319,7 @@ Whenever this creature deals damage to a planeswalker, destroy that planeswalker
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Zombie Bird Warrior</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/2</pt>
             </prop>
@@ -317,6 +335,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Zombie Bird Warrior</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/3</pt>
             </prop>
@@ -331,6 +350,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Bat</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -351,6 +371,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Bat</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/2</pt>
             </prop>
@@ -364,6 +385,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Bear</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -390,6 +412,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Bear</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -403,6 +426,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Beast</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -447,6 +471,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Beast</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -472,6 +497,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>RGW</colors>
                 <type>Token Creature — Beast</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>8/8</pt>
             </prop>
@@ -485,6 +511,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Beast</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -498,6 +525,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Beast</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
@@ -512,6 +540,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Beast</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
@@ -526,6 +555,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Beast</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -538,6 +568,7 @@ Creature tokens you control have flying and vigilance.</text>
             <name>Beast       </name>
             <prop>
                 <type>Token Artifact Creature — Beast</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>6/6</pt>
             </prop>
@@ -551,6 +582,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Beast</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/2</pt>
             </prop>
@@ -565,6 +597,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>RG</colors>
                 <type>Token Creature — Beast</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -581,6 +614,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>WU</colors>
                 <type>Token Creature — Bird</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -596,6 +630,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Bird</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -623,6 +658,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Bird</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -639,6 +675,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Bird</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -655,6 +692,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Bird</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -670,6 +708,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>U</colors>
                 <type>Token Enchantment Creature — Bird</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -685,6 +724,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Bird</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -699,6 +739,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Bird</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/4</pt>
             </prop>
@@ -714,6 +755,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Bird Illusion</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -728,6 +770,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Bird Soldier</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -741,6 +784,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Boar</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -754,6 +798,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Boar</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -769,6 +814,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <colors>G</colors>
                 <cmc>0</cmc>
                 <type>Token Creature — Boar</type>
+                <maintype>Creature</maintype>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://media.wizards.com/2019/eld/en_Q6649AYZtV.png">ELD</set>
@@ -783,6 +829,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Insect</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -796,6 +843,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Camarid</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -809,6 +857,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Caribou</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
@@ -822,6 +871,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Beast</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/1</pt>
             </prop>
@@ -835,6 +885,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Cat</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -857,6 +908,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Cat</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/1</pt>
             </prop>
@@ -870,6 +922,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Cat</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -884,6 +937,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Cat</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -902,6 +956,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>BRG</colors>
                 <type>Token Creature — Cat Dragon</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -916,6 +971,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Cat Soldier</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -931,6 +987,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Cat Warrior</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -947,6 +1004,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Centaur</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -971,6 +1029,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Centaur</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -984,6 +1043,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Enchantment Creature — Centaur</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -999,6 +1059,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Zombie Naga Wizard</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -1012,6 +1073,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Citizen</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -1027,6 +1089,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>WUBRG</colors>
                 <type>Token Creature — Citizen</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -1041,6 +1104,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>WB</colors>
                 <type>Token Creature — Cleric</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -1054,6 +1118,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Enchantment Creature — Cleric</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/1</pt>
             </prop>
@@ -1067,6 +1132,7 @@ Creature tokens you control have flying and vigilance.</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Cleric</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
@@ -1082,6 +1148,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Faerie</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -1095,6 +1162,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <text>{2}, Sacrifice this artifact: Draw a card.</text>
             <prop>
                 <type>Token Artifact — Clue</type>
+                <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
             <set picURL="https://media.wizards.com/2018/c18/en_1LubZ0qmyk.png">C18</set>
@@ -1137,6 +1205,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <text>Trample</text>
             <prop>
                 <type>Token Artifact Creature — Construct</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>6/12</pt>
             </prop>
@@ -1152,6 +1221,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <text>Defender</text>
             <prop>
                 <type>Token Artifact Creature — Construct</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -1167,6 +1237,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <name>Construct  </name>
             <prop>
                 <type>Token Artifact Creature — Construct</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -1183,6 +1254,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <text>This creature gets +1/+1 for each artifact you control.</text>
             <prop>
                 <type>Token Artifact Creature — Construct</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/0</pt>
             </prop>
@@ -1197,6 +1269,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <name>Construct    </name>
             <prop>
                 <type>Token Artifact Creature — Construct</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -1211,6 +1284,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Demon</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
@@ -1233,6 +1307,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Demon</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -1252,6 +1327,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Demon</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>6/6</pt>
             </prop>
@@ -1265,6 +1341,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Deserter</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
@@ -1279,6 +1356,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Devil</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -1297,6 +1375,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Dinosaur</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -1315,6 +1394,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <text>Flying</text>
             <prop>
                 <type>Token Artifact Creature — Djinn</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
@@ -1329,6 +1409,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Djinn Monk</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -1344,6 +1425,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Dragon</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
@@ -1376,6 +1458,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Dragon</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -1400,6 +1483,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <prop>
                 <colors>RG</colors>
                 <type>Token Creature — Dragon</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -1414,6 +1498,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Dragon</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>6/6</pt>
             </prop>
@@ -1430,6 +1515,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Dragon</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -1450,6 +1536,7 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Dragon Egg</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/2</pt>
             </prop>
@@ -1465,6 +1552,7 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Dragon Spirit</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
@@ -1479,6 +1567,7 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Drake</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -1498,6 +1587,7 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
             <prop>
                 <colors>GU</colors>
                 <type>Token Creature — Drake</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -1513,6 +1603,7 @@ Whenever Dreamstealer deals combat damage to a player, that player discards that
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Zombie Human Wizard</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -1527,6 +1618,7 @@ Whenever Dreamstealer deals combat damage to a player, that player discards that
                 <colors>R</colors>
                 <cmc>0</cmc>
                 <type>Token Creature — Dwarf</type>
+                <maintype>Creature</maintype>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://media.wizards.com/2019/eld/en_MTBE2eZjU3.png">ELD</set>
@@ -1541,6 +1633,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Zombie Jackal Warrior</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -1556,6 +1649,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <colors>G</colors>
                 <cmc>0</cmc>
                 <type>Token Creature — Egg</type>
+                <maintype>Creature</maintype>
                 <pt>0/1</pt>
             </prop>
             <set picURL="https://media.wizards.com/2019/c19/en_kYqslBP44v.png">C19</set>
@@ -1567,6 +1661,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <name>Eldrazi</name>
             <prop>
                 <type>Token Creature — Eldrazi</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>10/10</pt>
             </prop>
@@ -1582,6 +1677,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <text>Annihilator 1</text>
             <prop>
                 <type>Token Creature — Eldrazi</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>7/7</pt>
             </prop>
@@ -1594,6 +1690,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <name>Eldrazi Horror</name>
             <prop>
                 <type>Token Creature — Eldrazi Horror</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/2</pt>
             </prop>
@@ -1616,6 +1713,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <text>Sacrifice this creature: Add {C}.</text>
             <prop>
                 <type>Token Creature — Eldrazi Scion</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -1658,6 +1756,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <text>Sacrifice this creature: Add {C}.</text>
             <prop>
                 <type>Token Creature — Eldrazi Spawn</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
@@ -1690,6 +1789,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -1717,6 +1817,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/1</pt>
             </prop>
@@ -1735,6 +1836,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -1749,6 +1851,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>7/1</pt>
             </prop>
@@ -1763,6 +1866,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -1776,6 +1880,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -1791,6 +1896,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -1808,6 +1914,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>7/7</pt>
             </prop>
@@ -1822,6 +1929,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -1837,6 +1945,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -1850,6 +1959,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>BR</colors>
                 <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
@@ -1864,6 +1974,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>UR</colors>
                 <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
@@ -1880,6 +1991,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>GW</colors>
                 <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>8/8</pt>
             </prop>
@@ -1894,6 +2006,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>GW</colors>
                 <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -1909,6 +2022,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/0</pt>
             </prop>
@@ -1922,6 +2036,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>R</colors>
                 <type>Token Enchantment Creature — Elemental</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/1</pt>
             </prop>
@@ -1935,6 +2050,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>5/3</pt>
             </prop>
@@ -1948,6 +2064,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -1962,6 +2079,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/1</pt>
             </prop>
@@ -1979,6 +2097,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>RG</colors>
                 <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
@@ -1992,6 +2111,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -2006,6 +2126,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
@@ -2021,6 +2142,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <colors>U</colors>
                 <cmc>0</cmc>
                 <type>Token Creature — Elemental Bird</type>
+                <maintype>Creature</maintype>
                 <pt>4/4</pt>
             </prop>
             <set picURL="https://media.wizards.com/2019/m20/en_cokR4rnrAl.png">M20</set>
@@ -2033,6 +2155,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Elemental Cat</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -2046,6 +2169,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Elemental Shaman</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/1</pt>
             </prop>
@@ -2063,6 +2187,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Elephant</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -2098,6 +2223,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Elf Druid</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -2112,6 +2238,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>GW</colors>
                 <type>Token Creature — Elf Knight</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -2128,6 +2255,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Elf Warrior</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -2161,6 +2289,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>GW</colors>
                 <type>Token Creature — Elf Warrior</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -2175,6 +2304,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
             <prop>
                 <type>Token Artifact</type>
+                <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/9/6/9616ca53-ea6a-4fc1-8e01-94e0fb47e5ed.jpg">AER</set>
@@ -2188,6 +2318,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Faerie</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -2207,6 +2338,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Faerie Rogue</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -2224,6 +2356,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>UB</colors>
                 <type>Token Creature — Faerie Rogue</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -2239,6 +2372,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Zombie Goblin</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -2253,6 +2387,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Fish</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -2269,6 +2404,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <cmc>0</cmc>
                 <type>Token Artifact — Food</type>
+                <maintype>Artifact</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2019/eld/en_Il49X0ZN05.png">ELD</set>
             <set picURL="https://media.wizards.com/2019/eld/en_8MSslzedLY.png">ELD</set>
@@ -2302,6 +2438,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Frog Lizard</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -2318,6 +2455,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <text>Flying</text>
             <prop>
                 <type>Token Artifact Creature — Gargoyle</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/4</pt>
             </prop>
@@ -2333,6 +2471,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Germ</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/0</pt>
             </prop>
@@ -2360,6 +2499,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Giant</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -2374,6 +2514,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <colors>G</colors>
                 <cmc>0</cmc>
                 <type>Token Creature — Giant</type>
+                <maintype>Creature</maintype>
                 <pt>7/7</pt>
             </prop>
             <set picURL="https://media.wizards.com/2019/eld/en_NlxwADf25B.png">ELD</set>
@@ -2386,6 +2527,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Giant Warrior</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
@@ -2401,6 +2543,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <prop>
                 <colors>RG</colors>
                 <type>Token Creature — Giant Warrior</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -2417,6 +2560,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Zombie Sphinx</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>5/3</pt>
             </prop>
@@ -2429,6 +2573,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <name>Gnome</name>
             <prop>
                 <type>Token Artifact Creature — Gnome</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -2446,6 +2591,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Goat</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
@@ -2469,6 +2615,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Goblin</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -2543,6 +2690,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Goblin</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -2557,6 +2705,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Goblin</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/1</pt>
             </prop>
@@ -2571,6 +2720,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Goblin</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -2584,6 +2734,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Goblin Rogue</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -2602,6 +2753,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Goblin Scout</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -2615,6 +2767,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>RW</colors>
                 <type>Token Creature — Goblin Soldier</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -2631,6 +2784,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>RG</colors>
                 <type>Token Creature — Goblin Warrior</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -2645,6 +2799,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <text>Sacrifice this artifact: Add one mana of any color.</text>
             <prop>
                 <type>Token Artifact</type>
+                <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/9/b/9b180a33-65ef-43b3-b969-f603b1fc23fb.jpg">C17</set>
@@ -2662,6 +2817,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Kithkin Soldier</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -2674,6 +2830,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <name>Golem</name>
             <prop>
                 <type>Token Artifact Creature — Golem</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -2702,6 +2859,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <name>Golem </name>
             <prop>
                 <type>Token Artifact Creature — Golem</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>9/9</pt>
             </prop>
@@ -2714,6 +2872,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <name>Golem  </name>
             <prop>
                 <type>Token Artifact Creature — Golem</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/6</pt>
             </prop>
@@ -2726,6 +2885,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <name>Golem   </name>
             <prop>
                 <type>Token Artifact Creature — Golem</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -2738,6 +2898,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <name>Golem    </name>
             <prop>
                 <type>Token Enchantment Artifact Creature — Golem</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -2752,6 +2913,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>BR</colors>
                 <type>Token Creature — Graveborn</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/1</pt>
             </prop>
@@ -2766,6 +2928,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Gremlin</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -2781,6 +2944,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Griffin</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -2796,6 +2960,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Harpy</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -2810,6 +2975,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Zombie Manticore</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/3</pt>
             </prop>
@@ -2824,6 +2990,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Hellion</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -2839,6 +3006,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Hippo</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -2853,6 +3021,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Hippo</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -2866,6 +3035,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Homunculus</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -2880,6 +3050,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>U</colors>
                 <type>Token Artifact Creature — Homunculus</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
@@ -2894,6 +3065,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Zombie Snake Hydra</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>6/6</pt>
             </prop>
@@ -2907,6 +3079,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <text>Flying, haste</text>
             <prop>
                 <type>Token Artifact Creature — Insect</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -2919,6 +3092,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <name>Horror</name>
             <prop>
                 <type>Token Artifact Creature — Horror</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -2936,6 +3110,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>UB</colors>
                 <type>Token Creature — Horror</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -2949,6 +3124,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Horror</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -2962,6 +3138,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Horror</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -2976,6 +3153,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Horror</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -2991,6 +3169,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Horse</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
@@ -3004,6 +3183,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Hound</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -3017,6 +3197,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Human</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -3050,6 +3231,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Human</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -3065,6 +3247,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <prop>
                 <colors>WB</colors>
                 <type>Token Creature — Human Cleric</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -3081,6 +3264,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <colors>RW</colors>
                 <cmc>0</cmc>
                 <type>Token Creature — Human Cleric</type>
+                <maintype>Creature</maintype>
                 <pt>2/1</pt>
             </prop>
             <set picURL="https://media.wizards.com/2019/eld/en_VnC5zkyexJ.png">ELD</set>
@@ -3096,6 +3280,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <colors>RW</colors>
                 <cmc>0</cmc>
                 <type>Token Creature — Human Rogue</type>
+                <maintype>Creature</maintype>
                 <pt>1/2</pt>
             </prop>
             <set picURL="https://media.wizards.com/2019/eld/en_d2nMcuoD13.png">ELD</set>
@@ -3108,6 +3293,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Human Soldier</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -3126,6 +3312,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <colors>RW</colors>
                 <cmc>0</cmc>
                 <type>Token Creature — Human Warrior</type>
+                <maintype>Creature</maintype>
                 <pt>3/1</pt>
             </prop>
             <set picURL="https://media.wizards.com/2019/eld/en_rUJrVey9SW.png">ELD</set>
@@ -3138,6 +3325,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Human Wizard</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -3152,6 +3340,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Hydra</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -3165,6 +3354,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Illusion</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -3179,6 +3369,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Illusion</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -3195,6 +3386,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Illusion</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -3209,6 +3401,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Illusion</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/2</pt>
             </prop>
@@ -3223,6 +3416,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Insect</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -3239,6 +3433,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Insect</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -3253,6 +3448,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Insect</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -3286,6 +3482,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Insect</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>6/1</pt>
             </prop>
@@ -3299,6 +3496,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Insect</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
@@ -3312,6 +3510,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Insect</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -3326,6 +3525,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>UR</colors>
                 <type>Token Creature — Insect</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -3339,6 +3539,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>BG</colors>
                 <type>Token Creature — Insect</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -3351,6 +3552,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <name>Kaldra</name>
             <prop>
                 <type>Token Legendary Creature — Avatar</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -3365,6 +3567,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>R</colors>
                 <type>Token Legendary Creature — Dragon</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -3378,6 +3581,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Kavu</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -3392,6 +3596,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Plant Wall</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
@@ -3405,6 +3610,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Kithkin Soldier</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -3428,6 +3634,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Knight</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -3465,6 +3672,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Knight</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -3478,6 +3686,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Knight</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -3492,6 +3701,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Knight</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -3506,6 +3716,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Knight</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -3519,6 +3730,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Knight Ally</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -3533,6 +3745,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Kobold</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
@@ -3547,6 +3760,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Kor Ally</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -3563,6 +3777,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Kor Soldier</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -3580,6 +3795,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Kraken</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>9/9</pt>
             </prop>
@@ -3596,6 +3812,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Zombie Illusion Warrior</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/3</pt>
             </prop>
@@ -3609,6 +3826,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <text>{R}, Sacrifice this artifact: This artifact deals 2 damage to target attacking creature without flying.</text>
             <prop>
                 <type>Token Artifact</type>
+                <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
             <set picURL="https://media.wizards.com/images/magic/daily/arcana/0012_MTGM15_TOK_EN%20copy.png">M15</set>
@@ -3623,6 +3841,7 @@ At the beginning of the end step, sacrifice this creature.</text>
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>5/1</pt>
             </prop>
@@ -3636,6 +3855,7 @@ At the beginning of the end step, sacrifice this creature.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Lizard</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -3649,6 +3869,7 @@ At the beginning of the end step, sacrifice this creature.</text>
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Lizard</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>8/8</pt>
             </prop>
@@ -3663,6 +3884,7 @@ At the beginning of the end step, sacrifice this creature.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Elf Druid</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -3677,6 +3899,7 @@ At the beginning of the end step, sacrifice this creature.</text>
 A manifested creature card can be turned face up any time for its mana cost. A face-down card can also be turned face up for its morph cost.)</text>
             <prop>
                 <type>Creature</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -3711,6 +3934,7 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <prop>
                 <colors>B</colors>
                 <type>Token Legendary Creature — Avatar</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>20/20</pt>
             </prop>
@@ -3728,6 +3952,7 @@ Totem armor</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Enchantment — Aura</type>
+                <maintype>Enchantment</maintype>
                 <cmc>0</cmc>
             </prop>
             <set picURL="https://media.wizards.com/2018/c18/en_av97DvZi26.png">C18</set>
@@ -3740,6 +3965,7 @@ Totem armor</text>
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Merfolk</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -3754,6 +3980,7 @@ Totem armor</text>
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Merfolk</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -3769,6 +3996,7 @@ Totem armor</text>
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Merfolk Wizard</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -3783,6 +4011,7 @@ Totem armor</text>
             <name>Metallic Sliver (Token)</name>
             <prop>
                 <type>Token Artifact Creature — Sliver</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -3796,6 +4025,7 @@ Totem armor</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Minion</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -3809,6 +4039,7 @@ Totem armor</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Minion</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -3822,6 +4053,7 @@ Totem armor</text>
             <prop>
                 <colors>BR</colors>
                 <type>Token Creature — Demon</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -3835,6 +4067,7 @@ Totem armor</text>
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Minotaur</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/3</pt>
             </prop>
@@ -3849,6 +4082,7 @@ Totem armor</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Monk</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -3862,6 +4096,7 @@ Totem armor</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Monkey</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -3876,6 +4111,7 @@ Totem armor</text>
 A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <type>Creature</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -4074,6 +4310,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <colors>W</colors>
                 <cmc>0</cmc>
                 <type>Token Creature — Mouse</type>
+                <maintype>Creature</maintype>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://media.wizards.com/2019/eld/en_184efSzNtO.png">ELD</set>
@@ -4085,6 +4322,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <name>Myr</name>
             <prop>
                 <type>Token Artifact Creature — Myr</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -4117,6 +4355,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>U</colors>
                 <type>Token Artifact Creature — Myr</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/1</pt>
             </prop>
@@ -4130,6 +4369,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Nightmare Horror</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -4143,6 +4383,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Octopus</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>8/8</pt>
             </prop>
@@ -4157,6 +4398,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Ogre</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -4171,6 +4413,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Ogre</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -4185,6 +4428,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Zombie Bird Soldier</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -4198,6 +4442,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Ooze</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -4220,6 +4465,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Ooze</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -4234,6 +4480,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Ooze</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -4248,6 +4495,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Ooze</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -4260,6 +4508,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Ooze</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -4273,6 +4522,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Ooze</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -4287,6 +4537,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Orb</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -4300,6 +4551,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Ox</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/4</pt>
             </prop>
@@ -4314,6 +4566,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Pegasus</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -4331,6 +4584,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <text>Flying</text>
             <prop>
                 <type>Token Artifact Creature — Pentavite</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -4345,6 +4599,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <name>Pest</name>
             <prop>
                 <type>Token Artifact Creature — Pest</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
@@ -4357,6 +4612,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <name>Pincher</name>
             <prop>
                 <type>Token Creature — Pincher</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -4371,6 +4627,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Pirate</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -4385,6 +4642,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Plant</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
@@ -4405,6 +4663,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Plant</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -4421,6 +4680,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Plant</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/2</pt>
             </prop>
@@ -4433,6 +4693,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <name>Prism</name>
             <prop>
                 <type>Token Artifact Creature — Prism</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
@@ -4446,6 +4707,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Zombie Human Warrior</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -4461,6 +4723,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <colors>R</colors>
                 <cmc>0</cmc>
                 <type>Token Legendary Creature — Monkey</type>
+                <maintype>Creature</maintype>
                 <pt>2/1</pt>
             </prop>
             <tablerow>2</tablerow>
@@ -4473,6 +4736,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Rat</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -4495,6 +4759,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Rat</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -4508,6 +4773,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Reflection</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -4521,6 +4787,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Reflection</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -4535,6 +4802,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Zombie Jackal Wizard</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -4549,6 +4817,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Rhino</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -4568,6 +4837,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Zombie Cat</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -4580,6 +4850,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <name>Sand</name>
             <prop>
                 <type>Token Creature — Sand</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -4593,6 +4864,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>RGW</colors>
                 <type>Token Creature — Sand Warrior</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -4606,6 +4878,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Saproling</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -4715,6 +4988,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Saproling</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -4728,6 +5002,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>RG</colors>
                 <type>Token Creature — Satyr</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -4743,6 +5018,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <cmc>0</cmc>
                 <type>Token Artifact Creature — Sculpture</type>
+                <maintype>Creature</maintype>
                 <pt>*/*</pt>
             </prop>
             <set picURL="https://media.wizards.com/2019/c19/en_7C4Zg4rUqc.png">C19</set>
@@ -4755,6 +5031,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Serf</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
@@ -4767,6 +5044,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <name>Servo</name>
             <prop>
                 <type>Token Artifact Creature — Servo</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -4816,6 +5094,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <text>Changeling</text>
             <prop>
                 <type>Token Creature — Shapeshifter</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -4832,6 +5111,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <cmc>0</cmc>
                 <type>Token Creature — Shapeshifter</type>
+                <maintype>Creature</maintype>
                 <pt>2/2</pt>
             </prop>
             <set picURL="https://media.wizards.com/2019/mh1/en_tM8ljjBCro.png">MH1</set>
@@ -4845,6 +5125,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Sheep</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
@@ -4859,6 +5140,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Zombie Naga Warrior</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -4873,6 +5155,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Skeleton</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -4887,6 +5170,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <name>Sliver</name>
             <prop>
                 <type>Token Creature — Sliver</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -4905,6 +5189,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Snake</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -4932,6 +5217,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <text>Whenever this creature deals damage to a player, that player gets a poison counter.</text>
             <prop>
                 <type>Token Artifact Creature — Snake</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -4945,6 +5231,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>GU</colors>
                 <type>Token Creature — Snake</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -4959,6 +5246,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>BG</colors>
                 <type>Token Enchantment Creature — Snake</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -4973,6 +5261,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Snake</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -4987,6 +5276,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Snake</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -5000,6 +5290,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Snake</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>5/4</pt>
             </prop>
@@ -5013,6 +5304,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Soldier</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -5093,6 +5385,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>RW</colors>
                 <type>Token Creature — Soldier</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -5110,6 +5403,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Soldier</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/2</pt>
             </prop>
@@ -5124,6 +5418,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Soldier</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -5144,6 +5439,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Soldier</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -5157,6 +5453,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Enchantment Creature — Soldier</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -5171,6 +5468,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Soldier</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -5184,6 +5482,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Soldier Ally</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -5199,6 +5498,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/1</pt>
             </prop>
@@ -5211,6 +5511,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <name>Spawn</name>
             <prop>
                 <type>Token Artifact Creature — Spawn</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -5225,6 +5526,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Sphinx</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -5239,6 +5541,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <prop>
                 <colors>WU</colors>
                 <type>Token Creature — Sphinx</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -5253,6 +5556,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Spider</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/2</pt>
             </prop>
@@ -5276,6 +5580,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Spider</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/4</pt>
             </prop>
@@ -5291,6 +5596,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Enchantment Creature — Spider</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/3</pt>
             </prop>
@@ -5304,6 +5610,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Spike</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -5318,6 +5625,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Spirit</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -5397,6 +5705,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Spirit</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -5411,6 +5720,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <prop>
                 <colors>WB</colors>
                 <type>Token Creature — Spirit</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -5440,6 +5750,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <name>Spirit   </name>
             <prop>
                 <type>Token Creature — Spirit</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -5463,6 +5774,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Spirit</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -5477,6 +5789,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Spirit</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -5491,6 +5804,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <prop>
                 <colors>WB</colors>
                 <type>Token Enchantment Creature — Spirit</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -5503,6 +5817,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <name>Spirit       </name>
             <prop>
                 <type>Token Creature — Spirit</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -5516,6 +5831,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <prop>
                 <colors>BG</colors>
                 <type>Token Creature — Spirit Warrior</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -5531,6 +5847,7 @@ Cumulative upkeep {G}</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Splinter</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -5545,6 +5862,7 @@ Cumulative upkeep {G}</text>
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Squid</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -5560,6 +5878,7 @@ Cumulative upkeep {G}</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Squirrel</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -5588,6 +5907,7 @@ Cumulative upkeep {G}</text>
             <prop>
                 <colors>RG</colors>
                 <type>Token Legendary Creature — Human Warrior</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/4</pt>
             </prop>
@@ -5601,6 +5921,7 @@ Cumulative upkeep {G}</text>
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Starfish</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
@@ -5615,6 +5936,7 @@ Cumulative upkeep {G}</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Zombie Human Cleric</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -5630,6 +5952,7 @@ Equipped creature gets +5/+5 and has double strike.
 Equip {0}</text>
             <prop>
                 <type>Token Artifact — Equipment</type>
+                <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/5/9/59a00cac-53ae-46ad-8468-e6d1db40b266.jpg">C14</set>
@@ -5643,6 +5966,7 @@ Equip {0}</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Zombie Human Wizard</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -5656,6 +5980,7 @@ Equip {0}</text>
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Survivor</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -5670,6 +5995,7 @@ Equip {0}</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Zombie Naga Warrior</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/1</pt>
             </prop>
@@ -5684,6 +6010,7 @@ Equip {0}</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Legendary Creature — Zombie Human Cleric</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -5698,6 +6025,7 @@ Equip {0}</text>
 This creature can't be enchanted.</text>
             <prop>
                 <type>Token Artifact Creature — Tetravite</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -5711,6 +6039,7 @@ This creature can't be enchanted.</text>
             <text>Flying</text>
             <prop>
                 <type>Token Artifact Creature — Thopter</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -5757,6 +6086,7 @@ This creature can't be enchanted.</text>
             <prop>
                 <colors>U</colors>
                 <type>Token Artifact Creature — Thopter</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -5775,6 +6105,7 @@ This creature can't be enchanted.</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Thrull</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
@@ -5788,6 +6119,7 @@ This creature can't be enchanted.</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Thrull</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -5802,6 +6134,7 @@ This creature can't be enchanted.</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Zombie</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -5815,6 +6148,7 @@ This creature can't be enchanted.</text>
             <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
             <prop>
                 <type>Token Artifact — Treasure</type>
+                <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
             <set picURL="https://media.wizards.com/2019/c19/en_sNEBzx6V2p.png">C19</set>
@@ -5860,6 +6194,7 @@ This creature can't be enchanted.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Treefolk</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -5873,6 +6208,7 @@ This creature can't be enchanted.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Treefolk Shaman</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/5</pt>
             </prop>
@@ -5888,6 +6224,7 @@ This creature can't be enchanted.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Treefolk Warrior</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -5902,6 +6239,7 @@ This creature can't be enchanted.</text>
 Sacrifice this creature: This creature deals 1 damage to target creature or player.</text>
             <prop>
                 <type>Token Artifact Creature — Triskelavite</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -5916,6 +6254,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Zombie Human Warrior</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -5928,6 +6267,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <name>Tuktuk The Returned</name>
             <prop>
                 <type>Token Legendary Artifact Creature — Goblin Golem</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
@@ -5941,6 +6281,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <name>Twin</name>
             <prop>
                 <type>Token Artifact Creature — Construct</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -5955,6 +6296,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Zombie Human Warrior</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/2</pt>
             </prop>
@@ -5969,6 +6311,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>B</colors>
                 <type>Token Legendary Creature — Demon Spirit</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
@@ -5983,6 +6326,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Vampire</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -6001,6 +6345,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Vampire</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -6014,6 +6359,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Vampire</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -6027,6 +6373,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Vampire</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -6041,6 +6388,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Vampire</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -6063,6 +6411,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Vampire Knight</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -6078,6 +6427,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Zombie Shapeshifter Cleric</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/0</pt>
             </prop>
@@ -6091,6 +6441,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>GW</colors>
                 <type>Token Legendary Creature — Wolf</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -6104,6 +6455,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>GW</colors>
                 <type>Token Legendary Creature — Wolf</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -6117,6 +6469,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Defender</text>
             <prop>
                 <type>Token Artifact Creature — Wall</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/2</pt>
             </prop>
@@ -6131,6 +6484,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Wall</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
@@ -6145,6 +6499,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Wall</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/3</pt>
             </prop>
@@ -6158,6 +6513,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Flying</text>
             <prop>
                 <type>Token Artifact Creature — Insect</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -6171,6 +6527,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Warrior</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -6184,6 +6541,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Warrior</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -6206,6 +6564,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Warrior</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/1</pt>
             </prop>
@@ -6220,6 +6579,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Warrior</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -6239,6 +6599,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Weird</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -6253,6 +6614,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Whale</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>6/6</pt>
             </prop>
@@ -6267,6 +6629,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Flying</text>
             <prop>
                 <type>Token Artifact Creature — Insect</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -6280,6 +6643,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Wizard</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -6293,6 +6657,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Wolf</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -6350,6 +6715,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Wolf</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -6364,6 +6730,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Wolf</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -6379,6 +6746,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <colors>BG</colors>
                 <cmc>0</cmc>
                 <type>Token Creature — Wolf</type>
+                <maintype>Creature</maintype>
                 <pt>2/2</pt>
             </prop>
             <set picURL="https://media.wizards.com/2019/eld/en_3Tje2bVC1M.png">ELD</set>
@@ -6392,6 +6760,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Wolf</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -6406,6 +6775,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Wall</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
@@ -6419,6 +6789,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>BG</colors>
                 <type>Token Creature — Worm</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -6437,6 +6808,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Wurm</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>6/6</pt>
             </prop>
@@ -6457,6 +6829,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Lifelink</text>
             <prop>
                 <type>Token Artifact Creature — Wurm</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -6471,6 +6844,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Deathtouch</text>
             <prop>
                 <type>Token Artifact Creature — Wurm</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
@@ -6486,6 +6860,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Wurm</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>6/6</pt>
             </prop>
@@ -6500,6 +6875,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Wurm</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
@@ -6516,6 +6892,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Wurm</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -6530,6 +6907,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Wurm</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
@@ -6543,6 +6921,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Zombie</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -6673,6 +7052,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>B</colors>
                 <type>Token Enchantment Creature — Zombie</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -6686,6 +7066,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Zombie</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -6700,6 +7081,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Zombie</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -6713,6 +7095,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Zombie Army</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/0</pt>
             </prop>
@@ -6749,6 +7132,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Zombie Giant</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
@@ -6762,6 +7146,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Zombie Horror</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
@@ -6776,6 +7161,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Zombie Knight</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
@@ -6790,6 +7176,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Zombie Warrior</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
@@ -6803,6 +7190,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <prop>
                 <colors>UB</colors>
                 <type>Token Creature — Zombie Wizard</type>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -6816,6 +7204,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>If a source would deal damage to you or a planeswalker you control, prevent all but 1 of that damage.</text>
             <prop>
                 <type>Emblem — Ajani</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/images/magic/daily/arcana/0013_MTGM15_TOK_EN%20copy.png">M15</set>
             <reverse-related exclude="exclude">Ajani Steadfast</reverse-related>
@@ -6827,6 +7216,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>At the beginning of your end step, create three 1/1 white Cat creature tokens with lifelink.</text>
             <prop>
                 <type>Emblem — Ajani</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/1/c/1c97e5b2-a024-4aa7-a9b8-45f441aad138.jpg">M19</set>
             <reverse-related>Ajani, Adversary of Tyrants</reverse-related>
@@ -6839,6 +7229,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Creatures you control have haste and "{T}: This creature deals damage equal to its power to target creature or player."</text>
             <prop>
                 <type>Emblem — Arlinn</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_JJ0x2nMAKz.png">SOI</set>
             <reverse-related exclude="exclude">Arlinn Kord</reverse-related>
@@ -6851,6 +7242,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>At the beginning of your upkeep, this emblem deals 1 damage to you.</text>
             <prop>
                 <type>Emblem</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2019/m20/en_aGRMLZsIL8.png">M20</set>
             <reverse-related>Chandra, Awakened Inferno</reverse-related>
@@ -6862,6 +7254,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>At the beginning of your upkeep, this emblem deals 3 damage to you.</text>
             <prop>
                 <type>Emblem — Chandra</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/4/a/4a8123a6-7e7b-49fb-9ebc-19d8150852e8.jpg">ORI</set>
             <reverse-related exclude="exclude">Chandra, Roaring Flame</reverse-related>
@@ -6873,6 +7266,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Whenever you cast a spell, this emblem deals 5 damage to target creature or player.</text>
             <prop>
                 <type>Emblem — Chandra</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2016/bVvMNuiu2i_KLD/en_hPjChGGcMo.png">KLD</set>
             <reverse-related exclude="exclude">Chandra, Torch of Defiance</reverse-related>
@@ -6884,6 +7278,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Whenever you cast a spell that targets one or more permanents, gain control of those permanents.</text>
             <prop>
                 <type>Emblem — Dack</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2016/adhfianalodifdj2_EMA/en_KZQONbOfjg.png">EMA</set>
             <set picURL="https://img.scryfall.com/cards/large/front/f/4/f4e0b8d9-4e22-409d-acf1-05afaaac33df.jpg">CNS</set>
@@ -6896,6 +7291,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Whenever an artifact is put into your graveyard from the battlefield, return that card to the battlefield at the beginning of the next end step.</text>
             <prop>
                 <type>Emblem — Daretti</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/no0YB9HlIT_EN.png">C16</set>
             <set picURL="https://img.scryfall.com/cards/large/front/4/3/43a3cfba-50f5-4d8c-96dd-3c4a70cb36ee.jpg">C14</set>
@@ -6908,6 +7304,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Creatures you control have double strike, trample, hexproof, and haste.</text>
             <prop>
                 <type>Emblem — Domri</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2017/b9jm8nwv_mm3/en_5qdqzZr9eA.png">MM3</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/6/1612f546-1bdb-4861-966c-4eeb7d1e65e8.jpg">GTC</set>
@@ -6920,6 +7317,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>At the beginning of each end step, create a 4/4 red and green Beast creature token with trample.</text>
             <prop>
                 <type>Emblem — Domri</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2018/rna/en_FdzLIC4pdx.png">RNA</set>
             <reverse-related>Domri, Chaos Bringer</reverse-related>
@@ -6931,6 +7329,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Your opponents can't untap more than two permanents during their untap steps.</text>
             <prop>
                 <type>Emblem — Dovin</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2016/bVvMNuiu2i_KLD/en_TndzDeN0rh.png">KLD</set>
             <reverse-related exclude="exclude">Dovin Baan</reverse-related>
@@ -6942,6 +7341,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Artifacts, creatures, enchantments, and lands you control have indestructible.</text>
             <prop>
                 <type>Emblem — Elspeth</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/8/3/8360fc12-57c0-4701-8e19-0878ed5abb4f.jpg">MD1</set>
             <set picURL="https://img.scryfall.com/cards/large/front/0/1/014c0557-11b8-49da-8486-0dd14b919338.jpg">MMA</set>
@@ -6954,6 +7354,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Creatures you control get +2/+2 and have flying.</text>
             <prop>
                 <type>Emblem — Elspeth</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/1/7/177c37bd-c53d-43b2-88c4-0b80d17a5744.jpg">THS</set>
             <reverse-related exclude="exclude">Elspeth, Sun's Champion</reverse-related>
@@ -6965,6 +7366,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Whenever a creature attacks you, it gets +5/+5 and gains trample until end of turn.</text>
             <prop>
                 <type>Emblem — Garruk</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/images/magic/daily/arcana/0014_MTGM15_TOK_EN%20copy.png">M15</set>
             <reverse-related exclude="exclude">Garruk, Apex Predator</reverse-related>
@@ -6976,6 +7378,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle your library.</text>
             <prop>
                 <type>Emblem — Garruk</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/d/1/d16429cb-9b00-4411-9ffc-252b38ad0b8c.jpg">M14</set>
             <reverse-related exclude="exclude">Garruk, Caller of Beasts</reverse-related>
@@ -6987,6 +7390,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Creatures you control get +3/+3 and have trample.</text>
             <prop>
                 <type>Emblem</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2019/eld/en_NnhZRCN1FS.png">ELD</set>
             <reverse-related exclude="exclude">Garruk, Cursed Huntsman</reverse-related>
@@ -6998,6 +7402,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>As long as you control a Gideon planeswalker, you can't lose the game and your opponents can't win the game.</text>
             <prop>
                 <type>Emblem — Gideon</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/c/b/cbebd89c-0b29-44c7-bc99-53dd4b836520.jpg">AKH</set>
             <reverse-related exclude="exclude">Gideon of the Trials</reverse-related>
@@ -7009,6 +7414,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Creatures you control get +1/+1.</text>
             <prop>
                 <type>Emblem — Gideon</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/c/d/cd8be597-f402-4fb0-9135-897c4a0946f6.jpg">BFZ</set>
             <reverse-related exclude="exclude">Gideon, Ally of Zendikar</reverse-related>
@@ -7020,6 +7426,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Whenever a creature enters the battlefield under your control, you may draw a card.</text>
             <prop>
                 <type>Emblem — Huatli</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2017/rix/en_eLQMf4RB6k.png">RIX</set>
             <reverse-related>Huatli, Radiant Champion</reverse-related>
@@ -7031,6 +7438,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Whenever you cast a spell, target opponent puts the top five cards of his or her library into his or her graveyard.</text>
             <prop>
                 <type>Emblem — Jace</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/4/5/458e37b1-a849-41ae-b63c-3e09ffd814e4.jpg">ORI</set>
             <reverse-related exclude="exclude">Jace, Telepath Unbound</reverse-related>
@@ -7042,6 +7450,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Whenever an opponent casts his or her first spell each turn, counter that spell.</text>
             <prop>
                 <type>Emblem — Jace</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_us6FYXzyW4.png">SOI</set>
             <reverse-related exclude="exclude">Jace, Unraveler of Secrets</reverse-related>
@@ -7053,6 +7462,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>You may cast instant and sorcery cards from your graveyard. If a card cast this way would be put into your graveyard, exile it instead.</text>
             <prop>
                 <type>Emblem — Jaya</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2018/dom/en_oc0QKHQBLU.png">DOM</set>
             <reverse-related>Jaya Ballard</reverse-related>
@@ -7064,6 +7474,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Whenever a creature enters the battlefield under your control, you may have it fight target creature.</text>
             <prop>
                 <type>Emblem — Kiora</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/5/5/55952cc8-09d8-4260-8387-284df7223d74.jpg">BFZ</set>
             <reverse-related exclude="exclude">Kiora, Master of the Depths</reverse-related>
@@ -7075,6 +7486,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>At the beginning of your end step, create a 9/9 blue Kraken creature token.</text>
             <prop>
                 <type>Emblem — Kiora</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/e/4/e45f7850-2ebb-4530-9859-f87b4e0e27be.jpg">BNG</set>
             <related>Kraken</related>
@@ -7087,6 +7499,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Mountains you control have 'Tap: This land deals 1 damage to target creature or player.'</text>
             <prop>
                 <type>Emblem — Koth</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/8/9/89afdaa4-3555-4adf-b3c4-63f905710c76.jpg">DDI</set>
             <reverse-related exclude="exclude">Koth of the Hammer</reverse-related>
@@ -7098,6 +7511,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Swamps you control have 'Tap: Add {B}{B}{B}{B}.'</text>
             <prop>
                 <type>Emblem — Liliana</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/f/3/f327de6e-c9f1-478d-9940-b500df8cef10.jpg">M14</set>
             <set picURL="https://img.scryfall.com/cards/large/front/2/b/2bd1b0b9-f1bb-4808-be3f-5b3faf185cf1.jpg">M13</set>
@@ -7110,6 +7524,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Whenever a creature dies, return it to the battlefield under your control at the beginning of the next end step.</text>
             <prop>
                 <type>Emblem — Liliana</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/d/7/d75f984f-2e11-4f52-b3b0-dd9d94a2dd74.jpg">ORI</set>
             <reverse-related exclude="exclude">Liliana, Defiant Necromancer</reverse-related>
@@ -7121,6 +7536,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>At the beginning of your end step, create X 2/2 black Zombie creature tokens, where X is two plus the number of Zombies you control.</text>
             <prop>
                 <type>Emblem — Liliana</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_3uiqIat9XN.png">EMN</set>
             <related>Zombie</related>
@@ -7133,6 +7549,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Islands you control have "{T}: Draw a card."</text>
             <prop>
                 <type>Emblem</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2019/m20/en_5gj5ITJyFE.png">M20</set>
             <reverse-related exclude="exclude">Mu Yanling, Sky Dancer</reverse-related>
@@ -7144,6 +7561,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Your opponents can't cast noncreature spells.</text>
             <prop>
                 <type>Emblem — Narset</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/4/a/4a70dfe0-874c-473a-a26e-1f88a842df41.jpg">DTK</set>
             <reverse-related exclude="exclude">Narset Transcendent</reverse-related>
@@ -7155,6 +7573,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Whenever a land enters the battlefield under your control, you may draw a card.</text>
             <prop>
                 <type>Emblem — Nissa</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2016/bVvMNuiu2i_KLD/en_L3HvZKtjG2.png">KLD</set>
             <reverse-related exclude="exclude">Nissa, Vital Force</reverse-related>
@@ -7166,6 +7585,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Lands you control have indestructible.</text>
             <prop>
                 <type>Emblem — Nissa</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2019/war/en_l7Xfh2sI2X.png">WAR</set>
             <reverse-related>Nissa, Who Shakes the World</reverse-related>
@@ -7177,6 +7597,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>{1}{B}, Sacrifice a creature: You gain X life and draw X cards, where X is the sacrificed creature's power.</text>
             <prop>
                 <type>Emblem — Nixilis</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/4/c/4c29f6a1-42a5-433f-9c09-c160b096f8e1.jpg">C14</set>
             <reverse-related exclude="exclude">Ob Nixilis of the Black Oath</reverse-related>
@@ -7188,6 +7609,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Whenever a player draws a card, you lose 2 life.</text>
             <prop>
                 <type>Emblem — Nixilis</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2019/c19/en_Ge1KYPLAg0.png">C19</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/8/18a77885-c0de-4487-a920-6fb9ea9bc408.jpg">BFZ</set>
@@ -7200,6 +7622,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Whenever you cast an instant or sorcery spell, this emblem deals 4 damage to any target and you draw two cards.</text>
             <prop>
                 <type>Emblem — Ral</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2018/grn/en_cSIhkW4Oic.png">GRN</set>
             <reverse-related>Ral, Izzet Viceroy</reverse-related>
@@ -7211,6 +7634,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <text>Whenever you activate an ability that isn't a mana ability, copy it. You may choose new targets for the copy.</text>
             <prop>
                 <type>Emblem — Rowan</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/a/6/a603338e-8ea4-4952-b88f-97d439594ad9.jpg">BBD</set>
             <reverse-related exclude="exclude">Rowan Kenrith</reverse-related>
@@ -7223,6 +7647,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
 At the beginning of your end step, discard your hand.</text>
             <prop>
                 <type>Emblem — Sarkhan</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/9/d/9d0430bc-5b7e-431e-a8d0-168f679fe79c.jpg">KTK</set>
             <reverse-related exclude="exclude">Sarkhan, the Dragonspeaker</reverse-related>
@@ -7234,6 +7659,7 @@ At the beginning of your end step, discard your hand.</text>
             <text>If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead.</text>
             <prop>
                 <type>Emblem — Serra</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2019/mh1/en_tZJMic1WRU.png">MH1</set>
             <token>1</token>
@@ -7245,6 +7671,7 @@ At the beginning of your end step, discard your hand.</text>
             <text>Creatures you control get +1/+0.</text>
             <prop>
                 <type>Emblem — Sorin</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/3/2/327ddaaf-b6a7-4c80-9b38-5ab68181b3d6.jpg">DKA</set>
             <reverse-related exclude="exclude">Sorin, Lord of Innistrad</reverse-related>
@@ -7256,6 +7683,7 @@ At the beginning of your end step, discard your hand.</text>
             <text>At the beginning of each opponent's upkeep, that player sacrifices a creature.</text>
             <prop>
                 <type>Emblem — Sorin</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/8/f/8f6e8950-5b1e-48b6-8d32-2a463455499d.jpg">KTK</set>
             <reverse-related exclude="exclude">Sorin, Solemn Visitor</reverse-related>
@@ -7267,6 +7695,7 @@ At the beginning of your end step, discard your hand.</text>
             <text>You may cast nonland cards from your hand without paying their mana costs.</text>
             <prop>
                 <type>Emblem — Tamiyo</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_c30wTaXc7C.png">EMN</set>
             <reverse-related exclude="exclude">Tamiyo, Field Researcher</reverse-related>
@@ -7279,6 +7708,7 @@ At the beginning of your end step, discard your hand.</text>
 Whenever a card is put into your graveyard from anywhere, you may return it to your hand.</text>
             <prop>
                 <type>Emblem — Tamiyo</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/c/c/cce7547c-6d3d-4586-83b2-3d208113b045.jpg">AVR</set>
             <reverse-related exclude="exclude">Tamiyo, the Moon Sage</reverse-related>
@@ -7290,6 +7720,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <text>Whenever you draw a card, exile target permanent an opponent controls.</text>
             <prop>
                 <type>Emblem — Teferi</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2018/dom/en_X0R9KqGOxX.png">DOM</set>
             <reverse-related>Teferi, Hero of Dominaria</reverse-related>
@@ -7301,6 +7732,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <text>You may activate loyalty abilities of planeswalkers you control on any player's turn any time you could cast an instant.</text>
             <prop>
                 <type>Emblem — Teferi</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/c/c/ccdc8ec0-0c50-4eab-90b3-847498d1612c.jpg">C14</set>
             <reverse-related exclude="exclude">Teferi, Temporal Archmage</reverse-related>
@@ -7312,6 +7744,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <text>At the beginning of combat on your turn, target artifact you control becomes an artifact creature with base power and toughness 5/5.</text>
             <prop>
                 <type>Emblem — Tezzeret</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/5/f/5f136537-1ebe-4018-b406-44ef32ceef04.jpg">AER</set>
             <reverse-related exclude="exclude">Tezzeret the Schemer</reverse-related>
@@ -7323,6 +7756,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <text>At the beginning of your end step, search your library for a permanent card, put it onto the battlefield, then shuffle your library.</text>
             <prop>
                 <type>Emblem — Tezzeret</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/f/a/faa83538-e94d-4842-ba9c-812187ecfa0b.jpg">M19</set>
             <reverse-related exclude="exclude">Tezzeret, Artifice Master</reverse-related>
@@ -7334,6 +7768,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <text>Whenever you cast a spell, exile target permanent.</text>
             <prop>
                 <type>Emblem — Venser</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/c/9/c9ad6e7a-8ad8-4a35-b6c9-151720d88af9.jpg">DDI</set>
             <reverse-related exclude="exclude">Venser, the Sojourner</reverse-related>
@@ -7345,6 +7780,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <text>Creatures you control get +2/+2 and have vigilance, trample, and indestructible.</text>
             <prop>
                 <type>Emblem — Vivien</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/1/c/1cf97003-eef0-4c01-aee1-8a8264d8ef95.jpg">M19</set>
             <reverse-related exclude="exclude">Vivien Reid</reverse-related>
@@ -7356,6 +7792,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <text>Whenever a creature you control deals combat damage to a player, that player loses the game.</text>
             <prop>
                 <type>Emblem — Vraska</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2018/grn/en_Gq70SfRJ8Z.png">GRN</set>
             <reverse-related>Vraska, Golgari Queen</reverse-related>
@@ -7367,6 +7804,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <text>Whenever you cast an instant or sorcery spell, copy it. You may choose new targets for the copy.</text>
             <prop>
                 <type>Emblem — Will</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/6/0/606d6a38-e564-45d8-9be1-c83c15647711.jpg">BBD</set>
             <reverse-related exclude="exclude">Will Kenrith</reverse-related>
@@ -7378,6 +7816,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <text>Instant and sorcery cards in your graveyard have retrace.</text>
             <prop>
                 <type>Emblem — Wrenn</type>
+                <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2019/mh1/en_WOLuLrR6W5.png">MH1</set>
             <reverse-related exclude="exclude">Wrenn and Six</reverse-related>
@@ -7388,6 +7827,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <name>Energy Reserve</name>
             <prop>
                 <type>Counter</type>
+                <maintype>Counter</maintype>
             </prop>
             <set picURL="https://i.imgur.com/D4xLMxC.png">KLD</set>
             <reverse-related exclude="exclude">Aether Chaser</reverse-related>
@@ -7467,6 +7907,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <name>Experience Counter</name>
             <prop>
                 <type>Counter</type>
+                <maintype>Counter</maintype>
             </prop>
             <set picURL="https://i.imgur.com/GgQ6lhZ.jpg">C15</set>
             <reverse-related exclude="exclude">Daxos the Returned</reverse-related>
@@ -7481,6 +7922,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <name>Poison Counter</name>
             <prop>
                 <type>Counter</type>
+                <maintype>Counter</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/4/7/470618f6-f67f-44c6-a086-285632508915.jpg">NPH</set>
             <set picURL="https://img.scryfall.com/cards/large/front/9/2/92fcdd2b-dd90-458d-9b8b-5b1b9a3f8bd3.jpg">MBS</set>
@@ -7571,6 +8013,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <name>City's Blessing</name>
             <prop>
                 <type>State</type>
+                <maintype>State</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2017/rix/en_2MWLzaZo23.png">RIX</set>
             <reverse-related>Arch of Orazca</reverse-related>
@@ -7605,6 +8048,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
 Whenever a creature deals combat damage to you, its controller becomes the monarch.</text>
             <prop>
                 <type>State</type>
+                <maintype>State</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_OFPgMTjwcu.png">CN2</set>
             <reverse-related>Canal Courier</reverse-related>
@@ -7632,6 +8076,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <text>(After an Adventure resolves, you can place the exiled card here. You may cast the creature from exile.)</text>
             <prop>
                 <type>State</type>
+                <maintype>State</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2019/eld/en_crQ9MSOI2z.png">ELD</set>
             <reverse-related attach="attach">Animating Faerie // Bring to Life</reverse-related>
