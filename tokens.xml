@@ -15,6 +15,7 @@
                 <manacost></manacost>
                 <cmc>0</cmc>
                 <type>Token Creature — </type>
+                <maintype></maintype>
                 <pt>/</pt>
             </prop>
             <set picURL=""></set>
@@ -2136,6 +2137,21 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Elemental                         </name>
+            <text>Trample, haste</text>
+            <prop>
+                <colors>R</colors>
+                <cmc>0</cmc>
+                <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
+                <pt>*/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/thb/en_3b857qIBEs.png">THB</set>
+            <reverse-related>Purphoros's Intervention</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Elemental Bird</name>
             <text>Flying</text>
             <prop>
@@ -2595,6 +2611,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/thb/en_WOFcxR3XVQ.png">THB</set>
             <set picURL="https://media.wizards.com/2019/eld/en_RXskaZkva9.png">ELD</set>
             <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/2QtBY6BF4T_EN.png">C16</set>
             <set picURL="https://img.scryfall.com/cards/large/front/5/b/5ba0e1c8-bb8e-4be4-8177-b2175e0c33fb.jpg">C14</set>
@@ -2602,11 +2619,13 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <set picURL="https://img.scryfall.com/cards/large/front/f/a/fa0f1de9-464c-4f12-bd1d-a4a5b88fe803.jpg">M13</set>
             <set picURL="https://img.scryfall.com/cards/large/front/9/0/90f67615-8a09-4ab9-9927-899a15e72c03.jpg">EVE</set>
             <reverse-related count="3">Clackbridge Troll</reverse-related>
+            <reverse-related>Discordant Piper</reverse-related>
             <reverse-related count="3" exclude="exclude">Goldmeadow</reverse-related>
             <reverse-related>Goldmeadow</reverse-related>
             <reverse-related>Springjack Pasture</reverse-related>
             <reverse-related count="x">Springjack Shepherd</reverse-related>
             <reverse-related>Trading Post</reverse-related>
+            <reverse-related>Woe Strider</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -2798,16 +2817,18 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <name>Gold</name>
             <text>Sacrifice this artifact: Add one mana of any color.</text>
             <prop>
-                <type>Token Artifact</type>
+                <type>Token Artifact — Gold</type>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://media.wizards.com/2019/thb/en_JL3iie7Yl6.png">THB</set>
             <set picURL="https://img.scryfall.com/cards/large/front/9/b/9b180a33-65ef-43b3-b969-f603b1fc23fb.jpg">C17</set>
             <set picURL="https://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_tqOTRxQqlD.png">C15</set>
             <set picURL="https://img.scryfall.com/cards/large/front/f/8/f8b8298e-5ce6-4ff6-9563-fcd158ce841e.jpg">BNG</set>
             <reverse-related>Curse of Opulence</reverse-related>
             <reverse-related>Gild</reverse-related>
             <reverse-related>King Macar, the Gold-Cursed</reverse-related>
+            <reverse-related exclude="exclude">The First Iroan Games</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -3297,9 +3318,17 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/thb/en_pssmp0NOLm.png">THB</set>
             <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_fPCM1CDouX.png">SOI</set>
+            <reverse-related>Commanding Presence</reverse-related>
+            <reverse-related count="2">Elspeth, Sun's Nemesis</reverse-related>
+            <reverse-related>Hero of the Nyxborn</reverse-related>
+            <reverse-related count="2">Omen of the Sun</reverse-related>
+            <reverse-related count="x=1">Reverent Hoplite</reverse-related>
             <reverse-related>Sigarda, Heron's Grace</reverse-related>
+            <reverse-related>Siona, Captain of the Pyleas</reverse-related>
             <reverse-related>Strength of Arms</reverse-related>
+            <reverse-related>The First Iroan Games</reverse-related>
             <reverse-related>Thraben Standard Bearer</reverse-related>
             <reverse-related>Ulvenwald Mysteries</reverse-related>
             <token>1</token>
@@ -3803,6 +3832,21 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <set picURL="https://img.scryfall.com/cards/large/front/b/4/b4ed9fe6-50cc-45e2-aeaa-df6e34eb7fe4.jpg">C14</set>
             <set picURL="https://img.scryfall.com/cards/large/front/f/9/f9576efe-03eb-49da-bb00-5bf8e50877fb.jpg">BNG</set>
             <reverse-related>Kiora, the Crashing Wave</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Kraken </name>
+            <text>Hexproof</text>
+            <prop>
+                <colors>U</colors>
+                <cmc>0</cmc>
+                <type>Token Creature — Kraken</type>
+                <maintype>Creature</maintype>
+                <pt>8/8</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/thb/en_e5USIcQfJ5.png">THB</set>
+            <reverse-related>Kiora Bests the Sea God</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -4365,6 +4409,21 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Nightmare </name>
+            <text>Whenever this creature attacks or blocks, each opponent exiles the top two cards of their library.</text>
+            <prop>
+                <colors>UB</colors>
+                <cmc>0</cmc>
+                <type>Token Creature — Nightmare</type>
+                <maintype>Creature</maintype>
+                <pt>2/3</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/thb/en_2s5Hu4zIRB.png">THB</set>
+            <reverse-related>Ashiok, Nightmare Muse</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Nightmare Horror</name>
             <prop>
                 <colors>B</colors>
@@ -4570,8 +4629,10 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/thb/en_eARM9V2Cqr.png">THB</set>
             <set picURL="https://media.wizards.com/2019/c19/en_GB4ITZzLJ3.png">C19</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/e/1e77b5dd-af53-4229-bd7f-9b961ebde8f7.jpg">C14</set>
+            <reverse-related>Archon of Sun's Grace</reverse-related>
             <reverse-related>Pegasus Refuge</reverse-related>
             <reverse-related>Pegasus Stampede</reverse-related>
             <reverse-related>Sacred Mesa</reverse-related>
@@ -4797,6 +4858,21 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Reflection  </name>
+            <text></text>
+            <prop>
+                <colors>U</colors>
+                <cmc>0</cmc>
+                <type>Token Creature — Reflection</type>
+                <maintype>Creature</maintype>
+                <pt>3/2</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/thb/en_JVsG6IUqAl.png">THB</set>
+            <reverse-related>Alirios, Enraptured</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Resilient Khenra (Token)</name>
             <text>When Resilient Khenra enters the battlefield, you may have target creature get +X/+X until end of turn, where X is Resilient Khenra's power.</text>
             <prop>
@@ -5009,6 +5085,23 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <set picURL="https://img.scryfall.com/cards/large/front/b/a/baa93038-2849-4c26-ab4f-1d50d276659f.jpg">THS</set>
             <reverse-related count="4">Revel of the Fallen God</reverse-related>
             <reverse-related>Xenagos, the Reveler</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Satyr </name>
+            <text>This creature can't block.</text>
+            <prop>
+                <colors>R</colors>
+                <cmc>0</cmc>
+                <type>Token Creature — Satyr</type>
+                <maintype>Creature</maintype>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/thb/en_u2PUCJEMfZ.png">THB</set>
+            <reverse-related count="x=1">Anax, Hardened in the Forge</reverse-related>
+            <reverse-related>Heroes of the Revel</reverse-related>
+            <reverse-related>Satyr's Cunning</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -5560,12 +5653,14 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>1/2</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/thb/en_3gNoDkp9bM.png">THB</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_HFnAMI1lTc.png">MH1</set>
             <set picURL="https://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_KiwJSuvSso.png">EMN</set>
             <set picURL="https://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_eeuO57mVX3.png">C15</set>
             <set picURL="https://img.scryfall.com/cards/large/front/7/1/71031ff1-17dc-46b7-a72b-3297137a83bb.jpg">ISD</set>
             <set picURL="https://img.scryfall.com/cards/large/front/7/d/7df0de51-8d05-475a-832e-de8a0f60849e.jpg">SHM</set>
             <reverse-related count="x">Arachnogenesis</reverse-related>
+            <reverse-related>Arasta of the Endless Web</reverse-related>
             <reverse-related>Gloomwidow's Feast</reverse-related>
             <reverse-related count="3">Ishkanah, Grafwidow</reverse-related>
             <reverse-related>Rotwidow Pack</reverse-related>
@@ -6016,6 +6111,21 @@ Equip {0}</text>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/5/a/5a6201e6-7dcd-40b1-97aa-fd9c860cea97.jpg">AKH</set>
             <reverse-related>Temmet, Vizier of Naktamun</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Tentacle</name>
+            <text></text>
+            <prop>
+                <colors>U</colors>
+                <cmc>0</cmc>
+                <type>Token Creature — Tentacle</type>
+                <maintype>Creature</maintype>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/thb/en_rNRCyFa2mF.png">THB</set>
+            <reverse-related>Nadir Kraken</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -6509,6 +6619,21 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Wall   </name>
+            <text>Defender</text>
+            <prop>
+                <colors></colors>
+                <cmc>0</cmc>
+                <type>Token Artifact Creature — Wall</type>
+                <maintype>Creature</maintype>
+                <pt>0/4</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/thb/en_aOl898FYE1.png">THB</set>
+            <reverse-related>The Birth of Meletis</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Wasp</name>
             <text>Flying</text>
             <prop>
@@ -6661,6 +6786,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2019/thb/en_ahsZMx1Bgw.png">THB</set>
             <set picURL="https://media.wizards.com/2019/m20/en_yGHIfVnYBa.png">M20</set>
             <set picURL="https://media.wizards.com/2019/war/en_vc9PEBCee6.png">WAR</set>
             <set picURL="https://media.wizards.com/2018/a25/en_YMeT9fmnKH.png">A25</set>
@@ -6691,6 +6817,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Howlpack Alpha</reverse-related>
             <reverse-related>Huntmaster of the Fells</reverse-related>
             <reverse-related count="x">Kessig Cagebreakers</reverse-related>
+            <reverse-related count="2">Mantle of the Wolf</reverse-related>
             <reverse-related>Master of the Wild Hunt</reverse-related>
             <reverse-related>Nightpack Ambusher</reverse-related>
             <reverse-related>Pack Guardian</reverse-related>
@@ -6704,6 +6831,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related count="x">Wolfbriar Elemental</reverse-related>
             <reverse-related count="x">Wolfcaller's Howl</reverse-related>
             <reverse-related>Wolfkin Bond</reverse-related>
+            <reverse-related>Wolfwillow Haven</reverse-related>
             <reverse-related attach="attach">Wolfrider's Saddle</reverse-related>
             <reverse-related>Wren's Run Packmaster</reverse-related>
             <token>1</token>
@@ -6925,6 +7053,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set pickURL="https://media.wizards.com/2019/thb/en_zh0TosPHeW.png">THB</set>
             <set picURL="https://media.wizards.com/2019/c19/en_RcvmrIA4co.png">C19</set>
             <set picURL="https://media.wizards.com/2019/c19/en_Ryxjzpphjb.png">C19</set>
             <set picURL="https://media.wizards.com/2019/m20/en_lb4QSh11Zp.png">M20</set>
@@ -6965,6 +7094,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="https://img.scryfall.com/cards/large/front/b/a/ba9b6612-5372-4e6f-841f-20009f71a736.jpg">ALA</set>
             <set picURL="https://img.scryfall.com/cards/large/front/8/a/8a73e348-5bf1-4465-978b-3f31408bade9.jpg">10E</set>
             <set picURL="https://img.scryfall.com/cards/large/front/6/5/657fa00d-ddb5-49e6-a01e-82038cccfe30.jpg">ODY</set>
+            <reverse-related>Aphemia, the Cacophony</reverse-related>
             <reverse-related>Archdemon of Unx</reverse-related>
             <reverse-related count="13">Army of the Damned</reverse-related>
             <reverse-related>Assemble the Rank and Vile</reverse-related>
@@ -7033,6 +7163,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Stir the Sands</reverse-related>
             <reverse-related count="x">Syphon Flesh</reverse-related>
             <reverse-related>The Fourth Sphere</reverse-related>
+            <reverse-related>Tymaret Calls the Dead</reverse-related>
             <reverse-related>Undead Alchemist</reverse-related>
             <reverse-related count="x">Undead Servant</reverse-related>
             <reverse-related>Unscythe, Killer of Kings</reverse-related>
