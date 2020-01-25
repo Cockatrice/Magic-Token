@@ -4629,14 +4629,27 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://media.wizards.com/2019/thb/en_eARM9V2Cqr.png">THB</set>
             <set picURL="https://media.wizards.com/2019/c19/en_GB4ITZzLJ3.png">C19</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/e/1e77b5dd-af53-4229-bd7f-9b961ebde8f7.jpg">C14</set>
-            <reverse-related>Archon of Sun's Grace</reverse-related>
             <reverse-related>Pegasus Refuge</reverse-related>
             <reverse-related>Pegasus Stampede</reverse-related>
             <reverse-related>Sacred Mesa</reverse-related>
             <reverse-related count="x">Storm Herd</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Pegasus </name>
+            <text>Flying</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Pegasus</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2019/thb/en_eARM9V2Cqr.png">THB</set>
+            <reverse-related>Archon of Sun's Grace</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
