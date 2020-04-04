@@ -5,6 +5,12 @@
     Currently this file is "TK.xml" and can be found in your customsets directory.
 -->
 <cockatrice_carddatabase version="4" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd">
+    <info>
+        <author>Cockatrice/Magic-Token</author>
+        <createdAt>2020-03-29T15:52:29Z</createdAt>
+        <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
+        <sourceVersion>20200329</sourceVersion>
+    </info>
     <cards>
         <!--
         <card>
