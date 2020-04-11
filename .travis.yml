@@ -1,0 +1,7 @@
+os: linux
+language: minimal
+
+jobs:
+  include:
+   - name: XML Validation
+     script: xmllint --format --pretty 1 --load-trace --debug --schema https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd /tokens.xml
