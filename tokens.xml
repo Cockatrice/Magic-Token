@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20200411a</sourceVersion>
+        <sourceVersion>20200411b</sourceVersion>
     </info>
     <cards>
         <!--
@@ -196,7 +196,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
                 <cmc>0</cmc>
                 <pt>2/3</pt>
             </prop>
-            <set picURL="http://s8.postimg.org/t5pmpgout/ANTELOPE.jpg">PVAN</set>
+            <set picURL="">PVAN</set>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3771,7 +3771,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
-            <set picURL="http://img295.imageshack.us/img295/4162/kelpfullmy7.jpg">ME2</set>
+            <set picURL="">ME2</set>
             <reverse-related>Wall of Kelp</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -6064,7 +6064,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
-            <set picURL="http://s8.postimg.org/qxkmzlwid/SPIRIT.jpg">ME2</set>
+            <set picURL="">ME2</set>
             <reverse-related>Broken Visage</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7086,7 +7086,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="http://s8.postimg.org/f8l8pduxh/WOLVES_OF_THE_HUNT.jpg">M10</set>
+            <set picURL="">M10</set>
             <reverse-related>Master of the Hunt</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7101,7 +7101,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
-            <set picURL="http://oi43.tinypic.com/2z6s4ly.jpg">MIR</set>
+            <set picURL="">MIR</set>
             <reverse-related>Jungle Patrol</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
