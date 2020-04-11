@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20200411b</sourceVersion>
+        <sourceVersion>20200411c</sourceVersion>
     </info>
     <cards>
         <!--
@@ -183,20 +183,6 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/9/8/98956e73-04e4-4d7f-bda5-cfa78eb71350.jpg">AKH</set>
             <reverse-related>Anointer Priest</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
-            <name>Antelope</name>
-            <text>Forestwalk</text>
-            <prop>
-                <colors>G</colors>
-                <type>Token Creature — Antelope</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>2/3</pt>
-            </prop>
-            <set picURL="">PVAN</set>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
