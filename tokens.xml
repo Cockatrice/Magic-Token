@@ -2802,12 +2802,16 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <set picURL="https://img.scryfall.com/cards/large/front/5/7/577c2e32-deb6-40d9-a050-c2acb5bfc05f.jpg">RTR</set>
             <set picURL="https://img.scryfall.com/cards/large/front/0/6/062043de-a199-408d-8d77-09531ad38b16.jpg">LGN</set>
             <reverse-related count="2">Beetleback Chief</reverse-related>
+            <reverse-related count="x">Box of Free-Range Goblins</reverse-related>
             <reverse-related>Chancellor of the Forge</reverse-related>
             <reverse-related count="x">Chancellor of the Forge</reverse-related>
             <reverse-related count="2">Dragon Fodder</reverse-related>
             <reverse-related count="2">Empty the Warrens</reverse-related>
+            <reverse-related count="x">Gift Horse</reverse-related>
             <reverse-related>Goblin Assault</reverse-related>
             <reverse-related count="x=2">Goblin Gathering</reverse-related>
+            <reverse-related count="x">Goblin Goliath</reverse-related>
+            <reverse-related>Goblin Instigator</reverse-related>
             <reverse-related count="2">Goblin Marshal</reverse-related>
             <reverse-related count="x">Goblin Offensive</reverse-related>
             <reverse-related>Goblin Rabblemaster</reverse-related>
@@ -2835,9 +2839,6 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related count="2">Sling-Gang Lieutenant</reverse-related>
             <reverse-related>Survey the Wreckage</reverse-related>
             <reverse-related count="x">Warbreak Trumpeter</reverse-related>
-            <reverse-related count="x">Box of Free-Range Goblins</reverse-related>
-            <reverse-related count="x">Gift Horse</reverse-related>
-            <reverse-related>Goblin Instigator</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
