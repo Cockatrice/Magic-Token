@@ -2838,6 +2838,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related count="x">Box of Free-Range Goblins</reverse-related>
             <reverse-related count="x">Gift Horse</reverse-related>
             <reverse-related>Goblin Instigator</reverse-related>
+            <reverse-related count="x">Goblin Goliath</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
