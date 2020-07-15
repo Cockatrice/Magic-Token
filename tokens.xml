@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20200626a</sourceVersion>
+        <sourceVersion>20200714a</sourceVersion>
     </info>
     <cards>
         <!--
@@ -3873,6 +3873,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related count="2">Knight Watch</reverse-related>
             <reverse-related>Knightly Valor</reverse-related>
             <reverse-related>Lonesome Unicorn // Rider in Need</reverse-related>
+            <reverse-related count="x=1">Militant Angel</reverse-related>
             <reverse-related>Righteous Confluence</reverse-related>
             <reverse-related>Security Blockade</reverse-related>
             <reverse-related>Selesnya Charm</reverse-related>
@@ -6431,6 +6432,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="2">Foundry of the Consuls</reverse-related>
             <reverse-related>Ghirapur Gearcrafter</reverse-related>
             <reverse-related count="x">Hangarback Walker</reverse-related>
+            <reverse-related>Inspired Sphinx</reverse-related>
             <reverse-related count="2">Maverick Thopterist</reverse-related>
             <reverse-related>Pia Nalaar</reverse-related>
             <reverse-related count="2">Pia and Kiran Nalaar</reverse-related>
