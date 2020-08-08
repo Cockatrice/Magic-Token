@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20200714a</sourceVersion>
+        <sourceVersion>20200808</sourceVersion>
     </info>
     <cards>
         <!--
@@ -70,6 +70,7 @@
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_bwNR5QG9OL.png">2XM</set>
             <set picURL="https://media.wizards.com/2020/m21/en_9nj3jwxfId.png">M21</set>
             <set picURL="https://media.wizards.com/2020/iko/en_8mnpdZmZOl.png">C20</set>
             <set picURL="https://media.wizards.com/2018/c18/en_51u40KF6eI.png">C18</set>
@@ -198,6 +199,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_AWN5Acy1m0.png">2XM</set>
             <set picURL="https://img.scryfall.com/cards/large/front/8/3/8343e00c-5fc6-46a0-a238-3759338dced4.jpg">C14</set>
             <reverse-related>Pongify</reverse-related>
             <token>1</token>
@@ -427,6 +429,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_tckrIctlrW.png">2XM</set>
             <set picURL="https://media.wizards.com/2020/m21/en_MIpvgxgBe0.png">M21</set>
             <set picURL="https://media.wizards.com/2020/iko/en_XqbCNkS7QJ.png">IKO</set>
             <set picURL="https://media.wizards.com/2019/c19/en_gqJ8IOFNKN.png">C19</set>
@@ -901,6 +904,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_lxpMG2sXNL.png">2XM</set>
             <set picURL="https://media.wizards.com/2018/c18/en_OKSc5ByNDU.png">C18</set>
             <set picURL="https://img.scryfall.com/cards/large/front/d/3/d3f2fd62-5430-449b-ac1b-14867d2bb326.jpg">C17</set>
             <set picURL="https://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_yUL1MXcDyV.png">C15</set>
@@ -1209,6 +1213,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_RTwvNOebur.png">2XM</set>
             <set picURL="https://media.wizards.com/2018/c18/en_1LubZ0qmyk.png">C18</set>
             <set picURL="https://media.wizards.com/2017/ust/en_qK2MGqzQbu.png">UST</set>
             <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_Pdlgntbr3f.png">SOI</set>
@@ -1334,6 +1339,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_N4MwmLfDEB.png">2XM</set>
             <set picURL="https://media.wizards.com/2020/m21/en_N80N6uOJwi.png">M21</set>
             <set picURL="https://media.wizards.com/2019/m20/en_150qEXnWWt.png">M20</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/4/14259948-5427-401f-b510-f5b705445e50.jpg">ORI</set>
@@ -1868,6 +1874,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_9JF4p74iRD.png">2XM</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/f/1feaa879-ceb3-4b20-8021-ae41d8be9005.jpg">C17</set>
             <set picURL="https://img.scryfall.com/cards/large/front/c/d/cd1ef4fc-9b03-4750-90c9-aaa0017579dc.jpg">MM2</set>
             <set picURL="https://img.scryfall.com/cards/large/front/b/9/b94559ea-b4c8-42e5-81b5-df45b2d711fd.jpg">MM2</set>
@@ -2119,6 +2126,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_iSgyGNisMo.png">2XM</set>
             <set picURL="https://media.wizards.com/2017/ust/en_hVi6aiRirc.png">UST</set>
             <set picURL="https://media.wizards.com/2017/b9jm8nwv_mm3/en_rONwJn9fUD.png">MM3</set>
             <set picURL="https://img.scryfall.com/cards/large/front/5/b/5bfb1440-d4c1-42cf-a777-ee1644dbbac7.jpg">DGM</set>
@@ -2330,6 +2338,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_NdkKezF1yA.png">2XM</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_bSdEUZ4hMv.png">MH1</set>
             <set picURL="https://media.wizards.com/2017/b9jm8nwv_mm3/en_0F4M7yiktn.png">MM3</set>
             <set picURL="https://media.wizards.com/2016/adhfianalodifdj2_EMA/en_cQ9QQhPytK.png">EMA</set>
@@ -2432,6 +2441,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_5rGadvpK67.png">2XM</set>
             <set picURL="https://img.scryfall.com/cards/large/front/4/9/49180301-f72f-48ca-8be1-df295e89cdd7.jpg">SHM</set>
             <reverse-related count="x">Mercy Killing</reverse-related>
             <reverse-related>Rhys the Redeemed</reverse-related>
@@ -2629,6 +2639,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>0/0</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_XbLXIG0896.png">2XM</set>
             <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/byg00olvZx_EN.png">C16</set>
             <set picURL="https://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_UF6tUBntoI.png">C15</set>
             <set picURL="https://img.scryfall.com/cards/large/front/4/4/4414f9fa-dfda-4714-9f87-cb5e8914b07a.jpg">MM2</set>
@@ -3010,6 +3021,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_KjxI26KzLw.png">2XM</set>
             <set picURL="https://media.wizards.com/2019/m20/en_EfeEwTXnO0.png">M20</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_skGeUMCHa2.png">MH1</set>
             <set picURL="https://media.wizards.com/2017/b9jm8nwv_mm3/en_BsmvNmPP4D.png">MM3</set>
@@ -3476,6 +3488,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_5SH2Q6VQQs.png">2XM</set>
             <set picURL="https://media.wizards.com/2020/iko/en_o8Tv89Oivm.png">IKO</set>
             <set picURL="https://media.wizards.com/2020/iko/en_1oqquHyBg9.png">IKO</set>
             <set picURL="https://media.wizards.com/2020/iko/en_pI8GLjxwQ5.png">IKO</set>
@@ -4188,6 +4201,7 @@ A manifested creature card can be turned face up any time for its mana cost. A f
                 <cmc>0</cmc>
                 <pt>20/20</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_3rk45TcoPX.png">2XM</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_sHmt9uKnHu.png">MH1</set>
             <set picURL="https://img.scryfall.com/cards/large/front/8/f/8f5c3863-c876-48a8-9bc8-be20cd61074c.jpg">CSP</set>
             <reverse-related>Dark Depths</reverse-related>
@@ -4576,6 +4590,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_D2qQRBsdcT.png">2XM</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_xKv8DrRlty.png">MH1</set>
             <set picURL="https://media.wizards.com/2018/c18/en_x7ivUnnF1w.png">C18</set>
             <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/ZcDckQNuvU_EN.png">C16</set>
@@ -4609,6 +4624,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>2/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_uuVXV4ix9e.png">2XM</set>
             <set picURL="https://media.wizards.com/2018/c18/en_91HuVMHk2Q.png">C18</set>
             <reverse-related>Brudiclad, Telchor Engineer</reverse-related>
             <token>1</token>
@@ -4711,6 +4727,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_cSiZjUx5rU.png">2XM</set>
             <set picURL="https://media.wizards.com/2017/b9jm8nwv_mm3/en_fzNmUE7vkf.png">MM3</set>
             <set picURL="https://img.scryfall.com/cards/large/front/d/4/d49e91df-0647-4c9f-9c3e-fb8c77c4886c.jpg">ROE</set>
             <set picURL="https://img.scryfall.com/cards/large/front/3/9/39a4b6d1-c5f5-4a2d-a00c-97f6395c941b.jpg">ALA</set>
@@ -4942,6 +4959,7 @@ Creatures you control attach each combat if able.</text>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_OCjIAJaJO2.png">2XM</set>
             <set picURL="https://media.wizards.com/2018/c18/en_ZjevIjFfjB.png">C18</set>
             <set picURL="https://img.scryfall.com/cards/large/front/8/5/8501a910-e181-4f85-ad34-d2a099257148.jpg">OGW</set>
             <set picURL="https://img.scryfall.com/cards/large/front/c/1/c1424e8d-1f96-44af-9382-c337b6695ddf.jpg">WWK</set>
@@ -5192,6 +5210,7 @@ Creatures you control attach each combat if able.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_l1CRCiAQ4v.png">2XM</set>
             <set picURL="https://media.wizards.com/2020/m21/en_F6MYJEIKON.png">M21</set>
             <set picURL="https://media.wizards.com/2020/iko/en_0grsvGZ0uD.png">C20</set>
             <set picURL="https://media.wizards.com/2019/c19/en_Mndwkmo0lD.png">C19</set>
@@ -5379,6 +5398,7 @@ Creatures you control attach each combat if able.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_J5bZ8HFzvR.png">2XM</set>
             <set picURL="https://media.wizards.com/2019/war/en_Jg1FD7mOfM.png">WAR</set>
             <set picURL="https://media.wizards.com/2018/c18/en_JyIqd8Hnqa.png">C18</set>
             <set picURL="https://media.wizards.com/2016/bVvMNuiu2i_KLD/en_xzZQc5a68Z.png">KLD</set>
@@ -5429,6 +5449,7 @@ Creatures you control attach each combat if able.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_N4wZMdI4EK.png">2XM</set>
             <set picURL="https://media.wizards.com/2018/c18/en_Wgq29EPRnO.png">C18</set>
             <set picURL="https://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_v2CKUzXPj8.png">C15</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/a/1a7d89ca-8611-4bda-b5c8-0350ce091102.jpg">LRW</set>
@@ -5657,6 +5678,7 @@ Creatures you control attach each combat if able.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_o6IQOYzKQz.png">2XM</set>
             <set picURL="https://media.wizards.com/2020/m21/en_dM7NU2ZQUb.png">M21</set>
             <set picURL="https://media.wizards.com/2020/iko/en_AMfETR4UJ5.png">C20</set>
             <set picURL="https://media.wizards.com/2019/m20/en_8w9LAwzvXk.png">M20</set>
@@ -6238,6 +6260,7 @@ Cumulative upkeep {G}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_0Cih0roszy.png">2XM</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_ekxScmW9bT.png">MH1</set>
             <set picURL="https://img.scryfall.com/cards/large/front/3/a/3af9733f-192f-4028-8ad6-aa1187dd15e7.jpg">CNS</set>
             <set picURL="https://img.scryfall.com/cards/large/front/a/f/af7c2def-d20d-4670-8950-7042e9380844.jpg">ODY</set>
@@ -6413,6 +6436,7 @@ This creature can't be enchanted.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_P7Ua75t2Cv.png">2XM</set>
             <set picURL="https://media.wizards.com/2018/rna/en_VL2JcQP37W.png">RNA</set>
             <set picURL="https://media.wizards.com/2018/c18/en_mBoeau7u3l.png">C18</set>
             <set picURL="https://media.wizards.com/2018/c18/en_Lw5bv3eHeO.png">C18</set>
@@ -6461,6 +6485,7 @@ This creature can't be enchanted.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_OuAEDAzu53.png">2XM</set>
             <set picURL="https://media.wizards.com/2018/c18/en_R477TZPffA.png">C18</set>
             <set picURL="https://media.wizards.com/2017/ust/en_R8H1j5GjDU.png">UST</set>
             <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/PK9s0eoiqm_EN.png">C16</set>
@@ -6522,6 +6547,7 @@ This creature can't be enchanted.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_afafADUczM.png">2XM</set>
             <set picURL="https://media.wizards.com/2020/m21/en_UsVpbUDWdZ.png">M21</set>
             <set picURL="https://media.wizards.com/2020/iko/en_JuQtxB6MmU.png">C20</set>
             <set picURL="https://media.wizards.com/2019/c19/en_sNEBzx6V2p.png">C19</set>
@@ -6647,6 +6673,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_6nWQeyTjOn.png">2XM</set>
             <set picURL="https://img.scryfall.com/cards/large/front/2/2/2250038e-4b67-4c44-b446-e78c451e5fbd.jpg">C14</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/1/11f55fa2-bb6f-4609-85ec-72703638fbd9.jpg">ROE</set>
             <reverse-related>Tuktuk the Explorer</reverse-related>
@@ -7065,6 +7092,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_eevhHaOASk.png">2XM</set>
             <set picURL="https://media.wizards.com/2019/thb/en_ahsZMx1Bgw.png">THB</set>
             <set picURL="https://media.wizards.com/2019/m20/en_yGHIfVnYBa.png">M20</set>
             <set picURL="https://media.wizards.com/2019/war/en_vc9PEBCee6.png">WAR</set>
@@ -7240,6 +7268,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_vj2z2umJ9C.png">2XM</set>
             <set picURL="https://img.scryfall.com/cards/large/front/c/2/c20607b9-4f4a-4dbc-a09f-250ba2d53f80.jpg">C14</set>
             <set picURL="https://img.scryfall.com/cards/large/front/e/e/ee53b9a0-8e07-404d-87ae-ff8397a0ba29.jpg">SOM</set>
             <reverse-related>Wurmcoil Engine</reverse-related>
@@ -7255,6 +7284,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_VOExBta6Z8.png">2XM</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/f/1f27a3e2-bfd6-4d01-aef1-0bdb09e41ee0.jpg">C14</set>
             <set picURL="https://img.scryfall.com/cards/large/front/3/e/3e46e703-2157-41e5-9c21-c17af43e0d3f.jpg">SOM</set>
             <reverse-related>Wurmcoil Engine</reverse-related>
@@ -8595,6 +8625,17 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>Zirda, the Dawnwaker</reverse-related>
             <reverse-related>"Obosh, With The Leggies"</reverse-related>
             <reverse-related>"Gigan, Cyberclaw Terror"</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Copy </name>
+            <text>(This token can be used to represent a token that's a copy of a permanent.)</text>
+            <prop>
+                <type>Token</type>
+                <maintype>Token</maintype>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_9oRA18c9kd.png">2XM</set>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
