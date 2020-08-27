@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20200808</sourceVersion>
+        <sourceVersion>20200827</sourceVersion>
     </info>
     <cards>
         <!--
@@ -1420,6 +1420,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <reverse-related count="4">Devils' Playground</reverse-related>
             <reverse-related>Make Mischief</reverse-related>
             <reverse-related>Tibalt, Rakish Instigator</reverse-related>
+            <reverse-related>Zurzoth, Chaos Rider</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -1528,6 +1529,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://media.wizards.com/2020/m21/en_Rc1778MsPh.png">M21</set>
+            <reverse-related>Release the Dogs</reverse-related>
             <reverse-related>Rin and Seri, Inseparable</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4337,6 +4339,7 @@ Totem armor</text>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/5/d/5d2a3833-ab5b-4f84-b39c-d0eeb7b474d3.jpg">JOU</set>
             <reverse-related count="2">Flurry of Horns</reverse-related>
+            <reverse-related>Sethron, Hurloon General</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -6561,6 +6564,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Brazen Freebooter</reverse-related>
             <reverse-related>Captain Lannery Storm</reverse-related>
             <reverse-related count="2">Contract Killing</reverse-related>
+            <reverse-related>Corsair Captain</reverse-related>
             <reverse-related>Deadeye Plunderers</reverse-related>
             <reverse-related>Depths of Desire</reverse-related>
             <reverse-related>Dire Fleet Hoarder</reverse-related>
@@ -8255,6 +8259,20 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <reverse-related exclude="exclude">Tezzeret, Artifice Master</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Unicorn</name>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Unicorn</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="">JMP</set>
+            <reverse-related>Blessed Sanctuary</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
         </card>
         <card>
             <name>Venser, the Sojourner (Emblem)</name>
