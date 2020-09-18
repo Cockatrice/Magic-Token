@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20200827</sourceVersion>
+        <sourceVersion>20200918</sourceVersion>
     </info>
     <cards>
         <!--
@@ -172,6 +172,21 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <set picURL="https://media.wizards.com/2019/c19/en_8B7Z1vyH7a.png">C19</set>
             <set picURL="https://img.scryfall.com/cards/large/front/a/1/a1786cb3-6f38-4f10-b5f1-8feb20e3baaf.jpg">AKH</set>
             <reverse-related>Angel of Sanctions</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Angel Warrior</name>
+            <text>Flying</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Angel Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/4</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/znr/en_pHDFb2PfVq.png">ZNR</set>
+            <reverse-related count="2">Emeria's Call</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -984,6 +999,35 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Cat     </name>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Cat</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/znr/en_964LQSigxS.png">ZNR</set>
+            <reverse-related>Attended Healer</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Cat Beast</name>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Cat Beast</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/znr/en_3ZWEb7WWJ0.png">ZNR</set>
+            <reverse-related>Felidar Retreat</reverse-related>
+            <reverse-related exclude="exclude" count="x=1">Felidar Retreat</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Cat Bird</name>
             <text>Flying</text>
             <prop>
@@ -1326,6 +1370,19 @@ Cloud Sprite can block only creatures with flying.</text>
             <set picURL="https://media.wizards.com/2018/c18/en_IxxQEPgrRI.png">C18</set>+
             <reverse-related>Chrome Replicator</reverse-related>
             <reverse-related exclude="exclude">Retrofitter Foundry</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Construct     </name>
+            <prop>
+                <type>Token Artifact Creature — Construct</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/znr/en_R3g8yVJA0m.png">ZNR</set>
+            <reverse-related count="x=4">Myriad Construct</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -1686,12 +1743,14 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/znr/en_M7rV93Flf6.png">ZNR</set>
             <set picURL="https://media.wizards.com/2020/iko/en_C5yn9a7rMM.png">C20</set>
             <set picURL="https://media.wizards.com/2019/c19/en_3bVQTwNBDt.png">C19</set>
             <set picURL="https://img.scryfall.com/cards/large/front/6/5/65844e72-aa84-483f-b07e-9e34e798aaec.jpg">AKH</set>
             <set picURL="https://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_YQgzJqST41.png">C15</set>
             <set picURL="https://img.scryfall.com/cards/large/front/9/3/93679bb9-ee1c-4eea-bcdd-72785d5788af.jpg">M13</set>
             <reverse-related>Drake Haven</reverse-related>
+            <reverse-related>Roost of Drakes</reverse-related>
             <reverse-related count="2">Talrand's Invocation</reverse-related>
             <reverse-related>Talrand, Sky Summoner</reverse-related>
             <token>1</token>
@@ -2901,6 +2960,21 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Goblin Construct</name>
+            <text>This creature can't block.
+At the beginning of your upkeep, this creature deals 1 damage to you.</text>
+            <prop>
+                <type>Token Artifact Creature — Goblin Construct</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>0/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/znr/en_raFbiSd31p.png">ZNR</set>
+            <reverse-related>Relic Robber</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Goblin Rogue</name>
             <prop>
                 <colors>B</colors>
@@ -3579,6 +3653,21 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Hydra  </name>
+            <text></text>
+            <prop>
+                <colors>BG</colors>
+                <type>Token Creature — Hydra</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>*/*</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/znr/en_E5ldoirBEI.png">ZNR</set>
+            <reverse-related>Grakmaw, Skyclave Ravager</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Illusion</name>
             <prop>
                 <colors>U</colors>
@@ -3640,6 +3729,22 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Illusion    </name>
+            <text></text>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Illusion</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>*/*</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/znr/en_fihLA7XMUj.png">ZNR</set>
+            <reverse-related>Inscription of Insight</reverse-related>
+            <reverse-related>Skyclave Apparition</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Insect</name>
             <text>Infect</text>
             <prop>
@@ -3682,6 +3787,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/znr/en_PyB4KKK05P.png">ZNR</set>
             <set picURL="https://media.wizards.com/2018/a25/en_pIc2s1fJ7N.png">A25</set>
             <set picURL="https://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_FFbXRwKrvA.png">CN2</set>
             <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_DJi1itoTAo.png">SOI</set>
@@ -3694,10 +3800,15 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related>Crawling Sensation</reverse-related>
             <reverse-related>Dragonlair Spider</reverse-related>
             <reverse-related>Infested Roothold</reverse-related>
+            <reverse-related count="x=1">Iridescent Hornbeetle</reverse-related>
             <reverse-related count="2">It of the Horrid Swarm</reverse-related>
             <reverse-related>Living Hive</reverse-related>
             <reverse-related count="5">One Dozen Eyes</reverse-related>
             <reverse-related>Saber Ants</reverse-related>
+            <reverse-related>Scute Swarm</reverse-related>
+            <reverse-related exclude="exclude" count="x=0">Scute Swarm</reverse-related>
+            <reverse-related>Swarm Shambler</reverse-related>
+            <reverse-related exclude="exclude" count="x=0">Swarm Shambler</reverse-related>
             <reverse-related count="4">Symbiotic Beast</reverse-related>
             <reverse-related count="2">Symbiotic Elf</reverse-related>
             <reverse-related count="7">Symbiotic Wurm</reverse-related>
@@ -4022,6 +4133,21 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related count="12" exclude="exclude">Conqueror's Pledge</reverse-related>
             <reverse-related>Nahiri, the Lithomancer</reverse-related>
             <reverse-related count="x">Nomads' Assembly</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Kor Warrior</name>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Kor Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/znr/en_f6MMyXxee3.png">ZNR</set>
+            <reverse-related>Nahiri, Heir of the Ancients</reverse-related>
+            <reverse-related count="x=1">Squad Commander</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -4962,6 +5088,7 @@ Creatures you control attach each combat if able.</text>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/znr/en_CdHQEdc7Zh.png">ZNR</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_OCjIAJaJO2.png">2XM</set>
             <set picURL="https://media.wizards.com/2018/c18/en_ZjevIjFfjB.png">C18</set>
             <set picURL="https://img.scryfall.com/cards/large/front/8/5/8501a910-e181-4f85-ad34-d2a099257148.jpg">OGW</set>
@@ -4971,6 +5098,7 @@ Creatures you control attach each combat if able.</text>
             <reverse-related>Khalni Garden</reverse-related>
             <reverse-related>Nature Shields Its Own</reverse-related>
             <reverse-related>Nissa, Voice of Zendikar</reverse-related>
+            <reverse-related count="x">Phylath, World Sculptor</reverse-related>
             <reverse-related>Turntimber Sower</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -8653,6 +8781,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>Token</type>
                 <maintype>Token</maintype>
             </prop>
+            <set picURL="https://media.wizards.com/2020/znr/en_6X7SyYWItg.png">ZNR</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_9oRA18c9kd.png">2XM</set>
             <token>1</token>
             <tablerow>1</tablerow>
