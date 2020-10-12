@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20200411c</sourceVersion>
+        <sourceVersion>20200918</sourceVersion>
     </info>
     <cards>
         <!--
@@ -70,6 +70,8 @@
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_bwNR5QG9OL.png">2XM</set>
+            <set picURL="https://media.wizards.com/2020/m21/en_9nj3jwxfId.png">M21</set>
             <set picURL="https://media.wizards.com/2020/iko/en_8mnpdZmZOl.png">C20</set>
             <set picURL="https://media.wizards.com/2018/c18/en_51u40KF6eI.png">C18</set>
             <set picURL="https://media.wizards.com/2018/a25/en_S2PxKHYae5.png">A25</set>
@@ -87,6 +89,7 @@
             <set picURL="https://img.scryfall.com/cards/large/front/1/f/1fc37484-b58b-4a42-9281-b4272dc7c872.jpg">ZEN</set>
             <set picURL="https://img.scryfall.com/cards/large/front/d/9/d902520e-b4ed-4805-9f64-096acf7c5f31.jpg">CON</set>
             <reverse-related>Angelic Accord</reverse-related>
+            <reverse-related>Angelic Ascension</reverse-related>
             <reverse-related>Angelic Favor</reverse-related>
             <reverse-related count="x">Decree of Justice</reverse-related>
             <reverse-related>Descend upon the Sinful</reverse-related>
@@ -98,6 +101,7 @@
             <reverse-related>Luminarch Ascension</reverse-related>
             <reverse-related>Moonsilver Spear</reverse-related>
             <reverse-related>Sigil of the Empty Throne</reverse-related>
+            <reverse-related>Speaker of the Heavens</reverse-related>
             <reverse-related>Urbis Protector</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -172,6 +176,21 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Angel Warrior</name>
+            <text>Flying</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Angel Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/4</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/znr/en_pHDFb2PfVq.png">ZNR</set>
+            <reverse-related count="2">Emeria's Call</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Anointer Priest (Token)</name>
             <text>Whenever a creature token enters the battlefield under your control, you gain 1 life.</text>
             <prop>
@@ -195,6 +214,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_AWN5Acy1m0.png">2XM</set>
             <set picURL="https://img.scryfall.com/cards/large/front/8/3/8343e00c-5fc6-46a0-a238-3759338dced4.jpg">C14</set>
             <reverse-related>Pongify</reverse-related>
             <token>1</token>
@@ -424,6 +444,8 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_tckrIctlrW.png">2XM</set>
+            <set picURL="https://media.wizards.com/2020/m21/en_MIpvgxgBe0.png">M21</set>
             <set picURL="https://media.wizards.com/2020/iko/en_XqbCNkS7QJ.png">IKO</set>
             <set picURL="https://media.wizards.com/2019/c19/en_gqJ8IOFNKN.png">C19</set>
             <set picURL="https://img.scryfall.com/cards/large/front/8/3/832691a5-c638-481b-a413-3fdfc604a132.jpg">M19</set>
@@ -450,10 +472,12 @@ Creature tokens you control have flying and vigilance.</text>
             <reverse-related>Bringer of the Green Dawn</reverse-related>
             <reverse-related count="x=0">Curious Herd</reverse-related>
             <reverse-related>Druid of Horns</reverse-related>
+            <reverse-related>Elder Gargaroth</reverse-related>
             <reverse-related count="3">Feral Incarnation</reverse-related>
             <reverse-related count="x">Fresh Meat</reverse-related>
             <reverse-related>Garruk Wildspeaker</reverse-related>
             <reverse-related>Garruk, Primal Hunter</reverse-related>
+            <reverse-related>Garruk, Unleashed</reverse-related>
             <reverse-related count="x">Midsummer Revel</reverse-related>
             <reverse-related>Primeval Bounty</reverse-related>
             <reverse-related>Pulse of the Tangle</reverse-related>
@@ -635,6 +659,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/m21/en_q6x5IG2a03.png">M21</set>
             <set picURL="https://media.wizards.com/2020/iko/en_IrGXzUmI6s.png">C20</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_QJTb0Exxb5.png">MH1</set>
             <set picURL="https://media.wizards.com/2017/b9jm8nwv_mm3/en_2wXcJD92zt.png">MM3</set>
@@ -647,6 +672,7 @@ Creature tokens you control have flying and vigilance.</text>
             <reverse-related count="4">Beck // Call</reverse-related>
             <reverse-related>Emeria Angel</reverse-related>
             <reverse-related>Eyes in the Skies</reverse-related>
+            <reverse-related>Falconer Adept</reverse-related>
             <reverse-related count="x">Jötun Owl Keeper</reverse-related>
             <reverse-related count="4">Migratory Route</reverse-related>
             <reverse-related count="2">Ornitharch</reverse-related>
@@ -893,6 +919,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_lxpMG2sXNL.png">2XM</set>
             <set picURL="https://media.wizards.com/2018/c18/en_OKSc5ByNDU.png">C18</set>
             <set picURL="https://img.scryfall.com/cards/large/front/d/3/d3f2fd62-5430-449b-ac1b-14867d2bb326.jpg">C17</set>
             <set picURL="https://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_yUL1MXcDyV.png">C15</set>
@@ -930,7 +957,8 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/d/d1/Cat.jpg">6ED</set>
+            <set picURL="https://media.wizards.com/2020/m21/en_LhupBmmhYS.png">M21</set>
+            <reverse-related>Rin and Seri, Inseparable</reverse-related>
             <reverse-related count="x">Waiting in the Weeds</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -953,6 +981,49 @@ Creature tokens you control have flying and vigilance.</text>
             <reverse-related count="2">Leonin Warleader</reverse-related>
             <reverse-related count="2">Pride Sovereign</reverse-related>
             <reverse-related count="2">Regal Caracal</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Cat    </name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Cat</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/m21/en_4mbLs0ntGO.png">M21</set>
+            <reverse-related>Jolrael, Mwonvuli Recluse</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Cat     </name>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Cat</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/znr/en_964LQSigxS.png">ZNR</set>
+            <reverse-related>Attended Healer</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Cat Beast</name>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Cat Beast</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/znr/en_3ZWEb7WWJ0.png">ZNR</set>
+            <reverse-related>Felidar Retreat</reverse-related>
+            <reverse-related exclude="exclude" count="x=1">Felidar Retreat</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -1186,6 +1257,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_RTwvNOebur.png">2XM</set>
             <set picURL="https://media.wizards.com/2018/c18/en_1LubZ0qmyk.png">C18</set>
             <set picURL="https://media.wizards.com/2017/ust/en_qK2MGqzQbu.png">UST</set>
             <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_Pdlgntbr3f.png">SOI</set>
@@ -1294,8 +1366,23 @@ Cloud Sprite can block only creatures with flying.</text>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/m21/en_Ct0ga3l7P2.png">M21</set>
             <set picURL="https://media.wizards.com/2018/c18/en_IxxQEPgrRI.png">C18</set>
+            <reverse-related>Chrome Replicator</reverse-related>
             <reverse-related exclude="exclude">Retrofitter Foundry</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Construct     </name>
+            <prop>
+                <type>Token Artifact Creature — Construct</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/znr/en_R3g8yVJA0m.png">ZNR</set>
+            <reverse-related count="x=4">Myriad Construct</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -1309,11 +1396,14 @@ Cloud Sprite can block only creatures with flying.</text>
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_N4MwmLfDEB.png">2XM</set>
+            <set picURL="https://media.wizards.com/2020/m21/en_N80N6uOJwi.png">M21</set>
             <set picURL="https://media.wizards.com/2019/m20/en_150qEXnWWt.png">M20</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/4/14259948-5427-401f-b510-f5b705445e50.jpg">ORI</set>
             <set picURL="https://img.scryfall.com/cards/large/front/c/6/c655cd86-ed24-46e4-95d8-7eb1cf251de4.jpg">C14</set>
             <set picURL="https://img.scryfall.com/cards/large/front/6/a/6a3fc83f-ab02-4a44-910a-bfadc71cf162.jpg">AVR</set>
             <set picURL="https://img.scryfall.com/cards/large/front/7/7/771ae1f8-70b3-40da-8352-421a36c7abb5.jpg">ISD</set>
+            <reverse-related>Archfiend's Vessel</reverse-related>
             <reverse-related>Bloodsoaked Altar</reverse-related>
             <reverse-related>Demonic Rising</reverse-related>
             <reverse-related>Ob Nixilis of the Black Oath</reverse-related>
@@ -1387,6 +1477,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <reverse-related count="4">Devils' Playground</reverse-related>
             <reverse-related>Make Mischief</reverse-related>
             <reverse-related>Tibalt, Rakish Instigator</reverse-related>
+            <reverse-related>Zurzoth, Chaos Rider</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -1482,6 +1573,21 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <set picURL="https://img.scryfall.com/cards/large/front/f/2/f2e8077e-4400-4923-afe6-6ff5a51b5e91.jpg">DTK</set>
             <reverse-related>Ojutai's Summons</reverse-related>
             <reverse-related>Skywise Teachings</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Dog</name>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Dog</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/m21/en_Rc1778MsPh.png">M21</set>
+            <reverse-related>Release the Dogs</reverse-related>
+            <reverse-related>Rin and Seri, Inseparable</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -1637,12 +1743,14 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/znr/en_M7rV93Flf6.png">ZNR</set>
             <set picURL="https://media.wizards.com/2020/iko/en_C5yn9a7rMM.png">C20</set>
             <set picURL="https://media.wizards.com/2019/c19/en_3bVQTwNBDt.png">C19</set>
             <set picURL="https://img.scryfall.com/cards/large/front/6/5/65844e72-aa84-483f-b07e-9e34e798aaec.jpg">AKH</set>
             <set picURL="https://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_YQgzJqST41.png">C15</set>
             <set picURL="https://img.scryfall.com/cards/large/front/9/3/93679bb9-ee1c-4eea-bcdd-72785d5788af.jpg">M13</set>
             <reverse-related>Drake Haven</reverse-related>
+            <reverse-related>Roost of Drakes</reverse-related>
             <reverse-related count="2">Talrand's Invocation</reverse-related>
             <reverse-related>Talrand, Sky Summoner</reverse-related>
             <token>1</token>
@@ -1827,6 +1935,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_9JF4p74iRD.png">2XM</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/f/1feaa879-ceb3-4b20-8021-ae41d8be9005.jpg">C17</set>
             <set picURL="https://img.scryfall.com/cards/large/front/c/d/cd1ef4fc-9b03-4750-90c9-aaa0017579dc.jpg">MM2</set>
             <set picURL="https://img.scryfall.com/cards/large/front/b/9/b94559ea-b4c8-42e5-81b5-df45b2d711fd.jpg">MM2</set>
@@ -2078,6 +2187,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_iSgyGNisMo.png">2XM</set>
             <set picURL="https://media.wizards.com/2017/ust/en_hVi6aiRirc.png">UST</set>
             <set picURL="https://media.wizards.com/2017/b9jm8nwv_mm3/en_rONwJn9fUD.png">MM3</set>
             <set picURL="https://img.scryfall.com/cards/large/front/5/b/5bfb1440-d4c1-42cf-a777-ee1644dbbac7.jpg">DGM</set>
@@ -2289,6 +2399,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_NdkKezF1yA.png">2XM</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_bSdEUZ4hMv.png">MH1</set>
             <set picURL="https://media.wizards.com/2017/b9jm8nwv_mm3/en_0F4M7yiktn.png">MM3</set>
             <set picURL="https://media.wizards.com/2016/adhfianalodifdj2_EMA/en_cQ9QQhPytK.png">EMA</set>
@@ -2391,6 +2502,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_5rGadvpK67.png">2XM</set>
             <set picURL="https://img.scryfall.com/cards/large/front/4/9/49180301-f72f-48ca-8be1-df295e89cdd7.jpg">SHM</set>
             <reverse-related count="x">Mercy Killing</reverse-related>
             <reverse-related>Rhys the Redeemed</reverse-related>
@@ -2588,6 +2700,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>0/0</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_XbLXIG0896.png">2XM</set>
             <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/byg00olvZx_EN.png">C16</set>
             <set picURL="https://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_UF6tUBntoI.png">C15</set>
             <set picURL="https://img.scryfall.com/cards/large/front/4/4/4414f9fa-dfda-4714-9f87-cb5e8914b07a.jpg">MM2</set>
@@ -2761,12 +2874,16 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <set picURL="https://img.scryfall.com/cards/large/front/5/7/577c2e32-deb6-40d9-a050-c2acb5bfc05f.jpg">RTR</set>
             <set picURL="https://img.scryfall.com/cards/large/front/0/6/062043de-a199-408d-8d77-09531ad38b16.jpg">LGN</set>
             <reverse-related count="2">Beetleback Chief</reverse-related>
+            <reverse-related count="x">Box of Free-Range Goblins</reverse-related>
             <reverse-related>Chancellor of the Forge</reverse-related>
             <reverse-related count="x">Chancellor of the Forge</reverse-related>
             <reverse-related count="2">Dragon Fodder</reverse-related>
             <reverse-related count="2">Empty the Warrens</reverse-related>
+            <reverse-related count="x">Gift Horse</reverse-related>
             <reverse-related>Goblin Assault</reverse-related>
             <reverse-related count="x=2">Goblin Gathering</reverse-related>
+            <reverse-related count="x">Goblin Goliath</reverse-related>
+            <reverse-related>Goblin Instigator</reverse-related>
             <reverse-related count="2">Goblin Marshal</reverse-related>
             <reverse-related count="x">Goblin Offensive</reverse-related>
             <reverse-related>Goblin Rabblemaster</reverse-related>
@@ -2794,9 +2911,6 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related count="2">Sling-Gang Lieutenant</reverse-related>
             <reverse-related>Survey the Wreckage</reverse-related>
             <reverse-related count="x">Warbreak Trumpeter</reverse-related>
-            <reverse-related count="x">Box of Free-Range Goblins</reverse-related>
-            <reverse-related count="x">Gift Horse</reverse-related>
-            <reverse-related>Goblin Instigator</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -2842,6 +2956,21 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             </prop>
             <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/nW8u7HgucU_EN.png">C16</set>
             <reverse-related>Goblin Spymaster</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Goblin Construct</name>
+            <text>This creature can't block.
+At the beginning of your upkeep, this creature deals 1 damage to you.</text>
+            <prop>
+                <type>Token Artifact Creature — Goblin Construct</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>0/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/znr/en_raFbiSd31p.png">ZNR</set>
+            <reverse-related>Relic Robber</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -2912,6 +3041,21 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Goblin Wizard </name>
+            <text>Prowess</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Goblin Wizard</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/m21/en_KM37k7nApV.png">M21</set>
+            <reverse-related count="2">Goblin Wizardry</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Gold</name>
             <text>Sacrifice this artifact: Add one mana of any color.</text>
             <prop>
@@ -2953,6 +3097,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_KjxI26KzLw.png">2XM</set>
             <set picURL="https://media.wizards.com/2019/m20/en_EfeEwTXnO0.png">M20</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_skGeUMCHa2.png">MH1</set>
             <set picURL="https://media.wizards.com/2017/b9jm8nwv_mm3/en_BsmvNmPP4D.png">MM3</set>
@@ -3067,8 +3212,10 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/m21/en_nOSHyoFcU7.png">M21</set>
             <set picURL="https://img.scryfall.com/cards/large/front/9/6/96c36884-df5e-435d-9473-65da550535fb.jpg">DDH</set>
             <set picURL="https://img.scryfall.com/cards/large/front/e/0/e0e3a11d-c7a3-495b-add9-0503141b1cfe.jpg">DDL</set>
+            <reverse-related>Griffin Aerie</reverse-related>
             <reverse-related>Griffin Guide</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -3417,6 +3564,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_5SH2Q6VQQs.png">2XM</set>
             <set picURL="https://media.wizards.com/2020/iko/en_o8Tv89Oivm.png">IKO</set>
             <set picURL="https://media.wizards.com/2020/iko/en_1oqquHyBg9.png">IKO</set>
             <set picURL="https://media.wizards.com/2020/iko/en_pI8GLjxwQ5.png">IKO</set>
@@ -3505,6 +3653,21 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Hydra  </name>
+            <text></text>
+            <prop>
+                <colors>BG</colors>
+                <type>Token Creature — Hydra</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>*/*</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/znr/en_E5ldoirBEI.png">ZNR</set>
+            <reverse-related>Grakmaw, Skyclave Ravager</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Illusion</name>
             <prop>
                 <colors>U</colors>
@@ -3566,6 +3729,22 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Illusion    </name>
+            <text></text>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Illusion</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>*/*</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/znr/en_fihLA7XMUj.png">ZNR</set>
+            <reverse-related>Inscription of Insight</reverse-related>
+            <reverse-related>Skyclave Apparition</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Insect</name>
             <text>Infect</text>
             <prop>
@@ -3608,6 +3787,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/znr/en_PyB4KKK05P.png">ZNR</set>
             <set picURL="https://media.wizards.com/2018/a25/en_pIc2s1fJ7N.png">A25</set>
             <set picURL="https://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_FFbXRwKrvA.png">CN2</set>
             <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_DJi1itoTAo.png">SOI</set>
@@ -3620,10 +3800,15 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related>Crawling Sensation</reverse-related>
             <reverse-related>Dragonlair Spider</reverse-related>
             <reverse-related>Infested Roothold</reverse-related>
+            <reverse-related count="x=1">Iridescent Hornbeetle</reverse-related>
             <reverse-related count="2">It of the Horrid Swarm</reverse-related>
             <reverse-related>Living Hive</reverse-related>
             <reverse-related count="5">One Dozen Eyes</reverse-related>
             <reverse-related>Saber Ants</reverse-related>
+            <reverse-related>Scute Swarm</reverse-related>
+            <reverse-related exclude="exclude" count="x=0">Scute Swarm</reverse-related>
+            <reverse-related>Swarm Shambler</reverse-related>
+            <reverse-related exclude="exclude" count="x=0">Swarm Shambler</reverse-related>
             <reverse-related count="4">Symbiotic Beast</reverse-related>
             <reverse-related count="2">Symbiotic Elf</reverse-related>
             <reverse-related count="7">Symbiotic Wurm</reverse-related>
@@ -3795,6 +3980,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/m21/en_GuzqmaBD8h.png">M21</set>
             <set picURL="https://media.wizards.com/2019/eld/en_9Imcz8rwoV.png">ELD</set>
             <set picURL="https://img.scryfall.com/cards/large/front/f/d/fd8ca5ee-7b93-4248-8f4a-b88261ee1eed.jpg">M19</set>
             <set picURL="https://media.wizards.com/2018/dom/en_sYO9Sdh8Vs.png">DOM</set>
@@ -3804,6 +3990,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <set picURL="https://img.scryfall.com/cards/large/front/6/7/67d3d039-248a-4eb8-be5c-12959b458fea.jpg">RTR</set>
             <reverse-related>Aryel, Knight of Windgrace</reverse-related>
             <reverse-related>Banish into Fable</reverse-related>
+            <reverse-related>Basri's Lieutenant</reverse-related>
             <reverse-related count="2">Call the Cavalry</reverse-related>
             <reverse-related>Doom Foretold</reverse-related>
             <reverse-related>Gallant Cavalry</reverse-related>
@@ -3812,6 +3999,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related count="2">Knight Watch</reverse-related>
             <reverse-related>Knightly Valor</reverse-related>
             <reverse-related>Lonesome Unicorn // Rider in Need</reverse-related>
+            <reverse-related count="x=1">Militant Angel</reverse-related>
             <reverse-related>Righteous Confluence</reverse-related>
             <reverse-related>Security Blockade</reverse-related>
             <reverse-related>Selesnya Charm</reverse-related>
@@ -3820,6 +4008,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related>Sunspire Gatekeepers</reverse-related>
             <reverse-related>The Circle of Loyalty</reverse-related>
             <reverse-related>Trostani's Summoner</reverse-related>
+            <reverse-related>Valorous Steed</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3944,6 +4133,21 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related count="12" exclude="exclude">Conqueror's Pledge</reverse-related>
             <reverse-related>Nahiri, the Lithomancer</reverse-related>
             <reverse-related count="x">Nomads' Assembly</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Kor Warrior</name>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Kor Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/znr/en_f6MMyXxee3.png">ZNR</set>
+            <reverse-related>Nahiri, Heir of the Ancients</reverse-related>
+            <reverse-related count="x=1">Squad Commander</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -4125,6 +4329,7 @@ A manifested creature card can be turned face up any time for its mana cost. A f
                 <cmc>0</cmc>
                 <pt>20/20</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_3rk45TcoPX.png">2XM</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_sHmt9uKnHu.png">MH1</set>
             <set picURL="https://img.scryfall.com/cards/large/front/8/f/8f5c3863-c876-48a8-9bc8-be20cd61074c.jpg">CSP</set>
             <reverse-related>Dark Depths</reverse-related>
@@ -4260,6 +4465,7 @@ Totem armor</text>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/5/d/5d2a3833-ab5b-4f84-b39c-d0eeb7b474d3.jpg">JOU</set>
             <reverse-related count="2">Flurry of Horns</reverse-related>
+            <reverse-related>Sethron, Hurloon General</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -4513,6 +4719,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_D2qQRBsdcT.png">2XM</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_xKv8DrRlty.png">MH1</set>
             <set picURL="https://media.wizards.com/2018/c18/en_x7ivUnnF1w.png">C18</set>
             <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/ZcDckQNuvU_EN.png">C16</set>
@@ -4546,6 +4753,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>2/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_uuVXV4ix9e.png">2XM</set>
             <set picURL="https://media.wizards.com/2018/c18/en_91HuVMHk2Q.png">C18</set>
             <reverse-related>Brudiclad, Telchor Engineer</reverse-related>
             <token>1</token>
@@ -4648,6 +4856,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_cSiZjUx5rU.png">2XM</set>
             <set picURL="https://media.wizards.com/2017/b9jm8nwv_mm3/en_fzNmUE7vkf.png">MM3</set>
             <set picURL="https://img.scryfall.com/cards/large/front/d/4/d49e91df-0647-4c9f-9c3e-fb8c77c4886c.jpg">ROE</set>
             <set picURL="https://img.scryfall.com/cards/large/front/3/9/39a4b6d1-c5f5-4a2d-a00c-97f6395c941b.jpg">ALA</set>
@@ -4855,6 +5064,22 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Pirate </name>
+            <text>This creature can't block.
+Creatures you control attach each combat if able.</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Pirate</type>
+                <maintype>Creatujre</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/m21/en_iS4JGVaNT0.png">M21</set>
+            <reverse-related>Pursued Whale</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Plant</name>
             <prop>
                 <colors>G</colors>
@@ -4863,6 +5088,8 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/znr/en_CdHQEdc7Zh.png">ZNR</set>
+            <set picURL="https://media.wizards.com/2020/2xm/en_OCjIAJaJO2.png">2XM</set>
             <set picURL="https://media.wizards.com/2018/c18/en_ZjevIjFfjB.png">C18</set>
             <set picURL="https://img.scryfall.com/cards/large/front/8/5/8501a910-e181-4f85-ad34-d2a099257148.jpg">OGW</set>
             <set picURL="https://img.scryfall.com/cards/large/front/c/1/c1424e8d-1f96-44af-9382-c337b6695ddf.jpg">WWK</set>
@@ -4871,6 +5098,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related>Khalni Garden</reverse-related>
             <reverse-related>Nature Shields Its Own</reverse-related>
             <reverse-related>Nissa, Voice of Zendikar</reverse-related>
+            <reverse-related count="x">Phylath, World Sculptor</reverse-related>
             <reverse-related>Turntimber Sower</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4935,7 +5163,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Ragavan</name>
-            <set picURL="https://img.scryfall.com/cards/large/front/1/e/1ebc91a9-23e0-4ca1-bc6d-e710ad2efb31.jpg">AER</set>
             <prop>
                 <colors>R</colors>
                 <cmc>0</cmc>
@@ -4943,6 +5170,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <maintype>Creature</maintype>
                 <pt>2/1</pt>
             </prop>
+            <set picURL="https://img.scryfall.com/cards/large/front/1/e/1ebc91a9-23e0-4ca1-bc6d-e710ad2efb31.jpg">AER</set>
             <tablerow>2</tablerow>
             <cipt>1</cipt>
             <token>1</token>
@@ -5015,7 +5243,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Reflection  </name>
-            <text></text>
             <prop>
                 <colors>U</colors>
                 <cmc>0</cmc>
@@ -5114,6 +5341,8 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_l1CRCiAQ4v.png">2XM</set>
+            <set picURL="https://media.wizards.com/2020/m21/en_F6MYJEIKON.png">M21</set>
             <set picURL="https://media.wizards.com/2020/iko/en_0grsvGZ0uD.png">C20</set>
             <set picURL="https://media.wizards.com/2019/c19/en_Mndwkmo0lD.png">C19</set>
             <set picURL="https://media.wizards.com/2018/dom/en_LOqdfjtnAr.png">DOM</set>
@@ -5142,6 +5371,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related count="x">Aura Mutation</reverse-related>
             <reverse-related count="2">Bramble Elemental</reverse-related>
             <reverse-related count="x">Death Mutation</reverse-related>
+            <reverse-related>Deathbloom Thallid</reverse-related>
             <reverse-related>Deathspore Thallid</reverse-related>
             <reverse-related>Dreampod Druid</reverse-related>
             <reverse-related>Druidic Satchel</reverse-related>
@@ -5149,6 +5379,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related count="x=2">Fertile Imagination</reverse-related>
             <reverse-related count="2">Fists of Ironwood</reverse-related>
             <reverse-related>Flash Foliage</reverse-related>
+            <reverse-related count="2">Fungal Rebirth</reverse-related>
             <reverse-related count="x">Fungal Sprouting</reverse-related>
             <reverse-related>Ghave, Guru of Spores</reverse-related>
             <reverse-related>Golgari Germination</reverse-related>
@@ -5182,6 +5413,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related count="x">Spore Burst</reverse-related>
             <reverse-related>Sporemound</reverse-related>
             <reverse-related>Sporesower Thallid</reverse-related>
+            <reverse-related>Sporeweb Weaver</reverse-related>
             <reverse-related count="x">Sporogenesis</reverse-related>
             <reverse-related>Sporoloth Ancient</reverse-related>
             <reverse-related>Sprout</reverse-related>
@@ -5204,7 +5436,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related>Vitu-Ghazi, the City-Tree</reverse-related>
             <reverse-related>Overgrown Armasaur</reverse-related>
             <reverse-related>Tendershoot Dryad</reverse-related>
-            <reverse-related>Deathbloom Thallid</reverse-related>
             <reverse-related>Fungal Infection</reverse-related>
             <reverse-related>Fungal Plots</reverse-related>
             <reverse-related count="2">Saproling Migration</reverse-related>
@@ -5298,6 +5529,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_J5bZ8HFzvR.png">2XM</set>
             <set picURL="https://media.wizards.com/2019/war/en_Jg1FD7mOfM.png">WAR</set>
             <set picURL="https://media.wizards.com/2018/c18/en_JyIqd8Hnqa.png">C18</set>
             <set picURL="https://media.wizards.com/2016/bVvMNuiu2i_KLD/en_xzZQc5a68Z.png">KLD</set>
@@ -5348,6 +5580,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_N4wZMdI4EK.png">2XM</set>
             <set picURL="https://media.wizards.com/2018/c18/en_Wgq29EPRnO.png">C18</set>
             <set picURL="https://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_v2CKUzXPj8.png">C15</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/a/1a7d89ca-8611-4bda-b5c8-0350ce091102.jpg">LRW</set>
@@ -5365,9 +5598,9 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <pt>2/2</pt>
             </prop>
             <set picURL="https://media.wizards.com/2019/mh1/en_tM8ljjBCro.png">MH1</set>
-            <token>1</token>
             <reverse-related>Birthing Boughs</reverse-related>
             <reverse-related>Irregular Cohort</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -5576,6 +5809,8 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_o6IQOYzKQz.png">2XM</set>
+            <set picURL="https://media.wizards.com/2020/m21/en_dM7NU2ZQUb.png">M21</set>
             <set picURL="https://media.wizards.com/2020/iko/en_AMfETR4UJ5.png">C20</set>
             <set picURL="https://media.wizards.com/2019/m20/en_8w9LAwzvXk.png">M20</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_9kqwet6XiZ.png">MH1</set>
@@ -5610,6 +5845,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related attach="attach">Ancestral Blade</reverse-related>
             <reverse-related>Attended Knight</reverse-related>
             <reverse-related>Bant Sojourners</reverse-related>
+            <reverse-related count="x">Basri Ket</reverse-related>
             <reverse-related>Benalish Commander</reverse-related>
             <reverse-related count="3">Captain of the Watch</reverse-related>
             <reverse-related count="3">Captain's Call</reverse-related>
@@ -5635,6 +5871,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related>Precinct Captain</reverse-related>
             <reverse-related count="2">Raise the Alarm</reverse-related>
             <reverse-related>Recruit the Worthy</reverse-related>
+            <reverse-related>Secure the Scene</reverse-related>
             <reverse-related>Security Detail</reverse-related>
             <reverse-related>Skyknight Vanguard</reverse-related>
             <reverse-related>Stormfront Riders</reverse-related>
@@ -6154,6 +6391,7 @@ Cumulative upkeep {G}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_0Cih0roszy.png">2XM</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_ekxScmW9bT.png">MH1</set>
             <set picURL="https://img.scryfall.com/cards/large/front/3/a/3af9733f-192f-4028-8ad6-aa1187dd15e7.jpg">CNS</set>
             <set picURL="https://img.scryfall.com/cards/large/front/a/f/af7c2def-d20d-4670-8950-7042e9380844.jpg">ODY</set>
@@ -6293,7 +6531,6 @@ Equip {0}</text>
         </card>
         <card>
             <name>Tentacle</name>
-            <text></text>
             <prop>
                 <colors>U</colors>
                 <cmc>0</cmc>
@@ -6330,6 +6567,7 @@ This creature can't be enchanted.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_P7Ua75t2Cv.png">2XM</set>
             <set picURL="https://media.wizards.com/2018/rna/en_VL2JcQP37W.png">RNA</set>
             <set picURL="https://media.wizards.com/2018/c18/en_mBoeau7u3l.png">C18</set>
             <set picURL="https://media.wizards.com/2018/c18/en_Lw5bv3eHeO.png">C18</set>
@@ -6349,6 +6587,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="2">Foundry of the Consuls</reverse-related>
             <reverse-related>Ghirapur Gearcrafter</reverse-related>
             <reverse-related count="x">Hangarback Walker</reverse-related>
+            <reverse-related>Inspired Sphinx</reverse-related>
             <reverse-related count="2">Maverick Thopterist</reverse-related>
             <reverse-related>Pia Nalaar</reverse-related>
             <reverse-related count="2">Pia and Kiran Nalaar</reverse-related>
@@ -6377,6 +6616,7 @@ This creature can't be enchanted.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_OuAEDAzu53.png">2XM</set>
             <set picURL="https://media.wizards.com/2018/c18/en_R477TZPffA.png">C18</set>
             <set picURL="https://media.wizards.com/2017/ust/en_R8H1j5GjDU.png">UST</set>
             <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/PK9s0eoiqm_EN.png">C16</set>
@@ -6438,6 +6678,8 @@ This creature can't be enchanted.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_afafADUczM.png">2XM</set>
+            <set picURL="https://media.wizards.com/2020/m21/en_UsVpbUDWdZ.png">M21</set>
             <set picURL="https://media.wizards.com/2020/iko/en_JuQtxB6MmU.png">C20</set>
             <set picURL="https://media.wizards.com/2019/c19/en_sNEBzx6V2p.png">C19</set>
             <set picURL="https://media.wizards.com/2019/m20/en_kZwk2VjcE9.png">M20</set>
@@ -6450,10 +6692,12 @@ This creature can't be enchanted.</text>
             <reverse-related>Brazen Freebooter</reverse-related>
             <reverse-related>Captain Lannery Storm</reverse-related>
             <reverse-related count="2">Contract Killing</reverse-related>
+            <reverse-related>Corsair Captain</reverse-related>
             <reverse-related>Deadeye Plunderers</reverse-related>
             <reverse-related>Depths of Desire</reverse-related>
             <reverse-related>Dire Fleet Hoarder</reverse-related>
             <reverse-related count="x=0">Dockside Extortionist</reverse-related>
+            <reverse-related count="x">Gadrak, the Crown-Scourge</reverse-related>
             <reverse-related>Gleaming Barrier</reverse-related>
             <reverse-related>Heartless Pillage</reverse-related>
             <reverse-related>Hornswoggle</reverse-related>
@@ -6561,6 +6805,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_6nWQeyTjOn.png">2XM</set>
             <set picURL="https://img.scryfall.com/cards/large/front/2/2/2250038e-4b67-4c44-b446-e78c451e5fbd.jpg">C14</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/1/11f55fa2-bb6f-4609-85ec-72703638fbd9.jpg">ROE</set>
             <reverse-related>Tuktuk the Explorer</reverse-related>
@@ -6802,7 +7047,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <name>Wall   </name>
             <text>Defender</text>
             <prop>
-                <colors></colors>
                 <cmc>0</cmc>
                 <type>Token Artifact Creature — Wall</type>
                 <maintype>Creature</maintype>
@@ -6914,6 +7158,20 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Weird </name>
+            <prop>
+                <colors>UR</colors>
+                <type>Token Creature — Weird</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>*/*</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/m21/en_2YuRTRHT4e.png">M21</set>
+            <reverse-related>Experimental Overload</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Whale</name>
             <text>When this creature dies, create a 9/9 blue Kraken creature token.</text>
             <prop>
@@ -6966,6 +7224,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_eevhHaOASk.png">2XM</set>
             <set picURL="https://media.wizards.com/2019/thb/en_ahsZMx1Bgw.png">THB</set>
             <set picURL="https://media.wizards.com/2019/m20/en_yGHIfVnYBa.png">M20</set>
             <set picURL="https://media.wizards.com/2019/war/en_vc9PEBCee6.png">WAR</set>
@@ -7141,6 +7400,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_vj2z2umJ9C.png">2XM</set>
             <set picURL="https://img.scryfall.com/cards/large/front/c/2/c20607b9-4f4a-4dbc-a09f-250ba2d53f80.jpg">C14</set>
             <set picURL="https://img.scryfall.com/cards/large/front/e/e/ee53b9a0-8e07-404d-87ae-ff8397a0ba29.jpg">SOM</set>
             <reverse-related>Wurmcoil Engine</reverse-related>
@@ -7156,6 +7416,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_VOExBta6Z8.png">2XM</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/f/1f27a3e2-bfd6-4d01-aef1-0bdb09e41ee0.jpg">C14</set>
             <set picURL="https://img.scryfall.com/cards/large/front/3/e/3e46e703-2157-41e5-9c21-c17af43e0d3f.jpg">SOM</set>
             <reverse-related>Wurmcoil Engine</reverse-related>
@@ -7233,8 +7494,9 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/m21/en_sQXnmfJFAj.png">M21</set>
             <set picURL="https://media.wizards.com/2020/iko/en_4MgEbcrpn4.png">C20</set>
-            <set pickURL="https://media.wizards.com/2019/thb/en_zh0TosPHeW.png">THB</set>
+            <set picURL="https://media.wizards.com/2019/thb/en_zh0TosPHeW.png">THB</set>
             <set picURL="https://media.wizards.com/2019/c19/en_RcvmrIA4co.png">C19</set>
             <set picURL="https://media.wizards.com/2019/c19/en_Ryxjzpphjb.png">C19</set>
             <set picURL="https://media.wizards.com/2019/m20/en_lb4QSh11Zp.png">M20</set>
@@ -7313,6 +7575,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related count="2">Hour of Promise</reverse-related>
             <reverse-related>Kalitas, Traitor of Ghet</reverse-related>
             <reverse-related>Lair of the Ashen Idol</reverse-related>
+            <reverse-related>Liliana's Devotee</reverse-related>
             <reverse-related count="2">Liliana's Mastery</reverse-related>
             <reverse-related>Liliana's Reaver</reverse-related>
             <reverse-related>Liliana, Death's Majesty</reverse-related>
@@ -7325,6 +7588,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related count="x">Necromancer's Covenant</reverse-related>
             <reverse-related>Necromancer's Stockpile</reverse-related>
             <reverse-related>Necromaster Dragon</reverse-related>
+            <reverse-related count="x">Necromentia</reverse-related>
             <reverse-related>Nested Ghoul</reverse-related>
             <reverse-related>Never // Return</reverse-related>
             <reverse-related>Noosegraf Mob</reverse-related>
@@ -7550,6 +7814,19 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
+            <name>Basri Ket (Emblem)</name>
+            <text>At the beginning of combat on your turn, create a 1/1 white Soldier creature token, then put a +1/+1 counter on each creature you control.</text>
+            <prop>
+                <type>Emblem</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/m21/en_fDWMVuLd7t.png">M21</set>
+            <related>Soldier</related>
+            <reverse-related exclude="exclude">Basri Ket</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Chandra, Awakened Inferno (Emblem)</name>
             <text>At the beginning of your upkeep, this emblem deals 1 damage to you.</text>
             <prop>
@@ -7710,6 +7987,18 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
+            <name>Garruk, Unleashed (Emblem)</name>
+            <text>At the beginning of your end step, you may search your library for a creature card, put it onto the battlefield, then shuffle your library.</text>
+            <prop>
+                <type>Emblem</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/m21/en_W81AINvJq4.png">M21</set>
+            <reverse-related exclude="exclude">Garruk, Unleashed</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Gideon of the Trials (Emblem)</name>
             <text>As long as you control a Gideon planeswalker, you can't lose the game and your opponents can't win the game.</text>
             <prop>
@@ -7857,6 +8146,18 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
+            <name>Liliana, Waker of the Dead (Emblem)</name>
+            <text>At the beginning of combat on your turn, put target creature from a graveyard onto the battlefield under your control. It gains haste.</text>
+            <prop>
+                <type>Emblem</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/m21/en_Jo2Fd5exZn.png">M21</set>
+            <reverse-related>Liliana, Waker of the Dead</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Mu Yanling, Sky Dancer (Emblem)</name>
             <text>Islands you control have "{T}: Draw a card."</text>
             <prop>
@@ -7986,8 +8287,8 @@ At the beginning of your end step, discard your hand.</text>
                 <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2019/mh1/en_tZJMic1WRU.png">MH1</set>
-            <token>1</token>
             <reverse-related exclude="exclude">Serra the Benevolent</reverse-related>
+            <token>1</token>
             <tablerow>1</tablerow>
         </card>
         <card>
@@ -8086,6 +8387,20 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <reverse-related exclude="exclude">Tezzeret, Artifice Master</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Unicorn</name>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Unicorn</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="">JMP</set>
+            <reverse-related>Blessed Sanctuary</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
         </card>
         <card>
             <name>Venser, the Sojourner (Emblem)</name>
@@ -8456,6 +8771,18 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>Zirda, the Dawnwaker</reverse-related>
             <reverse-related>"Obosh, With The Leggies"</reverse-related>
             <reverse-related>"Gigan, Cyberclaw Terror"</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Copy </name>
+            <text>(This token can be used to represent a token that's a copy of a permanent.)</text>
+            <prop>
+                <type>Token</type>
+                <maintype>Token</maintype>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/znr/en_6X7SyYWItg.png">ZNR</set>
+            <set picURL="https://media.wizards.com/2020/2xm/en_9oRA18c9kd.png">2XM</set>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
