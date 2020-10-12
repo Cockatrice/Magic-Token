@@ -4,10 +4,15 @@ language: minimal
 addons:
   apt:
     packages:
-      # Needed for `xmllint`.
-      - libxml2-utils
+      - libxml2-utils    # Needed for `xmllint`
 
 jobs:
   include:
    - name: XML Validation
-     script: xmllint --format --pretty 1 --load-trace --debug --schema https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd /tokens.xml
+     script: xmllint --schema https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd /tokens.xml
+
+#xmllint --format --pretty 1 --load-trace --debug --schema https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd /tokens.xml
+
+#wget https://apps.nextcloud.com/schema/apps/info.xsd
+#xmllint appinfo/info.xml --schema info.xsd --noout
+#rm info.xsd
