@@ -11,7 +11,7 @@ jobs:
    - name: XML Validation
      script:
        - wget https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd
-       - xmllint --schema cards.xsd /tokens.xml
+       - xmllint --schema cards.xsd tokens.xml
 
 #xmllint --format --pretty 1 --load-trace --debug --schema https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd /tokens.xml
 
