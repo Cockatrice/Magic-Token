@@ -9,7 +9,9 @@ addons:
 jobs:
   include:
    - name: XML Validation
-     script: xmllint --schema https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd /tokens.xml
+     script:
+       - wget https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd
+       - xmllint --schema cards.xsd /tokens.xml
 
 #xmllint --format --pretty 1 --load-trace --debug --schema https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd /tokens.xml
 
