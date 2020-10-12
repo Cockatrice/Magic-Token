@@ -1367,7 +1367,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <pt>4/4</pt>
             </prop>
             <set picURL="https://media.wizards.com/2020/m21/en_Ct0ga3l7P2.png">M21</set>
-            <set picURL="https://media.wizards.com/2018/c18/en_IxxQEPgrRI.png">C18</set>+
+            <set picURL="https://media.wizards.com/2018/c18/en_IxxQEPgrRI.png">C18</set>
             <reverse-related>Chrome Replicator</reverse-related>
             <reverse-related exclude="exclude">Retrofitter Foundry</reverse-related>
             <token>1</token>
