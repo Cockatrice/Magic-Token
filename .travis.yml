@@ -11,13 +11,9 @@ jobs:
   include:
    - name: XML Validation
      script:
-       # `xmllint` doesn't work over https, we need to download the xsd file first
-       - wget https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd
+       # `xmllint` doesn't work over https, we need to download the xsd files first
+       - wget https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v3/cards.xsd -o cards-v3.xsd
+       - wget https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd -o cards-v4.xsd
        # Then we can link the xsd file locally
-       - xmllint --schema cards.xsd tokens.xml --debug
-
-# --noout oder debug
-
-#wget https://apps.nextcloud.com/schema/apps/info.xsd
-#xmllint appinfo/info.xml --schema info.xsd --noout
-#rm info.xsd
+       - xmllint challenge_tokens.xml --schema cards-v3.xsd --noout
+       - xmllint tokens.xml --schema cards-v4.xsd --noout
