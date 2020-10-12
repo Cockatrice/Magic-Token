@@ -1,6 +1,12 @@
 os: linux
 language: minimal
 
+addons:
+  apt:
+    packages:
+      # Needed for `xmllint`.
+      - libxml2-utils
+
 jobs:
   include:
    - name: XML Validation
