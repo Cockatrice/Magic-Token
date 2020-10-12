@@ -1367,7 +1367,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <pt>4/4</pt>
             </prop>
             <set picURL="https://media.wizards.com/2020/m21/en_Ct0ga3l7P2.png">M21</set>
-            <set picURL="https://media.wizards.com/2018/c18/en_IxxQEPgrRI.png">C18</set>+
+            <set picURL="https://media.wizards.com/2018/c18/en_IxxQEPgrRI.png">C18</set>
             <reverse-related>Chrome Replicator</reverse-related>
             <reverse-related exclude="exclude">Retrofitter Foundry</reverse-related>
             <token>1</token>
@@ -5163,7 +5163,6 @@ Creatures you control attach each combat if able.</text>
         </card>
         <card>
             <name>Ragavan</name>
-            <set picURL="https://img.scryfall.com/cards/large/front/1/e/1ebc91a9-23e0-4ca1-bc6d-e710ad2efb31.jpg">AER</set>
             <prop>
                 <colors>R</colors>
                 <cmc>0</cmc>
@@ -5171,6 +5170,7 @@ Creatures you control attach each combat if able.</text>
                 <maintype>Creature</maintype>
                 <pt>2/1</pt>
             </prop>
+            <set picURL="https://img.scryfall.com/cards/large/front/1/e/1ebc91a9-23e0-4ca1-bc6d-e710ad2efb31.jpg">AER</set>
             <tablerow>2</tablerow>
             <cipt>1</cipt>
             <token>1</token>
@@ -5598,9 +5598,9 @@ Creatures you control attach each combat if able.</text>
                 <pt>2/2</pt>
             </prop>
             <set picURL="https://media.wizards.com/2019/mh1/en_tM8ljjBCro.png">MH1</set>
-            <token>1</token>
             <reverse-related>Birthing Boughs</reverse-related>
             <reverse-related>Irregular Cohort</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -7496,7 +7496,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             </prop>
             <set picURL="https://media.wizards.com/2020/m21/en_sQXnmfJFAj.png">M21</set>
             <set picURL="https://media.wizards.com/2020/iko/en_4MgEbcrpn4.png">C20</set>
-            <set pickURL="https://media.wizards.com/2019/thb/en_zh0TosPHeW.png">THB</set>
+            <set picURL="https://media.wizards.com/2019/thb/en_zh0TosPHeW.png">THB</set>
             <set picURL="https://media.wizards.com/2019/c19/en_RcvmrIA4co.png">C19</set>
             <set picURL="https://media.wizards.com/2019/c19/en_Ryxjzpphjb.png">C19</set>
             <set picURL="https://media.wizards.com/2019/m20/en_lb4QSh11Zp.png">M20</set>
@@ -8287,8 +8287,8 @@ At the beginning of your end step, discard your hand.</text>
                 <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2019/mh1/en_tZJMic1WRU.png">MH1</set>
-            <token>1</token>
             <reverse-related exclude="exclude">Serra the Benevolent</reverse-related>
+            <token>1</token>
             <tablerow>1</tablerow>
         </card>
         <card>
