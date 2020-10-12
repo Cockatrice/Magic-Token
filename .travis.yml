@@ -12,11 +12,11 @@ jobs:
    - name: XML Validation
      script:
        # `xmllint` doesn't work over https, we need to download the xsd file first
-       #- wget https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd
+       - wget https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd
        # Then we can link the xsd file locally
        - xmllint --schema cards.xsd tokens.xml --debug
 
-#xmllint --pretty 1--debug --schema https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd /tokens.xml
+# --noout oder debug
 
 #wget https://apps.nextcloud.com/schema/apps/info.xsd
 #xmllint appinfo/info.xml --schema info.xsd --noout
