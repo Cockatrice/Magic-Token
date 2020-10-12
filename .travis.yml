@@ -4,15 +4,16 @@ language: minimal
 addons:
   apt:
     packages:
-      - libxml2-utils    # Needed for `xmllint`
+      # Dependency to use `xmllint`
+      - libxml2-utils
 
 jobs:
   include:
    - name: XML Validation
      script:
-       # xmllint doesn't work with https, we need to download the xsd file first
-       - wget https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd
-       # then we can link the xsd file locally
+       # `xmllint` doesn't work over https, we need to download the xsd file first
+       - curl https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd
+       # Then we can link the xsd file locally
        - xmllint --schema cards.xsd tokens.xml --noout
 
 #xmllint --format --pretty 1 --load-trace --debug --schema https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd /tokens.xml
