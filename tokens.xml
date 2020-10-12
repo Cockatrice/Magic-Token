@@ -5171,10 +5171,10 @@ Creatures you control attach each combat if able.</text>
                 <pt>2/1</pt>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/1/e/1ebc91a9-23e0-4ca1-bc6d-e710ad2efb31.jpg">AER</set>
+            <reverse-related>Kari Zev, Skyship Raider</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
             <cipt>1</cipt>
-            <token>1</token>
-            <reverse-related>Kari Zev, Skyship Raider</reverse-related>
         </card>
         <card>
             <name>Rat</name>
