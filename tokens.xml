@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20201012</sourceVersion>
+        <sourceVersion>20201113</sourceVersion>
     </info>
     <cards>
         <!--
@@ -70,6 +70,7 @@
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/cmr/en_sTFCwBr6fG.png">CMR</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_bwNR5QG9OL.png">2XM</set>
             <set picURL="https://media.wizards.com/2020/m21/en_9nj3jwxfId.png">M21</set>
             <set picURL="https://media.wizards.com/2020/iko/en_8mnpdZmZOl.png">C20</set>
@@ -91,6 +92,7 @@
             <reverse-related>Angelic Accord</reverse-related>
             <reverse-related>Angelic Ascension</reverse-related>
             <reverse-related>Angelic Favor</reverse-related>
+            <reverse-related exclude="exclude">Court of Grace</reverse-related>
             <reverse-related count="x">Decree of Justice</reverse-related>
             <reverse-related>Descend upon the Sinful</reverse-related>
             <reverse-related count="x">Devout Invocation</reverse-related>
@@ -100,6 +102,7 @@
             <reverse-related>Invocation of Saint Traft</reverse-related>
             <reverse-related>Luminarch Ascension</reverse-related>
             <reverse-related>Moonsilver Spear</reverse-related>
+            <reverse-related>Seraphic Greatsword</reverse-related>
             <reverse-related>Sigil of the Empty Throne</reverse-related>
             <reverse-related>Speaker of the Heavens</reverse-related>
             <reverse-related>Urbis Protector</reverse-related>
@@ -444,6 +447,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/cmr/en_Fekn4dSoDJ.png">CMR</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_tckrIctlrW.png">2XM</set>
             <set picURL="https://media.wizards.com/2020/m21/en_MIpvgxgBe0.png">M21</set>
             <set picURL="https://media.wizards.com/2020/iko/en_XqbCNkS7QJ.png">IKO</set>
@@ -499,6 +503,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/cmr/en_ydC6yO8IO8.png">CMR</set>
             <set picURL="https://media.wizards.com/2020/iko/en_5gMrF021mE.png">C20</set>
             <set picURL="https://media.wizards.com/2019/c19/en_QkezpO7TJs.png">C19</set>
             <set picURL="https://media.wizards.com/2018/c18/en_zY5Api5UdC.png">C18</set>
@@ -919,6 +924,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/cmr/en_gsue9qaH5R.png">CMR</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_lxpMG2sXNL.png">2XM</set>
             <set picURL="https://media.wizards.com/2018/c18/en_OKSc5ByNDU.png">C18</set>
             <set picURL="https://img.scryfall.com/cards/large/front/d/3/d3f2fd62-5430-449b-ac1b-14867d2bb326.jpg">C17</set>
@@ -1691,6 +1697,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/cmr/en_2oDelQhkFu.png">CMR</set>
             <set picURL="https://media.wizards.com/2018/c18/en_zL9su9fE6o.png">C18</set>
             <set picURL="https://img.scryfall.com/cards/large/front/f/4/f43a5ec2-8898-4645-84d7-b7218682be9b.jpg">M19</set>
             <set picURL="https://media.wizards.com/2016/adhfianalodifdj2_EMA/en_K2g14Mh1K4.png">EMA</set>
@@ -2399,6 +2406,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/cmr/en_uOiPxfGav1.png">CMR</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_NdkKezF1yA.png">2XM</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_bSdEUZ4hMv.png">MH1</set>
             <set picURL="https://media.wizards.com/2017/b9jm8nwv_mm3/en_0F4M7yiktn.png">MM3</set>
@@ -2468,6 +2476,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/cmr/en_oBmDoonE15.png">CMR</set>
             <set picURL="https://img.scryfall.com/cards/large/front/8/0/808b9201-6fc5-4613-85d6-6e66c6e36a8e.jpg">M19</set>
             <set picURL="https://media.wizards.com/2018/a25/en_B4VqZzneN9.png">A25</set>
             <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/3kKodsqlXd_EN.png">C16</set>
@@ -2480,11 +2489,14 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <reverse-related>Ambassador Oak</reverse-related>
             <reverse-related>Dwynen's Elite</reverse-related>
             <reverse-related count="x">Elvish Promenade</reverse-related>
+            <reverse-related>Exquisite Huntmaster</reverse-related>
+            <reverse-related count="3">Eyeblight Cullers</reverse-related>
             <reverse-related>Flourishing Defenses</reverse-related>
             <reverse-related count="2">Gilt-Leaf Ambush</reverse-related>
             <reverse-related count="3">Hunting Triad</reverse-related>
             <reverse-related>Imperious Perfect</reverse-related>
             <reverse-related>Lys Alana Huntmaster</reverse-related>
+            <reverse-related count="x=3">Nadier, Agent of the Duskenel</reverse-related>
             <reverse-related>Nath of the Gilt-Leaf</reverse-related>
             <reverse-related>Presence of Gond</reverse-related>
             <reverse-related>Prowess of the Fair</reverse-related>
@@ -3097,6 +3109,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/cmr/en_qgtC0N8hOe.png">CMR</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_KjxI26KzLw.png">2XM</set>
             <set picURL="https://media.wizards.com/2019/m20/en_EfeEwTXnO0.png">M20</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_skGeUMCHa2.png">MH1</set>
@@ -3108,9 +3121,11 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <reverse-related>Cavalier of Dawn</reverse-related>
             <reverse-related>Conversion Chamber</reverse-related>
             <reverse-related>Golem Foundry</reverse-related>
+            <reverse-related>Ich-Tekik, Salvage Splicer</reverse-related>
             <reverse-related>Master Splicer</reverse-related>
             <reverse-related count="2">Masterful Replication</reverse-related>
             <reverse-related count="2">Maul Splicer</reverse-related>
+            <reverse-related count="3">Phyrexian Triniform</reverse-related>
             <reverse-related count="2">Precursor Golem</reverse-related>
             <reverse-related>Sensor Splicer</reverse-related>
             <reverse-related>Splicer's Skill</reverse-related>
@@ -3362,11 +3377,13 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/cmr/en_VQiXAzkmaT.png">CMR</set>
             <set picURL="https://media.wizards.com/2019/c19/en_KYFJOiuHTJ.png">C19</set>
             <set picURL="https://media.wizards.com/2018/c18/en_krflCNhKUy.png">C18</set>
             <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/FcpMah0evd_EN.png">C16</set>
             <set picURL="https://img.scryfall.com/cards/large/front/5/a/5a4c5954-da2b-498a-9e86-eb4d6dc95cb8.jpg">MBS</set>
             <reverse-related>Phyrexian Rebirth</reverse-related>
+            <reverse-related>Profane Transfusion</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3676,6 +3693,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/cmr/en_oXT1jE6z2m.png">CMR</set>
             <set picURL="https://img.scryfall.com/cards/large/front/5/d/5dcbf662-7263-414a-b64b-ccf9aab20faa.jpg">ZEN</set>
             <reverse-related>Summoner's Bane</reverse-related>
             <token>1</token>
@@ -5088,6 +5106,7 @@ Creatures you control attach each combat if able.</text>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/cmr/en_IXhrHgdcQy.png">CMR</set>
             <set picURL="https://media.wizards.com/2020/znr/en_CdHQEdc7Zh.png">ZNR</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_OCjIAJaJO2.png">2XM</set>
             <set picURL="https://media.wizards.com/2018/c18/en_ZjevIjFfjB.png">C18</set>
@@ -5291,6 +5310,20 @@ Creatures you control attach each combat if able.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Rock</name>
+            <text>Equipped creature has "{1}, {T}, Sacrifice Rock: This creature deals 2 damage to any target."
+Equip {1}</text>
+            <prop>
+                <type>Token Artifact — Equipment</type>
+                <maintype>Artifact</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/cmr/en_Xnq2HkqmKK.png">CMR</set>
+            <reverse-related>Toggo, Goblin Weaponsmith</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Sacred Cat (Token)</name>
             <text>Lifelink</text>
             <prop>
@@ -5302,6 +5335,21 @@ Creatures you control attach each combat if able.</text>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/5/6/56ea5f68-3818-43d3-9b7b-c344305a8423.jpg">AKH</set>
             <reverse-related>Sacred Cat</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Salamander Warrior</name>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Salamander Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/3</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/cmr/en_hBhTCjX7kI.png">CMR</set>
+            <reverse-related>Amphin Mutineer</reverse-related>
+            <reverse-related>Gor Muldrak, Amphinologist</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -5341,6 +5389,7 @@ Creatures you control attach each combat if able.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/cmr/en_D4efwdU7mj.png">CMR</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_l1CRCiAQ4v.png">2XM</set>
             <set picURL="https://media.wizards.com/2020/m21/en_F6MYJEIKON.png">M21</set>
             <set picURL="https://media.wizards.com/2020/iko/en_0grsvGZ0uD.png">C20</set>
@@ -5809,6 +5858,7 @@ Creatures you control attach each combat if able.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/cmr/en_osnA6sXQAQ.png">CMR</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_o6IQOYzKQz.png">2XM</set>
             <set picURL="https://media.wizards.com/2020/m21/en_dM7NU2ZQUb.png">M21</set>
             <set picURL="https://media.wizards.com/2020/iko/en_AMfETR4UJ5.png">C20</set>
@@ -5860,28 +5910,31 @@ Creatures you control attach each combat if able.</text>
             <reverse-related count="3">Even the Odds</reverse-related>
             <reverse-related>First Response</reverse-related>
             <reverse-related count="2">Hero of Bladehold</reverse-related>
+            <reverse-related count="2">Heroic Reinforcements</reverse-related>
             <reverse-related count="x=1">Ironroot Warlord</reverse-related>
+            <reverse-related>Keeper of the Accord</reverse-related>
             <reverse-related>Kjeldoran Outpost</reverse-related>
             <reverse-related count="2">Knight-Captain of Eos</reverse-related>
             <reverse-related count="x">Launch the Fleet</reverse-related>
+            <reverse-related count="x">Lena, Selfless Champion</reverse-related>
             <reverse-related count="x">Lieutenants of the Guard</reverse-related>
             <reverse-related count="x">Martial Coup</reverse-related>
+            <reverse-related count="2">Memorial to Glory</reverse-related>
             <reverse-related>Mobilization</reverse-related>
             <reverse-related count="x">Murder Investigation</reverse-related>
+            <reverse-related>Prava of the Steel Legion</reverse-related>
+            <reverse-related count="x=1" exclude="exclude">Prava of the Steel Legion</reverse-related>
             <reverse-related>Precinct Captain</reverse-related>
             <reverse-related count="2">Raise the Alarm</reverse-related>
             <reverse-related>Recruit the Worthy</reverse-related>
             <reverse-related>Secure the Scene</reverse-related>
             <reverse-related>Security Detail</reverse-related>
+            <reverse-related count="2">Sergeant-at-Arms</reverse-related>
             <reverse-related>Skyknight Vanguard</reverse-related>
             <reverse-related>Stormfront Riders</reverse-related>
             <reverse-related>Throne of Empires</reverse-related>
             <reverse-related count="5" exclude="exclude">Throne of Empires</reverse-related>
             <reverse-related count="3">Timely Reinforcements</reverse-related>
-            <reverse-related count="2">Memorial to Glory</reverse-related>
-            <reverse-related count="2">Sergeant-at-Arms</reverse-related>
-            <reverse-related count="2">Heroic Reinforcements</reverse-related>
-            <reverse-related count="x">Lena, Selfless Champion</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -6137,6 +6190,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/cmr/en_ydD5zzVFJy.png">CMR</set>
             <set picURL="https://media.wizards.com/2020/iko/en_GpagK8J7z4.png">C20</set>
             <set picURL="https://media.wizards.com/2019/c19/en_vs01weRsuw.png">C19</set>
             <set picURL="https://media.wizards.com/2019/m20/en_a5z4djZ5ky.png">M20</set>
@@ -6163,9 +6217,12 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <set picURL="https://img.scryfall.com/cards/large/front/1/4/14ef4815-3dfe-47b3-ad81-1506925280d3.jpg">PLS</set>
             <reverse-related>Abzan Ascendancy</reverse-related>
             <reverse-related>Afterlife</reverse-related>
+            <reverse-related>Alharu, Solemn Ritualist</reverse-related>
+            <reverse-related exclude="exclude" count="x=1">Alharu, Solemn Ritualist</reverse-related>
             <reverse-related>Avacyn's Collar</reverse-related>
             <reverse-related count="3">Benevolent Offering</reverse-related>
             <reverse-related>Bishop of Wings</reverse-related>
+            <reverse-related>Court of Grace</reverse-related>
             <reverse-related>Custodi Soulbinders</reverse-related>
             <reverse-related>Dauntless Cathar</reverse-related>
             <reverse-related>Doomed Traveler</reverse-related>
@@ -6201,6 +6258,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related>Spirit Cairn</reverse-related>
             <reverse-related>Teysa, Orzhov Scion</reverse-related>
             <reverse-related>Thalia's Geistcaller</reverse-related>
+            <reverse-related count="x">Thalisse, Reverent Medium</reverse-related>
             <reverse-related>Transluminant</reverse-related>
             <reverse-related count="3">Triplicate Spirits</reverse-related>
             <reverse-related count="2">Twilight Drover</reverse-related>
@@ -6636,8 +6694,11 @@ This creature can't be enchanted.</text>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/cmr/en_BIWrPsAvAR.png">CMR</set>
             <set picURL="https://img.scryfall.com/cards/large/front/2/7/2795320c-57fc-4140-b306-a92237390353.jpg">DDC</set>
             <reverse-related>Breeding Pit</reverse-related>
+            <reverse-related count="x">Szat's Will</reverse-related>
+            <reverse-related count="2">Tevesh Szat, Doom of Fools</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -6678,6 +6739,7 @@ This creature can't be enchanted.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://media.wizards.com/2020/cmr/en_8W0qnpCjl9.png">CMR</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_afafADUczM.png">2XM</set>
             <set picURL="https://media.wizards.com/2020/m21/en_UsVpbUDWdZ.png">M21</set>
             <set picURL="https://media.wizards.com/2020/iko/en_JuQtxB6MmU.png">C20</set>
@@ -6701,6 +6763,11 @@ This creature can't be enchanted.</text>
             <reverse-related>Gleaming Barrier</reverse-related>
             <reverse-related>Heartless Pillage</reverse-related>
             <reverse-related>Hornswoggle</reverse-related>
+            <reverse-related>Hullbreacher</reverse-related>
+            <reverse-related count="x" exclude="exclude">Hullbreacher</reverse-related>
+            <reverse-related>Impulsive Pilferer</reverse-related>
+            <reverse-related>Malcolm, Keen-Eyed Navigator</reverse-related>
+            <reverse-related exclude="exclude" count="x">Malcolm, Keen-Eyed Navigator</reverse-related>
             <reverse-related count="2">Pirate's Pillage</reverse-related>
             <reverse-related>Pirate's Prize</reverse-related>
             <reverse-related>Pitiless Plunderer</reverse-related>
@@ -7494,6 +7561,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2020/cmr/en_awAuwqn3O7.png">CMR</set>
             <set picURL="https://media.wizards.com/2020/m21/en_sQXnmfJFAj.png">M21</set>
             <set picURL="https://media.wizards.com/2020/iko/en_4MgEbcrpn4.png">C20</set>
             <set picURL="https://media.wizards.com/2019/thb/en_zh0TosPHeW.png">THB</set>
@@ -7570,6 +7638,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related count="2">Gisa's Bidding</reverse-related>
             <reverse-related>Graf Harvest</reverse-related>
             <reverse-related count="2">Grave Titan</reverse-related>
+            <reverse-related>Graveyard Marshal</reverse-related>
             <reverse-related>Grixis Slavedriver</reverse-related>
             <reverse-related>Havengul Runebinder</reverse-related>
             <reverse-related count="2">Hour of Promise</reverse-related>
@@ -7589,11 +7658,14 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Necromancer's Stockpile</reverse-related>
             <reverse-related>Necromaster Dragon</reverse-related>
             <reverse-related count="x">Necromentia</reverse-related>
+            <reverse-related count="6">Necrotic Hex</reverse-related>
             <reverse-related>Nested Ghoul</reverse-related>
             <reverse-related>Never // Return</reverse-related>
+            <reverse-related count="x">Nevinyrral, Urborg Tyrant</reverse-related>
             <reverse-related>Noosegraf Mob</reverse-related>
             <reverse-related>Null Caller</reverse-related>
             <reverse-related>Oath of Liliana</reverse-related>
+            <reverse-related>Open the Graves</reverse-related>
             <reverse-related>Overseer of the Damned</reverse-related>
             <reverse-related count="2">Rakshasa Gravecaller</reverse-related>
             <reverse-related>Rank Officer</reverse-related>
@@ -7608,18 +7680,17 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Stir the Sands</reverse-related>
             <reverse-related count="x">Syphon Flesh</reverse-related>
             <reverse-related>The Fourth Sphere</reverse-related>
+            <reverse-related>Tormod, the Desecrator</reverse-related>
             <reverse-related>Tymaret Calls the Dead</reverse-related>
             <reverse-related>Undead Alchemist</reverse-related>
             <reverse-related count="x">Undead Servant</reverse-related>
             <reverse-related>Unscythe, Killer of Kings</reverse-related>
+            <reverse-related>Varina, Lich Queen</reverse-related>
             <reverse-related>Vile Rebirth</reverse-related>
             <reverse-related>Wakedancer</reverse-related>
             <reverse-related>Waste Not</reverse-related>
             <reverse-related>Xathrid Necromancer</reverse-related>
             <reverse-related>Zombie Infestation</reverse-related>
-            <reverse-related>Graveyard Marshal</reverse-related>
-            <reverse-related>Open the Graves</reverse-related>
-            <reverse-related>Varina, Lich Queen</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -8689,12 +8760,27 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>State</type>
                 <maintype>State</maintype>
             </prop>
+            <set picURL="https://media.wizards.com/2020/cmr/en_LcDCcRmD0M.png">CMR</set>
             <set picURL="https://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_OFPgMTjwcu.png">CN2</set>
+            <reverse-related>Archon of Coronation</reverse-related>
+            <reverse-related>Azure Fleet Admiral</reverse-related>
             <reverse-related>Canal Courier</reverse-related>
+            <reverse-related>Court of Ambition</reverse-related>
+            <reverse-related>Court of Bounty</reverse-related>
+            <reverse-related>Court of Cunning</reverse-related>
+            <reverse-related exclude="exclude">Court of Grace</reverse-related>
+            <reverse-related>Court of Ire</reverse-related>
+            <reverse-related>Crimson Fleet Commodore</reverse-related>
             <reverse-related>Crown-Hunter Hireling</reverse-related>
             <reverse-related>Custodi Lich</reverse-related>
+            <reverse-related>Dawnglade Regent</reverse-related>
+            <reverse-related>Emberwilde Captain</reverse-related>
             <reverse-related>Entourage of Trest</reverse-related>
             <reverse-related>Garrulous Sycophant</reverse-related>
+            <reverse-related>Fall from Favor</reverse-related>
+            <reverse-related>Feast of Succession</reverse-related>
+            <reverse-related>Garrulous Sycophant</reverse-related>
+            <reverse-related>Jared Carthalion, True Heir</reverse-related>
             <reverse-related>Keeper of Keys</reverse-related>
             <reverse-related>Knights of the Black Rose</reverse-related>
             <reverse-related>Marchesa's Decree</reverse-related>
@@ -8704,6 +8790,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>Queen Marchesa</reverse-related>
             <reverse-related>Regal Behemoth</reverse-related>
             <reverse-related>Skyline Despot</reverse-related>
+            <reverse-related>Staunch Throneguard</reverse-related>
             <reverse-related>Thorn of the Black Rose</reverse-related>
             <reverse-related>Throne of the High City</reverse-related>
             <reverse-related>Throne Warden</reverse-related>
@@ -8781,6 +8868,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>Token</type>
                 <maintype>Token</maintype>
             </prop>
+            <set picURL="https://media.wizards.com/2020/cmr/en_8snBP6BZb7.png">CMR</set>
             <set picURL="https://media.wizards.com/2020/znr/en_6X7SyYWItg.png">ZNR</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_9oRA18c9kd.png">2XM</set>
             <token>1</token>
