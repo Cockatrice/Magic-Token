@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20210123</sourceVersion>
+        <sourceVersion>20210127</sourceVersion>
     </info>
     <cards>
         <!--
@@ -190,9 +190,22 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
-            <set picURL="https://media.wizards.com/2020/khm/en_KnCNSZ5P8f.png">KHM</set>
             <set picURL="https://media.wizards.com/2020/znr/en_pHDFb2PfVq.png">ZNR</set>
             <reverse-related count="2">Emeria's Call</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Angel Warrior </name>
+            <text>Flying, vigilance</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Angel Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/4</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/khm/en_KnCNSZ5P8f.png">KHM</set>
             <reverse-related>Great Hall of Starnheim</reverse-related>
             <reverse-related>Firja's Retribution</reverse-related>
             <reverse-related count="x=1">Starnheim Unleashed</reverse-related>
