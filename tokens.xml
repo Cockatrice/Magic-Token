@@ -2564,7 +2564,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <reverse-related count="2">Gilt-Leaf Ambush</reverse-related>
             <reverse-related count="3">Hunting Triad</reverse-related>
             <reverse-related>Imperious Perfect</reverse-related>
-            <reverse-related>Lathril, Blade of the Elves</reverse-related>
+            <reverse-related count="x=2">Lathril, Blade of the Elves</reverse-related>
             <reverse-related>Lys Alana Huntmaster</reverse-related>
             <reverse-related count="x=3">Nadier, Agent of the Duskenel</reverse-related>
             <reverse-related>Nath of the Gilt-Leaf</reverse-related>
