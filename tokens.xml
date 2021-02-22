@@ -6365,6 +6365,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            
             <set picURL="https://media.wizards.com/2020/khm/en_VvQDVtcpsT.png">KHM</set>
             <set picURL="https://media.wizards.com/2020/cmr/en_ydD5zzVFJy.png">CMR</set>
             <set picURL="https://media.wizards.com/2020/iko/en_GpagK8J7z4.png">C20</set>
@@ -6391,6 +6392,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <set picURL="https://img.scryfall.com/cards/large/front/c/b/cba50f25-ad8c-4244-8dc1-f8656f4c8c0b.jpg">SHM</set>
             <set picURL="https://img.scryfall.com/cards/large/front/5/8/58be6a05-8021-4fca-8e9f-0ebb4769c635.jpg">DDK</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/4/14ef4815-3dfe-47b3-ad81-1506925280d3.jpg">PLS</set>
+            <reverse-related>Ranar the Ever-Watchful</reverse-related>
             <reverse-related>Abzan Ascendancy</reverse-related>
             <reverse-related>Afterlife</reverse-related>
             <reverse-related>Alharu, Solemn Ritualist</reverse-related>
