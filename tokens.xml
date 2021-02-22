@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20210127</sourceVersion>
+        <sourceVersion>20210224</sourceVersion>
     </info>
     <cards>
         <!--
@@ -6424,6 +6424,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related>Moorland Haunt</reverse-related>
             <reverse-related count="2">Nearheath Chaplain</reverse-related>
             <reverse-related>Not Forgotten</reverse-related>
+            <reverse-related>Ranar the Ever-Watchful</reverse-related>
             <reverse-related>Requiem Angel</reverse-related>
             <reverse-related count="x">Rousing of Souls</reverse-related>
             <reverse-related>Sanctifier of Souls</reverse-related>
