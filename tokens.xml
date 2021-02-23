@@ -496,7 +496,7 @@ Creature tokens you control have flying and vigilance.</text>
             <reverse-related>"Beast Without"</reverse-related>
             <reverse-related>Beast Within</reverse-related>
             <reverse-related>Bringer of the Green Dawn</reverse-related>
-            <reverse-related count="x=0">Curious Herd</reverse-related>
+            <reverse-related count="x">Curious Herd</reverse-related>
             <reverse-related>Druid of Horns</reverse-related>
             <reverse-related>Elder Gargaroth</reverse-related>
             <reverse-related count="3">Feral Incarnation</reverse-related>
@@ -2622,7 +2622,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <reverse-related count="x=1">Faerie Formation</reverse-related>
             <reverse-related count="4">Hunted Troll</reverse-related>
             <reverse-related>Improbable Alliance</reverse-related>
-            <reverse-related count="x=0">Stolen by the Fae</reverse-related>
+            <reverse-related count="x">Stolen by the Fae</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3941,9 +3941,9 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related count="5">One Dozen Eyes</reverse-related>
             <reverse-related>Saber Ants</reverse-related>
             <reverse-related>Scute Swarm</reverse-related>
-            <reverse-related exclude="exclude" count="x=0">Scute Swarm</reverse-related>
+            <reverse-related exclude="exclude" count="x">Scute Swarm</reverse-related>
             <reverse-related>Swarm Shambler</reverse-related>
-            <reverse-related exclude="exclude" count="x=0">Swarm Shambler</reverse-related>
+            <reverse-related exclude="exclude" count="x">Swarm Shambler</reverse-related>
             <reverse-related count="4">Symbiotic Beast</reverse-related>
             <reverse-related count="2">Symbiotic Elf</reverse-related>
             <reverse-related count="7">Symbiotic Wurm</reverse-related>
@@ -6936,7 +6936,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Deadeye Plunderers</reverse-related>
             <reverse-related>Depths of Desire</reverse-related>
             <reverse-related>Dire Fleet Hoarder</reverse-related>
-            <reverse-related count="x=0">Dockside Extortionist</reverse-related>
+            <reverse-related count="x">Dockside Extortionist</reverse-related>
             <reverse-related>Forging the Tyrite Sword</reverse-related>
             <reverse-related count="x">Gadrak, the Crown-Scourge</reverse-related>
             <reverse-related>Gleaming Barrier</reverse-related>
@@ -7048,7 +7048,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="https://media.wizards.com/2020/khm/en_DQTqsMBjEH.png">KHM</set>
             <reverse-related>Gnottvold Slumbermound</reverse-related>
             <reverse-related>Old-Growth Troll</reverse-related>
-            <reverse-related count="x=0">Waking the Trolls</reverse-related>
+            <reverse-related count="x">Waking the Trolls</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7989,7 +7989,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="https://media.wizards.com/2020/khm/en_H2sc9VANPN.png">KHM</set>
             <reverse-related>Deathknell Berserker</reverse-related>
             <reverse-related attach="attach">Draugr's Helm</reverse-related>
-            <reverse-related count="x=0">Rise of the Dread Marn</reverse-related>
+            <reverse-related count="x">Rise of the Dread Marn</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
