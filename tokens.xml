@@ -244,6 +244,20 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Ape </name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Ape</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cdn.staticneo.com/w/mtg/9/97/Ape1.jpg">MMQ</set>
+            <reverse-related count="x">Monkey Cage</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Ashaya, the Awoken World</name>
             <prop>
                 <colors>G</colors>
@@ -4630,20 +4644,6 @@ Totem armor</text>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/3/1/3142cb28-23cc-405f-9db5-7c4d168aab19.jpg">FRF</set>
             <reverse-related>Monastery Mentor</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
-            <name>Monkey</name>
-            <prop>
-                <colors>G</colors>
-                <type>Token Creature — Monkey</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>2/2</pt>
-            </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/9/97/Ape1.jpg">MMQ</set>
-            <reverse-related count="x">Monkey Cage</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
