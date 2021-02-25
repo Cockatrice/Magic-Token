@@ -3940,8 +3940,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related>Living Hive</reverse-related>
             <reverse-related count="5">One Dozen Eyes</reverse-related>
             <reverse-related>Saber Ants</reverse-related>
-            <reverse-related>Scute Swarm</reverse-related>
-            <reverse-related exclude="exclude" count="x">Scute Swarm</reverse-related>
+            <reverse-related count="x">Scute Swarm</reverse-related>
             <reverse-related>Swarm Shambler</reverse-related>
             <reverse-related exclude="exclude" count="x">Swarm Shambler</reverse-related>
             <reverse-related count="4">Symbiotic Beast</reverse-related>
