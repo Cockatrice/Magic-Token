@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20210127</sourceVersion>
+        <sourceVersion>20210224</sourceVersion>
     </info>
     <cards>
         <!--
@@ -2564,6 +2564,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <reverse-related count="2">Gilt-Leaf Ambush</reverse-related>
             <reverse-related count="3">Hunting Triad</reverse-related>
             <reverse-related>Imperious Perfect</reverse-related>
+            <reverse-related count="x=2">Lathril, Blade of the Elves</reverse-related>
             <reverse-related>Lys Alana Huntmaster</reverse-related>
             <reverse-related count="x=3">Nadier, Agent of the Duskenel</reverse-related>
             <reverse-related>Nath of the Gilt-Leaf</reverse-related>
@@ -2574,6 +2575,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <reverse-related count="x">Sylvan Offering</reverse-related>
             <reverse-related>Thorn Lieutenant</reverse-related>
             <reverse-related>Tyvar Kell</reverse-related>
+            <reverse-related>Wolverine Riders</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -6422,6 +6424,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related>Moorland Haunt</reverse-related>
             <reverse-related count="2">Nearheath Chaplain</reverse-related>
             <reverse-related>Not Forgotten</reverse-related>
+            <reverse-related>Ranar the Ever-Watchful</reverse-related>
             <reverse-related>Requiem Angel</reverse-related>
             <reverse-related count="x">Rousing of Souls</reverse-related>
             <reverse-related>Sanctifier of Souls</reverse-related>
