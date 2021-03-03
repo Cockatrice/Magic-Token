@@ -28,12 +28,18 @@ jobs:
           sudo apt-get update
           sudo apt-get install libxml2-utils
 
-      - name: Download XSD schema
+      - name: Download XSD schemes
         run: |
           wget https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v3/cards.xsd -O carddb-v3.xsd
           wget https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd -O carddb-v4.xsd
+          wget https://www.w3.org/2012/04/XMLSchema.xsd
+
+      - name: Validate XSD schemes
+        run: |
+          xmllint --noout --schema XMLSchema.xsd carddb-v3.xsd
+          xmllint --noout --schema XMLSchema.xsd carddb-v4.xsd
 
       - name: Validate XML files
         run: |
-          xmllint --schema carddb-v3.xsd --noout challenge_tokens.xml
-          xmllint --schema carddb-v4.xsd --noout tokens.xml
+          xmllint --noout --schema carddb-v3.xsd challenge_tokens.xml
+          xmllint --noout --schema carddb-v4.xsd tokens.xml
