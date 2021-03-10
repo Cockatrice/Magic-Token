@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20210224</sourceVersion>
+        <sourceVersion>20210311</sourceVersion>
     </info>
     <cards>
         <!--
@@ -237,6 +237,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2021/tsr/en_IhspbBs6T2.png">TSR</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_AWN5Acy1m0.png">2XM</set>
             <set picURL="https://img.scryfall.com/cards/large/front/8/3/8343e00c-5fc6-46a0-a238-3759338dced4.jpg">C14</set>
             <reverse-related>Pongify</reverse-related>
@@ -306,14 +307,14 @@ Whenever this creature deals damage to a planeswalker, destroy that planeswalker
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Assembly-Worker </name>
+            <name>Assembly-Worker (Token)</name>
             <prop>
                 <type>Token Artifact Creature — Assembly-Worker</type>
                 <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/d/dd/Assembly-Worker.jpg">TSP</set>
+            <set picURL="https://media.wizards.com/2021/tsr/en_SsLvdaA9YS.png">TSR</set>
             <reverse-related>Urza's Factory</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -412,7 +413,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>1/2</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/2/20/Bat.jpg">TSP</set>
+            <set picURL="https://media.wizards.com/2021/tsr/en_8oX0mLwoUR.png">TSR</set>
             <reverse-related>Sengir Nosferatu</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -1278,7 +1279,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/a/a7/Cloud_Sprite.jpg">FUT</set>
+            <set picURL="https://media.wizards.com/2021/tsr/en_9HVq3b9DBx.png">TSR</set>
             <reverse-related>Cloudseeder</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -2815,7 +2816,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/4/4c/Giant.jpg">FUT</set>
+            <set picURL="https://media.wizards.com/2021/tsr/en_JwUKZiK059.png">TSR</set>
             <reverse-related>Pact of the Titan</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -2948,6 +2949,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2021/tsr/en_mMI33oemCA.png">TSR</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_ZN8J4ERaoN.png">MH1</set>
             <set picURL="https://media.wizards.com/2019/war/en_aQgSh0czs9.png">WAR</set>
             <set picURL="https://media.wizards.com/2018/rna/en_NaVWfo0f7A.png">RNA</set>
@@ -3315,6 +3317,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2021/tsr/en_eHuib25Qea.png">TSR</set>
             <set picURL="https://media.wizards.com/2020/m21/en_nOSHyoFcU7.png">M21</set>
             <set picURL="https://img.scryfall.com/cards/large/front/9/6/96c36884-df5e-435d-9473-65da550535fb.jpg">DDH</set>
             <set picURL="https://img.scryfall.com/cards/large/front/e/0/e0e3a11d-c7a3-495b-add9-0503141b1cfe.jpg">DDL</set>
@@ -3964,7 +3967,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <cmc>0</cmc>
                 <pt>6/1</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/2/23/Insect4.jpg">PLC</set>
+            <set picURL="https://media.wizards.com/2021/tsr/en_GoHXbKPRiB.png">TSR</set>
             <reverse-related>Deadly Grub</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4195,7 +4198,8 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
         </card>
         <card>
             <name>Knight    </name>
-            <text>Flanking, protection from white, haste</text>
+            <text>Protection from white, haste
+Flanking</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Knight</type>
@@ -4203,7 +4207,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/c/c3/Knight5.jpg">PLC</set>
+            <set picURL="https://media.wizards.com/2021/tsr/en_eSvRKouVrg.png">TSR</set>
             <reverse-related>Riftmarked Knight</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4232,6 +4236,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2021/tsr/en_6xVxuucno4.png">TSR</set>
             <set picURL="https://media.wizards.com/2018/a25/en_Cthmwau2Ha.png">A25</set>
             <reverse-related>Kher Keep</reverse-related>
             <reverse-related count="x">Prossh, Skyraider of Kher</reverse-related>
@@ -4430,7 +4435,7 @@ At the beginning of the end step, sacrifice this creature.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/7/71/Llanowar_Elves.jpg">FUT</set>
+            <set picURL="https://media.wizards.com/2021/tsr/en_LGYXjaNMD0.png">TSR</set>
             <reverse-related>Llanowar Mentor</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4558,7 +4563,7 @@ Totem armor</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/b/bf/Metallic_Sliver.jpg">FUT</set>
+            <set picURL="https://media.wizards.com/2021/tsr/en_yWlASG8Xil.png">TSR</set>
             <reverse-related>Sliversmith</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5535,6 +5540,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2021/tsr/en_p0Mu9bjDMK.png">TSR</set>
             <set picURL="https://media.wizards.com/2020/cmr/en_D4efwdU7mj.png">CMR</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_l1CRCiAQ4v.png">2XM</set>
             <set picURL="https://media.wizards.com/2020/m21/en_F6MYJEIKON.png">M21</set>
@@ -6033,6 +6039,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2021/tsr/en_9FccNzYgB2.png">TSR</set>
             <set picURL="https://media.wizards.com/2020/cmr/en_osnA6sXQAQ.png">CMR</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_o6IQOYzKQz.png">2XM</set>
             <set picURL="https://media.wizards.com/2020/m21/en_dM7NU2ZQUb.png">M21</set>
@@ -6320,6 +6327,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>2/4</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2021/tsr/en_r1PF3aXZJ1.png">TSR</set>
             <set picURL="https://media.wizards.com/2017/b9jm8nwv_mm3/en_DunTMmGo41.png">MM3</set>
             <set picURL="https://img.scryfall.com/cards/large/front/2/d/2d833298-a270-4b89-987c-5b6432bbc311.jpg">MMA</set>
             <reverse-related>Penumbra Spider</reverse-related>
