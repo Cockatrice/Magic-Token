@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20210311</sourceVersion>
+        <sourceVersion>20210329</sourceVersion>
     </info>
     <cards>
         <!--
@@ -105,9 +105,7 @@
             <reverse-related>Seraphic Greatsword</reverse-related>
             <reverse-related>Sigil of the Empty Throne</reverse-related>
             <reverse-related>Speaker of the Heavens</reverse-related>
-            <reverse-related>Rampage of the Valkyries</reverse-related>
             <reverse-related>Urbis Protector</reverse-related>
-            <reverse-related>Valkyrie Harbinger</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -158,8 +156,10 @@
             <reverse-related count="x">Divine Visitation</reverse-related>
             <reverse-related count="x" exclude="exclude">Finale of Glory</reverse-related>
             <reverse-related count="2">Parhelion II</reverse-related>
+            <reverse-related>Rampage of the Valkyries</reverse-related>
             <reverse-related>Resplendent Angel</reverse-related>
             <reverse-related>Serra the Benevolent</reverse-related>
+            <reverse-related>Valkyrie Harbinger</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
