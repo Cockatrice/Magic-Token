@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20210329</sourceVersion>
+        <sourceVersion>20210424</sourceVersion>
     </info>
     <cards>
         <!--
@@ -348,6 +348,22 @@ Whenever this creature deals damage to a planeswalker, destroy that planeswalker
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/5/f/5f3f8f97-0c27-49d6-ae9a-a0fe2a7ce38b.jpg">M19</set>
             <reverse-related>Ajani's Last Stand</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Avatar  </name>
+            <text>Haste
+Whenever this creature attacks, it deals 3 damage to each opponent.</text>
+            <prop>
+                <colors>BR</colors>
+                <type>Token Creature — Avatar</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/6</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2021/stx/en_86i4Ook51O.png">STX</set>
+            <reverse-related>Awaken the Blood Avatar</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -2415,6 +2431,27 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Elemental                           </name>
+            <prop>
+                <colors>UR</colors>
+                <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/4</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2021/stx/en_9TudRQ0nQA.png">STX</set>
+            <reverse-related>Elemental Expressionist</reverse-related>
+            <reverse-related count="2">Elemental Masterpiece</reverse-related>
+            <reverse-related>Elemental Summoning</reverse-related>
+            <reverse-related>Magma Opus</reverse-related>
+            <reverse-related>Mascot Exhibition</reverse-related>
+            <reverse-related>Multiple Choice</reverse-related>
+            <reverse-related>Resculpt</reverse-related>
+            <reverse-related count="x=5">Will, Scholar of Frost</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Elemental Bird</name>
             <text>Flying</text>
             <prop>
@@ -2744,6 +2781,28 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <reverse-related count="x=1">Witch's Oven</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Fractal</name>
+            <prop>
+                <colors>GU</colors>
+                <type>Token Creature — Fractal</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>0/0</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2021/stx/en_HXyaXLt8Sd.png">STX</set>
+            <reverse-related>Biomathematician</reverse-related>
+            <reverse-related>Body of Research</reverse-related>
+            <reverse-related>Emergent Sequence</reverse-related>
+            <reverse-related>Fractal Summoning</reverse-related>
+            <reverse-related>Kasmina, Enigma Sage</reverse-related>
+            <reverse-related>Kianne, Dean of Substance</reverse-related>
+            <reverse-related>Leyline Invocation</reverse-related>
+            <reverse-related>Manifestation Sage</reverse-related>
+            <reverse-related>Serpentine Curve</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
         </card>
         <card>
             <name>Frog Lizard</name>
@@ -3881,6 +3940,26 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <set picURL="https://media.wizards.com/2020/znr/en_fihLA7XMUj.png">ZNR</set>
             <reverse-related>Inscription of Insight</reverse-related>
             <reverse-related>Skyclave Apparition</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Inkling</name>
+            <text>Flying</text>
+            <prop>
+                <colors>WB</colors>
+                <type>Token Creature — Inkling</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2021/stx/en_cC2UosKXng.png">STX</set>
+            <reverse-related count="x">Blot Out the Sky</reverse-related>
+            <reverse-related>Dramatic Finale</reverse-related>
+            <reverse-related>Inkling Summoning</reverse-related>
+            <reverse-related>Mascot Exhibition</reverse-related>
+            <reverse-related>Shadrix Silverquill</reverse-related>
+            <reverse-related>Umbral Juke</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -5187,6 +5266,30 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             </prop>
             <set picURL="https://i.imgur.com/J9VBbki.jpg">MRD</set>
             <reverse-related>Nuisance Engine</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Pest </name>
+            <text>When this creature dies, you gain 1 life.</text>
+            <prop>
+                <colors>BG</colors>
+                <type>Token Creature — Pest</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2021/stx/en_VF9Pkbckd6.png">STX</set>
+            <reverse-related>Beledros Witherbloom</reverse-related>
+            <reverse-related>Callous Bloodmage</reverse-related>
+            <reverse-related>Containment Breach</reverse-related>
+            <reverse-related>Hunt for Specimens</reverse-related>
+            <reverse-related count="2">Pest Summoning</reverse-related>
+            <reverse-related>Pestilent Cauldron</reverse-related>
+            <reverse-related>Professor of Zoomancy</reverse-related>
+            <reverse-related>Sedgemoor Witch</reverse-related>
+            <reverse-related count="x">Tend the Pests</reverse-related>
+            <reverse-related>Valentin, Dean of the Vein</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -6582,6 +6685,29 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Spirit        </name>
+            <text></text>
+            <prop>
+                <colors>RW</colors>
+                <type>Token Creature — Spirit</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/2</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2021/stx/en_UGjqTddQfc.png">STX</set>
+            <reverse-related>Illuminate History</reverse-related>
+            <reverse-related>Illustrious Historian</reverse-related>
+            <reverse-related>Lorehold Command</reverse-related>
+            <reverse-related count="x">Lorehold Excavation</reverse-related>
+            <reverse-related>Make Your Mark</reverse-related>
+            <reverse-related>Mascot Exhibition</reverse-related>
+            <reverse-related>Quintorius, Field Historian</reverse-related>
+            <reverse-related>Reduce to Memory</reverse-related>
+            <reverse-related>Spirit Summoning</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Spirit Warrior</name>
             <prop>
                 <colors>BG</colors>
@@ -6927,6 +7053,7 @@ This creature can't be enchanted.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://media.wizards.com/2021/stx/en_rNuFANCh1U.png">STX</set>
             <set picURL="https://media.wizards.com/2020/khm/en_zdHT30nIpZ.png">KHM</set>
             <set picURL="https://media.wizards.com/2020/cmr/en_8W0qnpCjl9.png">CMR</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_afafADUczM.png">2XM</set>
@@ -6944,12 +7071,16 @@ This creature can't be enchanted.</text>
             <reverse-related>Captain Lannery Storm</reverse-related>
             <reverse-related count="2">Contract Killing</reverse-related>
             <reverse-related>Corsair Captain</reverse-related>
+            <reverse-related exclude="exclude">Creative Outburst</reverse-related>
+            <reverse-related count="x">Culmination of Studies</reverse-related>
             <reverse-related>Deadeye Plunderers</reverse-related>
             <reverse-related>Depths of Desire</reverse-related>
             <reverse-related>Dire Fleet Hoarder</reverse-related>
             <reverse-related count="x=0">Dockside Extortionist</reverse-related>
+            <reverse-related exclude="exclude">Elemental Masterpiece</reverse-related>
             <reverse-related>Forging the Tyrite Sword</reverse-related>
             <reverse-related count="x">Gadrak, the Crown-Scourge</reverse-related>
+            <reverse-related>Galazeth Prismari</reverse-related>
             <reverse-related>Gleaming Barrier</reverse-related>
             <reverse-related>Goldspan Dragon</reverse-related>
             <reverse-related>Goldvein Pick</reverse-related>
@@ -6958,13 +7089,16 @@ This creature can't be enchanted.</text>
             <reverse-related>Hullbreacher</reverse-related>
             <reverse-related count="x" exclude="exclude">Hullbreacher</reverse-related>
             <reverse-related>Impulsive Pilferer</reverse-related>
+            <reverse-related count="2">Ingenious Mastery</reverse-related>
             <reverse-related>Malcolm, Keen-Eyed Navigator</reverse-related>
             <reverse-related>Magda, Brazen Outlaw</reverse-related>
             <reverse-related exclude="exclude" count="x=1">Magda, Brazen Outlaw</reverse-related>
+            <reverse-related exclude="exclude">Magma Opus</reverse-related>
             <reverse-related exclude="exclude" count="x">Malcolm, Keen-Eyed Navigator</reverse-related>
             <reverse-related count="2">Pirate's Pillage</reverse-related>
             <reverse-related>Pirate's Prize</reverse-related>
             <reverse-related>Pitiless Plunderer</reverse-related>
+            <reverse-related>Prismari Command</reverse-related>
             <reverse-related count="2">Prosperous Pirates</reverse-related>
             <reverse-related>Prying Blade</reverse-related>
             <reverse-related count="2">Rapacious Dragon</reverse-related>
@@ -6977,6 +7111,8 @@ This creature can't be enchanted.</text>
             <reverse-related>Smothering Tithe</reverse-related>
             <reverse-related count="x">Spell Swindle</reverse-related>
             <reverse-related>Storm the Vault</reverse-related>
+            <reverse-related>Storm-Kiln Artist</reverse-related>
+            <reverse-related>Sudden Breakthrough</reverse-related>
             <reverse-related count="x">Surly Badgersaur</reverse-related>
             <reverse-related count="3">Treasure Map</reverse-related>
             <reverse-related>Trove of Temptation</reverse-related>
@@ -8471,6 +8607,18 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>1</tablerow>
         </card>
         <card>
+            <name>Lukka, Wayward Bonder (Emblem)</name>
+            <text>Whenever a creature enters the battlefield under your control, it deals damage equal to its power to any target.</text>
+            <prop>
+                <type>Emblem — Lukka</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set picURL="https://media.wizards.com/2021/stx/en_nNQvnRWmEh.png">STX</set>
+            <reverse-related>Lukka, Wayward Bonder</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Mu Yanling, Sky Dancer (Emblem)</name>
             <text>Islands you control have "{T}: Draw a card."</text>
             <prop>
@@ -8576,6 +8724,18 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/a/6/a603338e-8ea4-4952-b88f-97d439594ad9.jpg">BBD</set>
             <reverse-related exclude="exclude">Rowan Kenrith</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Rowan, Scholar of Sparks (Emblem)</name>
+            <text>Whenver you cast an instant or sorcery spell, you may pay {2}. If you do, copy that spell. You may choose new targets for the copy.</text>
+            <prop>
+                <type>Emblem — Rowan</type>
+                <maintype>Emblem</maintype>                
+            </prop>
+            <set picURL="https://media.wizards.com/2021/stx/en_lM263eh0WZ.png">STX</set>
+            <reverse-related>Rowan, Scholar of Sparks</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
