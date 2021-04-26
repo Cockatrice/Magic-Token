@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20210424b</sourceVersion>
+        <sourceVersion>20210426</sourceVersion>
     </info>
     <cards>
         <!--
@@ -9196,7 +9196,6 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <reverse-related exclude="exclude">Lost Leonin</reverse-related>
             <reverse-related exclude="exclude">Marsh Viper</reverse-related>
             <reverse-related exclude="exclude">Melira, Sylvok Outcast</reverse-related>
-            <reverse-related exclude="exclude">Mindcrank</reverse-related>
             <reverse-related exclude="exclude">Mycosynth Fiend</reverse-related>
             <reverse-related exclude="exclude">Necropede</reverse-related>
             <reverse-related exclude="exclude">Ogre Menial</reverse-related>
