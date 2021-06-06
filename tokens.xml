@@ -560,6 +560,8 @@ Creature tokens you control have flying and vigilance.</text>
             <reverse-related count="x">Ezuri's Predation</reverse-related>
             <reverse-related>Hunting Pack</reverse-related>
             <reverse-related>Rampaging Baloths</reverse-related>
+			<reverse-related>Herd Baloth</reverse-related>
+			<reverse-related>Combine Chrysalis</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -724,6 +726,8 @@ Creature tokens you control have flying and vigilance.</text>
             <reverse-related count="2">Ornitharch</reverse-related>
             <reverse-related>Scion of Vitu-Ghazi</reverse-related>
             <reverse-related>Seller of Songbirds</reverse-related>
+			<reverse-related count="2">Soul of Migration</reverse-related>
+			<reverse-related count="x">Scour the Desert</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -1344,6 +1348,14 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Trail of Evidence</reverse-related>
             <reverse-related>Ulvenwald Mysteries</reverse-related>
             <reverse-related>Weirding Wood</reverse-related>
+			<reverse-related count="2">Wavesifter</reverse-related>
+			<reverse-related>Search the Premises</reverse-related>
+			<reverse-related>Floodhound</reverse-related>
+			<reverse-related>Funnel-Web Recluse</reverse-related>
+			<reverse-related>Lonis, Cryptozoologist</reverse-related>
+			<reverse-related>Hard Evidence</reverse-related>
+			<reverse-related>Fae Offering</reverse-related>
+			<reverse-related>Academy Manufactor</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -1412,6 +1424,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Digsite Engineer</reverse-related>
             <reverse-related>Karn, Scion of Urza</reverse-related>
             <reverse-related>Urza, Lord High Artificer</reverse-related>
+			<reverse-related>Urza's Saga</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -2795,6 +2808,12 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <reverse-related>Trail of Crumbs</reverse-related>
             <reverse-related>Turn into a Pumpkin</reverse-related>
             <reverse-related count="x=1">Witch's Oven</reverse-related>
+			<reverse-related>Late to Dinner</reverse-related>
+			<reverse-related>The Underworld Cookbook</reverse-related>
+			<reverse-related count="2">Orchard Strider</reverse-related>
+			<reverse-related>Tireless Provisioner</reverse-related>
+			<reverse-related>Fae Offering</reverse-related>
+			<reverse-related>Academy Manufactor</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -2901,6 +2920,9 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <reverse-related attach="attach">Sickleslicer</reverse-related>
             <reverse-related attach="attach">Skinwing</reverse-related>
             <reverse-related attach="attach">Strandwalker</reverse-related>
+			<reverse-related attach="attach">Batterbone</reverse-related>
+			<reverse-related attach="attach">Kaldra Compleat</reverse-related>
+			<reverse-related attach="attach">Nettlecyst</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3110,6 +3132,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related count="2">Sling-Gang Lieutenant</reverse-related>
             <reverse-related>Survey the Wreckage</reverse-related>
             <reverse-related count="x">Warbreak Trumpeter</reverse-related>
+			<reverse-related count="x">Goblin Traprunner</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -4193,6 +4216,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             </prop>
             <set picURL="https://media.wizards.com/2018/grn/en_7Bx9CRd7sO.png">GRN</set>
             <reverse-related count="x">Izoni, Thousand-Eyed</reverse-related>
+			<reverse-related>Grist, the Hunger Tide</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -6875,6 +6899,16 @@ Cumulative upkeep {G}</text>
             <reverse-related>Chittering Doom</reverse-related>
             <reverse-related>Earl of Squirrel</reverse-related>
             <reverse-related>Squirrel Dealer</reverse-related>
+			<reverse-related count="x">Nested Shambler</reverse-related>
+			<reverse-related count="x">Underworld Hermit</reverse-related>
+			<reverse-related count="x">Chatterfang, Squirrel General</reverse-related>
+			<reverse-related>Chatterstorm</reverse-related>
+			<reverse-related>Chitterspitter</reverse-related>
+			<reverse-related>Scurry Oak</reverse-related>
+			<reverse-related>Squirrel Sanctuary</reverse-related>
+			<reverse-related count="2">Verdant Command</reverse-related>
+			<reverse-related count="2">Drey Keeper</reverse-related>
+			<reverse-related>Specimen Collector</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7070,6 +7104,11 @@ This creature can't be enchanted.</text>
             <reverse-related>Tezzeret, Artifice Master</reverse-related>
             <reverse-related>Loyal Apprentice</reverse-related>
             <reverse-related exclude="exclude">Retrofitter Foundry</reverse-related>
+			<reverse-related count="x">Sweep the Skies</reverse-related>
+			<reverse-related>Breya's Apprentice</reverse-related>
+			<reverse-related>Barbed Spike</reverse-related>
+			<reverse-related>Fairgrounds Patrol</reverse-related>
+			<reverse-related>Etherium Spinner</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7219,6 +7258,13 @@ This creature can't be enchanted.</text>
             <reverse-related>Vraska, Relic Seeker</reverse-related>
             <reverse-related count="2">Wanted Scoundrels</reverse-related>
             <reverse-related>Wily Goblin</reverse-related>
+			<reverse-related>Strike It Rich</reverse-related>
+			<reverse-related count="2">Tavern Scoundrel</reverse-related>
+			<reverse-related>Burdened Aerialist </reverse-related>
+			<reverse-related>Jewel-Eyed Cobra</reverse-related>
+			<reverse-related>Tireless Provisioner</reverse-related>
+			<reverse-related>Fae Offering</reverse-related>
+			<reverse-related>Academy Manufactor</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -8143,6 +8189,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Waste Not</reverse-related>
             <reverse-related>Xathrid Necromancer</reverse-related>
             <reverse-related>Zombie Infestation</reverse-related>
+			<reverse-related>Magus of the Bridge</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -8223,6 +8270,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Toll of the Invasion</reverse-related>
             <reverse-related>Vizier of the Scorpion</reverse-related>
             <reverse-related>Widespread Brutality</reverse-related>
+			<reverse-related>Lazotep Chancellor</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
