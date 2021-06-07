@@ -1457,6 +1457,22 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Crab</name>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Crab</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>0/3</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2021/mh2/en_lLRkiv97Tf.png">MH2</set>
+            <reverse-related>Hard Evidence</reverse-related>
+            <reverse-related>Scuttletide</reverse-related>
+            <reverse-related>Specimen Collector</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Demon</name>
             <text>Flying</text>
             <prop>
@@ -3400,7 +3416,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <name>Golem     </name>
             <text>Flying</text>
             <prop>
-                <type>Token Creature — Golem</type>
+                <type>Token Artifact Creature — Golem</type>
                 <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
@@ -3414,7 +3430,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <name>Golem      </name>
             <text>Trample</text>
             <prop>
-                <type>Token Creature — Golem</type>
+                <type>Token Artifact Creature — Golem</type>
                 <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
@@ -3428,13 +3444,27 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <name>Golem       </name>
             <text>Vigilance</text>
             <prop>
-                <type>Token Creature — Golem</type>
+                <type>Token Artifact Creature — Golem</type>
                 <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
             <set picURL="https://media.wizards.com/2021/stx/en_0b7h8oPYUA.png">C21</set>
             <reverse-related>Triplicate Titan</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Golem        </name>
+            <prop>
+                <colors>RW</colors>
+                <type>Token Artifact Creature — Golem</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/4</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2021/mh2/en_NCJUFflFo3.png">MH2</set>
+            <reverse-related>General Ferrous Rokiric</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7161,6 +7191,36 @@ This creature can't be enchanted.</text>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/5/b/5b9f471a-1822-4981-95a9-8923d83ddcbf.jpg">MM2</set>
             <reverse-related count="x">Endrek Sahr, Master Breeder</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Timeless Dragon (Token)</name>
+            <text>Flying</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Zombie Dragon</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/4</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2021/mh2/en_ly3oc5vZGx.png">MH2</set>
+            <reverse-related>Timeless Dragon</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Timeless Witness (Token)</name>
+            <text>When Timeless Witness enters the battlefield, return target card from your graveyard to your hand</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Zombie Human Shaman</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/4</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2021/mh2/en_Lu5twGI28A.png">MH2</set>
+            <reverse-related>Timeless Witness</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
