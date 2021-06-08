@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20210518</sourceVersion>
+        <sourceVersion>20210608</sourceVersion>
     </info>
     <cards>
         <!--
@@ -486,6 +486,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2021/mh2/en_zHmspE134l.png">MH2</set>
             <set picURL="https://media.wizards.com/2021/stx/en_9MSVRG9VuT.png">C21</set>
             <set picURL="https://media.wizards.com/2020/cmr/en_Fekn4dSoDJ.png">CMR</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_tckrIctlrW.png">2XM</set>
@@ -707,6 +708,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2021/mh2/en_CDGN89LXVA.png">MH2</set>
             <set picURL="https://media.wizards.com/2020/m21/en_q6x5IG2a03.png">M21</set>
             <set picURL="https://media.wizards.com/2020/iko/en_IrGXzUmI6s.png">C20</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_QJTb0Exxb5.png">MH1</set>
@@ -1315,6 +1317,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://media.wizards.com/2021/mh2/en_xEWjasCt66.png">MH2</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_RTwvNOebur.png">2XM</set>
             <set picURL="https://media.wizards.com/2018/c18/en_1LubZ0qmyk.png">C18</set>
             <set picURL="https://media.wizards.com/2017/ust/en_qK2MGqzQbu.png">UST</set>
@@ -1368,6 +1371,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <cmc>0</cmc>
                 <pt>6/12</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2021/mh2/en_VBMpVr1YCW.png">MH2</set>
             <set picURL="https://media.wizards.com/2018/c18/en_MJZbSQyxfg.png">C18</set>
             <set picURL="https://img.scryfall.com/cards/large/front/0/4/04d6b47f-5c2a-4771-90ee-4aa8c1eda0be.jpg">WWK</set>
             <reverse-related>Stone Idol Trap</reverse-related>
@@ -2359,6 +2363,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>5/3</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2021/mh2/en_jtTAMUlRs8.png">MH2</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/4/1449862b-309e-4c58-ac94-13d1acdd363f.jpg">C14</set>
             <reverse-related>Titania, Protector of Argoth</reverse-related>
             <token>1</token>
@@ -2798,6 +2803,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <type>Token Artifact — Food</type>
                 <maintype>Artifact</maintype>
             </prop>
+            <set picURL="https://media.wizards.com/2021/mh2/en_cjUfxlcbHM.png">MH2</set>
             <set picURL="https://media.wizards.com/2021/stx/en_yZooy52syX.png">C21</set>
             <set picURL="https://media.wizards.com/2019/eld/en_Il49X0ZN05.png">ELD</set>
             <set picURL="https://media.wizards.com/2019/eld/en_8MSslzedLY.png">ELD</set>
@@ -2911,14 +2917,15 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Germ</name>
+            <name>Phyrexian Germ</name>
             <prop>
                 <colors>B</colors>
-                <type>Token Creature — Germ</type>
+                <type>Token Creature — Phyrexian Germ</type>
                 <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>0/0</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2021/mh2/en_OPidhU2PQ4.png">MH2</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_XbLXIG0896.png">2XM</set>
             <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/byg00olvZx_EN.png">C16</set>
             <set picURL="https://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_UF6tUBntoI.png">C15</set>
@@ -3084,6 +3091,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2021/mh2/en_K46xMi6q0f.png">MH2</set>
             <set picURL="https://media.wizards.com/2021/tsr/en_mMI33oemCA.png">TSR</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_ZN8J4ERaoN.png">MH1</set>
             <set picURL="https://media.wizards.com/2019/war/en_aQgSh0czs9.png">WAR</set>
@@ -4112,6 +4120,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2021/mh2/en_gt4se7LqSx.png">MH2</set>
             <set picURL="https://img.scryfall.com/cards/large/front/8/5/85f9e977-f718-41b2-b30b-77a9a17e9733.jpg">SOM</set>
             <reverse-related count="2">Carrion Call</reverse-related>
             <reverse-related count="x">Phyrexian Swarmlord</reverse-related>
@@ -6911,6 +6920,7 @@ Cumulative upkeep {G}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2021/mh2/en_aACn7iFS5n.png">MH2</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_0Cih0roszy.png">2XM</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_ekxScmW9bT.png">MH1</set>
             <set picURL="https://img.scryfall.com/cards/large/front/3/a/3af9733f-192f-4028-8ad6-aa1187dd15e7.jpg">CNS</set>
@@ -7097,6 +7107,7 @@ This creature can't be enchanted.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2021/mh2/en_DaI3vO88WW.png">MH2</set>
             <set picURL="https://media.wizards.com/2021/stx/en_C8KHYt73VZ.png">C21</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_P7Ua75t2Cv.png">2XM</set>
             <set picURL="https://media.wizards.com/2018/rna/en_VL2JcQP37W.png">RNA</set>
@@ -7247,6 +7258,7 @@ This creature can't be enchanted.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://media.wizards.com/2021/mh2/en_rdUdpRE0fi.png">MH2</set>
             <set picURL="https://media.wizards.com/2021/stx/en_rNuFANCh1U.png">STX</set>
             <set picURL="https://media.wizards.com/2020/khm/en_zdHT30nIpZ.png">KHM</set>
             <set picURL="https://media.wizards.com/2020/cmr/en_8W0qnpCjl9.png">CMR</set>
@@ -8118,6 +8130,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2021/mh2/en_D84ryulQze.png">MH2</set>
             <set picURL="https://media.wizards.com/2021/stx/en_xKkcQWllI3.png">C21</set>
             <set picURL="https://media.wizards.com/2020/cmr/en_awAuwqn3O7.png">CMR</set>
             <set picURL="https://media.wizards.com/2020/m21/en_sQXnmfJFAj.png">M21</set>
@@ -8305,6 +8318,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>0/0</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2021/mh2/en_HcVgixr2CT.png">MH2</set>
             <set picURL="https://media.wizards.com/2019/war/en_KzBBNMF6y0.png">WAR</set>
             <set picURL="https://media.wizards.com/2019/war/en_R8RtdR3FnK.png">WAR</set>
             <set picURL="https://media.wizards.com/2019/war/en_OxSS3LpAEh.png">WAR</set>
