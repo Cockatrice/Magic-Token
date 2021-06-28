@@ -120,6 +120,7 @@
                 <pt>3/3</pt>
             </prop>
             <set picURL="https://cdn.staticneo.com/w/mtg/b/bb/Angel3.jpg">APC</set>
+            <reverse-related>The Book of Exalted Deeds</reverse-related>
             <reverse-related>Haunted Angel</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -911,6 +912,21 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Boo</name>
+            <text>Trample, Haste</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Legendary Creature — Hamster</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/4/c49e8e79-8673-41c2-a1ad-273c37e27aca.jpg?1625767076">AFR</set>
+            <reverse-related>Minsc, Beloved Ranger</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Butterfly</name>
             <text>Flying</text>
             <prop>
@@ -1584,6 +1600,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <reverse-related count="4">Devils' Playground</reverse-related>
             <reverse-related>Make Mischief</reverse-related>
             <reverse-related>Tibalt, Rakish Instigator</reverse-related>
+            <reverse-related>Zariel, Archduke of Avernus</reverse-related>
             <reverse-related>Zurzoth, Chaos Rider</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -1695,6 +1712,21 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <set picURL="https://media.wizards.com/2020/m21/en_Rc1778MsPh.png">M21</set>
             <reverse-related>Release the Dogs</reverse-related>
             <reverse-related>Rin and Seri, Inseparable</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Dog </name>
+            <text>This creature's power and toughness are each equal to twice the number of cards in your hand.</text>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Dog Illusion</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>*/*</pt>
+            </prop>
+            <set>AFR</set>
+            <reverse-related>Mordenkainen</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -1840,6 +1872,21 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
             </prop>
             <set picURL="https://i.imgur.com/8wb1Y6p.jpg">CHK</set>
             <reverse-related>Tatsumasa, the Dragon's Fang</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Dragon Spirit</name>
+            <text>When this creature deals damage, sacrifice it.</text>
+            <prop>
+                <colors>RG</colors>
+                <type>Token Creature — Dragon Spirit</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>5/4</pt>
+            </prop>
+            <set>AFC</set>
+            <reverse-related>Vrondiss, Rage of Ancients</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3130,6 +3177,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related count="x">Goblin Goliath</reverse-related>
             <reverse-related>Goblin Instigator</reverse-related>
             <reverse-related count="2">Goblin Marshal</reverse-related>
+            <reverse-related attach="attach">Goblin Morningstar</reverse-related>
             <reverse-related count="x">Goblin Offensive</reverse-related>
             <reverse-related>Goblin Rabblemaster</reverse-related>
             <reverse-related count="4">Goblin Rally</reverse-related>
@@ -3156,6 +3204,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related count="3">Siege-Gang Commander</reverse-related>
             <reverse-related count="2">Sling-Gang Lieutenant</reverse-related>
             <reverse-related>Survey the Wreckage</reverse-related>
+            <reverse-related count="2">You See a Pair of Goblins</reverse-related>
             <reverse-related count="x">Warbreak Trumpeter</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -3523,6 +3572,21 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <set picURL="https://img.scryfall.com/cards/large/front/e/0/e0e3a11d-c7a3-495b-add9-0503141b1cfe.jpg">DDL</set>
             <reverse-related>Griffin Aerie</reverse-related>
             <reverse-related>Griffin Guide</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Guenhwyvar</name>
+            <text>Trample</text>
+            <prop>
+                <colors>G</colors>
+                <type>Token Legendary Creature — Cat</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/1</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/b/6b2c8f52-1580-42d5-8434-c4c70e31e31b.jpg?1625831431">AFR</set>
+            <reverse-related>Drizzt Do'Urden</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3994,6 +4058,22 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related>Grakmaw, Skyclave Ravager</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Icingdeath, Frost Tongue</name>
+            <text>Equipped creature gets +2/+0.
+Whenever equipped creature attacks, tap target creature defending player controls.
+Equip {2}</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Legendary Artifact — Equipment</type>
+                <maintype>Artifact</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set>AFR</set>
+            <reverse-related>Icingdeath, Frost Tyrant</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Icy Manalith</name>
@@ -6154,6 +6234,21 @@ Equip {1}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Skeleton </name>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Skeleton</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set>AFR</set>
+            <reverse-related>Skeletal Swarming</reverse-related>
+            <reverse-related exclude="exclude" count="2">Skeletal Swarming</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Sliver</name>
             <prop>
                 <type>Token Creature — Sliver</type>
@@ -6605,6 +6700,22 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/7/a/7a0275af-708d-4c43-b226-c88cb9a8054c.jpg">JOU</set>
             <reverse-related>Renowned Weaver</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Spider   </name>
+            <text>Menace, Reach</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Spider</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/1</pt>
+            </prop>
+            <set>AFR</set>
+            <reverse-related count="2">Lolth, Spider Queen</reverse-related>
+            <reverse-related>Drider</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7099,6 +7210,20 @@ This creature can't be enchanted.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>The Atropal</name>
+            <text>Deathtouch</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Legendary Creature — God</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/4</pt>
+            </prop>
+            <set>AFR</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Thopter</name>
             <text>Flying</text>
             <prop>
@@ -7283,6 +7408,7 @@ This creature can't be enchanted.</text>
             <reverse-related exclude="exclude">Creative Outburst</reverse-related>
             <reverse-related count="x">Culmination of Studies</reverse-related>
             <reverse-related>Deadeye Plunderers</reverse-related>
+            <reverse-related>Deadly Dispute</reverse-related>
             <reverse-related>Depths of Desire</reverse-related>
             <reverse-related>Dire Fleet Hoarder</reverse-related>
             <reverse-related count="x=0">Dockside Extortionist</reverse-related>
@@ -7291,16 +7417,23 @@ This creature can't be enchanted.</text>
             <reverse-related>Fae Offering</reverse-related>
             <reverse-related>Fain, the Broker</reverse-related>
             <reverse-related>Forging the Tyrite Sword</reverse-related>
+            <reverse-related>Forsworn Paladin</reverse-related>
             <reverse-related count="x">Gadrak, the Crown-Scourge</reverse-related>
             <reverse-related>Galazeth Prismari</reverse-related>
             <reverse-related>Gleaming Barrier</reverse-related>
             <reverse-related>Goldspan Dragon</reverse-related>
             <reverse-related>Goldvein Pick</reverse-related>
+            <reverse-related>Grim Bounty</reverse-related>
             <reverse-related>Heartless Pillage</reverse-related>
+            <reverse-related>Herald of Hadar</reverse-related>
+            <reverse-related>Hoard Robber</reverse-related>
             <reverse-related>Hornswoggle</reverse-related>
+            <reverse-related count="x">Hoarding Ogre</reverse-related>
             <reverse-related count="x" exclude="exclude">Hullbreacher</reverse-related>
             <reverse-related>Hullbreacher</reverse-related>
+            <reverse-related>Improvised Weaponry</reverse-related>
             <reverse-related>Impulsive Pilferer</reverse-related>
+            <reverse-related>Instrument of the Bards</reverse-related>
             <reverse-related count="2">Ingenious Mastery</reverse-related>
             <reverse-related>Jewel-Eyed Cobra</reverse-related>
             <reverse-related count="x=1" exclude="exclude">Magda, Brazen Outlaw</reverse-related>
@@ -7309,11 +7442,15 @@ This creature can't be enchanted.</text>
             <reverse-related count="x" exclude="exclude">Malcolm, Keen-Eyed Navigator</reverse-related>
             <reverse-related>Malcolm, Keen-Eyed Navigator</reverse-related>
             <reverse-related>Monologue Tax</reverse-related>
+            <reverse-related count="x">Old Gnawbone</reverse-related>
             <reverse-related count="2">Pirate's Pillage</reverse-related>
             <reverse-related>Pirate's Prize</reverse-related>
             <reverse-related>Pitiless Plunderer</reverse-related>
+            <reverse-related>Plundering Barbarian</reverse-related>
             <reverse-related>Prismari Command</reverse-related>
+            <reverse-related>Prosperous Innkeeper</reverse-related>
             <reverse-related count="2">Prosperous Pirates</reverse-related>
+            <reverse-related>Prosper, Tome-Bound</reverse-related>
             <reverse-related>Prying Blade</reverse-related>
             <reverse-related>Ragavan, Nimble Pilferer</reverse-related>
             <reverse-related count="2">Rapacious Dragon</reverse-related>
@@ -7321,24 +7458,34 @@ This creature can't be enchanted.</text>
             <reverse-related count="2">Ruthless Knave</reverse-related>
             <reverse-related>Sailor of Means</reverse-related>
             <reverse-related>Seize the Spoils</reverse-related>
+            <reverse-related>Shambling Ghast</reverse-related>
             <reverse-related>Shiny Impetus</reverse-related>
+            <reverse-related>Skullport Merchant</reverse-related>
             <reverse-related>Smashing Success</reverse-related>
             <reverse-related>Smothering Tithe</reverse-related>
             <reverse-related count="x">Spell Swindle</reverse-related>
+            <reverse-related>Spiked Pit Trap</reverse-related>
             <reverse-related>Storm the Vault</reverse-related>
             <reverse-related>Storm-Kiln Artist</reverse-related>
             <reverse-related>Strike It Rich</reverse-related>
             <reverse-related>Sudden Breakthrough</reverse-related>
             <reverse-related count="x">Surly Badgersaur</reverse-related>
+            <reverse-related count="x">Swarming Goblins</reverse-related>
             <reverse-related count="2">Tavern Scoundrel</reverse-related>
             <reverse-related>Tempting Contract</reverse-related>
+            <reverse-related>Thieve's Tools</reverse-related>
             <reverse-related>Tireless Provisioner</reverse-related>
+            <reverse-related count="5">Treasure Chest</reverse-related>
             <reverse-related count="3">Treasure Map</reverse-related>
+            <reverse-related count="x">Treasure Vault</reverse-related>
             <reverse-related>Trove of Temptation</reverse-related>
+            <reverse-related count="2">Unexpected Windfall</reverse-related>
             <reverse-related>Vault Robber</reverse-related>
             <reverse-related>Vraska, Relic Seeker</reverse-related>
             <reverse-related count="2">Wanted Scoundrels</reverse-related>
             <reverse-related>Wily Goblin</reverse-related>
+            <reverse-related count="x">Xorn</reverse-related>
+            <reverse-related>You Find a Cursed Idol</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -7589,6 +7736,21 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_Lz7fjwmpzN.png">SOI</set>
             <reverse-related>Call the Bloodline</reverse-related>
             <reverse-related count="x">Sorin, Grim Nemesis</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Vecna</name>
+            <text>Indestructible</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Legendary Creature — Zombie God</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>8/8</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/6/86881c5f-df5e-4f50-b554-e4c49d5316f9.jpg?1625676073">AFR</set>
+            <reverse-related>The Book of Vile Darkness</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7884,6 +8046,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Arlinn, Voice of the Pack</reverse-related>
             <reverse-related>Bestial Menace</reverse-related>
             <reverse-related>Cult of the Waxing Moon</reverse-related>
+            <reverse-related>Elturgard Ranger</reverse-related>
             <reverse-related>Fable of Wolf and Owl</reverse-related>
             <reverse-related count="x">Feed the Pack</reverse-related>
             <reverse-related>Ferocious Pup</reverse-related>
@@ -7900,9 +8063,11 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related count="3" exclude="exclude">Predator's Howl</reverse-related>
             <reverse-related>Predator's Howl</reverse-related>
             <reverse-related count="2">Raised by Wolves</reverse-related>
+            <reverse-related count="2">Ranger Class</reverse-related>
             <reverse-related>Silverfur Partisan</reverse-related>
             <reverse-related>Sword of Body and Mind</reverse-related>
             <reverse-related>Turntimber Ranger</reverse-related>
+            <reverse-related>Varis, Silverymoon Ranger</reverse-related>
             <reverse-related>Wolf-Skull Shaman</reverse-related>
             <reverse-related count="x">Wolfbriar Elemental</reverse-related>
             <reverse-related count="x">Wolfcaller's Howl</reverse-related>
@@ -8263,6 +8428,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Vile Rebirth</reverse-related>
             <reverse-related>Wakedancer</reverse-related>
             <reverse-related>Waste Not</reverse-related>
+            <reverse-related>Wight</reverse-related>
             <reverse-related>Xathrid Necromancer</reverse-related>
             <reverse-related>Zombie Infestation</reverse-related>
             <token>1</token>
@@ -8439,6 +8605,161 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Dungeon of the Mad Mage</name>
+            <text>Yawning Portal — You gain 1 life. (→ Dungeon Level)
+Dungeon Level — Scry 1. (→ Goblin Bazaar or Twisted Caverns)
+Goblin Bazaar — Create a Treasure token. (→ Lost Level)
+Twisted Caverns — Target creature can’t attack until your next turn. (→ Lost Level)
+Lost Level — Scry 2. (→ Runestone Caverns or Muiral’s Graveyard)
+Runestone Caverns — Exile the top two cards of your library. You may play them. (→ Deep Mines)
+Muiral’s Graveyard — Create two 1/1 black Skeleton creature tokens. (→ Deep Mines)
+Deep Mines — Scry 3. (→ Mad Wizard’s Lair)
+Mad Wizard’s Lair — Draw three cards and reveal them. You may cast one of them without paying its mana cost.</text>
+            <prop>
+                <type>Dungeon</type>
+                <maintype>Dungeon</maintype>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/f/6f509dbe-6ec7-4438-ab36-e20be46c9922.jpg?1625106684">AFR</set>
+            <reverse-related exclude="exclude">Acererak the Archlich</reverse-related>
+            <reverse-related exclude="exclude">Barrowin of Clan Undurr</reverse-related>
+            <reverse-related exclude="exclude">Bar the Gate</reverse-related>
+            <reverse-related exclude="exclude">Clattering Skeletons</reverse-related>
+            <reverse-related exclude="exclude">Cloister Gargoyle</reverse-related>
+            <reverse-related exclude="exclude">Delver's Torch</reverse-related>
+            <reverse-related exclude="exclude">Displacer Beast</reverse-related>
+            <reverse-related exclude="exclude">Dungeon Descent</reverse-related>
+            <reverse-related exclude="exclude">Dungeon Map</reverse-related>
+            <reverse-related exclude="exclude">Eccentric Apprentice</reverse-related>
+            <reverse-related exclude="exclude">Ellywick Tumblestrum</reverse-related>
+            <reverse-related exclude="exclude">Fates' Reversal</reverse-related>
+            <reverse-related exclude="exclude">Fifty Feet of Rope</reverse-related>
+            <reverse-related exclude="exclude">Find the Path</reverse-related>
+            <reverse-related exclude="exclude">Fly</reverse-related>
+            <reverse-related exclude="exclude">Intrepid Outlander</reverse-related>
+            <reverse-related exclude="exclude">Kick in the Door</reverse-related>
+            <reverse-related exclude="exclude">Nadaar, Selfless Paladin</reverse-related>
+            <reverse-related exclude="exclude">Planar Ally</reverse-related>
+            <reverse-related exclude="exclude">Precipitous Drop</reverse-related>
+            <reverse-related exclude="exclude">Ranger's Hawk</reverse-related>
+            <reverse-related exclude="exclude">Secret Door</reverse-related>
+            <reverse-related exclude="exclude">Sefris of the Hidden Ways</reverse-related>
+            <reverse-related exclude="exclude">Shortcut Seeker</reverse-related>
+            <reverse-related exclude="exclude">Triumphant Adventurer</reverse-related>
+            <reverse-related exclude="exclude">Varis, Silverymoon Ranger</reverse-related>
+            <reverse-related exclude="exclude">Veteran Dungeoneer</reverse-related>
+            <reverse-related exclude="exclude">Wandering Troubadour</reverse-related>
+            <reverse-related exclude="exclude">You Find a Cursed Idol</reverse-related>
+            <reverse-related exclude="exclude">Yuan-Ti Fang-Blade</reverse-related>
+            <reverse-related exclude="exclude">Yuan-Ti Malison</reverse-related>
+            <reverse-related exclude="exclude">Zalto, Fire Giant Duke</reverse-related>
+            <reverse-related exclude="exclude">Zombie Ogre</reverse-related>
+            <related exclude="exclude">Treasure</related>
+            <related exclude="exclude" count="2">Skeleton </reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Lost Mine of Phandelver</name>
+            <text>Cave Entrance — Scry 1. (→ Goblin Lair or Mine Tunnels)
+Goblin Lair — Create a 1/1 red Goblin creature token. (→ Storeroom or Dark Pool)
+Mine Tunnels — Create a Treasure token. (→ Dark Pool or Fungi Cavern)
+Storeroom — Put a +1/+1 counter on target creature. (→ Temple of Dumathoin)
+Dark Pool — Each opponent loses 1 life and you gain 1 life. (→ Temple of Dumathoin)
+Fungi Cavern — Target creature gets -4/-0 until your next turn. (→ Temple of Dumathoin)
+Temple of Dumathoin — Draw a card.</text>
+            <prop>
+                <type>Dungeon</type>
+                <maintype>Dungeon</maintype>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/9/59b11ff8-f118-4978-87dd-509dc0c8c932.jpg?1625106709">AFR</set>
+            <reverse-related exclude="exclude">Acererak the Archlich</reverse-related>
+            <reverse-related exclude="exclude">Barrowin of Clan Undurr</reverse-related>
+            <reverse-related exclude="exclude">Bar the Gate</reverse-related>
+            <reverse-related exclude="exclude">Clattering Skeletons</reverse-related>
+            <reverse-related exclude="exclude">Cloister Gargoyle</reverse-related>
+            <reverse-related exclude="exclude">Delver's Torch</reverse-related>
+            <reverse-related exclude="exclude">Displacer Beast</reverse-related>
+            <reverse-related exclude="exclude">Dungeon Descent</reverse-related>
+            <reverse-related exclude="exclude">Dungeon Map</reverse-related>
+            <reverse-related exclude="exclude">Eccentric Apprentice</reverse-related>
+            <reverse-related exclude="exclude">Ellywick Tumblestrum</reverse-related>
+            <reverse-related exclude="exclude">Fates' Reversal</reverse-related>
+            <reverse-related exclude="exclude">Fifty Feet of Rope</reverse-related>
+            <reverse-related exclude="exclude">Find the Path</reverse-related>
+            <reverse-related exclude="exclude">Fly</reverse-related>
+            <reverse-related exclude="exclude">Intrepid Outlander</reverse-related>
+            <reverse-related exclude="exclude">Kick in the Door</reverse-related>
+            <reverse-related exclude="exclude">Nadaar, Selfless Paladin</reverse-related>
+            <reverse-related exclude="exclude">Planar Ally</reverse-related>
+            <reverse-related exclude="exclude">Precipitous Drop</reverse-related>
+            <reverse-related exclude="exclude">Ranger's Hawk</reverse-related>
+            <reverse-related exclude="exclude">Secret Door</reverse-related>
+            <reverse-related exclude="exclude">Sefris of the Hidden Ways</reverse-related>
+            <reverse-related exclude="exclude">Shortcut Seeker</reverse-related>
+            <reverse-related exclude="exclude">Triumphant Adventurer</reverse-related>
+            <reverse-related exclude="exclude">Varis, Silverymoon Ranger</reverse-related>
+            <reverse-related exclude="exclude">Veteran Dungeoneer</reverse-related>
+            <reverse-related exclude="exclude">Wandering Troubadour</reverse-related>
+            <reverse-related exclude="exclude">You Find a Cursed Idol</reverse-related>
+            <reverse-related exclude="exclude">Yuan-Ti Fang-Blade</reverse-related>
+            <reverse-related exclude="exclude">Yuan-Ti Malison</reverse-related>
+            <reverse-related exclude="exclude">Zalto, Fire Giant Duke</reverse-related>
+            <reverse-related exclude="exclude">Zombie Ogre</reverse-related>
+            <related exclude="exclude">Goblin</related>
+            <related exclude="exclude">Treasure</related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Tomb of Annihilation</name>
+            <text>Trapped Entry — Each player loses 1 life. (→ Veils of Fear or Oubliette)
+Veils of Fear — Each player loses 2 life unless they discard a card. (→ Sandfall Cell)
+Sandfall Cell — Each player loses 2 life unless they sacrifice an artifact, a creature, or a land. (→ Cradle of the Death God)
+Oubliette — Discard a card and sacrifice an artifact, a creature, and a land. (→ Cradle of the Death God)
+Cradle of the Death God — Create The Atropal, a legendary 4/4 black God Horror creature token with deathtouch.</text>
+            <prop>
+                <type>Dungeon</type>
+                <maintype>Dungeon</maintype>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/9/59b11ff8-f118-4978-87dd-509dc0c8c932.jpg?1625106709">AFR</set>
+            <reverse-related exclude="exclude">Acererak the Archlich</reverse-related>
+            <reverse-related exclude="exclude">Barrowin of Clan Undurr</reverse-related>
+            <reverse-related exclude="exclude">Bar the Gate</reverse-related>
+            <reverse-related exclude="exclude">Clattering Skeletons</reverse-related>
+            <reverse-related exclude="exclude">Cloister Gargoyle</reverse-related>
+            <reverse-related exclude="exclude">Delver's Torch</reverse-related>
+            <reverse-related exclude="exclude">Displacer Beast</reverse-related>
+            <reverse-related exclude="exclude">Dungeon Descent</reverse-related>
+            <reverse-related exclude="exclude">Dungeon Map</reverse-related>
+            <reverse-related exclude="exclude">Eccentric Apprentice</reverse-related>
+            <reverse-related exclude="exclude">Ellywick Tumblestrum</reverse-related>
+            <reverse-related exclude="exclude">Fates' Reversal</reverse-related>
+            <reverse-related exclude="exclude">Fifty Feet of Rope</reverse-related>
+            <reverse-related exclude="exclude">Find the Path</reverse-related>
+            <reverse-related exclude="exclude">Fly</reverse-related>
+            <reverse-related exclude="exclude">Intrepid Outlander</reverse-related>
+            <reverse-related exclude="exclude">Kick in the Door</reverse-related>
+            <reverse-related exclude="exclude">Nadaar, Selfless Paladin</reverse-related>
+            <reverse-related exclude="exclude">Planar Ally</reverse-related>
+            <reverse-related exclude="exclude">Precipitous Drop</reverse-related>
+            <reverse-related exclude="exclude">Ranger's Hawk</reverse-related>
+            <reverse-related exclude="exclude">Secret Door</reverse-related>
+            <reverse-related exclude="exclude">Sefris of the Hidden Ways</reverse-related>
+            <reverse-related exclude="exclude">Shortcut Seeker</reverse-related>
+            <reverse-related exclude="exclude">Triumphant Adventurer</reverse-related>
+            <reverse-related exclude="exclude">Varis, Silverymoon Ranger</reverse-related>
+            <reverse-related exclude="exclude">Veteran Dungeoneer</reverse-related>
+            <reverse-related exclude="exclude">Wandering Troubadour</reverse-related>
+            <reverse-related exclude="exclude">You Find a Cursed Idol</reverse-related>
+            <reverse-related exclude="exclude">Yuan-Ti Fang-Blade</reverse-related>
+            <reverse-related exclude="exclude">Yuan-Ti Malison</reverse-related>
+            <reverse-related exclude="exclude">Zalto, Fire Giant Duke</reverse-related>
+            <reverse-related exclude="exclude">Zombie Ogre</reverse-related>
+            <related>The Atropal</related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Ajani Steadfast (Emblem)</name>
             <text>If a source would deal damage to you or a planeswalker you control, prevent all but 1 of that damage.</text>
             <prop>
@@ -8585,6 +8906,18 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             </prop>
             <set picURL="https://media.wizards.com/2016/bVvMNuiu2i_KLD/en_TndzDeN0rh.png">KLD</set>
             <reverse-related exclude="exclude">Dovin Baan</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Ellywick Tumblestrum (Emblem)</name>
+            <text>Creatures you control have trample and haste and get +2/+2 for each differently named dungeon you've completed.</text>
+            <prop>
+                <type>Emblem</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set>AFR</set>
+            <reverse-related>Ellywick Tumblestrum</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -8841,6 +9174,18 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             </prop>
             <set picURL="https://media.wizards.com/2021/stx/en_nNQvnRWmEh.png">STX</set>
             <reverse-related>Lukka, Wayward Bonder</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Mordenkainen (Emblem)</name>
+            <text>Islands you control have "{T}: Draw a card."</text>
+            <prop>
+                <type>Emblem</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set>AFR</set>
+            <reverse-related exclude="exclude">Mordenkainen</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -9108,6 +9453,18 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             </prop>
             <set picURL="https://media.wizards.com/2020/khm/en_6MNCNqn5H9.png">KHM</set>
             <reverse-related exclude="exclude">Tyvar Kell</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Zariel, Archduke of Avernus (Emblem)</name>
+            <text>At the end of the first combat phase on your turn, untap target creature you control. After this phase, there is an additional combat phase.</text>
+            <prop>
+                <type>Emblem</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set>AFR</set>
+            <reverse-related exclude="exclude">Zariel, Archduke of Avernus</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
