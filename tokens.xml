@@ -3527,6 +3527,20 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Guenhwyar</name>
+            <text>Trample</text>
+            <prop>
+                <colors>G</colors>
+                <type>Token Legendary Creature — Cat</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/1</pt>
+            </prop>
+            <reverse-related>Drizzt Do'Urden</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Harpy</name>
             <text>Flying</text>
             <prop>
@@ -6577,6 +6591,20 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Spider</name>
+            <text>Menace, Reach</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Spider</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/1</pt>
+            </prop>
+            <reverse-related count="2">Lolth, Spider Queen</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Spider </name>
             <text>Reach</text>
             <prop>
@@ -7313,6 +7341,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Pirate's Prize</reverse-related>
             <reverse-related>Pitiless Plunderer</reverse-related>
             <reverse-related>Prismari Command</reverse-related>
+            <reverse-related>Prosperous Innkeeper</reverse-related>
             <reverse-related count="2">Prosperous Pirates</reverse-related>
             <reverse-related>Prying Blade</reverse-related>
             <reverse-related count="2">Rapacious Dragon</reverse-related>
@@ -8585,6 +8614,17 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             </prop>
             <set picURL="https://media.wizards.com/2016/bVvMNuiu2i_KLD/en_TndzDeN0rh.png">KLD</set>
             <reverse-related exclude="exclude">Dovin Baan</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Ellywick Tumblestrum (Emblem)</name>
+            <text>Creatures you control have trample and haste and get +2/+2 for each differently named dungeon you've completed.</text>
+            <prop>
+                <type>Emblem</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <reverse-related>Ellywick Tumblestrum</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
