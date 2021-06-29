@@ -3536,6 +3536,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>4/1</pt>
             </prop>
+            <set>AFR</set>
             <reverse-related>Drizzt Do'Urden</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -6591,20 +6592,6 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Spider</name>
-            <text>Menace, Reach</text>
-            <prop>
-                <colors>B</colors>
-                <type>Token Creature — Spider</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>2/1</pt>
-            </prop>
-            <reverse-related count="2">Lolth, Spider Queen</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
             <name>Spider </name>
             <text>Reach</text>
             <prop>
@@ -6633,6 +6620,21 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/7/a/7a0275af-708d-4c43-b226-c88cb9a8054c.jpg">JOU</set>
             <reverse-related>Renowned Weaver</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Spider   </name>
+            <text>Menace, Reach</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Spider</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/1</pt>
+            </prop>
+            <set>AFR</set>
+            <reverse-related count="2">Lolth, Spider Queen</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -8624,6 +8626,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <type>Emblem</type>
                 <maintype>Emblem</maintype>
             </prop>
+            <set>AFR</set>
             <reverse-related>Ellywick Tumblestrum</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
