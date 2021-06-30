@@ -1584,6 +1584,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <reverse-related count="4">Devils' Playground</reverse-related>
             <reverse-related>Make Mischief</reverse-related>
             <reverse-related>Tibalt, Rakish Instigator</reverse-related>
+            <reverse-related>Zariel, Archduke of Avernus</reverse-related>
             <reverse-related>Zurzoth, Chaos Rider</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -3156,6 +3157,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related count="3">Siege-Gang Commander</reverse-related>
             <reverse-related count="2">Sling-Gang Lieutenant</reverse-related>
             <reverse-related>Survey the Wreckage</reverse-related>
+            <reverse-related count="2">You See a Pair of Goblins</reverse-related>
             <reverse-related count="x">Warbreak Trumpeter</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7641,6 +7643,21 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Vecna</name>
+            <text>Indestructible</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Legendary Creature — Zombie God</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>8/8</pt>
+            </prop>
+            <set>AFR</set>
+            <reverse-related>The Book of Vile Darkness</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Vizier of Many Faces (Token)</name>
             <text>You may have Vizier of Many Faces enter the battlefield as a copy of any creature on the battlefield, except it has no mana cost, it's white, and it's a Zombie in addition to its other types.</text>
             <prop>
@@ -8311,6 +8328,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Vile Rebirth</reverse-related>
             <reverse-related>Wakedancer</reverse-related>
             <reverse-related>Waste Not</reverse-related>
+            <reverse-related>Wight</reverse-related>
             <reverse-related>Xathrid Necromancer</reverse-related>
             <reverse-related>Zombie Infestation</reverse-related>
             <token>1</token>
@@ -9168,6 +9186,18 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             </prop>
             <set picURL="https://media.wizards.com/2020/khm/en_6MNCNqn5H9.png">KHM</set>
             <reverse-related exclude="exclude">Tyvar Kell</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Zariel, Archduke of Avernus (Emblem)</name>
+            <text>At the end of the first combat phase on your turn, untap target creature you control. After this phase, there is an additional combat phase.</text>
+            <prop>
+                <type>Emblem</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set>AFR</set>
+            <reverse-related exclude="exclude">Zariel, Archduke of Avernus</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
