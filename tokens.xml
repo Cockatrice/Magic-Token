@@ -3131,6 +3131,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related count="x">Goblin Goliath</reverse-related>
             <reverse-related>Goblin Instigator</reverse-related>
             <reverse-related count="2">Goblin Marshal</reverse-related>
+            <reverse-related attach="attach">Goblin Morningstar</reverse-related>
             <reverse-related count="x">Goblin Offensive</reverse-related>
             <reverse-related>Goblin Rabblemaster</reverse-related>
             <reverse-related count="4">Goblin Rally</reverse-related>
@@ -6653,6 +6654,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             </prop>
             <set>AFR</set>
             <reverse-related count="2">Lolth, Spider Queen</reverse-related>
+            <reverse-related>Drider</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7346,11 +7348,15 @@ This creature can't be enchanted.</text>
             <reverse-related>Goldvein Pick</reverse-related>
             <reverse-related>Heartless Pillage</reverse-related>
             <reverse-related>Hornswoggle</reverse-related>
+            <reverse-related count="x">Hoarding Ogre</reverse-related>
             <reverse-related count="x" exclude="exclude">Hullbreacher</reverse-related>
             <reverse-related>Hullbreacher</reverse-related>
+            <reverse-related>Improvised Weaponry</reverse-related>
             <reverse-related>Impulsive Pilferer</reverse-related>
+            <reverse-related>Instrument of the Bards</reverse-related>
             <reverse-related count="2">Ingenious Mastery</reverse-related>
             <reverse-related>Jewel-Eyed Cobra</reverse-related>
+            <reverse-related>Kalain, Reclusive Painter</reverse-related>
             <reverse-related exclude="exclude" count="x=1">Magda, Brazen Outlaw</reverse-related>
             <reverse-related>Magda, Brazen Outlaw</reverse-related>
             <reverse-related exclude="exclude">Magma Opus</reverse-related>
@@ -7371,15 +7377,19 @@ This creature can't be enchanted.</text>
             <reverse-related count="2">Ruthless Knave</reverse-related>
             <reverse-related>Sailor of Means</reverse-related>
             <reverse-related>Seize the Spoils</reverse-related>
+            <reverse-related>Shambling Ghast</reverse-related>
             <reverse-related>Shiny Impetus</reverse-related>
+            <reverse-related>Skullport Merchant</reverse-related>
             <reverse-related>Smashing Success</reverse-related>
             <reverse-related>Smothering Tithe</reverse-related>
             <reverse-related count="x">Spell Swindle</reverse-related>
+            <reverse-related>Spiked Pit Trap</reverse-related>
             <reverse-related>Storm the Vault</reverse-related>
             <reverse-related>Storm-Kiln Artist</reverse-related>
             <reverse-related>Strike It Rich</reverse-related>
             <reverse-related>Sudden Breakthrough</reverse-related>
             <reverse-related count="x">Surly Badgersaur</reverse-related>
+            <reverse-related count="x">Swarming Goblins</reverse-related>
             <reverse-related count="2">Tavern Scoundrel</reverse-related>
             <reverse-related>Tempting Contract</reverse-related>
             <reverse-related>Tireless Provisioner</reverse-related>
@@ -7389,6 +7399,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Vraska, Relic Seeker</reverse-related>
             <reverse-related count="2">Wanted Scoundrels</reverse-related>
             <reverse-related>Wily Goblin</reverse-related>
+            <reverse-related>You Find a Cursed Idol</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -7949,6 +7960,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Arlinn, Voice of the Pack</reverse-related>
             <reverse-related>Bestial Menace</reverse-related>
             <reverse-related>Cult of the Waxing Moon</reverse-related>
+            <reverse-related>Elturgard Ranger</reverse-related>
             <reverse-related>Fable of Wolf and Owl</reverse-related>
             <reverse-related count="x">Feed the Pack</reverse-related>
             <reverse-related>Ferocious Pup</reverse-related>
@@ -7968,6 +7980,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Silverfur Partisan</reverse-related>
             <reverse-related>Sword of Body and Mind</reverse-related>
             <reverse-related>Turntimber Ranger</reverse-related>
+            <reverse-related>Varis, Silverymoon Ranger</reverse-related>
             <reverse-related>Wolf-Skull Shaman</reverse-related>
             <reverse-related count="x">Wolfbriar Elemental</reverse-related>
             <reverse-related count="x">Wolfcaller's Howl</reverse-related>
