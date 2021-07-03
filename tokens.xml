@@ -911,6 +911,21 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Boo</name>
+            <text>Trample, Haste</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Legendary Creature — Hamster</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set>AFR</set>
+            <reverse-related>Minsc, Beloved Ranger</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Butterfly</name>
             <text>Flying</text>
             <prop>
@@ -7347,6 +7362,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Goldspan Dragon</reverse-related>
             <reverse-related>Goldvein Pick</reverse-related>
             <reverse-related>Heartless Pillage</reverse-related>
+            <reverse-related>Herald of Hadar</reverse-related>
             <reverse-related>Hornswoggle</reverse-related>
             <reverse-related count="x">Hoarding Ogre</reverse-related>
             <reverse-related count="x" exclude="exclude">Hullbreacher</reverse-related>
@@ -7363,6 +7379,7 @@ This creature can't be enchanted.</text>
             <reverse-related exclude="exclude" count="x">Malcolm, Keen-Eyed Navigator</reverse-related>
             <reverse-related>Malcolm, Keen-Eyed Navigator</reverse-related>
             <reverse-related>Monologue Tax</reverse-related>
+            <reverse-related count="x">Old Gnawbone</reverse-related>
             <reverse-related count="2">Pirate's Pillage</reverse-related>
             <reverse-related>Pirate's Prize</reverse-related>
             <reverse-related>Pitiless Plunderer</reverse-related>
@@ -7393,12 +7410,15 @@ This creature can't be enchanted.</text>
             <reverse-related count="2">Tavern Scoundrel</reverse-related>
             <reverse-related>Tempting Contract</reverse-related>
             <reverse-related>Tireless Provisioner</reverse-related>
+            <reverse-related count="5">Treasure Chest</reverse-related>
             <reverse-related count="3">Treasure Map</reverse-related>
+            <reverse-related count="x">Treasure Vault</reverse-related>
             <reverse-related>Trove of Temptation</reverse-related>
             <reverse-related>Vault Robber</reverse-related>
             <reverse-related>Vraska, Relic Seeker</reverse-related>
             <reverse-related count="2">Wanted Scoundrels</reverse-related>
             <reverse-related>Wily Goblin</reverse-related>
+            <reverse-related count="x">Xorn</reverse-related>
             <reverse-related>You Find a Cursed Idol</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -7977,6 +7997,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Predator's Howl</reverse-related>
             <reverse-related count="3" exclude="exclude">Predator's Howl</reverse-related>
             <reverse-related count="2">Raised by Wolves</reverse-related>
+            <reverse-related count="2">Ranger Class</reverse-related>
             <reverse-related>Silverfur Partisan</reverse-related>
             <reverse-related>Sword of Body and Mind</reverse-related>
             <reverse-related>Turntimber Ranger</reverse-related>
