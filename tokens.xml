@@ -1899,30 +1899,6 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Drake</name>
-            <text>Flying</text>
-            <prop>
-                <colors>U</colors>
-                <type>Token Creature — Drake</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>2/2</pt>
-            </prop>
-            <set picURL="https://media.wizards.com/2021/stx/en_VgjINqikTp.png">C21</set>
-            <set picURL="https://media.wizards.com/2020/znr/en_M7rV93Flf6.png">ZNR</set>
-            <set picURL="https://media.wizards.com/2020/iko/en_C5yn9a7rMM.png">C20</set>
-            <set picURL="https://media.wizards.com/2019/c19/en_3bVQTwNBDt.png">C19</set>
-            <set picURL="https://img.scryfall.com/cards/large/front/6/5/65844e72-aa84-483f-b07e-9e34e798aaec.jpg">AKH</set>
-            <set picURL="https://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_YQgzJqST41.png">C15</set>
-            <set picURL="https://img.scryfall.com/cards/large/front/9/3/93679bb9-ee1c-4eea-bcdd-72785d5788af.jpg">M13</set>
-            <reverse-related>Drake Haven</reverse-related>
-            <reverse-related>Roost of Drakes</reverse-related>
-            <reverse-related count="2">Talrand's Invocation</reverse-related>
-            <reverse-related>Talrand, Sky Summoner</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
             <name>Drake </name>
             <text>Flying</text>
             <prop>
