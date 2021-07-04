@@ -1859,7 +1859,7 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
-		<card>
+        <card>
             <name>Dragon Spirit</name>
             <text>When this creature deals damage, sacrifice it.</text>
             <prop>
@@ -6217,7 +6217,7 @@ Equip {1}</text>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
-		<card>
+        <card>
             <name>Skeleton</name>
             <prop>
                 <colors>B</colors>
@@ -7191,11 +7191,11 @@ This creature can't be enchanted.</text>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
-		<card>
+        <card>
             <name>The Atropal</name>
             <text>Deathtouch</text>
             <prop>
-				<colors>B</colors>
+                <colors>B</colors>
                 <type>Token Legendary Creature — God</type>
                 <maintype>Creature</maintype>
                 <cmc>0</cmc>
@@ -7398,7 +7398,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Fae Offering</reverse-related>
             <reverse-related>Fain, the Broker</reverse-related>
             <reverse-related>Forging the Tyrite Sword</reverse-related>
-			<reverse-related>Forsworn Paladin</reverse-related>
+            <reverse-related>Forsworn Paladin</reverse-related>
             <reverse-related count="x">Gadrak, the Crown-Scourge</reverse-related>
             <reverse-related>Galazeth Prismari</reverse-related>
             <reverse-related>Gleaming Barrier</reverse-related>
@@ -7430,7 +7430,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Prismari Command</reverse-related>
             <reverse-related>Prosperous Innkeeper</reverse-related>
             <reverse-related count="2">Prosperous Pirates</reverse-related>
-			<reverse-related>Prosper, Tome-Bound</reverse-related>
+            <reverse-related>Prosper, Tome-Bound</reverse-related>
             <reverse-related>Prying Blade</reverse-related>
             <reverse-related count="2">Rapacious Dragon</reverse-related>
             <reverse-related>Ragavan, Nimble Pilferer</reverse-related>
@@ -7458,6 +7458,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="3">Treasure Map</reverse-related>
             <reverse-related count="x">Treasure Vault</reverse-related>
             <reverse-related>Trove of Temptation</reverse-related>
+            <reverse-related count="2">Unexpected Windfall</reverse-related>
             <reverse-related>Vault Robber</reverse-related>
             <reverse-related>Vraska, Relic Seeker</reverse-related>
             <reverse-related count="2">Wanted Scoundrels</reverse-related>
@@ -8582,7 +8583,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
-		<card>
+        <card>
             <name>Dungeon of the Mad Mage</name>
             <text>Yawning Portal — You gain 1 life. (→ Dungeon Level)
 Dungeon Level — Scry 1. (→ Goblin Bazaar or Twisted Caverns)
@@ -8599,44 +8600,44 @@ Mad Wizard’s Lair — Draw three cards and reveal them. You may cast one of th
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/f/6f509dbe-6ec7-4438-ab36-e20be46c9922.jpg?1625106684">TAFR</set>
             <reverse-related exclude="exclude">Barrowin of Clan Undurr</reverse-related>
-			<reverse-related exclude="exclude">Bar the Gate</reverse-related>
-			<reverse-related exclude="exclude">Clattering Skeletons</reverse-related>
-			<reverse-related exclude="exclude">Cloister Gargoyle</reverse-related>
-			<reverse-related exclude="exclude">Delver's Torch</reverse-related>
-			<reverse-related exclude="exclude">Displacer Beast</reverse-related>
-			<reverse-related exclude="exclude">Dungeon Descent</reverse-related>
-			<reverse-related exclude="exclude">Dungeon Map</reverse-related>
-			<reverse-related exclude="exclude">Eccentric Apprentice</reverse-related>
-			<reverse-related exclude="exclude">Ellywick Tumblestrum</reverse-related>
-			<reverse-related exclude="exclude">Fates' Reversal</reverse-related>
-			<reverse-related exclude="exclude">Fifty Feet of Rope</reverse-related>
-			<reverse-related exclude="exclude">Find the Path</reverse-related>
-			<reverse-related exclude="exclude">Fly</reverse-related>
-			<reverse-related exclude="exclude">Intrepid Outlander</reverse-related>
-			<reverse-related exclude="exclude">Keen-Eared Sentry</reverse-related>
-			<reverse-related exclude="exclude">Kick in the Door</reverse-related>
-			<reverse-related exclude="exclude">Nadaar, Selfless Paladin</reverse-related>
-			<reverse-related exclude="exclude">Planar Ally</reverse-related>
-			<reverse-related exclude="exclude">Precipitous Drop</reverse-related>
-			<reverse-related exclude="exclude">Ranger's Hawk</reverse-related>
-			<reverse-related exclude="exclude">Secret Door</reverse-related>
-			<reverse-related exclude="exclude">Sefris of the Hidden Ways</reverse-related>
-			<reverse-related exclude="exclude">Shortcut Seeker</reverse-related>
-			<reverse-related exclude="exclude">Triumphant Adventurer</reverse-related>
-			<reverse-related exclude="exclude">Varis, Silverymoon Ranger</reverse-related>
-			<reverse-related exclude="exclude">Veteran Dungeoneer</reverse-related>
-			<reverse-related exclude="exclude">Wandering Troubadour</reverse-related>
-			<reverse-related exclude="exclude">You Find a Cursed Idol</reverse-related>
-			<reverse-related exclude="exclude">Yuan-Ti Fang-Blade</reverse-related>
-			<reverse-related exclude="exclude">Yuan-Ti Malison</reverse-related>
-			<reverse-related exclude="exclude">Zalto, Fire Giant Duke</reverse-related>
-			<reverse-related exclude="exclude">Zombie Ogre</reverse-related>
-			<related exclude="exclude">Treasure</related>
-			<reverse-related count="2" exclude="exclude">Skeleton </reverse-related>
+            <reverse-related exclude="exclude">Bar the Gate</reverse-related>
+            <reverse-related exclude="exclude">Clattering Skeletons</reverse-related>
+            <reverse-related exclude="exclude">Cloister Gargoyle</reverse-related>
+            <reverse-related exclude="exclude">Delver's Torch</reverse-related>
+            <reverse-related exclude="exclude">Displacer Beast</reverse-related>
+            <reverse-related exclude="exclude">Dungeon Descent</reverse-related>
+            <reverse-related exclude="exclude">Dungeon Map</reverse-related>
+            <reverse-related exclude="exclude">Eccentric Apprentice</reverse-related>
+            <reverse-related exclude="exclude">Ellywick Tumblestrum</reverse-related>
+            <reverse-related exclude="exclude">Fates' Reversal</reverse-related>
+            <reverse-related exclude="exclude">Fifty Feet of Rope</reverse-related>
+            <reverse-related exclude="exclude">Find the Path</reverse-related>
+            <reverse-related exclude="exclude">Fly</reverse-related>
+            <reverse-related exclude="exclude">Intrepid Outlander</reverse-related>
+            <reverse-related exclude="exclude">Keen-Eared Sentry</reverse-related>
+            <reverse-related exclude="exclude">Kick in the Door</reverse-related>
+            <reverse-related exclude="exclude">Nadaar, Selfless Paladin</reverse-related>
+            <reverse-related exclude="exclude">Planar Ally</reverse-related>
+            <reverse-related exclude="exclude">Precipitous Drop</reverse-related>
+            <reverse-related exclude="exclude">Ranger's Hawk</reverse-related>
+            <reverse-related exclude="exclude">Secret Door</reverse-related>
+            <reverse-related exclude="exclude">Sefris of the Hidden Ways</reverse-related>
+            <reverse-related exclude="exclude">Shortcut Seeker</reverse-related>
+            <reverse-related exclude="exclude">Triumphant Adventurer</reverse-related>
+            <reverse-related exclude="exclude">Varis, Silverymoon Ranger</reverse-related>
+            <reverse-related exclude="exclude">Veteran Dungeoneer</reverse-related>
+            <reverse-related exclude="exclude">Wandering Troubadour</reverse-related>
+            <reverse-related exclude="exclude">You Find a Cursed Idol</reverse-related>
+            <reverse-related exclude="exclude">Yuan-Ti Fang-Blade</reverse-related>
+            <reverse-related exclude="exclude">Yuan-Ti Malison</reverse-related>
+            <reverse-related exclude="exclude">Zalto, Fire Giant Duke</reverse-related>
+            <reverse-related exclude="exclude">Zombie Ogre</reverse-related>
+            <related exclude="exclude">Treasure</related>
+            <reverse-related count="2" exclude="exclude">Skeleton </reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
-		<card>
+        <card>
             <name>Lost Mine of Phandelver</name>
             <text>Cave Entrance — Scry 1. (→ Goblin Lair or Mine Tunnels)
 Goblin Lair — Create a 1/1 red Goblin creature token. (→ Storeroom or Dark Pool)
@@ -8651,44 +8652,44 @@ Temple of Dumathoin — Draw a card.</text>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/9/59b11ff8-f118-4978-87dd-509dc0c8c932.jpg?1625106709">TAFR</set>
             <reverse-related exclude="exclude">Barrowin of Clan Undurr</reverse-related>
-			<reverse-related exclude="exclude">Bar the Gate</reverse-related>
-			<reverse-related exclude="exclude">Clattering Skeletons</reverse-related>
-			<reverse-related exclude="exclude">Cloister Gargoyle</reverse-related>
-			<reverse-related exclude="exclude">Delver's Torch</reverse-related>
-			<reverse-related exclude="exclude">Displacer Beast</reverse-related>
-			<reverse-related exclude="exclude">Dungeon Descent</reverse-related>
-			<reverse-related exclude="exclude">Dungeon Map</reverse-related>
-			<reverse-related exclude="exclude">Eccentric Apprentice</reverse-related>
-			<reverse-related exclude="exclude">Ellywick Tumblestrum</reverse-related>
-			<reverse-related exclude="exclude">Fates' Reversal</reverse-related>
-			<reverse-related exclude="exclude">Fifty Feet of Rope</reverse-related>
-			<reverse-related exclude="exclude">Find the Path</reverse-related>
-			<reverse-related exclude="exclude">Fly</reverse-related>
-			<reverse-related exclude="exclude">Intrepid Outlander</reverse-related>
-			<reverse-related exclude="exclude">Keen-Eared Sentry</reverse-related>
-			<reverse-related exclude="exclude">Kick in the Door</reverse-related>
-			<reverse-related exclude="exclude">Nadaar, Selfless Paladin</reverse-related>
-			<reverse-related exclude="exclude">Planar Ally</reverse-related>
-			<reverse-related exclude="exclude">Precipitous Drop</reverse-related>
-			<reverse-related exclude="exclude">Ranger's Hawk</reverse-related>
-			<reverse-related exclude="exclude">Secret Door</reverse-related>
-			<reverse-related exclude="exclude">Sefris of the Hidden Ways</reverse-related>
-			<reverse-related exclude="exclude">Shortcut Seeker</reverse-related>
-			<reverse-related exclude="exclude">Triumphant Adventurer</reverse-related>
-			<reverse-related exclude="exclude">Varis, Silverymoon Ranger</reverse-related>
-			<reverse-related exclude="exclude">Veteran Dungeoneer</reverse-related>
-			<reverse-related exclude="exclude">Wandering Troubadour</reverse-related>
-			<reverse-related exclude="exclude">You Find a Cursed Idol</reverse-related>
-			<reverse-related exclude="exclude">Yuan-Ti Fang-Blade</reverse-related>
-			<reverse-related exclude="exclude">Yuan-Ti Malison</reverse-related>
-			<reverse-related exclude="exclude">Zalto, Fire Giant Duke</reverse-related>
-			<reverse-related exclude="exclude">Zombie Ogre</reverse-related>
-			<related exclude="exclude">Goblin</related>
-			<related exclude="exclude">Treasure</related>
+            <reverse-related exclude="exclude">Bar the Gate</reverse-related>
+            <reverse-related exclude="exclude">Clattering Skeletons</reverse-related>
+            <reverse-related exclude="exclude">Cloister Gargoyle</reverse-related>
+            <reverse-related exclude="exclude">Delver's Torch</reverse-related>
+            <reverse-related exclude="exclude">Displacer Beast</reverse-related>
+            <reverse-related exclude="exclude">Dungeon Descent</reverse-related>
+            <reverse-related exclude="exclude">Dungeon Map</reverse-related>
+            <reverse-related exclude="exclude">Eccentric Apprentice</reverse-related>
+            <reverse-related exclude="exclude">Ellywick Tumblestrum</reverse-related>
+            <reverse-related exclude="exclude">Fates' Reversal</reverse-related>
+            <reverse-related exclude="exclude">Fifty Feet of Rope</reverse-related>
+            <reverse-related exclude="exclude">Find the Path</reverse-related>
+            <reverse-related exclude="exclude">Fly</reverse-related>
+            <reverse-related exclude="exclude">Intrepid Outlander</reverse-related>
+            <reverse-related exclude="exclude">Keen-Eared Sentry</reverse-related>
+            <reverse-related exclude="exclude">Kick in the Door</reverse-related>
+            <reverse-related exclude="exclude">Nadaar, Selfless Paladin</reverse-related>
+            <reverse-related exclude="exclude">Planar Ally</reverse-related>
+            <reverse-related exclude="exclude">Precipitous Drop</reverse-related>
+            <reverse-related exclude="exclude">Ranger's Hawk</reverse-related>
+            <reverse-related exclude="exclude">Secret Door</reverse-related>
+            <reverse-related exclude="exclude">Sefris of the Hidden Ways</reverse-related>
+            <reverse-related exclude="exclude">Shortcut Seeker</reverse-related>
+            <reverse-related exclude="exclude">Triumphant Adventurer</reverse-related>
+            <reverse-related exclude="exclude">Varis, Silverymoon Ranger</reverse-related>
+            <reverse-related exclude="exclude">Veteran Dungeoneer</reverse-related>
+            <reverse-related exclude="exclude">Wandering Troubadour</reverse-related>
+            <reverse-related exclude="exclude">You Find a Cursed Idol</reverse-related>
+            <reverse-related exclude="exclude">Yuan-Ti Fang-Blade</reverse-related>
+            <reverse-related exclude="exclude">Yuan-Ti Malison</reverse-related>
+            <reverse-related exclude="exclude">Zalto, Fire Giant Duke</reverse-related>
+            <reverse-related exclude="exclude">Zombie Ogre</reverse-related>
+            <related exclude="exclude">Goblin</related>
+            <related exclude="exclude">Treasure</related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
-		<card>
+        <card>
             <name>Tomb of Annihilation</name>
             <text>Trapped Entry — Each player loses 1 life. (→ Veils of Fear or Oubliette)
 Veils of Fear — Each player loses 2 life unless they discard a card. (→ Sandfall Cell)
@@ -8701,39 +8702,39 @@ Cradle of the Death God — Create The Atropal, a legendary 4/4 black God Horror
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/9/59b11ff8-f118-4978-87dd-509dc0c8c932.jpg?1625106709">TAFR</set>
             <reverse-related exclude="exclude">Barrowin of Clan Undurr</reverse-related>
-			<reverse-related exclude="exclude">Bar the Gate</reverse-related>
-			<reverse-related exclude="exclude">Clattering Skeletons</reverse-related>
-			<reverse-related exclude="exclude">Cloister Gargoyle</reverse-related>
-			<reverse-related exclude="exclude">Delver's Torch</reverse-related>
-			<reverse-related exclude="exclude">Displacer Beast</reverse-related>
-			<reverse-related exclude="exclude">Dungeon Descent</reverse-related>
-			<reverse-related exclude="exclude">Dungeon Map</reverse-related>
-			<reverse-related exclude="exclude">Eccentric Apprentice</reverse-related>
-			<reverse-related exclude="exclude">Ellywick Tumblestrum</reverse-related>
-			<reverse-related exclude="exclude">Fates' Reversal</reverse-related>
-			<reverse-related exclude="exclude">Fifty Feet of Rope</reverse-related>
-			<reverse-related exclude="exclude">Find the Path</reverse-related>
-			<reverse-related exclude="exclude">Fly</reverse-related>
-			<reverse-related exclude="exclude">Intrepid Outlander</reverse-related>
-			<reverse-related exclude="exclude">Keen-Eared Sentry</reverse-related>
-			<reverse-related exclude="exclude">Kick in the Door</reverse-related>
-			<reverse-related exclude="exclude">Nadaar, Selfless Paladin</reverse-related>
-			<reverse-related exclude="exclude">Planar Ally</reverse-related>
-			<reverse-related exclude="exclude">Precipitous Drop</reverse-related>
-			<reverse-related exclude="exclude">Ranger's Hawk</reverse-related>
-			<reverse-related exclude="exclude">Secret Door</reverse-related>
-			<reverse-related exclude="exclude">Sefris of the Hidden Ways</reverse-related>
-			<reverse-related exclude="exclude">Shortcut Seeker</reverse-related>
-			<reverse-related exclude="exclude">Triumphant Adventurer</reverse-related>
-			<reverse-related exclude="exclude">Varis, Silverymoon Ranger</reverse-related>
-			<reverse-related exclude="exclude">Veteran Dungeoneer</reverse-related>
-			<reverse-related exclude="exclude">Wandering Troubadour</reverse-related>
-			<reverse-related exclude="exclude">You Find a Cursed Idol</reverse-related>
-			<reverse-related exclude="exclude">Yuan-Ti Fang-Blade</reverse-related>
-			<reverse-related exclude="exclude">Yuan-Ti Malison</reverse-related>
-			<reverse-related exclude="exclude">Zalto, Fire Giant Duke</reverse-related>
-			<reverse-related exclude="exclude">Zombie Ogre</reverse-related>
-			<related>The Atropal</related>
+            <reverse-related exclude="exclude">Bar the Gate</reverse-related>
+            <reverse-related exclude="exclude">Clattering Skeletons</reverse-related>
+            <reverse-related exclude="exclude">Cloister Gargoyle</reverse-related>
+            <reverse-related exclude="exclude">Delver's Torch</reverse-related>
+            <reverse-related exclude="exclude">Displacer Beast</reverse-related>
+            <reverse-related exclude="exclude">Dungeon Descent</reverse-related>
+            <reverse-related exclude="exclude">Dungeon Map</reverse-related>
+            <reverse-related exclude="exclude">Eccentric Apprentice</reverse-related>
+            <reverse-related exclude="exclude">Ellywick Tumblestrum</reverse-related>
+            <reverse-related exclude="exclude">Fates' Reversal</reverse-related>
+            <reverse-related exclude="exclude">Fifty Feet of Rope</reverse-related>
+            <reverse-related exclude="exclude">Find the Path</reverse-related>
+            <reverse-related exclude="exclude">Fly</reverse-related>
+            <reverse-related exclude="exclude">Intrepid Outlander</reverse-related>
+            <reverse-related exclude="exclude">Keen-Eared Sentry</reverse-related>
+            <reverse-related exclude="exclude">Kick in the Door</reverse-related>
+            <reverse-related exclude="exclude">Nadaar, Selfless Paladin</reverse-related>
+            <reverse-related exclude="exclude">Planar Ally</reverse-related>
+            <reverse-related exclude="exclude">Precipitous Drop</reverse-related>
+            <reverse-related exclude="exclude">Ranger's Hawk</reverse-related>
+            <reverse-related exclude="exclude">Secret Door</reverse-related>
+            <reverse-related exclude="exclude">Sefris of the Hidden Ways</reverse-related>
+            <reverse-related exclude="exclude">Shortcut Seeker</reverse-related>
+            <reverse-related exclude="exclude">Triumphant Adventurer</reverse-related>
+            <reverse-related exclude="exclude">Varis, Silverymoon Ranger</reverse-related>
+            <reverse-related exclude="exclude">Veteran Dungeoneer</reverse-related>
+            <reverse-related exclude="exclude">Wandering Troubadour</reverse-related>
+            <reverse-related exclude="exclude">You Find a Cursed Idol</reverse-related>
+            <reverse-related exclude="exclude">Yuan-Ti Fang-Blade</reverse-related>
+            <reverse-related exclude="exclude">Yuan-Ti Malison</reverse-related>
+            <reverse-related exclude="exclude">Zalto, Fire Giant Duke</reverse-related>
+            <reverse-related exclude="exclude">Zombie Ogre</reverse-related>
+            <related>The Atropal</related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
