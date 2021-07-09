@@ -120,6 +120,7 @@
                 <pt>3/3</pt>
             </prop>
             <set picURL="https://cdn.staticneo.com/w/mtg/b/bb/Angel3.jpg">APC</set>
+            <reverse-related>The Book of Exalted Deeds</reverse-related>
             <reverse-related>Haunted Angel</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -920,7 +921,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set>AFR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/4/c49e8e79-8673-41c2-a1ad-273c37e27aca.jpg?1625767076">AFR</set>
             <reverse-related>Minsc, Beloved Ranger</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -1711,6 +1712,21 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <set picURL="https://media.wizards.com/2020/m21/en_Rc1778MsPh.png">M21</set>
             <reverse-related>Release the Dogs</reverse-related>
             <reverse-related>Rin and Seri, Inseparable</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Dog </name>
+            <text>This creature's power and toughness are each equal to twice the number of cards in your hand.</text>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Dog Illusion</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>*/*</pt>
+            </prop>
+            <set>AFR</set>
+            <reverse-related>Mordenkainen</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3569,7 +3585,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>4/1</pt>
             </prop>
-            <set>AFR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/b/6b2c8f52-1580-42d5-8434-c4c70e31e31b.jpg?1625831431">AFR</set>
             <reverse-related>Drizzt Do'Urden</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -3980,7 +3996,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related>Beskir Shieldmate</reverse-related>
             <reverse-related>Maja, Bretagard Protector</reverse-related>
             <reverse-related exclude="exclude" count="x">Maja, Bretagard Protector</reverse-related>
-            <reverse-related count="x=1">Usher of the Fallen</reverse-related>
+            <reverse-related>Usher of the Fallen</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -6218,7 +6234,7 @@ Equip {1}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Skeleton</name>
+            <name>Skeleton </name>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Skeleton</type>
@@ -6227,6 +6243,8 @@ Equip {1}</text>
                 <pt>1/1</pt>
             </prop>
             <set>AFR</set>
+            <reverse-related>Skeletal Swarming</reverse-related>
+            <reverse-related exclude="exclude" count="2">Skeletal Swarming</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7390,6 +7408,7 @@ This creature can't be enchanted.</text>
             <reverse-related exclude="exclude">Creative Outburst</reverse-related>
             <reverse-related count="x">Culmination of Studies</reverse-related>
             <reverse-related>Deadeye Plunderers</reverse-related>
+            <reverse-related>Deadly Dispute</reverse-related>
             <reverse-related>Depths of Desire</reverse-related>
             <reverse-related>Dire Fleet Hoarder</reverse-related>
             <reverse-related count="x=0">Dockside Extortionist</reverse-related>
@@ -7404,8 +7423,10 @@ This creature can't be enchanted.</text>
             <reverse-related>Gleaming Barrier</reverse-related>
             <reverse-related>Goldspan Dragon</reverse-related>
             <reverse-related>Goldvein Pick</reverse-related>
+            <reverse-related>Grim Bounty</reverse-related>
             <reverse-related>Heartless Pillage</reverse-related>
             <reverse-related>Herald of Hadar</reverse-related>
+            <reverse-related>Hoard Robber</reverse-related>
             <reverse-related>Hornswoggle</reverse-related>
             <reverse-related count="x">Hoarding Ogre</reverse-related>
             <reverse-related count="x" exclude="exclude">Hullbreacher</reverse-related>
@@ -7453,6 +7474,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="x">Swarming Goblins</reverse-related>
             <reverse-related count="2">Tavern Scoundrel</reverse-related>
             <reverse-related>Tempting Contract</reverse-related>
+            <reverse-related>Thieve's Tools</reverse-related>
             <reverse-related>Tireless Provisioner</reverse-related>
             <reverse-related count="5">Treasure Chest</reverse-related>
             <reverse-related count="3">Treasure Map</reverse-related>
@@ -7728,7 +7750,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>8/8</pt>
             </prop>
-            <set>AFR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/6/86881c5f-df5e-4f50-b554-e4c49d5316f9.jpg?1625676073">AFR</set>
             <reverse-related>The Book of Vile Darkness</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -8598,7 +8620,8 @@ Mad Wizard’s Lair — Draw three cards and reveal them. You may cast one of th
                 <type>Dungeon</type>
                 <maintype>Dungeon</maintype>
             </prop>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/f/6f509dbe-6ec7-4438-ab36-e20be46c9922.jpg?1625106684">TAFR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/f/6f509dbe-6ec7-4438-ab36-e20be46c9922.jpg?1625106684">AFR</set>
+            <reverse-related exclude="exclude">Acererak the Archlich</reverse-related>
             <reverse-related exclude="exclude">Barrowin of Clan Undurr</reverse-related>
             <reverse-related exclude="exclude">Bar the Gate</reverse-related>
             <reverse-related exclude="exclude">Clattering Skeletons</reverse-related>
@@ -8614,7 +8637,6 @@ Mad Wizard’s Lair — Draw three cards and reveal them. You may cast one of th
             <reverse-related exclude="exclude">Find the Path</reverse-related>
             <reverse-related exclude="exclude">Fly</reverse-related>
             <reverse-related exclude="exclude">Intrepid Outlander</reverse-related>
-            <reverse-related exclude="exclude">Keen-Eared Sentry</reverse-related>
             <reverse-related exclude="exclude">Kick in the Door</reverse-related>
             <reverse-related exclude="exclude">Nadaar, Selfless Paladin</reverse-related>
             <reverse-related exclude="exclude">Planar Ally</reverse-related>
@@ -8633,7 +8655,7 @@ Mad Wizard’s Lair — Draw three cards and reveal them. You may cast one of th
             <reverse-related exclude="exclude">Zalto, Fire Giant Duke</reverse-related>
             <reverse-related exclude="exclude">Zombie Ogre</reverse-related>
             <related exclude="exclude">Treasure</related>
-            <reverse-related count="2" exclude="exclude">Skeleton </reverse-related>
+            <related exclude="exclude" count="2">Skeleton </reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -8650,7 +8672,8 @@ Temple of Dumathoin — Draw a card.</text>
                 <type>Dungeon</type>
                 <maintype>Dungeon</maintype>
             </prop>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/9/59b11ff8-f118-4978-87dd-509dc0c8c932.jpg?1625106709">TAFR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/9/59b11ff8-f118-4978-87dd-509dc0c8c932.jpg?1625106709">AFR</set>
+            <reverse-related exclude="exclude">Acererak the Archlich</reverse-related>
             <reverse-related exclude="exclude">Barrowin of Clan Undurr</reverse-related>
             <reverse-related exclude="exclude">Bar the Gate</reverse-related>
             <reverse-related exclude="exclude">Clattering Skeletons</reverse-related>
@@ -8666,7 +8689,6 @@ Temple of Dumathoin — Draw a card.</text>
             <reverse-related exclude="exclude">Find the Path</reverse-related>
             <reverse-related exclude="exclude">Fly</reverse-related>
             <reverse-related exclude="exclude">Intrepid Outlander</reverse-related>
-            <reverse-related exclude="exclude">Keen-Eared Sentry</reverse-related>
             <reverse-related exclude="exclude">Kick in the Door</reverse-related>
             <reverse-related exclude="exclude">Nadaar, Selfless Paladin</reverse-related>
             <reverse-related exclude="exclude">Planar Ally</reverse-related>
@@ -8700,7 +8722,8 @@ Cradle of the Death God — Create The Atropal, a legendary 4/4 black God Horror
                 <type>Dungeon</type>
                 <maintype>Dungeon</maintype>
             </prop>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/9/59b11ff8-f118-4978-87dd-509dc0c8c932.jpg?1625106709">TAFR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/9/59b11ff8-f118-4978-87dd-509dc0c8c932.jpg?1625106709">AFR</set>
+            <reverse-related exclude="exclude">Acererak the Archlich</reverse-related>
             <reverse-related exclude="exclude">Barrowin of Clan Undurr</reverse-related>
             <reverse-related exclude="exclude">Bar the Gate</reverse-related>
             <reverse-related exclude="exclude">Clattering Skeletons</reverse-related>
@@ -8716,7 +8739,6 @@ Cradle of the Death God — Create The Atropal, a legendary 4/4 black God Horror
             <reverse-related exclude="exclude">Find the Path</reverse-related>
             <reverse-related exclude="exclude">Fly</reverse-related>
             <reverse-related exclude="exclude">Intrepid Outlander</reverse-related>
-            <reverse-related exclude="exclude">Keen-Eared Sentry</reverse-related>
             <reverse-related exclude="exclude">Kick in the Door</reverse-related>
             <reverse-related exclude="exclude">Nadaar, Selfless Paladin</reverse-related>
             <reverse-related exclude="exclude">Planar Ally</reverse-related>
@@ -9153,6 +9175,18 @@ Cradle of the Death God — Create The Atropal, a legendary 4/4 black God Horror
             </prop>
             <set picURL="https://media.wizards.com/2021/stx/en_nNQvnRWmEh.png">STX</set>
             <reverse-related>Lukka, Wayward Bonder</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Mordenkainen (Emblem)</name>
+            <text>Islands you control have "{T}: Draw a card."</text>
+            <prop>
+                <type>Emblem</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set>AFR</set>
+            <reverse-related exclude="exclude">Mordenkainen</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
