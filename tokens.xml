@@ -119,6 +119,7 @@
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set>AFR</set>
             <set picURL="https://cdn.staticneo.com/w/mtg/b/bb/Angel3.jpg">APC</set>
             <reverse-related>The Book of Exalted Deeds</reverse-related>
             <reverse-related>Haunted Angel</reverse-related>
@@ -1594,6 +1595,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set>AFR</set>
             <set picURL="https://media.wizards.com/2019/war/en_7jfeiDSYRB.png">WAR</set>
             <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_qhIEFoclOO.png">SOI</set>
             <reverse-related count="2">Dance with Devils</reverse-related>
@@ -3138,6 +3140,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set>AFR</set>
             <set picURL="https://media.wizards.com/2021/mh2/en_K46xMi6q0f.png">MH2</set>
             <set picURL="https://media.wizards.com/2021/tsr/en_mMI33oemCA.png">TSR</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_ZN8J4ERaoN.png">MH1</set>
@@ -6714,8 +6717,8 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <pt>2/1</pt>
             </prop>
             <set>AFR</set>
-            <reverse-related count="2">Lolth, Spider Queen</reverse-related>
             <reverse-related>Drider</reverse-related>
+            <reverse-related count="2">Lolth, Spider Queen</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7220,6 +7223,7 @@ This creature can't be enchanted.</text>
                 <pt>4/4</pt>
             </prop>
             <set>AFR</set>
+            <!-- this token is created by another token only -->
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7383,6 +7387,7 @@ This creature can't be enchanted.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set>AFR</set>
             <set picURL="https://media.wizards.com/2021/mh2/en_rdUdpRE0fi.png">MH2</set>
             <set picURL="https://media.wizards.com/2021/stx/en_rNuFANCh1U.png">STX</set>
             <set picURL="https://media.wizards.com/2020/khm/en_zdHT30nIpZ.png">KHM</set>
@@ -7427,14 +7432,14 @@ This creature can't be enchanted.</text>
             <reverse-related>Heartless Pillage</reverse-related>
             <reverse-related>Herald of Hadar</reverse-related>
             <reverse-related>Hoard Robber</reverse-related>
-            <reverse-related>Hornswoggle</reverse-related>
             <reverse-related count="x">Hoarding Ogre</reverse-related>
+            <reverse-related>Hornswoggle</reverse-related>
             <reverse-related count="x" exclude="exclude">Hullbreacher</reverse-related>
             <reverse-related>Hullbreacher</reverse-related>
             <reverse-related>Improvised Weaponry</reverse-related>
             <reverse-related>Impulsive Pilferer</reverse-related>
-            <reverse-related>Instrument of the Bards</reverse-related>
             <reverse-related count="2">Ingenious Mastery</reverse-related>
+            <reverse-related>Instrument of the Bards</reverse-related>
             <reverse-related>Jewel-Eyed Cobra</reverse-related>
             <reverse-related count="x=1" exclude="exclude">Magda, Brazen Outlaw</reverse-related>
             <reverse-related>Magda, Brazen Outlaw</reverse-related>
@@ -7448,9 +7453,9 @@ This creature can't be enchanted.</text>
             <reverse-related>Pitiless Plunderer</reverse-related>
             <reverse-related>Plundering Barbarian</reverse-related>
             <reverse-related>Prismari Command</reverse-related>
+            <reverse-related>Prosper, Tome-Bound</reverse-related>
             <reverse-related>Prosperous Innkeeper</reverse-related>
             <reverse-related count="2">Prosperous Pirates</reverse-related>
-            <reverse-related>Prosper, Tome-Bound</reverse-related>
             <reverse-related>Prying Blade</reverse-related>
             <reverse-related>Ragavan, Nimble Pilferer</reverse-related>
             <reverse-related count="2">Rapacious Dragon</reverse-related>
@@ -8023,6 +8028,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set>AFR</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_eevhHaOASk.png">2XM</set>
             <set picURL="https://media.wizards.com/2019/thb/en_ahsZMx1Bgw.png">THB</set>
             <set picURL="https://media.wizards.com/2019/m20/en_yGHIfVnYBa.png">M20</set>
@@ -8297,6 +8303,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set>AFR</set>
             <set picURL="https://media.wizards.com/2021/mh2/en_D84ryulQze.png">MH2</set>
             <set picURL="https://media.wizards.com/2021/stx/en_xKkcQWllI3.png">C21</set>
             <set picURL="https://media.wizards.com/2020/cmr/en_awAuwqn3O7.png">CMR</set>
@@ -8620,9 +8627,11 @@ Mad Wizard’s Lair — Draw three cards and reveal them. You may cast one of th
                 <maintype>Dungeon</maintype>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/f/6f509dbe-6ec7-4438-ab36-e20be46c9922.jpg?1625106684">AFR</set>
+            <related exclude="exclude" count="2">Skeleton </reverse-related>
+            <related exclude="exclude">Treasure</related>
             <reverse-related exclude="exclude">Acererak the Archlich</reverse-related>
-            <reverse-related exclude="exclude">Barrowin of Clan Undurr</reverse-related>
             <reverse-related exclude="exclude">Bar the Gate</reverse-related>
+            <reverse-related exclude="exclude">Barrowin of Clan Undurr</reverse-related>
             <reverse-related exclude="exclude">Clattering Skeletons</reverse-related>
             <reverse-related exclude="exclude">Cloister Gargoyle</reverse-related>
             <reverse-related exclude="exclude">Delver's Torch</reverse-related>
@@ -8653,8 +8662,6 @@ Mad Wizard’s Lair — Draw three cards and reveal them. You may cast one of th
             <reverse-related exclude="exclude">Yuan-Ti Malison</reverse-related>
             <reverse-related exclude="exclude">Zalto, Fire Giant Duke</reverse-related>
             <reverse-related exclude="exclude">Zombie Ogre</reverse-related>
-            <related exclude="exclude">Treasure</related>
-            <related exclude="exclude" count="2">Skeleton </reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -8672,9 +8679,11 @@ Temple of Dumathoin — Draw a card.</text>
                 <maintype>Dungeon</maintype>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/9/59b11ff8-f118-4978-87dd-509dc0c8c932.jpg?1625106709">AFR</set>
+            <related exclude="exclude">Goblin</related>
+            <related exclude="exclude">Treasure</related>
             <reverse-related exclude="exclude">Acererak the Archlich</reverse-related>
-            <reverse-related exclude="exclude">Barrowin of Clan Undurr</reverse-related>
             <reverse-related exclude="exclude">Bar the Gate</reverse-related>
+            <reverse-related exclude="exclude">Barrowin of Clan Undurr</reverse-related>
             <reverse-related exclude="exclude">Clattering Skeletons</reverse-related>
             <reverse-related exclude="exclude">Cloister Gargoyle</reverse-related>
             <reverse-related exclude="exclude">Delver's Torch</reverse-related>
@@ -8705,8 +8714,6 @@ Temple of Dumathoin — Draw a card.</text>
             <reverse-related exclude="exclude">Yuan-Ti Malison</reverse-related>
             <reverse-related exclude="exclude">Zalto, Fire Giant Duke</reverse-related>
             <reverse-related exclude="exclude">Zombie Ogre</reverse-related>
-            <related exclude="exclude">Goblin</related>
-            <related exclude="exclude">Treasure</related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -8722,9 +8729,10 @@ Cradle of the Death God — Create The Atropal, a legendary 4/4 black God Horror
                 <maintype>Dungeon</maintype>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/9/59b11ff8-f118-4978-87dd-509dc0c8c932.jpg?1625106709">AFR</set>
+            <related>The Atropal</related>
             <reverse-related exclude="exclude">Acererak the Archlich</reverse-related>
-            <reverse-related exclude="exclude">Barrowin of Clan Undurr</reverse-related>
             <reverse-related exclude="exclude">Bar the Gate</reverse-related>
+            <reverse-related exclude="exclude">Barrowin of Clan Undurr</reverse-related>
             <reverse-related exclude="exclude">Clattering Skeletons</reverse-related>
             <reverse-related exclude="exclude">Cloister Gargoyle</reverse-related>
             <reverse-related exclude="exclude">Delver's Torch</reverse-related>
@@ -8755,7 +8763,6 @@ Cradle of the Death God — Create The Atropal, a legendary 4/4 black God Horror
             <reverse-related exclude="exclude">Yuan-Ti Malison</reverse-related>
             <reverse-related exclude="exclude">Zalto, Fire Giant Duke</reverse-related>
             <reverse-related exclude="exclude">Zombie Ogre</reverse-related>
-            <related>The Atropal</related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
