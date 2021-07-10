@@ -1100,7 +1100,7 @@ Creature tokens you control have flying and vigilance.</text>
             </prop>
             <set picURL="https://media.wizards.com/2020/znr/en_3ZWEb7WWJ0.png">ZNR</set>
             <reverse-related>Felidar Retreat</reverse-related>
-            <reverse-related exclude="exclude" count="x=1">Felidar Retreat</reverse-related>
+            <reverse-related count="x=1" exclude="exclude">Felidar Retreat</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -1878,7 +1878,7 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Dragon Spirit</name>
+            <name>Dragon Spirit </name>
             <text>When this creature deals damage, sacrifice it.</text>
             <prop>
                 <colors>RG</colors>
@@ -2868,7 +2868,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <reverse-related>Fierce Witchstalker</reverse-related>
             <reverse-related>Foreboding Fruit</reverse-related>
             <reverse-related>Fortifying Provisions</reverse-related>
-            <reverse-related exclude="exclude" count="3">Giant Opportunity</reverse-related>
+            <reverse-related count="3" exclude="exclude">Giant Opportunity</reverse-related>
             <reverse-related>Giant's Skewer</reverse-related>
             <reverse-related>Gilded Goose</reverse-related>
             <reverse-related>Gingerbread Cabin</reverse-related>
@@ -3998,7 +3998,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related>Battle for Bretagard</reverse-related>
             <reverse-related>Beskir Shieldmate</reverse-related>
             <reverse-related>Maja, Bretagard Protector</reverse-related>
-            <reverse-related exclude="exclude" count="x">Maja, Bretagard Protector</reverse-related>
+            <reverse-related count="x" exclude="exclude">Maja, Bretagard Protector</reverse-related>
             <reverse-related>Usher of the Fallen</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4257,9 +4257,9 @@ Equip {2}</text>
             <reverse-related count="5">One Dozen Eyes</reverse-related>
             <reverse-related>Saber Ants</reverse-related>
             <reverse-related>Scute Swarm</reverse-related>
-            <reverse-related exclude="exclude" count="x=0">Scute Swarm</reverse-related>
+            <reverse-related count="x=0" exclude="exclude">Scute Swarm</reverse-related>
             <reverse-related>Swarm Shambler</reverse-related>
-            <reverse-related exclude="exclude" count="x=0">Swarm Shambler</reverse-related>
+            <reverse-related count="x=0" exclude="exclude">Swarm Shambler</reverse-related>
             <reverse-related count="4">Symbiotic Beast</reverse-related>
             <reverse-related count="2">Symbiotic Elf</reverse-related>
             <reverse-related count="7">Symbiotic Wurm</reverse-related>
@@ -4432,6 +4432,7 @@ Equip {2}</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set>AFC</set>
             <set picURL="https://media.wizards.com/2020/m21/en_GuzqmaBD8h.png">M21</set>
             <set picURL="https://media.wizards.com/2019/eld/en_9Imcz8rwoV.png">ELD</set>
             <set picURL="https://img.scryfall.com/cards/large/front/f/d/fd8ca5ee-7b93-4248-8f4a-b88261ee1eed.jpg">M19</set>
@@ -4460,6 +4461,7 @@ Equip {2}</text>
             <reverse-related>Sunspire Gatekeepers</reverse-related>
             <reverse-related>The Circle of Loyalty</reverse-related>
             <reverse-related>Trostani's Summoner</reverse-related>
+            <reverse-related count="x">Valiant Endeavor</reverse-related>
             <reverse-related>Valorous Steed</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -6247,7 +6249,7 @@ Equip {1}</text>
             </prop>
             <set>AFR</set>
             <reverse-related>Skeletal Swarming</reverse-related>
-            <reverse-related exclude="exclude" count="2">Skeletal Swarming</reverse-related>
+            <reverse-related count="2" exclude="exclude">Skeletal Swarming</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -6775,7 +6777,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related>Abzan Ascendancy</reverse-related>
             <reverse-related>Afterlife</reverse-related>
             <reverse-related>Alharu, Solemn Ritualist</reverse-related>
-            <reverse-related exclude="exclude" count="x=1">Alharu, Solemn Ritualist</reverse-related>
+            <reverse-related count="x=1" exclude="exclude">Alharu, Solemn Ritualist</reverse-related>
             <reverse-related>Avacyn's Collar</reverse-related>
             <reverse-related count="3">Benevolent Offering</reverse-related>
             <reverse-related>Bishop of Wings</reverse-related>
@@ -7405,6 +7407,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Academy Manufactor</reverse-related>
             <reverse-related>Brass's Bounty</reverse-related>
             <reverse-related>Brazen Freebooter</reverse-related>
+            <reverse-related count="x">Bucknard's Everfull Purse</reverse-related>
             <reverse-related>Burdened Aerialist</reverse-related>
             <reverse-related>Captain Lannery Storm</reverse-related>
             <reverse-related count="2">Contract Killing</reverse-related>
@@ -7429,6 +7432,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Goldspan Dragon</reverse-related>
             <reverse-related>Goldvein Pick</reverse-related>
             <reverse-related>Grim Bounty</reverse-related>
+            <reverse-related count="2">Grim Hireling</reverse-related>
             <reverse-related>Heartless Pillage</reverse-related>
             <reverse-related>Herald of Hadar</reverse-related>
             <reverse-related>Hoard Robber</reverse-related>
@@ -7442,10 +7446,10 @@ This creature can't be enchanted.</text>
             <reverse-related>Instrument of the Bards</reverse-related>
             <reverse-related>Jewel-Eyed Cobra</reverse-related>
             <reverse-related>Kalain, Reclusive Painter</reverse-related>
-            <reverse-related exclude="exclude" count="x=1">Magda, Brazen Outlaw</reverse-related>
+            <reverse-related count="x=1" exclude="exclude">Magda, Brazen Outlaw</reverse-related>
             <reverse-related>Magda, Brazen Outlaw</reverse-related>
             <reverse-related exclude="exclude">Magma Opus</reverse-related>
-            <reverse-related exclude="exclude" count="x">Malcolm, Keen-Eyed Navigator</reverse-related>
+            <reverse-related count="x" exclude="exclude">Malcolm, Keen-Eyed Navigator</reverse-related>
             <reverse-related>Malcolm, Keen-Eyed Navigator</reverse-related>
             <reverse-related>Monologue Tax</reverse-related>
             <reverse-related count="x">Old Gnawbone</reverse-related>
@@ -7460,6 +7464,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Prying Blade</reverse-related>
             <reverse-related>Ragavan, Nimble Pilferer</reverse-related>
             <reverse-related count="2">Rapacious Dragon</reverse-related>
+            <reverse-related count="x">Reckless Endeavor</reverse-related>
             <reverse-related>Revel in Riches</reverse-related>
             <reverse-related count="2">Ruthless Knave</reverse-related>
             <reverse-related>Sailor of Means</reverse-related>
@@ -8367,6 +8372,8 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Curse of Disturbance</reverse-related>
             <reverse-related>Curse of Shallow Graves</reverse-related>
             <reverse-related count="x">Dark Salvation</reverse-related>
+            <reverse-related>Death Tyrant</reverse-related>
+            <reverse-related count="x" exclude="exclude">Death Tyrant</reverse-related>
             <reverse-related>Diregraf Colossus</reverse-related>
             <reverse-related>Doomed Dissenter</reverse-related>
             <reverse-related>Drana's Chosen</reverse-related>
@@ -8628,7 +8635,7 @@ Mad Wizard’s Lair — Draw three cards and reveal them. You may cast one of th
                 <maintype>Dungeon</maintype>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/f/6f509dbe-6ec7-4438-ab36-e20be46c9922.jpg?1625106684">AFR</set>
-            <related exclude="exclude" count="2">Skeleton </reverse-related>
+            <related count="2" exclude="exclude">Skeleton </reverse-related>
             <related exclude="exclude">Treasure</related>
             <reverse-related exclude="exclude">Acererak the Archlich</reverse-related>
             <reverse-related exclude="exclude">Bar the Gate</reverse-related>
