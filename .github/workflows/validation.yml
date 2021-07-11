@@ -18,13 +18,13 @@ jobs:
     - name: Checkout repo
       uses: actions/checkout@v2
 
+    - name: Enable problem matcher
+      uses: korelstar/xmllint-problem-matcher@v1
+
     - name: Download XSD schema files
       run: |
         wget https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v3/cards.xsd -O carddb-v3.xsd
         wget https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd -O carddb-v4.xsd
-
-    - name: xmllint problem matcher
-      uses: korelstar/xmllint-problem-matcher@v1
 
     - name: Lint tokens.xml
       uses: ChristophWurst/xmllint-action@v1
