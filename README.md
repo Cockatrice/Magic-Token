@@ -8,3 +8,7 @@ This repo contains tokens information in [Cockatrice](https://github.com/cockatr
 For normal tokens, save the file found here: [**tokens.xml**](https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml)
 
 For tokens from the Theros block challege decks, save the file found here: [**challenge_tokens.xml**](https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/challenge_tokens.xml)
+
+<br>
+
+Information & Documentation: https://github.com/Cockatrice/Magic-Token/wiki#documentation
