@@ -11,35 +11,59 @@ on:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "XML"
-  build:
-    name: 'xmllint'
-    # The type of runner that the job will run on
+  xml-linter:
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - name: Checkout repo
-        uses: actions/checkout@v2
+    - name: Checkout repo
+      uses: actions/checkout@v2
 
-    # Runs a set of commands using the runners shell
-      - name: Install dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install libxml2-utils
+    - name: Download XSD schema files
+      run: |
+        wget https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v3/cards.xsd -O carddb-v3.xsd
+        wget https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd -O carddb-v4.xsd
 
-      - name: Download XSD schemes
-        run: |
-          wget https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v3/cards.xsd -O carddb-v3.xsd
-          wget https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd -O carddb-v4.xsd
-          wget https://www.w3.org/2012/04/XMLSchema.xsd
+    - name: Lint tokens.xml
+      uses: ChristophWurst/xmllint-action@v1
+      with:
+        xml-file: ./tokens.xml
+        xml-schema-file: ./carddb-v4.xsd
 
-      - name: Validate XSD schemes
-        run: |
-          xmllint --noout --schema XMLSchema.xsd carddb-v3.xsd
-          xmllint --noout --schema XMLSchema.xsd carddb-v4.xsd
+    - name: Lint challenge_tokens.xml
+      uses: ChristophWurst/xmllint-action@v1
+      with:
+        xml-file: ./challenge_tokens.xml
+        xml-schema-file: ./carddb-v3.xsd
 
-      - name: Validate XML files
-        run: |
-          xmllint --noout --schema carddb-v3.xsd challenge_tokens.xml
-          xmllint --noout --schema carddb-v4.xsd tokens.xml
+#  build:
+#    name: 'xmllint'
+#    # The type of runner that the job will run on
+#    runs-on: ubuntu-latest
+#
+#    # Steps represent a sequence of tasks that will be executed as part of the job
+#    steps:
+#     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+#      - name: Checkout repo
+#        uses: actions/checkout@v2
+#
+#    # Runs a set of commands using the runners shell
+#      - name: Install dependencies
+#        run: |
+#          sudo apt-get update
+#          sudo apt-get install libxml2-utils
+#
+#      - name: Download XSD schemes
+#        run: |
+#          wget https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v3/cards.xsd -O carddb-v3.xsd
+#          wget https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd -O carddb-v4.xsd
+#          wget https://www.w3.org/2012/04/XMLSchema.xsd
+#
+#      - name: Validate XSD schemes
+#        run: |
+#          xmllint --noout --schema XMLSchema.xsd carddb-v3.xsd
+#          xmllint --noout --schema XMLSchema.xsd carddb-v4.xsd
+#
+#      - name: Validate XML files
+#        run: |
+#          xmllint --noout --schema carddb-v3.xsd challenge_tokens.xml
+#          xmllint --noout --schema carddb-v4.xsd tokens.xml
