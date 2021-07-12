@@ -488,6 +488,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set>AFC</set>
             <set picURL="https://media.wizards.com/2021/mh2/en_zHmspE134l.png">MH2</set>
             <set picURL="https://media.wizards.com/2021/stx/en_9MSVRG9VuT.png">C21</set>
             <set picURL="https://media.wizards.com/2020/cmr/en_Fekn4dSoDJ.png">CMR</set>
@@ -534,6 +535,7 @@ Creature tokens you control have flying and vigilance.</text>
             <reverse-related>Thragtusk</reverse-related>
             <reverse-related>Trumpeting Gnarr</reverse-related>
             <reverse-related>Vivien, Monsters' Advocate</reverse-related>
+            <reverse-related count="x">Wild Endeavor</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -1369,6 +1371,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Root Out</reverse-related>
             <reverse-related>Survive the Night</reverse-related>
             <reverse-related>Tamiyo's Journal</reverse-related>
+            <reverse-related>Thorough Investigation</reverse-related>
             <reverse-related>Thraben Inspector</reverse-related>
             <reverse-related>Tireless Tracker</reverse-related>
             <reverse-related>Trail of Evidence</reverse-related>
@@ -4166,6 +4169,21 @@ Equip {2}</text>
             <set picURL="https://media.wizards.com/2020/znr/en_fihLA7XMUj.png">ZNR</set>
             <reverse-related>Inscription of Insight</reverse-related>
             <reverse-related>Skyclave Apparition</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Illusion    </name>
+            <text>This creature gets +1/+0 for each other Illusion you control.</text>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Illusion</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set>AFC</set>
+            <reverse-related>Minn, Wily Illusionist</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -8309,6 +8327,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set>AFC</set>
             <set>AFR</set>
             <set picURL="https://media.wizards.com/2021/mh2/en_D84ryulQze.png">MH2</set>
             <set picURL="https://media.wizards.com/2021/stx/en_xKkcQWllI3.png">C21</set>
@@ -8442,6 +8461,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Varina, Lich Queen</reverse-related>
             <reverse-related>Vile Rebirth</reverse-related>
             <reverse-related>Wakedancer</reverse-related>
+            <reverse-related count="x">Wand of Orcus</reverse-related>
             <reverse-related>Waste Not</reverse-related>
             <reverse-related>Wight</reverse-related>
             <reverse-related>Xathrid Necromancer</reverse-related>
@@ -8652,15 +8672,19 @@ Mad Wizard’s Lair — Draw three cards and reveal them. You may cast one of th
             <reverse-related exclude="exclude">Fifty Feet of Rope</reverse-related>
             <reverse-related exclude="exclude">Find the Path</reverse-related>
             <reverse-related exclude="exclude">Fly</reverse-related>
+            <reverse-related exclude="exclude">Immovable Rod</reverse-related>
             <reverse-related exclude="exclude">Intrepid Outlander</reverse-related>
             <reverse-related exclude="exclude">Kick in the Door</reverse-related>
+            <reverse-related exclude="exclude">Midnight Pathlighter</reverse-related>
             <reverse-related exclude="exclude">Nadaar, Selfless Paladin</reverse-related>
             <reverse-related exclude="exclude">Planar Ally</reverse-related>
             <reverse-related exclude="exclude">Precipitous Drop</reverse-related>
+            <reverse-related exclude="exclude">Radiant Solar</reverse-related>
             <reverse-related exclude="exclude">Ranger's Hawk</reverse-related>
             <reverse-related exclude="exclude">Secret Door</reverse-related>
             <reverse-related exclude="exclude">Sefris of the Hidden Ways</reverse-related>
             <reverse-related exclude="exclude">Shortcut Seeker</reverse-related>
+            <reverse-related exclude="exclude">Thorough Investigation</reverse-related>
             <reverse-related exclude="exclude">Triumphant Adventurer</reverse-related>
             <reverse-related exclude="exclude">Varis, Silverymoon Ranger</reverse-related>
             <reverse-related exclude="exclude">Veteran Dungeoneer</reverse-related>
@@ -8704,15 +8728,19 @@ Temple of Dumathoin — Draw a card.</text>
             <reverse-related exclude="exclude">Fifty Feet of Rope</reverse-related>
             <reverse-related exclude="exclude">Find the Path</reverse-related>
             <reverse-related exclude="exclude">Fly</reverse-related>
+            <reverse-related exclude="exclude">Immovable Rod</reverse-related>
             <reverse-related exclude="exclude">Intrepid Outlander</reverse-related>
             <reverse-related exclude="exclude">Kick in the Door</reverse-related>
+            <reverse-related exclude="exclude">Midnight Pathlighter</reverse-related>
             <reverse-related exclude="exclude">Nadaar, Selfless Paladin</reverse-related>
             <reverse-related exclude="exclude">Planar Ally</reverse-related>
             <reverse-related exclude="exclude">Precipitous Drop</reverse-related>
+            <reverse-related exclude="exclude">Radiant Solar</reverse-related>
             <reverse-related exclude="exclude">Ranger's Hawk</reverse-related>
             <reverse-related exclude="exclude">Secret Door</reverse-related>
             <reverse-related exclude="exclude">Sefris of the Hidden Ways</reverse-related>
             <reverse-related exclude="exclude">Shortcut Seeker</reverse-related>
+            <reverse-related exclude="exclude">Thorough Investigation</reverse-related>
             <reverse-related exclude="exclude">Triumphant Adventurer</reverse-related>
             <reverse-related exclude="exclude">Varis, Silverymoon Ranger</reverse-related>
             <reverse-related exclude="exclude">Veteran Dungeoneer</reverse-related>
@@ -8753,15 +8781,19 @@ Cradle of the Death God — Create The Atropal, a legendary 4/4 black God Horror
             <reverse-related exclude="exclude">Fifty Feet of Rope</reverse-related>
             <reverse-related exclude="exclude">Find the Path</reverse-related>
             <reverse-related exclude="exclude">Fly</reverse-related>
+            <reverse-related exclude="exclude">Immovable Rod</reverse-related>
             <reverse-related exclude="exclude">Intrepid Outlander</reverse-related>
             <reverse-related exclude="exclude">Kick in the Door</reverse-related>
+            <reverse-related exclude="exclude">Midnight Pathlighter</reverse-related>
             <reverse-related exclude="exclude">Nadaar, Selfless Paladin</reverse-related>
             <reverse-related exclude="exclude">Planar Ally</reverse-related>
             <reverse-related exclude="exclude">Precipitous Drop</reverse-related>
+            <reverse-related exclude="exclude">Radiant Solar</reverse-related>
             <reverse-related exclude="exclude">Ranger's Hawk</reverse-related>
             <reverse-related exclude="exclude">Secret Door</reverse-related>
             <reverse-related exclude="exclude">Sefris of the Hidden Ways</reverse-related>
             <reverse-related exclude="exclude">Shortcut Seeker</reverse-related>
+            <reverse-related exclude="exclude">Thorough Investigation</reverse-related>
             <reverse-related exclude="exclude">Triumphant Adventurer</reverse-related>
             <reverse-related exclude="exclude">Varis, Silverymoon Ranger</reverse-related>
             <reverse-related exclude="exclude">Veteran Dungeoneer</reverse-related>
