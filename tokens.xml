@@ -119,7 +119,7 @@
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set>AFR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/2/323dd323-2ca2-4c85-9ef6-34341cd40d96.jpg?1626138901">AFR</set>
             <set picURL="https://cdn.staticneo.com/w/mtg/b/bb/Angel3.jpg">APC</set>
             <reverse-related>The Book of Exalted Deeds</reverse-related>
             <reverse-related>Haunted Angel</reverse-related>
@@ -489,7 +489,6 @@ Creature tokens you control have flying and vigilance.</text>
                 <pt>3/3</pt>
             </prop>
             <set>AFC</set>
-            <set picURL="https://media.wizards.com/2021/mh2/en_zHmspE134l.png">MH2</set>
             <set picURL="https://media.wizards.com/2021/stx/en_9MSVRG9VuT.png">C21</set>
             <set picURL="https://media.wizards.com/2020/cmr/en_Fekn4dSoDJ.png">CMR</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_tckrIctlrW.png">2XM</set>
@@ -548,6 +547,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2021/mh2/en_zHmspE134l.png">MH2</set>
             <set picURL="https://media.wizards.com/2021/stx/en_D5eP4dV4Pk.png">C21</set>
             <set picURL="https://media.wizards.com/2020/cmr/en_ydC6yO8IO8.png">CMR</set>
             <set picURL="https://media.wizards.com/2020/iko/en_5gMrF021mE.png">C20</set>
@@ -1598,7 +1598,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set>AFR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/f/efbc2ca1-4aad-4dfa-9eab-e783f5802078.jpg?1626139223">AFR</set>
             <set picURL="https://media.wizards.com/2019/war/en_7jfeiDSYRB.png">WAR</set>
             <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_qhIEFoclOO.png">SOI</set>
             <reverse-related count="2">Dance with Devils</reverse-related>
@@ -1721,7 +1721,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Dog </name>
+            <name>Dog Illusion</name>
             <text>This creature's power and toughness are each equal to twice the number of cards in your hand.</text>
             <prop>
                 <colors>U</colors>
@@ -1730,7 +1730,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
-            <set>AFR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/e/ce3c0bd9-8a37-4164-9937-f35d1c210fe8.jpg?1626139016">AFR</set>
             <reverse-related>Mordenkainen</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -2766,6 +2766,21 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Faerie Dragon</name>
+            <text>Flying</text>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Faerie Dragon</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/8/78eb6e0c-3630-46bf-b124-1ff2ddddf63e.jpg?1626139073">AFR</set>
+            <reverse-related>Feywild Trickster</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Faerie Rogue</name>
             <text>Flying</text>
             <prop>
@@ -3143,7 +3158,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set>AFR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/4/1425e965-7eea-419c-a7ec-c8169fa9edbf.jpg?1626139812">AFR</set>
             <set picURL="https://media.wizards.com/2021/mh2/en_K46xMi6q0f.png">MH2</set>
             <set picURL="https://media.wizards.com/2021/tsr/en_mMI33oemCA.png">TSR</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_ZN8J4ERaoN.png">MH1</set>
@@ -4076,7 +4091,7 @@ Equip {2}</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
-            <set>AFR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/9/a9c981c9-3376-4f6e-b30d-859e5fc7347e.jpg?1626138970">AFR</set>
             <reverse-related>Icingdeath, Frost Tyrant</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -6265,7 +6280,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set>AFR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/a/fa6fdb57-82f3-4695-b1fa-1f301ea4ef83.jpg?1626139846">AFR</set>
             <reverse-related>Skeletal Swarming</reverse-related>
             <reverse-related count="2" exclude="exclude">Skeletal Swarming</reverse-related>
             <token>1</token>
@@ -6736,7 +6751,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>2/1</pt>
             </prop>
-            <set>AFR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/2/124e0b03-d9fb-44f1-9e3c-3462aabdd42e.jpg?1626139115">AFR</set>
             <reverse-related>Drider</reverse-related>
             <reverse-related count="2">Lolth, Spider Queen</reverse-related>
             <token>1</token>
@@ -7242,7 +7257,7 @@ This creature can't be enchanted.</text>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
-            <set>AFR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/5/65f8e40f-fb5e-4ab8-add3-a8b87e7bcdd9.jpg?1626139916">AFR</set>
             <!-- this token is created by another token only -->
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7407,7 +7422,7 @@ This creature can't be enchanted.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
-            <set>AFR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/3/a3a684b7-27e0-4d9e-a064-9e03c6e50c89.jpg?1626139418">AFR</set>
             <set picURL="https://media.wizards.com/2021/mh2/en_rdUdpRE0fi.png">MH2</set>
             <set picURL="https://media.wizards.com/2021/stx/en_rNuFANCh1U.png">STX</set>
             <set picURL="https://media.wizards.com/2020/khm/en_zdHT30nIpZ.png">KHM</set>
@@ -8052,7 +8067,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set>AFR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/8/1864d5b9-7151-42f0-8d37-8c319c3ab264.jpg?1626139395">AFR</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_eevhHaOASk.png">2XM</set>
             <set picURL="https://media.wizards.com/2019/thb/en_ahsZMx1Bgw.png">THB</set>
             <set picURL="https://media.wizards.com/2019/m20/en_yGHIfVnYBa.png">M20</set>
@@ -8328,7 +8343,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <pt>2/2</pt>
             </prop>
             <set>AFC</set>
-            <set>AFR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/b/0b08d210-01cb-46c5-9150-4dfb47f50ae7.jpg?1626139197">AFR</set>
             <set picURL="https://media.wizards.com/2021/mh2/en_D84ryulQze.png">MH2</set>
             <set picURL="https://media.wizards.com/2021/stx/en_xKkcQWllI3.png">C21</set>
             <set picURL="https://media.wizards.com/2020/cmr/en_awAuwqn3O7.png">CMR</set>
@@ -8960,10 +8975,10 @@ Cradle of the Death God — Create The Atropal, a legendary 4/4 black God Horror
             <name>Ellywick Tumblestrum (Emblem)</name>
             <text>Creatures you control have trample and haste and get +2/+2 for each differently named dungeon you've completed.</text>
             <prop>
-                <type>Emblem</type>
+                <type>Emblem — Ellywick</type>
                 <maintype>Emblem</maintype>
             </prop>
-            <set>AFR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/8/289bd243-8754-49f8-a4f9-0be477c84ee1.jpg?1626139987">AFR</set>
             <reverse-related>Ellywick Tumblestrum</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -9213,6 +9228,18 @@ Cradle of the Death God — Create The Atropal, a legendary 4/4 black God Horror
             <tablerow>1</tablerow>
         </card>
         <card>
+            <name>Lolth, Spider Queen (Emblem)</name>
+            <text>Whenever an opponent is dealt combat damage by one or more creatures you control, if that player lost less than 8 life this turn, they lose life equal to the difference.</text>
+            <prop>
+                <type>Emblem — Lolth</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/3/c34001fd-0e9b-445b-9c0b-381721dfebc2.jpg?1626140029">AFR</set>
+            <reverse-related exclude="exclude">Lolth, Spider Queen</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Lukka, Wayward Bonder (Emblem)</name>
             <text>Whenever a creature enters the battlefield under your control, it deals damage equal to its power to any target.</text>
             <prop>
@@ -9228,10 +9255,10 @@ Cradle of the Death God — Create The Atropal, a legendary 4/4 black God Horror
             <name>Mordenkainen (Emblem)</name>
             <text>Islands you control have "{T}: Draw a card."</text>
             <prop>
-                <type>Emblem</type>
+                <type>Emblem — Mordenkainen</type>
                 <maintype>Emblem</maintype>
             </prop>
-            <set>AFR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/c/7c63f14a-db47-46aa-addf-7c6fc40169b9.jpg?1626140066">AFR</set>
             <reverse-related exclude="exclude">Mordenkainen</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -9507,10 +9534,10 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
             <name>Zariel, Archduke of Avernus (Emblem)</name>
             <text>At the end of the first combat phase on your turn, untap target creature you control. After this phase, there is an additional combat phase.</text>
             <prop>
-                <type>Emblem</type>
+                <type>Emblem — Zariel</type>
                 <maintype>Emblem</maintype>
             </prop>
-            <set>AFR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/3/c36520c3-627a-40b9-a5c7-42cc4c813b67.jpg?1626140108">AFR</set>
             <reverse-related exclude="exclude">Zariel, Archduke of Avernus</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
