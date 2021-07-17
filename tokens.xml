@@ -3186,12 +3186,12 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <set picURL="https://img.scryfall.com/cards/large/front/5/7/577c2e32-deb6-40d9-a050-c2acb5bfc05f.jpg">RTR</set>
             <set picURL="https://img.scryfall.com/cards/large/front/0/6/062043de-a199-408d-8d77-09531ad38b16.jpg">LGN</set>
             <reverse-related>Battle Cry Goblin</reverse-related>
-			<reverse-related count="2">Beetleback Chief</reverse-related>
+            <reverse-related count="2">Beetleback Chief</reverse-related>
             <reverse-related count="x">Box of Free-Range Goblins</reverse-related>
             <reverse-related>Chancellor of the Forge</reverse-related>
             <reverse-related count="x">Chancellor of the Forge</reverse-related>
             <reverse-related>Den of the Bugbear</reverse-related>
-			<reverse-related count="2">Dragon Fodder</reverse-related>
+            <reverse-related count="2">Dragon Fodder</reverse-related>
             <reverse-related count="2">Empty the Warrens</reverse-related>
             <reverse-related count="x">Gift Horse</reverse-related>
             <reverse-related>Goblin Assault</reverse-related>
@@ -3227,7 +3227,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related count="2">Sling-Gang Lieutenant</reverse-related>
             <reverse-related>Survey the Wreckage</reverse-related>
             <reverse-related count="x">Swarming Goblins</reverse-related>
-			<reverse-related count="2">You See a Pair of Goblins</reverse-related>
+            <reverse-related count="2">You See a Pair of Goblins</reverse-related>
             <reverse-related count="x">Warbreak Trumpeter</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -8390,14 +8390,14 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="https://img.scryfall.com/cards/large/front/8/a/8a73e348-5bf1-4465-978b-3f31408bade9.jpg">10E</set>
             <set picURL="https://img.scryfall.com/cards/large/front/6/5/657fa00d-ddb5-49e6-a01e-82038cccfe30.jpg">ODY</set>
             <reverse-related count="x">Acererak the Archlich</reverse-related>
-			<reverse-related>Aphemia, the Cacophony</reverse-related>
+            <reverse-related>Aphemia, the Cacophony</reverse-related>
             <reverse-related>Archdemon of Unx</reverse-related>
             <reverse-related count="13">Army of the Damned</reverse-related>
             <reverse-related>Assemble the Rank and Vile</reverse-related>
             <reverse-related count="x">Awaken the Erstwhile</reverse-related>
             <reverse-related>Bone Miser</reverse-related>
             <reverse-related>Boneclad Necromancer</reverse-related>
-			<reverse-related>Bridge from Below</reverse-related>
+            <reverse-related>Bridge from Below</reverse-related>
             <reverse-related count="x=5">Captive Audience</reverse-related>
             <reverse-related>Cellar Door</reverse-related>
             <reverse-related>Cemetery Reaper</reverse-related>
@@ -8468,7 +8468,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Stir the Sands</reverse-related>
             <reverse-related count="x">Syphon Flesh</reverse-related>
             <reverse-related>The Book of Vile Darkness</reverse-related>
-			<reverse-related>The Fourth Sphere</reverse-related>
+            <reverse-related>The Fourth Sphere</reverse-related>
             <reverse-related>Tormod, the Desecrator</reverse-related>
             <reverse-related>Tymaret Calls the Dead</reverse-related>
             <reverse-related>Undead Alchemist</reverse-related>
