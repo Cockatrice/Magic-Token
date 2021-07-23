@@ -3199,7 +3199,8 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related count="x">Goblin Goliath</reverse-related>
             <reverse-related>Goblin Instigator</reverse-related>
             <reverse-related count="2">Goblin Marshal</reverse-related>
-            <reverse-related attach="attach">Goblin Morningstar</reverse-related>
+            <reverse-related>Goblin Morningstar</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Goblin Morningstar</reverse-related>
             <reverse-related count="x">Goblin Offensive</reverse-related>
             <reverse-related>Goblin Rabblemaster</reverse-related>
             <reverse-related count="4">Goblin Rally</reverse-related>
@@ -6282,6 +6283,7 @@ Equip {1}</text>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/a/fa6fdb57-82f3-4695-b1fa-1f301ea4ef83.jpg?1626139846">AFR</set>
+            <reverse-related>Death-Priest of Myrkul<reverse-related>
             <reverse-related>Skeletal Swarming</reverse-related>
             <reverse-related count="2" exclude="exclude">Skeletal Swarming</reverse-related>
             <token>1</token>
