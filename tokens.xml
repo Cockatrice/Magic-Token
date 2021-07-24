@@ -6283,7 +6283,7 @@ Equip {1}</text>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/a/fa6fdb57-82f3-4695-b1fa-1f301ea4ef83.jpg?1626139846">AFR</set>
-            <reverse-related>Death-Priest of Myrkul<reverse-related>
+            <reverse-related>Death-Priest of Myrkul</reverse-related>
             <reverse-related>Skeletal Swarming</reverse-related>
             <reverse-related count="2" exclude="exclude">Skeletal Swarming</reverse-related>
             <token>1</token>
