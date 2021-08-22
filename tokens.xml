@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20210713</sourceVersion>
+        <sourceVersion>20210822</sourceVersion>
     </info>
     <cards>
         <!--
@@ -84,7 +84,7 @@
             <set picURL="https://img.scryfall.com/cards/large/front/9/c/9c8fe0d7-5c40-45fe-b3d8-47852380845e.jpg">C14</set>
             <set picURL="https://img.scryfall.com/cards/large/front/8/2/826320b7-4ccf-4ace-8c2c-15052b6bad73.jpg">M14</set>
             <set picURL="https://img.scryfall.com/cards/large/front/7/1/71766a5a-ce00-4e48-b4f6-0d1a7f5b2691.jpg">GTC</set>
-            <set picURL="https://img.scryfall.com/cards/large/front/c/7/c7f3264a-7b4a-4fef-af73-d4241742a4e8.jpg">PPRE</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/c/7/c7f3264a-7b4a-4fef-af73-d4241742a4e8.jpg">P04</set>
             <set picURL="https://img.scryfall.com/cards/large/front/6/8/68dd1682-a5d5-4323-b876-66a86c311c43.jpg">AVR</set>
             <set picURL="https://img.scryfall.com/cards/large/front/a/0/a0d7d857-2a54-4d0e-a97c-11400053194c.jpg">ISD</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/f/1fc37484-b58b-4a42-9281-b4272dc7c872.jpg">ZEN</set>
