@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20210822</sourceVersion>
+        <sourceVersion>20210824</sourceVersion>
     </info>
     <cards>
         <!--
@@ -7430,6 +7430,7 @@ This creature can't be enchanted.</text>
             <set picURL="https://media.wizards.com/2021/stx/en_rNuFANCh1U.png">STX</set>
             <set picURL="https://media.wizards.com/2020/khm/en_zdHT30nIpZ.png">KHM</set>
             <set picURL="https://media.wizards.com/2020/cmr/en_8W0qnpCjl9.png">CMR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/e/2e752ca8-5404-4898-8b75-a0848e3850f2.jpg">SLD</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_afafADUczM.png">2XM</set>
             <set picURL="https://media.wizards.com/2020/m21/en_UsVpbUDWdZ.png">M21</set>
             <set picURL="https://media.wizards.com/2020/iko/en_JuQtxB6MmU.png">C20</set>
@@ -7488,6 +7489,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="x" exclude="exclude">Malcolm, Keen-Eyed Navigator</reverse-related>
             <reverse-related>Malcolm, Keen-Eyed Navigator</reverse-related>
             <reverse-related>Monologue Tax</reverse-related>
+            <reverse-related count="x=1">Negan, The Cold-Blooded</reverse-related>
             <reverse-related count="x">Old Gnawbone</reverse-related>
             <reverse-related count="2">Pirate's Pillage</reverse-related>
             <reverse-related>Pirate's Prize</reverse-related>
@@ -7840,6 +7842,26 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             </prop>
             <set picURL="https://media.wizards.com/2019/war/en_2XrXcJcCdF.png">WAR</set>
             <reverse-related>Tolsimir, Friend to Wolves</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Walker</name>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Zombie</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/d/4d03f760-6e5a-404e-beb9-07d78a53364d.jpg?1608349779">SLD</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/4/b4c637c4-c1cc-4852-9561-78add390ef52.jpg?1608349788">SLD</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/1/a121c039-ec93-4383-bdb5-bc7acf9e1a05.jpg?1608349797">SLD</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/7/a7940307-6ae3-423e-b752-a72acddb9087.jpg?1616400493">SLD</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/b/4b236f7a-62b0-4605-9328-6994ca65909b.jpg?1608349820">SLD</set>
+            <reverse-related count="3">Daryl, Hunter of Walkers</reverse-related>
+            <reverse-related>Lucille</reverse-related>
+            <reverse-related count="2">Michonne, Ruthless Survivor</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
