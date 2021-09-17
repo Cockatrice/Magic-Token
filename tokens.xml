@@ -908,7 +908,6 @@ Creature tokens you control have flying and vigilance.</text>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://media.wizards.com/2019/eld/en_Q6649AYZtV.png">ELD</set>
-            <related>Food</related>
             <reverse-related count="3">Wolf's Quarry</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -1844,6 +1843,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <set picURL="https://img.scryfall.com/cards/large/front/0/e/0efaa5b5-984d-4eff-81b6-9b4989f149eb.jpg">M14</set>
             <reverse-related>Brood Keeper</reverse-related>
             <reverse-related>Dragon Egg</reverse-related>
+            <reverse-related>Dragon Egg (Token)</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -1859,7 +1859,6 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
                 <pt>0/2</pt>
             </prop>
             <set picURL="https://media.wizards.com/2018/c18/en_nEav0mwmHj.png">C18</set>
-            <related>Dragon    </related>
             <reverse-related>Nesting Dragon</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -2856,7 +2855,6 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <set picURL="https://media.wizards.com/2021/stx/en_ihXvFNyE8k.png">C21</set>
             <set picURL="https://media.wizards.com/2018/a25/en_0MZScjB7tc.png">A25</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/f/1f3cea7c-d092-410d-8c32-af0f4c8bc878.jpg">C14</set>
-            <related>Whale</related>
             <reverse-related>Reef Worm</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -2878,6 +2876,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <reverse-related>Academy Manufactor</reverse-related>
             <reverse-related>Bake into a Pie</reverse-related>
             <reverse-related>Bartered Cow</reverse-related>
+            <reverse-related>Boar  </reverse-related>
             <reverse-related>Curious Pair // Treats to Share</reverse-related>
             <reverse-related>Fae Offering</reverse-related>
             <reverse-related count="3">Feasting Troll King</reverse-related>
@@ -4670,7 +4669,9 @@ Flanking</text>
             <set picURL="https://img.scryfall.com/cards/large/front/b/4/b4ed9fe6-50cc-45e2-aeaa-df6e34eb7fe4.jpg">C14</set>
             <set picURL="https://img.scryfall.com/cards/large/front/f/9/f9576efe-03eb-49da-bb00-5bf8e50877fb.jpg">BNG</set>
             <reverse-related>Kiora, the Crashing Wave</reverse-related>
+            <reverse-related>Kiora, the Crashing Wave (Emblem)</reverse-related>
             <reverse-related>Spawning Kraken</reverse-related>
+            <reverse-related>Whale</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -5404,7 +5405,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <pt>2/2</pt>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/8/e/8ea26341-372c-4657-8910-08e0131fe0fc.jpg">M11</set>
-            <related>Ooze   </related>
             <reverse-related count="2">Mitotic Slime</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5419,6 +5419,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/2/4/24edd312-ef8e-48a0-8532-13e072daa00f.jpg">M11</set>
+            <reverse-related>Ooze  </reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -6473,6 +6474,7 @@ Equip {1}</text>
             <reverse-related>Attended Knight</reverse-related>
             <reverse-related>Bant Sojourners</reverse-related>
             <reverse-related count="x">Basri Ket</reverse-related>
+            <reverse-related>Basri Ket (Emblem)</reverse-related>
             <reverse-related>Benalish Commander</reverse-related>
             <reverse-related count="3">Captain of the Watch</reverse-related>
             <reverse-related count="3">Captain's Call</reverse-related>
@@ -7261,6 +7263,7 @@ This creature can't be enchanted.</text>
                 <pt>4/4</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/5/65f8e40f-fb5e-4ab8-add3-a8b87e7bcdd9.jpg?1626139916">AFR</set>
+            <reverse-related>Tomb of Annihilation</reverse-related>
             <!-- this token is created by another token only -->
             <token>1</token>
             <tablerow>2</tablerow>
@@ -8050,7 +8053,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="https://media.wizards.com/2021/stx/en_J7nvVQbZPH.png">C21</set>
             <set picURL="https://media.wizards.com/2018/a25/en_JMtRnyeKH4.png">A25</set>
             <set picURL="https://img.scryfall.com/cards/large/front/c/c/ccd172b9-377a-4dbf-a11a-e4985da62c72.jpg">C14</set>
-            <related>Kraken</related>
+            <reverse-related>Fish</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -8462,6 +8465,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Liliana, Dreadhorde General</reverse-related>
             <reverse-related>Liliana, Heretical Healer</reverse-related>
             <reverse-related count="x">Liliana, the Last Hope</reverse-related>
+            <reverse-related>Liliana, the Last Hope (Emblem)</reverse-related>
             <reverse-related count="2">Maalfeld Twins</reverse-related>
             <reverse-related>Magus of the Bridge</reverse-related>
             <reverse-related count="x">Midnight Ritual</reverse-related>
@@ -8805,7 +8809,6 @@ Cradle of the Death God — Create The Atropal, a legendary 4/4 black God Horror
                 <maintype>Dungeon</maintype>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/0/70b284bd-7a8f-4b60-8238-f746bdc5b236.jpg?1626574335">AFR</set>
-            <related>The Atropal</related>
             <reverse-related exclude="exclude">Acererak the Archlich</reverse-related>
             <reverse-related exclude="exclude">Bar the Gate</reverse-related>
             <reverse-related exclude="exclude">Barrowin of Clan Undurr</reverse-related>
@@ -8892,7 +8895,6 @@ Cradle of the Death God — Create The Atropal, a legendary 4/4 black God Horror
                 <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2020/m21/en_fDWMVuLd7t.png">M21</set>
-            <related>Soldier</related>
             <reverse-related exclude="exclude">Basri Ket</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -9185,7 +9187,6 @@ Cradle of the Death God — Create The Atropal, a legendary 4/4 black God Horror
                 <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/e/4/e45f7850-2ebb-4530-9859-f87b4e0e27be.jpg">BNG</set>
-            <related>Kraken</related>
             <reverse-related exclude="exclude">Kiora, the Crashing Wave</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -9235,7 +9236,6 @@ Cradle of the Death God — Create The Atropal, a legendary 4/4 black God Horror
                 <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_3uiqIat9XN.png">EMN</set>
-            <related>Zombie</related>
             <reverse-related exclude="exclude">Liliana, the Last Hope</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
