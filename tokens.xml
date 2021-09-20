@@ -7264,7 +7264,6 @@ This creature can't be enchanted.</text>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/5/65f8e40f-fb5e-4ab8-add3-a8b87e7bcdd9.jpg?1626139916">AFR</set>
             <reverse-related>Tomb of Annihilation</reverse-related>
-            <!-- this token is created by another token only -->
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
