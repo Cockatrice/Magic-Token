@@ -8696,7 +8696,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related count="x">Crowded Crypt</reverse-related>
             <reverse-related>Curse of the Restless Dead</reverse-related>
             <reverse-related count="x" exclude="exclude">Curse of the Restless Dead</reverse-related>
-            <reverse-related count="x">Diregraf Horde</reverse-related>
+            <reverse-related count="2">Diregraf Horde</reverse-related>
             <reverse-related>Falcon Abomination</reverse-related>
             <reverse-related>Flip the Switch</reverse-related>
             <reverse-related count="x">Ghoulcaller's Harvest</reverse-related>
