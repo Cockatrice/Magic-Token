@@ -5419,7 +5419,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/2/4/24edd312-ef8e-48a0-8532-13e072daa00f.jpg">M11</set>
-            <reverse-related>Ooze  </reverse-related>
+            <reverse-related count="2">Ooze  </reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
