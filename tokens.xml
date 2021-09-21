@@ -3218,7 +3218,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related count="x">Krenko, Tin Street Kingpin</reverse-related>
             <reverse-related count="3">Kuldotha Rebirth</reverse-related>
             <reverse-related>Legion Warboss</reverse-related>
-            <related exclude="exclude">Lost Mine of Phandelver</related>
+            <reverse-related exclude="exclude">Lost Mine of Phandelver</reverse-related>
             <reverse-related>Mardu Ascendancy</reverse-related>
             <reverse-related count="2">Mogg Alarm</reverse-related>
             <reverse-related count="x=2">Mogg Infestation</reverse-related>
