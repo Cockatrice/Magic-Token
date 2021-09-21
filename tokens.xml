@@ -1052,6 +1052,7 @@ Creature tokens you control have flying and vigilance.</text>
             <set picURL="https://img.scryfall.com/cards/large/front/b/3/b31f1580-5bba-4cef-b0c8-f2837a597b7d.jpg">M19</set>
             <set picURL="https://img.scryfall.com/cards/large/front/a/f/af0086cd-56b5-450e-818c-e54f45d1a104.jpg">AKH</set>
             <reverse-related count="3" exclude="exclude">Ajani, Adversary of Tyrants</reverse-related>
+            <reverse-related count="3">Ajani, Adversary of Tyrants (Emblem)</reverse-related>
             <reverse-related count="2">Cubwarden</reverse-related>
             <reverse-related count="2">Leonin Warleader</reverse-related>
             <reverse-related count="2">Pride Sovereign</reverse-related>
@@ -3217,6 +3218,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related count="x">Krenko, Tin Street Kingpin</reverse-related>
             <reverse-related count="3">Kuldotha Rebirth</reverse-related>
             <reverse-related>Legion Warboss</reverse-related>
+            <related exclude="exclude">Lost Mine of Phandelver</related>
             <reverse-related>Mardu Ascendancy</reverse-related>
             <reverse-related count="2">Mogg Alarm</reverse-related>
             <reverse-related count="x=2">Mogg Infestation</reverse-related>
@@ -6284,6 +6286,7 @@ Equip {1}</text>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/a/fa6fdb57-82f3-4695-b1fa-1f301ea4ef83.jpg?1626139846">AFR</set>
+            <reverse-related count="2" exclude="exclude">Dungeon of the Mad Mage</reverse-related>
             <reverse-related>Death-Priest of Myrkul</reverse-related>
             <reverse-related>Skeletal Swarming</reverse-related>
             <reverse-related count="2" exclude="exclude">Skeletal Swarming</reverse-related>
@@ -7459,6 +7462,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Depths of Desire</reverse-related>
             <reverse-related>Dire Fleet Hoarder</reverse-related>
             <reverse-related count="x=0">Dockside Extortionist</reverse-related>
+            <reverse-related exclude="exclude">Dungeon of the Mad Mage</reverse-related>
             <reverse-related exclude="exclude">Elemental Masterpiece</reverse-related>
             <reverse-related count="2">Excavation Technique</reverse-related>
             <reverse-related>Fae Offering</reverse-related>
@@ -7485,6 +7489,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Instrument of the Bards</reverse-related>
             <reverse-related>Jewel-Eyed Cobra</reverse-related>
             <reverse-related>Kalain, Reclusive Painter</reverse-related>
+            <reverse-related exclude="exclude">Lost Mine of Phandelver</reverse-related>
             <reverse-related count="x=1" exclude="exclude">Magda, Brazen Outlaw</reverse-related>
             <reverse-related>Magda, Brazen Outlaw</reverse-related>
             <reverse-related exclude="exclude">Magma Opus</reverse-related>
@@ -8698,8 +8703,6 @@ Mad Wizard’s Lair — Draw three cards and reveal them. You may cast one of th
                 <maintype>Dungeon</maintype>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/f/6f509dbe-6ec7-4438-ab36-e20be46c9922.jpg?1625106684">AFR</set>
-            <related count="2" exclude="exclude">Skeleton </related>
-            <related exclude="exclude">Treasure</related>
             <reverse-related exclude="exclude">Acererak the Archlich</reverse-related>
             <reverse-related exclude="exclude">Bar the Gate</reverse-related>
             <reverse-related exclude="exclude">Barrowin of Clan Undurr</reverse-related>
@@ -8754,8 +8757,6 @@ Temple of Dumathoin — Draw a card.</text>
                 <maintype>Dungeon</maintype>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/9/59b11ff8-f118-4978-87dd-509dc0c8c932.jpg?1625106709">AFR</set>
-            <related exclude="exclude">Goblin</related>
-            <related exclude="exclude">Treasure</related>
             <reverse-related exclude="exclude">Acererak the Archlich</reverse-related>
             <reverse-related exclude="exclude">Bar the Gate</reverse-related>
             <reverse-related exclude="exclude">Barrowin of Clan Undurr</reverse-related>
@@ -8868,7 +8869,6 @@ Cradle of the Death God — Create The Atropal, a legendary 4/4 black God Horror
                 <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/1/c/1c97e5b2-a024-4aa7-a9b8-45f441aad138.jpg">M19</set>
-            <related count="3">Cat   </related>
             <reverse-related>Ajani, Adversary of Tyrants</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
