@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20210824</sourceVersion>
+        <sourceVersion>20210922</sourceVersion>
     </info>
     <cards>
         <!--
@@ -4669,7 +4669,6 @@ Flanking</text>
             <set picURL="https://media.wizards.com/2018/a25/en_fKO9THV3bj.png">A25</set>
             <set picURL="https://img.scryfall.com/cards/large/front/b/4/b4ed9fe6-50cc-45e2-aeaa-df6e34eb7fe4.jpg">C14</set>
             <set picURL="https://img.scryfall.com/cards/large/front/f/9/f9576efe-03eb-49da-bb00-5bf8e50877fb.jpg">BNG</set>
-            <reverse-related>Kiora, the Crashing Wave</reverse-related>
             <reverse-related>Spawning Kraken</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
