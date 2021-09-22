@@ -5477,7 +5477,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <pt>2/2</pt>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/8/e/8ea26341-372c-4657-8910-08e0131fe0fc.jpg">M11</set>
-            <related>Ooze   </related>
+            <related count="2">Ooze   </related>
             <reverse-related count="2">Mitotic Slime</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
