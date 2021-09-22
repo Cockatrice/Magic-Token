@@ -3935,6 +3935,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <reverse-related count="10" exclude="exclude">Increasing Devotion</reverse-related>
             <reverse-related>Inquisitive Puppet</reverse-related>
             <reverse-related>Jerren, Corrupted Bishop</reverse-related>
+            <reverse-related count="x" exclude="exclude">Jerren, Corrupted Bishop</reverse-related>
             <reverse-related count="2">Join the Dance</reverse-related>
             <reverse-related>Lovestruck Beast // Heart's Desire</reverse-related>
             <reverse-related count="2">Oakhame Ranger // Bring Back</reverse-related>
