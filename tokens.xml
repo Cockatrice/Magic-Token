@@ -1052,7 +1052,7 @@ Creature tokens you control have flying and vigilance.</text>
             <set picURL="https://media.wizards.com/2020/iko/en_kfvZCnHFzR.png">IKO</set>
             <set picURL="https://img.scryfall.com/cards/large/front/b/3/b31f1580-5bba-4cef-b0c8-f2837a597b7d.jpg">M19</set>
             <set picURL="https://img.scryfall.com/cards/large/front/a/f/af0086cd-56b5-450e-818c-e54f45d1a104.jpg">AKH</set>
-            <reverse-related count="3" exclude="exclude">Ajani, Adversary of Tyrants</reverse-related>
+            <reverse-related count="3">Ajani, Adversary of Tyrants (Emblem)</reverse-related>
             <reverse-related count="2">Cubwarden</reverse-related>
             <reverse-related count="2">Leonin Warleader</reverse-related>
             <reverse-related count="2">Pride Sovereign</reverse-related>
@@ -8460,7 +8460,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Liliana, Death's Majesty</reverse-related>
             <reverse-related>Liliana, Dreadhorde General</reverse-related>
             <reverse-related>Liliana, Heretical Healer</reverse-related>
-            <reverse-related count="x">Liliana, the Last Hope</reverse-related>
+            <reverse-related count="x">Liliana, the Last Hope (Emblem)</reverse-related>
             <reverse-related count="2">Maalfeld Twins</reverse-related>
             <reverse-related>Magus of the Bridge</reverse-related>
             <reverse-related count="x">Midnight Ritual</reverse-related>
@@ -9234,7 +9234,7 @@ Cradle of the Death God — Create The Atropal, a legendary 4/4 black God Horror
                 <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_3uiqIat9XN.png">EMN</set>
-            <related>Zombie</related>
+            <related count="x">Zombie</related>
             <reverse-related exclude="exclude">Liliana, the Last Hope</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
