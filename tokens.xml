@@ -12,24 +12,6 @@
         <sourceVersion>20210824</sourceVersion>
     </info>
     <cards>
-        <!--
-        <card>
-            <name></name>
-            <text></text>
-            <prop>
-                <colors></colors>
-                <manacost></manacost>
-                <type>Token Creature — </type>
-                <maintype></maintype>
-                <cmc>0</cmc>
-                <pt>/</pt>
-            </prop>
-            <set picURL=""></set>
-            <reverse-related></reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-         -->
         <card>
             <name>Adorned Pouncer (Token)</name>
             <text>Double strike</text>
