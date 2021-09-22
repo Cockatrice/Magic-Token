@@ -8865,7 +8865,6 @@ Cradle of the Death God — Create The Atropal, a legendary 4/4 black God Horror
                 <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/1/c/1c97e5b2-a024-4aa7-a9b8-45f441aad138.jpg">M19</set>
-            <related count="3">Cat   </related>
             <reverse-related>Ajani, Adversary of Tyrants</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -9234,7 +9233,6 @@ Cradle of the Death God — Create The Atropal, a legendary 4/4 black God Horror
                 <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_3uiqIat9XN.png">EMN</set>
-            <related count="x">Zombie</related>
             <reverse-related exclude="exclude">Liliana, the Last Hope</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
