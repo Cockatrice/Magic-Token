@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20210922b</sourceVersion>
+        <sourceVersion>20211016</sourceVersion>
     </info>
     <cards>
         <!--
@@ -1356,6 +1356,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/7/b7c52125-929a-4e03-a955-d55ae34a905b.jpg?1634242346">SLD</set>
             <set picURL="https://media.wizards.com/2021/mid/en_TbQVcnUgf6.png">MID</set>
             <set picURL="https://media.wizards.com/2021/mh2/en_xEWjasCt66.png">MH2</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_RTwvNOebur.png">2XM</set>
@@ -1373,6 +1374,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Briarbridge Tracker</reverse-related>
             <reverse-related>Bygone Bishop</reverse-related>
             <reverse-related>Byway Courier</reverse-related>
+            <reverse-related count="x">Chief Jim Hopper</reverse-related>
             <reverse-related>Confirm Suspicions</reverse-related>
             <reverse-related>Confront the Unknown</reverse-related>
             <reverse-related>Declaration in Stone</reverse-related>
@@ -1393,6 +1395,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Jace's Scrutiny</reverse-related>
             <reverse-related>Lonis, Cryptozoologist</reverse-related>
             <reverse-related>Magnifying Glass</reverse-related>
+            <reverse-related>Max, the Daredevil</reverse-related>
             <reverse-related>Ongoing Investigation</reverse-related>
             <reverse-related>Press for Answers</reverse-related>
             <reverse-related>Root Out</reverse-related>
@@ -1408,6 +1411,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Ulvenwald Mysteries</reverse-related>
             <reverse-related count="2">Wavesifter</reverse-related>
             <reverse-related>Weirding Wood</reverse-related>
+            <reverse-related count="x">Will the Wise</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
