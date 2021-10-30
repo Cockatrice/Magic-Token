@@ -890,6 +890,24 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Blood</name>
+            <text>{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.</text>
+            <prop>
+                <type>Token Artifact — Blood</type>
+                <maintype>Artifact</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL>VOW</set>
+            <reverse-related>Anje, Maid of Dishonor</reverse-related>
+            <reverse-related>Gluttonous Guest</reverse-related>
+            <reverse-related>Vampires' Vengeance</reverse-related>
+            <reverse-related>Voldaren Bloodcaster</reverse-related>
+            <reverse-related count="x" exclude="exclude">Voldaren Bloodcaster</reverse-related>
+            <reverse-related>Voldaren Estate</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Boar</name>
             <prop>
                 <colors>G</colors>
@@ -1897,6 +1915,20 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
             <set picURL="https://media.wizards.com/2018/c18/en_nEav0mwmHj.png">C18</set>
             <related>Dragon    </related>
             <reverse-related>Nesting Dragon</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+            <name>Dragon Illusion</name>
+            <text>Flying, haste</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Dragon Illusion</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>*/*</pt>
+            </prop>
+            <set picURL>VOW</set>
+            <reverse-related>Manaform Hellkite</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3949,6 +3981,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <reverse-related count="x">Visions of Glory</reverse-related>
             <reverse-related>Voice of the Provinces</reverse-related>
             <reverse-related>Watchful Giant</reverse-related>
+            <reverse-related>Wedding Announcement</reverse-related>
             <reverse-related>Worthy Knight</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4051,6 +4084,21 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related>Trynn, Champion of Freedom</reverse-related>
             <reverse-related>Ulvenwald Mysteries</reverse-related>
             <reverse-related>Valiant Rescuer</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Human Soldier </name>
+            <text>Training</text>
+            <prop>
+                <colors>GW</colors>
+                <type>Token Creature — Human Soldier</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL>VOW</set>
+            <reverse-related>Torens, Fist of the Angels</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7114,6 +7162,36 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Spirit         </name>
+            <text>Flying</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Spirit</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/4</pt>
+            </prop>
+            <set picURL>VOW</set>
+            <reverse-related>Dorothea's Retribution</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Spirit Cleric</name>
+            <text>This creature's power and toughness are each equal to the number of Spirits you control.</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Spirit Cleric</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>*/*</pt>
+            </prop>
+            <set picURL>VOW</set>
+            <reverse-related>Hallowed Haunting</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Spirit Warrior</name>
             <prop>
                 <colors>BG</colors>
@@ -7897,6 +7975,21 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             </prop>
             <set picURL="https://media.wizards.com/2021/mid/en_9LXYVm6MmH.png">MID</set>
             <reverse-related>Hungry for More</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Vampire      </name>
+            <text>Flying, lifelink</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Vampire</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/3</pt>
+            </prop>
+            <set picURL>VOW</set>
+            <reverse-related>Sorin the Mirthless</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -8729,6 +8822,20 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             </prop>
             <set picURL="https://media.wizards.com/2021/mid/en_wcRiBf69Go.png">MID</set>
             <reverse-related>Corpse Cobble</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Zombie      </name>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Zombie</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>*/*</pt>
+            </prop>
+            <set picURL>VOW</set>
+            <reverse-related>Geralf, Visionary Stitcher</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
