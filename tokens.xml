@@ -899,8 +899,11 @@ This creature can block only creatures with flying.</text>
             </prop>
             <set picURL>VOW</set>
             <reverse-related>Anje, Maid of Dishonor</reverse-related>
+            <reverse-related>Belligerent Guest</reverse-related>
+            <reverse-related>Bloodvial Purveyor</reverse-related>
             <reverse-related>Falkenrath Forebear</reverse-related>
             <reverse-related>Gluttonous Guest</reverse-related>
+            <reverse-related>Old Rutstein</reverse-related>
             <reverse-related>Sigarda's Imprisonment</reverse-related>
             <reverse-related count="x">Strefan, Maurer Progenitor</reverse-related>
             <reverse-related>Vampires' Vengeance</reverse-related>
@@ -4407,6 +4410,8 @@ Equip {2}</text>
             <reverse-related count="x=1">Iridescent Hornbeetle</reverse-related>
             <reverse-related count="2">It of the Horrid Swarm</reverse-related>
             <reverse-related>Living Hive</reverse-related>
+            <reverse-related>"Nick Cage's Final Form" (scryfall placeholder name)</reverse-related>
+            <reverse-related>Old Rutstein</reverse-related>
             <reverse-related count="5">One Dozen Eyes</reverse-related>
             <reverse-related>Saber Ants</reverse-related>
             <reverse-related>Scute Swarm</reverse-related>
@@ -7693,6 +7698,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Monologue Tax</reverse-related>
             <reverse-related count="x=1">Negan, The Cold-Blooded</reverse-related>
             <reverse-related count="x">Old Gnawbone</reverse-related>
+            <reverse-related>Old Rutstein</reverse-related>
             <reverse-related count="2">Pirate's Pillage</reverse-related>
             <reverse-related>Pirate's Prize</reverse-related>
             <reverse-related>Pitiless Plunderer</reverse-related>
@@ -8721,6 +8727,8 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Graveyard Marshal</reverse-related>
             <reverse-related>Grixis Slavedriver</reverse-related>
             <reverse-related>Havengul Runebinder</reverse-related>
+            <reverse-related>Headless Rider</reverse-related>
+            <reverse-related count="x" exclude="exclude">Headless Rider</reverse-related>
             <reverse-related count="2">Hour of Promise</reverse-related>
             <reverse-related>Kalitas, Traitor of Ghet</reverse-related>
             <reverse-related>Lair of the Ashen Idol</reverse-related>
@@ -8757,6 +8765,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Sarcomancy</reverse-related>
             <reverse-related>Shamble Back</reverse-related>
             <reverse-related>Sidisi, Brood Tyrant</reverse-related>
+            <reverse-related>Skull Skaab</reverse-related>
             <reverse-related count="3">Stir the Sands</reverse-related>
             <reverse-related>Stir the Sands</reverse-related>
             <reverse-related count="x">Syphon Flesh</reverse-related>
