@@ -900,10 +900,13 @@ This creature can block only creatures with flying.</text>
             <set picURL>VOW</set>
             <reverse-related>Anje, Maid of Dishonor</reverse-related>
             <reverse-related>Belligerent Guest</reverse-related>
+            <reverse-related>Bloodcrazed Socialite</reverse-related>
+            <reverse-related>Bloodsoaked Reveler</reverse-related>
             <reverse-related>Bloodvial Purveyor</reverse-related>
             <reverse-related>Falkenrath Forebear</reverse-related>
             <reverse-related>Gluttonous Guest</reverse-related>
             <reverse-related>Old Rutstein</reverse-related>
+            <reverse-related>Restless Bloodseeker</reverse-related>
             <reverse-related>Sigarda's Imprisonment</reverse-related>
             <reverse-related count="x">Strefan, Maurer Progenitor</reverse-related>
             <reverse-related>Vampires' Vengeance</reverse-related>
@@ -4406,7 +4409,9 @@ Equip {2}</text>
             <reverse-related>Broodhatch Nantuko</reverse-related>
             <reverse-related>Crawling Sensation</reverse-related>
             <reverse-related>Dragonlair Spider</reverse-related>
+            <reverse-related>Infestation Expert</reverse-related>
             <reverse-related>Infested Roothold</reverse-related>
+            <reverse-related count="2">Infested Werewolf</reverse-related>
             <reverse-related count="x=1">Iridescent Hornbeetle</reverse-related>
             <reverse-related count="2">It of the Horrid Swarm</reverse-related>
             <reverse-related>Living Hive</reverse-related>
@@ -8371,6 +8376,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related count="2">Arlinn, the Pack's Hope</reverse-related>
             <reverse-related>Arlinn, Voice of the Pack</reverse-related>
             <reverse-related>Bestial Menace</reverse-related>
+            <reverse-related>Child of the Pack</reverse-related>
             <reverse-related>Cult of the Waxing Moon</reverse-related>
             <reverse-related>Elturgard Ranger</reverse-related>
             <reverse-related>Fable of Wolf and Owl</reverse-related>
@@ -8714,7 +8720,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Dunes of the Dead</reverse-related>
             <reverse-related count="x">Empty the Pits</reverse-related>
             <reverse-related count="x">Endless Ranks of the Dead</reverse-related>
-            <reverse-related>"Eternal Service" (scryfall placeholder name)</reverse-related>
+            <reverse-related>Dying to Serve</reverse-related>
             <reverse-related>Feast or Famine</reverse-related>
             <reverse-related>Field of the Dead</reverse-related>
             <reverse-related count="3">From Under the Floorboards</reverse-related>
