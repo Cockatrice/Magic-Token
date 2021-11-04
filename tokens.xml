@@ -902,11 +902,14 @@ This creature can block only creatures with flying.</text>
             <reverse-related>Belligerent Guest</reverse-related>
             <reverse-related>Bloodcrazed Socialite</reverse-related>
             <reverse-related>Bloodsoaked Reveler</reverse-related>
+            <reverse-related>Bloodtithe Harvester</reverse-related>
             <reverse-related>Bloodvial Purveyor</reverse-related>
             <reverse-related>Falkenrath Forebear</reverse-related>
             <reverse-related>Gluttonous Guest</reverse-related>
             <reverse-related>Old Rutstein</reverse-related>
             <reverse-related>Restless Bloodseeker</reverse-related>
+            <reverse-related count="x">"Sanguine Bridesmaids" (scryfall placeholder name)</reverse-related>
+            <reverse-related>Sanguine Statuette</reverse-related>
             <reverse-related>Sigarda's Imprisonment</reverse-related>
             <reverse-related count="x">Strefan, Maurer Progenitor</reverse-related>
             <reverse-related>Vampires' Vengeance</reverse-related>
@@ -4407,6 +4410,7 @@ Equip {2}</text>
             <reverse-related>Ant Queen</reverse-related>
             <reverse-related count="x">Beacon of Creation</reverse-related>
             <reverse-related>Broodhatch Nantuko</reverse-related>
+            <reverse-related>Crawling Infestation</reverse-related>
             <reverse-related>Crawling Sensation</reverse-related>
             <reverse-related>Dragonlair Spider</reverse-related>
             <reverse-related>Infestation Expert</reverse-related>
@@ -8028,6 +8032,21 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             </prop>
             <set picURL>VOW</set>
             <reverse-related>Sorin the Mirthless</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Vampire       </name>
+            <text>Lifelink</text>
+            <prop>
+                <colors>WB</colors>
+                <type>Token Creature — Vampire</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL>VOW</set>
+            <reverse-related>Edgar Markov's Coffin</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
