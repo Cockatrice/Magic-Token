@@ -900,21 +900,34 @@ This creature can block only creatures with flying.</text>
             <set picURL>VOW</set>
             <reverse-related>Anje, Maid of Dishonor</reverse-related>
             <reverse-related>Belligerent Guest</reverse-related>
+            <reverse-related>Blood Fountain</reverse-related>
+            <reverse-related>Blood Petal Celebrant</reverse-related>
+            <reverse-related>Blood Servitor</reverse-related>
             <reverse-related>Bloodcrazed Socialite</reverse-related>
             <reverse-related>Bloodsoaked Reveler</reverse-related>
             <reverse-related>Bloodtithe Harvester</reverse-related>
             <reverse-related>Bloodvial Purveyor</reverse-related>
+            <reverse-related>Bloody Betrayal</reverse-related>
+            <reverse-related>Ceremonial Knife</reverse-related>
+            <reverse-related count="2">Falkenreath Celebrants</reverse-related>
             <reverse-related>Falkenrath Forebear</reverse-related>
             <reverse-related>Gluttonous Guest</reverse-related>
+            <reverse-related count="2">Grisly Ritual</reverse-related>
+            <reverse-related count="x">Lacerate Flesh</reverse-related>
+            <reverse-related count="x">Odric, Blood-Cursed</reverse-related>
             <reverse-related>Old Rutstein</reverse-related>
+            <reverse-related count="x">Olivia's Attendants</reverse-related>
+            <reverse-related>Pointed Discussion</reverse-related>
             <reverse-related>Restless Bloodseeker</reverse-related>
-            <reverse-related count="x">"Sanguine Bridesmaids" (scryfall placeholder name)</reverse-related>
             <reverse-related>Sanguine Statuette</reverse-related>
             <reverse-related>Sigarda's Imprisonment</reverse-related>
             <reverse-related count="x">Strefan, Maurer Progenitor</reverse-related>
+            <reverse-related>Syphon Essence</reverse-related>
+            <reverse-related count="2">Vampire's Kiss</reverse-related>
             <reverse-related>Vampires' Vengeance</reverse-related>
             <reverse-related>Voldaren Bloodcaster</reverse-related>
             <reverse-related count="x" exclude="exclude">Voldaren Bloodcaster</reverse-related>
+            <reverse-related>Voldaren Epicure</reverse-related>
             <reverse-related>Voldaren Estate</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -961,6 +974,20 @@ This creature can block only creatures with flying.</text>
             <set picURL="https://media.wizards.com/2019/eld/en_Q6649AYZtV.png">ELD</set>
             <related>Food</related>
             <reverse-related count="3">Wolf's Quarry</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Boar   </name>
+            <prop>
+                <colors>G</colors>
+                <cmc>0</cmc>
+                <type>Token Creature — Boar</type>
+                <maintype>Creature</maintype>
+                <pt>3/1</pt>
+            </prop>
+            <set picURL>VOW</set>
+            <reverse-related>Rural Recruit</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -4419,7 +4446,7 @@ Equip {2}</text>
             <reverse-related count="x=1">Iridescent Hornbeetle</reverse-related>
             <reverse-related count="2">It of the Horrid Swarm</reverse-related>
             <reverse-related>Living Hive</reverse-related>
-            <reverse-related>"Nick Cage's Final Form" (scryfall placeholder name)</reverse-related>
+            <reverse-related>Hiveheart Shaman</reverse-related>
             <reverse-related>Old Rutstein</reverse-related>
             <reverse-related count="5">One Dozen Eyes</reverse-related>
             <reverse-related>Saber Ants</reverse-related>
@@ -7015,6 +7042,8 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related count="x">Hallowed Spiritkeeper</reverse-related>
             <reverse-related>Hanged Executioner</reverse-related>
             <reverse-related>Haunted Dead</reverse-related>
+            <reverse-related count="2">Heron-Blessed Geist</reverse-related>
+            <reverse-related count="x">Kaya, Geist Hunter</reverse-related>
             <reverse-related>Kaya the Inexorable</reverse-related>
             <reverse-related count="2">Kirtar's Wrath</reverse-related>
             <reverse-related>Kykar, Wind's Fury</reverse-related>
@@ -7028,6 +7057,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related>Moorland Haunt</reverse-related>
             <reverse-related count="2">Nearheath Chaplain</reverse-related>
             <reverse-related>Not Forgotten</reverse-related>
+            <reverse-related>Nurturing Presence</reverse-related>
             <reverse-related>Ranar the Ever-Watchful</reverse-related>
             <reverse-related>Requiem Angel</reverse-related>
             <reverse-related count="x">Rousing of Souls</reverse-related>
@@ -8404,6 +8434,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Garruk Relentless</reverse-related>
             <reverse-related count="x">Howl of the Night Pack</reverse-related>
             <reverse-related count="2">Howling Giant</reverse-related>
+            <reverse-related>Howling Moon</reverse-related>
             <reverse-related>Howlpack Alpha</reverse-related>
             <reverse-related>Huntmaster of the Fells</reverse-related>
             <reverse-related count="x">Kessig Cagebreakers</reverse-related>
