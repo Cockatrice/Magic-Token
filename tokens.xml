@@ -439,6 +439,23 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Bat   </name>
+            <text>Flying
+When this creature deals combat damage to a player, sacrifice it and return the exiled card to the battlefield tapped.</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Bat</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL>VOW</set>
+            <reverse-related>Timothar, Baron of Bats</reverse-related>
+            <reverse-related count="x" exclude="exclude">Timothar, Baron of Bats</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Bear</name>
             <prop>
                 <colors>G</colors>
@@ -897,8 +914,9 @@ This creature can block only creatures with flying.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
-            <set picURL>VOW</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/6/a6f374bc-cd29-469f-808a-6a6c004ee8aa.jpg?1636041263">VOW</set>
             <reverse-related>Anje, Maid of Dishonor</reverse-related>
+            <reverse-related>Arterial Alchemy</reverse-related>
             <reverse-related>Belligerent Guest</reverse-related>
             <reverse-related>Blood Fountain</reverse-related>
             <reverse-related>Blood Petal Celebrant</reverse-related>
@@ -911,9 +929,13 @@ This creature can block only creatures with flying.</text>
             <reverse-related>Ceremonial Knife</reverse-related>
             <reverse-related count="2">Falkenreath Celebrants</reverse-related>
             <reverse-related>Falkenrath Forebear</reverse-related>
+            <reverse-related>Glass-Cast Heart</reverse-related>
             <reverse-related>Gluttonous Guest</reverse-related>
             <reverse-related count="2">Grisly Ritual</reverse-related>
+            <reverse-related>Kamber, the Plunderer</reverse-related>
+            <reverse-related count="x" exclude="exclude">Kamber, the Plunderer</reverse-related>
             <reverse-related count="x">Lacerate Flesh</reverse-related>
+            <reverse-related>Markov Enforcer</reverse-related>
             <reverse-related count="x">Odric, Blood-Cursed</reverse-related>
             <reverse-related>Old Rutstein</reverse-related>
             <reverse-related count="x">Olivia's Attendants</reverse-related>
@@ -1436,9 +1458,11 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Confront the Unknown</reverse-related>
             <reverse-related>Declaration in Stone</reverse-related>
             <reverse-related>Dennick, Pious Apparition</reverse-related>
+            <reverse-related count="x">Disorder in the Court</reverse-related>
             <reverse-related>Drownyard Explorers</reverse-related>
             <reverse-related>Eloise, Nephalia Sleuth</reverse-related>
             <reverse-related count="x" exclude="exclude">Eloise, Nephalia Sleuth</reverse-related>
+            <reverse-related count="x">Ethereal Investigator</reverse-related>
             <reverse-related>Expose Evil</reverse-related>
             <reverse-related>Fae Offering</reverse-related>
             <reverse-related>Fateful Absence</reverse-related>
@@ -7035,6 +7059,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related>Drogskol Cavalry</reverse-related>
             <reverse-related>Elgaud Inquisitor</reverse-related>
             <reverse-related>Emissary of the Sleepless</reverse-related>
+            <reverse-related>Ethereal Investigator</reverse-related>
             <reverse-related>Field of Souls</reverse-related>
             <reverse-related>Funeral Pyre</reverse-related>
             <reverse-related>Gallows at Willow Hill</reverse-related>
@@ -7042,6 +7067,8 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related count="x">Hallowed Spiritkeeper</reverse-related>
             <reverse-related>Hanged Executioner</reverse-related>
             <reverse-related>Haunted Dead</reverse-related>
+            <reverse-related>Haunted Library</reverse-related>
+            <reverse-related count="x" exclude="exclude">Haunted Library</reverse-related>
             <reverse-related count="2">Heron-Blessed Geist</reverse-related>
             <reverse-related count="x">Kaya, Geist Hunter</reverse-related>
             <reverse-related>Kaya the Inexorable</reverse-related>
@@ -7058,6 +7085,8 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related count="2">Nearheath Chaplain</reverse-related>
             <reverse-related>Not Forgotten</reverse-related>
             <reverse-related>Nurturing Presence</reverse-related>
+            <reverse-related>Occult Epiphany</reverse-related>
+            <reverse-related>Priest of the Blessed Graf</reverse-related>
             <reverse-related>Ranar the Ever-Watchful</reverse-related>
             <reverse-related>Requiem Angel</reverse-related>
             <reverse-related count="x">Rousing of Souls</reverse-related>
@@ -7753,6 +7782,8 @@ This creature can't be enchanted.</text>
             <reverse-related>Revel in Riches</reverse-related>
             <reverse-related count="2">Ruthless Knave</reverse-related>
             <reverse-related>Sailor of Means</reverse-related>
+            <reverse-related>Scion of Opulence</reverse-related>
+            <reverse-related count="x" exclude="exclude">Scion of Opulence</reverse-related>
             <reverse-related>Seize the Spoils</reverse-related>
             <reverse-related>Shambling Ghast</reverse-related>
             <reverse-related>Shiny Impetus</reverse-related>
@@ -8077,6 +8108,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             </prop>
             <set picURL>VOW</set>
             <reverse-related>Edgar Markov's Coffin</reverse-related>
+            <reverse-related>Glass-Cast Heart</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -8432,6 +8464,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related count="x">Feed the Pack</reverse-related>
             <reverse-related>Ferocious Pup</reverse-related>
             <reverse-related>Garruk Relentless</reverse-related>
+            <reverse-related count="x">Hollowhenge Overlord</reverse-related>
             <reverse-related count="x">Howl of the Night Pack</reverse-related>
             <reverse-related count="2">Howling Giant</reverse-related>
             <reverse-related>Howling Moon</reverse-related>
