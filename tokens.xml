@@ -1008,7 +1008,7 @@ This creature can block only creatures with flying.</text>
                 <maintype>Creature</maintype>
                 <pt>3/1</pt>
             </prop>
-            <set picURL>VOW</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/7/975c4329-418a-4ada-82fa-9286fb61d61a.jpg?1636630123">VOW</set>
             <reverse-related>Rural Recruit</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -1991,7 +1991,7 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
-            <set picURL>VOW</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/0/e04ca01e-d2ff-45ce-bf6f-9f756808c8fb.jpg?1636630045">VOW</set>
             <reverse-related>Manaform Hellkite</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4012,6 +4012,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/d/7d13a93a-a43d-4cf5-8300-8341f3b7f1b1.jpg?1636629870">VOW</set>
             <set picURL="https://media.wizards.com/2021/mid/en_uHB1zQVvcu.png">MID</set>
             <set picURL="https://media.wizards.com/2020/iko/en_kkMVLXPjkL.png">C20</set>
             <set picURL="https://media.wizards.com/2019/eld/en_OnoAHjNCtA.png">ELD</set>
@@ -4060,6 +4061,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/1/11c8ff82-b598-4ccc-83a7-99f1e53b64d3.jpg?1636630064">VOW</set>
             <set picURL="https://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_nQw4fq2DYT.png">EMN</set>
             <set picURL="https://img.scryfall.com/cards/large/front/5/d/5da1ef9d-878a-49d8-afe5-86ad18e30c3d.jpg">AVR</set>
             <reverse-related count="2">Hanweir Garrison</reverse-related>
@@ -4163,7 +4165,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL>VOW</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/f/5f3c4810-7359-42b7-905f-4845f6d1daf6.jpg?1636630218">VOW</set>
             <reverse-related>Torens, Fist of the Angels</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4451,6 +4453,7 @@ Equip {2}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/3/f3ac66f8-4bb2-42bd-9a18-7da9c3839c8b.jpg?1636630149">VOW</set>
             <set picURL="https://media.wizards.com/2020/znr/en_PyB4KKK05P.png">ZNR</set>
             <set picURL="https://media.wizards.com/2018/a25/en_pIc2s1fJ7N.png">A25</set>
             <set picURL="https://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_FFbXRwKrvA.png">CN2</set>
@@ -6528,7 +6531,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL>VOW</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/e/6e2ae34f-4558-46e0-95c5-e00d813fa355.jpg?1636629936">VOW</set>
             <reverse-related>Toxrill, the Corrosive</reverse-related>
             <reverse-related count="x" exclude="exclude">Toxrill, the Corrosive</reverse-related>
             <token>1</token>
@@ -7014,6 +7017,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/b/6bee4081-5d74-4cc2-ba2f-887bc8799513.jpg?1636629868">MID</set>
             <set picURL="https://media.wizards.com/2021/mid/en_ieksIYV0t6.png">MID</set>
             <set picURL="https://media.wizards.com/2020/khm/en_VvQDVtcpsT.png">KHM</set>
             <set picURL="https://media.wizards.com/2020/cmr/en_ydD5zzVFJy.png">CMR</set>
@@ -7271,7 +7275,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
-            <set picURL>VOW</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/6/b61e7f44-c112-4501-8850-0565fc857397.jpg?1636629873">VOW</set>
             <reverse-related>Dorothea's Retribution</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7286,7 +7290,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
-            <set picURL>VOW</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/2/5212bae5-d768-45ab-aba8-94c4f9fabc79.jpg?1636629861">VOW</set>
             <reverse-related>Hallowed Haunting</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7700,6 +7704,7 @@ This creature can't be enchanted.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/a/0a89fdcf-0672-4241-834f-5db2c861694d.jpg?1636630296">VOW</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/3/a3a684b7-27e0-4d9e-a064-9e03c6e50c89.jpg?1626139418">AFR</set>
             <set picURL="https://media.wizards.com/2021/mh2/en_rdUdpRE0fi.png">MH2</set>
             <set picURL="https://media.wizards.com/2021/stx/en_rNuFANCh1U.png">STX</set>
@@ -8091,7 +8096,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>2/3</pt>
             </prop>
-            <set picURL>VOW</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/b/ebd12ac1-d1b2-4e22-9a17-8f3964294e35.jpg?1636629974">VOW</set>
             <reverse-related>Sorin the Mirthless</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -8106,7 +8111,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL>VOW</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/e/7eee78d3-c65f-4454-bd3c-1c55388422f5.jpg?1636630265">VOW</set>
             <reverse-related>Edgar Markov's Coffin</reverse-related>
             <reverse-related>Glass-Cast Heart</reverse-related>
             <token>1</token>
@@ -8432,6 +8437,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/5/d5f1e139-3054-4273-8a4d-faaaa9c383a8.jpg?1636630176">VOW</set>
             <set picURL="https://media.wizards.com/2021/mid/en_voqEBa4Udh.png">MID</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/8/1864d5b9-7151-42f0-8d37-8c319c3ab264.jpg?1626139395">AFR</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_eevhHaOASk.png">2XM</set>
@@ -8550,7 +8556,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <maintype>Creature</maintype>
                 <pt>3/2</pt>
             </prop>
-            <set picURL>VOW</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/0/001cc57e-f3fc-4790-a9e5-171b2e3e8739.jpg?1636630097">VOW</set>
             <reverse-related>Kessig Wolfrider</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -8729,6 +8735,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/8/c84e21cd-079d-493f-ab8d-e62f16ec1581.jpg?1636629997">VOW</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/b/0b08d210-01cb-46c5-9150-4dfb47f50ae7.jpg?1626139197">AFR</set>
             <set picURL="https://media.wizards.com/2021/mh2/en_D84ryulQze.png">MH2</set>
             <set picURL="https://media.wizards.com/2021/stx/en_xKkcQWllI3.png">C21</set>
@@ -8974,7 +8981,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
-            <set picURL>VOW</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/3/539f4b60-667b-469d-9191-eacaad5c0db1.jpg?1636629909">VOW</set>
             <reverse-related>Geralf, Visionary Stitcher</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -9342,7 +9349,7 @@ Cradle of the Death God — Create The Atropal, a legendary 4/4 black God Horror
                 <type>Emblem</type>
                 <maintype>Emblem</maintype>
             </prop>
-            <set picURL>VOW</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/1/01783a68-4f61-43ff-94ef-eb0eae654cb7.jpg?1636630373">VOW</set>
             <reverse-related>Chandra, Dressed to Kill</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
