@@ -419,6 +419,8 @@ Creature tokens you control have flying and vigilance.</text>
             <reverse-related count="2">Skeletal Vampire</reverse-related>
             <reverse-related>Desecrated Tomb</reverse-related>
             <reverse-related>Regal Bloodlord</reverse-related>
+            <reverse-related>Timothar, Baron of Bats</reverse-related>
+            <reverse-related count="x" exclude="exclude">Timothar, Baron of Bats</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -435,23 +437,6 @@ Creature tokens you control have flying and vigilance.</text>
             </prop>
             <set picURL="https://media.wizards.com/2021/tsr/en_8oX0mLwoUR.png">TSR</set>
             <reverse-related>Sengir Nosferatu</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
-            <name>Bat   </name>
-            <text>Flying
-When this creature deals combat damage to a player, sacrifice it and return the exiled card to the battlefield tapped.</text>
-            <prop>
-                <colors>B</colors>
-                <type>Token Creature — Bat</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>1/1</pt>
-            </prop>
-            <set picURL>VOW</set>
-            <reverse-related>Timothar, Baron of Bats</reverse-related>
-            <reverse-related count="x" exclude="exclude">Timothar, Baron of Bats</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
