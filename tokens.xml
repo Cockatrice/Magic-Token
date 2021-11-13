@@ -4467,13 +4467,13 @@ Equip {2}</text>
             <reverse-related>Crawling Infestation</reverse-related>
             <reverse-related>Crawling Sensation</reverse-related>
             <reverse-related>Dragonlair Spider</reverse-related>
+            <reverse-related>Hiveheart Shaman</reverse-related>
             <reverse-related>Infestation Expert</reverse-related>
             <reverse-related>Infested Roothold</reverse-related>
             <reverse-related count="2">Infested Werewolf</reverse-related>
             <reverse-related count="x=1">Iridescent Hornbeetle</reverse-related>
             <reverse-related count="2">It of the Horrid Swarm</reverse-related>
             <reverse-related>Living Hive</reverse-related>
-            <reverse-related>Hiveheart Shaman</reverse-related>
             <reverse-related>Old Rutstein</reverse-related>
             <reverse-related count="5">One Dozen Eyes</reverse-related>
             <reverse-related>Saber Ants</reverse-related>
@@ -7755,19 +7755,19 @@ This creature can't be enchanted.</text>
             <reverse-related>Hoard Robber</reverse-related>
             <reverse-related count="x">Hoarding Ogre</reverse-related>
             <reverse-related>Hornswoggle</reverse-related>
-            <reverse-related count="x" exclude="exclude">Hullbreacher</reverse-related>
             <reverse-related>Hullbreacher</reverse-related>
+            <reverse-related count="x" exclude="exclude">Hullbreacher</reverse-related>
             <reverse-related>Improvised Weaponry</reverse-related>
             <reverse-related>Impulsive Pilferer</reverse-related>
             <reverse-related count="2">Ingenious Mastery</reverse-related>
             <reverse-related>Instrument of the Bards</reverse-related>
             <reverse-related>Jewel-Eyed Cobra</reverse-related>
             <reverse-related>Kalain, Reclusive Painter</reverse-related>
-            <reverse-related count="x=1" exclude="exclude">Magda, Brazen Outlaw</reverse-related>
             <reverse-related>Magda, Brazen Outlaw</reverse-related>
+            <reverse-related count="x=1" exclude="exclude">Magda, Brazen Outlaw</reverse-related>
             <reverse-related exclude="exclude">Magma Opus</reverse-related>
-            <reverse-related count="x" exclude="exclude">Malcolm, Keen-Eyed Navigator</reverse-related>
             <reverse-related>Malcolm, Keen-Eyed Navigator</reverse-related>
+            <reverse-related count="x" exclude="exclude">Malcolm, Keen-Eyed Navigator</reverse-related>
             <reverse-related>Monologue Tax</reverse-related>
             <reverse-related count="x=1">Negan, The Cold-Blooded</reverse-related>
             <reverse-related count="x">Old Gnawbone</reverse-related>
@@ -8460,8 +8460,8 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="https://img.scryfall.com/cards/large/front/9/c/9c138bf9-8be6-4f1a-a82c-a84938ab84f5.jpg">SHM</set>
             <set picURL="https://img.scryfall.com/cards/large/front/0/2/02a80dc2-0811-4df0-95f1-dd80ce9e24de.jpg">LRW</set>
             <reverse-related>Arlinn Kord</reverse-related>
-            <reverse-related count="2">Arlinn, the Pack's Hope</reverse-related>
             <reverse-related>Arlinn, Voice of the Pack</reverse-related>
+            <reverse-related count="2">Arlinn, the Pack's Hope</reverse-related>
             <reverse-related>Bestial Menace</reverse-related>
             <reverse-related>Child of the Pack</reverse-related>
             <reverse-related>Cult of the Waxing Moon</reverse-related>
@@ -8481,8 +8481,8 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Master of the Wild Hunt</reverse-related>
             <reverse-related>Nightpack Ambusher</reverse-related>
             <reverse-related>Pack Guardian</reverse-related>
-            <reverse-related count="3" exclude="exclude">Predator's Howl</reverse-related>
             <reverse-related>Predator's Howl</reverse-related>
+            <reverse-related count="3" exclude="exclude">Predator's Howl</reverse-related>
             <reverse-related count="2">Raised by Wolves</reverse-related>
             <reverse-related count="2">Ranger Class</reverse-related>
             <reverse-related>Silverfur Partisan</reverse-related>
@@ -8808,9 +8808,9 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related count="x">Dread Summons</reverse-related>
             <reverse-related>Drunau Corpse Trawler</reverse-related>
             <reverse-related>Dunes of the Dead</reverse-related>
+            <reverse-related>Dying to Serve</reverse-related>
             <reverse-related count="x">Empty the Pits</reverse-related>
             <reverse-related count="x">Endless Ranks of the Dead</reverse-related>
-            <reverse-related>Dying to Serve</reverse-related>
             <reverse-related>Feast or Famine</reverse-related>
             <reverse-related>Field of the Dead</reverse-related>
             <reverse-related count="3">From Under the Floorboards</reverse-related>
@@ -8862,8 +8862,8 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Shamble Back</reverse-related>
             <reverse-related>Sidisi, Brood Tyrant</reverse-related>
             <reverse-related>Skull Skaab</reverse-related>
-            <reverse-related count="3">Stir the Sands</reverse-related>
             <reverse-related>Stir the Sands</reverse-related>
+            <reverse-related count="3">Stir the Sands</reverse-related>
             <reverse-related count="x">Syphon Flesh</reverse-related>
             <reverse-related>The Book of Vile Darkness</reverse-related>
             <reverse-related>The Fourth Sphere</reverse-related>
