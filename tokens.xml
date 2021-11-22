@@ -61,7 +61,7 @@
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Angel</name>
+            <name>Angel Token</name>
             <text>Flying</text>
             <prop>
                 <colors>W</colors>
@@ -110,7 +110,7 @@
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Angel </name>
+            <name>Angel Token </name>
             <text>Flying</text>
             <prop>
                 <colors>B</colors>
@@ -127,7 +127,7 @@
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Angel  </name>
+            <name>Angel Token  </name>
             <text>Flying</text>
             <prop>
                 <colors>W</colors>
@@ -142,7 +142,7 @@
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Angel   </name>
+            <name>Angel Token   </name>
             <text>Flying, vigilance</text>
             <prop>
                 <colors>W</colors>
@@ -183,7 +183,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Angel Warrior</name>
+            <name>Angel Warrior Token</name>
             <text>Flying</text>
             <prop>
                 <colors>W</colors>
@@ -198,7 +198,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Angel Warrior </name>
+            <name>Angel Warrior Token </name>
             <text>Flying, vigilance</text>
             <prop>
                 <colors>W</colors>
@@ -231,7 +231,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Ape</name>
+            <name>Ape Token</name>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Ape</type>
@@ -261,7 +261,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Assassin</name>
+            <name>Assassin Token</name>
             <text>Whenever this creature deals combat damage to a player, that player loses the game.</text>
             <prop>
                 <colors>B</colors>
@@ -278,7 +278,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Assassin </name>
+            <name>Assassin Token </name>
             <text>Deathtouch, haste</text>
             <prop>
                 <colors>B</colors>
@@ -293,7 +293,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Assassin  </name>
+            <name>Assassin Token  </name>
             <text>Deathtouch
 Whenever this creature deals damage to a planeswalker, destroy that planeswalker.</text>
             <prop>
@@ -322,7 +322,7 @@ Whenever this creature deals damage to a planeswalker, destroy that planeswalker
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Avatar</name>
+            <name>Avatar Token</name>
             <text>This creature's power and toughness are each equal to your life total.</text>
             <prop>
                 <colors>W</colors>
@@ -339,7 +339,7 @@ Whenever this creature deals damage to a planeswalker, destroy that planeswalker
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Avatar </name>
+            <name>Avatar Token </name>
             <text>Flying</text>
             <prop>
                 <colors>W</colors>
@@ -354,7 +354,7 @@ Whenever this creature deals damage to a planeswalker, destroy that planeswalker
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Avatar  </name>
+            <name>Avatar Token  </name>
             <text>Haste
 Whenever this creature attacks, it deals 3 damage to each opponent.</text>
             <prop>
@@ -401,7 +401,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Bat</name>
+            <name>Bat Token</name>
             <text>Flying</text>
             <prop>
                 <colors>B</colors>
@@ -425,7 +425,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Bat  </name>
+            <name>Bat Token  </name>
             <text>Flying
 {1}{B}, Sacrifice this creature: Return an exiled card named Sengir Nosferatu to the battlefield under its owner's control.</text>
             <prop>
@@ -441,7 +441,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Bear</name>
+            <name>Bear Token</name>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Bear</type>
@@ -470,7 +470,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Bear </name>
+            <name>Bear Token </name>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Bear</type>
@@ -484,7 +484,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Beast</name>
+            <name>Beast Token</name>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Beast</type>
@@ -517,7 +517,6 @@ Creature tokens you control have flying and vigilance.</text>
             <set picURL="https://img.scryfall.com/cards/large/front/3/f/3fc3a29a-280d-4f2c-9a01-8cfead75f583.jpg">EVE</set>
             <set picURL="https://img.scryfall.com/cards/large/front/c/3/c3cbd01b-dbf5-424a-855d-f9a9d7e7e414.jpg">LRW</set>
             <set picURL="https://img.scryfall.com/cards/large/front/d/0/d02d5670-fff3-4011-8e45-e6843e4e8988.jpg">DST</set>
-            <reverse-related>"Beast Without"</reverse-related>
             <reverse-related>Beast Within</reverse-related>
             <reverse-related>Bringer of the Green Dawn</reverse-related>
             <reverse-related count="x=0">Curious Herd</reverse-related>
@@ -543,7 +542,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Beast </name>
+            <name>Beast Token </name>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Beast</type>
@@ -578,7 +577,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Beast  </name>
+            <name>Beast Token  </name>
             <prop>
                 <colors>RGW</colors>
                 <type>Token Creature — Beast</type>
@@ -592,7 +591,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Beast   </name>
+            <name>Beast Token   </name>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Beast</type>
@@ -606,7 +605,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Beast    </name>
+            <name>Beast Token    </name>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Beast</type>
@@ -620,7 +619,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Beast     </name>
+            <name>Beast Token     </name>
             <text>Trample</text>
             <prop>
                 <colors>G</colors>
@@ -635,7 +634,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Beast      </name>
+            <name>Beast Token      </name>
             <text>Deathtouch</text>
             <prop>
                 <colors>B</colors>
@@ -650,7 +649,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Beast       </name>
+            <name>Beast Token       </name>
             <prop>
                 <type>Token Artifact Creature — Beast</type>
                 <maintype>Creature</maintype>
@@ -663,7 +662,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Beast        </name>
+            <name>Beast Token        </name>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Beast</type>
@@ -677,7 +676,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Beast         </name>
+            <name>Beast Token         </name>
             <text>Trample</text>
             <prop>
                 <colors>RG</colors>
@@ -693,7 +692,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Bird</name>
+            <name>Bird Token</name>
             <text>Flying</text>
             <prop>
                 <colors>WU</colors>
@@ -709,7 +708,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Bird </name>
+            <name>Bird Token </name>
             <text>Flying</text>
             <prop>
                 <colors>W</colors>
@@ -744,7 +743,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Bird  </name>
+            <name>Bird Token  </name>
             <text>Flying</text>
             <prop>
                 <colors>U</colors>
@@ -765,7 +764,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Bird   </name>
+            <name>Bird Token   </name>
             <text>Flying</text>
             <prop>
                 <colors>W</colors>
@@ -782,7 +781,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Bird    </name>
+            <name>Bird Token    </name>
             <text>Flying</text>
             <prop>
                 <colors>U</colors>
@@ -798,7 +797,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Bird     </name>
+            <name>Bird Token     </name>
             <text>Flying</text>
             <prop>
                 <colors>U</colors>
@@ -814,7 +813,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Bird      </name>
+            <name>Bird Token      </name>
             <text>Flying</text>
             <prop>
                 <colors>R</colors>
@@ -829,7 +828,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Bird       </name>
+            <name>Bird Token       </name>
             <text>Flying</text>
             <prop>
                 <colors>W</colors>
@@ -845,7 +844,7 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Bird        </name>
+            <name>Bird Token        </name>
             <text>Flying
 This creature can block only creatures with flying.</text>
             <prop>
@@ -861,7 +860,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Bird Illusion</name>
+            <name>Bird Illusion Token</name>
             <text>Flying</text>
             <prop>
                 <colors>U</colors>
@@ -877,7 +876,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Bird Soldier</name>
+            <name>Bird Soldier Token</name>
             <text>Flying</text>
             <prop>
                 <colors>W</colors>
@@ -892,7 +891,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Blood</name>
+            <name>Blood Token</name>
             <text>{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.</text>
             <prop>
                 <type>Token Artifact — Blood</type>
@@ -940,7 +939,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Boar</name>
+            <name>Boar Token</name>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Boar</type>
@@ -954,7 +953,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Boar </name>
+            <name>Boar Token </name>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Boar</type>
@@ -969,7 +968,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Boar  </name>
+            <name>Boar Token  </name>
             <text>When this creature dies, create a Food token.</text>
             <prop>
                 <colors>G</colors>
@@ -979,13 +978,13 @@ This creature can block only creatures with flying.</text>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://media.wizards.com/2019/eld/en_Q6649AYZtV.png">ELD</set>
-            <related>Food</related>
+            <related>Food Token</related>
             <reverse-related count="3">Wolf's Quarry</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Boar   </name>
+            <name>Boar Token   </name>
             <prop>
                 <colors>G</colors>
                 <cmc>0</cmc>
@@ -1014,7 +1013,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Butterfly</name>
+            <name>Butterfly Token</name>
             <text>Flying</text>
             <prop>
                 <colors>G</colors>
@@ -1029,7 +1028,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Camarid</name>
+            <name>Camarid Token</name>
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Camarid</type>
@@ -1043,7 +1042,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Caribou</name>
+            <name>Caribou Token</name>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Caribou</type>
@@ -1071,7 +1070,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Cat</name>
+            <name>Cat Token</name>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Cat</type>
@@ -1096,7 +1095,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Cat </name>
+            <name>Cat Token </name>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Cat</type>
@@ -1110,7 +1109,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Cat  </name>
+            <name>Cat Token  </name>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Cat</type>
@@ -1125,7 +1124,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Cat   </name>
+            <name>Cat Token   </name>
             <text>Lifelink</text>
             <prop>
                 <colors>W</colors>
@@ -1146,7 +1145,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Cat    </name>
+            <name>Cat Token    </name>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Cat</type>
@@ -1162,7 +1161,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Cat     </name>
+            <name>Cat Token     </name>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Cat</type>
@@ -1176,7 +1175,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Cat Beast</name>
+            <name>Cat Beast Token</name>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Cat Beast</type>
@@ -1191,7 +1190,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Cat Bird</name>
+            <name>Cat Bird Token</name>
             <text>Flying</text>
             <prop>
                 <colors>W</colors>
@@ -1206,7 +1205,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Cat Dragon</name>
+            <name>Cat Dragon Token</name>
             <text>Flying</text>
             <prop>
                 <colors>BRG</colors>
@@ -1221,7 +1220,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Cat Soldier</name>
+            <name>Cat Soldier Token</name>
             <text>Vigilance</text>
             <prop>
                 <colors>W</colors>
@@ -1237,7 +1236,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Cat Warrior</name>
+            <name>Cat Warrior Token</name>
             <text>Forestwalk</text>
             <prop>
                 <colors>G</colors>
@@ -1255,7 +1254,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Centaur</name>
+            <name>Centaur Token</name>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Centaur</type>
@@ -1279,7 +1278,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Centaur </name>
+            <name>Centaur Token </name>
             <text>Protection from black</text>
             <prop>
                 <colors>G</colors>
@@ -1294,7 +1293,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Centaur   </name>
+            <name>Centaur Token   </name>
             <prop>
                 <colors>G</colors>
                 <type>Token Enchantment Creature — Centaur</type>
@@ -1324,7 +1323,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Citizen</name>
+            <name>Citizen Token</name>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Citizen</type>
@@ -1339,7 +1338,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Citizen </name>
+            <name>Citizen Token </name>
             <text>This creature is all colors.</text>
             <prop>
                 <colors>WUBRG</colors>
@@ -1354,7 +1353,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Cleric</name>
+            <name>Cleric Token</name>
             <text>{3}{W}{B}{B}, {T}, Sacrifice this creature: Return a card named Deathpact Angel from your graveyard to the battlefield.</text>
             <prop>
                 <colors>WB</colors>
@@ -1369,7 +1368,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Cleric </name>
+            <name>Cleric Token </name>
             <prop>
                 <colors>W</colors>
                 <type>Token Enchantment Creature — Cleric</type>
@@ -1383,7 +1382,7 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Cleric  </name>
+            <name>Cleric Token  </name>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Cleric</type>
@@ -1413,7 +1412,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Clue</name>
+            <name>Clue Token</name>
             <text>{2}, Sacrifice this artifact: Draw a card.</text>
             <prop>
                 <type>Token Artifact — Clue</type>
@@ -1482,7 +1481,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Construct</name>
+            <name>Construct Token</name>
             <text>Trample</text>
             <prop>
                 <type>Token Artifact Creature — Construct</type>
@@ -1499,7 +1498,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Construct </name>
+            <name>Construct Token </name>
             <text>Defender</text>
             <prop>
                 <type>Token Artifact Creature — Construct</type>
@@ -1516,7 +1515,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Construct  </name>
+            <name>Construct Token  </name>
             <prop>
                 <type>Token Artifact Creature — Construct</type>
                 <maintype>Creature</maintype>
@@ -1533,7 +1532,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Construct   </name>
+            <name>Construct Token   </name>
             <text>This creature gets +1/+1 for each artifact you control.</text>
             <prop>
                 <type>Token Artifact Creature — Construct</type>
@@ -1552,7 +1551,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Construct    </name>
+            <name>Construct Token    </name>
             <prop>
                 <type>Token Artifact Creature — Construct</type>
                 <maintype>Creature</maintype>
@@ -1567,7 +1566,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Construct     </name>
+            <name>Construct Token     </name>
             <prop>
                 <type>Token Artifact Creature — Construct</type>
                 <maintype>Creature</maintype>
@@ -1580,7 +1579,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Crab</name>
+            <name>Crab Token</name>
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Crab</type>
@@ -1596,7 +1595,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Demon</name>
+            <name>Demon Token</name>
             <text>Flying</text>
             <prop>
                 <colors>B</colors>
@@ -1622,7 +1621,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Demon </name>
+            <name>Demon Token </name>
             <text>Flying</text>
             <prop>
                 <colors>B</colors>
@@ -1643,7 +1642,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Demon  </name>
+            <name>Demon Token  </name>
             <text>Flying, trample
 At the beginning of your upkeep, sacrifice another creature. If you can't, this creature deals 6 damage to you.</text>
             <prop>
@@ -1659,7 +1658,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Demon Berserker</name>
+            <name>Demon Berserker Token</name>
             <text>Menace</text>
             <prop>
                 <colors>R</colors>
@@ -1674,7 +1673,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Deserter</name>
+            <name>Deserter Token</name>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Deserter</type>
@@ -1688,7 +1687,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Devil</name>
+            <name>Devil Token</name>
             <text>When this creature dies, it deals 1 damage to any target.</text>
             <prop>
                 <colors>R</colors>
@@ -1712,7 +1711,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Dinosaur</name>
+            <name>Dinosaur Token</name>
             <text>Trample</text>
             <prop>
                 <colors>G</colors>
@@ -1732,7 +1731,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Dinosaur </name>
+            <name>Dinosaur Token </name>
             <text>Haste</text>
             <prop>
                 <colors>R</colors>
@@ -1747,7 +1746,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Dinosaur Beast</name>
+            <name>Dinosaur Beast Token</name>
             <text>Trample</text>
             <prop>
                 <colors>G</colors>
@@ -1763,7 +1762,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Dinosaur Cat</name>
+            <name>Dinosaur Cat Token</name>
             <prop>
                 <colors>RW</colors>
                 <type>Token Creature — Dinosaur Cat</type>
@@ -1777,7 +1776,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Djinn</name>
+            <name>Djinn Token</name>
             <text>Flying</text>
             <prop>
                 <type>Token Artifact Creature — Djinn</type>
@@ -1791,7 +1790,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Djinn Monk</name>
+            <name>Djinn Monk Token</name>
             <text>Flying</text>
             <prop>
                 <colors>U</colors>
@@ -1807,7 +1806,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Dog</name>
+            <name>Dog Token</name>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Dog</type>
@@ -1822,7 +1821,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Dog Illusion</name>
+            <name>Dog Illusion Token</name>
             <text>This creature's power and toughness are each equal to twice the number of cards in your hand.</text>
             <prop>
                 <colors>U</colors>
@@ -1837,7 +1836,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Dragon</name>
+            <name>Dragon Token</name>
             <text>Flying</text>
             <prop>
                 <colors>R</colors>
@@ -1872,7 +1871,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Dragon  </name>
+            <name>Dragon Token  </name>
             <text>Flying</text>
             <prop>
                 <colors>R</colors>
@@ -1897,7 +1896,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Dragon </name>
+            <name>Dragon Token </name>
             <text>Flying, devour 2</text>
             <prop>
                 <colors>RG</colors>
@@ -1912,7 +1911,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Dragon   </name>
+            <name>Dragon Token   </name>
             <text>Flying</text>
             <prop>
                 <colors>R</colors>
@@ -1928,7 +1927,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Dragon    </name>
+            <name>Dragon Token    </name>
             <text>Flying
 {R}: This creature gets +1/+0 until end of turn.</text>
             <prop>
@@ -1961,13 +1960,13 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
                 <pt>0/2</pt>
             </prop>
             <set picURL="https://media.wizards.com/2018/c18/en_nEav0mwmHj.png">C18</set>
-            <related>Dragon    </related>
+            <related>Dragon Token    </related>
             <reverse-related>Nesting Dragon</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Dragon Illusion</name>
+            <name>Dragon Illusion Token</name>
             <text>Flying, haste</text>
             <prop>
                 <colors>R</colors>
@@ -1982,7 +1981,7 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Dragon Spirit</name>
+            <name>Dragon Spirit Token</name>
             <text>Flying</text>
             <prop>
                 <colors>U</colors>
@@ -1997,7 +1996,7 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Dragon Spirit </name>
+            <name>Dragon Spirit Token </name>
             <text>When this creature deals damage, sacrifice it.</text>
             <prop>
                 <colors>RG</colors>
@@ -2012,7 +2011,7 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Drake</name>
+            <name>Drake Token</name>
             <text>Flying</text>
             <prop>
                 <colors>U</colors>
@@ -2036,7 +2035,7 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Drake </name>
+            <name>Drake Token </name>
             <text>Flying</text>
             <prop>
                 <colors>GU</colors>
@@ -2067,7 +2066,7 @@ Whenever Dreamstealer deals combat damage to a player, that player discards that
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Dwarf</name>
+            <name>Dwarf Token</name>
             <prop>
                 <colors>R</colors>
                 <cmc>0</cmc>
@@ -2081,7 +2080,7 @@ Whenever Dreamstealer deals combat damage to a player, that player discards that
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Dwarf Berserker</name>
+            <name>Dwarf Berserker Token</name>
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Dwarf Berserker</type>
@@ -2115,7 +2114,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Egg</name>
+            <name>Egg Token</name>
             <text>Defender</text>
             <prop>
                 <colors>G</colors>
@@ -2130,7 +2129,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Eldrazi</name>
+            <name>Eldrazi Token</name>
             <prop>
                 <type>Token Creature — Eldrazi</type>
                 <maintype>Creature</maintype>
@@ -2146,7 +2145,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Eldrazi </name>
+            <name>Eldrazi Token </name>
             <text>Annihilator 1</text>
             <prop>
                 <type>Token Creature — Eldrazi</type>
@@ -2160,7 +2159,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Eldrazi Horror</name>
+            <name>Eldrazi Horror Token</name>
             <prop>
                 <type>Token Creature — Eldrazi Horror</type>
                 <maintype>Creature</maintype>
@@ -2182,7 +2181,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Eldrazi Scion</name>
+            <name>Eldrazi Scion Token</name>
             <text>Sacrifice this creature: Add {C}.</text>
             <prop>
                 <type>Token Creature — Eldrazi Scion</type>
@@ -2225,7 +2224,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Eldrazi Spawn</name>
+            <name>Eldrazi Spawn Token</name>
             <text>Sacrifice this creature: Add {C}.</text>
             <prop>
                 <type>Token Creature — Eldrazi Spawn</type>
@@ -2259,7 +2258,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental</name>
+            <name>Elemental Token</name>
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Elemental</type>
@@ -2287,7 +2286,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental  </name>
+            <name>Elemental Token  </name>
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Elemental</type>
@@ -2307,7 +2306,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental    </name>
+            <name>Elemental Token    </name>
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Elemental</type>
@@ -2321,7 +2320,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental     </name>
+            <name>Elemental Token     </name>
             <text>Trample, haste</text>
             <prop>
                 <colors>R</colors>
@@ -2337,7 +2336,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental      </name>
+            <name>Elemental Token      </name>
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Elemental</type>
@@ -2351,7 +2350,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental       </name>
+            <name>Elemental Token       </name>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Elemental</type>
@@ -2367,7 +2366,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental        </name>
+            <name>Elemental Token        </name>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Elemental</type>
@@ -2384,7 +2383,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental         </name>
+            <name>Elemental Token         </name>
             <text>Trample</text>
             <prop>
                 <colors>G</colors>
@@ -2399,7 +2398,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental          </name>
+            <name>Elemental Token          </name>
             <text>Flying</text>
             <prop>
                 <colors>W</colors>
@@ -2415,7 +2414,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental           </name>
+            <name>Elemental Token           </name>
             <text>Flying</text>
             <prop>
                 <colors>U</colors>
@@ -2430,7 +2429,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental            </name>
+            <name>Elemental Token            </name>
             <prop>
                 <colors>BR</colors>
                 <type>Token Creature — Elemental</type>
@@ -2444,7 +2443,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental             </name>
+            <name>Elemental Token             </name>
             <text>Flying</text>
             <prop>
                 <colors>UR</colors>
@@ -2462,7 +2461,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental              </name>
+            <name>Elemental Token              </name>
             <text>Vigilance</text>
             <prop>
                 <colors>GW</colors>
@@ -2477,7 +2476,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental               </name>
+            <name>Elemental Token               </name>
             <text>This creature's power and toughness are each equal to the number of creatures you control.</text>
             <prop>
                 <colors>GW</colors>
@@ -2495,7 +2494,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental                </name>
+            <name>Elemental Token                </name>
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Elemental</type>
@@ -2509,7 +2508,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental                 </name>
+            <name>Elemental Token                 </name>
             <prop>
                 <colors>R</colors>
                 <type>Token Enchantment Creature — Elemental</type>
@@ -2523,7 +2522,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental                  </name>
+            <name>Elemental Token                  </name>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Elemental</type>
@@ -2538,7 +2537,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental                   </name>
+            <name>Elemental Token                   </name>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Elemental</type>
@@ -2552,7 +2551,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental                     </name>
+            <name>Elemental Token                     </name>
             <text>Trample, haste</text>
             <prop>
                 <colors>R</colors>
@@ -2571,7 +2570,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental                      </name>
+            <name>Elemental Token                      </name>
             <prop>
                 <colors>RG</colors>
                 <type>Token Creature — Elemental</type>
@@ -2585,7 +2584,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental                       </name>
+            <name>Elemental Token                       </name>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Elemental</type>
@@ -2599,7 +2598,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental                        </name>
+            <name>Elemental Token                        </name>
             <text>At the beginning of your upkeep, sacrifice this creature and return target card named Rekindling Phoenix from your graveyard to the battlefield. It gains haste until end of turn.</text>
             <prop>
                 <colors>R</colors>
@@ -2614,7 +2613,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental                         </name>
+            <name>Elemental Token                         </name>
             <text>Trample, haste</text>
             <prop>
                 <colors>R</colors>
@@ -2629,7 +2628,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental                          </name>
+            <name>Elemental Token                          </name>
             <text>Flying</text>
             <prop>
                 <colors>W</colors>
@@ -2644,7 +2643,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental                           </name>
+            <name>Elemental Token                           </name>
             <prop>
                 <colors>UR</colors>
                 <type>Token Creature — Elemental</type>
@@ -2666,7 +2665,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental                            </name>
+            <name>Elemental Token                            </name>
             <text>Trample
 This creature's power and toughness are each equal to the number of instant and sorcery cards in your graveyard plus the number of cards with flashback you own in exile.</text>
             <prop>
@@ -2682,7 +2681,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental Bird</name>
+            <name>Elemental Bird Token</name>
             <text>Flying</text>
             <prop>
                 <colors>U</colors>
@@ -2697,7 +2696,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental Cat</name>
+            <name>Elemental Cat Token</name>
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Elemental Cat</type>
@@ -2711,7 +2710,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental Shaman</name>
+            <name>Elemental Shaman Token</name>
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Elemental Shaman</type>
@@ -2729,7 +2728,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elephant</name>
+            <name>Elephant Token</name>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Elephant</type>
@@ -2767,7 +2766,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elf Druid</name>
+            <name>Elf Druid Token</name>
             <text>{T}: Add {G}.</text>
             <prop>
                 <colors>G</colors>
@@ -2782,7 +2781,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elf Knight</name>
+            <name>Elf Knight Token</name>
             <text>Vigilance</text>
             <prop>
                 <colors>GW</colors>
@@ -2800,7 +2799,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elf Warrior</name>
+            <name>Elf Warrior Token</name>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Elf Warrior</type>
@@ -2849,7 +2848,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elf Warrior </name>
+            <name>Elf Warrior Token </name>
             <prop>
                 <colors>GW</colors>
                 <type>Token Creature — Elf Warrior</type>
@@ -2878,7 +2877,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Faerie</name>
+            <name>Faerie Token</name>
             <text>Flying</text>
             <prop>
                 <colors>U</colors>
@@ -2913,7 +2912,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Faerie Rogue</name>
+            <name>Faerie Rogue Token</name>
             <text>Flying</text>
             <prop>
                 <colors>B</colors>
@@ -2931,7 +2930,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Faerie Rogue </name>
+            <name>Faerie Rogue Token </name>
             <text>Flying</text>
             <prop>
                 <colors>UB</colors>
@@ -2977,7 +2976,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Fish</name>
+            <name>Fish Token</name>
             <text>When this creature dies, create a 6/6 blue Whale creature token with "When this creature dies, create a 9/9 blue Kraken creature token."</text>
             <prop>
                 <colors>U</colors>
@@ -2989,13 +2988,13 @@ This creature's power and toughness are each equal to the number of instant and 
             <set picURL="https://media.wizards.com/2021/stx/en_ihXvFNyE8k.png">C21</set>
             <set picURL="https://media.wizards.com/2018/a25/en_0MZScjB7tc.png">A25</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/f/1f3cea7c-d092-410d-8c32-af0f4c8bc878.jpg">C14</set>
-            <related>Whale</related>
+            <related>Whale Token</related>
             <reverse-related>Reef Worm</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Food</name>
+            <name>Food Token</name>
             <text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
             <prop>
                 <cmc>0</cmc>
@@ -3039,7 +3038,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Fractal</name>
+            <name>Fractal Token</name>
             <prop>
                 <colors>GU</colors>
                 <type>Token Creature — Fractal</type>
@@ -3067,7 +3066,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Frog Lizard</name>
+            <name>Frog Lizard Token</name>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Frog Lizard</type>
@@ -3085,7 +3084,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Fungus Beast</name>
+            <name>Fungus Beast Token</name>
             <text>Trample</text>
             <prop>
                 <colors>G</colors>
@@ -8381,7 +8380,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="https://media.wizards.com/2021/stx/en_J7nvVQbZPH.png">C21</set>
             <set picURL="https://media.wizards.com/2018/a25/en_JMtRnyeKH4.png">A25</set>
             <set picURL="https://img.scryfall.com/cards/large/front/c/c/ccd172b9-377a-4dbf-a11a-e4985da62c72.jpg">C14</set>
-            <related>Kraken</related>
+            <related>Kraken Token</related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -9310,7 +9309,7 @@ Cradle of the Death God — Create The Atropal, a legendary 4/4 black God Horror
                 <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2020/m21/en_fDWMVuLd7t.png">M21</set>
-            <related>Soldier</related>
+            <related>Soldier Token</related>
             <reverse-related exclude="exclude">Basri Ket</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -9615,7 +9614,7 @@ Cradle of the Death God — Create The Atropal, a legendary 4/4 black God Horror
                 <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/e/4/e45f7850-2ebb-4530-9859-f87b4e0e27be.jpg">BNG</set>
-            <related>Kraken</related>
+            <related>Kraken Token</related>
             <reverse-related exclude="exclude">Kiora, the Crashing Wave</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
