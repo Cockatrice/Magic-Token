@@ -6690,7 +6690,7 @@ Equip {1}</text>
             <reverse-related>Benalish Commander</reverse-related>
             <reverse-related count="3">Captain of the Watch</reverse-related>
             <reverse-related count="3">Captain's Call</reverse-related>
-            <reverse-related>Darien, King of Kjeldor</reverse-related>
+            <reverse-related count="x">Darien, King of Kjeldor</reverse-related>
             <reverse-related count="x" exclude="exclude">Decree of Justice</reverse-related>
             <reverse-related count="x">Deploy to the Front</reverse-related>
             <reverse-related count="3">Elspeth Tirel</reverse-related>
