@@ -1,0 +1,49 @@
+name: Check Links
+
+on:
+  workflow_dispatch:
+  pull_request:
+    branches:
+      - master
+  push:
+    branches:
+      - master
+  schedule:
+    # Runs at the start of each month (UTC)
+    - cron: '0 0 1 * *'
+
+jobs:
+  check_urls:
+    # Do not run the scheduled workflow on forks
+    if: github.event_name != 'schedule' || github.repository_owner == 'Cockatrice'
+
+    name: Image URLs
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Install XMLStarlet
+        shell: bash
+        run: sudo apt-get install xmlstarlet 
+
+      - name: Download filiph/linkcheck tool
+        # Action is currently still at 2.0.15 and doesn't take several arguments yet needed for file input
+        run: curl -sL https://github.com/filiph/linkcheck/releases/download/2.0.20/linkcheck-2.0.20-linux-x64.tar.gz | tar xvzf - linkcheck/linkcheck --strip 1
+
+      - name: Extract URLs from tokens.xml
+        shell: bash
+        run: xmlstarlet sel -t -v "//set/@picURL" tokens.xml | tee tokens_pic_urls.txt
+
+      - name: Extract URLs from challenge_tokens.xml
+        shell: bash
+        run: xmlstarlet sel -t -v "//set/@picURL" challenge_tokens.xml | tee challenge_pic_urls.txt
+
+      - name: Check tokens.xml URLs
+        shell: bash
+        run: ./linkcheck -i tokens_pic_urls.txt
+
+      - name: Check challenge_tokens.xml URLs
+        shell: bash
+        run: ./linkcheck -i challenge_pic_urls.txt URLs
