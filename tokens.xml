@@ -6441,6 +6441,20 @@ Equip {1}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Shrine Token</name>
+            <prop>
+                <type>Token Enchantment Creature — Shrine</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL>NEO</set>
+            <reverse-related>Go-Shintai of Life's Origin</reverse-related>
+            <reverse-related count="x" exclude="exclude">Go-Shintai of Life's Origin</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Sinuous Striker (Token)</name>
             <text>{U}: Sinuous Striker gets +1/-1 until end of turn.</text>
             <prop>
@@ -7164,6 +7178,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related>Forbidden Orchard</reverse-related>
             <reverse-related>Gods' Eye, Gate to the Reikai</reverse-related>
             <reverse-related count="x">Honden of Life's Web</reverse-related>
+            <reverse-related count="x">Myojin of Blooming Dawn</reverse-related>
             <reverse-related count="4">Promise of Bunrei</reverse-related>
             <reverse-related>Sekki, Seasons' Guide</reverse-related>
             <reverse-related>Spiritual Visit</reverse-related>
@@ -7247,6 +7262,21 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related>Quintorius, Field Historian</reverse-related>
             <reverse-related>Reduce to Memory</reverse-related>
             <reverse-related>Spirit Summoning</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Spirit Token         </name>
+            <text>Menace</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Spirit</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL>NEO</set>
+            <reverse-related>Chishiro, the Shattered Blade</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7771,6 +7801,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="x">Reckless Endeavor</reverse-related>
             <reverse-related>Revel in Riches</reverse-related>
             <reverse-related count="2">Ruthless Knave</reverse-related>
+            <reverse-related count="x">Ruthless Technomancer</reverse-related>
             <reverse-related>Sailor of Means</reverse-related>
             <reverse-related>Scion of Opulence</reverse-related>
             <reverse-related count="x" exclude="exclude">Scion of Opulence</reverse-related>
