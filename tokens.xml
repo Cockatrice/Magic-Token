@@ -1576,6 +1576,22 @@ Cloud Sprite can block only creatures with flying.</text>
             </prop>
             <set picURL="https://media.wizards.com/2020/znr/en_R3g8yVJA0m.png">ZNR</set>
             <reverse-related count="x=4">Myriad Construct</reverse-related>
+            <reverse-related>Oni-Cult Anvil</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Construct Token      </name>
+            <text>Haste</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Artifact Creature — Construct</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/1</pt>
+            </prop>
+            <set picURL>NEO</set>
+            <reverse-related>Sokenzan Smelter</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -1992,6 +2008,7 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
                 <pt>5/5</pt>
             </prop>
             <set picURL="https://i.imgur.com/8wb1Y6p.jpg">CHK</set>
+            <reverse-related>Goro-Goro, Disciple of Ryusei</reverse-related>
             <reverse-related>Tatsumasa, the Dragon's Fang</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -2008,6 +2025,21 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
             </prop>
             <set picURL="https://media.wizards.com/2021/afr/en_7iaWmuoF0c.png">AFC</set>
             <reverse-related>Vrondiss, Rage of Ancients</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Dragon Spirit Token  </name>
+            <text>Flying</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Dragon Spirit</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>5/5</pt>
+            </prop>
+            <set>NEO</set>
+            <reverse-related>Goro-Goro, Disciple of Ryusei</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3460,6 +3492,22 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Goblin Shaman Token</name>
+            <text>Whenever this creature attacks, create a Treasure token.</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Goblin Shaman</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL>NEO</set>
+            <related>Treasure Token</related>
+            <reverse-related>Fable of the Mirror-Breaker</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Goblin Soldier Token</name>
             <prop>
                 <colors>RW</colors>
@@ -4086,6 +4134,22 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Human Monk Token</name>
+            <text>{T}: Add {G}.</text>
+            <prop>
+                <colors>G</colors>
+                <cmc>0</cmc>
+                <type>Token Creature — Human Monk</type>
+                <maintype>Creature</maintype>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL>NEO</set>
+            <reverse-related>Careful Cultivation</reverse-related>
+            <reverse-related>Jugan Defends the Temple</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Human Rogue Token</name>
             <text>Haste
 When this creature enters the battlefield, it deals 1 damage to any target.</text>
@@ -4606,6 +4670,21 @@ Equip {2}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Keimi</name>
+            <text>Whenever you cast an enchantment spell, each opponent loses 1 life and you gain 1 life.</text>
+            <prop>
+                <colors>BG</colors>
+                <type>Token Legendary Creature — Frog</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set picURL>NEO</set>
+            <reverse-related>Tatsunari, Toad Rider</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Kelp</name>
             <text>Defender</text>
             <prop>
@@ -5042,6 +5121,22 @@ Totem armor</text>
             <reverse-related>Estrid, the Masked</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Mechtitan</name>
+            <text>Mechtitan is all colors.
+Flying, vigilance, trample, lifelink, haste</text>
+            <prop>
+                <colors>WUBRG</colors>
+                <type>Token Legendary Artifact Creature — Construct</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>10/10</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/2/0281825d-9d38-4b56-b522-a8d3cf8c77c9.jpg?1643668066">NEO</set>
+            <reverse-related>Mechtitan Core</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
         </card>
         <card>
             <name>Merfolk Token</name>
@@ -5482,6 +5577,21 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Ninja Token</name>
+            <text>This creature can't be blocked.</text>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Ninja</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>*/*</pt>
+            </prop>
+            <set picURL>NEO</set>
+            <reverse-related>Kaito Shizuki</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Octopus Token</name>
             <prop>
                 <colors>U</colors>
@@ -5769,6 +5879,22 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Pilot Token</name>
+            <text>This creature crews Vehicles as though its power were 2 greater.</text>
+            <prop>
+                <type>Token Creature — Pilot</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL>NEO</set>
+            <reverse-related count="2">Born to Drive</reverse-related>
+            <reverse-related>Prodigy's Prototype</reverse-related>
+            <reverse-related>Reckoner Bankbuster</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Pincher Token</name>
             <prop>
                 <type>Token Creature — Pincher</type>
@@ -5949,6 +6075,20 @@ Creatures you control attach each combat if able.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Rat Rogue Token</name>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Rat Rogue</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL>NEO</set>
+            <reverse-related>Tribute to Horobi</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Reflection Token</name>
             <prop>
                 <colors>W</colors>
@@ -6079,6 +6219,26 @@ Equip {1}</text>
             <set picURL="https://media.wizards.com/2020/cmr/en_hBhTCjX7kI.png">CMR</set>
             <reverse-related>Amphin Mutineer</reverse-related>
             <reverse-related>Gor Muldrak, Amphinologist</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Samurai Token</name>
+            <text>Vigilance</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Samurai</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL>NEO</set>
+            <reverse-related>Banishing Slash</reverse-related>
+            <reverse-related count="x">Eiganjo Uprising</reverse-related>
+            <reverse-related>Experimental Synthesizer</reverse-related>
+            <reverse-related count="3">Imperial Oath</reverse-related>
+            <reverse-related count>Naomi, Pillar of Order</reverse-related>
+            <reverse-related>The Wandering Emperor</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7175,15 +7335,23 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/bQqBAcQB03_EN.png">C16</set>
             <set picURL="https://media.wizards.com/2016/adhfianalodifdj2_EMA/en_qQaHPqyjyC.png">EMA</set>
             <set picURL="https://img.scryfall.com/cards/large/front/4/6/46b60d95-b9bc-40f8-b986-bfa8e3eb74f3.jpg">CHK</set>
+            <reverse-related>Akki Ember-Keeper</reverse-related>
+            <reverse-related count="x"exclude="exclude">Akki Ember-Keeper</reverse-related>
+            <reverse-related>Architect of Restoration</reverse-related>
             <reverse-related>Baku Altar</reverse-related>
             <reverse-related count="x">Dripping-Tongue Zubera</reverse-related>
             <reverse-related>Forbidden Orchard</reverse-related>
             <reverse-related>Gods' Eye, Gate to the Reikai</reverse-related>
+            <reverse-related>Go-Shintai of Shared Purpose</reverse-related>
             <reverse-related count="x">Honden of Life's Web</reverse-related>
+            <reverse-related>Kirin-Touched Orochi</reverse-related>
             <reverse-related count="x">Myojin of Blooming Dawn</reverse-related>
             <reverse-related count="4">Promise of Bunrei</reverse-related>
+            <reverse-related>Searchlight Companion</reverse-related>
             <reverse-related>Sekki, Seasons' Guide</reverse-related>
+            <reverse-related count="2">Sokenzan, Crucible of Defiance</reverse-related>
             <reverse-related>Spiritual Visit</reverse-related>
+            <reverse-related>Teachings of the Kirin</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7269,21 +7437,6 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spirit Token         </name>
-            <text>Menace</text>
-            <prop>
-                <colors>R</colors>
-                <type>Token Creature — Spirit</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>2/2</pt>
-            </prop>
-            <set picURL>NEO</set>
-            <reverse-related>Chishiro, the Shattered Blade</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
-            <name>Spirit Token         </name>
             <text>Flying</text>
             <prop>
                 <colors>W</colors>
@@ -7294,6 +7447,50 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/6/b61e7f44-c112-4501-8850-0565fc857397.jpg?1636629873">VOW</set>
             <reverse-related>Dorothea's Retribution</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Spirit Token          </name>
+            <text>Menace</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Spirit</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL>NEO</set>
+            <reverse-related>Chishiro, the Shattered Blade</reverse-related>
+            <reverse-related>Gift of Wrath</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Spirit Token           </name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Spirit</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/5</pt>
+            </prop>
+            <set picURL>NEO</set>
+            <reverse-related count="2">Invoke the Ancients</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Spirit Token            </name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Spirit</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>*/*</pt>
+            </prop>
+            <set picURL>NEO</set>
+            <reverse-related>Kura, the Boundless Sky</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7501,6 +7698,20 @@ Equip {0}</text>
             <reverse-related>Tah-Crop Skirmisher</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Tamiyo's Notebook</name>
+            <text>Spells you cast cost {2} less to cast.
+{T}: Draw a card.</text>
+            <prop>
+                <type>Token Artifact</type>
+                <maintype>Artifact</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL>NEO</set>
+            <reverse-related>Tamiyo, Compleated Sage</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Temmet, Vizier of Naktamun (Token)</name>
@@ -7739,6 +7950,7 @@ This creature can't be enchanted.</text>
             <set picURL="https://media.wizards.com/2017/xln/en_N4n6GAhvNw_b.png">XLN</set>
             <set picURL="https://media.wizards.com/2017/xln/en_g59A1EKi9e_b.png">XLN</set>
             <reverse-related>Academy Manufactor</reverse-related>
+            <reverse-related count="3">Atsushi, the Blazing Sky</reverse-related>
             <reverse-related>Brass's Bounty</reverse-related>
             <reverse-related>Brazen Freebooter</reverse-related>
             <reverse-related count="x">Bucknard's Everfull Purse</reverse-related>
@@ -7797,10 +8009,12 @@ This creature can't be enchanted.</text>
             <reverse-related>Prosper, Tome-Bound</reverse-related>
             <reverse-related>Prosperous Innkeeper</reverse-related>
             <reverse-related count="2">Prosperous Pirates</reverse-related>
+            <reverse-related>Prosperous Thief</reverse-related>
             <reverse-related>Prying Blade</reverse-related>
             <reverse-related>Ragavan, Nimble Pilferer</reverse-related>
             <reverse-related count="2">Rapacious Dragon</reverse-related>
             <reverse-related count="x">Reckless Endeavor</reverse-related>
+            <reverse-related>Reckoner Bankbuster</reverse-related>
             <reverse-related>Revel in Riches</reverse-related>
             <reverse-related count="2">Ruthless Knave</reverse-related>
             <reverse-related count="x">Ruthless Technomancer</reverse-related>
@@ -7828,6 +8042,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="3">Treasure Map</reverse-related>
             <reverse-related count="x">Treasure Vault</reverse-related>
             <reverse-related>Trove of Temptation</reverse-related>
+            <reverse-related>Undercity Scrounger</reverse-related>
             <reverse-related count="2">Unexpected Windfall</reverse-related>
             <reverse-related>Vault Robber</reverse-related>
             <reverse-related count="x">Visions of Ruin</reverse-related>
@@ -9620,6 +9835,18 @@ Cradle of the Death God — Create The Atropal, a legendary 4/4 black God Horror
             <tablerow>1</tablerow>
         </card>
         <card>
+            <name>Kaito Shizuki (Emblem)</name>
+            <text>Whenever a creature you control deals combat damage to a player, search your library for a blue or black creature card, put it onto the battlefield, then shuffle.</text>
+            <prop>
+                <type>Emblem — Kaito</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set picURL>NEO</set>
+            <reverse-related>Kaito Shizuki</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Kaya the Inexorable (Emblem)</name>
             <text>At the beginning of your upkeep, you may cast a legendary spell from your hand, from your graveyard, or from among cards you own in exile without paying its mana cost.</text>
             <prop>
@@ -10006,6 +10233,18 @@ You draw a card during each opponent's end step.</text>
             </prop>
             <set picURL="https://img.scryfall.com/cards/large/front/f/a/faa83538-e94d-4842-ba9c-812187ecfa0b.jpg">M19</set>
             <reverse-related exclude="exclude">Tezzeret, Artifice Master</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Tezzeret, Betrayer of Flesh (Emblem)</name>
+            <text>Whenever an artifact you control becomes tapped, draw a card.</text>
+            <prop>
+                <type>Emblem — Tezzeret</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set picURL>NEO</set>
+            <reverse-related>Tezzeret, Betrayer of Flesh</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
