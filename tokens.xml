@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20211113</sourceVersion>
+        <sourceVersion>20220205</sourceVersion>
     </info>
     <cards>
         <!--
@@ -520,7 +520,7 @@ Creature tokens you control have flying and vigilance.</text>
             <set picURL="https://img.scryfall.com/cards/large/front/d/0/d02d5670-fff3-4011-8e45-e6843e4e8988.jpg">DST</set>
             <reverse-related>Beast Within</reverse-related>
             <reverse-related>Bringer of the Green Dawn</reverse-related>
-            <reverse-related count="x=0">Curious Herd</reverse-related>
+            <reverse-related count="x">Curious Herd</reverse-related>
             <reverse-related>Druid of Horns</reverse-related>
             <reverse-related>Elder Gargaroth</reverse-related>
             <reverse-related count="3">Feral Incarnation</reverse-related>
@@ -2893,7 +2893,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <reverse-related count="x=1">Faerie Formation</reverse-related>
             <reverse-related count="4">Hunted Troll</reverse-related>
             <reverse-related>Improbable Alliance</reverse-related>
-            <reverse-related count="x=0">Stolen by the Fae</reverse-related>
+            <reverse-related count="x">Stolen by the Fae</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -4463,9 +4463,9 @@ Equip {2}</text>
             <reverse-related count="5">One Dozen Eyes</reverse-related>
             <reverse-related>Saber Ants</reverse-related>
             <reverse-related>Scute Swarm</reverse-related>
-            <reverse-related count="x=0" exclude="exclude">Scute Swarm</reverse-related>
+            <reverse-related count="x" exclude="exclude">Scute Swarm</reverse-related>
             <reverse-related>Swarm Shambler</reverse-related>
-            <reverse-related count="x=0" exclude="exclude">Swarm Shambler</reverse-related>
+            <reverse-related count="x" exclude="exclude">Swarm Shambler</reverse-related>
             <reverse-related count="4">Symbiotic Beast</reverse-related>
             <reverse-related count="2">Symbiotic Elf</reverse-related>
             <reverse-related count="7">Symbiotic Wurm</reverse-related>
@@ -7896,7 +7896,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="https://media.wizards.com/2020/khm/en_DQTqsMBjEH.png">KHM</set>
             <reverse-related>Gnottvold Slumbermound</reverse-related>
             <reverse-related>Old-Growth Troll</reverse-related>
-            <reverse-related count="x=0">Waking the Trolls</reverse-related>
+            <reverse-related count="x">Waking the Trolls</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -9026,7 +9026,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="https://media.wizards.com/2020/khm/en_H2sc9VANPN.png">KHM</set>
             <reverse-related>Deathknell Berserker</reverse-related>
             <reverse-related attach="attach">Draugr's Helm</reverse-related>
-            <reverse-related count="x=0">Rise of the Dread Marn</reverse-related>
+            <reverse-related count="x">Rise of the Dread Marn</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
