@@ -1590,7 +1590,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <cmc>0</cmc>
                 <pt>3/1</pt>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related>Sokenzan Smelter</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -2038,7 +2038,7 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
-            <set>NEO</set>
+            <set picUrl="">NEO</set>
             <reverse-related>Goro-Goro, Disciple of Ryusei</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -2625,7 +2625,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set>ARC</set>
+            <set picUrl="">ARC</set>
             <reverse-related count="7" exclude="exclude">Evil Comes to Fruition</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -3501,7 +3501,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <related>Treasure Token</related>
             <reverse-related>Fable of the Mirror-Breaker</reverse-related>
             <token>1</token>
@@ -3643,7 +3643,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>4/6</pt>
             </prop>
-            <set>ARC</set>
+            <set picUrl="">ARC</set>
             <reverse-related>The Iron Guardian Stirs</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4143,7 +4143,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <maintype>Creature</maintype>
                 <pt>1/1</pt>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related>Careful Cultivation</reverse-related>
             <reverse-related>Jugan Defends the Temple</reverse-related>
             <token>1</token>
@@ -4679,7 +4679,7 @@ Equip {2}</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related>Tatsunari, Toad Rider</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5601,7 +5601,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related>Kaito Shizuki</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5902,7 +5902,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related count="2">Born to Drive</reverse-related>
             <reverse-related>Prodigy's Prototype</reverse-related>
             <reverse-related>Reckoner Bankbuster</reverse-related>
@@ -6098,7 +6098,7 @@ Creatures you control attach each combat if able.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related>Tribute to Horobi</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -6247,7 +6247,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related>Banishing Slash</reverse-related>
             <reverse-related count="x">Eiganjo Uprising</reverse-related>
             <reverse-related>Experimental Synthesizer</reverse-related>
@@ -6624,7 +6624,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related>Go-Shintai of Life's Origin</reverse-related>
             <reverse-related count="x" exclude="exclude">Go-Shintai of Life's Origin</reverse-related>
             <token>1</token>
@@ -7475,7 +7475,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related>Chishiro, the Shattered Blade</reverse-related>
             <reverse-related>Gift of Wrath</reverse-related>
             <token>1</token>
@@ -7490,7 +7490,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>4/5</pt>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related count="2">Invoke the Ancients</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7504,7 +7504,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related>Kura, the Boundless Sky</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7723,7 +7723,7 @@ Equip {0}</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related>Tamiyo, Compleated Sage</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -9856,7 +9856,7 @@ Cradle of the Death God — Create The Atropal, a legendary 4/4 black God Horror
                 <type>Emblem — Kaito</type>
                 <maintype>Emblem</maintype>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related>Kaito Shizuki</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -10258,7 +10258,7 @@ You draw a card during each opponent's end step.</text>
                 <type>Emblem — Tezzeret</type>
                 <maintype>Emblem</maintype>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related>Tezzeret, Betrayer of Flesh</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
