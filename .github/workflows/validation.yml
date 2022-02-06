@@ -61,18 +61,30 @@ jobs:
       - name: Enable problem matcher
         uses: korelstar/xmllint-problem-matcher@v1
 
-      - name: Download XSD schemes
+      - name: Download and validate XSD schema for card database v3
+        if: always()
+        id: dl_v3
         run: |
           wget https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v3/cards.xsd -O carddb-v3.xsd
+          wget https://www.w3.org/2012/04/XMLSchema.xsd
+          echo ""
+          xmllint --noout --schema XMLSchema.xsd carddb-v3.xsd
+
+      - name: Download and validate XSD schema for card database v4
+        if: always()
+        id: dl_v4
+        run: |
           wget https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd -O carddb-v4.xsd
           wget https://www.w3.org/2012/04/XMLSchema.xsd
-
-      - name: Validate XSD schemes
-        run: |
-          xmllint --noout --schema XMLSchema.xsd carddb-v3.xsd
+          echo ""
           xmllint --noout --schema XMLSchema.xsd carddb-v4.xsd
 
-      - name: Validate XML files
+      - name: Validate XML files (v3)
+        if: steps.dl_v3.outcome == 'success'
         run: |
           xmllint --noout --schema carddb-v3.xsd challenge_tokens.xml
+
+      - name: Validate XML files (v4)
+        if: steps.dl_v4.outcome == 'success'
+        run: |
           xmllint --noout --schema carddb-v4.xsd tokens.xml
