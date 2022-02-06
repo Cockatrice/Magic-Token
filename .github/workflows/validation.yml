@@ -61,30 +61,32 @@ jobs:
       - name: Enable problem matcher
         uses: korelstar/xmllint-problem-matcher@v1
 
-      - name: Download and validate XSD schema for card database v3
+      - name: Download XSD metaschema
         if: always()
-        id: dl_v3
+        id: meta
         run: |
-          wget https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v3/cards.xsd -O carddb-v3.xsd
           wget https://www.w3.org/2012/04/XMLSchema.xsd
-          echo ""
-          xmllint --noout --schema XMLSchema.xsd carddb-v3.xsd
 
       - name: Download and validate XSD schema for card database v4
         if: always()
         id: dl_v4
         run: |
-          wget https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd -O carddb-v4.xsd
-          wget https://www.w3.org/2012/04/XMLSchema.xsd
-          echo ""
-          xmllint --noout --schema XMLSchema.xsd carddb-v4.xsd
+          wget https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd -O carddb_v4.xsd
+          xmllint --noout --schema XMLSchema.xsd carddb_v4.xsd
 
-      - name: Validate XML files (v3)
-        if: steps.dl_v3.outcome == 'success'
+      - name: Download and validate XSD schema for card database v3
+        if: always()
+        id: dl_v3
         run: |
-          xmllint --noout --schema carddb-v3.xsd challenge_tokens.xml
+          wget https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v3/cards.xsd -O carddb_v3.xsd
+          xmllint --noout --schema XMLSchema.xsd carddb_v3.xsd
 
       - name: Validate XML files (v4)
         if: steps.dl_v4.outcome == 'success'
         run: |
-          xmllint --noout --schema carddb-v4.xsd tokens.xml
+          xmllint --noout --schema carddb_v4.xsd tokens.xml
+
+      - name: Validate XML files (v3)
+        if: steps.dl_v3.outcome == 'success'
+        run: |
+          xmllint --noout --schema carddb_v3.xsd challenge_tokens.xml
