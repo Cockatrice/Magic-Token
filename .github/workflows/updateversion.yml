@@ -9,8 +9,11 @@ jobs:
     if: github.event.review.state == 'approved' && ( github.event.review.author_association == 'OWNER' || github.event.review.author_association == 'MEMBER' )
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout pull request without merge
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          ref: ${{github.event.pull_request.head.sha}}
 
       - name: Update date
         shell: bash

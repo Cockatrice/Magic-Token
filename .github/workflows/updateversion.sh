@@ -3,14 +3,22 @@
 # checks for and updates the version in tokens.xml when a pull request gets
 # approved
 set -e
+git config user.name github-actions
+git config user.email github-actions@github.com
 
 # check if update needed
-git fetch --depth=1 origin master
-if git diff --quiet origin/master tokens.xml; then
+git fetch origin master
+if ! git merge origin/master; then
+  echo "failed to merge with master" >&2
+  exit 2
+elif git diff --quiet origin/master tokens.xml; then
   echo "there are no changes to tokens.xml"
   echo "no commit created"
   exit 0
 fi
+
+# reset all changes to version.txt
+git checkout origin/master version.txt
 
 # get date
 olddate="$(cat version.txt)"
@@ -25,12 +33,12 @@ if [[ $olddate =~ $date ]]; then
     # it's very unlikely we'll ever do 25 updates a day...
     if [[ $suffix == z ]]; then
       echo "SUFFIX OVERFLOW" >&2
-      exit 1
+      exit 3
     fi
     alphabet="abcdefghijklmnopqrstuvwxyz"
     for (( i=0; i<25; i++ )); do
       if [[ $suffix == "${alphabet:$i:1}" ]]; then
-        suffix="${alphabet:$i+1:1}"
+        date="$date${alphabet:$i+1:1}"
         break
       fi
     done
@@ -47,8 +55,6 @@ echo "$date" >version.txt
 # push changes
 git fetch "$REPO" "$BRANCH"
 git checkout -b pull_request
-git config user.name github-actions
-git config user.email github-actions@github.com
 git add tokens.xml version.txt
 git commit -m "update version to $date"
 git push "$REPO" "HEAD:$BRANCH"
