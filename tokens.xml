@@ -6252,7 +6252,7 @@ Equip {1}</text>
             <reverse-related count="x">Eiganjo Uprising</reverse-related>
             <reverse-related>Experimental Synthesizer</reverse-related>
             <reverse-related count="3">Imperial Oath</reverse-related>
-            <reverse-related count>Naomi, Pillar of Order</reverse-related>
+            <reverse-related>Naomi, Pillar of Order</reverse-related>
             <reverse-related>The Wandering Emperor</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7351,7 +7351,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <set picURL="https://media.wizards.com/2016/adhfianalodifdj2_EMA/en_qQaHPqyjyC.png">EMA</set>
             <set picURL="https://img.scryfall.com/cards/large/front/4/6/46b60d95-b9bc-40f8-b986-bfa8e3eb74f3.jpg">CHK</set>
             <reverse-related>Akki Ember-Keeper</reverse-related>
-            <reverse-related count="x"exclude="exclude">Akki Ember-Keeper</reverse-related>
+            <reverse-related count="x" exclude="exclude">Akki Ember-Keeper</reverse-related>
             <reverse-related>Architect of Restoration</reverse-related>
             <reverse-related>Baku Altar</reverse-related>
             <reverse-related count="x">Dripping-Tongue Zubera</reverse-related>
