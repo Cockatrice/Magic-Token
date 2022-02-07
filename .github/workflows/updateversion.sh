@@ -10,15 +10,6 @@ if git diff --quiet origin/master tokens.xml; then
   echo "there are no changes to tokens.xml"
   echo "no commit created"
   exit 0
-
-# check requirements
-elif [[ $MODIFIABLE != "true" ]]; then
-  echo "this pr doesn't allow maintainers to modify it!" >&2
-  echo "can't update the version number before merging!" >&2
-  exit 2
-elif [[ $MERGEABLE != "true" ]]; then
-  echo "this pr is not ready to be merged!" >&2
-  exit 3
 fi
 
 # get date
