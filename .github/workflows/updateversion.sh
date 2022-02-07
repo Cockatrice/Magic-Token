@@ -2,6 +2,7 @@
 
 # checks for and updates the version in tokens.xml when a pull request gets
 # approved
+set -e
 
 # check if update needed
 git fetch --depth=1 origin master
@@ -9,6 +10,15 @@ if git diff --quiet origin/master tokens.xml; then
   echo "there are no changes to tokens.xml"
   echo "no commit created"
   exit 0
+
+# check requirements
+elif [[ $MODIFIABLE != "true" ]]; then
+  echo "this pr doesn't allow maintainers to modify it!" >&2
+  echo "can't update the version number before merging!" >&2
+  exit 2
+elif [[ $MERGEABLE != "true" ]]; then
+  echo "this pr is not ready to be merged!" >&2
+  exit 3
 fi
 
 # get date
@@ -28,7 +38,7 @@ if [[ $olddate =~ $date ]]; then
     fi
     alphabet="abcdefghijklmnopqrstuvwxyz"
     for (( i=0; i<25; i++ )); do
-      if [[ $suffix == ${alphabet:$i:1} ]]; then
+      if [[ $suffix == "${alphabet:$i:1}" ]]; then
         suffix="${alphabet:$i+1:1}"
         break
       fi
@@ -44,10 +54,12 @@ sed -i "s?<sourceVersion>.*</sourceVersion>?<sourceVersion>$date</sourceVersion>
 echo "$date" >version.txt
 
 # push changes
+git fetch "$REPO" "$BRANCH"
+git checkout -b pull_request
 git config user.name github-actions
 git config user.email github-actions@github.com
 git add tokens.xml version.txt
 git commit -m "update version to $date"
-git push
-commit=$(git rev-parse HEAD)
-echo "created commit: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/commit/$commit"
+git push "$REPO" "HEAD:$BRANCH"
+commit="$(git rev-parse HEAD)"
+echo "pushed commit: $REPO_PAGE/commit/$commit"
