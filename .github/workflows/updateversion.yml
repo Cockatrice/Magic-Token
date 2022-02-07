@@ -15,9 +15,9 @@ jobs:
       - name: Update date
         shell: bash
         env:
-          MERGEABLE: ${ github.event.pull_request.mergeable }
-          MODIFIABLE: ${ github.event.pull_request.maintainer_can_modify }
-          REPO: ${ github.event.pull_request.head.repo.git_url }
-          REPO_PAGE: ${ github.event.pull_request.head.repo.svn_url }
-          BRANCH: ${ github.event.pull_request.head.ref }
+          MERGEABLE: ${{github.event.pull_request.mergeable}}
+          MODIFIABLE: ${{github.event.pull_request.maintainer_can_modify}}
+          REPO: ${{github.event.pull_request.head.repo.git_url}}
+          REPO_PAGE: ${{github.event.pull_request.head.repo.svn_url}}
+          BRANCH: ${{github.event.pull_request.head.ref}}
         run: .github/workflows/updateversion.sh
