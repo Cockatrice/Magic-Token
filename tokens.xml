@@ -8487,7 +8487,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Predator's Howl</reverse-related>
             <reverse-related count="3" exclude="exclude">Predator's Howl</reverse-related>
             <reverse-related count="2">Raised by Wolves</reverse-related>
-            <reverse-related count="2">Ranger Class</reverse-related>
+            <reverse-related>Ranger Class</reverse-related>
             <reverse-related>Silverfur Partisan</reverse-related>
             <reverse-related>Somberwald Beastmaster</reverse-related>
             <reverse-related>Sword of Body and Mind</reverse-related>
