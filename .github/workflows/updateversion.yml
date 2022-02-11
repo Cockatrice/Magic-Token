@@ -3,10 +3,26 @@ name: Update version on pr approval
 on:
   pull_request_review:
     types: [submitted]
+  issue_comment:
+    types: [created]
 
 jobs:
   update_version:
-    if: github.event.review.state == 'approved' && ( github.event.review.author_association == 'OWNER' || github.event.review.author_association == 'MEMBER' )
+    if: >
+      ( github.event_name == 'pull_request_review' &&
+        github.event.review.state == 'approved' &&
+        ( github.event.review.author_association == 'OWNER' ||
+          github.event.review.author_association == 'MEMBER'
+        ) &&
+        ! contains( github.event.review.body, '@github-actions noop' )
+      ) ||
+      ( github.event_name == 'issue_comment' &&
+        github.event.issue.pull_request &&
+        ( github.event.comment.author_association == 'OWNER' ||
+          github.event.comment.author_association == 'MEMBER'
+        ) &&
+        endsWith( github.event.comment.body, '@github-actions update version' )
+      )
     runs-on: ubuntu-latest
     steps:
       - name: Checkout pull request without merge
