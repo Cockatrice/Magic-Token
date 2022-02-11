@@ -13,7 +13,7 @@ if ! git merge origin/master; then
   exit 2
 elif git diff --quiet origin/master tokens.xml; then
   echo "there are no changes to tokens.xml"
-  echo "no commit created"
+  echo "::notice::no commit created"
   exit 0
 fi
 
@@ -53,10 +53,10 @@ sed -i "s?<sourceVersion>.*</sourceVersion>?<sourceVersion>$date</sourceVersion>
 echo "$date" >version.txt
 
 # push changes
-git fetch "$REPO" "$BRANCH"
+git fetch "$REPO_URL" "$REF"
 git checkout -b pull_request
 git add tokens.xml version.txt
 git commit -m "update version to $date"
-git push "$REPO" "HEAD:$BRANCH"
+git push "$REPO_URL" "HEAD:$REF"
 commit="$(git rev-parse HEAD)"
-echo "pushed commit: $REPO_PAGE/commit/$commit"
+echo "::notice::pushed commit: $REPO_PAGE/commit/$commit"

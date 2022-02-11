@@ -25,39 +25,42 @@ jobs:
       )
     runs-on: ubuntu-latest
     steps:
-      - name: Get ref from comment
-        if: github.event_name == 'issue_comment'
-        id: ref
+      - name: Get proper pr info
+        id: configure
         env:
-          REPO: ${{ github.repository }}
-          PR_NO: ${{ github.event.issue.number }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EVENT: ${{github.event_name}}
+          REPO: ${{github.repository}}
+          PR_NO: ${{github.event.issue.number}}
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          REPO_URL: ${{github.event.pull_request.head.repo.clone_url}}
+          REPO_PAGE: ${{github.event.pull_request.head.repo.svn_url}}
+          REF: ${{github.event.pull_request.head.ref}}
+          SHA: ${{github.event.pull_request.head.sha}}
         run: |
-          echo '${{ toJSON(github) }}'
-          ref="$(gh pr view "$PR_NO" \
-              --repo "$REPO" \
-              --json "headRefName" \
-              --jq ".headRefName")"
-          echo "::set-output name=ref::$ref"
+          if [[ $EVENT == "issue_comment" ]]; then
+            tmp="$(mktemp)"
+            gh pr view "$PR_NO" --repo "$REPO" --json >"$tmp"
+            <$tmp
+            SHA="$(jq ".head.repo.sha" "$tmp")"
+            REPO_URL="$(jq ".head.repo.clone_url" "$tmp")"
+            REPO_PAGE="$(jq ".head.repo.svn_url" "$tmp")"
+            REF="$(jq ".head.repo.ref" "$tmp")"
+          fi
+          echo "::set-output name=sha::$SHA"
+          echo "::set-output name=url::$REPO_URL"
+          echo "::set-output name=page::$REPO_PAGE"
+          echo "::set-output name=ref::$REF"
 
-      - name: Checkout pull request from comment
-        if: github.event_name == 'issue_comment'
+      - name: Checkout pull request
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
-          ref: ${{steps.ref.outputs.ref}}
-
-      - name: Checkout pull request from review
-        if: github.event_name == 'pull_request_review'
-        uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
-          ref: ${{github.event.pull_request.head.sha}}
+          ref: ${{steps.configure.outputs.sha}}
 
       - name: Update date
         shell: bash
         env:
-          REPO: ${{github.event.pull_request.head.repo.clone_url}}
-          REPO_PAGE: ${{github.event.pull_request.head.repo.svn_url}}
-          BRANCH: ${{github.event.pull_request.head.ref}}
+          REPO_URL: ${{steps.configure.outputs.url}}
+          REPO_PAGE: ${{steps.configure.outputs.page}}
+          REF: ${{steps.configure.outputs.ref}}
         run: .github/workflows/updateversion.sh
