@@ -34,21 +34,25 @@ jobs:
           REF: ${{github.event.pull_request.head.ref}}
           REPO_PAGE: ${{github.event.pull_request.head.repo.svn_url}}
           REPO_NAME: ${{github.event.pull_request.head.repo.full_name}}
+          UPSTREAM: ${{github.event.pull_request.base.repo.clone_url}}
+          LINK: ${{github.event.pull_request.html}}
         run: |
           if [[ $EVENT == "issue_comment" ]]; then
             tmp="$(mktemp)"
             api="$GITHUB_API_URL/repos/$GITHUB_REPOSITORY/pulls/$NUMBER"
-            echo "fetching head from $api"
-            gh api "$api" -q ".head" >"$tmp"
-            echo "received:"
-            jq "." "$tmp"
-            REF="$(jq -r ".ref" "$tmp")"
-            REPO_PAGE="$(jq -r ".repo.svn_url" "$tmp")"
-            REPO_NAME="$(jq -r ".repo.full_name" "$tmp")"
+            echo "fetching $api"
+            gh api "$api" >"$tmp"
+            REF="$(jq -r ".head.ref" "$tmp")"
+            REPO_PAGE="$(jq -r ".head.repo.svn_url" "$tmp")"
+            REPO_NAME="$(jq -r ".head.repo.full_name" "$tmp")"
+            UPSTREAM="$(jq -r ".base.repo.clone_url" "$tmp")"
+            LINK="${{github.event.issue.html_url}}"
           fi
+          echo "::set-output name=link::$LINK"
           echo "::set-output name=ref::$REF"
           echo "::set-output name=page::$REPO_PAGE"
           echo "::set-output name=name::$REPO_NAME"
+          echo "::set-output name=upstream::$UPSTREAM"
 
       - name: Checkout pull request
         uses: actions/checkout@v2
@@ -60,16 +64,18 @@ jobs:
       - name: Check for changes
         id: check
         shell: bash
+        env:
+          UPSTREAM: ${{steps.configure.outputs.upstream}}
+          LINK: ${{steps.configure.outputs.link}}
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git fetch origin master
-          if ! git merge origin/master; then
-            echo "failed to merge with master" >&2
+          git fetch "$UPSTREAM"
+          if ! git merge FETCH_HEAD; then
+            echo "::error::failed to merge pull request"
+            echo "::notice::you can resolve merge conflicts at $LINK/conflicts"
             exit 2
-          elif git diff --quiet origin/master tokens.xml; then
-            echo "there are no changes to tokens.xml"
-            echo "::notice::no commit created"
+          elif git diff --quiet FETCH_HEAD tokens.xml; then
             echo "::set-output name=update::false"
           else
             echo "::set-output name=update::true"
@@ -80,7 +86,7 @@ jobs:
         id: date
         shell: bash
         run: |
-          git checkout origin/master version.txt
+          git checkout FETCH_HEAD version.txt
           previous="$(<version.txt)"
           date="$(date --utc +%Y%m%d)"
           echo "it is currently $date"
@@ -129,12 +135,16 @@ jobs:
           echo "$VERSION" >version.txt
 
       - name: Push changes
-        if: steps.check.outputs.update == 'true'
         shell: bash
         env:
           REPO_PAGE: ${{steps.configure.outputs.page}}
           VERSION: ${{steps.version.outputs.version}}
         run: |
+          if git diff --quiet tokens.xml; then
+            echo "there are no changes to tokens.xml"
+            echo "::notice::no commit created"
+            exit 0
+          fi
           git add tokens.xml version.txt
           git commit -m "update version to $VERSION"
           git push
