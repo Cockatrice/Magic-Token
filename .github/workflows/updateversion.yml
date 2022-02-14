@@ -99,25 +99,26 @@ jobs:
         shell: python
         run: |
           import re
-          version = "${{steps.date.outputs.date}}"
           previous = "${{steps.date.outputs.previous}}"
-          if re.search(version, previous) is not None:
+          date = "${{steps.date.outputs.date}}"
+          version = date
+          if previous.startswith(date):
             match = re.search(r"[a-z]+", previous)
             if match is None:
               suffix = "a" # the first a is actually hidden
             else:
               suffix = match[0]
-            max = chr(ord("z") + 1)
             charlist = []
-            add = 1
-            for char in reversed(suffix):
-              nextchar = chr(ord(char) + add)
-              add = nextchar == max
-              if add:
+            rev = reversed(suffix)
+            for char in rev:
+              if char == "z":
                 charlist.append("a")
               else:
+                nextchar = chr(ord(char) + 1)
                 charlist.append(nextchar)
-            if add:
+                charlist.extend(rev)
+                break
+            else:
               charlist.append("a")
             version += "".join(reversed(charlist))
           print(f"::set-output name=version::{version}")
