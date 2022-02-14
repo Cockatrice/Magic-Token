@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20211113</sourceVersion>
+        <sourceVersion>20220205</sourceVersion>
     </info>
     <cards>
         <!--
@@ -520,7 +520,7 @@ Creature tokens you control have flying and vigilance.</text>
             <set picURL="https://img.scryfall.com/cards/large/front/d/0/d02d5670-fff3-4011-8e45-e6843e4e8988.jpg">DST</set>
             <reverse-related>Beast Within</reverse-related>
             <reverse-related>Bringer of the Green Dawn</reverse-related>
-            <reverse-related count="x=0">Curious Herd</reverse-related>
+            <reverse-related count="x">Curious Herd</reverse-related>
             <reverse-related>Druid of Horns</reverse-related>
             <reverse-related>Elder Gargaroth</reverse-related>
             <reverse-related count="3">Feral Incarnation</reverse-related>
@@ -1590,7 +1590,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <cmc>0</cmc>
                 <pt>3/1</pt>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related>Sokenzan Smelter</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -2038,7 +2038,7 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
-            <set>NEO</set>
+            <set picUrl="">NEO</set>
             <reverse-related>Goro-Goro, Disciple of Ryusei</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -2625,7 +2625,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set>ARC</set>
+            <set picUrl="">ARC</set>
             <reverse-related count="7" exclude="exclude">Evil Comes to Fruition</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -2925,7 +2925,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <reverse-related count="x=1">Faerie Formation</reverse-related>
             <reverse-related count="4">Hunted Troll</reverse-related>
             <reverse-related>Improbable Alliance</reverse-related>
-            <reverse-related count="x=0">Stolen by the Fae</reverse-related>
+            <reverse-related count="x">Stolen by the Fae</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3501,7 +3501,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <related>Treasure Token</related>
             <reverse-related>Fable of the Mirror-Breaker</reverse-related>
             <token>1</token>
@@ -3643,7 +3643,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>4/6</pt>
             </prop>
-            <set>ARC</set>
+            <set picUrl="">ARC</set>
             <reverse-related>The Iron Guardian Stirs</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4143,7 +4143,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <maintype>Creature</maintype>
                 <pt>1/1</pt>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related>Careful Cultivation</reverse-related>
             <reverse-related>Jugan Defends the Temple</reverse-related>
             <token>1</token>
@@ -4527,9 +4527,9 @@ Equip {2}</text>
             <reverse-related count="5">One Dozen Eyes</reverse-related>
             <reverse-related>Saber Ants</reverse-related>
             <reverse-related>Scute Swarm</reverse-related>
-            <reverse-related count="x=0" exclude="exclude">Scute Swarm</reverse-related>
+            <reverse-related count="x" exclude="exclude">Scute Swarm</reverse-related>
             <reverse-related>Swarm Shambler</reverse-related>
-            <reverse-related count="x=0" exclude="exclude">Swarm Shambler</reverse-related>
+            <reverse-related count="x" exclude="exclude">Swarm Shambler</reverse-related>
             <reverse-related count="4">Symbiotic Beast</reverse-related>
             <reverse-related count="2">Symbiotic Elf</reverse-related>
             <reverse-related count="7">Symbiotic Wurm</reverse-related>
@@ -4679,7 +4679,7 @@ Equip {2}</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related>Tatsunari, Toad Rider</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5498,6 +5498,21 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Mowu</name>
+            <prop>
+                <colors>G</colors>
+                <cmc>0</cmc>
+                <type>Token Legendary Creature — Dog</type>
+                <maintype>Creature</maintype>
+                <pt>3/3</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/1/b10441dd-9029-4f95-9566-d3771ebd36bd.jpg?1626729696">GS1</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/back/b/1/b10441dd-9029-4f95-9566-d3771ebd36bd.jpg?1626729696">GS1</set>
+            <reverse-related>Jiang Yanggu</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Myr Token</name>
             <prop>
                 <type>Token Artifact Creature — Myr</type>
@@ -5586,7 +5601,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related>Kaito Shizuki</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5887,7 +5902,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related count="2">Born to Drive</reverse-related>
             <reverse-related>Prodigy's Prototype</reverse-related>
             <reverse-related>Reckoner Bankbuster</reverse-related>
@@ -6083,7 +6098,7 @@ Creatures you control attach each combat if able.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related>Tribute to Horobi</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -6232,12 +6247,12 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related>Banishing Slash</reverse-related>
             <reverse-related count="x">Eiganjo Uprising</reverse-related>
             <reverse-related>Experimental Synthesizer</reverse-related>
             <reverse-related count="3">Imperial Oath</reverse-related>
-            <reverse-related count>Naomi, Pillar of Order</reverse-related>
+            <reverse-related>Naomi, Pillar of Order</reverse-related>
             <reverse-related>The Wandering Emperor</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -6609,7 +6624,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related>Go-Shintai of Life's Origin</reverse-related>
             <reverse-related count="x" exclude="exclude">Go-Shintai of Life's Origin</reverse-related>
             <token>1</token>
@@ -7336,7 +7351,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <set picURL="https://media.wizards.com/2016/adhfianalodifdj2_EMA/en_qQaHPqyjyC.png">EMA</set>
             <set picURL="https://img.scryfall.com/cards/large/front/4/6/46b60d95-b9bc-40f8-b986-bfa8e3eb74f3.jpg">CHK</set>
             <reverse-related>Akki Ember-Keeper</reverse-related>
-            <reverse-related count="x"exclude="exclude">Akki Ember-Keeper</reverse-related>
+            <reverse-related count="x" exclude="exclude">Akki Ember-Keeper</reverse-related>
             <reverse-related>Architect of Restoration</reverse-related>
             <reverse-related>Baku Altar</reverse-related>
             <reverse-related count="x">Dripping-Tongue Zubera</reverse-related>
@@ -7460,7 +7475,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related>Chishiro, the Shattered Blade</reverse-related>
             <reverse-related>Gift of Wrath</reverse-related>
             <token>1</token>
@@ -7475,7 +7490,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>4/5</pt>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related count="2">Invoke the Ancients</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7489,7 +7504,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related>Kura, the Boundless Sky</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7708,7 +7723,7 @@ Equip {0}</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related>Tamiyo, Compleated Sage</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -8142,7 +8157,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="https://media.wizards.com/2020/khm/en_DQTqsMBjEH.png">KHM</set>
             <reverse-related>Gnottvold Slumbermound</reverse-related>
             <reverse-related>Old-Growth Troll</reverse-related>
-            <reverse-related count="x=0">Waking the Trolls</reverse-related>
+            <reverse-related count="x">Waking the Trolls</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -9272,7 +9287,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="https://media.wizards.com/2020/khm/en_H2sc9VANPN.png">KHM</set>
             <reverse-related>Deathknell Berserker</reverse-related>
             <reverse-related attach="attach">Draugr's Helm</reverse-related>
-            <reverse-related count="x=0">Rise of the Dread Marn</reverse-related>
+            <reverse-related count="x">Rise of the Dread Marn</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -9841,7 +9856,7 @@ Cradle of the Death God — Create The Atropal, a legendary 4/4 black God Horror
                 <type>Emblem — Kaito</type>
                 <maintype>Emblem</maintype>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related>Kaito Shizuki</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -10243,7 +10258,7 @@ You draw a card during each opponent's end step.</text>
                 <type>Emblem — Tezzeret</type>
                 <maintype>Emblem</maintype>
             </prop>
-            <set picURL>NEO</set>
+            <set picURL="">NEO</set>
             <reverse-related>Tezzeret, Betrayer of Flesh</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
