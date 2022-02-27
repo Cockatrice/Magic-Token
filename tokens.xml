@@ -513,7 +513,6 @@ Creature tokens you control have flying and vigilance.</text>
             <set picURL="https://img.scryfall.com/cards/large/front/6/b/6b28a5db-d095-4214-ba0c-14b1aeddb1eb.jpg">DDL</set>
             <set picURL="https://img.scryfall.com/cards/large/front/c/9/c94010f1-cd4b-4f65-8a0e-2df6eec058ec.jpg">M13</set>
             <set picURL="https://img.scryfall.com/cards/large/front/3/b/3bb48d4f-e39f-4d51-9bb1-efca7dbfdc83.jpg">M12</set>
-            <set picURL="https://img.scryfall.com/cards/large/front/7/b/7b226475-c85c-4b78-9d6a-70cc9545bc31.jpg">NPH</set>
             <set picURL="https://img.scryfall.com/cards/large/front/6/6/664bd13a-80fd-4ffe-bc65-f02a7a087427.jpg">M11</set>
             <set picURL="https://img.scryfall.com/cards/large/front/4/b/4b935437-e097-466b-a9d5-6dc0dc6a10f3.jpg">M10</set>
             <set picURL="https://img.scryfall.com/cards/large/front/d/9/d98c546e-2933-4833-b47b-084db56fb5d6.jpg">DDD</set>
@@ -555,7 +554,6 @@ Creature tokens you control have flying and vigilance.</text>
             </prop>
             <set picURL="https://media.wizards.com/2021/mid/en_hkP0BThOxI.png">MID</set>
             <set picURL="https://media.wizards.com/2021/mh2/en_zHmspE134l.png">MH2</set>
-            <set picURL="https://media.wizards.com/2021/stx/en_D5eP4dV4Pk.png">C21</set>
             <set picURL="https://media.wizards.com/2020/cmr/en_ydC6yO8IO8.png">CMR</set>
             <set picURL="https://media.wizards.com/2020/iko/en_5gMrF021mE.png">C20</set>
             <set picURL="https://media.wizards.com/2019/c19/en_QkezpO7TJs.png">C19</set>
@@ -570,7 +568,6 @@ Creature tokens you control have flying and vigilance.</text>
             <reverse-related>Baloth Cage Trap</reverse-related>
             <reverse-related>Beast Attack</reverse-related>
             <reverse-related>Combine Chrysalis</reverse-related>
-            <reverse-related count="x">Ezuri's Predation</reverse-related>
             <reverse-related>Herd Baloth</reverse-related>
             <reverse-related>Hunting Pack</reverse-related>
             <reverse-related>Rampaging Baloths</reverse-related>
@@ -3153,40 +3150,6 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Phyrexian Germ Token</name>
-            <prop>
-                <colors>B</colors>
-                <type>Token Creature — Phyrexian Germ</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>0/0</pt>
-            </prop>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/d/7dfd481c-94ad-4a2e-a396-3d4a10bacc33.jpg?1644543591">NEC</set>
-            <set picURL="https://media.wizards.com/2021/mh2/en_OPidhU2PQ4.png">MH2</set>
-            <set picURL="https://media.wizards.com/2020/2xm/en_XbLXIG0896.png">2XM</set>
-            <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/byg00olvZx_EN.png">C16</set>
-            <set picURL="https://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_UF6tUBntoI.png">C15</set>
-            <set picURL="https://img.scryfall.com/cards/large/front/4/4/4414f9fa-dfda-4714-9f87-cb5e8914b07a.jpg">MM2</set>
-            <set picURL="https://img.scryfall.com/cards/large/front/e/e/eede5cf7-1c41-4523-ad27-9c232e1f2bb5.jpg">C14</set>
-            <set picURL="https://img.scryfall.com/cards/large/front/7/6/760dcba4-c0f1-4843-9c39-393c629aae8e.jpg">MBS</set>
-            <reverse-related attach="attach">Batterbone</reverse-related>
-            <reverse-related attach="attach">Batterskull</reverse-related>
-            <reverse-related attach="attach">Bonehoard</reverse-related>
-            <reverse-related attach="attach">Flayer Husk</reverse-related>
-            <reverse-related>Grip of Phyresis</reverse-related>
-            <reverse-related attach="attach">Kaldra Compleat</reverse-related>
-            <reverse-related attach="attach">Lashwrithe</reverse-related>
-            <reverse-related attach="attach">Mortarpod</reverse-related>
-            <reverse-related attach="attach">Necropouncer</reverse-related>
-            <reverse-related attach="attach">Nettlecyst</reverse-related>
-            <reverse-related attach="attach">Scytheclaw</reverse-related>
-            <reverse-related attach="attach">Sickleslicer</reverse-related>
-            <reverse-related attach="attach">Skinwing</reverse-related>
-            <reverse-related attach="attach">Strandwalker</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
             <name>Giant Token</name>
             <prop>
                 <colors>R</colors>
@@ -3360,8 +3323,6 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related>Battle Cry Goblin</reverse-related>
             <reverse-related count="2">Beetleback Chief</reverse-related>
             <reverse-related count="x">Box of Free-Range Goblins</reverse-related>
-            <reverse-related>Chancellor of the Forge</reverse-related>
-            <reverse-related count="x">Chancellor of the Forge</reverse-related>
             <reverse-related>Den of the Bugbear</reverse-related>
             <reverse-related count="2">Dragon Fodder</reverse-related>
             <reverse-related count="2">Empty the Warrens</reverse-related>
@@ -3604,28 +3565,14 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set picURL="https://media.wizards.com/2020/cmr/en_qgtC0N8hOe.png">CMR</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_KjxI26KzLw.png">2XM</set>
             <set picURL="https://media.wizards.com/2019/m20/en_EfeEwTXnO0.png">M20</set>
-            <set picURL="https://media.wizards.com/2019/mh1/en_skGeUMCHa2.png">MH1</set>
-            <set picURL="https://media.wizards.com/2017/b9jm8nwv_mm3/en_BsmvNmPP4D.png">MM3</set>
             <set picURL="https://img.scryfall.com/cards/large/front/a/e/ae65394e-0c97-4cde-8591-13d081192e26.jpg">MM2</set>
-            <set picURL="https://img.scryfall.com/cards/large/front/f/e/fe9e8d3b-ebc0-448b-bd14-a9f418e196e7.jpg">NPH</set>
             <set picURL="https://img.scryfall.com/cards/large/front/c/7/c705b843-ca62-47bb-95dd-f303c60088bb.jpg">SOM</set>
-            <reverse-related>Blade Splicer</reverse-related>
             <reverse-related>Cavalier of Dawn</reverse-related>
-            <reverse-related>Conversion Chamber</reverse-related>
             <reverse-related>Golem Foundry</reverse-related>
-            <reverse-related>Ich-Tekik, Salvage Splicer</reverse-related>
-            <reverse-related>Master Splicer</reverse-related>
             <reverse-related count="2">Masterful Replication</reverse-related>
-            <reverse-related count="2">Maul Splicer</reverse-related>
-            <reverse-related count="3">Phyrexian Triniform</reverse-related>
             <reverse-related count="2">Precursor Golem</reverse-related>
-            <reverse-related>Sensor Splicer</reverse-related>
-            <reverse-related>Splicer's Skill</reverse-related>
-            <reverse-related>Vital Splicer</reverse-related>
-            <reverse-related>Wing Splicer</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3949,7 +3896,6 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <set picURL="https://media.wizards.com/2018/c18/en_krflCNhKUy.png">C18</set>
             <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/FcpMah0evd_EN.png">C16</set>
             <set picURL="https://img.scryfall.com/cards/large/front/5/a/5a4c5954-da2b-498a-9e86-eb4d6dc95cb8.jpg">MBS</set>
-            <reverse-related>Phyrexian Rebirth</reverse-related>
             <reverse-related>Profane Transfusion</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4465,24 +4411,6 @@ Equip {2}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Insect Token</name>
-            <text>Infect</text>
-            <prop>
-                <colors>G</colors>
-                <type>Token Creature — Insect</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>1/1</pt>
-            </prop>
-            <set picURL="https://media.wizards.com/2021/mh2/en_gt4se7LqSx.png">MH2</set>
-            <set picURL="https://img.scryfall.com/cards/large/front/8/5/85f9e977-f718-41b2-b30b-77a9a17e9733.jpg">SOM</set>
-            <reverse-related count="2">Carrion Call</reverse-related>
-            <reverse-related count="x">Phyrexian Swarmlord</reverse-related>
-            <reverse-related>Trigon of Infestation</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
             <name>Insect Token </name>
             <text>Flying, deathtouch</text>
             <prop>
@@ -4628,6 +4556,7 @@ Equip {2}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2021/mh2/en_gt4se7LqSx.png">MH2</set>
             <set picURL="https://media.wizards.com/2018/grn/en_7Bx9CRd7sO.png">GRN</set>
             <reverse-related>Grist, the Hunger Tide</reverse-related>
             <reverse-related count="x">Izoni, Thousand-Eyed</reverse-related>
@@ -5206,20 +5135,6 @@ Flying, vigilance, trample, lifelink, haste</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Minion Token</name>
-            <prop>
-                <colors>B</colors>
-                <type>Token Creature — Minion</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>*/*</pt>
-            </prop>
-            <set picURL="https://img.scryfall.com/cards/large/front/a/9/a9930d11-4772-4fc2-abbd-9af0a9b23a3e.jpg">DDE</set>
-            <reverse-related>Phyrexian Processor</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
             <name>Minion Token </name>
             <prop>
                 <colors>B</colors>
@@ -5536,8 +5451,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/ZcDckQNuvU_EN.png">C16</set>
             <set picURL="https://img.scryfall.com/cards/large/front/c/1/c1a8c1a6-a88a-4b23-bd80-95769ea4917c.jpg">MM2</set>
             <set picURL="https://img.scryfall.com/cards/large/front/d/b/dbad9b20-0b13-41b9-a84a-06b691ee6c71.jpg">C14</set>
-            <set picURL="https://img.scryfall.com/cards/large/front/d/f/dfe197cf-6f36-424e-a544-cbe7a56f8a32.jpg">MD1</set>
-            <set picURL="https://img.scryfall.com/cards/large/front/5/c/5c087beb-99c0-403e-bb44-33cfc549a831.jpg">NPH</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/8/182308b3-86e0-46d8-9104-95576a3d3921.jpg">SOM</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/8/187cf6d5-c352-48f2-b8bf-fe1bf946e2ac.jpg">MRD</set>
             <reverse-related>Genesis Chamber</reverse-related>
@@ -5546,27 +5459,9 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related count="4">Myr Battlesphere</reverse-related>
             <reverse-related>Myr Incubator</reverse-related>
             <reverse-related>Myr Matrix</reverse-related>
-            <reverse-related>Myr Sire</reverse-related>
             <reverse-related>Myr Turbine</reverse-related>
             <reverse-related>Myrsmith</reverse-related>
             <reverse-related>Origin Spellbomb</reverse-related>
-            <reverse-related>Parasitic Implant</reverse-related>
-            <reverse-related count="x">Shrine of Loyal Legions</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
-            <name>Myr Token </name>
-            <prop>
-                <colors>U</colors>
-                <type>Token Artifact Creature — Myr</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>2/1</pt>
-            </prop>
-            <set picURL="https://media.wizards.com/2020/2xm/en_uuVXV4ix9e.png">2XM</set>
-            <set picURL="https://media.wizards.com/2018/c18/en_91HuVMHk2Q.png">C18</set>
-            <reverse-related>Brudiclad, Telchor Engineer</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -5898,6 +5793,219 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related>Sedgemoor Witch</reverse-related>
             <reverse-related count="x">Tend the Pests</reverse-related>
             <reverse-related>Valentin, Dean of the Vein</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Phyrexian Beast Token</name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Phyrexian Beast</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/4</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2021/stx/en_D5eP4dV4Pk.png">C21</set>
+            <reverse-related count="x">Ezuri's Predation</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Phyrexian Germ Token</name>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Phyrexian Germ</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>0/0</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/d/7dfd481c-94ad-4a2e-a396-3d4a10bacc33.jpg?1644543591">NEC</set>
+            <set picURL="https://media.wizards.com/2021/mh2/en_OPidhU2PQ4.png">MH2</set>
+            <set picURL="https://media.wizards.com/2020/2xm/en_XbLXIG0896.png">2XM</set>
+            <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/byg00olvZx_EN.png">C16</set>
+            <set picURL="https://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_UF6tUBntoI.png">C15</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/4/4/4414f9fa-dfda-4714-9f87-cb5e8914b07a.jpg">MM2</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/e/e/eede5cf7-1c41-4523-ad27-9c232e1f2bb5.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/7/6/760dcba4-c0f1-4843-9c39-393c629aae8e.jpg">MBS</set>
+            <reverse-related attach="attach">Batterbone</reverse-related>
+            <reverse-related attach="attach">Batterskull</reverse-related>
+            <reverse-related attach="attach">Bonehoard</reverse-related>
+            <reverse-related attach="attach">Flayer Husk</reverse-related>
+            <reverse-related>Grip of Phyresis</reverse-related>
+            <reverse-related attach="attach">Kaldra Compleat</reverse-related>
+            <reverse-related attach="attach">Lashwrithe</reverse-related>
+            <reverse-related attach="attach">Mortarpod</reverse-related>
+            <reverse-related attach="attach">Necropouncer</reverse-related>
+            <reverse-related attach="attach">Nettlecyst</reverse-related>
+            <reverse-related attach="attach">Scytheclaw</reverse-related>
+            <reverse-related attach="attach">Sickleslicer</reverse-related>
+            <reverse-related attach="attach">Skinwing</reverse-related>
+            <reverse-related attach="attach">Strandwalker</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Phyrexian Goblin Token</name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Phyrexian Goblin</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://img.scryfall.com/cards/large/front/f/e/feeae905-e456-4598-b3de-b339397983bf.jpg">NPH</set>
+            <reverse-related>Chancellor of the Forge</reverse-related>
+            <reverse-related count="x">Chancellor of the Forge</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Phyrexian Golem Token</name>
+            <prop>
+                <type>Token Artifact Creature — Phyrexian Golem</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/cmr/en_qgtC0N8hOe.png">CMR</set>
+            <set picURL="https://media.wizards.com/2019/mh1/en_skGeUMCHa2.png">MH1</set>
+            <set picURL="https://media.wizards.com/2017/b9jm8nwv_mm3/en_BsmvNmPP4D.png">MM3</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/f/e/fe9e8d3b-ebc0-448b-bd14-a9f418e196e7.jpg">NPH</set>
+            <reverse-related>Blade Splicer</reverse-related>
+            <reverse-related>Conversion Chamber</reverse-related>
+            <reverse-related>Ich-Tekik, Salvage Splicer</reverse-related>
+            <reverse-related>Master Splicer</reverse-related>
+            <reverse-related count="2">Maul Splicer</reverse-related>
+            <reverse-related count="3">Phyrexian Triniform</reverse-related>
+            <reverse-related>Sensor Splicer</reverse-related>
+            <reverse-related>Splicer's Skill</reverse-related>
+            <reverse-related>Vital Splicer</reverse-related>
+            <reverse-related>Wing Splicer</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Phyrexian Horror Token</name>
+            <prop>
+                <type>Token Artifact Creature — Phyrexian Horror</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>*/*</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/cmr/en_VQiXAzkmaT.png">CMR</set>
+            <set picURL="https://media.wizards.com/2019/c19/en_KYFJOiuHTJ.png">C19</set>
+            <set picURL="https://media.wizards.com/2018/c18/en_krflCNhKUy.png">C18</set>
+            <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/FcpMah0evd_EN.png">C16</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/5/a/5a4c5954-da2b-498a-9e86-eb4d6dc95cb8.jpg">MBS</set>
+            <reverse-related>Phyrexian Rebirth</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Phyrexian Insect Token</name>
+            <text>Infect</text>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Phyrexian Insect</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://img.scryfall.com/cards/large/front/8/5/85f9e977-f718-41b2-b30b-77a9a17e9733.jpg">SOM</set>
+            <reverse-related count="2">Carrion Call</reverse-related>
+            <reverse-related count="x">Phyrexian Swarmlord</reverse-related>
+            <reverse-related>Trigon of Infestation</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Phyrexian Minion Token</name>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Phyrexian Minion</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>*/*</pt>
+            </prop>
+            <set picURL="https://img.scryfall.com/cards/large/front/a/9/a9930d11-4772-4fc2-abbd-9af0a9b23a3e.jpg">DDE</set>
+            <reverse-related>Phyrexian Processor</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Phyrexian Myr Token</name>
+            <prop>
+                <type>Token Artifact Creature — Phyrexian Myr</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://img.scryfall.com/cards/large/front/d/f/dfe197cf-6f36-424e-a544-cbe7a56f8a32.jpg">MD1</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/5/c/5c087beb-99c0-403e-bb44-33cfc549a831.jpg">NPH</set>
+            <reverse-related>Myr Sire</reverse-related>
+            <reverse-related>Parasitic Implant</reverse-related>
+            <reverse-related count="x">Shrine of Loyal Legions</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Phyrexian Myr Token </name>
+            <prop>
+                <colors>U</colors>
+                <type>Token Artifact Creature — Phyrexian Myr</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_uuVXV4ix9e.png">2XM</set>
+            <set picURL="https://media.wizards.com/2018/c18/en_91HuVMHk2Q.png">C18</set>
+            <reverse-related>Brudiclad, Telchor Engineer</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Phyrexian Wurm Token</name>
+            <text>Lifelink</text>
+            <prop>
+                <type>Token Artifact Creature — Phyrexian Wurm</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_vj2z2umJ9C.png">2XM</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/c/2/c20607b9-4f4a-4dbc-a09f-250ba2d53f80.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/e/e/ee53b9a0-8e07-404d-87ae-ff8397a0ba29.jpg">SOM</set>
+            <reverse-related>Wurmcoil Engine</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Phyrexian Wurm Token </name>
+            <text>Deathtouch</text>
+            <prop>
+                <type>Token Artifact Creature — Phyrexian Wurm</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2020/2xm/en_VOExBta6Z8.png">2XM</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/1/f/1f27a3e2-bfd6-4d01-aef1-0bdb09e41ee0.jpg">C14</set>
+            <set picURL="https://img.scryfall.com/cards/large/front/3/e/3e46e703-2157-41e5-9c21-c17af43e0d3f.jpg">SOM</set>
+            <reverse-related>Wurmcoil Engine</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Phyrexian Zombie Token</name>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Phyrexian Zombie</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://img.scryfall.com/cards/large/front/4/6/46769d11-a7ae-43ac-8c00-e1681955949b.jpg">MBS</set>
+            <reverse-related>Nested Ghoul</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -8915,38 +9023,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Wurm Token </name>
-            <text>Lifelink</text>
-            <prop>
-                <type>Token Artifact Creature — Wurm</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>3/3</pt>
-            </prop>
-            <set picURL="https://media.wizards.com/2020/2xm/en_vj2z2umJ9C.png">2XM</set>
-            <set picURL="https://img.scryfall.com/cards/large/front/c/2/c20607b9-4f4a-4dbc-a09f-250ba2d53f80.jpg">C14</set>
-            <set picURL="https://img.scryfall.com/cards/large/front/e/e/ee53b9a0-8e07-404d-87ae-ff8397a0ba29.jpg">SOM</set>
-            <reverse-related>Wurmcoil Engine</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
-            <name>Wurm Token  </name>
-            <text>Deathtouch</text>
-            <prop>
-                <type>Token Artifact Creature — Wurm</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>3/3</pt>
-            </prop>
-            <set picURL="https://media.wizards.com/2020/2xm/en_VOExBta6Z8.png">2XM</set>
-            <set picURL="https://img.scryfall.com/cards/large/front/1/f/1f27a3e2-bfd6-4d01-aef1-0bdb09e41ee0.jpg">C14</set>
-            <set picURL="https://img.scryfall.com/cards/large/front/3/e/3e46e703-2157-41e5-9c21-c17af43e0d3f.jpg">SOM</set>
-            <reverse-related>Wurmcoil Engine</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
             <name>Wurm Token   </name>
             <text>Trample</text>
             <prop>
@@ -9059,7 +9135,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="https://img.scryfall.com/cards/large/front/b/8/b877c19d-6022-4377-92e7-4511e24eb98e.jpg">AVR</set>
             <set picURL="https://img.scryfall.com/cards/large/front/c/9/c9a85357-3cad-4a1e-805b-ea4146d8b05f.jpg">ISD</set>
             <set picURL="https://img.scryfall.com/cards/large/front/8/d/8db7e3f4-0153-425a-8edc-2747bbb89638.jpg">M12</set>
-            <set picURL="https://img.scryfall.com/cards/large/front/4/6/46769d11-a7ae-43ac-8c00-e1681955949b.jpg">MBS</set>
             <set picURL="https://img.scryfall.com/cards/large/front/6/b/6b365694-e056-48b9-aae3-599180c0c29c.jpg">M11</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/9/1966d7e6-cd4a-47ff-bc3e-f8e0db8a3439.jpg">M13</set>
             <set picURL="https://img.scryfall.com/cards/large/front/c/d/cd51a6b5-1165-4df6-a30d-d46c729633f7.jpg">M10</set>
@@ -9127,7 +9202,6 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Necromaster Dragon</reverse-related>
             <reverse-related count="x">Necromentia</reverse-related>
             <reverse-related count="6">Necrotic Hex</reverse-related>
-            <reverse-related>Nested Ghoul</reverse-related>
             <reverse-related>Never // Return</reverse-related>
             <reverse-related count="x">Nevinyrral, Urborg Tyrant</reverse-related>
             <reverse-related>Noosegraf Mob</reverse-related>
