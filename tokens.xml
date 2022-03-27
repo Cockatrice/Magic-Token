@@ -6885,7 +6885,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/0/01/Snake3.jpg">MED</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/0/01/Snake3.jpg">LEG</set>
             <reverse-related>Serpent Generator</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
