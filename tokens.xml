@@ -138,8 +138,8 @@
             </prop>
             <set picURL="https://media.wizards.com/2022/snc/en_kCYPFaz3D0.png">SNC</set>
             <set picURL="https://img.scryfall.com/cards/large/front/9/6/96f407ef-2b08-45e9-a45e-128cf0a63839.jpg">OGW</set>
-            <reverse-related>Linvala, the Preserver</reverse-related>
             <reverse-related count="5">Elspeth Resplendent</reverse-related>
+            <reverse-related>Linvala, the Preserver</reverse-related>
             <reverse-related count="x=3">Soul of Emancipation</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -8284,8 +8284,8 @@ This creature can't be enchanted.</text>
             <reverse-related>Forging the Tyrite Sword</reverse-related>
             <reverse-related>Forsworn Paladin</reverse-related>
             <reverse-related count="x">Gadrak, the Crown-Scourge</reverse-related>
-            <reverse-related>Galazeth Prismari</reverse-related>
             <reverse-related>Gala Greeters</reverse-related>
+            <reverse-related>Galazeth Prismari</reverse-related>
             <reverse-related>Gilded Pinions</reverse-related>
             <reverse-related>Gleaming Barrier</reverse-related>
             <reverse-related>Glittermonger</reverse-related>
