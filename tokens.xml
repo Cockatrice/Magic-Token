@@ -1391,6 +1391,7 @@ This creature can block only creatures with flying.</text>
             <reverse-related count="x">Rabble Rousing</reverse-related>
             <reverse-related>Rakish Revelers</reverse-related>
             <reverse-related>Sanctuary Warden</reverse-related>
+            <reverse-related exclude="exclude">Stimulus Package</reverse-related>
             <reverse-related count="x" exclude="exclude">Stimulus Package</reverse-related>
             <reverse-related>Warm Welcome</reverse-related>
             <token>1</token>
@@ -5646,6 +5647,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             </prop>
             <set picURL="https://media.wizards.com/2022/snc/en_KvyeDaaJ91.png">SNC</set>
             <reverse-related>Join the Maestros</reverse-related>
+            <reverse-related count="2" exclude="exclude">Join the Maestros</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
