@@ -136,8 +136,11 @@
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2022/snc/en_kCYPFaz3D0.png">SNC</set>
             <set picURL="https://img.scryfall.com/cards/large/front/9/6/96f407ef-2b08-45e9-a45e-128cf0a63839.jpg">OGW</set>
             <reverse-related>Linvala, the Preserver</reverse-related>
+            <reverse-related count="5">Elspeth Resplendent</reverse-related>
+            <reverse-related count="x=3">Soul of Emancipation</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -1175,6 +1178,21 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Cat Token      </name>
+            <text>Haste</text>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Cat</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2022/snc/en_dXZE0GeRcK.png">SNC</set>
+            <reverse-related count="x">Jinnie Fay, Jetmir's Second</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Cat Beast Token</name>
             <prop>
                 <colors>W</colors>
@@ -1349,6 +1367,32 @@ This creature can block only creatures with flying.</text>
             </prop>
             <set picURL="https://media.wizards.com/2019/war/en_LdDdsguWQD.png">WAR</set>
             <reverse-related>Planewide Celebration</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Citizen Token  </name>
+            <text></text>
+            <prop>
+                <colors>GW</colors>
+                <type>Token Creature — Citizen</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2022/snc/en_SfS0UTN94g.png">SNC</set>
+            <reverse-related count="2">Cabaretti Charm</reverse-related>
+            <reverse-related attach="attach">Citizen's Crowbar</reverse-related>
+            <reverse-related>Courier's Briefcase</reverse-related>
+            <reverse-related>Darling of the Masses</reverse-related>
+            <reverse-related>Exhibition Magician</reverse-related>
+            <reverse-related>Halo Fountain</reverse-related>
+            <reverse-related>Luxurious Libation</reverse-related>
+            <reverse-related count="x">Rabble Rousing</reverse-related>
+            <reverse-related>Rakish Revelers</reverse-related>
+            <reverse-related>Sanctuary Warden</reverse-related>
+            <reverse-related count="x" exclude="exclude">Stimulus Package</reverse-related>
+            <reverse-related>Warm Welcome</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -1713,6 +1757,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://media.wizards.com/2022/snc/en_49SZEaNNQW.png">SNC</set>
             <set picURL="https://media.wizards.com/2021/mid/en_LeP3ZuQDvl.png">MID</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/f/efbc2ca1-4aad-4dfa-9eab-e783f5802078.jpg?1626139223">AFR</set>
             <set picURL="https://media.wizards.com/2019/war/en_7jfeiDSYRB.png">WAR</set>
@@ -1720,7 +1765,10 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <reverse-related count="3">Burn Down the House</reverse-related>
             <reverse-related count="2">Dance with Devils</reverse-related>
             <reverse-related count="4">Devils' Playground</reverse-related>
+            <reverse-related>Maestros Diabolist</reverse-related>
             <reverse-related>Make Mischief</reverse-related>
+            <reverse-related>Ob Nixilis, the Adversary</reverse-related>
+            <reverse-related>Pugnacious Pugilist</reverse-related>
             <reverse-related>Tibalt, Rakish Instigator</reverse-related>
             <reverse-related>Zariel, Archduke of Avernus</reverse-related>
             <reverse-related>Zurzoth, Chaos Rider</reverse-related>
@@ -1834,6 +1882,21 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <set picURL="https://media.wizards.com/2020/m21/en_Rc1778MsPh.png">M21</set>
             <reverse-related>Release the Dogs</reverse-related>
             <reverse-related>Rin and Seri, Inseparable</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Dog Token </name>
+            <text>Vigilance</text>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Dog</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2022/snc/en_xp0Xv4ZGCU.png">SNC</set>
+            <reverse-related count="x" exclude="exclude">Jinnie Fay, Jetmir's Second</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3025,6 +3088,24 @@ This creature's power and toughness are each equal to the number of instant and 
             <set picURL="https://img.scryfall.com/cards/large/front/1/f/1f3cea7c-d092-410d-8c32-af0f4c8bc878.jpg">C14</set>
             <related>Whale Token</related>
             <reverse-related>Reef Worm</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Fish Token </name>
+            <text>This creature can't be blocked.</text>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Fish</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2022/snc/en_T2LIIZzeQY.png">SNC</set>
+            <reverse-related count="2">Exotic Pets</reverse-related>
+            <reverse-related>Expendable Lackey</reverse-related>
+            <reverse-related>Reservoir Kraken</reverse-related>
+            <reverse-related>Sleep with the Fishes</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -5554,6 +5635,21 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Ogre Warrior Token</name>
+            <text></text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Ogre Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/3</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2022/snc/en_KvyeDaaJ91.png">SNC</set>
+            <reverse-related>Join the Maestros</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Oketra's Attendant (Token)</name>
             <text>Flying</text>
             <prop>
@@ -6312,6 +6408,23 @@ Creatures you control attach each combat if able.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Rhino Warrior Token</name>
+            <text></text>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Rhino Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/4</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2022/snc/en_PJjrXKb9gs.png">SNC</set>
+            <reverse-related>Titan of Industry</reverse-related>
+            <reverse-related>Vivien on the Hunt</reverse-related>
+            <reverse-related>Workshop Warchief</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Rock</name>
             <text>Equipped creature has "{1}, {T}, Sacrifice Rock: This creature deals 2 damage to any target."
 Equip {1}</text>
@@ -6324,6 +6437,21 @@ Equip {1}</text>
             <reverse-related>Toggo, Goblin Weaponsmith</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Rogue Token</name>
+            <text></text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Rogue</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2022/snc/en_ijjKrtkRr2.png">SNC</set>
+            <reverse-related>Girder Goons</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
         </card>
         <card>
             <name>Sacred Cat (Token)</name>
@@ -7648,6 +7776,21 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Spirit Token             </name>
+            <text>Flying</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Spirit</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2022/snc/en_MGS0lEUbfF.png">SNC</set>
+            <reverse-related>Obscura Ascendancy</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Spirit Cleric Token</name>
             <text>This creature's power and toughness are each equal to the number of Spirits you control.</text>
             <prop>
@@ -8087,6 +8230,11 @@ This creature can't be enchanted.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://media.wizards.com/2022/snc/en_hLVcbOyxF3.png">SNC</set>
+            <set picURL="https://media.wizards.com/2022/snc/en_XHQoWUdbKk.png">SNC</set>
+            <set picURL="https://media.wizards.com/2022/snc/en_u1BnldwqLg.png">SNC</set>
+            <set picURL="https://media.wizards.com/2022/snc/en_5j7mwsCJD8.png">SNC</set>
+            <set picURL="https://media.wizards.com/2022/snc/en_AXaJsB76gI.png">SNC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/9/6911181d-573b-41eb-96a4-799c96e008fc.jpg?1644542893">NEO</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/a/0a89fdcf-0672-4241-834f-5db2c861694d.jpg?1636630296">VOW</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/3/a3a684b7-27e0-4d9e-a064-9e03c6e50c89.jpg?1626139418">AFR</set>
@@ -8106,11 +8254,16 @@ This creature can't be enchanted.</text>
             <set picURL="https://media.wizards.com/2017/xln/en_N4n6GAhvNw_b.png">XLN</set>
             <set picURL="https://media.wizards.com/2017/xln/en_g59A1EKi9e_b.png">XLN</set>
             <reverse-related>Academy Manufactor</reverse-related>
+            <reverse-related count="2">An Offer You Can't Refuse</reverse-related>
             <reverse-related count="3">Atsushi, the Blazing Sky</reverse-related>
+            <reverse-related count="2">Big Score</reverse-related>
+            <reverse-related>Black Market Tycoon</reverse-related>
+            <reverse-related count="x">Bootleggers' Stash</reverse-related>
             <reverse-related>Brass's Bounty</reverse-related>
             <reverse-related>Brazen Freebooter</reverse-related>
             <reverse-related count="x">Bucknard's Everfull Purse</reverse-related>
             <reverse-related>Burdened Aerialist</reverse-related>
+            <reverse-related>Buy Your Silence</reverse-related>
             <reverse-related>Captain Lannery Storm</reverse-related>
             <reverse-related count="2">Contract Killing</reverse-related>
             <reverse-related>Corsair Captain</reverse-related>
@@ -8124,19 +8277,26 @@ This creature can't be enchanted.</text>
             <reverse-related count="x=0">Dockside Extortionist</reverse-related>
             <reverse-related exclude="exclude">Elemental Masterpiece</reverse-related>
             <reverse-related count="2">Excavation Technique</reverse-related>
+            <reverse-related exclude="exclude">Exhibition Magician</reverse-related>
             <reverse-related>Fae Offering</reverse-related>
             <reverse-related>Fain, the Broker</reverse-related>
+            <reverse-related>Fake Your Own Death</reverse-related>
             <reverse-related>Forging the Tyrite Sword</reverse-related>
             <reverse-related>Forsworn Paladin</reverse-related>
             <reverse-related count="x">Gadrak, the Crown-Scourge</reverse-related>
             <reverse-related>Galazeth Prismari</reverse-related>
+            <reverse-related>Gala Greeters</reverse-related>
+            <reverse-related>Gilded Pinions</reverse-related>
             <reverse-related>Gleaming Barrier</reverse-related>
+            <reverse-related>Glittermonger</reverse-related>
             <reverse-related>Goldspan Dragon</reverse-related>
             <reverse-related>Goldvein Pick</reverse-related>
             <reverse-related>Grim Bounty</reverse-related>
             <reverse-related count="2">Grim Hireling</reverse-related>
+            <reverse-related>Halo Scarab</reverse-related>
             <reverse-related>Heartless Pillage</reverse-related>
             <reverse-related>Herald of Hadar</reverse-related>
+            <reverse-related count="x">Hoard Hauler</reverse-related>
             <reverse-related>Hoard Robber</reverse-related>
             <reverse-related count="x">Hoarding Ogre</reverse-related>
             <reverse-related>Hornswoggle</reverse-related>
@@ -8146,7 +8306,9 @@ This creature can't be enchanted.</text>
             <reverse-related>Impulsive Pilferer</reverse-related>
             <reverse-related count="2">Ingenious Mastery</reverse-related>
             <reverse-related>Instrument of the Bards</reverse-related>
+            <reverse-related>Involuntary Employment</reverse-related>
             <reverse-related>Jewel-Eyed Cobra</reverse-related>
+            <reverse-related>Jewel Thief</reverse-related>
             <reverse-related>Kalain, Reclusive Painter</reverse-related>
             <reverse-related>Magda, Brazen Outlaw</reverse-related>
             <reverse-related count="x=1" exclude="exclude">Magda, Brazen Outlaw</reverse-related>
@@ -8154,7 +8316,9 @@ This creature can't be enchanted.</text>
             <reverse-related>Malcolm, Keen-Eyed Navigator</reverse-related>
             <reverse-related count="x" exclude="exclude">Malcolm, Keen-Eyed Navigator</reverse-related>
             <reverse-related>Monologue Tax</reverse-related>
+            <reverse-related count="2">Most Wanted</reverse-related>
             <reverse-related count="x=1">Negan, The Cold-Blooded</reverse-related>
+            <reverse-related count="x">Ognis, the Dragon's Lash</reverse-related>
             <reverse-related count="x">Old Gnawbone</reverse-related>
             <reverse-related>Old Rutstein</reverse-related>
             <reverse-related count="2">Pirate's Pillage</reverse-related>
@@ -8162,6 +8326,8 @@ This creature can't be enchanted.</text>
             <reverse-related>Pitiless Plunderer</reverse-related>
             <reverse-related>Plundering Barbarian</reverse-related>
             <reverse-related>Prismari Command</reverse-related>
+            <reverse-related>Prizefight</reverse-related>
+            <reverse-related>Professional Face-Breaker</reverse-related>
             <reverse-related>Prosper, Tome-Bound</reverse-related>
             <reverse-related>Prosperous Innkeeper</reverse-related>
             <reverse-related count="2">Prosperous Pirates</reverse-related>
@@ -8172,6 +8338,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="x">Reckless Endeavor</reverse-related>
             <reverse-related>Reckoner Bankbuster</reverse-related>
             <reverse-related>Revel in Riches</reverse-related>
+            <reverse-related>Riveteers Requisitioner</reverse-related>
             <reverse-related count="2">Ruthless Knave</reverse-related>
             <reverse-related count="x">Ruthless Technomancer</reverse-related>
             <reverse-related>Sailor of Means</reverse-related>
@@ -8185,6 +8352,8 @@ This creature can't be enchanted.</text>
             <reverse-related>Smothering Tithe</reverse-related>
             <reverse-related count="x">Spell Swindle</reverse-related>
             <reverse-related>Spiked Pit Trap</reverse-related>
+            <reverse-related>Sticky Fingers</reverse-related>
+            <reverse-related count="2">Stimulus Package</reverse-related>
             <reverse-related>Storm the Vault</reverse-related>
             <reverse-related>Storm-Kiln Artist</reverse-related>
             <reverse-related>Strike It Rich</reverse-related>
@@ -8204,9 +8373,11 @@ This creature can't be enchanted.</text>
             <reverse-related count="x">Visions of Ruin</reverse-related>
             <reverse-related>Vraska, Relic Seeker</reverse-related>
             <reverse-related count="2">Wanted Scoundrels</reverse-related>
+            <reverse-related>Widespread Thieving</reverse-related>
             <reverse-related>Wily Goblin</reverse-related>
             <reverse-related count="x">Xorn</reverse-related>
             <reverse-related>You Find a Cursed Idol</reverse-related>
+            <reverse-related count="3">Ziatora, the Incinerator</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -8815,6 +8986,21 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             </prop>
             <set picURL="https://media.wizards.com/2019/war/en_kBbazARQoi.png">WAR</set>
             <reverse-related>Kasmina, Enigmatic Mentor</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Wizard Token </name>
+            <text>{1}, Sacrifice this creature: Counter target noncreature spell unless its controller pays {1}.</text>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Wizard</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://media.wizards.com/2022/snc/en_DQYMfBfse7.png">SNC</set>
+            <reverse-related>Mage's Attendant</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -10935,6 +11121,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>Token</type>
                 <maintype>Token</maintype>
             </prop>
+            <set picURL="https://media.wizards.com/2022/snc/en_BBFTyBh4yW.png">SNC</set>
             <set picURL="https://media.wizards.com/2021/stx/en_mYnFHwNAcP.png">C21</set>
             <set picURL="https://media.wizards.com/2020/cmr/en_8snBP6BZb7.png">CMR</set>
             <set picURL="https://media.wizards.com/2020/znr/en_6X7SyYWItg.png">ZNR</set>
