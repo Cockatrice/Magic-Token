@@ -38,18 +38,19 @@ jobs:
         shell: bash
         run: xmlstarlet sel -t -v "//set/@picURL" tokens.xml | tee tokens_pic_urls.txt
 
-      - name: Extract URLs from challenge_tokens.xml
-        if: always()
-        id: challenge_tokens
-        shell: bash
-        run: xmlstarlet sel -t -v "//set/@picURL" challenge_tokens.xml | tee challenge_pic_urls.txt
+# All links in that file are currently broken, see https://github.com/Cockatrice/Magic-Token/issues/47
+#      - name: Extract URLs from challenge_tokens.xml
+#        if: always()
+#        id: challenge_tokens
+#        shell: bash
+#        run: xmlstarlet sel -t -v "//set/@picURL" challenge_tokens.xml | tee challenge_pic_urls.txt
 
       - name: Check tokens.xml URLs
         if: steps.tokens.outcome == 'success'
         shell: bash
         run: ./linkcheck -i tokens_pic_urls.txt
 
-      - name: Check challenge_tokens.xml URLs
-        if: steps.challenge_tokens.outcome == 'success'
-        shell: bash
-        run: ./linkcheck -i challenge_pic_urls.txt URLs
+#      - name: Check challenge_tokens.xml URLs
+#        if: steps.challenge_tokens.outcome == 'success'
+#        shell: bash
+#        run: ./linkcheck -i challenge_pic_urls.txt URLs
