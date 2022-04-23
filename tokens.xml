@@ -1392,7 +1392,6 @@ This creature can block only creatures with flying.</text>
             <reverse-related>Rakish Revelers</reverse-related>
             <reverse-related>Sanctuary Warden</reverse-related>
             <reverse-related exclude="exclude">Stimulus Package</reverse-related>
-            <reverse-related count="x" exclude="exclude">Stimulus Package</reverse-related>
             <reverse-related>Warm Welcome</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
