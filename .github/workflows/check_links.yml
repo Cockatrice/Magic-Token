@@ -28,18 +28,15 @@ jobs:
         shell: bash
         run: sudo apt-get install xmlstarlet 
 
-      - name: Download filiph/linkcheck tool
-        # Action is currently still at 2.0.15 and doesn't take several arguments yet needed for file input
-        run: curl -sL https://github.com/filiph/linkcheck/releases/download/2.0.20/linkcheck-2.0.20-linux-x64.tar.gz | tar xvzf - linkcheck/linkcheck --strip 1
-
       - name: Extract URLs from tokens.xml
         if: always()
         id: tokens
         shell: bash
         run: xmlstarlet sel -t -v "//set/@picURL" tokens.xml | tee tokens_pic_urls.txt
 
-      # all links are currently broken there, see https://github.com/Cockatrice/Magic-Token/issues/47
       - name: Extract URLs from challenge_tokens.xml
+        # Forcefully skipping, see https://github.com/Cockatrice/Magic-Token/issues/47
+        # if: always()
         if: false
         id: challenge_tokens
         shell: bash
@@ -47,11 +44,14 @@ jobs:
 
       - name: Check tokens.xml URLs
         if: steps.tokens.outcome == 'success'
-        shell: bash
-        run: ./linkcheck -i tokens_pic_urls.txt
+        uses: filiph/linkcheck@2.0.20
+        with:
+          arguments: '-i tokens_pic_urls.txt'
 
-      # forcefully skipping
       - name: Check challenge_tokens.xml URLs
+        # Forcefully skipping, see https://github.com/Cockatrice/Magic-Token/issues/47
+        # if: steps.challenge_tokens.outcome == 'success'
         if: false
-        shell: bash
-        run: ./linkcheck -i challenge_pic_urls.txt URLs
+        uses: filiph/linkcheck@2.0.20
+        with:
+          arguments: '-i challenge_pic_urls.txt'
