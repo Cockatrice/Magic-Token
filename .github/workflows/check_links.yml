@@ -43,15 +43,15 @@ jobs:
         run: xmlstarlet sel -t -v "//set/@picURL" challenge_tokens.xml | tee challenge_pic_urls.txt
 
       - name: Check tokens.xml URLs
-        if: steps.tokens.outcome == 'success'
         uses: filiph/linkcheck@2.0.20
+        if: steps.tokens.outcome == 'success'
         with:
           arguments: '-i tokens_pic_urls.txt'
 
       - name: Check challenge_tokens.xml URLs
+        uses: filiph/linkcheck@2.0.20
         # Forcefully skipping, see https://github.com/Cockatrice/Magic-Token/issues/47
         # if: steps.challenge_tokens.outcome == 'success'
         if: false
-        uses: filiph/linkcheck@2.0.20
         with:
           arguments: '-i challenge_pic_urls.txt'
