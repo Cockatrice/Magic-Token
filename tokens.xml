@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20220423</sourceVersion>
+        <sourceVersion>20220428</sourceVersion>
     </info>
     <cards>
         <!--
@@ -5583,7 +5583,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <type>Token Creature — Ninja</type>
                 <maintype>Creature</maintype>
                 <cmc>0</cmc>
-                <pt>*/*</pt>
+                <pt>1/1</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/4/14eb629e-f09f-4deb-b434-7615a3010a4d.jpg?1644542606">NEO</set>
             <reverse-related>Kaito Shizuki</reverse-related>
