@@ -1,10 +1,17 @@
 name: Update version on pr approval
 
+# Usage of this automated version bump workflow
+#
+# If there is a new PR with valid changes and additions, there are two ways to let the CI run before merging:
+#  a) Approve the changes via the PR review feature.
+#     In case you want to approve the PR, but need to skip the version update, let the bot know. ("@github-actions :x:")
+#  b) Since PR creators can not approve their own changes, they need to add a review comment requesting the bot. ("@github-actions :ship:")
+#
+# Note: Only repo members can trigger this.
+
 on:
   pull_request_review:
     types: [submitted]
-  issue_comment:
-    types: [created]
 
 jobs:
   update_version:
@@ -14,14 +21,13 @@ jobs:
         ( github.event.review.author_association == 'OWNER' ||
           github.event.review.author_association == 'MEMBER'
         ) &&
-        ! contains( github.event.review.body, '@github-actions noop' )
+        ! contains( github.event.review.body, '@github-actions :x:' )
       ) ||
-      ( github.event_name == 'issue_comment' &&
-        github.event.issue.pull_request &&
-        ( github.event.comment.author_association == 'OWNER' ||
-          github.event.comment.author_association == 'MEMBER'
+      ( github.event_name == 'pull_request_review' &&
+        ( github.event.review.author_association == 'OWNER' ||
+          github.event.review.author_association == 'MEMBER'
         ) &&
-        endsWith( github.event.comment.body, '@github-actions update version' )
+        contains( github.event.review.body, '@github-actions :ship:' )
       )
     runs-on: ubuntu-latest
     steps:
