@@ -12,8 +12,6 @@ name: Update version on pr approval
 on:
   pull_request_review:
     types: [submitted]
-  pull_request_review_comment:
-    types: [created]
 
 jobs:
   update_version:
@@ -25,7 +23,7 @@ jobs:
         ) &&
         ! contains( github.event.review.body, '@github-actions :x:' )
       ) ||
-      ( github.event_name == 'pull_request_review_comment' &&
+      ( github.event_name == 'pull_request_review' &&
         ( github.event.review.author_association == 'OWNER' ||
           github.event.review.author_association == 'MEMBER'
         ) &&
