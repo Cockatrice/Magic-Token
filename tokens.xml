@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20220428</sourceVersion>
+        <sourceVersion>20220509</sourceVersion>
     </info>
     <cards>
         <!--
@@ -7058,7 +7058,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://media-dominaria.cursecdn.com/attachments/113/426/635201279747658553.jpg">C13</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/3/13e4832d-8530-4b85-b738-51d0c18f28ec.jpg?1630007268">C13</set>
             <reverse-related>Ophiomancer</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7073,7 +7073,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://img.scryfall.com/cards/large/front/6/a/6aaa8539-8d21-4da1-8410-d4354078390f.jpg">AKH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/a/6aaa8539-8d21-4da1-8410-d4354078390f.jpg?1562844799">AKH</set>
             <reverse-related>Hapatra, Vizier of Poisons</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
