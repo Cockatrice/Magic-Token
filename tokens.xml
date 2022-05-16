@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20220509</sourceVersion>
+        <sourceVersion>20220516</sourceVersion>
     </info>
     <cards>
         <!--
@@ -7058,7 +7058,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/3/13e4832d-8530-4b85-b738-51d0c18f28ec.jpg?1630007268">C13</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/3/13e4832d-8530-4b85-b738-51d0c18f28ec.jpg?1630007268">CC2</set>
             <reverse-related>Ophiomancer</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
