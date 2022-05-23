@@ -1011,6 +1011,7 @@ This creature can block only creatures with flying.</text>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/4/c49e8e79-8673-41c2-a1ad-273c37e27aca.jpg?1625767076">AFR</set>
+            <reverse-related>Minsc & Boo, Timeless Heroes</reverse-related>
             <reverse-related>Minsc, Beloved Ranger</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -1619,6 +1620,7 @@ Cloud Sprite can block only creatures with flying.</text>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/7/2770f887-7e96-44d1-864a-8c0504a39785.jpg?1644542778">NEO</set>
             <set picURL="https://media.wizards.com/2020/znr/en_R3g8yVJA0m.png">ZNR</set>
+            <reverse-related count="2">Jan Jansen, Chaos Crafter</reverse-related>
             <reverse-related count="x=4">Myriad Construct</reverse-related>
             <reverse-related>Oni-Cult Anvil</reverse-related>
             <token>1</token>
@@ -1719,6 +1721,20 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Demon Token   </name>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Demon</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set>CLB</set>
+            <reverse-related>Tasha, the Witch Queen</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Demon Berserker Token</name>
             <text>Menace</text>
             <prop>
@@ -1769,6 +1785,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <reverse-related>Make Mischief</reverse-related>
             <reverse-related>Ob Nixilis, the Adversary</reverse-related>
             <reverse-related>Pugnacious Pugilist</reverse-related>
+            <reverse-related>Raphael, Fiendish Savior</reverse-related>
             <reverse-related>Tibalt, Rakish Instigator</reverse-related>
             <reverse-related>Zariel, Archduke of Avernus</reverse-related>
             <reverse-related>Zurzoth, Chaos Rider</reverse-related>
@@ -1968,6 +1985,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <set picURL="https://img.scryfall.com/cards/large/front/c/b/cbb3e91d-9cae-49c8-ba92-087ad8171b9d.jpg">ALA</set>
             <reverse-related>Broodmate Dragon</reverse-related>
             <reverse-related count="x">Descent of the Dragons</reverse-related>
+            <reverse-related>Dragon Cultist</reverse-related>
             <reverse-related>Dragon Whisperer</reverse-related>
             <reverse-related>Sarkhan the Masterless</reverse-related>
             <reverse-related>Sarkhan Unbroken</reverse-related>
@@ -3005,7 +3023,9 @@ This creature's power and toughness are each equal to the number of instant and 
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/8/78eb6e0c-3630-46bf-b124-1ff2ddddf63e.jpg?1626139073">AFR</set>
+            <reverse-related count="x">Elminster</reverse-related>
             <reverse-related>Feywild Trickster</reverse-related>
+            <reverse-related>Feywild Visitor</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -4776,6 +4796,7 @@ Equip {2}</text>
             <reverse-related count="x=1">Silverwing Squadron</reverse-related>
             <reverse-related>Sunspire Gatekeepers</reverse-related>
             <reverse-related>The Circle of Loyalty</reverse-related>
+            <reverse-related>The Council of Four</reverse-related>
             <reverse-related>Trostani's Summoner</reverse-related>
             <reverse-related count="x">Valiant Endeavor</reverse-related>
             <reverse-related>Valorous Steed</reverse-related>
@@ -6253,6 +6274,20 @@ Creatures you control attach each combat if able.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Rabbit Token</name>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Rabbit</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set>CLB</set>
+            <reverse-related count="x">Cadira, Caller of the Small</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Ragavan</name>
             <prop>
                 <colors>R</colors>
@@ -6927,6 +6962,21 @@ Equip {1}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Skeleton Token  </name>
+            <text>Menace</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Skeleton</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/1</pt>
+            </prop>
+            <set>CLB</set>
+            <reverse-related>"Gut, Drunk on Kool-Aid" (scryfall placeholder name)</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Sliver Token</name>
             <prop>
                 <type>Token Creature — Sliver</type>
@@ -7134,6 +7184,7 @@ Equip {1}</text>
             <set picURL="https://img.scryfall.com/cards/large/front/c/8/c848b20e-a99c-445e-bf27-45a8e65a50d2.jpg">DDF</set>
             <set picURL="https://img.scryfall.com/cards/large/front/c/8/c8ae31d1-9a6e-43f3-9b04-bd15699f73d6.jpg">10E</set>
             <set picURL="https://img.scryfall.com/cards/large/front/5/b/5b953ca2-5be4-4c6a-a0fd-b53219ca6341.jpg">ONS</set>
+            <reverse-related count="x">Abdel Adrian, Gorion's Ward</reverse-related>
             <reverse-related>Akroan Horse</reverse-related>
             <reverse-related count="x">Alliance of Arms</reverse-related>
             <reverse-related attach="attach">Ancestral Blade</reverse-related>
@@ -7179,6 +7230,7 @@ Equip {1}</text>
             <reverse-related>Throne of Empires</reverse-related>
             <reverse-related count="5" exclude="exclude">Throne of Empires</reverse-related>
             <reverse-related count="3">Timely Reinforcements</reverse-related>
+            <reverse-related>Veteran Soldier</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7874,6 +7926,7 @@ Cumulative upkeep {G}</text>
             <reverse-related>Chatterstorm</reverse-related>
             <reverse-related>Chittering Doom</reverse-related>
             <reverse-related>Chitterspitter</reverse-related>
+            <reverse-related count="2">Cloakwood Hermit</reverse-related>
             <reverse-related count="4">Deep Forest Hermit</reverse-related>
             <reverse-related count="4">Deranged Hermit</reverse-related>
             <reverse-related count="2">Drey Keeper</reverse-related>
@@ -8257,8 +8310,10 @@ This creature can't be enchanted.</text>
             <reverse-related>Academy Manufactor</reverse-related>
             <reverse-related count="2">An Offer You Can't Refuse</reverse-related>
             <reverse-related count="3">Atsushi, the Blazing Sky</reverse-related>
+            <reverse-related>Battle Angels of Tyr</reverse-related>
             <reverse-related count="2">Big Score</reverse-related>
             <reverse-related>Black Market Tycoon</reverse-related>
+            <reverse-related count="x">Blood Money</reverse-related>
             <reverse-related count="x">Bootleggers' Stash</reverse-related>
             <reverse-related>Brass's Bounty</reverse-related>
             <reverse-related>Brazen Freebooter</reverse-related>
@@ -8274,8 +8329,10 @@ This creature can't be enchanted.</text>
             <reverse-related>Deadeye Plunderers</reverse-related>
             <reverse-related>Deadly Dispute</reverse-related>
             <reverse-related>Depths of Desire</reverse-related>
+            <reverse-related count="x">Descent into Avernus</reverse-related>
             <reverse-related>Dire Fleet Hoarder</reverse-related>
             <reverse-related count="x=0">Dockside Extortionist</reverse-related>
+            <reverse-related>Dungeoneer's Pack</reverse-related>
             <reverse-related exclude="exclude">Elemental Masterpiece</reverse-related>
             <reverse-related count="2">Excavation Technique</reverse-related>
             <reverse-related exclude="exclude">Exhibition Magician</reverse-related>
@@ -8287,13 +8344,16 @@ This creature can't be enchanted.</text>
             <reverse-related count="x">Gadrak, the Crown-Scourge</reverse-related>
             <reverse-related>Gala Greeters</reverse-related>
             <reverse-related>Galazeth Prismari</reverse-related>
+            <reverse-related count="1">Ganax, Hunter of Stars</reverse-related>
             <reverse-related>Gilded Pinions</reverse-related>
             <reverse-related>Gleaming Barrier</reverse-related>
             <reverse-related>Glittermonger</reverse-related>
+            <reverse-related count="x=2">Gluntch, the Bestower</reverse-related>
             <reverse-related>Goldspan Dragon</reverse-related>
             <reverse-related>Goldvein Pick</reverse-related>
             <reverse-related>Grim Bounty</reverse-related>
             <reverse-related count="2">Grim Hireling</reverse-related>
+            <reverse-related count="2">Guild Artisan</reverse-related>
             <reverse-related>Halo Scarab</reverse-related>
             <reverse-related>Heartless Pillage</reverse-related>
             <reverse-related>Herald of Hadar</reverse-related>
@@ -8308,17 +8368,20 @@ This creature can't be enchanted.</text>
             <reverse-related count="2">Ingenious Mastery</reverse-related>
             <reverse-related>Instrument of the Bards</reverse-related>
             <reverse-related>Involuntary Employment</reverse-related>
+            <reverse-related count="2">Jan Jansen, Chaos Crafter</reverse-related>
             <reverse-related>Jewel Thief</reverse-related>
             <reverse-related>Jewel-Eyed Cobra</reverse-related>
             <reverse-related>Kalain, Reclusive Painter</reverse-related>
             <reverse-related>Magda, Brazen Outlaw</reverse-related>
             <reverse-related count="x=1" exclude="exclude">Magda, Brazen Outlaw</reverse-related>
             <reverse-related exclude="exclude">Magma Opus</reverse-related>
+            <reverse-related count="x">Mahadi, Emporium Master</reverse-related>
             <reverse-related>Malcolm, Keen-Eyed Navigator</reverse-related>
             <reverse-related count="x" exclude="exclude">Malcolm, Keen-Eyed Navigator</reverse-related>
             <reverse-related>Monologue Tax</reverse-related>
             <reverse-related count="2">Most Wanted</reverse-related>
             <reverse-related count="x=1">Negan, The Cold-Blooded</reverse-related>
+            <reverse-related>Noble's Purse</reverse-related>
             <reverse-related count="x">Ognis, the Dragon's Lash</reverse-related>
             <reverse-related count="x">Old Gnawbone</reverse-related>
             <reverse-related>Old Rutstein</reverse-related>
@@ -8342,6 +8405,8 @@ This creature can't be enchanted.</text>
             <reverse-related>Riveteers Requisitioner</reverse-related>
             <reverse-related count="2">Ruthless Knave</reverse-related>
             <reverse-related count="x">Ruthless Technomancer</reverse-related>
+            <reverse-related>Safana, Calimport Cutthroat</reverse-related>
+            <reverse-related count="3" exclude="exclude">Safana, Calimport Cutthroat</reverse-related>
             <reverse-related>Sailor of Means</reverse-related>
             <reverse-related>Scion of Opulence</reverse-related>
             <reverse-related count="x" exclude="exclude">Scion of Opulence</reverse-related>
@@ -8753,6 +8818,20 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Volo's Journal</name>
+            <text>Hexproof
+Whenever you cast a creature spell, note one of its creature types that hasn't been noted for this artifact.</text>
+            <prop>
+                <type>Legendary Token Artifact</type>
+                <maintype>Artifact</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set>CLB</set>
+            <reverse-related>Volo, Itinerant Scholar</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Walker</name>
             <prop>
                 <colors>B</colors>
@@ -9044,6 +9123,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <reverse-related>Cult of the Waxing Moon</reverse-related>
             <reverse-related>Elturgard Ranger</reverse-related>
             <reverse-related>Fable of Wolf and Owl</reverse-related>
+            <reverse-related>Faldron, Dread Wolf Herald</reverse-related>
             <reverse-related count="x">Feed the Pack</reverse-related>
             <reverse-related>Ferocious Pup</reverse-related>
             <reverse-related>Garruk Relentless</reverse-related>
@@ -9823,6 +9903,28 @@ Cradle of the Death God — Create The Atropal, a legendary 4/4 black God Horror
             <reverse-related exclude="exclude">Yuan-Ti Malison</reverse-related>
             <reverse-related exclude="exclude">Zalto, Fire Giant Duke</reverse-related>
             <reverse-related exclude="exclude">Zombie Ogre</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Undercity</name>
+            <text>You can’t enter this dungeon unless you “venture into Undercity”.
+Secret Entrance — Search your library for a basic land card, reveal it, put it into your hand, then shuffle (Leads to: Forge, Lost Well)
+Forge — Put two +1/+1 counters on target creature. (Leads to: Trap!, Arena)
+Lost Well — Scry 2. (Leads to: Arena, Stash)
+Trap! — Target player loses 5 life. (Leads to: Archives)
+Arena — Goad target creature. (Leads to: Archives, Catacombs)
+Stash — Create a Treasure token. (Leads to: Catacombs)
+Archives — Draw a card. (Leads to: Throne of the Dead Three)
+Catacombs — Create a 4/1 black Skeleton creature token with menace. (Leads to: Throne of the Dead Three)
+Throne of the Dead Three — Reveal the top ten cards of your library. Put a creature card from among them onto the battlefield with three +1/+1 counters on it. It gains hexproof until your next turn. Then shuffle.</text>
+            <prop>
+                <type>Dungeon</type>
+                <maintype>Dungeon</maintype>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/c/2c65185b-6cf0-451d-985e-56aa45d9a57d.jpg?1652898518">CLB</set>
+            <related>Treasure</related>
+            <related>Skeleton Token  </related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -11004,6 +11106,26 @@ If a player casts at least two spells during their own turn, it becomes day next
             <reverse-related exclude="exclude">Tergrid's Shadow</reverse-related>
             <reverse-related exclude="exclude">Vengeful Reaper</reverse-related>
             <reverse-related exclude="exclude">Warhorn Blast</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>The Initiative</name>
+            <text>Whenever one or more creatures a player controls deal combat damage to you, that player takes the initiative.
+When you take the initiative and at the beginning of your upkeep, venture into Undercity. (If you're in a dungeon, advance to the next room. If you're not, enter Undercity. You can take the initiative even if you already have it.</text>
+            <prop>
+                <type>State</type>
+                <maintype>State</maintype>
+            </prop>
+            <set picURL="https://media.wizards.com/2022/clb/en_hdD7AcaWsq.png">CLB</set>
+            <related>Undercity</related>
+            <reverse-related>Aarakocra Sneak</reverse-related>
+            <reverse-related>Avenging Hunter</reverse-related>
+            <reverse-related>Dungeoneer's Pack</reverse-related>
+            <reverse-related>Passageway Seer</reverse-related>
+            <reverse-related>Rilsa Rael, Kingpin</reverse-related>
+            <reverse-related>Trailblazer's Torch</reverse-related>
+            <reverse-related>White Plume Adventurer</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
