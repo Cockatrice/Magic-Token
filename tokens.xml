@@ -5837,6 +5837,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             </prop>
             <set picURL="https://media.wizards.com/2019/c19/en_GB4ITZzLJ3.png">C19</set>
             <set picURL="https://img.scryfall.com/cards/large/front/1/e/1e77b5dd-af53-4229-bd7f-9b961ebde8f7.jpg">C14</set>
+            <reverse-related>Pegasus Guardian // Rescue the Foal</reverse-related>
             <reverse-related>Pegasus Refuge</reverse-related>
             <reverse-related>Pegasus Stampede</reverse-related>
             <reverse-related>Sacred Mesa</reverse-related>
@@ -6972,7 +6973,7 @@ Equip {1}</text>
                 <pt>4/1</pt>
             </prop>
             <set>CLB</set>
-            <reverse-related>"Gut, Drunk on Kool-Aid" (scryfall placeholder name)</reverse-related>
+            <reverse-related>Gut, True Soul Zealot</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7206,6 +7207,7 @@ Equip {1}</text>
             <reverse-related>First Response</reverse-related>
             <reverse-related count="2">Hero of Bladehold</reverse-related>
             <reverse-related count="2">Heroic Reinforcements</reverse-related>
+            <reverse-related count="x">Horn of Valhalla // Isgard's Call</reverse-related>
             <reverse-related count="x=1">Ironroot Warlord</reverse-related>
             <reverse-related>Keeper of the Accord</reverse-related>
             <reverse-related>Kjeldoran Outpost</reverse-related>
@@ -8344,7 +8346,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="x">Gadrak, the Crown-Scourge</reverse-related>
             <reverse-related>Gala Greeters</reverse-related>
             <reverse-related>Galazeth Prismari</reverse-related>
-            <reverse-related count="1">Ganax, Hunter of Stars</reverse-related>
+            <reverse-related count="1">Ganax, Astral Hunter</reverse-related>
             <reverse-related>Gilded Pinions</reverse-related>
             <reverse-related>Gleaming Barrier</reverse-related>
             <reverse-related>Glittermonger</reverse-related>
@@ -11124,6 +11126,7 @@ When you take the initiative and at the beginning of your upkeep, venture into U
             <reverse-related>Dungeoneer's Pack</reverse-related>
             <reverse-related>Passageway Seer</reverse-related>
             <reverse-related>Rilsa Rael, Kingpin</reverse-related>
+            <reverse-related>Tomb of Horrors Adventurer</reverse-related>
             <reverse-related>Trailblazer's Torch</reverse-related>
             <reverse-related>White Plume Adventurer</reverse-related>
             <token>1</token>
@@ -11182,32 +11185,45 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <maintype>State</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2019/eld/en_crQ9MSOI2z.png">ELD</set>
+            <reverse-related attach="attach">Amethyst Dragon // Explosive Crystal</reverse-related>
             <reverse-related attach="attach">Animating Faerie // Bring to Life</reverse-related>
             <reverse-related attach="attach">Ardenvale Tactician // Dizzying Swoop</reverse-related>
             <reverse-related attach="attach">Beanstalk Giant // Fertile Footsteps</reverse-related>
             <reverse-related attach="attach">Bonecrusher Giant // Stomp</reverse-related>
             <reverse-related attach="attach">Brazen Borrower // Petty Theft</reverse-related>
+            <reverse-related attach="attach">Crystal Dragon // Rob the Hoard</reverse-related>
             <reverse-related attach="attach">Curious Pair // Treats to Share</reverse-related>
+            <reverse-related attach="attach">Dread Linnorm // Scale Deflection</reverse-related>
             <reverse-related attach="attach">Embereth Shieldbreaker // Battle Display</reverse-related>
+            <reverse-related attach="attach">Emerald Dragon // Dissonant Wave</reverse-related>
             <reverse-related attach="attach">Fae of Wishes // Granted</reverse-related>
             <reverse-related attach="attach">Faerie Guidemother // Gift of the Fae</reverse-related>
+            <reverse-related attach="attach">Fang Dragon // Forktail Sweep</reverse-related>
             <reverse-related attach="attach">Flaxen Intruder // Welcome Home</reverse-related>
             <reverse-related attach="attach">Foulmire Knight // Profane Insight</reverse-related>
             <reverse-related attach="attach">Garenbrig Carver // Shield's Might</reverse-related>
+            <reverse-related attach="attach">Ghost Lantern // Bind Spirit</reverse-related>
             <reverse-related attach="attach">Giant Killer // Chop Down</reverse-related>
+            <reverse-related attach="attach">Great Axe // Steel Sweep</reverse-related>
+            <reverse-related attach="attach">Guardian Naga // Banishing Coils</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Horn of Valhalla // Isgard's Call</reverse-related>
             <reverse-related attach="attach">Hypnotic Sprite // Mesmeric Glare</reverse-related>
+            <reverse-related attach="attach">Illithid Harvester // Plant Tadpoles</reverse-related>
             <reverse-related attach="attach">Lonesome Unicorn // Rider in Need</reverse-related>
             <reverse-related attach="attach">Lovestruck Beast // Heart's Desire</reverse-related>
             <reverse-related attach="attach">Merchant of the Vale // Haggle</reverse-related>
             <reverse-related attach="attach">Merfolk Secretkeeper // Venture Deeper</reverse-related>
+            <reverse-related attach="attach">Monster Manual // Zoological Study</reverse-related>
             <reverse-related attach="attach">Murderous Rider // Swift End</reverse-related>
             <reverse-related attach="attach">Oakhame Ranger // Bring Back</reverse-related>
             <reverse-related attach="attach">Order of Midnight // Alter Fate</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Pegasus Guardian // Rescue the Foal</reverse-related>
             <reverse-related attach="attach">Queen of Ice // Rage of Winter</reverse-related>
             <reverse-related attach="attach">Realm-Cloaked Giant // Cast Off</reverse-related>
             <reverse-related attach="attach">Reaper of Night // Harvest Fear</reverse-related>
             <reverse-related attach="attach">Rimrock Knight // Boulder Rush</reverse-related>
             <reverse-related attach="attach">Rosethorn Acolyte // Seasonal Ritual</reverse-related>
+            <reverse-related attach="attach">Sea Hag // Aquatic Ingress</reverse-related>
             <reverse-related attach="attach">Shepherd of the Flock // Usher to Safety</reverse-related>
             <reverse-related attach="attach">Silverflame Squire // On Alert</reverse-related>
             <reverse-related attach="attach">Smitten Swordmaster // Curry Favor</reverse-related>
