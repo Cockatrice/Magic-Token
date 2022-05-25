@@ -967,6 +967,7 @@ This creature can block only creatures with flying.</text>
             <set picURL="https://media.wizards.com/2021/stx/en_azWYcm4ip8.png">C21</set>
             <set picURL="https://img.scryfall.com/cards/large/front/2/f/2f40613b-1bde-4939-86ad-6bd40f9db0d6.jpg">THS</set>
             <reverse-related count="x">Curse of the Swine</reverse-related>
+            <reverse-related>Contraband Livestock</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3373,6 +3374,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <set picURL="https://img.scryfall.com/cards/large/front/f/a/fa0f1de9-464c-4f12-bd1d-a4a5b88fe803.jpg">M13</set>
             <set picURL="https://img.scryfall.com/cards/large/front/9/0/90f67615-8a09-4ab9-9927-899a15e72c03.jpg">EVE</set>
             <reverse-related count="3">Clackbridge Troll</reverse-related>
+            <reverse-related>Contraband Livestock</reverse-related>
             <reverse-related>Discordant Piper</reverse-related>
             <reverse-related count="3" exclude="exclude">Goldmeadow</reverse-related>
             <reverse-related>Goldmeadow</reverse-related>
@@ -5826,6 +5828,20 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Ox Token </name>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Ox</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/4</pt>
+            </prop>
+            <set>CLB</set>
+            <reverse-related>Contraband Livestock</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Pegasus Token</name>
             <text>Flying</text>
             <prop>
@@ -7207,7 +7223,7 @@ Equip {1}</text>
             <reverse-related>First Response</reverse-related>
             <reverse-related count="2">Hero of Bladehold</reverse-related>
             <reverse-related count="2">Heroic Reinforcements</reverse-related>
-            <reverse-related count="x">Horn of Valhalla // Isgard's Call</reverse-related>
+            <reverse-related count="x">Horn of Valhalla // Ysgard's Call</reverse-related>
             <reverse-related count="x=1">Ironroot Warlord</reverse-related>
             <reverse-related>Keeper of the Accord</reverse-related>
             <reverse-related>Kjeldoran Outpost</reverse-related>
@@ -8310,6 +8326,7 @@ This creature can't be enchanted.</text>
             <set picURL="https://media.wizards.com/2017/xln/en_N4n6GAhvNw_b.png">XLN</set>
             <set picURL="https://media.wizards.com/2017/xln/en_g59A1EKi9e_b.png">XLN</set>
             <reverse-related>Academy Manufactor</reverse-related>
+            <reverse-related count="x">Ancient Copper Dragon</reverse-related>
             <reverse-related count="2">An Offer You Can't Refuse</reverse-related>
             <reverse-related count="3">Atsushi, the Blazing Sky</reverse-related>
             <reverse-related>Battle Angels of Tyr</reverse-related>
@@ -8357,6 +8374,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="2">Grim Hireling</reverse-related>
             <reverse-related count="2">Guild Artisan</reverse-related>
             <reverse-related>Halo Scarab</reverse-related>
+            <reverse-related>Heap Gate</reverse-related>
             <reverse-related>Heartless Pillage</reverse-related>
             <reverse-related>Herald of Hadar</reverse-related>
             <reverse-related count="x">Hoard Hauler</reverse-related>
@@ -8445,6 +8463,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Wily Goblin</reverse-related>
             <reverse-related count="x">Xorn</reverse-related>
             <reverse-related>You Find a Cursed Idol</reverse-related>
+            <reverse-related>Young Red Dragon // Bathe in Gold</reverse-related>
             <reverse-related count="3">Ziatora, the Incinerator</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -11124,7 +11143,9 @@ When you take the initiative and at the beginning of your upkeep, venture into U
             <reverse-related>Aarakocra Sneak</reverse-related>
             <reverse-related>Avenging Hunter</reverse-related>
             <reverse-related>Dungeoneer's Pack</reverse-related>
+            <reverse-related>Explore the Underdark</reverse-related>
             <reverse-related>Passageway Seer</reverse-related>
+            <reverse-related>Ravenloft Adventurer</reverse-related>
             <reverse-related>Rilsa Rael, Kingpin</reverse-related>
             <reverse-related>Tomb of Horrors Adventurer</reverse-related>
             <reverse-related>Trailblazer's Torch</reverse-related>
@@ -11206,7 +11227,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Giant Killer // Chop Down</reverse-related>
             <reverse-related attach="attach">Great Axe // Steel Sweep</reverse-related>
             <reverse-related attach="attach">Guardian Naga // Banishing Coils</reverse-related>
-            <reverse-related attach="attach" exclude="exclude">Horn of Valhalla // Isgard's Call</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Horn of Valhalla // Ysgard's Call</reverse-related>
             <reverse-related attach="attach">Hypnotic Sprite // Mesmeric Glare</reverse-related>
             <reverse-related attach="attach">Illithid Harvester // Plant Tadpoles</reverse-related>
             <reverse-related attach="attach">Lonesome Unicorn // Rider in Need</reverse-related>
@@ -11214,6 +11235,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Merchant of the Vale // Haggle</reverse-related>
             <reverse-related attach="attach">Merfolk Secretkeeper // Venture Deeper</reverse-related>
             <reverse-related attach="attach">Monster Manual // Zoological Study</reverse-related>
+            <reverse-related attach="attach">Moonshae Pixie // Pixie Dust</reverse-related>
             <reverse-related attach="attach">Murderous Rider // Swift End</reverse-related>
             <reverse-related attach="attach">Oakhame Ranger // Bring Back</reverse-related>
             <reverse-related attach="attach">Order of Midnight // Alter Fate</reverse-related>
@@ -11223,11 +11245,14 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Reaper of Night // Harvest Fear</reverse-related>
             <reverse-related attach="attach">Rimrock Knight // Boulder Rush</reverse-related>
             <reverse-related attach="attach">Rosethorn Acolyte // Seasonal Ritual</reverse-related>
+            <reverse-related attach="attach">Sapphire Dragon // Psionic Pulse</reverse-related>
             <reverse-related attach="attach">Sea Hag // Aquatic Ingress</reverse-related>
             <reverse-related attach="attach">Shepherd of the Flock // Usher to Safety</reverse-related>
             <reverse-related attach="attach">Silverflame Squire // On Alert</reverse-related>
             <reverse-related attach="attach">Smitten Swordmaster // Curry Favor</reverse-related>
+            <reverse-related attach="attach">Topaz Dragon // Entropic Cloud</reverse-related>
             <reverse-related attach="attach">Tuinvale Treefolk // Oaken Boon</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Young Red Dragon // Bathe in Gold</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
