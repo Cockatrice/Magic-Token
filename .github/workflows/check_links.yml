@@ -36,8 +36,8 @@ jobs:
 
       - name: Extract URLs from challenge_tokens.xml
         # Forcefully skipping, see https://github.com/Cockatrice/Magic-Token/issues/47
-        if: always()
-        # if: false
+        # if: always()
+        if: false
         id: challenge_tokens
         shell: bash
         run: xmlstarlet sel -t -v "//set/@picURL" challenge_tokens.xml | tee challenge_pic_urls.txt
@@ -53,10 +53,8 @@ jobs:
       - name: Check challenge_tokens.xml URLs
         uses: lycheeverse/lychee-action@v1.4.1
         # Forcefully skipping, see https://github.com/Cockatrice/Magic-Token/issues/47
-        if: steps.challenge_tokens.outcome == 'success'
-        # if: false
+        # if: steps.challenge_tokens.outcome == 'success'
+        if: false
         with:
           args: '--no-progress --require-https --format detailed -- challenge_pic_urls.txt'
           fail: true
-          env:
-            LYCHEE_OUT: $GITHUB_STEP_SUMMARY
