@@ -3024,6 +3024,7 @@ This creature's power and toughness are each equal to the number of instant and 
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/8/78eb6e0c-3630-46bf-b124-1ff2ddddf63e.jpg?1626139073">AFR</set>
+            <reverse-related count="x">Ancient Gold Dragon</reverse-related>
             <reverse-related count="x">Elminster</reverse-related>
             <reverse-related>Feywild Trickster</reverse-related>
             <reverse-related>Feywild Visitor</reverse-related>
@@ -7005,6 +7006,7 @@ Equip {1}</text>
             <set picURL="https://img.scryfall.com/cards/large/front/5/0/50c4f43e-ed03-43de-8ff1-2d4431c1684a.jpg">L13</set>
             <set picURL="https://img.scryfall.com/cards/large/front/6/8/68353af0-9cd0-43c0-9b39-8f904c618e3a.jpg">M14</set>
             <set picURL="https://img.scryfall.com/cards/large/front/f/3/f3b8ae33-f0c3-4fe7-8121-41307d13bb4a.jpg">P03</set>
+            <reverse-related>Altar of Bhaal // Bone Offering</reverse-related>
             <reverse-related>Brood Sliver</reverse-related>
             <reverse-related count="2">Hive Stirrings</reverse-related>
             <reverse-related>Sliver Hive</reverse-related>
@@ -7248,7 +7250,9 @@ Equip {1}</text>
             <reverse-related>Throne of Empires</reverse-related>
             <reverse-related count="5" exclude="exclude">Throne of Empires</reverse-related>
             <reverse-related count="3">Timely Reinforcements</reverse-related>
+            <reverse-related count="2">Undercellar Sweep</reverse-related>
             <reverse-related>Veteran Soldier</reverse-related>
+            <reverse-related count="3">You're Confronted by Robbers</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -8386,6 +8390,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Improvised Weaponry</reverse-related>
             <reverse-related>Impulsive Pilferer</reverse-related>
             <reverse-related count="2">Ingenious Mastery</reverse-related>
+            <reverse-related count="3">Inspired Tinkering</reverse-related>
             <reverse-related>Instrument of the Bards</reverse-related>
             <reverse-related>Involuntary Employment</reverse-related>
             <reverse-related count="2">Jan Jansen, Chaos Crafter</reverse-related>
@@ -8398,6 +8403,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="x">Mahadi, Emporium Master</reverse-related>
             <reverse-related>Malcolm, Keen-Eyed Navigator</reverse-related>
             <reverse-related count="x" exclude="exclude">Malcolm, Keen-Eyed Navigator</reverse-related>
+            <reverse-related count="x">Marut</reverse-related>
             <reverse-related>Monologue Tax</reverse-related>
             <reverse-related count="2">Most Wanted</reverse-related>
             <reverse-related count="x=1">Negan, The Cold-Blooded</reverse-related>
@@ -8445,6 +8451,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Strike It Rich</reverse-related>
             <reverse-related>Sudden Breakthrough</reverse-related>
             <reverse-related count="x">Surly Badgersaur</reverse-related>
+            <reverse-related>Swashbuckler Extraordinaire</reverse-related>
             <reverse-related count="2">Tavern Scoundrel</reverse-related>
             <reverse-related>Tempting Contract</reverse-related>
             <reverse-related>Thieves' Tools</reverse-related>
@@ -11142,6 +11149,8 @@ When you take the initiative and at the beginning of your upkeep, venture into U
             <related>Undercity</related>
             <reverse-related>Aarakocra Sneak</reverse-related>
             <reverse-related>Avenging Hunter</reverse-related>
+            <reverse-related>Bloodboil Sorcerer</reverse-related>
+            <reverse-related>Caves of Chaos Adventurer</reverse-related>
             <reverse-related>Dungeoneer's Pack</reverse-related>
             <reverse-related>Explore the Underdark</reverse-related>
             <reverse-related>Passageway Seer</reverse-related>
@@ -11149,6 +11158,8 @@ When you take the initiative and at the beginning of your upkeep, venture into U
             <reverse-related>Rilsa Rael, Kingpin</reverse-related>
             <reverse-related>Tomb of Horrors Adventurer</reverse-related>
             <reverse-related>Trailblazer's Torch</reverse-related>
+            <reverse-related exclude="exclude">Undercellar Sweep</reverse-related>
+            <reverse-related>Undermountain Adventurer</reverse-related>
             <reverse-related>White Plume Adventurer</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -11206,6 +11217,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <maintype>State</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2019/eld/en_crQ9MSOI2z.png">ELD</set>
+            <reverse-related attach="attach">Altar of Bhaal // Bone Offering</reverse-related>
             <reverse-related attach="attach">Amethyst Dragon // Explosive Crystal</reverse-related>
             <reverse-related attach="attach">Animating Faerie // Bring to Life</reverse-related>
             <reverse-related attach="attach">Ardenvale Tactician // Dizzying Swoop</reverse-related>
@@ -11225,9 +11237,9 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Garenbrig Carver // Shield's Might</reverse-related>
             <reverse-related attach="attach">Ghost Lantern // Bind Spirit</reverse-related>
             <reverse-related attach="attach">Giant Killer // Chop Down</reverse-related>
-            <reverse-related attach="attach">Great Axe // Steel Sweep</reverse-related>
             <reverse-related attach="attach">Guardian Naga // Banishing Coils</reverse-related>
-            <reverse-related attach="attach" exclude="exclude">Horn of Valhalla // Ysgard's Call</reverse-related>
+            <reverse-related attach="attach">Hezrou // Demonic Stench</reverse-related>
+            <reverse-related attach="attach">Horn of Valhalla // Ysgard's Call</reverse-related>
             <reverse-related attach="attach">Hypnotic Sprite // Mesmeric Glare</reverse-related>
             <reverse-related attach="attach">Illithid Harvester // Plant Tadpoles</reverse-related>
             <reverse-related attach="attach">Lonesome Unicorn // Rider in Need</reverse-related>
@@ -11252,7 +11264,9 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Smitten Swordmaster // Curry Favor</reverse-related>
             <reverse-related attach="attach">Topaz Dragon // Entropic Cloud</reverse-related>
             <reverse-related attach="attach">Tuinvale Treefolk // Oaken Boon</reverse-related>
-            <reverse-related attach="attach" exclude="exclude">Young Red Dragon // Bathe in Gold</reverse-related>
+            <reverse-related attach="attach">Two-Handed Axe // Sweeping Cleave</reverse-related>
+            <reverse-related attach="attach">Young Blue Dragon // Sand Augury</reverse-related>
+            <reverse-related attach="attach">Young Red Dragon // Bathe in Gold</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
