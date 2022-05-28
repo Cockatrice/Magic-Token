@@ -966,6 +966,7 @@ This creature can block only creatures with flying.</text>
             </prop>
             <set picURL="https://media.wizards.com/2021/stx/en_azWYcm4ip8.png">C21</set>
             <set picURL="https://img.scryfall.com/cards/large/front/2/f/2f40613b-1bde-4939-86ad-6bd40f9db0d6.jpg">THS</set>
+            <reverse-related>Carefree Swinemaster</reverse-related>
             <reverse-related count="x">Curse of the Swine</reverse-related>
             <reverse-related>Contraband Livestock</reverse-related>
             <token>1</token>
@@ -1623,6 +1624,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <set picURL="https://media.wizards.com/2020/znr/en_R3g8yVJA0m.png">ZNR</set>
             <reverse-related count="2">Jan Jansen, Chaos Crafter</reverse-related>
             <reverse-related count="x=4">Myriad Construct</reverse-related>
+            <reverse-related>Nimblewright Schematic</reverse-related>
             <reverse-related>Oni-Cult Anvil</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -3026,6 +3028,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/8/78eb6e0c-3630-46bf-b124-1ff2ddddf63e.jpg?1626139073">AFR</set>
             <reverse-related count="x">Ancient Gold Dragon</reverse-related>
             <reverse-related count="x">Elminster</reverse-related>
+            <reverse-related exclude="exclude">Feywild Caretaker</reverse-related>
             <reverse-related>Feywild Trickster</reverse-related>
             <reverse-related>Feywild Visitor</reverse-related>
             <token>1</token>
@@ -4792,6 +4795,8 @@ Equip {2}</text>
             <reverse-related>Knightly Valor</reverse-related>
             <reverse-related>Lonesome Unicorn // Rider in Need</reverse-related>
             <reverse-related count="x=1">Militant Angel</reverse-related>
+            <reverse-related count="2">Recruitment Drive</reverse-related>
+            <reverse-related count="3">Recruitment Drive</reverse-related>
             <reverse-related>Righteous Confluence</reverse-related>
             <reverse-related>Security Blockade</reverse-related>
             <reverse-related>Selesnya Charm</reverse-related>
@@ -6698,6 +6703,7 @@ Equip {1}</text>
             <reverse-related count="4" exclude="exclude">Saproling Migration</reverse-related>
             <reverse-related>Slimefoot, the Stowaway</reverse-related>
             <reverse-related count="3">Spore Swarm</reverse-related>
+            <reverse-related>Undercellar Myconid</reverse-related>
             <reverse-related>Yavimaya Sapherd</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7242,6 +7248,7 @@ Equip {1}</text>
             <reverse-related>Precinct Captain</reverse-related>
             <reverse-related count="2">Raise the Alarm</reverse-related>
             <reverse-related>Recruit the Worthy</reverse-related>
+            <reverse-related count="2">Recruitment Drive</reverse-related>
             <reverse-related>Secure the Scene</reverse-related>
             <reverse-related>Security Detail</reverse-related>
             <reverse-related count="2">Sergeant-at-Arms</reverse-related>
@@ -8403,6 +8410,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="x">Mahadi, Emporium Master</reverse-related>
             <reverse-related>Malcolm, Keen-Eyed Navigator</reverse-related>
             <reverse-related count="x" exclude="exclude">Malcolm, Keen-Eyed Navigator</reverse-related>
+            <reverse-related>Marching Duodrone</reverse-related>
             <reverse-related count="x">Marut</reverse-related>
             <reverse-related>Monologue Tax</reverse-related>
             <reverse-related count="2">Most Wanted</reverse-related>
@@ -8411,11 +8419,13 @@ This creature can't be enchanted.</text>
             <reverse-related count="x">Ognis, the Dragon's Lash</reverse-related>
             <reverse-related count="x">Old Gnawbone</reverse-related>
             <reverse-related>Old Rutstein</reverse-related>
+            <reverse-related>Patron of the Arts</reverse-related>
             <reverse-related count="2">Pirate's Pillage</reverse-related>
             <reverse-related>Pirate's Prize</reverse-related>
             <reverse-related>Pitiless Plunderer</reverse-related>
             <reverse-related>Plundering Barbarian</reverse-related>
             <reverse-related>Prismari Command</reverse-related>
+            <reverse-related>Prized Statue</reverse-related>
             <reverse-related>Prizefight</reverse-related>
             <reverse-related>Professional Face-Breaker</reverse-related>
             <reverse-related>Prosper, Tome-Bound</reverse-related>
@@ -8471,6 +8481,8 @@ This creature can't be enchanted.</text>
             <reverse-related count="x">Xorn</reverse-related>
             <reverse-related>You Find a Cursed Idol</reverse-related>
             <reverse-related>Young Red Dragon // Bathe in Gold</reverse-related>
+            <reverse-related count="x">You've Been Caught Stealing</reverse-related>
+            <reverse-related>Zhentarim Bandit</reverse-related>
             <reverse-related count="3">Ziatora, the Incinerator</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -11153,13 +11165,18 @@ When you take the initiative and at the beginning of your upkeep, venture into U
             <reverse-related>Caves of Chaos Adventurer</reverse-related>
             <reverse-related>Dungeoneer's Pack</reverse-related>
             <reverse-related>Explore the Underdark</reverse-related>
+            <reverse-related>Feywild Caretaker</reverse-related>
+            <reverse-related>Goliath Paladin</reverse-related>
             <reverse-related>Passageway Seer</reverse-related>
             <reverse-related>Ravenloft Adventurer</reverse-related>
             <reverse-related>Rilsa Rael, Kingpin</reverse-related>
+            <reverse-related>Stirring Bard</reverse-related>
             <reverse-related>Tomb of Horrors Adventurer</reverse-related>
             <reverse-related>Trailblazer's Torch</reverse-related>
             <reverse-related exclude="exclude">Undercellar Sweep</reverse-related>
+            <reverse-related>Underdark Explorer</reverse-related>
             <reverse-related>Undermountain Adventurer</reverse-related>
+            <reverse-related>Vicious Battlerager</reverse-related>
             <reverse-related>White Plume Adventurer</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -11222,13 +11239,16 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Animating Faerie // Bring to Life</reverse-related>
             <reverse-related attach="attach">Ardenvale Tactician // Dizzying Swoop</reverse-related>
             <reverse-related attach="attach">Beanstalk Giant // Fertile Footsteps</reverse-related>
+            <reverse-related attach="attach">Blessed Hippogriff // Tyr's Blessing</reverse-related>
             <reverse-related attach="attach">Bonecrusher Giant // Stomp</reverse-related>
             <reverse-related attach="attach">Brazen Borrower // Petty Theft</reverse-related>
+            <reverse-related attach="attach">Colossal Badger // Dig Deep</reverse-related>
             <reverse-related attach="attach">Crystal Dragon // Rob the Hoard</reverse-related>
             <reverse-related attach="attach">Curious Pair // Treats to Share</reverse-related>
             <reverse-related attach="attach">Dread Linnorm // Scale Deflection</reverse-related>
             <reverse-related attach="attach">Embereth Shieldbreaker // Battle Display</reverse-related>
             <reverse-related attach="attach">Emerald Dragon // Dissonant Wave</reverse-related>
+            <reverse-related attach="attach">Ettercap // Web Shot</reverse-related>
             <reverse-related attach="attach">Fae of Wishes // Granted</reverse-related>
             <reverse-related attach="attach">Faerie Guidemother // Gift of the Fae</reverse-related>
             <reverse-related attach="attach">Fang Dragon // Forktail Sweep</reverse-related>
@@ -11237,6 +11257,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Garenbrig Carver // Shield's Might</reverse-related>
             <reverse-related attach="attach">Ghost Lantern // Bind Spirit</reverse-related>
             <reverse-related attach="attach">Giant Killer // Chop Down</reverse-related>
+            <reverse-related attach="attach">Gray Slaad // Entropic Decay</reverse-related>
             <reverse-related attach="attach">Guardian Naga // Banishing Coils</reverse-related>
             <reverse-related attach="attach">Hezrou // Demonic Stench</reverse-related>
             <reverse-related attach="attach">Horn of Valhalla // Ysgard's Call</reverse-related>
@@ -11262,6 +11283,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Shepherd of the Flock // Usher to Safety</reverse-related>
             <reverse-related attach="attach">Silverflame Squire // On Alert</reverse-related>
             <reverse-related attach="attach">Smitten Swordmaster // Curry Favor</reverse-related>
+            <reverse-related attach="attach">Sword Coast Serpent // Capsizing Wave</reverse-related>
             <reverse-related attach="attach">Topaz Dragon // Entropic Cloud</reverse-related>
             <reverse-related attach="attach">Tuinvale Treefolk // Oaken Boon</reverse-related>
             <reverse-related attach="attach">Two-Handed Axe // Sweeping Cleave</reverse-related>
