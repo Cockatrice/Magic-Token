@@ -2,9 +2,12 @@ name: Check Links
 
 on:
   workflow_dispatch:
-  pull_request:
-    branches:
-      - master
+# Disable runs on PR's to avoid getting rate limited because of too many requests
+#  pull_request:
+#    branches:
+#      - master
+  pull_request_review:
+    types: [submitted]
   push:
     branches:
       - master
@@ -14,8 +17,17 @@ on:
 
 jobs:
   check_urls:
-    # Do not run the scheduled workflow on forks
-    if: github.event_name != 'schedule' || github.repository_owner == 'Cockatrice'
+    # Do not run the scheduled workflow on forks + allow manual runs on 🕵️ keyword in PR reviews
+    if: >
+      ( github.event_name != 'schedule' ||
+        github.repository_owner == 'Cockatrice'
+        ) ||
+      ( github.event_name == 'pull_request_review' &&
+        ( github.event.review.author_association == 'OWNER' ||
+          github.event.review.author_association == 'MEMBER'
+        ) &&
+        contains( github.event.review.body, '@github-actions :detective:' )
+      )
 
     name: Image URLs
     runs-on: ubuntu-latest
@@ -44,8 +56,7 @@ jobs:
 
       - name: Check tokens.xml URLs
         uses: lycheeverse/lychee-action@v1.4.1
-        # if: steps.tokens.outcome == 'success'
-        if: false
+        if: steps.tokens.outcome == 'success'
         with:
           args: '--no-progress --require-https --format detailed -- tokens_pic_urls.txt'
           fail: true
