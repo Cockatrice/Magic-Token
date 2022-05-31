@@ -1,5 +1,12 @@
 name: Check Links
 
+# Usage of this automated picture health check workflow
+#
+# If there is a new PR with many links changed, make sure to run the CI before merging
+# Submit a PR review or review comment requesting the bot ("@github-actions :detective:")
+#
+# Note: Only repo members can trigger this.
+
 on:
   workflow_dispatch:
   pull_request_review:
@@ -69,5 +76,5 @@ jobs:
       - name: Image hosts statistics
         if: steps.tokens_pic_urls.outcome == 'success'
         shell: bash
-        # Extract the domain from the URL, remove blank lines, group identical, count, sort descending
+        # Extract domains from URLs | remove blank lines | group identical | count | sort descending
         run: awk -F/ '{print $3}' tokens_pic_urls.txt | grep . | sort | uniq -c | sort -nr
