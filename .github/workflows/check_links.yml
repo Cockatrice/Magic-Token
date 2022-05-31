@@ -55,17 +55,19 @@ jobs:
         run: xmlstarlet sel -t -v "//set/@picURL" challenge_tokens.xml | tee challenge_pic_urls.txt
 
       - name: Check tokens.xml URLs
-        uses: lycheeverse/lychee-action@v1.4.1
+        uses: lycheeverse/lychee-action@v1.5.0
         if: steps.tokens.outcome == 'success'
         with:
           args: '--no-progress --require-https --format detailed -- tokens_pic_urls.txt'
           fail: true
+          jobSummary: true
 
       - name: Check challenge_tokens.xml URLs
-        uses: lycheeverse/lychee-action@v1.4.1
+        uses: lycheeverse/lychee-action@v1.5.0
         # Forcefully skipping, see https://github.com/Cockatrice/Magic-Token/issues/47
         # if: steps.challenge_tokens.outcome == 'success'
         if: false
         with:
           args: '--no-progress --require-https --format detailed -- challenge_pic_urls.txt'
           fail: true
+          jobSummary: true
