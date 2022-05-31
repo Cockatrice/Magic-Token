@@ -2,10 +2,6 @@ name: Check Links
 
 on:
   workflow_dispatch:
-# Disable runs on PR's to avoid getting rate limited because of too many requests
-#  pull_request:
-#    branches:
-#      - master
   pull_request_review:
     types: [submitted]
   push:
@@ -19,9 +15,10 @@ jobs:
   check_urls:
     # Do not run the scheduled workflow on forks + allow manual runs on 🕵️ keyword in PR reviews
     if: >
-      ( github.event_name != 'schedule' ||
-        github.repository_owner == 'Cockatrice'
-        ) ||
+      ( github.event_name != 'pull_request_review' &&
+        ( github.event_name != 'schedule' ||
+          github.repository_owner == 'Cockatrice' )
+      ) ||
       ( github.event_name == 'pull_request_review' &&
         ( github.event.review.author_association == 'OWNER' ||
           github.event.review.author_association == 'MEMBER'
