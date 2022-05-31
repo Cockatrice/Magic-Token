@@ -1,11 +1,11 @@
-name: Update version on pr approval
+name: Update version on PR approval
 
 # Usage of this automated version bump workflow
 #
 # If there is a new PR with valid changes and additions, there are two ways to let the CI run before merging:
-#  a) Approve the changes via the PR review feature.
-#     In case you want to approve the PR, but need to skip the version update, let the bot know. ("@github-actions :x:")
-#  b) Since PR creators can not approve their own changes, they need to add a review comment requesting the bot. ("@github-actions :ship:")
+#  a) Approve the changes via the 'PR review' feature.
+#     In case you want to approve the PR without updating the version, let the bot know. ("@github-actions :x:")
+#  b) Since PR creators can not approve their own changes, they need to add a 'review comment' requesting the bot. ("@github-actions :ship:")
 #
 # Note: Only repo members can trigger this.
 
@@ -21,18 +21,23 @@ jobs:
         ( github.event.review.author_association == 'OWNER' ||
           github.event.review.author_association == 'MEMBER'
         ) &&
-        ! contains( github.event.review.body, '@github-actions :x:' )
+        ( ! contains( github.event.review.body, '@github-actions :x:' ) ||
+          ! contains( github.event.review.body, '@github-actions ❌' )
+        )
       ) ||
       ( github.event_name == 'pull_request_review' &&
         ( github.event.review.author_association == 'OWNER' ||
           github.event.review.author_association == 'MEMBER'
         ) &&
-        contains( github.event.review.body, '@github-actions :ship:' )
+        ( contains( github.event.review.body, '@github-actions :ship:' ) ||
+          contains( github.event.review.body, '@github-actions 🚢' )
+        )
       )
     runs-on: ubuntu-latest
     steps:
-      - name: Get proper pr info
+      - name: Get proper PR info
         id: configure
+        shell: bash
         env:
           EVENT: ${{github.event_name}}
           NUMBER: ${{github.event.issue.number}}
