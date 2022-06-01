@@ -6896,6 +6896,20 @@ Equip {1}</text>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
+         <card>
+            <name>Shapeshifter Token    </name>
+            <text>Changeling</text>
+            <prop>
+                <type>Token Creature — Shapeshifter</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/2</pt>
+            </prop>
+            <set>CLB</set>
+            <reverse-related>Black Market Connections</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
         <card>
             <name>Shard Token</name>
             <text>{2}, Sacrifice this enchantment: Scry 1, then draw a card.</text>
@@ -8358,12 +8372,14 @@ This creature can't be enchanted.</text>
             <reverse-related count="x">Baeloth Barrityl, Entertainer</reverse-related>
             <reverse-related>Battle Angels of Tyr</reverse-related>
             <reverse-related count="2">Big Score</reverse-related>
+            <reverse-related>Black Market Connections</reverse-related>
             <reverse-related>Black Market Tycoon</reverse-related>
             <reverse-related count="x">Blood Money</reverse-related>
             <reverse-related count="x">Bootleggers' Stash</reverse-related>
             <reverse-related>Brass's Bounty</reverse-related>
             <reverse-related>Brazen Freebooter</reverse-related>
             <reverse-related count="x">Bucknard's Everfull Purse</reverse-related>
+            <reverse-related count="x">Burakos, Party Leader</reverse-related>
             <reverse-related>Burdened Aerialist</reverse-related>
             <reverse-related>Buy Your Silence</reverse-related>
             <reverse-related>Captain Lannery Storm</reverse-related>
@@ -9191,6 +9207,7 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             <reverse-related>Howling Moon</reverse-related>
             <reverse-related>Howlpack Alpha</reverse-related>
             <reverse-related>Huntmaster of the Fells</reverse-related>
+            <reverse-related>Journey to the Lost City</reverse-related>
             <reverse-related count="x">Kessig Cagebreakers</reverse-related>
             <reverse-related count="2">Mantle of the Wolf</reverse-related>
             <reverse-related>Master of the Wild Hunt</reverse-related>
@@ -11131,6 +11148,7 @@ If a player casts at least two spells during their own turn, it becomes day next
             <reverse-related exclude="exclude">Behold the Multiverse</reverse-related>
             <reverse-related exclude="exclude">Cosmos Charger</reverse-related>
             <reverse-related exclude="exclude">Crush the Weak</reverse-related>
+            <reverse-related exclude="exclude">Delayed Blast Fireball</reverse-related>
             <reverse-related exclude="exclude">Demon Bolt</reverse-related>
             <reverse-related exclude="exclude">Depart the Realm</reverse-related>
             <reverse-related exclude="exclude">Doomskar</reverse-related>
@@ -11141,6 +11159,7 @@ If a player casts at least two spells during their own turn, it becomes day next
             <reverse-related exclude="exclude">Dwarven Reinforcements</reverse-related>
             <reverse-related exclude="exclude">Glorious Protector</reverse-related>
             <reverse-related exclude="exclude">Gods' Hall Guardian</reverse-related>
+            <reverse-related exclude="exclude">Green Slime</reverse-related>
             <reverse-related exclude="exclude">Haunting Voyage</reverse-related>
             <reverse-related exclude="exclude">Iron Verdict</reverse-related>
             <reverse-related exclude="exclude">Jarl of the Forsaken</reverse-related>
@@ -11190,6 +11209,8 @@ When you take the initiative and at the beginning of your upkeep, venture into U
             <reverse-related>Passageway Seer</reverse-related>
             <reverse-related>Ravenloft Adventurer</reverse-related>
             <reverse-related>Rilsa Rael, Kingpin</reverse-related>
+            <reverse-related>Sarevok's Tome</reverse-related>
+            <reverse-related>Seasoned Dungeoneer</reverse-related>
             <reverse-related>Stirring Bard</reverse-related>
             <reverse-related>Tomb of Horrors Adventurer</reverse-related>
             <reverse-related>Trailblazer's Torch</reverse-related>
@@ -11304,6 +11325,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Silverflame Squire // On Alert</reverse-related>
             <reverse-related attach="attach">Smitten Swordmaster // Curry Favor</reverse-related>
             <reverse-related attach="attach">Sword Coast Serpent // Capsizing Wave</reverse-related>
+            <reverse-related attach="attach">Tlincalli Hunter // Retrieve Prey</reverse-related>
             <reverse-related attach="attach">Topaz Dragon // Entropic Cloud</reverse-related>
             <reverse-related attach="attach">Tuinvale Treefolk // Oaken Boon</reverse-related>
             <reverse-related attach="attach">Two-Handed Axe // Sweeping Cleave</reverse-related>
