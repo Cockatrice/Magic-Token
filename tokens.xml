@@ -2101,7 +2101,7 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
-            <set picUrl="https://c1.scryfall.com/file/scryfall-cards/large/front/a/4/a4c06e08-2026-471d-a6d0-bbb0f040420a.jpg?1644542956">NEO</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/4/a4c06e08-2026-471d-a6d0-bbb0f040420a.jpg?1644542956">NEO</set>
             <reverse-related>Goro-Goro, Disciple of Ryusei</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -2689,7 +2689,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set picUrl="">ARC</set>
+            <set>ARC</set>
             <reverse-related count="7" exclude="exclude">Evil Comes to Fruition</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -3678,7 +3678,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>4/6</pt>
             </prop>
-            <set picUrl="">ARC</set>
+            <set>ARC</set>
             <reverse-related>The Iron Guardian Stirs</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
