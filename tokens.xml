@@ -8391,7 +8391,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Gala Greeters</reverse-related>
             <reverse-related>Galazeth Prismari</reverse-related>
             <reverse-related>Ganax, Astral Hunter</reverse-related>
-            <reverse-related count="x" exclude="x">Ganax, Astral Hunter</reverse-related>
+            <reverse-related count="x" exclude="exclude">Ganax, Astral Hunter</reverse-related>
             <reverse-related>Gilded Pinions</reverse-related>
             <reverse-related>Gleaming Barrier</reverse-related>
             <reverse-related>Glittermonger</reverse-related>
