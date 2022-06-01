@@ -967,8 +967,8 @@ This creature can block only creatures with flying.</text>
             <set picURL="https://media.wizards.com/2021/stx/en_azWYcm4ip8.png">C21</set>
             <set picURL="https://img.scryfall.com/cards/large/front/2/f/2f40613b-1bde-4939-86ad-6bd40f9db0d6.jpg">THS</set>
             <reverse-related>Carefree Swinemaster</reverse-related>
-            <reverse-related count="x">Curse of the Swine</reverse-related>
             <reverse-related>Contraband Livestock</reverse-related>
+            <reverse-related count="x">Curse of the Swine</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -1961,6 +1961,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <reverse-related>Dragonkin Berserker</reverse-related>
             <reverse-related>Dragonmaster Outcast</reverse-related>
             <reverse-related>Look Skyward and Despair</reverse-related>
+            <reverse-related exclude="exclude">Loot Dispute</reverse-related>
             <reverse-related>Sarkhan the Mad</reverse-related>
             <reverse-related>Shiv</reverse-related>
             <reverse-related>Skyline Despot</reverse-related>
@@ -4069,6 +4070,20 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Horror Token     </name>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Horror</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set>CLB</set>
+            <reverse-related>Zellix, Sanity Flayer</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Horse Token</name>
             <prop>
                 <colors>W</colors>
@@ -4795,8 +4810,6 @@ Equip {2}</text>
             <reverse-related>Knightly Valor</reverse-related>
             <reverse-related>Lonesome Unicorn // Rider in Need</reverse-related>
             <reverse-related count="x=1">Militant Angel</reverse-related>
-            <reverse-related count="2">Recruitment Drive</reverse-related>
-            <reverse-related count="3">Recruitment Drive</reverse-related>
             <reverse-related>Righteous Confluence</reverse-related>
             <reverse-related>Security Blockade</reverse-related>
             <reverse-related>Selesnya Charm</reverse-related>
@@ -4804,7 +4817,6 @@ Equip {2}</text>
             <reverse-related count="x=1">Silverwing Squadron</reverse-related>
             <reverse-related>Sunspire Gatekeepers</reverse-related>
             <reverse-related>The Circle of Loyalty</reverse-related>
-            <reverse-related>The Council of Four</reverse-related>
             <reverse-related>Trostani's Summoner</reverse-related>
             <reverse-related count="x">Valiant Endeavor</reverse-related>
             <reverse-related>Valorous Steed</reverse-related>
@@ -4836,6 +4848,9 @@ Equip {2}</text>
                 <pt>2/2</pt>
             </prop>
             <set picURL="https://i.imgur.com/2aNJZcB.jpg">USG</set>
+            <reverse-related count="2">Recruitment Drive</reverse-related>
+            <reverse-related count="3">Recruitment Drive</reverse-related>
+            <reverse-related>The Council of Four</reverse-related>
             <reverse-related count="3">Waylay</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -6996,6 +7011,7 @@ Equip {1}</text>
                 <pt>4/1</pt>
             </prop>
             <set>CLB</set>
+            <reverse-related>Altar of Bhaal // Bone Offering</reverse-related>
             <reverse-related>Gut, True Soul Zealot</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7012,7 +7028,6 @@ Equip {1}</text>
             <set picURL="https://img.scryfall.com/cards/large/front/5/0/50c4f43e-ed03-43de-8ff1-2d4431c1684a.jpg">L13</set>
             <set picURL="https://img.scryfall.com/cards/large/front/6/8/68353af0-9cd0-43c0-9b39-8f904c618e3a.jpg">M14</set>
             <set picURL="https://img.scryfall.com/cards/large/front/f/3/f3b8ae33-f0c3-4fe7-8121-41307d13bb4a.jpg">P03</set>
-            <reverse-related>Altar of Bhaal // Bone Offering</reverse-related>
             <reverse-related>Brood Sliver</reverse-related>
             <reverse-related count="2">Hive Stirrings</reverse-related>
             <reverse-related>Sliver Hive</reverse-related>
@@ -7258,7 +7273,7 @@ Equip {1}</text>
             <reverse-related count="5" exclude="exclude">Throne of Empires</reverse-related>
             <reverse-related count="3">Timely Reinforcements</reverse-related>
             <reverse-related count="2">Undercellar Sweep</reverse-related>
-            <reverse-related>Veteran Soldier</reverse-related>
+            <reverse-related count="x">Veteran Soldier</reverse-related>
             <reverse-related count="3">You're Confronted by Robbers</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -8340,6 +8355,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="x">Ancient Copper Dragon</reverse-related>
             <reverse-related count="2">An Offer You Can't Refuse</reverse-related>
             <reverse-related count="3">Atsushi, the Blazing Sky</reverse-related>
+            <reverse-related count="x">Baeloth Barrityl, Entertainer</reverse-related>
             <reverse-related>Battle Angels of Tyr</reverse-related>
             <reverse-related count="2">Big Score</reverse-related>
             <reverse-related>Black Market Tycoon</reverse-related>
@@ -8374,7 +8390,8 @@ This creature can't be enchanted.</text>
             <reverse-related count="x">Gadrak, the Crown-Scourge</reverse-related>
             <reverse-related>Gala Greeters</reverse-related>
             <reverse-related>Galazeth Prismari</reverse-related>
-            <reverse-related count="1">Ganax, Astral Hunter</reverse-related>
+            <reverse-related>Ganax, Astral Hunter</reverse-related>
+            <reverse-related count="x" exclude="x">Ganax, Astral Hunter</reverse-related>
             <reverse-related>Gilded Pinions</reverse-related>
             <reverse-related>Gleaming Barrier</reverse-related>
             <reverse-related>Glittermonger</reverse-related>
@@ -8404,6 +8421,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Jewel Thief</reverse-related>
             <reverse-related>Jewel-Eyed Cobra</reverse-related>
             <reverse-related>Kalain, Reclusive Painter</reverse-related>
+            <reverse-related>Loot Dispute</reverse-related>
             <reverse-related>Magda, Brazen Outlaw</reverse-related>
             <reverse-related count="x=1" exclude="exclude">Magda, Brazen Outlaw</reverse-related>
             <reverse-related exclude="exclude">Magma Opus</reverse-related>
@@ -9163,7 +9181,7 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             <reverse-related>Cult of the Waxing Moon</reverse-related>
             <reverse-related>Elturgard Ranger</reverse-related>
             <reverse-related>Fable of Wolf and Owl</reverse-related>
-            <reverse-related>Faldron, Dread Wolf Herald</reverse-related>
+            <reverse-related>Faldorn, Dread Wolf Herald</reverse-related>
             <reverse-related count="x">Feed the Pack</reverse-related>
             <reverse-related>Ferocious Pup</reverse-related>
             <reverse-related>Garruk Relentless</reverse-related>
@@ -11166,7 +11184,9 @@ When you take the initiative and at the beginning of your upkeep, venture into U
             <reverse-related>Dungeoneer's Pack</reverse-related>
             <reverse-related>Explore the Underdark</reverse-related>
             <reverse-related>Feywild Caretaker</reverse-related>
+            <reverse-related>From the Catacombs</reverse-related>
             <reverse-related>Goliath Paladin</reverse-related>
+            <reverse-related>Loot Dispute</reverse-related>
             <reverse-related>Passageway Seer</reverse-related>
             <reverse-related>Ravenloft Adventurer</reverse-related>
             <reverse-related>Rilsa Rael, Kingpin</reverse-related>
