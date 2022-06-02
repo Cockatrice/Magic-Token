@@ -1,0 +1,153 @@
+name: Update version on pr approval
+
+on:
+  pull_request_review:
+    types: [submitted]
+  issue_comment:
+    types: [created]
+
+jobs:
+  update_version:
+    if: >
+      ( github.event_name == 'pull_request_review' &&
+        github.event.review.state == 'approved' &&
+        ( github.event.review.author_association == 'OWNER' ||
+          github.event.review.author_association == 'MEMBER'
+        ) &&
+        ! contains( github.event.review.body, '@github-actions noop' )
+      ) ||
+      ( github.event_name == 'issue_comment' &&
+        github.event.issue.pull_request &&
+        ( github.event.comment.author_association == 'OWNER' ||
+          github.event.comment.author_association == 'MEMBER'
+        ) &&
+        endsWith( github.event.comment.body, '@github-actions update version' )
+      )
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get proper pr info
+        id: configure
+        env:
+          EVENT: ${{github.event_name}}
+          NUMBER: ${{github.event.issue.number}}
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          REF: ${{github.event.pull_request.head.ref}}
+          REPO_PAGE: ${{github.event.pull_request.head.repo.svn_url}}
+          REPO_NAME: ${{github.event.pull_request.head.repo.full_name}}
+          UPSTREAM: ${{github.event.pull_request.base.repo.clone_url}}
+          LINK: ${{github.event.pull_request.html}}
+        run: |
+          if [[ $EVENT == "issue_comment" ]]; then
+            tmp="$(mktemp)"
+            api="$GITHUB_API_URL/repos/$GITHUB_REPOSITORY/pulls/$NUMBER"
+            echo "fetching $api"
+            gh api "$api" >"$tmp"
+            REF="$(jq -r ".head.ref" "$tmp")"
+            REPO_PAGE="$(jq -r ".head.repo.svn_url" "$tmp")"
+            REPO_NAME="$(jq -r ".head.repo.full_name" "$tmp")"
+            UPSTREAM="$(jq -r ".base.repo.clone_url" "$tmp")"
+            LINK="${{github.event.issue.html_url}}"
+          fi
+          echo "::set-output name=link::$LINK"
+          echo "::set-output name=ref::$REF"
+          echo "::set-output name=page::$REPO_PAGE"
+          echo "::set-output name=name::$REPO_NAME"
+          echo "::set-output name=upstream::$UPSTREAM"
+
+      - name: Checkout pull request
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          repository: ${{steps.configure.outputs.name}}
+          ref: ${{steps.configure.outputs.ref}}
+
+      - name: Check for changes
+        id: check
+        shell: bash
+        env:
+          UPSTREAM: ${{steps.configure.outputs.upstream}}
+          LINK: ${{steps.configure.outputs.link}}
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git fetch "$UPSTREAM"
+          if ! git merge FETCH_HEAD; then
+            echo "::error::failed to merge pull request"
+            echo "::notice::you can resolve merge conflicts at $LINK/conflicts"
+            exit 2
+          elif git diff --quiet FETCH_HEAD tokens.xml; then
+            echo "::set-output name=update::false"
+          else
+            echo "::set-output name=update::true"
+          fi
+
+      - name: Get date
+        if: steps.check.outputs.update == 'true'
+        id: date
+        shell: bash
+        run: |
+          git checkout FETCH_HEAD version.txt
+          previous="$(<version.txt)"
+          date="$(date --utc +%Y%m%d)"
+          echo "it is currently $date"
+          echo "::set-output name=date::$date"
+          echo "::set-output name=previous::$previous"
+
+      - name: Check for suffix used when multiple changes happen in a day
+        if: steps.check.outputs.update == 'true'
+        id: version
+        shell: python
+        run: |
+          import re
+          previous = "${{steps.date.outputs.previous}}"
+          date = "${{steps.date.outputs.date}}"
+          version = date
+          if previous.startswith(date):
+            match = re.search(r"[a-z]+", previous)
+            if match is None:
+              suffix = "a" # the first a is actually hidden
+            else:
+              suffix = match[0]
+            charlist = []
+            rev = reversed(suffix)
+            for char in rev:
+              if char == "z":
+                charlist.append("a")
+              else:
+                nextchar = chr(ord(char) + 1)
+                charlist.append(nextchar)
+                charlist.extend(rev)
+                break
+            else:
+              charlist.append("a")
+            version += "".join(reversed(charlist))
+          print(f"::set-output name=version::{version}")
+
+      - name: Update date in files
+        if: steps.check.outputs.update == 'true'
+        shell: bash
+        env:
+          VERSION: ${{steps.version.outputs.version}}
+          PREVIOUS: ${{steps.date.outputs.previous}}
+        run: |
+          echo "updating version from $PREVIOUS to $VERSION"
+          tag="sourceVersion"
+          sed -i "s?<$tag>.*</$tag>?<$tag>$VERSION</$tag>?" tokens.xml
+          echo "$VERSION" >version.txt
+
+      - name: Push changes
+        shell: bash
+        env:
+          REPO_PAGE: ${{steps.configure.outputs.page}}
+          VERSION: ${{steps.version.outputs.version}}
+        run: |
+          if git diff --quiet tokens.xml; then
+            echo "there are no changes to tokens.xml"
+            echo "::notice::no commit created"
+            exit 0
+          fi
+          git add tokens.xml version.txt
+          git commit -m "update version to $VERSION"
+          git push
+          commit="$(git rev-parse HEAD)"
+          echo "::notice::pushed commit: $REPO_PAGE/commit/$commit"
