@@ -6795,9 +6795,9 @@ Equip {1}</text>
             <name>Shapeshifter Token  </name>
             <text>Changeling</text>
             <prop>
-                <cmc>0</cmc>
                 <type>Token Creature — Shapeshifter</type>
                 <maintype>Creature</maintype>
+                <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
             <set picURL="https://media.wizards.com/2019/mh1/en_tM8ljjBCro.png">MH1</set>
