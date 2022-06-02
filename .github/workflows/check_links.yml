@@ -73,8 +73,14 @@ jobs:
           fail: true
           jobSummary: true
 
+      - name: List duplicated image links
+        if: steps.tokens_pic_urls.outcome == 'success'
+        shell: bash
+        # Remove blank lines | sort | count and list duplicates
+        run: grep . tokens_pic_urls.txt | sort | uniq -cd
+
       - name: Image hosts statistics
         if: steps.tokens_pic_urls.outcome == 'success'
         shell: bash
-        # Extract domains from URLs | remove blank lines | group identical | count | sort descending
+        # Extract domains from URLs | remove blank lines | sort | count and list | sort descending
         run: awk -F/ '{print $3}' tokens_pic_urls.txt | grep . | sort | uniq -c | sort -nr
