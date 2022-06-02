@@ -1517,6 +1517,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Ongoing Investigation</reverse-related>
             <reverse-related>Press for Answers</reverse-related>
             <reverse-related>Root Out</reverse-related>
+            <reverse-related>Search the Premises</reverse-related>
             <reverse-related>Secrets of the Key</reverse-related>
             <reverse-related count="2" exclude="exclude">Secrets of the Key</reverse-related>
             <reverse-related>Survive the Night</reverse-related>
@@ -1525,7 +1526,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Thraben Inspector</reverse-related>
             <reverse-related>Tireless Tracker</reverse-related>
             <reverse-related>Trail of Evidence</reverse-related>
-            <reverse-related>Search the Premises</reverse-related>
             <reverse-related>Ulvenwald Mysteries</reverse-related>
             <reverse-related count="2">Wavesifter</reverse-related>
             <reverse-related>Weirding Wood</reverse-related>
@@ -1966,17 +1966,17 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <reverse-related>Awaken the Sky Tyrant</reverse-related>
             <reverse-related>Day of the Dragons</reverse-related>
             <reverse-related>Death by Dragons</reverse-related>
+            <reverse-related>Draconic Disciple</reverse-related>
             <reverse-related>Dragon Roost</reverse-related>
             <reverse-related>Dragonkin Berserker</reverse-related>
             <reverse-related>Dragonmaster Outcast</reverse-related>
+            <reverse-related>Lathliss, Dragon Queen</reverse-related>
             <reverse-related>Look Skyward and Despair</reverse-related>
             <reverse-related exclude="exclude">Loot Dispute</reverse-related>
             <reverse-related>Sarkhan the Mad</reverse-related>
+            <reverse-related count="4">Sarkhan, Fireblood</reverse-related>
             <reverse-related>Shiv</reverse-related>
             <reverse-related>Skyline Despot</reverse-related>
-            <reverse-related>Draconic Disciple</reverse-related>
-            <reverse-related>Lathliss, Dragon Queen</reverse-related>
-            <reverse-related count="4">Sarkhan, Fireblood</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3394,8 +3394,8 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related count="3">Clackbridge Troll</reverse-related>
             <reverse-related>Contraband Livestock</reverse-related>
             <reverse-related>Discordant Piper</reverse-related>
-            <reverse-related count="3" exclude="exclude">Goldmeadow</reverse-related>
             <reverse-related>Goldmeadow</reverse-related>
+            <reverse-related count="3" exclude="exclude">Goldmeadow</reverse-related>
             <reverse-related>Springjack Pasture</reverse-related>
             <reverse-related count="x">Springjack Shepherd</reverse-related>
             <reverse-related>Trading Post</reverse-related>
@@ -8402,8 +8402,8 @@ This creature can't be enchanted.</text>
             <set picURL="https://media.wizards.com/2017/xln/en_N4n6GAhvNw_b.png">XLN</set>
             <set picURL="https://media.wizards.com/2017/xln/en_g59A1EKi9e_b.png">XLN</set>
             <reverse-related>Academy Manufactor</reverse-related>
-            <reverse-related count="x">Ancient Copper Dragon</reverse-related>
             <reverse-related count="2">An Offer You Can't Refuse</reverse-related>
+            <reverse-related count="x">Ancient Copper Dragon</reverse-related>
             <reverse-related count="3">Atsushi, the Blazing Sky</reverse-related>
             <reverse-related count="x">Baeloth Barrityl, Entertainer</reverse-related>
             <reverse-related>Battle Angels of Tyr</reverse-related>
@@ -8550,8 +8550,8 @@ This creature can't be enchanted.</text>
             <reverse-related>Wily Goblin</reverse-related>
             <reverse-related count="x">Xorn</reverse-related>
             <reverse-related>You Find a Cursed Idol</reverse-related>
-            <reverse-related>Young Red Dragon // Bathe in Gold</reverse-related>
             <reverse-related count="x">You've Been Caught Stealing</reverse-related>
+            <reverse-related>Young Red Dragon // Bathe in Gold</reverse-related>
             <reverse-related>Zhentarim Bandit</reverse-related>
             <reverse-related count="3">Ziatora, the Incinerator</reverse-related>
             <token>1</token>
@@ -10038,8 +10038,8 @@ Throne of the Dead Three — Reveal the top ten cards of your library. Put a cre
                 <maintype>Dungeon</maintype>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/c/2c65185b-6cf0-451d-985e-56aa45d9a57d.jpg?1652898518">CLB</set>
-            <related>Treasure</related>
             <related>Skeleton Token  </related>
+            <related>Treasure</related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
