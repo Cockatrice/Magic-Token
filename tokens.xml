@@ -137,10 +137,10 @@
             <set picURL="https://media.wizards.com/2022/snc/en_kCYPFaz3D0.png">SNC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/2/323dd323-2ca2-4c85-9ef6-34341cd40d96.jpg?1626138901">AFR</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/6/96f407ef-2b08-45e9-a45e-128cf0a63839.jpg">OGW</set>
-            <reverse-related>The Book of Exalted Deeds</reverse-related>
             <reverse-related count="5">Elspeth Resplendent</reverse-related>
             <reverse-related>Linvala, the Preserver</reverse-related>
             <reverse-related count="x=3">Soul of Emancipation</reverse-related>
+            <reverse-related>The Book of Exalted Deeds</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
