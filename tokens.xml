@@ -113,7 +113,7 @@
             <name>Angel Token </name>
             <text>Flying</text>
             <prop>
-                <colors>B</colors><!-- note: this is the black angel token -->
+                <colors>B</colors>
                 <type>Token Creature — Angel</type>
                 <maintype>Creature</maintype>
                 <cmc>0</cmc>
