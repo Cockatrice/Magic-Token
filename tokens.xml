@@ -9357,9 +9357,9 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
-            <set picURL="">MIR</set>
+            <set picURL="https://github.com/SlightlyCircuitous/imagestorage/blob/main/Wood.jpeg?raw=true">MIR</set>
             <reverse-related>Jungle Patrol</reverse-related>
-            <token>1</token>https://github.com/SlightlyCircuitous/imagestorage/blob/main/Wood.jpeg?raw=true
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
