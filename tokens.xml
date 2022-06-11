@@ -4770,7 +4770,7 @@ Equip {2}</text>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
-            <set picURL="https://github.com/SlightlyCircuitous/imagestorage/blob/main/Kelp.jpeg?raw=true">ME2</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Kelp.jpeg?raw=true">ME2</set>
             <reverse-related>Wall of Kelp</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7789,7 +7789,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
-            <set picURL="https://github.com/SlightlyCircuitous/imagestorage/blob/main/Spirit.jpeg?raw=true">ME2</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Spirit.jpeg?raw=true">ME2</set>
             <reverse-related>Broken Visage</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -9342,7 +9342,7 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://github.com/SlightlyCircuitous/imagestorage/blob/main/Wolves%20of%20the%20Hunt.jpeg?raw=true">M10</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Wolves%20of%20the%20Hunt.jpeg?raw=true">M10</set>
             <reverse-related>Master of the Hunt</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -9357,7 +9357,7 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
-            <set picURL="https://github.com/SlightlyCircuitous/imagestorage/blob/main/Wood.jpeg?raw=true">MIR</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Wood.jpeg?raw=true">MIR</set>
             <reverse-related>Jungle Patrol</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -10821,7 +10821,7 @@ You draw a card during each opponent's end step.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="https://github.com/SlightlyCircuitous/imagestorage/blob/main/Unicorn.jpeg?raw=true">JMP</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Unicorn.jpeg?raw=true">JMP</set>
             <reverse-related>Blessed Sanctuary</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
