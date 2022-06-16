@@ -14,6 +14,7 @@ on:
   schedule:
     # Runs at the start of each month (UTC)
     - cron: '0 0 1 * *'
+  pull_request:
 
 jobs:
   check_urls:
@@ -39,15 +40,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Install XMLStarlet
-        shell: bash
-        run: sudo apt-get install xmlstarlet 
-
       - name: Extract URLs from tokens.xml
         if: always()
         id: tokens_pic_urls
         shell: bash
-        run: xmlstarlet sel -t -v "//set/@picURL" tokens.xml | tee tokens_pic_urls.txt
+        # Extract the "picURL" attributes with their values | only keep the value (one per line) | save to file
+        run: xmllint --xpath '//set/@picURL' tokens.xml | grep -Po 'picURL="\K[^"]+' | tee tokens_pic_urls.txt
 
       - name: Extract URLs from challenge_tokens.xml
         # Forcefully skipping, see https://github.com/Cockatrice/Magic-Token/issues/47
@@ -55,7 +53,8 @@ jobs:
         if: false
         id: challenge_pic_urls
         shell: bash
-        run: xmlstarlet sel -t -v "//set/@picURL" challenge_tokens.xml | tee challenge_pic_urls.txt
+        # Extract the "picURL" attributes with their values | only keep the value (one per line) | save to file
+        run: xmllint --xpath '//set/@picURL' tokens.xml | grep -Po 'picURL="\K[^"]+' | tee challenge_pic_urls.txt
 
       - name: Check tokens.xml URLs
         uses: lycheeverse/lychee-action@v1.5.0
