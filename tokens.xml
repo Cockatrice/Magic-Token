@@ -691,7 +691,6 @@ Creature tokens you control have flying and vigilance.</text>
                 <pt>4/4</pt>
             </prop>
             <set picURL="https://media.wizards.com/2018/rna/en_gcngyJXapg.png">RNA</set>
-            <reverse-related>Domri, Chaos Bringer (Emblem)</reverse-related>
             <reverse-related>Thrash // Threat</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -1146,7 +1145,6 @@ This creature can block only creatures with flying.</text>
             <set picURL="https://media.wizards.com/2020/iko/en_kfvZCnHFzR.png">IKO</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/3/b31f1580-5bba-4cef-b0c8-f2837a597b7d.jpg">M19</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/f/af0086cd-56b5-450e-818c-e54f45d1a104.jpg">AKH</set>
-            <reverse-related count="3">Ajani, Adversary of Tyrants (Emblem)</reverse-related>
             <reverse-related count="2">Cubwarden</reverse-related>
             <reverse-related count="2">Leonin Warleader</reverse-related>
             <reverse-related count="2">Pride Sovereign</reverse-related>
@@ -1490,7 +1488,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Briarbridge Tracker</reverse-related>
             <reverse-related>Bygone Bishop</reverse-related>
             <reverse-related>Byway Courier</reverse-related>
-            <reverse-related count="x">Chief Jim Hopper</reverse-related>
+            <reverse-related count="x">Sophina, Spearsage Deserter</reverse-related>
             <reverse-related>Confirm Suspicions</reverse-related>
             <reverse-related>Confront the Unknown</reverse-related>
             <reverse-related>Declaration in Stone</reverse-related>
@@ -1513,7 +1511,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Jace's Scrutiny</reverse-related>
             <reverse-related>Lonis, Cryptozoologist</reverse-related>
             <reverse-related>Magnifying Glass</reverse-related>
-            <reverse-related>Max, the Daredevil</reverse-related>
+            <reverse-related>Elmar, Ulvenwald Informant</reverse-related>
             <reverse-related>Ongoing Investigation</reverse-related>
             <reverse-related>Press for Answers</reverse-related>
             <reverse-related>Root Out</reverse-related>
@@ -1529,7 +1527,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Ulvenwald Mysteries</reverse-related>
             <reverse-related count="2">Wavesifter</reverse-related>
             <reverse-related>Weirding Wood</reverse-related>
-            <reverse-related count="x">Will the Wise</reverse-related>
+            <reverse-related count="x">Wernog, Rider's Chaplain</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -1849,7 +1847,6 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
                 <pt>*/*</pt>
             </prop>
             <set picURL="https://media.wizards.com/2020/iko/en_b84s3N9zlj.png">IKO</set>
-            <reverse-related>"Big Boy Forest Crusher"</reverse-related>
             <reverse-related>Quartzwood Crasher</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -3092,7 +3089,6 @@ This creature's power and toughness are each equal to the number of instant and 
             </prop>
             <set picURL="https://media.wizards.com/2020/iko/en_0nIopINqLh.png">IKO</set>
             <reverse-related>Everquill Phoenix</reverse-related>
-            <reverse-related>"Destoroyah, Perfect Lifeform"</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -5044,7 +5040,6 @@ Flanking</text>
                 <pt>8/8</pt>
             </prop>
             <set picURL="https://media.wizards.com/2020/iko/en_GhLGvqILvO.png">IKO</set>
-            <reverse-related>"What's Kraken"</reverse-related>
             <reverse-related>Ominous Seas</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -6092,6 +6087,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/5/85f9e977-f718-41b2-b30b-77a9a17e9733.jpg">SOM</set>
+            <related>Poison Counter</related>
             <reverse-related count="2">Carrion Call</reverse-related>
             <reverse-related count="x">Phyrexian Swarmlord</reverse-related>
             <reverse-related>Trigon of Infestation</reverse-related>
@@ -7150,6 +7146,7 @@ Equip {1}</text>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://cdn.staticneo.com/w/mtg/0/01/Snake3.jpg">LEG</set>
+            <related>Poison Counter</related>
             <reverse-related>Serpent Generator</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -9574,7 +9571,6 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             <reverse-related>Liliana, Death's Majesty</reverse-related>
             <reverse-related>Liliana, Dreadhorde General</reverse-related>
             <reverse-related>Liliana, Heretical Healer</reverse-related>
-            <reverse-related count="x=2">Liliana, the Last Hope (Emblem)</reverse-related>
             <reverse-related count="2">Maalfeld Twins</reverse-related>
             <reverse-related>Magus of the Bridge</reverse-related>
             <reverse-related count="x">Midnight Ritual</reverse-related>
@@ -10063,6 +10059,7 @@ Throne of the Dead Three — Reveal the top ten cards of your library. Put a cre
                 <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/c/1c97e5b2-a024-4aa7-a9b8-45f441aad138.jpg">M19</set>
+            <related count="3">Cat Token   </related>
             <reverse-related>Ajani, Adversary of Tyrants</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -10188,6 +10185,7 @@ Throne of the Dead Three — Reveal the top ten cards of your library. Put a cre
                 <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2018/rna/en_FdzLIC4pdx.png">RNA</set>
+            <related>Beast Token         </related>
             <reverse-related>Domri, Chaos Bringer</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -10455,6 +10453,7 @@ Throne of the Dead Three — Reveal the top ten cards of your library. Put a cre
                 <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_3uiqIat9XN.png">EMN</set>
+            <related count="x=2">Zombie Token</related>
             <reverse-related exclude="exclude">Liliana, the Last Hope</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -11029,7 +11028,6 @@ You draw a card during each opponent's end step.</text>
             <reverse-related exclude="exclude">Ichor Rats</reverse-related>
             <reverse-related exclude="exclude">Ichorclaw Myr</reverse-related>
             <reverse-related exclude="exclude">Inkmoth Nexus</reverse-related>
-            <reverse-related exclude="exclude">Insect Token</reverse-related>
             <reverse-related exclude="exclude">Leeches</reverse-related>
             <reverse-related exclude="exclude">Lost Leonin</reverse-related>
             <reverse-related exclude="exclude">Marsh Viper</reverse-related>
@@ -11062,7 +11060,6 @@ You draw a card during each opponent's end step.</text>
             <reverse-related exclude="exclude">Serpent Generator</reverse-related>
             <reverse-related exclude="exclude">Shriek Raptor</reverse-related>
             <reverse-related exclude="exclude">Skithiryx, the Blight Dragon</reverse-related>
-            <reverse-related exclude="exclude">Snake Token </reverse-related>
             <reverse-related exclude="exclude">Snake Cult Initiation</reverse-related>
             <reverse-related exclude="exclude">Spinebiter</reverse-related>
             <reverse-related exclude="exclude">Suq'Ata Assassin</reverse-related>
@@ -11128,6 +11125,7 @@ If a player casts no spells during their own turn, it becomes night next turn.</
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/c/9c0f7843-4cbb-4d0f-8887-ec823a9238da.jpg?1630606483">MID</set>
             <reverse-related exclude="exclude">Arlinn, the Pack's Hope</reverse-related>
+            <related>Night</related>
             <reverse-related>Baneblade Scoundrel</reverse-related>
             <reverse-related>Bird Admirer</reverse-related>
             <reverse-related>Brimstone Vandal</reverse-related>
@@ -11143,8 +11141,6 @@ If a player casts no spells during their own turn, it becomes night next turn.</
             <reverse-related>Harvesttide Infiltrator</reverse-related>
             <reverse-related>Hound Tamer</reverse-related>
             <reverse-related>Kessig Naturalist</reverse-related>
-            <reverse-related>Night</reverse-related>
-            <reverse-related>Obsessed Astronomer</reverse-related>
             <reverse-related>Outland Liberator</reverse-related>
             <reverse-related>Reckless Stormseeker</reverse-related>
             <reverse-related>Shady Traveler</reverse-related>
@@ -11172,7 +11168,7 @@ If a player casts at least two spells during their own turn, it becomes day next
                 <maintype>State</maintype>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/back/9/c/9c0f7843-4cbb-4d0f-8887-ec823a9238da.jpg?1630606483">MID</set>
-            <reverse-related>Day</reverse-related>
+            <related>Day</related>
             <reverse-related>Unnatural Moonrise</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -11394,8 +11390,6 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>Umori, the Collector</reverse-related>
             <reverse-related>Yorion, Sky Nomad</reverse-related>
             <reverse-related>Zirda, the Dawnwaker</reverse-related>
-            <reverse-related>"Obosh, With The Leggies"</reverse-related>
-            <reverse-related>"Gigan, Cyberclaw Terror"</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
