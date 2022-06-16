@@ -96,8 +96,8 @@
             <reverse-related count="x">Decree of Justice</reverse-related>
             <reverse-related>Descend upon the Sinful</reverse-related>
             <reverse-related count="x">Devout Invocation</reverse-related>
-            <reverse-related count="x">Entreat the Angels</reverse-related>
             <reverse-related count="x=1">Empyrial Storm</reverse-related>
+            <reverse-related count="x">Entreat the Angels</reverse-related>
             <reverse-related>Geist of Saint Traft</reverse-related>
             <reverse-related>Invocation of Saint Traft</reverse-related>
             <reverse-related>Luminarch Ascension</reverse-related>
@@ -213,8 +213,8 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
                 <pt>4/4</pt>
             </prop>
             <set picURL="https://media.wizards.com/2020/khm/en_KnCNSZ5P8f.png">KHM</set>
-            <reverse-related>Great Hall of Starnheim</reverse-related>
             <reverse-related>Firja's Retribution</reverse-related>
+            <reverse-related>Great Hall of Starnheim</reverse-related>
             <reverse-related count="x=1">Starnheim Unleashed</reverse-related>
             <reverse-related attach="attach">Valkyrie's Sword</reverse-related>
             <token>1</token>
@@ -421,9 +421,9 @@ Creature tokens you control have flying and vigilance.</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/9/89d7ed94-564b-415c-b590-d89c972384a1.jpg">MMA</set>
             <reverse-related>Bat Whisperer</reverse-related>
             <reverse-related count="2">Belfry Spirit</reverse-related>
-            <reverse-related count="2">Skeletal Vampire</reverse-related>
             <reverse-related>Desecrated Tomb</reverse-related>
             <reverse-related>Regal Bloodlord</reverse-related>
+            <reverse-related count="2">Skeletal Vampire</reverse-related>
             <reverse-related>Timothar, Baron of Bats</reverse-related>
             <reverse-related count="x" exclude="exclude">Timothar, Baron of Bats</reverse-related>
             <token>1</token>
@@ -1488,13 +1488,13 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Briarbridge Tracker</reverse-related>
             <reverse-related>Bygone Bishop</reverse-related>
             <reverse-related>Byway Courier</reverse-related>
-            <reverse-related count="x">Sophina, Spearsage Deserter</reverse-related>
             <reverse-related>Confirm Suspicions</reverse-related>
             <reverse-related>Confront the Unknown</reverse-related>
             <reverse-related>Declaration in Stone</reverse-related>
             <reverse-related>Dennick, Pious Apparition</reverse-related>
             <reverse-related count="x">Disorder in the Court</reverse-related>
             <reverse-related>Drownyard Explorers</reverse-related>
+            <reverse-related>Elmar, Ulvenwald Informant</reverse-related>
             <reverse-related>Eloise, Nephalia Sleuth</reverse-related>
             <reverse-related count="x" exclude="exclude">Eloise, Nephalia Sleuth</reverse-related>
             <reverse-related count="x">Ethereal Investigator</reverse-related>
@@ -1511,13 +1511,13 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Jace's Scrutiny</reverse-related>
             <reverse-related>Lonis, Cryptozoologist</reverse-related>
             <reverse-related>Magnifying Glass</reverse-related>
-            <reverse-related>Elmar, Ulvenwald Informant</reverse-related>
             <reverse-related>Ongoing Investigation</reverse-related>
             <reverse-related>Press for Answers</reverse-related>
             <reverse-related>Root Out</reverse-related>
             <reverse-related>Search the Premises</reverse-related>
             <reverse-related>Secrets of the Key</reverse-related>
             <reverse-related count="2" exclude="exclude">Secrets of the Key</reverse-related>
+            <reverse-related count="x">Sophina, Spearsage Deserter</reverse-related>
             <reverse-related>Survive the Night</reverse-related>
             <reverse-related>Tamiyo's Journal</reverse-related>
             <reverse-related>Thorough Investigation</reverse-related>
@@ -1542,8 +1542,8 @@ Cloud Sprite can block only creatures with flying.</text>
             </prop>
             <set picURL="https://media.wizards.com/2018/c18/en_MJZbSQyxfg.png">C18</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/4/04d6b47f-5c2a-4771-90ee-4aa8c1eda0be.jpg">WWK</set>
-            <reverse-related>Stone Idol Trap</reverse-related>
             <reverse-related>Ancient Stone Idol</reverse-related>
+            <reverse-related>Stone Idol Trap</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -1812,12 +1812,12 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
                 <pt>3/3</pt>
             </prop>
             <set picURL="https://media.wizards.com/2017/xln/en_TStEIHIslY_b.png">XLN</set>
+            <reverse-related>Baffling End</reverse-related>
+            <reverse-related>Crested Herdcaller</reverse-related>
             <reverse-related>Huatli, Warrior Poet</reverse-related>
             <reverse-related>Raptor Hatchling</reverse-related>
             <reverse-related>Regisaur Alpha</reverse-related>
             <reverse-related>Thundering Spineback</reverse-related>
-            <reverse-related>Baffling End</reverse-related>
-            <reverse-related>Crested Herdcaller</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -2403,12 +2403,12 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <reverse-related count="x">Elemental Mastery</reverse-related>
             <reverse-related attach="attach">Mask of Immolation</reverse-related>
             <reverse-related count="2">Molten Birth</reverse-related>
+            <reverse-related count="2">Scampering Scorcher</reverse-related>
             <reverse-related count="x=1">Seasoned Pyromancer</reverse-related>
             <reverse-related count="2" exclude="exclude">Seasoned Pyromancer</reverse-related>
-            <reverse-related count="2">Scampering Scorcher</reverse-related>
             <reverse-related count="x">Tempt with Vengeance</reverse-related>
-            <reverse-related>Young Pyromancer</reverse-related>
             <reverse-related count="x">Tilonalli's Summoner</reverse-related>
+            <reverse-related>Young Pyromancer</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -2952,8 +2952,8 @@ This creature's power and toughness are each equal to the number of instant and 
             <reverse-related>Elderleaf Mentor</reverse-related>
             <reverse-related count="x">Elven Ambush</reverse-related>
             <reverse-related attach="attach">Elven Bow</reverse-related>
-            <reverse-related>Elvish Warmaster</reverse-related>
             <reverse-related count="x">Elvish Promenade</reverse-related>
+            <reverse-related>Elvish Warmaster</reverse-related>
             <reverse-related>Exquisite Huntmaster</reverse-related>
             <reverse-related count="3">Eyeblight Cullers</reverse-related>
             <reverse-related>Flourishing Defenses</reverse-related>
@@ -3210,8 +3210,8 @@ This creature's power and toughness are each equal to the number of instant and 
             <reverse-related>Manifestation Sage</reverse-related>
             <reverse-related>Oversimplify</reverse-related>
             <reverse-related>Paradox Zone</reverse-related>
-            <reverse-related>Serpentine Curve</reverse-related>
             <reverse-related>Sequence Engine</reverse-related>
+            <reverse-related>Serpentine Curve</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3362,11 +3362,11 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://cdn.staticneo.com/w/mtg/1/12/Gnome.jpg">USG</set>
-            <reverse-related count="4" exclude="exclude">Metrognome</reverse-related>
-            <reverse-related>Metrognome</reverse-related>
             <reverse-related>By Gnome Means</reverse-related>
             <reverse-related>Gnome-Made Engine</reverse-related>
             <reverse-related count="2">Gnomeball Machine</reverse-related>
+            <reverse-related>Metrognome</reverse-related>
+            <reverse-related count="4" exclude="exclude">Metrognome</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3455,8 +3455,8 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related>Goblin Rabblemaster</reverse-related>
             <reverse-related count="4">Goblin Rally</reverse-related>
             <reverse-related count="x">Goblin Traprunner</reverse-related>
-            <reverse-related count="3">Goblin Warrens</reverse-related>
             <reverse-related count="3">Goblin War Party</reverse-related>
+            <reverse-related count="3">Goblin Warrens</reverse-related>
             <reverse-related>Goblinslide</reverse-related>
             <reverse-related count="3">Hordeling Outburst</reverse-related>
             <reverse-related count="5">Hunted Phantasm</reverse-related>
@@ -3478,8 +3478,8 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related count="2">Sling-Gang Lieutenant</reverse-related>
             <reverse-related>Survey the Wreckage</reverse-related>
             <reverse-related count="x">Swarming Goblins</reverse-related>
-            <reverse-related count="2">You See a Pair of Goblins</reverse-related>
             <reverse-related count="x">Warbreak Trumpeter</reverse-related>
+            <reverse-related count="2">You See a Pair of Goblins</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3954,8 +3954,8 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <pt>2/2</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/2/e2020f53-d012-4d26-be13-87ed0f196c53.jpg">ISD</set>
-            <reverse-related>Stitcher's Apprentice</reverse-related>
             <reverse-related>Handy Dandy Clone Machine</reverse-related>
+            <reverse-related>Stitcher's Apprentice</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -5240,8 +5240,8 @@ Flying, vigilance, trample, lifelink, haste</text>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://media.wizards.com/2017/xln/en_xN71JjP3tz_b.png">XLN</set>
-            <reverse-related>Deeproot Waters</reverse-related>
             <reverse-related count="2">Aquatic Incursion</reverse-related>
+            <reverse-related>Deeproot Waters</reverse-related>
             <reverse-related>Jungleborn Pioneer</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -6677,6 +6677,8 @@ Equip {1}</text>
             <reverse-related count="x=2">Fertile Imagination</reverse-related>
             <reverse-related count="2">Fists of Ironwood</reverse-related>
             <reverse-related>Flash Foliage</reverse-related>
+            <reverse-related>Fungal Infection</reverse-related>
+            <reverse-related>Fungal Plots</reverse-related>
             <reverse-related count="2">Fungal Rebirth</reverse-related>
             <reverse-related count="x">Fungal Sprouting</reverse-related>
             <reverse-related>Ghave, Guru of Spores</reverse-related>
@@ -6693,6 +6695,7 @@ Equip {1}</text>
             <reverse-related>Necrogenesis</reverse-related>
             <reverse-related>Nemata, Grove Guardian</reverse-related>
             <reverse-related>Night Soil</reverse-related>
+            <reverse-related>Overgrown Armasaur</reverse-related>
             <reverse-related>Pallid Mycoderm</reverse-related>
             <reverse-related>Pollenbright Wings</reverse-related>
             <reverse-related>Psychotrope Thallid</reverse-related>
@@ -6701,14 +6704,18 @@ Equip {1}</text>
             <reverse-related count="5">Roots of All Evil</reverse-related>
             <reverse-related>Saproling Cluster</reverse-related>
             <reverse-related>Saproling Infestation</reverse-related>
+            <reverse-related count="2">Saproling Migration</reverse-related>
+            <reverse-related count="4" exclude="exclude">Saproling Migration</reverse-related>
             <reverse-related count="x">Saproling Symbiosis</reverse-related>
             <reverse-related>Savage Thallid</reverse-related>
             <reverse-related count="3">Scatter the Seeds</reverse-related>
             <reverse-related count="2">Seed Spark</reverse-related>
             <reverse-related>Selesnya Evangel</reverse-related>
             <reverse-related>Selesnya Guildmage</reverse-related>
+            <reverse-related>Slimefoot, the Stowaway</reverse-related>
             <reverse-related count="x">Spontaneous Generation</reverse-related>
             <reverse-related count="x">Spore Burst</reverse-related>
+            <reverse-related count="3">Spore Swarm</reverse-related>
             <reverse-related>Sporemound</reverse-related>
             <reverse-related>Sporesower Thallid</reverse-related>
             <reverse-related>Sporeweb Weaver</reverse-related>
@@ -6719,6 +6726,7 @@ Equip {1}</text>
             <reverse-related count="3">Sprouting Thrinax</reverse-related>
             <reverse-related>Supply // Demand</reverse-related>
             <reverse-related>Tana, the Bloodsower</reverse-related>
+            <reverse-related>Tendershoot Dryad</reverse-related>
             <reverse-related>Thallid</reverse-related>
             <reverse-related>Thallid Devourer</reverse-related>
             <reverse-related>Thallid Germinator</reverse-related>
@@ -6726,21 +6734,13 @@ Equip {1}</text>
             <reverse-related count="4">Thelonite Hermit</reverse-related>
             <reverse-related>Tukatongue Thallid</reverse-related>
             <reverse-related count="x">Ulasht, the Hate Seed</reverse-related>
+            <reverse-related>Undercellar Myconid</reverse-related>
             <reverse-related>Utopia Mycon</reverse-related>
             <reverse-related>Verdant Embrace</reverse-related>
             <reverse-related>Verdant Force</reverse-related>
             <reverse-related count="x">Verdeloth the Ancient</reverse-related>
             <reverse-related>Vitaspore Thallid</reverse-related>
             <reverse-related>Vitu-Ghazi, the City-Tree</reverse-related>
-            <reverse-related>Overgrown Armasaur</reverse-related>
-            <reverse-related>Tendershoot Dryad</reverse-related>
-            <reverse-related>Fungal Infection</reverse-related>
-            <reverse-related>Fungal Plots</reverse-related>
-            <reverse-related count="2">Saproling Migration</reverse-related>
-            <reverse-related count="4" exclude="exclude">Saproling Migration</reverse-related>
-            <reverse-related>Slimefoot, the Stowaway</reverse-related>
-            <reverse-related count="3">Spore Swarm</reverse-related>
-            <reverse-related>Undercellar Myconid</reverse-related>
             <reverse-related>Yavimaya Sapherd</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -6860,15 +6860,15 @@ Equip {1}</text>
             <reverse-related>Peema Outrider</reverse-related>
             <reverse-related>Propeller Pioneer</reverse-related>
             <reverse-related>Renegade's Getaway</reverse-related>
+            <reverse-related>Retrofitter Foundry</reverse-related>
+            <reverse-related>Saheeli, Sublime Artificer</reverse-related>
+            <reverse-related>Saheeli, the Gifted</reverse-related>
             <reverse-related count="2">Servo Exhibition</reverse-related>
             <reverse-related>Servo Schematic</reverse-related>
             <reverse-related>Sly Requisitioner</reverse-related>
             <reverse-related count="3">Sram's Expertise</reverse-related>
             <reverse-related count="2">Visionary Augmenter</reverse-related>
             <reverse-related count="2">Weaponcraft Enthusiast</reverse-related>
-            <reverse-related>Retrofitter Foundry</reverse-related>
-            <reverse-related>Saheeli, Sublime Artificer</reverse-related>
-            <reverse-related>Saheeli, the Gifted</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7512,11 +7512,11 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/d/7df0de51-8d05-475a-832e-de8a0f60849e.jpg">SHM</set>
             <reverse-related count="x">Arachnogenesis</reverse-related>
             <reverse-related>Arasta of the Endless Web</reverse-related>
+            <reverse-related>Brood Weaver</reverse-related>
             <reverse-related>Curse of Clinging Webs</reverse-related>
             <reverse-related count="x" exclude="exclude">Curse of Clinging Webs</reverse-related>
             <reverse-related>Gloomwidow's Feast</reverse-related>
             <reverse-related count="3">Ishkanah, Grafwidow</reverse-related>
-            <reverse-related>Brood Weaver</reverse-related>
             <reverse-related>Rotwidow Pack</reverse-related>
             <reverse-related count="x">Spider Spawning</reverse-related>
             <reverse-related>Twin-Silk Spider</reverse-related>
@@ -7630,10 +7630,10 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related count="x=1" exclude="exclude">Alharu, Solemn Ritualist</reverse-related>
             <reverse-related>Avacyn's Collar</reverse-related>
             <reverse-related count="3">Benevolent Offering</reverse-related>
-            <reverse-related>Blessed Defiance</reverse-related>
             <reverse-related>Bishop of Wings</reverse-related>
-            <reverse-related>Brinebound Gift</reverse-related>
+            <reverse-related>Blessed Defiance</reverse-related>
             <reverse-related>Brine Comber</reverse-related>
+            <reverse-related>Brinebound Gift</reverse-related>
             <reverse-related>Clarion Spirit</reverse-related>
             <reverse-related>Court of Grace</reverse-related>
             <reverse-related>Custodi Soulbinders</reverse-related>
@@ -7653,8 +7653,8 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related>Haunted Library</reverse-related>
             <reverse-related count="x" exclude="exclude">Haunted Library</reverse-related>
             <reverse-related count="2">Heron-Blessed Geist</reverse-related>
-            <reverse-related count="x">Kaya, Geist Hunter</reverse-related>
             <reverse-related>Kaya the Inexorable</reverse-related>
+            <reverse-related count="x">Kaya, Geist Hunter</reverse-related>
             <reverse-related count="2">Kirtar's Wrath</reverse-related>
             <reverse-related>Kykar, Wind's Fury</reverse-related>
             <reverse-related count="2">Lingering Souls</reverse-related>
@@ -7761,8 +7761,8 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related>Concord with the Kami</reverse-related>
             <reverse-related count="x">Dripping-Tongue Zubera</reverse-related>
             <reverse-related>Forbidden Orchard</reverse-related>
-            <reverse-related>Gods' Eye, Gate to the Reikai</reverse-related>
             <reverse-related>Go-Shintai of Shared Purpose</reverse-related>
+            <reverse-related>Gods' Eye, Gate to the Reikai</reverse-related>
             <reverse-related count="x">Honden of Life's Web</reverse-related>
             <reverse-related>Kirin-Touched Orochi</reverse-related>
             <reverse-related count="x">Myojin of Blooming Dawn</reverse-related>
@@ -8253,8 +8253,8 @@ This creature can't be enchanted.</text>
             <reverse-related>Inspired Sphinx</reverse-related>
             <reverse-related>Loyal Apprentice</reverse-related>
             <reverse-related count="2">Maverick Thopterist</reverse-related>
-            <reverse-related>Pia Nalaar</reverse-related>
             <reverse-related count="2">Pia and Kiran Nalaar</reverse-related>
+            <reverse-related>Pia Nalaar</reverse-related>
             <reverse-related exclude="exclude">Retrofitter Foundry</reverse-related>
             <reverse-related>Sai, Master Thopterist</reverse-related>
             <reverse-related count="x">Sweep the Skies</reverse-related>
@@ -8794,12 +8794,12 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="https://media.wizards.com/2017/xln/en_yZ9fZMu6x5_b.png">XLN</set>
             <reverse-related>Adanto, the First Fort</reverse-related>
             <reverse-related count="3">Call to the Feast</reverse-related>
+            <reverse-related count="x">Elenda, the Dusk Rose</reverse-related>
             <reverse-related>Legion's Landing</reverse-related>
+            <reverse-related>Martyr of Dusk</reverse-related>
             <reverse-related>Mavren Fein, Dusk Apostle</reverse-related>
             <reverse-related>Paladin of the Bloodstained</reverse-related>
             <reverse-related count="2">Queen's Commission</reverse-related>
-            <reverse-related count="x">Elenda, the Dusk Rose</reverse-related>
-            <reverse-related>Martyr of Dusk</reverse-related>
             <reverse-related>Squire's Devotion</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -9057,14 +9057,14 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/7/677a1d9d-86fd-49db-9573-8cd2cbc1a096.jpg">DTK</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/f/af4c9101-85bf-4a4f-a496-ff6db7b531b7.jpg">KTK</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/4/f46bcc76-181c-4e06-aa04-590a3e651dc7.jpg">KTK</set>
+            <reverse-related>Blaring Recruiter</reverse-related>
             <reverse-related>Herald of Anafenza</reverse-related>
             <reverse-related count="2">Mardu Charm</reverse-related>
             <reverse-related>Mardu Hordechief</reverse-related>
-            <reverse-related count="x">Secure the Wastes</reverse-related>
-            <reverse-related count="3">Take Up Arms</reverse-related>
-            <reverse-related>Blaring Recruiter</reverse-related>
             <reverse-related count="x=1">Najeela, the Blade-Blossom</reverse-related>
             <reverse-related count="2">Regna, the Redeemer</reverse-related>
+            <reverse-related count="x">Secure the Wastes</reverse-related>
+            <reverse-related count="3">Take Up Arms</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -9226,8 +9226,8 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/c/9c138bf9-8be6-4f1a-a82c-a84938ab84f5.jpg">SHM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/2/02a80dc2-0811-4df0-95f1-dd80ce9e24de.jpg">LRW</set>
             <reverse-related>Arlinn Kord</reverse-related>
-            <reverse-related>Arlinn, Voice of the Pack</reverse-related>
             <reverse-related count="2">Arlinn, the Pack's Hope</reverse-related>
+            <reverse-related>Arlinn, Voice of the Pack</reverse-related>
             <reverse-related>Bestial Menace</reverse-related>
             <reverse-related>Child of the Pack</reverse-related>
             <reverse-related>Cult of the Waxing Moon</reverse-related>
@@ -9550,8 +9550,8 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             <reverse-related count="x">Endless Ranks of the Dead</reverse-related>
             <reverse-related>Feast or Famine</reverse-related>
             <reverse-related>Field of the Dead</reverse-related>
-            <reverse-related count="3">From Under the Floorboards</reverse-related>
             <reverse-related count="x" exclude="exclude">From Under the Floorboards</reverse-related>
+            <reverse-related count="3">From Under the Floorboards</reverse-related>
             <reverse-related count="x">Ghoulcaller Gisa</reverse-related>
             <reverse-related>Ghoulcaller's Accomplice</reverse-related>
             <reverse-related count="2">Gisa's Bidding</reverse-related>
@@ -11151,8 +11151,8 @@ If a player casts no spells during their own turn, it becomes night next turn.</
             <reverse-related>Tavern Ruffian</reverse-related>
             <reverse-related>The Celestus</reverse-related>
             <reverse-related>Tireless Hauler</reverse-related>
-            <reverse-related>Tovolar, Dire Overlord</reverse-related>
             <reverse-related exclude="exclude">Tovolar's Huntmaster</reverse-related>
+            <reverse-related>Tovolar, Dire Overlord</reverse-related>
             <reverse-related>Vadrik, Astral Archmage</reverse-related>
             <reverse-related>Village Watch</reverse-related>
             <token>1</token>
@@ -11284,9 +11284,9 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>Dawnglade Regent</reverse-related>
             <reverse-related>Emberwilde Captain</reverse-related>
             <reverse-related>Entourage of Trest</reverse-related>
-            <reverse-related>Garrulous Sycophant</reverse-related>
             <reverse-related>Fall from Favor</reverse-related>
             <reverse-related>Feast of Succession</reverse-related>
+            <reverse-related>Garrulous Sycophant</reverse-related>
             <reverse-related>Garrulous Sycophant</reverse-related>
             <reverse-related>Jared Carthalion, True Heir</reverse-related>
             <reverse-related>Keeper of Keys</reverse-related>
