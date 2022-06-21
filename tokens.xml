@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20220602c</sourceVersion>
+        <sourceVersion>20220615</sourceVersion>
     </info>
     <cards>
         <!--
@@ -119,9 +119,7 @@
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/2/323dd323-2ca2-4c85-9ef6-34341cd40d96.jpg?1626138901">AFR</set>
             <set picURL="https://cdn.staticneo.com/w/mtg/b/bb/Angel3.jpg">APC</set>
-            <reverse-related>The Book of Exalted Deeds</reverse-related>
             <reverse-related>Haunted Angel</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -137,10 +135,12 @@
                 <pt>3/3</pt>
             </prop>
             <set picURL="https://media.wizards.com/2022/snc/en_kCYPFaz3D0.png">SNC</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/2/323dd323-2ca2-4c85-9ef6-34341cd40d96.jpg?1626138901">AFR</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/6/96f407ef-2b08-45e9-a45e-128cf0a63839.jpg">OGW</set>
             <reverse-related count="5">Elspeth Resplendent</reverse-related>
             <reverse-related>Linvala, the Preserver</reverse-related>
             <reverse-related count="x=3">Soul of Emancipation</reverse-related>
+            <reverse-related>The Book of Exalted Deeds</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -1542,7 +1542,6 @@ Cloud Sprite can block only creatures with flying.</text>
                 <cmc>0</cmc>
                 <pt>6/12</pt>
             </prop>
-            <set picURL="https://media.wizards.com/2021/mh2/en_VBMpVr1YCW.png">MH2</set>
             <set picURL="https://media.wizards.com/2018/c18/en_MJZbSQyxfg.png">C18</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/4/04d6b47f-5c2a-4771-90ee-4aa8c1eda0be.jpg">WWK</set>
             <reverse-related>Stone Idol Trap</reverse-related>
@@ -1593,6 +1592,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <cmc>0</cmc>
                 <pt>0/0</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/7/a7caaf39-8f16-4f1d-bee6-a45674306319.jpg?1641306203">MH2</set>
             <set picURL="https://media.wizards.com/2021/stx/en_8b5IEmN8hy.png">C21</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_XpfrQhOv2b.png">MH1</set>
             <set picURL="https://media.wizards.com/2018/dom/en_fyrNJBF5ZM.png">DOM</set>
@@ -4770,7 +4770,7 @@ Equip {2}</text>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
-            <set picURL="">ME2</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Kelp.jpeg?raw=true">ME2</set>
             <reverse-related>Wall of Kelp</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7789,7 +7789,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
-            <set picURL="">ME2</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Spirit.jpeg?raw=true">ME2</set>
             <reverse-related>Broken Visage</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -8484,7 +8484,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="x">Marut</reverse-related>
             <reverse-related>Monologue Tax</reverse-related>
             <reverse-related count="2">Most Wanted</reverse-related>
-            <reverse-related count="x=1">Negan, The Cold-Blooded</reverse-related>
+            <reverse-related count="x=1">Negan, the Cold-Blooded</reverse-related>
             <reverse-related>Noble's Purse</reverse-related>
             <reverse-related count="x">Ognis, the Dragon's Lash</reverse-related>
             <reverse-related count="x">Old Gnawbone</reverse-related>
@@ -8665,7 +8665,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Tuktuk The Returned</name>
+            <name>Tuktuk the Returned</name>
             <prop>
                 <type>Token Legendary Artifact Creature — Goblin Golem</type>
                 <maintype>Creature</maintype>
@@ -9342,7 +9342,7 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="">M10</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Wolves%20of%20the%20Hunt.jpeg?raw=true">M10</set>
             <reverse-related>Master of the Hunt</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -9357,7 +9357,7 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
-            <set picURL="">MIR</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Wood.jpeg?raw=true">MIR</set>
             <reverse-related>Jungle Patrol</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -10821,7 +10821,7 @@ You draw a card during each opponent's end step.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="">JMP</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Unicorn.jpeg?raw=true">JMP</set>
             <reverse-related>Blessed Sanctuary</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
