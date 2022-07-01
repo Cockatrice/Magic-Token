@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20220615</sourceVersion>
+        <sourceVersion>20220701</sourceVersion>
     </info>
     <cards>
         <!--
@@ -76,7 +76,7 @@
             <set picURL="https://media.wizards.com/2020/iko/en_8mnpdZmZOl.png">C20</set>
             <set picURL="https://media.wizards.com/2018/c18/en_51u40KF6eI.png">C18</set>
             <set picURL="https://media.wizards.com/2018/a25/en_S2PxKHYae5.png">A25</set>
-            <set picURL="https://media.wizards.com/2017/ust/en_NE0jIpGdx5.png">UST</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/back/e/2/e2235007-b02e-463b-95e1-a8bea74a0f9d.jpg?1571508092">UST</set>
             <set picURL="https://media.wizards.com/2017/b9jm8nwv_mm3/en_gvwFXo4kL2.png">MM3</set>
             <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_OnvtmxOuug.png">SOI</set>
             <set picURL="https://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_KWY1Kgc86t.png">C15</set>
@@ -507,7 +507,7 @@ Creature tokens you control have flying and vigilance.</text>
             <set picURL="https://media.wizards.com/2019/c19/en_gqJ8IOFNKN.png">C19</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/3/832691a5-c638-481b-a413-3fdfc604a132.jpg">M19</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/5/d51a6408-0311-4daa-bfb2-b2f6f8fcbc3e.jpg?1561758147">BBD</set>
-            <set picURL="https://media.wizards.com/2017/ust/en_nDIhTLwNrc.png">UST</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/back/6/1/610def80-1303-488e-bfd9-4a27f031d20e.jpg?1571508307">UST</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/5/c5ca0ca5-421c-41d9-a797-3c8443d253ae.jpg">E01</set>
             <set picURL="https://media.wizards.com/2017/b9jm8nwv_mm3/en_usBhGfeR1M.png">MM3</set>
             <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/W0xMFNlHxf_EN.png">C16</set>
@@ -1474,16 +1474,16 @@ Cloud Sprite can block only creatures with flying.</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/2/d25234a6-cb8d-479a-90f5-9d1a1084277b.jpg?1654172822">CLB</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/7/b7c52125-929a-4e03-a955-d55ae34a905b.jpg?1634242346">SLD</set>
             <set picURL="https://media.wizards.com/2021/mid/en_TbQVcnUgf6.png">MID</set>
-            <set picURL="https://media.wizards.com/2021/mh2/en_xEWjasCt66.png">MH2</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/b/eb129b0d-1349-4e88-a6a7-b7968b26ee7e.jpg?1641306201">MH2</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_RTwvNOebur.png">2XM</set>
             <set picURL="https://media.wizards.com/2018/c18/en_1LubZ0qmyk.png">C18</set>
-            <set picURL="https://media.wizards.com/2017/ust/en_qK2MGqzQbu.png">UST</set>
-            <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_Pdlgntbr3f.png">SOI</set>
-            <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_y9rdQBkOEb.png">SOI</set>
-            <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_IhCXdxohl3.png">SOI</set>
-            <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_V2yqkDIY0I.png">SOI</set>
-            <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_hFK9CuGyR3.png">SOI</set>
-            <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_on2A5IZpXh.png">SOI</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/back/9/b/9b111525-0600-4bae-94a3-df8f9472388f.jpg?1571508353">UST</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/2/f2c859e1-181e-44d1-afbd-bbd6e52cf42a.jpg?1562086885">SOI</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/f/4f1241c3-d960-4eb4-a726-ca474209645b.jpg?1562086869">SOI</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/7/271afa7e-2126-4497-b871-9795b7355d69.jpg?1562086861">SOI</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/9/291e6490-6727-45ae-90ba-de2ff8f63162.jpg?1562086863">SOI</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/2/b2d16818-7812-4d36-b1bf-fb954e5ac958.jpg?1562086877">SOI</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/d/3d66ec9c-7e5d-47ca-bce4-46798152d1f4.jpg?1562086865">SOI</set>
             <reverse-related>Academy Manufactor</reverse-related>
             <reverse-related>Bearer of Overwhelming Truths</reverse-related>
             <reverse-related>Briarbridge Patrol</reverse-related>
@@ -1575,8 +1575,8 @@ Cloud Sprite can block only creatures with flying.</text>
                 <pt>*/*</pt>
             </prop>
             <set picURL="https://media.wizards.com/2021/stx/en_7GMB4gYQub.png">C21</set>
-            <set picURL="https://media.wizards.com/2016/bVvMNuiu2i_KLD/en_ROHZBBAJrp.png">KLD</set>
-            <set picURL="https://media.wizards.com/2016/bVvMNuiu2i_KLD/en_fCSrpoVGcO.png">KLD</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/2/623a08d1-f5ff-48b7-bdb6-54b8d7a4b931.jpg?1562639829">KLD</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/5/a55f071a-f250-4a2b-9060-da27f2fc0f48.jpg?1562639962">KLD</set>
             <reverse-related>Metallurgic Summonings</reverse-related>
             <reverse-related>Oviya Pashiri, Sage Lifecrafter</reverse-related>
             <reverse-related>Rapid Prototyper</reverse-related>
@@ -2399,7 +2399,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <set picURL="https://media.wizards.com/2019/m20/en_WiBAwccjqG.png">M20</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_uecu91gJps.png">MH1</set>
             <set picURL="https://media.wizards.com/2017/rix/en_it7lbrrNfw.png">RIX</set>
-            <set picURL="https://media.wizards.com/2017/ust/en_1zKJiI6bIw.png">UST</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/back/7/2/72b45263-d4e9-4a53-a78b-be651e18b615.jpg?1571508472">UST</set>
             <set picURL="https://media.wizards.com/2016/adhfianalodifdj2_EMA/en_43rUaKSbgs.png">EMA</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/d/ed37fa8e-5930-4e57-8ead-73894ac40c19.jpg">M14</set>
             <reverse-related count="2">Chandra, Acolyte of Flame</reverse-related>
@@ -2616,7 +2616,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <pt>*/*</pt>
             </prop>
             <set picURL="https://media.wizards.com/2020/2xm/en_iSgyGNisMo.png">2XM</set>
-            <set picURL="https://media.wizards.com/2017/ust/en_hVi6aiRirc.png">UST</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/back/7/0/70f1f745-9fc2-41a6-9d39-fb4964595cf5.jpg?1571508365">UST</set>
             <set picURL="https://media.wizards.com/2017/b9jm8nwv_mm3/en_rONwJn9fUD.png">MM3</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/b/5bfb1440-d4c1-42cf-a777-ee1644dbbac7.jpg">DGM</set>
             <reverse-related>Voice of Resurgence</reverse-related>
@@ -3155,12 +3155,12 @@ This creature's power and toughness are each equal to the number of instant and 
                 <type>Token Artifact — Food</type>
                 <maintype>Artifact</maintype>
             </prop>
-            <set picURL="https://media.wizards.com/2021/mh2/en_cjUfxlcbHM.png">MH2</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/7/37e32ba6-108a-421f-9dad-3d03f7ebe239.jpg?1641306206">MH2</set>
             <set picURL="https://media.wizards.com/2021/stx/en_yZooy52syX.png">C21</set>
-            <set picURL="https://media.wizards.com/2019/eld/en_Il49X0ZN05.png">ELD</set>
-            <set picURL="https://media.wizards.com/2019/eld/en_8MSslzedLY.png">ELD</set>
-            <set picURL="https://media.wizards.com/2019/eld/en_zSLS0TURcJ.png">ELD</set>
-            <set picURL="https://media.wizards.com/2019/eld/en_4OwNtoBgbf.png">ELD</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/f/bf36408d-ed85-497f-8e68-d3a922c388a0.jpg?1572489210">ELD</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/3/13e8f518-1c0d-4c01-a397-71481839d02b.jpg?1572489217">ELD</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/6/46582e55-c6f4-46e4-a78e-2c586ca4cf4d.jpg?1572489226">ELD</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/6/261aed78-2d57-4ed4-b3d2-53b139b6bd44.jpg?1572489232">ELD</set>
             <reverse-related>Academy Manufactor</reverse-related>
             <reverse-related>Bake into a Pie</reverse-related>
             <reverse-related>Bartered Cow</reverse-related>
@@ -3760,7 +3760,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set picURL="https://media.wizards.com/2021/stx/en_REaEZpi3c1.png">C21</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/6/c6a3a35a-ebd8-47e5-a5ed-c736b8bed968.jpg?1641306118">C21</set>
             <reverse-related>Triplicate Titan</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -3774,7 +3774,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set picURL="https://media.wizards.com/2021/stx/en_pNOX677GEU.png">C21</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/0/40c50c6d-5116-4acb-89d3-f27efb20d336.jpg?1641306120">C21</set>
             <reverse-related>Triplicate Titan</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -3788,7 +3788,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set picURL="https://media.wizards.com/2021/stx/en_0b7h8oPYUA.png">C21</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/2/f27efb56-7fd4-4d0e-b641-a152b3ef8953.jpg?1641306122">C21</set>
             <reverse-related>Triplicate Titan</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4266,9 +4266,9 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://media.wizards.com/2020/2xm/en_5SH2Q6VQQs.png">2XM</set>
-            <set picURL="https://media.wizards.com/2020/iko/en_o8Tv89Oivm.png">IKO</set>
-            <set picURL="https://media.wizards.com/2020/iko/en_1oqquHyBg9.png">IKO</set>
-            <set picURL="https://media.wizards.com/2020/iko/en_pI8GLjxwQ5.png">IKO</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/0/90de6d1e-e654-4f4a-8014-061ce69e540f.jpg?1591225563">IKO</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/d/6d9669b1-04bd-4620-9856-04ea0473ec57.jpg?1591225569">IKO</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/4/e406949f-c629-48fa-9fb0-ba6191054d35.jpg?1591225575">IKO</set>
             <set picURL="https://media.wizards.com/2019/thb/en_pssmp0NOLm.png">THB</set>
             <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_fPCM1CDouX.png">SOI</set>
             <reverse-related>Bastion of Remembrance</reverse-related>
@@ -4811,9 +4811,9 @@ Equip {2}</text>
             <set picURL="https://media.wizards.com/2020/m21/en_GuzqmaBD8h.png">M21</set>
             <set picURL="https://media.wizards.com/2019/eld/en_9Imcz8rwoV.png">ELD</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/d/fd8ca5ee-7b93-4248-8f4a-b88261ee1eed.jpg">M19</set>
-            <set picURL="https://media.wizards.com/2018/dom/en_sYO9Sdh8Vs.png">DOM</set>
-            <set picURL="https://media.wizards.com/2018/dom/en_jZzvwfMjcS.png">DOM</set>
-            <set picURL="https://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_989oeP4YLT.png">C15</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/c/cc7d137c-f6c0-44e5-af9f-a8bbd52d3b2a.jpg?1562702338">DOM</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/0/e0bce908-fc95-40c6-a04a-752d56aca836.jpg?1562702400">DOM</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/b/fb900962-2273-4e13-92c5-e9aced0d322d.jpg?1562857292">C15</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/b/1bc2969b-2176-4471-b316-9c80443866dd.jpg">ORI</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/7/67d3d039-248a-4eb8-be5c-12959b458fea.jpg">RTR</set>
             <reverse-related>Aryel, Knight of Windgrace</reverse-related>
@@ -4851,7 +4851,7 @@ Equip {2}</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="https://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_dEwDCo3Xh2.png">C15</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/a/2a6415b3-cd84-41fc-95cd-3d2dd84911cb.jpg?1562857262">C15</set>
             <reverse-related count="3">Hunted Dragon</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5146,8 +5146,8 @@ A manifested creature card can be turned face up any time for its mana cost. A f
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="https://media.wizards.com/2019/c19/en_8QvRWunBtH.png">C19</set>
-            <set picURL="https://media.wizards.com/2018/c18/en_4pAyT2EoSw.png">C18</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/3/e3088dea-11fd-403b-aaf4-56852283ba3d.jpg?1572370832">C19</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/6/d6fb189b-20a3-4ba4-86ec-f84513e0281a.jpg?1592709971">C18</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/9/e9f896d4-34b4-407d-be7e-bf7a69aaf811.jpg">FRF</set>
             <reverse-related>Arashin War Beast</reverse-related>
             <reverse-related>Arbiter of the Ideal</reverse-related>
@@ -5362,8 +5362,8 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="https://media.wizards.com/2019/c19/en_2PiDopP5O3.png">C19</set>
-            <set picURL="https://media.wizards.com/2018/a25/en_ak0QBpuIOt.png">A25</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/9/e9375cbe-93c0-41a5-a6e3-fb4416f54a69.jpg?1572370830">C19</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/d/cd0b42a0-5e08-406d-82b0-be5f72870c47.jpg?1562702342">A25</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/f/5f29231c-dd21-4a45-a1f0-464d338128ed.jpg">DTK</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/c/bc513990-b4e8-498b-84d5-8317bc79a667.jpg">KTK</set>
             <reverse-related attach="attach">Abomination of Gudul</reverse-related>
@@ -5985,7 +5985,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <pt>4/4</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/5/65f64d14-c203-4401-a379-c6227d1cbac2.jpg?1654172085">CLB</set>
-            <set picURL="https://media.wizards.com/2021/stx/en_D5eP4dV4Pk.png">C21</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/6/06b5e4d2-7eac-4ee9-82aa-80a668705679.jpg?1641306088">C21</set>
             <reverse-related count="x">Ezuri's Predation</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -6000,10 +6000,10 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <pt>0/0</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/d/7dfd481c-94ad-4a2e-a396-3d4a10bacc33.jpg?1644543591">NEC</set>
-            <set picURL="https://media.wizards.com/2021/mh2/en_OPidhU2PQ4.png">MH2</set>
-            <set picURL="https://media.wizards.com/2020/2xm/en_XbLXIG0896.png">2XM</set>
-            <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/byg00olvZx_EN.png">C16</set>
-            <set picURL="https://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_UF6tUBntoI.png">C15</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/5/b53e0681-603e-4180-bc86-3dadf214e61a.jpg?1641306175">MH2</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/e/9ecc467e-b345-446c-b9b7-5f164e6651a4.jpg?1598311624">2XM</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/1/d197efaf-4c60-460a-81d2-651e2914b82b.jpg?1562937128">C16</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/5/d573bb59-5167-4578-8674-355f38d0b7be.jpg?1562857285">C15</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/4/4414f9fa-dfda-4714-9f87-cb5e8914b07a.jpg">MM2</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/e/eede5cf7-1c41-4523-ad27-9c232e1f2bb5.jpg">C14</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/6/760dcba4-c0f1-4843-9c39-393c629aae8e.jpg">MBS</set>
@@ -6047,9 +6047,9 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set picURL="https://media.wizards.com/2020/cmr/en_qgtC0N8hOe.png">CMR</set>
-            <set picURL="https://media.wizards.com/2019/mh1/en_skGeUMCHa2.png">MH1</set>
-            <set picURL="https://media.wizards.com/2017/b9jm8nwv_mm3/en_BsmvNmPP4D.png">MM3</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/f/af7c6e4c-4980-4b1b-8156-fd17dd6f47c9.jpg?1608908566">CMR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/c/dc77b308-9d0c-492f-b3fe-e00d60470767.jpg?1563073222">MH1</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/0/509be7b3-490d-4229-ba10-999921a6b977.jpg?1562841177">MM3</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/e/fe9e8d3b-ebc0-448b-bd14-a9f418e196e7.jpg">NPH</set>
             <reverse-related>Blade Splicer</reverse-related>
             <reverse-related>Conversion Chamber</reverse-related>
@@ -6072,10 +6072,10 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
-            <set picURL="https://media.wizards.com/2020/cmr/en_VQiXAzkmaT.png">CMR</set>
-            <set picURL="https://media.wizards.com/2019/c19/en_KYFJOiuHTJ.png">C19</set>
-            <set picURL="https://media.wizards.com/2018/c18/en_krflCNhKUy.png">C18</set>
-            <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/FcpMah0evd_EN.png">C16</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/d/7db68985-a1d5-4bd5-bfc6-c7208689d7df.jpg?1608908587">CMR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/1/6188c0f0-0346-46d4-8a45-ae2749bf246f.jpg?1572370790">C19</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/e/ae98a532-2e83-46bc-b391-cc0ab20ea0da.jpg?1592710130">C18</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/4/248ae300-40cc-4e6f-8fa6-2bd6ab85fee6.jpg?1562902339">C16</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/a/5a4c5954-da2b-498a-9e86-eb4d6dc95cb8.jpg">MBS</set>
             <reverse-related>Phyrexian Rebirth</reverse-related>
             <token>1</token>
@@ -6137,8 +6137,8 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>2/1</pt>
             </prop>
-            <set picURL="https://media.wizards.com/2020/2xm/en_uuVXV4ix9e.png">2XM</set>
-            <set picURL="https://media.wizards.com/2018/c18/en_91HuVMHk2Q.png">C18</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/8/483c8cd6-288c-49d7-ac28-642132f85259.jpg?1598311565">2XM</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/5/656af066-f9b3-4c23-b6c4-3ff55776858f.jpg?1592710019">C18</set>
             <reverse-related>Brudiclad, Telchor Engineer</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -6152,7 +6152,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set picURL="https://media.wizards.com/2020/2xm/en_vj2z2umJ9C.png">2XM</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/6/a6ee0db9-ac89-4ab6-ac2e-8a7527d9ecbd.jpg?1598312477">2XM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/2/c20607b9-4f4a-4dbc-a09f-250ba2d53f80.jpg">C14</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/e/ee53b9a0-8e07-404d-87ae-ff8397a0ba29.jpg">SOM</set>
             <reverse-related>Wurmcoil Engine</reverse-related>
@@ -6168,7 +6168,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set picURL="https://media.wizards.com/2020/2xm/en_VOExBta6Z8.png">2XM</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/6/b68e816f-f9ac-435b-ad0b-ceedbe72447a.jpg?1598312203">2XM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/f/1f27a3e2-bfd6-4d01-aef1-0bdb09e41ee0.jpg">C14</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/e/3e46e703-2157-41e5-9c21-c17af43e0d3f.jpg">SOM</set>
             <reverse-related>Wurmcoil Engine</reverse-related>
@@ -6264,7 +6264,7 @@ Creatures you control attach each combat if able.</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/d/0dfac8bc-2b81-4577-a69c-8edbdbcc84aa.jpg?1644543501">NEC</set>
             <set picURL="https://media.wizards.com/2020/cmr/en_IXhrHgdcQy.png">CMR</set>
             <set picURL="https://media.wizards.com/2020/znr/en_CdHQEdc7Zh.png">ZNR</set>
-            <set picURL="https://media.wizards.com/2020/2xm/en_OCjIAJaJO2.png">2XM</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/1/b1d05bfc-c447-474a-9ec9-9f4772821bfb.jpg?1598311749">2XM</set>
             <set picURL="https://media.wizards.com/2018/c18/en_ZjevIjFfjB.png">C18</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/5/8501a910-e181-4f85-ad34-d2a099257148.jpg">OGW</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/1/c1424e8d-1f96-44af-9382-c337b6695ddf.jpg">WWK</set>
@@ -6647,14 +6647,14 @@ Equip {1}</text>
             <set picURL="https://media.wizards.com/2020/m21/en_F6MYJEIKON.png">M21</set>
             <set picURL="https://media.wizards.com/2020/iko/en_0grsvGZ0uD.png">C20</set>
             <set picURL="https://media.wizards.com/2019/c19/en_Mndwkmo0lD.png">C19</set>
-            <set picURL="https://media.wizards.com/2018/dom/en_LOqdfjtnAr.png">DOM</set>
-            <set picURL="https://media.wizards.com/2018/dom/en_7j8M2Q8rpE.png">DOM</set>
-            <set picURL="https://media.wizards.com/2018/dom/en_nX2NtdaX1u.png">DOM</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/3/5371de1b-db33-4db4-a518-e35c71aa72b7.jpg?1562702067">DOM</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/4/a49da8fe-559f-4c34-b904-c285188fb98d.jpg?1562702234">DOM</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/b/0b425bdc-b3d5-4825-9f97-a00e2d932438.jpg?1562701895">DOM</set>
             <set picURL="https://media.wizards.com/2017/rix/en_d10yUrbm43.png">RIX</set>
-            <set picURL="https://media.wizards.com/2017/ust/en_xz62g8fvtZ.png">UST</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/back/8/c/8ce60642-e207-46e6-b198-d803ff3b47f4.jpg?1571508385">UST</set>
             <set picURL="https://media.wizards.com/2017/b9jm8nwv_mm3/en_SbfhAAr1fv.png">MM3</set>
-            <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/GDoSGrEih8_EN.png">C16</set>
-            <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/r73oaJWhdf_EN.png">C16</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/3/0302fa7d-2e34-4f4a-a84e-7a78febc77f5.jpg?1562895593">C16</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/3/43b42383-6055-4c85-9555-d95aaa3078d1.jpg?1562908655">C16</set>
             <set picURL="https://media.wizards.com/2015/c15_9dsm28ccakCDSk2/en_aoxNphcwIn.png">C15</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/a/3aa39099-1ce8-4d59-bc2e-6bb99d10e97c.jpg">MM2</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/f/afd66b96-eccb-44ce-9125-063d34af2ff8.jpg">M14</set>
@@ -6837,9 +6837,9 @@ Equip {1}</text>
             <set picURL="https://media.wizards.com/2020/2xm/en_J5bZ8HFzvR.png">2XM</set>
             <set picURL="https://media.wizards.com/2019/war/en_Jg1FD7mOfM.png">WAR</set>
             <set picURL="https://media.wizards.com/2018/c18/en_JyIqd8Hnqa.png">C18</set>
-            <set picURL="https://media.wizards.com/2016/bVvMNuiu2i_KLD/en_xzZQc5a68Z.png">KLD</set>
-            <set picURL="https://media.wizards.com/2016/bVvMNuiu2i_KLD/en_oKAeTK3DKA.png">KLD</set>
-            <set picURL="https://media.wizards.com/2016/bVvMNuiu2i_KLD/en_b786LD89UN.png">KLD</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/1/e1980809-4c81-4080-92cd-31776962a4e1.jpg?1562640093">KLD</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/0/60842b1a-6ae7-4b3b-a23f-0d94a3d89884.jpg?1562639827">KLD</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/7/d79e2bf1-d26d-4be3-a5ad-a43346ed445a.jpg?1562640071">KLD</set>
             <reverse-related>Accomplished Automaton</reverse-related>
             <reverse-related>Aether Chaser</reverse-related>
             <reverse-related>Aether Herder</reverse-related>
@@ -7238,7 +7238,7 @@ Equip {1}</text>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/5/b5000cf8-2104-4d85-95df-29efa92256f6.jpg?1654171358">CLB</set>
             <set picURL="https://media.wizards.com/2021/tsr/en_9FccNzYgB2.png">TSR</set>
-            <set picURL="https://media.wizards.com/2020/cmr/en_osnA6sXQAQ.png">CMR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/3/23b4c4d7-5b53-417a-a61b-df56eec4a274.jpg?1620573766">CMR</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_o6IQOYzKQz.png">2XM</set>
             <set picURL="https://media.wizards.com/2020/m21/en_dM7NU2ZQUb.png">M21</set>
             <set picURL="https://media.wizards.com/2020/iko/en_AMfETR4UJ5.png">C20</set>
@@ -7607,7 +7607,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <set picURL="https://media.wizards.com/2019/m20/en_a5z4djZ5ky.png">M20</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/3/b3c9a097-219b-4aaf-831f-cc0cddbcfaae.jpg?1561757870">BBD</set>
             <set picURL="https://media.wizards.com/2018/a25/en_MfLkYTjk6c.png">A25</set>
-            <set picURL="https://media.wizards.com/2017/ust/en_jOLUnmQ3sd.png">UST</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/back/4/1/41fc8b22-f6fe-4853-b80a-64ab70a41f1d.jpg?1571508521">UST</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/b/5b2c2f3d-9489-4e7b-85e3-db1f2ee0f601.jpg">E01</set>
             <set picURL="https://media.wizards.com/2017/b9jm8nwv_mm3/en_OoBnRxjJID.png">MM3</set>
             <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/a8Dcl06bW6_EN.png">C16</set>
@@ -8229,12 +8229,12 @@ This creature can't be enchanted.</text>
             <set picURL="https://media.wizards.com/2021/stx/en_C8KHYt73VZ.png">C21</set>
             <set picURL="https://media.wizards.com/2020/2xm/en_P7Ua75t2Cv.png">2XM</set>
             <set picURL="https://media.wizards.com/2018/rna/en_VL2JcQP37W.png">RNA</set>
-            <set picURL="https://media.wizards.com/2018/c18/en_mBoeau7u3l.png">C18</set>
-            <set picURL="https://media.wizards.com/2018/c18/en_Lw5bv3eHeO.png">C18</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/d/8d502061-ca95-4067-a61f-bc5294c274dd.jpg?1592710157">C18</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/2/62cafc0a-cd02-4265-aa1f-b8a6cb7cc8db.jpg?1592710150">C18</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/0/d0044cd9-2136-423e-aa2a-829e8f007535.jpg">M19</set>
-            <set picURL="https://media.wizards.com/2016/bVvMNuiu2i_KLD/en_ZQ77vJDpoE.png">KLD</set>
-            <set picURL="https://media.wizards.com/2016/bVvMNuiu2i_KLD/en_V8a0HO5toy.png">KLD</set>
-            <set picURL="https://media.wizards.com/2016/bVvMNuiu2i_KLD/en_PQycN8PjmE.png">KLD</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/c/9c9a3d08-040a-4fec-b86d-c41a074f925c.jpg?1562639947">KLD</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/d/fd03a2b9-bfd7-4e1d-b660-e9f945699b78.jpg?1562640153">KLD</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/d/7d39524b-a4af-44ed-8f04-50680628c28f.jpg?1562639880">KLD</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/f/bfa49655-6ce7-404b-ad12-33ec1cd7c0d3.jpg">ORI</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/5/75fa5fab-1076-443b-ba27-46d10770883d.jpg">ORI</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/f/8f4e230e-f604-4803-9cbd-fd08d2863db4.jpg">MBS</set>
@@ -8283,8 +8283,8 @@ This creature can't be enchanted.</text>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://media.wizards.com/2020/2xm/en_OuAEDAzu53.png">2XM</set>
-            <set picURL="https://media.wizards.com/2018/c18/en_R477TZPffA.png">C18</set>
-            <set picURL="https://media.wizards.com/2017/ust/en_R8H1j5GjDU.png">UST</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/3/a3506ee6-a168-49a4-9814-2858194be60e.jpg?1592710025">C18</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/back/2/d/2d844ee2-20a0-4071-bc2c-4a58ab1dc07f.jpg?1571508393">UST</set>
             <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/PK9s0eoiqm_EN.png">C16</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/2/52510a8b-a5a2-421b-a8b4-5ab60c848628.jpg">ALA</set>
             <reverse-related count="2">Breya, Etherium Shaper</reverse-related>
@@ -8378,15 +8378,15 @@ This creature can't be enchanted.</text>
                 <cmc>0</cmc>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/7/770b988d-4f31-4746-8c23-4ed8d9a6b393.jpg?1654171665">CLB</set>
-            <set picURL="https://media.wizards.com/2022/snc/en_hLVcbOyxF3.png">SNC</set>
-            <set picURL="https://media.wizards.com/2022/snc/en_XHQoWUdbKk.png">SNC</set>
-            <set picURL="https://media.wizards.com/2022/snc/en_u1BnldwqLg.png">SNC</set>
-            <set picURL="https://media.wizards.com/2022/snc/en_5j7mwsCJD8.png">SNC</set>
-            <set picURL="https://media.wizards.com/2022/snc/en_AXaJsB76gI.png">SNC</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/b/1be23c27-d8b6-4f59-8ab8-9ce80e9e29dd.jpg?1650820123">SNC</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/8/b883958b-1d82-4c1a-9f19-ab20fc01d5f4.jpg?1650820135">SNC</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/2/825c7dce-a51b-4ce2-9359-a17c577f535d.jpg?1650820212">SNC</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/0/70a356a2-c851-41e5-a389-7019575d5ace.jpg?1650820175">SNC</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/3/93116d98-2dad-4b80-a3af-9e36e34da6d4.jpg?1650820194">SNC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/9/6911181d-573b-41eb-96a4-799c96e008fc.jpg?1644542893">NEO</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/a/0a89fdcf-0672-4241-834f-5db2c861694d.jpg?1636630296">VOW</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/3/a3a684b7-27e0-4d9e-a064-9e03c6e50c89.jpg?1626139418">AFR</set>
-            <set picURL="https://media.wizards.com/2021/mh2/en_rdUdpRE0fi.png">MH2</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/0/d0ab4943-3943-4b83-8da3-90a1fb0988b3.jpg?1641306212">MH2</set>
             <set picURL="https://media.wizards.com/2021/stx/en_rNuFANCh1U.png">STX</set>
             <set picURL="https://media.wizards.com/2020/khm/en_zdHT30nIpZ.png">KHM</set>
             <set picURL="https://media.wizards.com/2020/cmr/en_8W0qnpCjl9.png">CMR</set>
@@ -8397,10 +8397,10 @@ This creature can't be enchanted.</text>
             <set picURL="https://media.wizards.com/2019/c19/en_sNEBzx6V2p.png">C19</set>
             <set picURL="https://media.wizards.com/2019/m20/en_kZwk2VjcE9.png">M20</set>
             <set picURL="https://media.wizards.com/2018/rna/en_tgR7GbIWg8.png">RNA</set>
-            <set picURL="https://media.wizards.com/2017/xln/en_1x8JYIHKSF_b.png">XLN</set>
-            <set picURL="https://media.wizards.com/2017/xln/en_yQpDYPpsn4_b.png">XLN</set>
-            <set picURL="https://media.wizards.com/2017/xln/en_N4n6GAhvNw_b.png">XLN</set>
-            <set picURL="https://media.wizards.com/2017/xln/en_g59A1EKi9e_b.png">XLN</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/6/56f06ec6-634d-454b-a46a-dfefe4600d27.jpg?1562539772">XLN</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/1/21e89101-f1cf-4bbd-a1d5-c5d48512e0dd.jpg?1562539760">XLN</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/2/720f3e68-84c0-462e-a0d1-90236ccc494a.jpg?1562539782">XLN</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/b/bbe8bced-9524-47f6-a600-bf4ddc072698.jpg?1562539795">XLN</set>
             <reverse-related>Academy Manufactor</reverse-related>
             <reverse-related count="2">An Offer You Can't Refuse</reverse-related>
             <reverse-related count="x">Ancient Copper Dragon</reverse-related>
@@ -8732,7 +8732,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="https://media.wizards.com/2017/ust/en_VElKRrZCMz.png">UST</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/back/5/d/5d9e999f-7033-4ccd-933a-eac4105b3edc.jpg?1571508406">UST</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/1/71496671-f7ba-4014-a895-d70a27979db7.jpg">KTK</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/f/5f68c2ab-5131-4620-920f-7ba99522ccf0.jpg">ISD</set>
             <reverse-related>Bloodline Keeper</reverse-related>
@@ -9484,8 +9484,8 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             <set picURL="https://media.wizards.com/2020/m21/en_sQXnmfJFAj.png">M21</set>
             <set picURL="https://media.wizards.com/2020/iko/en_4MgEbcrpn4.png">C20</set>
             <set picURL="https://media.wizards.com/2019/thb/en_zh0TosPHeW.png">THB</set>
-            <set picURL="https://media.wizards.com/2019/c19/en_RcvmrIA4co.png">C19</set>
-            <set picURL="https://media.wizards.com/2019/c19/en_Ryxjzpphjb.png">C19</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/e/8e214f84-01ee-49c1-8801-4e550b5ade5d.jpg?1572370688">C19</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/9/59bad855-ff86-4f98-bf18-0982c7aea9c5.jpg?1568003399">C19</set>
             <set picURL="https://media.wizards.com/2019/m20/en_lb4QSh11Zp.png">M20</set>
             <set picURL="https://media.wizards.com/2019/mh1/en_QGq3XFvF38.png">MH1</set>
             <set picURL="https://media.wizards.com/2019/war/en_kpTtzDM6jX.png">WAR</set>
@@ -9493,16 +9493,15 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             <set picURL="https://media.wizards.com/2018/c18/en_NlO9xMIqTz.png">C18</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/d/ed08aac1-9e82-4049-9926-618f15222024.jpg">M19</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/0/f08609b4-f5e0-4e3b-aee3-8ed3e3232074.jpg?1561758393">BBD</set>
-            <set picURL="https://media.wizards.com/2017/ust/en_PdePJoDtFG.png">UST</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/back/5/a/5a561f84-5696-44a5-8dc1-227af883341d.jpg?1571508505">UST</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/2/d2bd70ba-91a6-4944-92a1-89d561355c25.jpg">C17</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/5/b5bd6905-79be-4d2c-a343-f6e6a181b3e6.jpg">AKH</set>
             <set picURL="https://media.wizards.com/2017/b9jm8nwv_mm3/en_mdCldta8UM.png">MM3</set>
             <set picURL="https://media.wizards.com/2016/bn8f9t2zc_C16/KuzDDwCJi3_EN.png">C16</set>
             <set picURL="https://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_jiQZPry4Js.png">CN2</set>
-            <set picURL="https://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_agGWKXppaH.png">EMN</set>
-            <set picURL="https://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_vpvtSxqjtz.png">EMN</set>
-            <set picURL="https://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_bgb9weEZA4.png">EMN</set>
-            <set picURL="https://media.wizards.com/2016/ouhtebrpjwxcnw5_EMN/en_SwNMotyu8E.png">EMN</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/5/15f1f43a-cbdb-4d1b-a254-dadcb2469784.jpg?1562636743">EMN</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/6/06e7f8df-826e-4ba7-9c6c-8c8eb7a61de8.jpg?1562636730">EMN</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/8/b8710a30-8314-49ef-b995-bd05454095be.jpg?1562636876">EMN</set>
             <set picURL="https://media.wizards.com/2016/adhfianalodifdj2_EMA/en_bsHDG8OapS.png">EMA</set>
             <set picURL="https://media.wizards.com/2016/aksdjciawolkcc0_soi/en_Hys6V2Lnum.png">SOI</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/0/e0bde78b-98d1-4864-899b-fc2f945ce06b.jpg">OGW</set>
@@ -9646,6 +9645,7 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/4/e44aa879-b63b-497c-9c1b-2333950161fa.jpg?1562636931">EMN</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/5/95c59642-575f-4356-ae1a-20b90895545b.jpg">JOU</set>
             <reverse-related>Ritual of the Returned</reverse-related>
             <reverse-related>Soul Separator</reverse-related>
@@ -9735,10 +9735,10 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
                 <cmc>0</cmc>
                 <pt>0/0</pt>
             </prop>
-            <set picURL="https://media.wizards.com/2021/mh2/en_HcVgixr2CT.png">MH2</set>
-            <set picURL="https://media.wizards.com/2019/war/en_KzBBNMF6y0.png">WAR</set>
-            <set picURL="https://media.wizards.com/2019/war/en_R8RtdR3FnK.png">WAR</set>
-            <set picURL="https://media.wizards.com/2019/war/en_OxSS3LpAEh.png">WAR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/4/c46d82e0-ef99-473c-a09c-8f552db759bf.jpg?1641306185">MH2</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/f/2f4b7c63-8430-4ca4-baee-dc958d5bd22f.jpg?1557575919">WAR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/f/3f3f2ad9-d362-4602-8e49-b44c0659c112.jpg?1557575928">WAR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/2/12742d1f-eb2e-4262-88e2-403c9ae6c431.jpg?1557575935">WAR</set>
             <reverse-related>Angrath, Captain of Chaos</reverse-related>
             <reverse-related>Aven Eternal</reverse-related>
             <reverse-related>Bleeding Edge</reverse-related>
@@ -11090,7 +11090,7 @@ You draw a card during each opponent's end step.</text>
                 <type>State</type>
                 <maintype>State</maintype>
             </prop>
-            <set picURL="https://media.wizards.com/2017/rix/en_2MWLzaZo23.png">RIX</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/a/ba64ed3e-93c5-406f-a38d-65cc68472122.jpg?1561757924">RIX</set>
             <reverse-related>Arch of Orazca</reverse-related>
             <reverse-related>Deadeye Brawler</reverse-related>
             <reverse-related>Dusk Charger</reverse-related>
@@ -11183,7 +11183,7 @@ If a player casts at least two spells during their own turn, it becomes day next
             <prop>
                 <type>State</type>
             </prop>
-            <set picURL="https://media.wizards.com/2020/khm/en_iE830eyPLC.png">KHM</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/b/fb02637f-1385-4d3d-8dc0-de513db7633a.jpg?1615690969">KHM</set>
             <reverse-related exclude="exclude">Alrund's Epiphany</reverse-related>
             <reverse-related exclude="exclude">Augury Raven</reverse-related>
             <reverse-related exclude="exclude">Battle Mammoth</reverse-related>
@@ -11236,7 +11236,7 @@ When you take the initiative and at the beginning of your upkeep, venture into U
                 <type>State</type>
                 <maintype>State</maintype>
             </prop>
-            <set picURL="https://media.wizards.com/2022/clb/en_hdD7AcaWsq.png">CLB</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/c/2c65185b-6cf0-451d-985e-56aa45d9a57d.jpg?1654853128">CLB</set>
             <related>Undercity</related>
             <reverse-related>Aarakocra Sneak</reverse-related>
             <reverse-related>Avenging Hunter</reverse-related>
@@ -11272,8 +11272,8 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>State</type>
                 <maintype>State</maintype>
             </prop>
-            <set picURL="https://media.wizards.com/2020/cmr/en_LcDCcRmD0M.png">CMR</set>
-            <set picURL="https://media.wizards.com/2016/azetllnwjpxztp2b_CN2/en_OFPgMTjwcu.png">CN2</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/f/bf7f3fc9-35f1-4b8c-b02b-494c71f31107.jpg?1608908685">CMR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/0/40b79918-22a7-4fff-82a6-8ebfe6e87185.jpg?1561897497">CN2</set>
             <reverse-related>Archon of Coronation</reverse-related>
             <reverse-related>Azure Fleet Admiral</reverse-related>
             <reverse-related>Canal Courier</reverse-related>
@@ -11316,7 +11316,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>State</type>
                 <maintype>State</maintype>
             </prop>
-            <set picURL="https://media.wizards.com/2019/eld/en_crQ9MSOI2z.png">ELD</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/8/a8d50cf9-03e6-467a-aadf-84a24106ffa9.jpg?1572489247">ELD</set>
             <reverse-related attach="attach">Altar of Bhaal // Bone Offering</reverse-related>
             <reverse-related attach="attach">Amethyst Dragon // Explosive Crystal</reverse-related>
             <reverse-related attach="attach">Animating Faerie // Bring to Life</reverse-related>
@@ -11383,7 +11383,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>Companion</type>
                 <maintype>Companion</maintype>
             </prop>
-            <set picURL="https://media.wizards.com/2020/iko/en_ZOKQqQOlfH.png">IKO</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/b/6b95e8bd-2686-4790-afeb-9b17d482f156.jpg?1600995556">IKO</set>
             <reverse-related>Gyruda, Doom of Depths</reverse-related>
             <reverse-related>Jegantha, the Wellspring</reverse-related>
             <reverse-related>Kaheera, the Orphanguard</reverse-related>
@@ -11406,11 +11406,11 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>Token</type>
                 <maintype>Token</maintype>
             </prop>
-            <set picURL="https://media.wizards.com/2022/snc/en_BBFTyBh4yW.png">SNC</set>
-            <set picURL="https://media.wizards.com/2021/stx/en_mYnFHwNAcP.png">C21</set>
-            <set picURL="https://media.wizards.com/2020/cmr/en_8snBP6BZb7.png">CMR</set>
-            <set picURL="https://media.wizards.com/2020/znr/en_6X7SyYWItg.png">ZNR</set>
-            <set picURL="https://media.wizards.com/2020/2xm/en_9oRA18c9kd.png">2XM</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/e/1e6ce56c-ca2e-48e8-a4d9-671cb4de8a9d.jpg?1650819612">SNC</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/7/c7ba6540-3743-445c-99bf-feb5af2fd56d.jpg?1641306129">C21</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/4/1420c92f-a3f5-461a-b342-3708fa2212d7.jpg?1608908660">CMR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/6/06f62ebf-1600-4eaa-a998-3fd7d1ea2f65.jpg?1604195073">ZNR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/8/6870a2af-80e1-4813-a332-2b1bd789f1c1.jpg?1598312480">2XM</set>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
