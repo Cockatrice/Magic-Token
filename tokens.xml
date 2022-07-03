@@ -8492,6 +8492,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Jewel Thief</reverse-related>
             <reverse-related>Jewel-Eyed Cobra</reverse-related>
             <reverse-related>Jolene, the Plunder Queen</reverse-related>
+            <reverse-related count="x" exclude="exclude">Jolene, the Plunder Queen</reverse-related>
             <reverse-related>Kalain, Reclusive Painter</reverse-related>
             <reverse-related>Life Insurance</reverse-related>
             <reverse-related>Loot Dispute</reverse-related>
@@ -8551,6 +8552,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Smashing Success</reverse-related>
             <reverse-related>Smothering Tithe</reverse-related>
             <reverse-related>Smuggler's Share</reverse-related>
+            <reverse-related count="x" exclude="exclude">Smuggler's Share</reverse-related>
             <reverse-related count="x">Spell Swindle</reverse-related>
             <reverse-related>Spiked Pit Trap</reverse-related>
             <reverse-related count="x">Spiteful Repossession</reverse-related>
@@ -8566,7 +8568,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Tempting Contract</reverse-related>
             <reverse-related>Thieves' Tools</reverse-related>
             <reverse-related>Tireless Provisioner</reverse-related>
-            <reverse-related count="x">Tivit, Seller of Secrets</reverse-related>
+            <reverse-related count="x" exclude="exclude">Tivit, Seller of Secrets</reverse-related>
             <reverse-related count="5">Treasure Chest</reverse-related>
             <reverse-related count="3">Treasure Map</reverse-related>
             <reverse-related count="x">Treasure Vault</reverse-related>
