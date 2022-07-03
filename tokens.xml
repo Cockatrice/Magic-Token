@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20220702</sourceVersion>
+        <sourceVersion>20220703</sourceVersion>
     </info>
     <cards>
         <!--
@@ -1387,16 +1387,26 @@ This creature can block only creatures with flying.</text>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/f/3f03e9fe-cb71-498e-bf16-5af6af37a192.jpg?1650820069">SNC</set>
+            <reverse-related count="x">Boss's Chauffeur</reverse-related>
             <reverse-related count="2">Cabaretti Charm</reverse-related>
+            <reverse-related count="2">Caldaia Guardian</reverse-related>
             <reverse-related attach="attach">Citizen's Crowbar</reverse-related>
             <reverse-related>Courier's Briefcase</reverse-related>
             <reverse-related>Darling of the Masses</reverse-related>
             <reverse-related>Exhibition Magician</reverse-related>
+            <reverse-related count="x">Grand Crescendo</reverse-related>
             <reverse-related>Halo Fountain</reverse-related>
+            <reverse-related count="x">Indulge // Excess</reverse-related>
+            <reverse-related>Kitt Kanto, Mayhem Diva</reverse-related>
             <reverse-related>Luxurious Libation</reverse-related>
+            <reverse-related>Master of Ceremonies</reverse-related>
+            <reverse-related count="x" exclude="exclude">Master of Ceremonies</reverse-related>
+            <reverse-related count="x">Phabine, Boss's Confidant</reverse-related>
+            <reverse-related count="2">Prosperous Partnership</reverse-related>
             <reverse-related count="x">Rabble Rousing</reverse-related>
             <reverse-related>Rakish Revelers</reverse-related>
             <reverse-related>Sanctuary Warden</reverse-related>
+            <reverse-related count="x">Scepter of Celebration</reverse-related>
             <reverse-related exclude="exclude">Stimulus Package</reverse-related>
             <reverse-related>Warm Welcome</reverse-related>
             <token>1</token>
@@ -1483,6 +1493,8 @@ Cloud Sprite can block only creatures with flying.</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/2/b2d16818-7812-4d36-b1bf-fb954e5ac958.jpg?1562086877">SOI</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/d/3d66ec9c-7e5d-47ca-bce4-46798152d1f4.jpg?1562086865">SOI</set>
             <reverse-related>Academy Manufactor</reverse-related>
+            <reverse-related>Angelic Sleuth</reverse-related>
+            <reverse-related count="x" exclude="exclude">Angelic Sleuth</reverse-related>
             <reverse-related>Bearer of Overwhelming Truths</reverse-related>
             <reverse-related>Briarbridge Patrol</reverse-related>
             <reverse-related>Briarbridge Tracker</reverse-related>
@@ -1523,6 +1535,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Thorough Investigation</reverse-related>
             <reverse-related>Thraben Inspector</reverse-related>
             <reverse-related>Tireless Tracker</reverse-related>
+            <reverse-related count="x">Tivit, Seller of Secrets</reverse-related>
             <reverse-related>Trail of Evidence</reverse-related>
             <reverse-related>Ulvenwald Mysteries</reverse-related>
             <reverse-related count="2">Wavesifter</reverse-related>
@@ -3173,6 +3186,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <reverse-related>Gingerbread Cabin</reverse-related>
             <reverse-related count="x=1">Gluttonous Troll</reverse-related>
             <reverse-related count="x">Gyome, Master Chef</reverse-related>
+            <reverse-related count="x">Killer Service</reverse-related>
             <reverse-related>Late to Dinner</reverse-related>
             <reverse-related>Oko, Thief of Crowns</reverse-related>
             <reverse-related count="2">Orchard Strider</reverse-related>
@@ -5147,6 +5161,7 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <reverse-related>Arashin War Beast</reverse-related>
             <reverse-related>Arbiter of the Ideal</reverse-related>
             <reverse-related>Cloudform</reverse-related>
+            <reverse-related>Cryptic Pursuit</reverse-related>
             <reverse-related>Ethereal Ambush</reverse-related>
             <reverse-related>Fierce Invocation</reverse-related>
             <reverse-related>Formless Nurturing</reverse-related>
@@ -6504,7 +6519,6 @@ Creatures you control attach each combat if able.</text>
         </card>
         <card>
             <name>Rhino Warrior Token</name>
-            <text></text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Rhino Warrior</type>
@@ -6513,6 +6527,8 @@ Creatures you control attach each combat if able.</text>
                 <pt>4/4</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/3/230419f9-a9f7-441d-bad7-0ed867326aa1.jpg?1650820041">SNC</set>
+            <reverse-related count="x">Crash the Party</reverse-related>
+            <reverse-related exclude="exclude">Killer Service</reverse-related>
             <reverse-related>Titan of Industry</reverse-related>
             <reverse-related>Vivien on the Hunt</reverse-related>
             <reverse-related>Workshop Warchief</reverse-related>
@@ -6544,7 +6560,10 @@ Equip {1}</text>
                 <pt>2/2</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/6/06e503b9-a822-4c42-b478-1f598bc5941d.jpg?1650819906">SNC</set>
+            <reverse-related>Currency Converter</reverse-related>
             <reverse-related>Girder Goons</reverse-related>
+            <reverse-related>Misfortune Teller</reverse-related>
+            <reverse-related count="x">Waste Management</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -8409,6 +8428,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Black Market Tycoon</reverse-related>
             <reverse-related count="x">Blood Money</reverse-related>
             <reverse-related count="x">Bootleggers' Stash</reverse-related>
+            <reverse-related>Boxing Ring</reverse-related>
             <reverse-related>Brass's Bounty</reverse-related>
             <reverse-related>Brazen Freebooter</reverse-related>
             <reverse-related count="x">Bucknard's Everfull Purse</reverse-related>
@@ -8421,6 +8441,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Crack Open</reverse-related>
             <reverse-related exclude="exclude">Creative Outburst</reverse-related>
             <reverse-related count="x">Culmination of Studies</reverse-related>
+            <reverse-related>Currency Converter</reverse-related>
             <reverse-related>Deadeye Plunderers</reverse-related>
             <reverse-related>Deadly Dispute</reverse-related>
             <reverse-related>Depths of Desire</reverse-related>
@@ -8462,6 +8483,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="x" exclude="exclude">Hullbreacher</reverse-related>
             <reverse-related>Improvised Weaponry</reverse-related>
             <reverse-related>Impulsive Pilferer</reverse-related>
+            <reverse-related count="x" exclude="exclude">Indulge // Excess</reverse-related>
             <reverse-related count="2">Ingenious Mastery</reverse-related>
             <reverse-related count="3">Inspired Tinkering</reverse-related>
             <reverse-related>Instrument of the Bards</reverse-related>
@@ -8469,7 +8491,10 @@ This creature can't be enchanted.</text>
             <reverse-related count="2">Jan Jansen, Chaos Crafter</reverse-related>
             <reverse-related>Jewel Thief</reverse-related>
             <reverse-related>Jewel-Eyed Cobra</reverse-related>
+            <reverse-related>Jolene, the Plunder Queen</reverse-related>
+            <reverse-related count="x" exclude="exclude">Jolene, the Plunder Queen</reverse-related>
             <reverse-related>Kalain, Reclusive Painter</reverse-related>
+            <reverse-related>Life Insurance</reverse-related>
             <reverse-related>Loot Dispute</reverse-related>
             <reverse-related>Magda, Brazen Outlaw</reverse-related>
             <reverse-related count="x=1" exclude="exclude">Magda, Brazen Outlaw</reverse-related>
@@ -8478,7 +8503,10 @@ This creature can't be enchanted.</text>
             <reverse-related>Malcolm, Keen-Eyed Navigator</reverse-related>
             <reverse-related count="x" exclude="exclude">Malcolm, Keen-Eyed Navigator</reverse-related>
             <reverse-related>Marching Duodrone</reverse-related>
+            <reverse-related count="2">Mari, the Killing Quill</reverse-related>
             <reverse-related count="x">Marut</reverse-related>
+            <reverse-related count="x">Master of Ceremonies</reverse-related>
+            <reverse-related>Misfortune Teller</reverse-related>
             <reverse-related>Monologue Tax</reverse-related>
             <reverse-related count="2">Most Wanted</reverse-related>
             <reverse-related count="x=1">Negan, the Cold-Blooded</reverse-related>
@@ -8497,15 +8525,18 @@ This creature can't be enchanted.</text>
             <reverse-related>Professional Face-Breaker</reverse-related>
             <reverse-related>Prosper, Tome-Bound</reverse-related>
             <reverse-related>Prosperous Innkeeper</reverse-related>
+            <reverse-related exclude="exclude">Prosperous Partnership</reverse-related>
             <reverse-related count="2">Prosperous Pirates</reverse-related>
             <reverse-related>Prosperous Thief</reverse-related>
             <reverse-related>Prying Blade</reverse-related>
             <reverse-related>Ragavan, Nimble Pilferer</reverse-related>
+            <reverse-related count="2">Rain of Riches</reverse-related>
             <reverse-related count="2">Rapacious Dragon</reverse-related>
             <reverse-related count="x">Reckless Endeavor</reverse-related>
             <reverse-related>Reckoner Bankbuster</reverse-related>
             <reverse-related>Revel in Riches</reverse-related>
             <reverse-related>Riveteers Requisitioner</reverse-related>
+            <reverse-related>Rose Room Treasurer</reverse-related>
             <reverse-related count="2">Ruthless Knave</reverse-related>
             <reverse-related count="x">Ruthless Technomancer</reverse-related>
             <reverse-related>Safana, Calimport Cutthroat</reverse-related>
@@ -8514,13 +8545,17 @@ This creature can't be enchanted.</text>
             <reverse-related>Scion of Opulence</reverse-related>
             <reverse-related count="x" exclude="exclude">Scion of Opulence</reverse-related>
             <reverse-related>Seize the Spoils</reverse-related>
+            <reverse-related count="x">Seize the Spotlight</reverse-related>
             <reverse-related>Shambling Ghast</reverse-related>
             <reverse-related>Shiny Impetus</reverse-related>
             <reverse-related>Skullport Merchant</reverse-related>
             <reverse-related>Smashing Success</reverse-related>
             <reverse-related>Smothering Tithe</reverse-related>
+            <reverse-related>Smuggler's Share</reverse-related>
+            <reverse-related count="x" exclude="exclude">Smuggler's Share</reverse-related>
             <reverse-related count="x">Spell Swindle</reverse-related>
             <reverse-related>Spiked Pit Trap</reverse-related>
+            <reverse-related count="x">Spiteful Repossession</reverse-related>
             <reverse-related>Sticky Fingers</reverse-related>
             <reverse-related count="2">Stimulus Package</reverse-related>
             <reverse-related>Storm the Vault</reverse-related>
@@ -8533,6 +8568,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Tempting Contract</reverse-related>
             <reverse-related>Thieves' Tools</reverse-related>
             <reverse-related>Tireless Provisioner</reverse-related>
+            <reverse-related count="x" exclude="exclude">Tivit, Seller of Secrets</reverse-related>
             <reverse-related count="5">Treasure Chest</reverse-related>
             <reverse-related count="3">Treasure Map</reverse-related>
             <reverse-related count="x">Treasure Vault</reverse-related>
@@ -8540,6 +8576,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Undercity Scrounger</reverse-related>
             <reverse-related count="2">Unexpected Windfall</reverse-related>
             <reverse-related>Vault Robber</reverse-related>
+            <reverse-related count="x">Vazi, Keen Negotiator</reverse-related>
             <reverse-related count="x">Visions of Ruin</reverse-related>
             <reverse-related>Vraska, Relic Seeker</reverse-related>
             <reverse-related count="2">Wanted Scoundrels</reverse-related>
