@@ -1399,7 +1399,8 @@ This creature can block only creatures with flying.</text>
             <reverse-related count="x">Indulge // Excess</reverse-related>
             <reverse-related>Kitt Kanto, Mayhem Diva</reverse-related>
             <reverse-related>Luxurious Libation</reverse-related>
-            <reverse-related count="x">Master of Ceremonies</reverse-related>
+            <reverse-related>Master of Ceremonies</reverse-related>
+            <reverse-related count="x" exclude="exclude">Master of Ceremonies</reverse-related>
             <reverse-related count="x">Phabine, Boss's Confidant</reverse-related>
             <reverse-related count="2">Prosperous Partnership</reverse-related>
             <reverse-related count="x">Rabble Rousing</reverse-related>
