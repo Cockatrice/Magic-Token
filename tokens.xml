@@ -8543,6 +8543,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Scion of Opulence</reverse-related>
             <reverse-related count="x" exclude="exclude">Scion of Opulence</reverse-related>
             <reverse-related>Seize the Spoils</reverse-related>
+            <reverse-related count="x">Seize the Spotlight</reverse-related>
             <reverse-related>Shambling Ghast</reverse-related>
             <reverse-related>Shiny Impetus</reverse-related>
             <reverse-related>Skullport Merchant</reverse-related>
