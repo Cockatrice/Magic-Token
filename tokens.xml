@@ -2100,7 +2100,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
         </card>
         <card>
             <name>Dragon Token     </name>
-            <text>(This card's color is gold.)
+            <text>(This token's color is gold.)
 Flying</text>
             <prop>
                 <colors></colors>
@@ -3368,7 +3368,7 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
         </card>
         <card>
             <name>Giant Teddy Bear Token</name>
-            <text>(This card's color is pink.)</text>
+            <text>(This token's color is pink.)</text>
             <prop>
                 <colors></colors>
                 <type>Token Creature — Giant Teddy Bear</type>
@@ -11061,6 +11061,18 @@ You draw a card during each opponent's end step.</text>
             <tablerow>1</tablerow>
         </card>
         <card>
+            <name>Acorn Stash</name>
+            <text>(Place your acorn counters in this area.)</text>
+            <prop>
+                <type>Counter</type>
+                <maintype>Counter</maintype>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/8/e8fb396f-3ae1-4705-bf94-3e1b0556e910.jpg?1604842479">UND</set>
+            <reverse-related>Acornelia, Fashionable Filcher</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Energy Reserve</name>
             <prop>
                 <type>Counter</type>
@@ -11551,18 +11563,6 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>Umori, the Collector</reverse-related>
             <reverse-related>Yorion, Sky Nomad</reverse-related>
             <reverse-related>Zirda, the Dawnwaker</reverse-related>
-            <token>1</token>
-            <tablerow>1</tablerow>
-        </card>
-        <card>
-            <name>Acorn Stash</name>
-            <text>(Place your acorn counters in this area.)</text>
-            <prop>
-                <type>Token</type>
-                <maintype>Token</maintype>
-            </prop>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/8/e8fb396f-3ae1-4705-bf94-3e1b0556e910.jpg?1604842479">UND</set>
-            <reverse-related>Acornelia, Fashionable Filcher</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
