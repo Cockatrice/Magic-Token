@@ -2100,9 +2100,10 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
         </card>
         <card>
             <name>Dragon Token     </name>
-            <text>Flying</text>
+            <text>(This card's color is gold.)
+Flying</text>
             <prop>
-                <colors></colors> <!--This card's color is Gold-->
+                <colors></colors>
                 <type>Token Creature — Dragon</type>
                 <maintype>Creature</maintype>
                 <pt>4/4</pt>
@@ -3367,8 +3368,9 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
         </card>
         <card>
             <name>Giant Teddy Bear Token</name>
+            <text>(This card's color is pink.)</text>
             <prop>
-                <colors></colors> <!--This card's color is Pink-->
+                <colors></colors>
                 <type>Token Creature — Giant Teddy Bear</type>
                 <maintype>Creature</maintype>
                 <pt>5/5</pt>
