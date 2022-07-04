@@ -696,6 +696,20 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Beeble Token</name>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Beeble</type>
+                <maintype>Creature</maintype>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/b/9bbfa4d4-106b-4fec-86ac-b81b71a8f432.jpg?1584741596">UND</set>
+            <reverse-related>B.O.B. (Bevy of Beebles)</reverse-related>
+            <reverse-related count="4" exclude="exclude">B.O.B. (Bevy of Beebles)</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Bird Token</name>
             <text>Flying</text>
             <prop>
@@ -1018,6 +1032,19 @@ This creature can block only creatures with flying.</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/4/c49e8e79-8673-41c2-a1ad-273c37e27aca.jpg?1625767076">AFR</set>
             <reverse-related>Minsc &amp; Boo, Timeless Heroes</reverse-related>
             <reverse-related>Minsc, Beloved Ranger</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Brainiac Token</name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Brainiac</type>
+                <maintype>Creature</maintype>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/f/af1a8115-127d-4268-a4d0-95360862e5fb.jpg?1562927573">UST</set>
+            <reverse-related count="x">The Big Idea</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -1586,6 +1613,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <pt>*/*</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/0/c083dc19-2b62-4233-9ab9-04adc758b6d9.jpg?1641306112">C21</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/9/1935902c-d84f-496a-b9f1-f96d1f5e2b84.jpg?1562899738">UST</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/2/623a08d1-f5ff-48b7-bdb6-54b8d7a4b931.jpg?1562639829">KLD</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/5/a55f071a-f250-4a2b-9060-da27f2fc0f48.jpg?1562639962">KLD</set>
             <reverse-related>Metallurgic Summonings</reverse-related>
@@ -2067,6 +2095,22 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/e/0efaa5b5-984d-4eff-81b6-9b4989f149eb.jpg">M14</set>
             <reverse-related>Brood Keeper</reverse-related>
             <reverse-related>Dragon Egg</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Dragon Token     </name>
+            <text>Flying</text>
+            <prop>
+                <colors></colors> <!--This card's color is Gold-->
+                <type>Token Creature — Dragon</type>
+                <maintype>Creature</maintype>
+                <pt>4/4</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/8/6819b8c9-73a3-4e8e-ad7a-95cffabf873a.jpg?1584741606">UND</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/4/44c65dfd-69be-4345-92e9-51a35a486f21.jpg?1581535681">UST</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/e/8ee8b915-afd3-4fad-8aef-7e9cbbbbc2e4.jpg?1561757559">H17</set>
+            <reverse-related>Sword of Dungeons &amp; Dragons</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3092,6 +3136,21 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Faerie Spy Token</name>
+            <text>Flying, haste
+                Whenever this creature deals combat damage to a player, draw a card.</text>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Faerie Spy</type>
+                <maintype>Creature</maintype>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/0/1008e47a-a8c4-4f4f-8628-ac4b8f978dd0.jpg?1562898122">UST</set>
+            <reverse-related count="2">Faerie Aerie</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Feather</name>
             <text>{1}, Sacrifice Feather: Return target Phoenix card from your graveyard to the battlefield tapped.</text>
             <prop>
@@ -3307,6 +3366,19 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Giant Teddy Bear Token</name>
+            <prop>
+                <colors></colors> <!--This card's color is Pink-->
+                <type>Token Creature — Giant Teddy Bear</type>
+                <maintype>Creature</maintype>
+                <pt>5/5</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/2/628c542b-7579-4070-9143-6f1f7221468f.jpg?1609977149">UND</set>
+            <reverse-related>Water Gun Balloon Game</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Giant Warrior Token</name>
             <prop>
                 <colors>W</colors>
@@ -3375,7 +3447,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/1/12/Gnome.jpg">USG</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/b/dbf33cc3-254f-4c5c-be22-3a2d96f29b80.jpg?1581535770">UST</set>
             <reverse-related>By Gnome Means</reverse-related>
             <reverse-related>Gnome-Made Engine</reverse-related>
             <reverse-related count="2">Gnomeball Machine</reverse-related>
@@ -3396,6 +3468,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/c/5ce4f2b0-d63e-4f65-8261-ae61a8c9f591.jpg?1654171289">CLB</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/6/36cd5f96-5683-4959-b973-37f3c2fcf9bf.jpg?1581901929">THB</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/1/213be25c-88db-440b-83c3-973586a4f320.jpg?1572489117">ELD</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/4/c4b44a88-85e8-4f82-8968-cf1352f0fb87.jpg?1562931813">UST</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/d/ad511e21-5139-43d4-b07a-9d340465e100.jpg?1562929903">C16</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/b/5ba0e1c8-bb8e-4be4-8177-b2175e0c33fb.jpg">C14</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/4/64e90524-bad8-4d24-85be-9402401e7b42.jpg">M14</set>
@@ -3426,6 +3499,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/4/1425e965-7eea-419c-a7ec-c8169fa9edbf.jpg?1626139812">AFR</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/1/41268b47-df00-41db-92d7-991c7945e4c6.jpg?1641306189">MH2</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/3/234007e2-624f-42d0-af7f-9788f9f35fab.jpg?1641306034">TSR</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/0/60f874f9-7ac2-4d1a-97e3-722db719cd1c.jpg?1584752869">UND</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/5/c5522b39-802a-4508-a671-2f73b0633032.jpg?1563073114">MH1</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/0/c0861b13-6cf8-4078-9178-e223a4041a8b.jpg?1557575963">WAR</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/9/993613a6-09a9-45a5-b35f-5a5fdb6d14ec.jpg?1572892502">RNA</set>
@@ -3433,6 +3507,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/f/4f736760-60d5-412d-9877-753eb7b5f926.jpg">M19</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/d/bd79264f-0734-48b7-8333-4035e518d46c.jpg?1562702307">DOM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/9/7913ab41-f5d1-43d3-85e3-451befc97753.jpg?1562702140">A25</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/b/6be4b0d5-b3f8-4a5d-8a38-eb0e1886f655.jpg?1562915022">UST</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/f/8fbf199b-2c3f-441d-950e-c4a3d3086e4b.jpg?1562841185">MM3</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/3/d3ad6525-af56-4512-9a6e-3441e686c367.jpg?1562702366">EMA</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/2/b21498f5-9098-4e50-b1d3-bd64cba1372a.jpg">ORI</set>
@@ -3451,6 +3526,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/9/e9577d3c-ee19-4b53-adac-b304287a066f.jpg">10E</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/7/577c2e32-deb6-40d9-a050-c2acb5bfc05f.jpg">RTR</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/6/062043de-a199-408d-8d77-09531ad38b16.jpg">LGN</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/b/fbd728ed-d5dc-44b3-9159-6c86cab3be0c.jpg?1561758473">UGL</set>
             <reverse-related>Battle Cry Goblin</reverse-related>
             <reverse-related count="2">Beetleback Chief</reverse-related>
             <reverse-related count="x">Box of Free-Range Goblins</reverse-related>
@@ -5907,6 +5983,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/d/dd1b0ed9-a4c0-4c58-978a-918ca266c699.jpg?1654171274">CLB</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/1/f1e1d6b9-e1a2-4c26-981a-507bc895be8e.jpg?1572370471">C19</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/e/1e77b5dd-af53-4229-bd7f-9b961ebde8f7.jpg">C14</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/c/bc944579-b6d8-40f7-8c46-146513960d61.jpg?1561757940">UGL</set>
             <reverse-related>Pegasus Guardian // Rescue the Foal</reverse-related>
             <reverse-related>Pegasus Refuge</reverse-related>
             <reverse-related>Pegasus Stampede</reverse-related>
@@ -6568,6 +6645,20 @@ Equip {1}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Rogue Token </name>
+            <text>Menace</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Rogue</type>
+                <maintype>Creature</maintype>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/b/4b633d7b-6d61-4b1a-8d65-6e1f3d5ffba7.jpg?1562908763">UST</set>
+            <reverse-related>Dispatch Dispensary</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Sacred Cat (Token)</name>
             <text>Lifelink</text>
             <prop>
@@ -6999,6 +7090,19 @@ Equip {1}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Sheep Token </name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Sheep</type>
+                <maintype>Creature</maintype>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/8/281d2c14-2343-44c9-a589-7f4da37978a2.jpg?1561756815">UGL</set>
+            <reverse-related count="x">Flock of Rabid Sheep</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Shrine Token</name>
             <prop>
                 <type>Token Enchantment Creature — Shrine</type>
@@ -7286,6 +7390,7 @@ Equip {1}</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/8/c848b20e-a99c-445e-bf27-45a8e65a50d2.jpg">DDF</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/8/c8ae31d1-9a6e-43f3-9b04-bd15699f73d6.jpg">10E</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/b/5b953ca2-5be4-4c6a-a0fd-b53219ca6341.jpg">ONS</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/1/b159b57d-bc52-4cef-ac7a-e364e40c3d03.jpg?1561757834">UGL</set>
             <reverse-related count="x">Abdel Adrian, Gorion's Ward</reverse-related>
             <reverse-related>Akroan Horse</reverse-related>
             <reverse-related count="x">Alliance of Arms</reverse-related>
@@ -8025,9 +8130,12 @@ Cumulative upkeep {G}</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/8/380330b4-2d01-4042-97ac-41d9c60c982d.jpg?1654171629">CLB</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/7/977ddd05-1aae-46fc-95ce-866710d1c5c6.jpg?1641306196">MH2</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/a/aa846cf5-c618-4304-bb92-5df936ebca9b.jpg?1598312396">2XM</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/6/66c6d816-d9b2-4b11-b0e1-ab00be74cbda.jpg?1584741599">UND</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/b/7b997fe7-69f3-4ccd-b3a7-ef5e0cb7db46.jpg?1563073181">MH1</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/3/53500f0f-ef65-4534-a8db-80ce73030bc1.jpg?1562910261">UST</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/a/3af9733f-192f-4028-8ad6-aa1187dd15e7.jpg">CNS</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/f/af7c2def-d20d-4670-8950-7042e9380844.jpg">ODY</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/b/abf24a09-0a54-4e1d-a515-ed5ae99294be.jpg?1561757804">UGL</set>
             <reverse-related>Acorn Catapult</reverse-related>
             <reverse-related count="2">Acorn Harvest</reverse-related>
             <reverse-related>Chatter of the Squirrel</reverse-related>
@@ -8111,6 +8219,20 @@ Equip {0}</text>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/9/59a00cac-53ae-46ad-8468-e6d1db40b266.jpg">C14</set>
             <reverse-related exclude="exclude">Nahiri, the Lithomancer</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Storm Crow Token</name>
+            <text>Flying</text>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Bird</type>
+                <maintype>Creature</maintype>
+                <pt>1/2</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/0/80165be4-c6c8-4b22-b259-c64eb4b7fc95.jpg?1562918744">UST</set>
+            <reverse-related>Crow Storm</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -9557,6 +9679,7 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/a/ba9b6612-5372-4e6f-841f-20009f71a736.jpg">ALA</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/a/8a73e348-5bf1-4465-978b-3f31408bade9.jpg">10E</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/5/657fa00d-ddb5-49e6-a01e-82038cccfe30.jpg">ODY</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/e/8e7b5995-ee8b-40d1-b157-8df96c02cc5b.jpg?1561757555">UGL</set>
             <reverse-related count="x">Acererak the Archlich</reverse-related>
             <reverse-related>Aphemia, the Cacophony</reverse-related>
             <reverse-related>Archdemon of Unx</reverse-related>
@@ -11426,6 +11549,18 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>Umori, the Collector</reverse-related>
             <reverse-related>Yorion, Sky Nomad</reverse-related>
             <reverse-related>Zirda, the Dawnwaker</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Acorn Stash</name>
+            <text>(Place your acorn counters in this area.)</text>
+            <prop>
+                <type>Token</type>
+                <maintype>Token</maintype>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/8/e8fb396f-3ae1-4705-bf94-3e1b0556e910.jpg?1604842479">UND</set>
+            <reverse-related>Acornelia, Fashionable Filcher</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
