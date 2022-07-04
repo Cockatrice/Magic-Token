@@ -3138,7 +3138,7 @@ This creature's power and toughness are each equal to the number of instant and 
         <card>
             <name>Faerie Spy Token</name>
             <text>Flying, haste
-                Whenever this creature deals combat damage to a player, draw a card.</text>
+Whenever this creature deals combat damage to a player, draw a card.</text>
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Faerie Spy</type>
@@ -8223,7 +8223,7 @@ Equip {0}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Storm Crow Token</name>
+            <name>Storm Crow </name>
             <text>Flying</text>
             <prop>
                 <colors>U</colors>
