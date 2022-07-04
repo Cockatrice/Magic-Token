@@ -11068,7 +11068,7 @@ You draw a card during each opponent's end step.</text>
                 <maintype>Counter</maintype>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/8/e8fb396f-3ae1-4705-bf94-3e1b0556e910.jpg?1604842479">UND</set>
-            <reverse-related>Acornelia, Fashionable Filcher</reverse-related>
+            <reverse-related exclude="exclude">Acornelia, Fashionable Filcher</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
