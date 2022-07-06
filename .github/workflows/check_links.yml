@@ -63,10 +63,10 @@ jobs:
       - name: List duplicated image links
         if: steps.tokens_pic_urls.outcome == 'success'
         shell: bash
-        # Remove blank lines | sort | count and list duplicates
-        run: grep . tokens_pic_urls.txt | sort | uniq -cd
+        # Remove blank lines | trim trailing integers (Scryfall) | sort | count and list duplicates
+        run: grep . tokens_pic_urls.txt | sed 's/\.jpg?.*/.jpg/' | sort | uniq -cd
 
-      - name: Image hosts statistics
+      - name: Image host statistics
         if: steps.tokens_pic_urls.outcome == 'success'
         shell: bash
         # Extract domains from URLs | remove blank lines | sort | count and list | sort descending
