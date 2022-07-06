@@ -51,7 +51,6 @@ jobs:
           args: '--no-progress --require-https --cache --max-cache-age 1h -- tokens_pic_urls.txt'
           fail: true
           jobSummary: true
-          lycheeVersion: 0.9.0
 
       - name: Check challenge_tokens.xml URLs
         uses: lycheeverse/lychee-action@v1.5.0
@@ -60,7 +59,6 @@ jobs:
           args: '--no-progress --require-https --cache --max-cache-age 1h -- challenge_pic_urls.txt'
           fail: true
           jobSummary: true
-          lycheeVersion: 0.9.0
 
       - name: List duplicated image links
         if: steps.tokens_pic_urls.outcome == 'success'
