@@ -44,9 +44,30 @@ jobs:
         shell: bash
         run: xmlstarlet sel -t -v "//set/@picURL" challenge_tokens.xml | tee challenge_pic_urls.txt
 
+      - name: List duplicated image links
+        if: steps.tokens_pic_urls.outcome == 'success'
+        shell: bash
+        # Remove blank lines | trim trailing integers (Scryfall) | sort | count and list duplicates
+        run: |
+          grep . tokens_pic_urls.txt | sed 's/\.jpg?.*/.jpg/' | sort | uniq -cd
+          # Add link to results to summary
+          # not possible yet due to missing job id number: https://github.community/t/get-action-job-id/17365
+          # echo "[🪞 Duplicated Image Links]($GITHUB_SERVER_URL/$GITHUB_REPOSITORY/runs/JOB_ID#step:7:0)" >> $GITHUB_STEP_SUMMARY
+
+      - name: Image hosting statistics
+        if: steps.tokens_pic_urls.outcome == 'success'
+        shell: bash
+        # Extract domains from URLs | remove blank lines | sort | count and list | sort descending
+        run: |
+          awk -F/ '{print $3}' tokens_pic_urls.txt | grep . | sort | uniq -c | sort -nr
+          # Add link to results to summary
+          # not possible yet due to missing job id number: https://github.community/t/get-action-job-id/17365
+          # echo "[📊 Image Hosting Statistics]($GITHUB_SERVER_URL/$GITHUB_REPOSITORY/runs/JOB_ID#step:8:0)" >> $GITHUB_STEP_SUMMARY
+
       - name: Check tokens.xml URLs
         uses: lycheeverse/lychee-action@v1.5.0
-        if: steps.tokens_pic_urls.outcome == 'success'
+        if: false
+        #if: steps.tokens_pic_urls.outcome == 'success'
         with:
           args: '--no-progress --require-https --cache --max-cache-age 1h -- tokens_pic_urls.txt'
           fail: true
@@ -59,15 +80,3 @@ jobs:
           args: '--no-progress --require-https --cache --max-cache-age 1h -- challenge_pic_urls.txt'
           fail: true
           jobSummary: true
-
-      - name: List duplicated image links
-        if: steps.tokens_pic_urls.outcome == 'success'
-        shell: bash
-        # Remove blank lines | trim trailing integers (Scryfall) | sort | count and list duplicates
-        run: grep . tokens_pic_urls.txt | sed 's/\.jpg?.*/.jpg/' | sort | uniq -cd
-
-      - name: Image host statistics
-        if: steps.tokens_pic_urls.outcome == 'success'
-        shell: bash
-        # Extract domains from URLs | remove blank lines | sort | count and list | sort descending
-        run: awk -F/ '{print $3}' tokens_pic_urls.txt | grep . | sort | uniq -c | sort -nr
