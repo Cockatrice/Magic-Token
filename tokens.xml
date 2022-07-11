@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20220707b</sourceVersion>
+        <sourceVersion>20220711</sourceVersion>
     </info>
     <cards>
         <!--
@@ -70,6 +70,7 @@
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/6/e6dd9a8a-3b80-4c1c-9d44-7f998164dbcc.jpg?1641599832">VOC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/7/f7c65b6a-9c63-4604-b7db-d75772799616.jpg?1608908406">CMR</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/f/ff0335da-631f-46b8-bfa1-b2f210c91f5f.jpg?1598311447">2XM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/e/9e12d954-3ec2-46e3-b01f-1fd63159e8a4.jpg?1594733473">M21</set>
@@ -415,6 +416,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/5/55368a15-e45b-4407-9c03-1b17bf84607a.jpg?1641599893">VOC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/5/e5c0f400-41be-488b-be84-b07289b1ef62.jpg?1641305858">MID</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/1/f1349fcb-db31-4b1d-8063-e5c28b4472cc.jpg">M19</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/2/020c88d9-d058-4290-b0d7-b91754f91a22.jpg">C17</set>
@@ -1382,7 +1384,7 @@ This creature can block only creatures with flying.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/1/15/Citizen.jpg">6ED</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/6/165164e7-5693-4d65-b789-8ed8a222365b.jpg?1547509191">UMA</set>
             <reverse-related count="2">Icatian Crier</reverse-related>
             <reverse-related count="4">Icatian Town</reverse-related>
             <token>1</token>
@@ -1507,6 +1509,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <cmc>0</cmc>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/2/d25234a6-cb8d-479a-90f5-9d1a1084277b.jpg?1654172822">CLB</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/6/e69b3894-a78f-446b-9777-3c33731aa2ac.jpg?1641599918">VOC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/7/b7c52125-929a-4e03-a955-d55ae34a905b.jpg?1634242346">SLD</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/4/d45eca06-2ef2-47ef-a0ab-6766bbd3ab8b.jpg?1653273214">MID</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/b/eb129b0d-1349-4e88-a6a7-b7968b26ee7e.jpg?1641306201">MH2</set>
@@ -2207,6 +2210,7 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/6/1659d2ee-1831-4ba1-a08d-03af31c9a043.jpg?1604194756">ZNR</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/7/07027a7c-5843-4d78-9b86-8799363c0b82.jpg?1591319174">C20</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/9/79f8b710-df8b-4b44-8f70-d5217d7b62ff.jpg?1572370675">C19</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/f/2fd81e9a-69b5-4764-91a7-8b6cdddcaa40.jpg?1547509215">UMA</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/5/65844e72-aa84-483f-b07e-9e34e798aaec.jpg">AKH</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/f/8fb5229a-8bdf-4090-8a5c-a35780bd6ff9.jpg?1562857271">C15</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/3/93679bb9-ee1c-4eea-bcdd-72785d5788af.jpg">M13</set>
@@ -2453,6 +2457,8 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/6/f66ddc60-4015-4c62-8e13-bc30edef5e37.jpg?1644543433">NEC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/5/0574973b-a0d1-4e17-9ed7-42a98d25bb8d.jpg?1592515980">M20</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/5/e5b57672-c346-42f5-ac3e-82466a13b957.jpg?1563073089">MH1</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/a/7ae1c136-7319-45d1-882a-3d838b344773.jpg?1547509297">UMA</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/f/0f7cb791-ac35-4c69-aa85-23e14b821c6a.jpg?1547509309">UMA</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/7/577a3396-e974-47fb-91bd-01751cae83bf.jpg?1561757178">RIX</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/back/7/2/72b45263-d4e9-4a53-a78b-be651e18b615.jpg?1571508472">UST</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/b/8b4f81e2-916f-4af4-9e63-f4469e953122.jpg?1562702183">EMA</set>
@@ -2543,6 +2549,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/e/fea0857b-0f9e-4a87-83d7-85723e33f26c.jpg?1560081229">UMA</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/e/0e9c63b7-ec72-443f-9216-5cb7bd07e940.jpg">MMA</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/b/8b4ef48d-a328-4eb9-a2e3-925c1cd38b1a.jpg?1562636788">LRW</set>
             <reverse-related>Eyes of the Wisent</reverse-related>
@@ -3112,6 +3119,7 @@ This creature's power and toughness are each equal to the number of instant and 
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/7/67457137-64f2-413d-b62e-658b3f1b1043.jpg?1547509251">UMA</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/1/81b53311-d007-42e8-94c0-c18052b6ef09.jpg">MM2</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/6/1666cae8-8750-4091-8e45-259e76268db9.jpg">MOR</set>
             <reverse-related>Bitterblossom</reverse-related>
@@ -4045,6 +4053,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/3/f3c6ef29-b879-4813-87b0-0e3ba2b5cb29.jpg?1547509238">UMA</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/2/e2020f53-d012-4d26-be13-87ed0f196c53.jpg">ISD</set>
             <reverse-related>Handy Dandy Clone Machine</reverse-related>
             <reverse-related>Stitcher's Apprentice</reverse-related>
@@ -5271,6 +5280,7 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/b/fb248ba0-2ee7-4994-be57-2bcc8df29680.jpg?1598311645">2XM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/b/7b993828-e139-4cb6-a329-487accc1c515.jpg?1563073064">MH1</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/0/105e687e-7196-4010-a6b7-cfa42d998fa4.jpg?1560096976">UMA</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/f/8f5c3863-c876-48a8-9bc8-be20cd61074c.jpg">CSP</set>
             <reverse-related>Dark Depths</reverse-related>
             <reverse-related>Marit Lage's Slumber</reverse-related>
@@ -5829,6 +5839,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <pt>*/*</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/5/155e76d6-d8d5-410b-9b00-088c039b668f.jpg?1598311725">2XM</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/2/d299e48d-fb74-49a1-b94a-29975056378a.jpg?1547509348">UMA</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/a/2a9cea73-9421-4f91-b8f9-1a8081b3811a.jpg?1562840738">MM3</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/4/d49e91df-0647-4c9f-9c3e-fb8c77c4886c.jpg">ROE</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/9/39a4b6d1-c5f5-4a2d-a00c-97f6395c941b.jpg">ALA</set>
@@ -7511,6 +7522,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/3/039b8e44-b435-4e05-b94c-02c4dda11943.jpg?1547509318">UMA</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/0/509e44d4-72c1-4d68-b942-c3e8de6ed7a8.jpg">THS</set>
             <reverse-related>Akroan Crusader</reverse-related>
             <token>1</token>
@@ -7570,7 +7582,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>3/1</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/a/ae/Spark_Elemental.jpg">FUT</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/1/b1270173-72fc-489a-beef-85e2d8096bd7.jpg?1552832795">UMA</set>
             <reverse-related>Sparkspitter</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7632,6 +7644,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/1/41bee18a-46d6-4f60-9e19-5fc670a20a4d.jpg?1653273222">MID</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/6/56f28541-9711-42cd-9c83-993a81af96b6.jpg?1581902167">THB</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/1/01591603-d903-419d-9957-cf0ae7f79240.jpg?1563073166">MH1</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/5/c5ede910-a0cb-4cf1-82f4-69fce0076c4d.jpg?1547509357">UMA</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/e/ce90c48f-74fb-4e87-9e46-7f8c3d79cbb0.jpg?1562636904">EMN</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/8/e8efa0fc-e710-44f8-8128-485c2d43cc9e.jpg?1562857289">C15</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/1/71031ff1-17dc-46b7-a72b-3297137a83bb.jpg">ISD</set>
@@ -7728,6 +7741,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/8/9858cbdb-cf4a-4d72-b1c1-a151f6a3e794.jpg?1591319157">C20</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/1/d1ac09a7-239b-43af-ac7a-8c79618dc9e3.jpg?1572370476">C19</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/9/79b17be6-2ee7-4f3b-88df-f298bb058f46.jpg?1592515948">M20</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/1/31830977-e096-4736-bb30-1d70008d7488.jpg?1547509203">UMA</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/3/b3c9a097-219b-4aaf-831f-cc0cddbcfaae.jpg?1561757870">BBD</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/7/070b2ce3-33a7-42a5-b4c2-6b0ed2bf926a.jpg?1562701881">A25</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/back/4/1/41fc8b22-f6fe-4853-b80a-64ab70a41f1d.jpg?1571508521">UST</set>
@@ -7847,6 +7861,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/d/8dc14fc0-5c53-4381-ae55-1fb22d0f4148.jpg?1641306109">C21</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/f/cf24e9fa-7d7f-4693-a9ed-b8e725d0ad5c.jpg?1563073193">MH1</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/5/45b3bdd7-b093-4bfd-8a9a-965e72bfefb3.jpg?1572892542">RNA</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/9/c9a306c6-57e9-4c99-b2a9-ee27a557d69b.jpg?1547509367">UMA</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/e/9e50a908-0adb-4149-b8cf-2cfb56eab2cb.jpg?1562857279">C15</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/1/91f3a4b0-0992-4245-b245-033ad1083a93.jpg">GTC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/4/c48d8e99-a530-4eec-a938-254c98073975.jpg">EVE</set>
@@ -7876,6 +7891,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/a/ca20548f-6324-4858-adbe-87303ff1ca52.jpg?1644542803">NEO</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/3/83497714-97ae-4846-8096-f7f1524f0e09.jpg?1641599803">VOC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/f/ef264a95-afe4-4b8c-9648-e8f95bfaed2a.jpg?1562702434">A25</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/0/5009729f-6365-42ca-979f-d854a10e463b.jpg?1562911219">C16</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/8/082c3bad-3fea-4c3f-8263-4b16139bb32a.jpg?1562701890">EMA</set>
@@ -7927,7 +7943,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/6/6a/Spirit3.jpg">BOK</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/6/e6e361f5-a662-495f-a8e5-e4a647833af5.jpg?1641599867">VOC</set>
             <reverse-related>Oyobi, Who Split the Heavens</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -8365,6 +8381,7 @@ This creature can't be enchanted.</text>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/5/65dd4252-09d0-4666-8d80-10432265ae4a.jpg?1644543340">NEC</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/a/ca51da85-15ed-4f65-8ffa-8868ef779cd2.jpg?1641599947">VOC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/e/1e542094-8d95-463c-ae6c-8f2cd56434b2.jpg?1641306208">MH2</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/2/f22c9a2e-e4da-4ca0-a035-abeccf719bcc.jpg?1641306124">C21</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/5/75602e25-a0ab-430e-b610-5e12c1cab3d8.jpg?1601138573">2XM</set>
@@ -8847,6 +8864,20 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             </prop>
             <set picURL="https://cdn.staticneo.com/w/mtg/7/78/Twin.jpg">DST</set>
             <reverse-related>Gemini Engine</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Unicorn Token</name>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Unicorn</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Unicorn.jpeg?raw=true">JMP</set>
+            <reverse-related>Blessed Sanctuary</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -9571,7 +9602,7 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
                 <cmc>0</cmc>
                 <pt>6/6</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/d/d9/Wurm3.jpg">APC</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/1/31107acf-5969-42ff-a805-9152f439b7fa.jpg?1547509275">UMA</set>
             <reverse-related>Penumbra Wurm</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -9648,6 +9679,7 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/c/9c722fe8-05f1-4da0-a23b-25e20359fcef.jpg?1563073076">MH1</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/3/935d1421-0d26-468f-aa86-488b0ba25e77.jpg?1557575912">WAR</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/7/27b69e52-f394-4863-943b-239e96b5cc95.jpg?1572892495">RNA</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/9/096e8ff7-3cb7-4ef9-a480-76d664924cff.jpg?1547509286">UMA</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/a/faa2e829-fa71-426b-b71f-dfa021786531.jpg?1592710033">C18</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/d/ed08aac1-9e82-4049-9926-618f15222024.jpg">M19</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/0/f08609b4-f5e0-4e3b-aee3-8ed3e3232074.jpg?1561758393">BBD</set>
@@ -10962,32 +10994,6 @@ You draw a card during each opponent's end step.</text>
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Zariel, Archduke of Avernus (Emblem)</name>
-            <text>At the end of the first combat phase on your turn, untap target creature you control. After this phase, there is an additional combat phase.</text>
-            <prop>
-                <type>Emblem — Zariel</type>
-                <maintype>Emblem</maintype>
-            </prop>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/3/c36520c3-627a-40b9-a5c7-42cc4c813b67.jpg?1626140108">AFR</set>
-            <reverse-related exclude="exclude">Zariel, Archduke of Avernus</reverse-related>
-            <token>1</token>
-            <tablerow>1</tablerow>
-        </card>
-        <card>
-            <name>Unicorn Token</name>
-            <prop>
-                <colors>W</colors>
-                <type>Token Creature — Unicorn</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>2/2</pt>
-            </prop>
-            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Unicorn.jpeg?raw=true">JMP</set>
-            <reverse-related>Blessed Sanctuary</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
             <name>Venser, the Sojourner (Emblem)</name>
             <text>Whenever you cast a spell, exile target permanent.</text>
             <prop>
@@ -11057,6 +11063,18 @@ You draw a card during each opponent's end step.</text>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/8/58c8a9fc-755a-4bff-8e13-41fbf4d9e546.jpg?1563073269">MH1</set>
             <reverse-related exclude="exclude">Wrenn and Six</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Zariel, Archduke of Avernus (Emblem)</name>
+            <text>At the end of the first combat phase on your turn, untap target creature you control. After this phase, there is an additional combat phase.</text>
+            <prop>
+                <type>Emblem — Zariel</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/3/c36520c3-627a-40b9-a5c7-42cc4c813b67.jpg?1626140108">AFR</set>
+            <reverse-related exclude="exclude">Zariel, Archduke of Avernus</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
