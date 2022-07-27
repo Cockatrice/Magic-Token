@@ -19,23 +19,24 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Lychee responses cache
+      - name: Set up lychee cache
         uses: actions/cache@v3
         with:
           path: .lycheecache
           key: cache-lychee-${{ github.sha }}
           restore-keys: cache-lychee-
 
+      # Extract links from XML, write to txt, check txt file
       #- name: Install XMLStarlet
       #  shell: bash
       #  run: sudo apt-get install xmlstarlet 
-
+      #
       #- name: Extract URLs from tokens.xml
       #  if: always()
       #  id: tokens_pic_urls
       #  shell: bash
       #  run: xmlstarlet sel -t -v "//set/@picURL" tokens.xml | tee tokens_pic_urls.txt
-
+      #
       #- name: Extract URLs from challenge_tokens.xml
       #  # Forcefully skipping, see https://github.com/Cockatrice/Magic-Token/issues/47
       #  # if: always()
@@ -43,7 +44,24 @@ jobs:
       #  id: challenge_pic_urls
       #  shell: bash
       #  run: xmlstarlet sel -t -v "//set/@picURL" challenge_tokens.xml | tee challenge_pic_urls.txt
+      #
+      #- name: Check extracted URLs from tokens.xml
+      #  uses: lycheeverse/lychee-action@v1.5.1
+      #  if: steps.tokens_pic_urls.outcome == 'success'
+      #  with:
+      #    args: '--no-progress --require-https --cache --max-cache-age 1h -- tokens_pic_urls.txt'
+      #    fail: true
+      #    jobSummary: true
+      #
+      #- name: Check extracted URLs from challenge_tokens.xml
+      #  uses: lycheeverse/lychee-action@v1.5.1
+      #  if: steps.challenge_pic_urls.outcome == 'success'
+      #  with:
+      #    args: '--no-progress --require-https --cache --max-cache-age 1h -- challenge_pic_urls.txt'
+      #    fail: true
+      #    jobSummary: true
 
+      # Generate stats from extraced links (written to txt file)
       #- name: List duplicated image links
       #  if: steps.tokens_pic_urls.outcome == 'success'
       #  shell: bash
@@ -53,7 +71,7 @@ jobs:
           # Add link to results to summary
           # not possible yet due to missing job id number: https://github.community/t/get-action-job-id/17365
           # echo "[🪞 Duplicated Image Links]($GITHUB_SERVER_URL/$GITHUB_REPOSITORY/runs/JOB_ID#step:7:0)" >> $GITHUB_STEP_SUMMARY
-
+      #
       #- name: Image hosting statistics
       #  if: steps.tokens_pic_urls.outcome == 'success'
       #  shell: bash
@@ -64,37 +82,40 @@ jobs:
           # not possible yet due to missing job id number: https://github.community/t/get-action-job-id/17365
           # echo "[📊 Image Hosting Statistics]($GITHUB_SERVER_URL/$GITHUB_REPOSITORY/runs/JOB_ID#step:8:0)" >> $GITHUB_STEP_SUMMARY
 
-      #- name: Check tokens.xml URLs (directly)
-      #  uses: lycheeverse/lychee-action@v1.5.0
-        #if: false
-        #if: steps.tokens_pic_urls.outcome == 'success'
+      # Extract and check URLs directly from XML
+      - name: Check tokens.xml URLs
+        uses: lycheeverse/lychee-action@v1.5.1
+        #if: always
+        with:
+          args: '--no-progress --require-https --cache --max-cache-age 1h -- tokens.xml'
+          fail: true
+          jobSummary: true
+
+      # Extract and check URLs directly from JSON / Test with MTGJSON SNC set file
+      #- name: Check standard.json URLs
+      #  uses: lycheeverse/lychee-action@v1.5.1
       #  with:
-      #    args: '--no-progress --require-https --cache --max-cache-age 1h -- tokens.xml'
+      #    args: '--no-progress --require-https --cache --max-cache-age 1h -- https://mtgjson.com/api/v5/SNC.json'
       #    fail: true
       #    jobSummary: true
 
-      - name: Check standard.json URLs (directly)
-        uses: lycheeverse/lychee-action@v1.5.0
-        with:
-          args: '--no-progress --require-https --cache --max-cache-age 1h -- https://mtgjson.com/api/v5/Standard.json'
-          fail: true
-          jobSummary: true
-
-      - name: Dump challenge_tokens.xml URLs
-        uses: lycheeverse/lychee-action@v1.5.0
-        with:
-          args: '--dump --format detailed -- challenge_tokens.xml'
-          fail: true
-          jobSummary: false
-
-      - name: Print output from above dump
-        shell: bash
-        run: cat /tmp/lychee/out.md
-
-      - name: Check challenge_tokens.xml URLs
-        uses: lycheeverse/lychee-action@v1.5.0
-        if: steps.challenge_pic_urls.outcome == 'success'
-        with:
-          args: '--no-progress --require-https --cache --max-cache-age 1h -- challenge_pic_urls.txt'
-          fail: true
-          jobSummary: true
+      # --dump does not write an output to the out.md file yet ()
+      # Extract URLs directly from JSON / Test with MTGJSON SNC set file
+      #- name: Check SNC.json URLs
+      #  uses: lycheeverse/lychee-action@v1.5.1
+      #  with:
+      #    args: '--dump --format detailed -- https://mtgjson.com/api/v5/SNC.json'
+      #    fail: true
+      #    jobSummary: true
+      #
+      # Extract URLs directly from XML
+      #- name: Check tokens.xml URLs
+      #  uses: lycheeverse/lychee-action@v1.5.1
+      #  with:
+      #    args: '--dump --format detailed -- tokens.xml'
+      #    fail: true
+      #    jobSummary: true
+      #
+      #- name: Print output from above dump
+      #  shell: bash
+      #  run: cat /tmp/lychee/out.md
