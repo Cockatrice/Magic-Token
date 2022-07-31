@@ -82,22 +82,6 @@ jobs:
       #    # Not possible yet due to missing job id number: https://github.community/t/get-action-job-id/17365
       #    # echo "[📊 Image Hosting Statistics]($GITHUB_SERVER_URL/$GITHUB_REPOSITORY/runs/JOB_ID#step:8:0)" >> $GITHUB_STEP_SUMMARY
 
-      # Extract and check URLs directly from JSON / Test with MTGJSON SetList file
-      - name: Check standard.json URLs
-        uses: lycheeverse/lychee-action@v1.5.1
-        with:
-          args: '--dump --format detailed -- https://mtgjson.com/api/v5/SetList.json'
-          fail: false
-          jobSummary: true
-
-      # Extract and check URLs directly from JSON / Test with MTGJSON SetList file
-      - name: Check standard.json URLs
-        uses: lycheeverse/lychee-action@v1.5.1
-        with:
-          args: '--no-progress --require-https --cache --max-cache-age 1h -- https://mtgjson.com/api/v5/SetList.json'
-          fail: false
-          jobSummary: true
-
       # Extract and check URLs directly from XML
       #- name: Check tokens.xml URLs
       #  uses: lycheeverse/lychee-action@v1.5.1
@@ -107,20 +91,21 @@ jobs:
       #    fail: true
       #    jobSummary: true
 
-      # Extract and check URLs directly from JSON / Test with MTGJSON SNC set file (or https://mtgjson.com/api/v5/SetList.json)
-      #- name: Check standard.json URLs
+      # Extract and check URLs directly from JSON / Test with MTGJSON SetList file
+      #- name: Check SNC.json URLs
       #  uses: lycheeverse/lychee-action@v1.5.1
+      #  if: always()
       #  with:
-      #    args: '--no-progress --require-https --cache --max-cache-age 1h -- https://mtgjson.com/api/v5/SNC.json'
+      #    args: '--no-progress --require-https --cache --max-cache-age 1h -- https://mtgjson.com/api/v5/SetList.json'
       #    fail: true
       #    jobSummary: true
 
       # --dump does not write an output to the out.md file yet (https://github.com/lycheeverse/lychee/issues/698)
-      # Extract URLs directly from JSON / Test with MTGJSON SNC set file
+      # Extract URLs directly from JSON / Test with MTGJSON SetList file
       #- name: Check SNC.json URLs
       #  uses: lycheeverse/lychee-action@v1.5.1
       #  with:
-      #    args: '--dump --format detailed -- https://mtgjson.com/api/v5/SNC.json'
+      #    args: '--dump --format detailed -- https://mtgjson.com/api/v5/SetList.json'
       #    fail: true
       #    jobSummary: true
       #
