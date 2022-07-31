@@ -92,7 +92,7 @@ jobs:
       #    jobSummary: true
 
       # Extract and check URLs directly from JSON / Test with MTGJSON SetList file
-      #- name: Check SNC.json URLs
+      #- name: Check SetList.json URLs
       #  uses: lycheeverse/lychee-action@v1.5.1
       #  if: always()
       #  with:
@@ -102,7 +102,7 @@ jobs:
 
       # --dump does not write an output to the out.md file yet (https://github.com/lycheeverse/lychee/issues/698)
       # Extract URLs directly from JSON / Test with MTGJSON SetList file
-      #- name: Check SNC.json URLs
+      #- name: Check SetList.json URLs
       #  uses: lycheeverse/lychee-action@v1.5.1
       #  with:
       #    args: '--dump --format detailed -- https://mtgjson.com/api/v5/SetList.json'
