@@ -26,66 +26,11 @@ jobs:
           key: cache-lychee-${{ github.sha }}
           restore-keys: cache-lychee-
 
-      # Extract links from XML, write to txt, check txt file
-      #- name: Install XMLStarlet
-      #  shell: bash
-      #  run: sudo apt-get install xmlstarlet 
-      #
-      #- name: Extract URLs from tokens.xml
-      #  if: always()
-      #  id: tokens_pic_urls
-      #  shell: bash
-      #  run: xmlstarlet sel -t -v "//set/@picURL" tokens.xml | tee tokens_pic_urls.txt
-      #
-      #- name: Extract URLs from challenge_tokens.xml
-      #  # Forcefully skipping, see https://github.com/Cockatrice/Magic-Token/issues/47
-      #  # if: always()
-      #  if: false
-      #  id: challenge_pic_urls
-      #  shell: bash
-      #  run: xmlstarlet sel -t -v "//set/@picURL" challenge_tokens.xml | tee challenge_pic_urls.txt
-      #
-      #- name: Check extracted URLs from tokens.xml
-      #  uses: lycheeverse/lychee-action@v1.5.1
-      #  if: steps.tokens_pic_urls.outcome == 'success'
-      #  with:
-      #    args: '--no-progress --require-https --cache --max-cache-age 1h -- tokens_pic_urls.txt'
-      #    fail: true
-      #    jobSummary: true
-      #
-      #- name: Check extracted URLs from challenge_tokens.xml
-      #  uses: lycheeverse/lychee-action@v1.5.1
-      #  if: steps.challenge_pic_urls.outcome == 'success'
-      #  with:
-      #    args: '--no-progress --require-https --cache --max-cache-age 1h -- challenge_pic_urls.txt'
-      #    fail: true
-      #    jobSummary: true
-
-      # Generate stats from extraced links (written to txt file)
-      #- name: List duplicated image links
-      #  if: steps.tokens_pic_urls.outcome == 'success'
-      #  shell: bash
-      #  # Remove blank lines | trim trailing integers (Scryfall) | sort | count and list duplicates
-      #  run: |
-      #    grep . tokens_pic_urls.txt | sed 's/\.jpg?.*/.jpg/' | sort | uniq -cd
-      #    # Add link to results to summary
-      #    # Not possible yet due to missing job id number: https://github.community/t/get-action-job-id/17365
-      #    # echo "[🪞 Duplicated Image Links]($GITHUB_SERVER_URL/$GITHUB_REPOSITORY/runs/JOB_ID#step:7:0)" >> $GITHUB_STEP_SUMMARY
-      #
-      #- name: Image hosting statistics
-      #  if: steps.tokens_pic_urls.outcome == 'success'
-      #  shell: bash
-      #  # Extract domains from URLs | remove blank lines | sort | count and list | sort descending
-      #  run: |
-      #    awk -F/ '{print $3}' tokens_pic_urls.txt | grep . | sort | uniq -c | sort -nr
-      #    # Add link to results to summary
-      #    # Not possible yet due to missing job id number: https://github.community/t/get-action-job-id/17365
-      #    # echo "[📊 Image Hosting Statistics]($GITHUB_SERVER_URL/$GITHUB_REPOSITORY/runs/JOB_ID#step:8:0)" >> $GITHUB_STEP_SUMMARY
-
       # Extract and check URLs directly from tokens.xml
       - name: Check tokens.xml URLs
         uses: lycheeverse/lychee-action@v1.5.1
         if: always()
+        continue-on-error: true
         with:
           args: '--no-progress --require-https --cache --max-cache-age 1h -- tokens.xml'
           fail: true
@@ -95,37 +40,8 @@ jobs:
       - name: Check challenge_tokens.xml URLs
         uses: lycheeverse/lychee-action@v1.5.1
         if: always()
+        continue-on-error: true
         with:
           args: '--no-progress --require-https --cache --max-cache-age 1h -- challenge_tokens.xml'
           fail: true
           jobSummary: true
-
-      # Extract and check URLs directly from JSON / Test with MTGJSON SetList file
-      #- name: Check SetList.json URLs
-      #  uses: lycheeverse/lychee-action@v1.5.1
-      #  if: always()
-      #  with:
-      #    args: '--no-progress --require-https --cache --max-cache-age 1h -- https://mtgjson.com/api/v5/SetList.json'
-      #    fail: true
-      #    jobSummary: true
-
-      # --dump does not write an output to the out.md file yet (https://github.com/lycheeverse/lychee/issues/698)
-      # Extract URLs directly from JSON / Test with MTGJSON SetList file
-      #- name: Check SetList.json URLs
-      #  uses: lycheeverse/lychee-action@v1.5.1
-      #  with:
-      #    args: '--dump --format detailed -- https://mtgjson.com/api/v5/SetList.json'
-      #    fail: true
-      #    jobSummary: true
-      #
-      # Extract URLs directly from XML
-      #- name: Check tokens.xml URLs
-      #  uses: lycheeverse/lychee-action@v1.5.1
-      #  with:
-      #    args: '--dump --format detailed -- tokens.xml'
-      #    fail: true
-      #    jobSummary: true
-      #
-      #- name: Print output from above dump
-      #  shell: bash
-      #  run: cat /tmp/lychee/out.md
