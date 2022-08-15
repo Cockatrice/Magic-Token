@@ -11383,6 +11383,7 @@ If a player casts at least two spells during their own turn, it becomes day next
             <text>(After you fortell a card, you can place the exiled card here. You may cast it on a later turn for its foretell cost.)</text>
             <prop>
                 <type>State</type>
+                <maintype>State</maintype>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/b/fb02637f-1385-4d3d-8dc0-de513db7633a.jpg?1615690969">KHM</set>
             <reverse-related exclude="exclude">Alrund's Epiphany</reverse-related>
