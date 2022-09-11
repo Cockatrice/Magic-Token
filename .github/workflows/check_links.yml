@@ -2,6 +2,7 @@ name: Picture Health
 
 on:
   pull_request:
+    # Default events are opened, synchronized or reopened
   workflow_dispatch:
   schedule:
     # Runs at the start of each month (UTC)
