@@ -8,4 +8,4 @@ It describes [![](https://img.shields.io/badge/dynamic/xml.svg?label=&colorB=whi
 
 For normal tokens, save the file found here: [**tokens.xml**](https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml)
 
-For tokens from the Theros block challege decks, save the file found here: [**challenge_decks.xml**](https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/challenge_decks.xml)
+For tokens from the Theros block challege decks, save the file found here: [**challenge_cards.xml**](https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/challenge_cards.xml)
