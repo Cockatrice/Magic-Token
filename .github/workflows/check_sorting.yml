@@ -1,0 +1,38 @@
+name: Check Sorting
+
+on:
+  pull_request:
+    # Default events are opened, synchronized or reopened
+  workflow_dispatch:
+  schedule:
+    # Runs at the start of each month (UTC)
+    - cron: '0 0 1 * *'
+
+jobs:
+  check_sorting:
+    # Do not run the scheduled workflow on forks
+    if: ( github.event_name != 'schedule' || github.repository_owner == 'Cockatrice' )
+
+    name: Cards & Sets
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # sponge is part of moreutils
+      - name: Install moreutils
+        run: sudo apt-get install moreutils
+
+      - name: Sort cards
+        if: always()
+        shell: bash
+        run: scripts/sort_cards.sh
+
+      - name: Sort sets
+        if: always()
+        shell: bash
+        run: scripts/sort_sets.sh
+
+      - name: Check diff
+        run: git diff --exit-code
