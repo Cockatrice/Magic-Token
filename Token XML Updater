@@ -1,0 +1,216 @@
+import requests, re, xml.etree.ElementTree as ET
+
+def pull_scryfall_API(download_url):
+    """
+    Makes a request to the Scryfall API with the given download URL and outputs cards as a list of dicts
+    This function is adapted from Cockatrice: Magic-Spoiler download_scryfall_set(), licensed under GPL v3.0
+    Copyright (C) 2022  SlightlyCircuitous
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>
+    """
+    
+    page = 1
+    token_list = []
+
+    while download_url:
+    
+        cards = requests.get(download_url).json()
+        if cards["object"] == "error":
+            print(f"Error occurred downloading page {page}")
+            break
+        
+        for card in cards["data"]:
+            token_list.append(card)
+        
+        if not cards.get('has_more'): #get returns None if the key does not exist and None has a truth-value of False (though it isn't actually the boolean False)
+            break
+        
+        download_url = cards["next_page"]
+    
+        page += 1
+    
+        time.sleep(0.5) #rate limit to keep the API gods happy
+        
+    return token_list
+    
+def update_token_xml(set_code,xml_file):
+    """
+    Builds two xmls of tokens based on a scryfall API search. Puts reprints in xml_file and new tokens 
+    in a new xml_file. Does not handle reverse-related. May misbehave with reminder text.
+    
+    :param set_code: the three letter code representing the set
+    :param xml_file: the xml list of tokens to check new ones against
+    """
+    
+    #pull down the token set from Scryfall using pull_scryfall_API()
+    token_set = pull_scryfall_API('https://api.scryfall.com/cards/search?q=s%3A'+'t'+set_code.lower())
+    
+    #parse the existing token xml
+    xml_tree = ET.parse(xml_file)
+    xml_root = xml_tree.getroot()
+    
+    #create new xml tree to add new tokens to
+    new_root = ET.Element('newtokens')
+    cards = ET.SubElement(new_root,'cards')
+    
+    #set up for handling odd tokens
+    emblem_pattern = re.compile('Emblem')
+    short_tag_list = ['Emblem','Dungeon','State','Counter','Companion']
+    
+    #check if card is in the token xml file already
+    for sf_token in token_set:
+        
+        match_found = False
+        
+        token_name = re.sub(emblem_pattern, '(Emblem)', sf_token['name'])
+        token_text = sf_token['oracle_text']
+        token_type = sf_token['type_line']
+        token_colors = sorted(sf_token['colors'])
+        
+        if 'power' in sf_token.keys() and 'toughness' in sf_token.keys():
+                token_pt = sf_token['power']+'/'+sf_token['toughness']
+
+        else:
+            token_pt = ""
+        
+        for xml_card in xml_root.findall('./cards/'):
+                    
+            #unify formatting between scryfall and the token xml for matching
+            
+            #name
+            xml_name = xml_card.find('name').text
+            
+            #text
+            if ET.iselement(xml_card.find('text')):
+                xml_text =  xml_card.find('text').text
+                
+            else:
+                xml_text = ""
+
+            #colors
+            #the text != None check is necessary to avoid errors with empty color tags (there are currently two in the xml)
+            if ET.iselement(xml_card.find('./prop/colors')) and xml_card.find('./prop/colors').text != None:
+                xml_colors = sorted(list(xml_card.find('./prop/colors').text)) #need to make it a list to sort it
+            else:
+                xml_colors = []
+
+            #power and toughness   
+            if ET.iselement(xml_card.find('./prop/pt')):
+                xml_pt = xml_card.find('./prop/pt').text
+                
+            else:
+                xml_pt = ""
+             
+            #append picURL/set line to existing file if a perfect match
+            if (re.match(token_name, xml_name)) and (xml_text == token_text) and (xml_card.find('./prop/type').text == token_type) and (xml_colors == token_colors) and (xml_pt == token_pt):
+                
+                new = ET.Element('set',attrib = {'picURL':sf_token['image_uris']['large']})
+                new.text = set_code.upper()
+                
+                #insert needs a relative index; <text> may or may not exist
+                if ET.iselement(xml_card.find('./text')):
+                    xml_card.insert(3,new)
+                else:
+                    xml_card.insert(2,new)
+                match_found = True
+                
+        #create a full entry for new token and add it to a new xml file if no match
+        if not match_found: 
+
+            #make an empty xml entry
+            card = ET.SubElement(cards,'card')
+            
+            name = ET.SubElement(card,'name')
+            text = ET.SubElement(card, 'text')
+            prop = ET.SubElement(card,'prop')
+            
+            if token_type not in short_tag_list:
+                colors = ET.SubElement(prop,'colors')
+                manacost = ET.SubElement(prop,'manacost')
+                
+            card_type = ET.SubElement(prop,'type')
+            maintype = ET.SubElement(prop,'maintype')
+            
+            if token_type not in short_tag_list:
+                cmc = ET.SubElement(prop,'cmc')
+                pt = ET.SubElement(prop,'pt')
+
+            card_set = ET.SubElement(card, 'set', attrib={'picURL':""})
+            reverse_related = ET.SubElement(card, 'reverse-related')
+            token = ET.SubElement(card,'token')
+            tablerow = ET.SubElement(card,'tablerow')
+
+            #skip double-faced tokens because they have a different scryfall format entirely
+            if sf_token['layout'] == 'double_faced_token':
+                continue
+
+            #fill the empty entry with stuff
+
+            name.text = token_name
+
+            text.text = token_text
+
+            card_type.text = token_type
+
+            #this could probably be implemented better as some kind of dict lookup
+            if 'Creature' in card_type.text:
+                maintype.text = 'Creature'
+
+            elif 'Artifact' in card_type.text:
+                maintype.text = 'Artifact' #artifact creatures are maintype Creature
+
+            elif 'Emblem' in card_type.text:
+                maintype.text = 'Emblem'
+
+            elif 'State' in card_type.text:
+                maintype.text = 'State'
+
+            elif 'Dungeon' in card_type.text:
+                maintype.text = 'Dungeon'
+
+            card_set.set('picURL', sf_token['image_uris']['large'])
+
+            card_set.text = set_code.upper()
+
+            token.text = '1'
+
+            if maintype.text == 'Creature':
+                tablerow.text = '2'
+            else:
+                tablerow.text = '1'
+                
+            if token_type not in short_tag_list:
+                
+                if token_colors != []:
+                    colors.text = "".join(token_colors) #put colors back to a string
+                    
+                manacost.text = sf_token['mana_cost']
+                
+                #Scryfall stores cmc as a float; thanks Little Girl
+                if sf_token['cmc'].is_integer():
+                    cmc.text = int(sf_token['cmc'])
+
+                else:
+                    cmc.text = sf_token['cmc']
+                    
+                pt.text = token_pt
+    
+    #create and output xml file -- contains new tokens
+    new_tree = ET.ElementTree(new_root)
+    ET.indent(new_tree, space='    ') #puts in all the nice whitespace
+    new_tree.write(f'{set_code}_new_tokens.xml', encoding='utf-8', short_empty_elements=False) #writes using a class method
+    
+    #outputs the ammended token xml file -- contains reprinted tokens
+    ET.indent(xml_tree, space='    ')
+    xml_tree.write(f'token_file_{set_code}_update',encoding='utf-8', xml_declaration=True, short_empty_elements=False)
