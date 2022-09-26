@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20220926b</sourceVersion>
+        <sourceVersion>20220926c</sourceVersion>
     </info>
     <cards>
         <!--
@@ -166,7 +166,6 @@
             <reverse-related>Historian's Boon</reverse-related>
             <reverse-related count="x" exclude="exclude">Historian's Boon</reverse-related>
             <reverse-related>Jenson Carthalion, Druid Exile</reverse-related>
-            <reverse-related count="x" exclude="exclude">Jenson Carthalion, Druid Exile</reverse-related>
             <reverse-related count="2">Parhelion II</reverse-related>
             <reverse-related>Rampage of the Valkyries</reverse-related>
             <reverse-related>Resplendent Angel</reverse-related>
@@ -413,13 +412,11 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Badger Token</name>
-            <text></text>
             <prop>
                 <colors>G</colors>
-                <manacost></manacost>
                 <type>Token Creature — Badger</type>
                 <maintype>Creature</maintype>
-                <cmc></cmc>
+                <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/e/4e42cb2e-578f-4fec-a9a4-33b95b78229c.jpg?1662835091">DMU</set>
@@ -479,6 +476,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/d/9d8ab1dd-f8a5-4a93-8aa0-f0701a4c3ff2.jpg?1662663425">DMC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/c/ec53abaa-b316-496d-9351-318a9dd9de4d.jpg?1615686653">KHM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/0/b0f09f9e-e0f9-4ed8-bfc0-5f1a3046106e.jpg?1572489163">ELD</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/6/c6610846-00d8-4cc2-a90a-4dc043ba7fa6.jpg?1563073126">MH1</set>
@@ -915,10 +913,9 @@ This creature can block only creatures with flying.</text>
 This creature can't block.</text>
             <prop>
                 <colors>B</colors>
-                <manacost></manacost>
                 <type>Token Creature — Bird</type>
                 <maintype>Creature</maintype>
-                <cmc></cmc>
+                <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/d/8dce95d5-2ae7-4bd9-92f4-1cb3bed5f733.jpg?1661539757">DMU</set>
@@ -1456,7 +1453,6 @@ This creature can't block.</text>
         </card>
         <card>
             <name>Citizen Token  </name>
-            <text></text>
             <prop>
                 <colors>GW</colors>
                 <type>Token Creature — Citizen</type>
@@ -2094,7 +2090,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <reverse-related>Dragon Cultist</reverse-related>
             <reverse-related>Dragon Whisperer</reverse-related>
             <reverse-related>Rith, Liberated Primeval</reverse-related>
-            <reverse-related>Rohgahh, Kher Keep Overlord</reverse-related>
+            <reverse-related exclude="exclude">Rohgahh, Kher Keep Overlord</reverse-related>
             <reverse-related count="x" exclude="exclude">Rohgahh, Kher Keep Overlord</reverse-related>
             <reverse-related>Sarkhan the Masterless</reverse-related>
             <reverse-related>Sarkhan Unbroken</reverse-related>
@@ -2162,7 +2158,6 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <text>(This token's color is gold.)
 Flying</text>
             <prop>
-                <colors></colors>
                 <type>Token Creature — Dragon</type>
                 <maintype>Creature</maintype>
                 <pt>4/4</pt>
@@ -2365,6 +2360,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <maintype>Creature</maintype>
                 <pt>0/1</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/8/48cc199d-9596-4d6a-9ed3-b1f599a03741.jpg?1662663443">DMC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/b/bb66de6b-8815-4e6c-a093-18607b003b88.jpg?1568003463">C19</set>
             <reverse-related>Atla Palani, Nest Tender</reverse-related>
             <token>1</token>
@@ -2933,10 +2929,9 @@ This creature's power and toughness are each equal to the number of instant and 
             <text>Trample, haste</text>
             <prop>
                 <colors>R</colors>
-                <manacost></manacost>
                 <type>Token Creature — Elemental</type>
                 <maintype>Creature</maintype>
-                <cmc></cmc>
+                <cmc>0</cmc>
                 <pt>2/1</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/6/c6b2ff6f-d55a-4fa2-86be-e2e012267de4.jpg?1661549478">DMU</set>
@@ -3000,6 +2995,7 @@ This creature's power and toughness are each equal to the number of instant and 
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/5/85218405-499b-4311-83d0-aebec5d02f8e.jpg?1662663464">DMC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/6/46c63821-49f6-4b9a-80a1-18e9c79c5c1a.jpg?1644543311">NEC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/8/2853ba8b-650e-49e3-ab12-86b76e02743b.jpg?1641306093">C21</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/c/8c4d495a-b4b7-4119-ae2d-5b602a0b309f.jpg?1620573835">CMR</set>
@@ -3450,7 +3446,6 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
             <name>Giant Teddy Bear Token</name>
             <text>(This token's color is pink.)</text>
             <prop>
-                <colors></colors>
                 <type>Token Creature — Giant Teddy Bear</type>
                 <maintype>Creature</maintype>
                 <pt>5/5</pt>
@@ -4021,12 +4016,15 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/c/8cd2c057-4cfd-4c45-a089-dbbe14b3ea53.jpg?1662663514">DMC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/e/2e7a7388-3f80-41c0-a042-d6b8ef3cf291.jpg?1641306021">TSR</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/b/ebbaae25-d0cd-416a-a44a-5b258fd1d9fd.jpg?1594733476">M21</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/6/96c36884-df5e-435d-9473-65da550535fb.jpg">DDH</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/0/e0e3a11d-c7a3-495b-add9-0503141b1cfe.jpg">DDL</set>
             <reverse-related>Griffin Aerie</reverse-related>
             <reverse-related>Griffin Guide</reverse-related>
+            <reverse-related>Zeriam, Golden Wind</reverse-related>
+            <reverse-related count="x" exclude="exclude">Zeriam, Golden Wind</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -4309,6 +4307,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/b/4b5469aa-0f24-43ed-b605-35c344eebf96.jpg?1662663524">DMC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/4/64dad439-cae3-4f65-b6fb-c737321d322c.jpg?1654172003">CLB</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/d/7d13a93a-a43d-4cf5-8300-8341f3b7f1b1.jpg?1636629870">VOW</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/7/b7667345-e11b-4cad-ac4c-84eb1c5656c5.jpg?1653273217">MID</set>
@@ -4556,6 +4555,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <cmc>0</cmc>
                 <pt>0/0</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/5/d50eb149-015c-49c9-a3de-c62189c5582d.jpg?1662663482">DMC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/b/ebe2f431-75b6-4c3c-a601-15814752ea6c.jpg?1591319211">C20</set>
             <reverse-related>Zaxara, the Exemplary</reverse-related>
             <token>1</token>
@@ -4563,7 +4563,6 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
         </card>
         <card>
             <name>Hydra Token  </name>
-            <text></text>
             <prop>
                 <colors>BG</colors>
                 <type>Token Creature — Hydra</type>
@@ -4669,7 +4668,6 @@ Equip {2}</text>
         </card>
         <card>
             <name>Illusion Token    </name>
-            <text></text>
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Illusion</type>
@@ -4848,20 +4846,6 @@ Equip {2}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Insect Token        </name>
-            <prop>
-                <colors>G</colors>
-                <type>Token Creature — Insect</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>3/3</pt>
-            </prop>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/5/d53e20ee-b43c-45aa-9921-2c6f7ddc27fb.jpg?1641305867">MID</set>
-            <reverse-related count="2">Rise of the Ants</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
             <name>Insect Token       </name>
             <prop>
                 <colors>BG</colors>
@@ -4880,16 +4864,29 @@ Equip {2}</text>
         </card>
         <card>
             <name>Insect Token        </name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Insect</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/5/d53e20ee-b43c-45aa-9921-2c6f7ddc27fb.jpg?1641305867">MID</set>
+            <reverse-related count="2">Rise of the Ants</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Insect Token         </name>
             <text>Flying</text>
             <prop>
                 <colors>B</colors>
-                <manacost></manacost>
                 <type>Token Creature — Insect</type>
                 <maintype>Creature</maintype>
-                <cmc></cmc>
+                <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/4/c41933b2-a91f-4c43-8734-08fc3a392ac2.jpg?1662835154">DMU</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/4/c41933b2-a91f-4c43-8734-08fc3a392ac2.jpg?1662835154">DMC</set>
             <reverse-related>Xira, the Golden Sting</reverse-related>
             <reverse-related count="x" exclude="exclude">Xira, the Golden Sting</reverse-related>
             <token>1</token>
@@ -4934,6 +4931,22 @@ Equip {2}</text>
             </prop>
             <set picURL="https://cdn.staticneo.com/w/mtg/4/42/Kavu.jpg">APC</set>
             <reverse-related>Penumbra Kavu</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Kavu Token </name>
+            <text>This creature is all colors.
+Trample</text>
+            <prop>
+                <colors>BGRUW</colors>
+                <type>Token Creature — Kavu</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/5/e50f89a6-26bd-4144-8c4a-ee9f293bd9c4.jpg?1662663538">DMC</set>
+            <reverse-related>Jared Carthalion</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -5000,6 +5013,7 @@ Equip {2}</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/b/4bd69d39-c2ce-44b4-b2d0-5e384d69db02.jpg?1662663534">DMC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/7/076f934b-a244-45f1-bcb3-7c5e882e9911.jpg?1594733476">M21</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/0/703e7ecf-3d73-40c1-8cfe-0758778817cf.jpg?1572489131">ELD</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/d/fd8ca5ee-7b93-4248-8f4a-b88261ee1eed.jpg">M19</set>
@@ -5101,10 +5115,9 @@ Flanking</text>
             <text>Protection from red</text>
             <prop>
                 <colors>W</colors>
-                <manacost></manacost>
                 <type>Token Creature — Knight</type>
                 <maintype>Creature</maintype>
-                <cmc></cmc>
+                <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/9/19e893e5-12a8-4ecb-adcd-9e7b26b01de2.jpg?1662835101">DMU</set>
@@ -5143,7 +5156,6 @@ Flanking</text>
             <reverse-related>Kher Keep</reverse-related>
             <reverse-related count="x">Prossh, Skyraider of Kher</reverse-related>
             <reverse-related>Rosnakht, Heir of Rohgahh</reverse-related>
-            <reverse-related count="x" exclude="exclude">Rosnakht, Heir of Rohgahh</reverse-related>
             <reverse-related>Rohgahh, Kher Keep Overlord</reverse-related>
             <reverse-related count="x" exclude="exclude">Rohgahh, Kher Keep Overlord</reverse-related>
             <token>1</token>
@@ -5445,7 +5457,6 @@ Flying, vigilance, trample, lifelink, haste</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/b/1bad1c90-a3ea-469e-ba0b-91c75ea5b1a3.jpg?1662835149">DMU</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/b/fb1b292b-2da6-4601-9f93-5eb273ce3a50.jpg">ZEN</set>
             <reverse-related>Emperor Mihail II</reverse-related>
-            <reverse-related count="x" exclude="exclude">Emperor Mihail II</reverse-related>
             <reverse-related>Lullmage Mentor</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5559,10 +5570,9 @@ Flying, vigilance, trample, lifelink, haste</text>
             <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
             <prop>
                 <colors>R</colors>
-                <manacost></manacost>
                 <type>Token Creature — Monk</type>
                 <maintype>Creature</maintype>
-                <cmc></cmc>
+                <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/8/388180bd-cc96-4b18-9ddd-18a3f7e06282.jpg?1661549560">DMU</set>
@@ -5934,7 +5944,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Ogre Warrior Token</name>
-            <text></text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Ogre Warrior</type>
@@ -6091,14 +6100,12 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Ornithopter</name>
+            <name>Ornithopter </name>
             <text>Flying</text>
             <prop>
-                <colors></colors>
-                <manacost></manacost>
                 <type>Token Artifact Creature — Thopter</type>
                 <maintype>Creature</maintype>
-                <cmc></cmc>
+                <cmc>0</cmc>
                 <pt>0/2</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/6/a63d3174-75af-4dfa-b2f9-c4330c755af1.jpg?1661549794">DMU</set>
@@ -6243,13 +6250,11 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         </card>
         <card>
             <name>Phyrexian Token</name>
-            <text></text>
             <prop>
                 <colors>B</colors>
-                <manacost></manacost>
                 <type>Token Creature — Phyrexian</type>
                 <maintype>Creature</maintype>
-                <cmc></cmc>
+                <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/a/ba2a7b17-a65a-4c37-bc2b-8be5ff8ce692.jpg?1661549355">DMU</set>
@@ -6506,11 +6511,11 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         <card>
             <name>Pirate Token </name>
             <text>This creature can't block.
-Creatures you control attach each combat if able.</text>
+Creatures you control attack each combat if able.</text>
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Pirate</type>
-                <maintype>Creatujre</maintype>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -6581,17 +6586,13 @@ Creatures you control attach each combat if able.</text>
             <name>Powerstone Token</name>
             <text>{T}: Add {C}. This mana can't be spent to cast nonartifact spells.</text>
             <prop>
-                <colors></colors>
-                <manacost></manacost>
                 <type>Token Artifact — Powerstone</type>
                 <maintype>Artifact</maintype>
-                <cmc></cmc>
-                <pt></pt>
+                <cmc>0</cmc>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/4/447af615-1e59-471f-886b-bf46007a938d.jpg?1661549831">DMU</set>
             <reverse-related>Karn, Living Legacy</reverse-related>
             <reverse-related>The Mana Rig</reverse-related>
-            <reverse-related count="x" exclude="exclude">The Mana Rig</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -6645,6 +6646,7 @@ Creatures you control attach each combat if able.</text>
                 <maintype>Creature</maintype>
                 <pt>2/1</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/c/5cd9a145-86cc-4591-b64b-c003eaa926eb.jpg?1662663407">DMU</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/e/1ebc91a9-23e0-4ca1-bc6d-e710ad2efb31.jpg">AER</set>
             <reverse-related>Kari Zev, Skyship Raider</reverse-related>
             <token>1</token>
@@ -6826,7 +6828,6 @@ Equip {1}</text>
         </card>
         <card>
             <name>Rogue Token</name>
-            <text></text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Rogue</type>
@@ -7445,6 +7446,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/e/5e7de554-9d1b-4ab0-abee-1a11d105db81.jpg?1662663504">DMC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/e/0e0f26b2-eaeb-4ea3-8305-1d65d4402d1a.jpg?1591319233">C20</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/6/169dfab7-ff75-47df-8a20-7b4a729feafe.jpg?1572370781">C19</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/2/f29ed172-10e9-430d-977f-7f48da2b65de.jpg?1562857291">C15</set>
@@ -7614,7 +7616,6 @@ Equip {1}</text>
             <reverse-related count="x">Darien, King of Kjeldor</reverse-related>
             <reverse-related count="x" exclude="exclude">Decree of Justice</reverse-related>
             <reverse-related>Defiler of Faith</reverse-related>
-            <reverse-related count ="x" exclude="exclude">Defiler of Faith</reverse-related>
             <reverse-related count="x">Deploy to the Front</reverse-related>
             <reverse-related count="3">Elspeth Tirel</reverse-related>
             <reverse-related>Elspeth, Knight-Errant</reverse-related>
@@ -7663,7 +7664,6 @@ Equip {1}</text>
             <reverse-related count="3">Timely Reinforcements</reverse-related>
             <reverse-related count="7">Torsten, Founder of Benalia</reverse-related>
             <reverse-related>Tura Kennerüd, Skyknight</reverse-related>
-            <reverse-related count="x" exclude="exclude">Tura Kennerüd, Skyknight</reverse-related>
             <reverse-related count="2" exclude="exclude">Undercellar Sweep</reverse-related>
             <reverse-related count="x">Veteran Soldier</reverse-related>
             <reverse-related count="3">You're Confronted by Robbers</reverse-related>
@@ -8193,7 +8193,6 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spirit Token        </name>
-            <text></text>
             <prop>
                 <colors>RW</colors>
                 <type>Token Creature — Spirit</type>
@@ -8849,7 +8848,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Instrument of the Bards</reverse-related>
             <reverse-related>Involuntary Employment</reverse-related>
             <reverse-related count="2">Jan Jansen, Chaos Crafter</reverse-related>
-            <reverse-related count="2">Jared Carthalion</reverse-related>
+            <reverse-related count="2" exclude="exclude">Jared Carthalion</reverse-related>
             <reverse-related>Jewel Thief</reverse-related>
             <reverse-related>Jewel-Eyed Cobra</reverse-related>
             <reverse-related>Jolene, the Plunder Queen</reverse-related>
@@ -9507,6 +9506,7 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/d/1d7b1dfa-14a2-4e4e-baf2-e06672651db1.jpg?1662663372">DMC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/d/2d1446ed-f114-421d-bb60-9aeb655e5adb.jpg">AKH</set>
             <reverse-related>Cartouche of Solidarity</reverse-related>
             <reverse-related>Oketra the True</reverse-related>
@@ -9881,13 +9881,11 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
         </card>
         <card>
             <name>Wurm Token       </name>
-            <text></text>
             <prop>
                 <colors>G</colors>
-                <manacost></manacost>
                 <type>Token Creature — Wurm</type>
                 <maintype>Creature</maintype>
-                <cmc></cmc>
+                <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/d/edcfb468-6389-4e72-80af-d0d4442e6988.jpg?1662835177">DMU</set>
@@ -10252,7 +10250,9 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/4/145bd35c-efcb-4aee-8f13-349961979046.jpg?1662663389">DMC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/b/0b527bcd-0d37-495a-8457-8123388056b9.jpg?1562701899">DOM</set>
+            <reverse-related count="x">Bladewing, Deathless Tyrant</reverse-related>
             <reverse-related count="8">Josu Vess, Lich Knight</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -10476,7 +10476,7 @@ Throne of the Dead Three — Reveal the top ten cards of your library. Put a cre
             <tablerow>1</tablerow>
         </card>
         <card>
-        <name>Ajani, Sleeper Agent (Emblem)</name>
+            <name>Ajani, Sleeper Agent (Emblem)</name>
             <text>Whenever you cast a creature or planeswalker spell, target opponent gets two poison counters.</text>
             <prop>
                 <type>Emblem</type>
