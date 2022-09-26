@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20220926</sourceVersion>
+        <sourceVersion>20220926b</sourceVersion>
     </info>
     <cards>
         <!--
@@ -2093,9 +2093,9 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <reverse-related count="x">Descent of the Dragons</reverse-related>
             <reverse-related>Dragon Cultist</reverse-related>
             <reverse-related>Dragon Whisperer</reverse-related>
-            <reverse-related>Rith, Liberated Primeval<reverse-related>
-            <reverse-related>Rohgahh, Kher Keep Overlord<reverse-related>
-            <reverse-related count="x" exclude="exclude">Rohgahh, Kher Keep Overlord<reverse-related>
+            <reverse-related>Rith, Liberated Primeval</reverse-related>
+            <reverse-related>Rohgahh, Kher Keep Overlord</reverse-related>
+            <reverse-related count="x" exclude="exclude">Rohgahh, Kher Keep Overlord</reverse-related>
             <reverse-related>Sarkhan the Masterless</reverse-related>
             <reverse-related>Sarkhan Unbroken</reverse-related>
             <reverse-related count="5">Sarkhan Vol</reverse-related>
@@ -7630,7 +7630,7 @@ Equip {1}</text>
             <reverse-related count="x">Horn of Valhalla // Ysgard's Call</reverse-related>
             <reverse-related count="x=1">Ironroot Warlord</reverse-related>
             <reverse-related>Keeper of the Accord</reverse-related>
-            <reverse-related count="2">Keldon Strike Team</reverse-realted>
+            <reverse-related count="2">Keldon Strike Team</reverse-related>
             <reverse-related>King Darien XLVIII</reverse-related>
             <reverse-related count="x" exclude="exclude">King Darien XLVIII</reverse-related>
             <reverse-related>Kjeldoran Outpost</reverse-related>
