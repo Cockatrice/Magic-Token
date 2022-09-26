@@ -166,7 +166,6 @@
             <reverse-related>Historian's Boon</reverse-related>
             <reverse-related count="x" exclude="exclude">Historian's Boon</reverse-related>
             <reverse-related>Jenson Carthalion, Druid Exile</reverse-related>
-            <reverse-related count="x" exclude="exclude">Jenson Carthalion, Druid Exile</reverse-related>
             <reverse-related count="2">Parhelion II</reverse-related>
             <reverse-related>Rampage of the Valkyries</reverse-related>
             <reverse-related>Resplendent Angel</reverse-related>
@@ -2091,7 +2090,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <reverse-related>Dragon Cultist</reverse-related>
             <reverse-related>Dragon Whisperer</reverse-related>
             <reverse-related>Rith, Liberated Primeval</reverse-related>
-            <reverse-related>Rohgahh, Kher Keep Overlord</reverse-related>
+            <reverse-related exclude="exclude">Rohgahh, Kher Keep Overlord</reverse-related>
             <reverse-related count="x" exclude="exclude">Rohgahh, Kher Keep Overlord</reverse-related>
             <reverse-related>Sarkhan the Masterless</reverse-related>
             <reverse-related>Sarkhan Unbroken</reverse-related>
@@ -4025,7 +4024,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <reverse-related>Griffin Aerie</reverse-related>
             <reverse-related>Griffin Guide</reverse-related>
             <reverse-related>Zeriam, Golden Wind</reverse-related>
-            <reverse-related count='x' exclude="exclude">Zeriam, Golden Wind</reverse-related>
+            <reverse-related count="x" exclude="exclude">Zeriam, Golden Wind</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -4847,20 +4846,6 @@ Equip {2}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Insect Token        </name>
-            <prop>
-                <colors>G</colors>
-                <type>Token Creature — Insect</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>3/3</pt>
-            </prop>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/5/d53e20ee-b43c-45aa-9921-2c6f7ddc27fb.jpg?1641305867">MID</set>
-            <reverse-related count="2">Rise of the Ants</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
             <name>Insect Token       </name>
             <prop>
                 <colors>BG</colors>
@@ -4879,6 +4864,20 @@ Equip {2}</text>
         </card>
         <card>
             <name>Insect Token        </name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Insect</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/5/d53e20ee-b43c-45aa-9921-2c6f7ddc27fb.jpg?1641305867">MID</set>
+            <reverse-related count="2">Rise of the Ants</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Insect Token         </name>
             <text>Flying</text>
             <prop>
                 <colors>B</colors>
@@ -4887,7 +4886,7 @@ Equip {2}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/4/c41933b2-a91f-4c43-8734-08fc3a392ac2.jpg?1662835154">DMU</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/4/c41933b2-a91f-4c43-8734-08fc3a392ac2.jpg?1662835154">DMC</set>
             <reverse-related>Xira, the Golden Sting</reverse-related>
             <reverse-related count="x" exclude="exclude">Xira, the Golden Sting</reverse-related>
             <token>1</token>
@@ -5157,7 +5156,6 @@ Flanking</text>
             <reverse-related>Kher Keep</reverse-related>
             <reverse-related count="x">Prossh, Skyraider of Kher</reverse-related>
             <reverse-related>Rosnakht, Heir of Rohgahh</reverse-related>
-            <reverse-related count="x" exclude="exclude">Rosnakht, Heir of Rohgahh</reverse-related>
             <reverse-related>Rohgahh, Kher Keep Overlord</reverse-related>
             <reverse-related count="x" exclude="exclude">Rohgahh, Kher Keep Overlord</reverse-related>
             <token>1</token>
@@ -5459,7 +5457,6 @@ Flying, vigilance, trample, lifelink, haste</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/b/1bad1c90-a3ea-469e-ba0b-91c75ea5b1a3.jpg?1662835149">DMU</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/b/fb1b292b-2da6-4601-9f93-5eb273ce3a50.jpg">ZEN</set>
             <reverse-related>Emperor Mihail II</reverse-related>
-            <reverse-related count="x" exclude="exclude">Emperor Mihail II</reverse-related>
             <reverse-related>Lullmage Mentor</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -6103,7 +6100,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Ornithopter</name>
+            <name>Ornithopter </name>
             <text>Flying</text>
             <prop>
                 <type>Token Artifact Creature — Thopter</type>
@@ -6518,7 +6515,7 @@ Creatures you control attack each combat if able.</text>
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Pirate</type>
-                <maintype>Creatujre</maintype>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
@@ -6596,7 +6593,6 @@ Creatures you control attack each combat if able.</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/4/447af615-1e59-471f-886b-bf46007a938d.jpg?1661549831">DMU</set>
             <reverse-related>Karn, Living Legacy</reverse-related>
             <reverse-related>The Mana Rig</reverse-related>
-            <reverse-related count="x" exclude="exclude">The Mana Rig</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -6650,7 +6646,7 @@ Creatures you control attack each combat if able.</text>
                 <maintype>Creature</maintype>
                 <pt>2/1</pt>
             </prop>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/c/5cd9a145-86cc-4591-b64b-c003eaa926eb.jpg?1662663407">DMC</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/c/5cd9a145-86cc-4591-b64b-c003eaa926eb.jpg?1662663407">DMU</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/e/1ebc91a9-23e0-4ca1-bc6d-e710ad2efb31.jpg">AER</set>
             <reverse-related>Kari Zev, Skyship Raider</reverse-related>
             <token>1</token>
@@ -7620,7 +7616,6 @@ Equip {1}</text>
             <reverse-related count="x">Darien, King of Kjeldor</reverse-related>
             <reverse-related count="x" exclude="exclude">Decree of Justice</reverse-related>
             <reverse-related>Defiler of Faith</reverse-related>
-            <reverse-related count="x" exclude="exclude">Defiler of Faith</reverse-related>
             <reverse-related count="x">Deploy to the Front</reverse-related>
             <reverse-related count="3">Elspeth Tirel</reverse-related>
             <reverse-related>Elspeth, Knight-Errant</reverse-related>
@@ -7669,7 +7664,6 @@ Equip {1}</text>
             <reverse-related count="3">Timely Reinforcements</reverse-related>
             <reverse-related count="7">Torsten, Founder of Benalia</reverse-related>
             <reverse-related>Tura Kennerüd, Skyknight</reverse-related>
-            <reverse-related count="x" exclude="exclude">Tura Kennerüd, Skyknight</reverse-related>
             <reverse-related count="2" exclude="exclude">Undercellar Sweep</reverse-related>
             <reverse-related count="x">Veteran Soldier</reverse-related>
             <reverse-related count="3">You're Confronted by Robbers</reverse-related>
@@ -8854,7 +8848,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Instrument of the Bards</reverse-related>
             <reverse-related>Involuntary Employment</reverse-related>
             <reverse-related count="2">Jan Jansen, Chaos Crafter</reverse-related>
-            <reverse-related count="2">Jared Carthalion</reverse-related>
+            <reverse-related count="2" exclude="exclude">Jared Carthalion</reverse-related>
             <reverse-related>Jewel Thief</reverse-related>
             <reverse-related>Jewel-Eyed Cobra</reverse-related>
             <reverse-related>Jolene, the Plunder Queen</reverse-related>
