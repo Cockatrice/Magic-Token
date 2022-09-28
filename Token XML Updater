@@ -1,0 +1,224 @@
+#!/usr/bin/env python3
+
+"""
+Command line tool to compare a new set of tokens from Scryfall with an existing token XML. Pulls down a token set from Scryfall, appends reprinted tokens to a copy of the current XML file, and creates entries for new tokens in a seperate XML file. 
+Does not handle reverse-related, adding 'token' to token names, or adding spaces to same-name tokens. Treats tokens with new reminder text as new tokens.
+
+Run using 'python filename setcode /path/to/current/XML/file' or make the file executable with chmod and use './filename setcode /path/to/current/XML/file', when in the same folder as this script file.
+"""
+
+import requests
+import re
+import sys
+from lxml import etree
+
+def pull_scryfall_API(download_url):
+    """
+    Makes a request to the Scryfall API with the given download URL and outputs cards as a list of dicts
+    Depends on requests
+    This function is adapted from Cockatrice: Magic-Spoiler download_scryfall_set(), licensed under GPL v3.0
+    Copyright (C) 2022  SlightlyCircuitous
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>
+    """
+    
+    page = 1
+    token_list = []
+
+    while download_url:
+    
+        cards = requests.get(download_url).json()
+        if cards["object"] == "error":
+            print(f"Error occurred downloading page {page}")
+            break
+        
+        for card in cards["data"]:
+            token_list.append(card)
+        
+        if not cards.get('has_more'): #get returns None if the key does not exist and None has a truth-value of False (though it isn't actually the boolean False)
+            break
+        
+        download_url = cards["next_page"]
+    
+        page += 1
+    
+        time.sleep(0.5) #rate limit to keep the API gods happy
+        
+    return token_list
+    
+def update_token_xml(set_code,xml_file):
+    """
+    Builds two xmls of tokens based on a scryfall API search. Puts reprints in xml_file and new tokens 
+    in a new xml_file. Does not handle reverse-related. Depends on re, lxml. 
+    
+    :param set_code: the three letter code representing the set
+    :param xml_file: the xml list of tokens to check new ones against
+    """
+    
+    #pull down the token set from Scryfall using pull_scryfall_API()
+    token_set = pull_scryfall_API('https://api.scryfall.com/cards/search?q=s%3A'+'t'+set_code.lower())
+    
+    #parse the existing token xml
+    xml_tree = etree.parse(xml_file)
+    xml_root = xml_tree.getroot()
+    
+    #create new xml tree to add new tokens to
+    new_root = etree.Element('newtokens')
+    cards = etree.SubElement(new_root,'cards')
+    
+    #set up
+    short_tag_list = ['Emblem','Dungeon','Card','Token'] #Scryfall doesn't use 'State', 'Counter', or 'Companion' types; they are all rolled into 'Card'
+    new_token_count = 0
+    reprint_count = 0
+    double_faced_count = 0
+    maintype_list = ['Artifact','Emblem','Enchantment','Dungeon']
+    
+    #check if card is in the token xml file already
+    for sf_token in token_set:
+        
+        #skip double-faced tokens because they have a completely different file structure
+        if sf_token['layout'] == 'double_faced_token':
+            double_faced_count += 1
+            continue
+        
+        match_found = False
+        
+        token_name = sf_token['name'] #using token name from Scryfall as written; some names need 'token' appended or spaces added on the end
+        token_text = sf_token['oracle_text']
+        token_type = sf_token['type_line']
+        token_colors = sorted(sf_token['colors'])
+        
+        if 'power' in sf_token.keys() and 'toughness' in sf_token.keys():
+                token_pt = sf_token['power']+'/'+sf_token['toughness']
+
+        else:
+            token_pt = ""
+        
+        for xml_card in xml_root.findall('./cards/'):
+                    
+            #unify formatting between scryfall and the token xml for matching
+            
+            #name
+            xml_name = xml_card.findtext('name')
+            
+            #text
+            if etree.iselement(xml_card.find('text')):
+                xml_text =  xml_card.findtext('text')
+                
+            else:
+                xml_text = ""
+
+            #colors
+            if etree.iselement(xml_card.find('./prop/colors')):
+                xml_colors = sorted(list(xml_card.findtext('./prop/colors'))) #need to make it a list to sort it
+            else:
+                xml_colors = []
+
+            #power and toughness   
+            if etree.iselement(xml_card.find('./prop/pt')):
+                xml_pt = xml_card.findtext('./prop/pt')
+                
+            else:
+                xml_pt = ""
+             
+            #append picURL/set line to existing file if a perfect match
+            if (re.match(token_name, xml_name)) and (xml_text == token_text) and (xml_card.find('./prop/type').text == token_type) and (xml_colors == token_colors) and (xml_pt == token_pt):
+                
+                new = etree.Element('set',attrib = {'picURL':sf_token['image_uris']['large']})
+                new.text = set_code.upper()
+                
+                #insert needs a relative index; <text> may or may not exist
+                if etree.iselement(xml_card.find('./text')):
+                    xml_card.insert(3,new)
+                else:
+                    xml_card.insert(2,new)
+                match_found = True
+                reprint_count+=1
+                
+        #create a full entry for new token and add it to a new xml file if no match
+        if not match_found: 
+            
+            card = etree.SubElement(cards,'card')
+            
+            name = etree.SubElement(card,'name')
+            name.text = token_name
+            
+            if token_text != "":
+                text = etree.SubElement(card, 'text')
+                text.text = token_text
+                
+            prop = etree.SubElement(card,'prop')
+            
+            if token_colors != []:
+                colors = etree.SubElement(prop,'colors')
+                colors.text = "".join(token_colors) #put colors back to a string
+                
+            card_type = etree.SubElement(prop,'type')
+            card_type.text = token_type
+            
+            maintype = etree.SubElement(prop,'maintype')
+            
+            #check if it's in the 'Card' catch-all or 'Token' catchall in Scryfall    
+            if card_type.text == 'Card' or card_type.text == 'Token':
+            	maintype.text = 'Please edit manually'
+            	print (f"Card '{token_name}' has type 'Card' or type 'Token'; please edit type and maintype manually.")
+            
+            #creature is the maintype for any type line with the word 'Creature' in it
+            elif 'Creature' in card_type.text:
+                maintype.text = 'Creature'
+                
+            #all other types are mutually exclusive
+            else:
+                for item in maintype_list:
+                    if item in card_type.text:
+                        maintype.text = item
+            
+            if token_type not in short_tag_list:
+                cmc = etree.SubElement(prop,'cmc')
+                cmc.text = '0'
+                
+            if token_pt != "":
+                pt = etree.SubElement(prop,'pt')
+                pt.text = token_pt
+
+            card_set = etree.SubElement(card, 'set', attrib={'picURL':""})
+            card_set.set('picURL', sf_token['image_uris']['large'])
+            card_set.text = set_code.upper()
+            
+            reverse_related = etree.SubElement(card, 'reverse-related')
+            token = etree.SubElement(card,'token')
+            token.text = '1'
+
+            tablerow = etree.SubElement(card,'tablerow')
+            if maintype.text == 'Creature':
+                tablerow.text = '2'
+            else:
+                tablerow.text = '1'
+            
+            new_token_count+=1
+                    
+    #create and output xml file -- contains new tokens
+    new_tree = etree.ElementTree(new_root)
+    new_tree.write(f'{set_code}_new_tokens.xml', encoding='utf-8', pretty_print=True)
+    
+    #outputs the ammended token xml file -- contains reprinted tokens
+    xml_tree.write(f'token_file_{set_code}_update.xml',encoding='utf-8', xml_declaration=True, pretty_print=True)
+    
+    #output some token facts
+    print(f'Created {new_token_count} new token entries in {set_code}_new_tokens.xml')
+    print(f'Appended set lines for {reprint_count} reprinted tokens in token_file_{set_code}_update')
+    if double_faced_count > 0:
+        print(f'Skipped {double_faced_count} double-faced tokens.') 
+        
+update_token_xml(sys.argv[1],sys.argv[2])
