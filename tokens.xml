@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20220926c</sourceVersion>
+        <sourceVersion>20220928</sourceVersion>
     </info>
     <cards>
         <!--
@@ -257,6 +257,22 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Arco-Flagellant </name>
+            <text>Arco-Flagellant can't block.
+Pay 3 life: Arco-Flagellant gains indestructible until end of turn.</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Human</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/1</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/c/acb3325d-0b43-471b-9311-1c5ba14b06cf.jpg?1663566358">40K</set>
+            <reverse-related count="x">Arco-Flagellant</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Ashaya, the Awoken World</name>
             <prop>
                 <colors>G</colors>
@@ -328,6 +344,41 @@ Whenever this creature deals damage to a planeswalker, destroy that planeswalker
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/7/e72daa68-0680-431c-a616-b3693fd58813.jpg?1641306045">TSR</set>
             <reverse-related>Urza's Factory</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Astartes Warrior Token</name>
+            <text>Menance</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Astartes Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/3/93bc9e79-88c8-436b-94f7-17b349baf306.jpg?1663529926">40K</set>
+            <reverse-related count="x">Mortarion, Daemon Primarch</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Astartes Warrior Token </name>
+            <text>Vigilance</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Astartes Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/9/d9662108-7a01-48d4-bb5d-edcbf1ed5a0d.jpg?1663569741">40K</set>
+            <reverse-related>Belisarius Cawl</reverse-related>
+            <reverse-related count="x">Birth of the Imperium</reverse-related>
+            <reverse-related count="x">Defenders of Humanity</reverse-related>
+            <reverse-related>Inquisitorial Rosette</reverse-related>
+            <reverse-related count="2">Marneus Calgar</reverse-related>
+            <reverse-related count="2">Thunderhawk Gunship</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -1003,6 +1054,21 @@ This creature can't block.</text>
             <tablerow>1</tablerow>
         </card>
         <card>
+            <name>Blue Horror</name>
+            <text>Whenever you cast an instant or sorcery spell, this creature deals 1 damage to any target.</text>
+            <prop>
+                <colors>RU</colors>
+                <type>Token Creature — Demon Horror</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/a/4a3d2013-e10c-49aa-adf6-4a3a141e48ce.jpg?1663530044">40K</set>
+            <reverse-related count="2">Pink Horror</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Boar Token</name>
             <prop>
                 <colors>G</colors>
@@ -1422,6 +1488,21 @@ This creature can't block.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Cherubael</name>
+            <text>Flying</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Legendary Creature — Demon</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/4</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/6/065e30fe-03e5-4558-8f41-42992b07712e.jpg?1664188387">40K</set>
+            <reverse-related exclude="exclude">Inquisitor Eisenhorn</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Citizen Token</name>
             <prop>
                 <colors>W</colors>
@@ -1554,6 +1635,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/3/43eab560-8ead-4383-afb9-9180a214704b.jpg?1663530503">40K</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/2/d25234a6-cb8d-479a-90f5-9d1a1084277b.jpg?1654172822">CLB</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/6/e69b3894-a78f-446b-9777-3c33731aa2ac.jpg?1641599918">VOC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/7/b7c52125-929a-4e03-a955-d55ae34a905b.jpg?1634242346">SLD</set>
@@ -1596,6 +1678,8 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Gone Missing</reverse-related>
             <reverse-related>Hard Evidence</reverse-related>
             <reverse-related>Humble the Brute</reverse-related>
+            <reverse-related count="x">Inquisitor Eisenhorn</reverse-related>
+            <reverse-related>Inquisitor Greyfax</reverse-related>
             <reverse-related>Jace's Scrutiny</reverse-related>
             <reverse-related>Lonis, Cryptozoologist</reverse-related>
             <reverse-related>Magnifying Glass</reverse-related>
@@ -4893,6 +4977,20 @@ Equip {2}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Insect Token          </name>
+            <text>Flying</text>
+            <prop>
+                <type>Token Artifact Creature — Insect</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/a/9af00a97-9938-4ab2-938a-669cdfe4332a.jpg?1663862211">40K</set>
+            <reverse-related count="x">Canoptek Scarab Swarm</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Kaldra</name>
             <prop>
                 <type>Token Legendary Creature — Avatar</type>
@@ -5854,6 +5952,26 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Necron Warrior Token</name>
+            <prop>
+                <colors>B</colors>
+                <type>Token Artifact Creature — Necron Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/4/542b3490-1247-4f47-98b6-c67cabae53cb.jpg?1663530074">40K</set>
+            <reverse-related>Biotransference</reverse-related>
+            <reverse-related count="2">Imotekh the Stormlord</reverse-related>
+            <reverse-related count="x=2" exclude="exclude">Imotekh the Stormlord</reverse-related>
+            <reverse-related count="x">Necron Monolith</reverse-related>
+            <reverse-related>Night Scythe</reverse-related>
+            <reverse-related count="2">Royal Warden</reverse-related>
+            <reverse-related count="x">Their Number Is Legion</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Nightmare Token </name>
             <text>Whenever this creature attacks or blocks, each opponent exiles the top two cards of their library.</text>
             <prop>
@@ -6526,6 +6644,21 @@ Creatures you control attack each combat if able.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Plaguebearer of Nurgle</name>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Demon</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/3</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/1/b19d2866-87e7-40ab-9684-0593caeb223e.jpg?1663529881">40K</set>
+            <reverse-related count="x">Great Unclean One</reverse-related>
+            <reverse-related>Nurgle's Rot</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Plant Token</name>
             <prop>
                 <colors>G</colors>
@@ -6813,6 +6946,20 @@ Creatures you control attack each combat if able.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Robot Token</name>
+            <text>This creature can't block.</text>
+            <prop>
+                <type>Token Artifact Creature — Robot</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/4</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/1/319aaaae-1efb-412c-8839-c575a2694485.jpg?1663566486">40K</set>
+            <reverse-related>Cybernetica Datasmith</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Rock</name>
             <text>Equipped creature has "{1}, {T}, Sacrifice Rock: This creature deals 2 damage to any target."
 Equip {1}</text>
@@ -6932,7 +7079,7 @@ Equip {1}</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/2/124ea959-742a-4914-9bca-1075ccd0cb22.jpg?1662835181">DMU</set>
             <reverse-related count="x">Hazezon Tamar</reverse-related>
             <reverse-related count="2">Hazezon, Shaper of Sand</reverse-related>
-            <reverse-related count="x" exclude="exclude">Hazezon, Shaper of Sand</reverse-related>
+            <reverse-related count="x=2" exclude="exclude">Hazezon, Shaper of Sand</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7325,6 +7472,21 @@ Equip {1}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Sicarian Infiltrator </name>
+            <text>When Sicarian Infiltrator enters the battlefield, draw a card.</text>
+            <prop>
+                <colors>U</colors>
+                <type>Token Artifact Creature — Human Soldier</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/2</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/8/58784a4f-8190-4751-b42c-fff188ad3ce5.jpg?1663566505">40K</set>
+            <reverse-related count="x">Sicarian Infiltrator</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Sinuous Striker (Token)</name>
             <text>{U}: Sinuous Striker gets +1/-1 until end of turn.</text>
             <prop>
@@ -7565,6 +7727,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/c/5c9295e9-222f-4e7d-91c3-84479d5ec568.jpg?1663530197">40K</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/c/8c4b0257-2ca5-4015-9d63-d7cf6e87ab9d.jpg?1661539690">DMU</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/5/b5000cf8-2104-4d85-95df-29efa92256f6.jpg?1654171358">CLB</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/6/d6090f44-034f-4069-a328-5c81ab774cea.jpg?1641306022">TSR</set>
@@ -7613,6 +7776,7 @@ Equip {1}</text>
             <reverse-related>Benalish Commander</reverse-related>
             <reverse-related count="3">Captain of the Watch</reverse-related>
             <reverse-related count="3">Captain's Call</reverse-related>
+            <reverse-related count="x">Company Commander</reverse-related>
             <reverse-related count="x">Darien, King of Kjeldor</reverse-related>
             <reverse-related count="x" exclude="exclude">Decree of Justice</reverse-related>
             <reverse-related>Defiler of Faith</reverse-related>
@@ -7786,6 +7950,21 @@ Equip {1}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Space Marine Devastator </name>
+            <text>When Space Marine Devastator enters the battlefield, destroy up to one target artifact or enchantment.</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Astartes Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/a/aa796e45-1d95-44f7-927d-0cdd2f67da78.jpg?1663569745">40K</set>
+            <reverse-related count="x">Space Marine Devastator</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Spark Elemental (Token)</name>
             <text>Trample, haste
 At the beginning of the end step, sacrifice Spark Elemental.</text>
@@ -7811,6 +7990,22 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             </prop>
             <set picURL="https://cdn.staticneo.com/w/mtg/d/d3/Spawn.jpg">DST</set>
             <reverse-related>Spawning Pit</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Spawn Token </name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Spawn</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/c/bc938f2e-2d6e-4afd-9a88-34eeaf0b51e3.jpg?1663529982">40K</set>
+            <reverse-related>Magnus the Red</reverse-related>
+            <reverse-related>The Lost and the Damned</reverse-related>
+            <reverse-related count="x" exclude="exclude">The Lost and the Damned</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -9089,6 +9284,83 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Tyranid Token</name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Tyranid</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/1/21e0620b-0498-407f-a609-79c7bc393e76.jpg?1663289760">40K</set>
+            <reverse-related count="x">Termagant Swarm</reverse-related>
+            <reverse-related count="x">Tervigon</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Tyranid Token </name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Tyranid</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>5/5</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/1/21afb029-9aef-4e6e-a646-3343605b4bb7.jpg?1663289847">40K</set>
+            <reverse-related>Old One Eye</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Tyranid Gargoyle Token</name>
+            <text>Flying</text>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Tyranid Gargoyle</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/0/20171707-0670-42dd-a6c4-f0aa56fc0cd1.jpg?1663289882">40K</set>
+            <reverse-related>Gargoyle Flock</reverse-related>
+            <reverse-related>Tyranid Harridan</reverse-related>
+            <reverse-related count="x" exclude="exclude">Tyranid Harridan</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Tyranid Warrior Token</name>
+            <text>Trample</text>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Tyranid Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/9/691979ab-e0d7-4e74-84da-77d09dc038a3.jpg?1663289810">40K</set>
+            <reverse-related>Lictor</reverse-related>
+            <reverse-related count="x">Tyranid Invasion</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Ultramarines Honour Guard </name>
+            <text>Other creatures you control get +1/+1.</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Astartes Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/7/f7d6c117-0924-404a-9b06-5c28b830d316.jpg?1663566276">40K</set>
+            <reverse-related count="x">Ultramarines Honour Guard</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Unicorn Token</name>
             <prop>
                 <colors>W</colors>
@@ -9276,6 +9548,22 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/9/8989fdb4-723b-4c80-89b4-930ccac13b22.jpg?1562086874">SOI</set>
             <reverse-related>Call the Bloodline</reverse-related>
             <reverse-related count="x">Sorin, Grim Nemesis</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Vanguard Suppressor </name>
+            <text>Flying
+Whenever Vanguard Suppressor deals combat damage to a player, draw a card.</text>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Astartes Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/2</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/5/e5d319cb-4982-4fb9-93d4-1cc846b03c30.jpg?1657122441">40K</set>
+            <reverse-related count="x">Vanguard Suppressor</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -9890,6 +10178,21 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/d/edcfb468-6389-4e72-80af-d0d4442e6988.jpg?1662835177">DMU</set>
             <reverse-related>Baru, Wurmspeaker</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Zephyrim </name>
+            <text>Flying, vigilance</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Human Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/8/88be9551-c8d9-4486-b8f1-810f5dae12c8.jpg?1663530371">40K</set>
+            <reverse-related count="x">Zephyrim</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
