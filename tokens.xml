@@ -1447,9 +1447,9 @@ This creature can't block.</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/8/d886263e-9f46-4389-a543-947d6e51cb1a.jpg?1662835172">DMU</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/7/0742ca95-9455-4f56-b26c-2994d12af602.jpg?1592710075">C18</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/9/29c4e4f2-0040-4490-b357-660d729ad9cc.jpg">C17</set>
+            <reverse-related>Jedit Ojanen of Efrava</reverse-related>
             <reverse-related>Jedit Ojanen, Mercenary</reverse-related>
             <reverse-related count="x" exclude="exclude">Jedit Ojanen, Mercenary</reverse-related>
-            <reverse-related>Jedit Ojanen of Efrava</reverse-related>
             <reverse-related count="6">Lord Windgrace</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5375,9 +5375,9 @@ Flanking</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/f/dfc03591-1114-4e36-a397-0bb3db8a153c.jpg?1562702392">A25</set>
             <reverse-related>Kher Keep</reverse-related>
             <reverse-related count="x">Prossh, Skyraider of Kher</reverse-related>
-            <reverse-related>Rosnakht, Heir of Rohgahh</reverse-related>
             <reverse-related>Rohgahh, Kher Keep Overlord</reverse-related>
             <reverse-related count="x" exclude="exclude">Rohgahh, Kher Keep Overlord</reverse-related>
+            <reverse-related>Rosnakht, Heir of Rohgahh</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -6888,10 +6888,10 @@ Creatures you control attack each combat if able.</text>
             <reverse-related>Static Net</reverse-related>
             <reverse-related>Stern Lesson</reverse-related>
             <reverse-related>Stone Retrieval Unit</reverse-related>
-            <reverse-related>Thran Spider</reverse-related>
             <reverse-related>The Mana Rig</reverse-related>
-            <reverse-related>Urza, Powerstone Prodigy</reverse-related>
+            <reverse-related>Thran Spider</reverse-related>
             <reverse-related>Urza's Command</reverse-related>
+            <reverse-related>Urza, Powerstone Prodigy</reverse-related>
             <reverse-related>Visions of Phyrexia</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -10671,8 +10671,8 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             <reverse-related count="x">Endless Ranks of the Dead</reverse-related>
             <reverse-related>Feast or Famine</reverse-related>
             <reverse-related>Field of the Dead</reverse-related>
-            <reverse-related count="x" exclude="exclude">From Under the Floorboards</reverse-related>
             <reverse-related count="3">From Under the Floorboards</reverse-related>
+            <reverse-related count="x" exclude="exclude">From Under the Floorboards</reverse-related>
             <reverse-related count="x">Ghoulcaller Gisa</reverse-related>
             <reverse-related>Ghoulcaller's Accomplice</reverse-related>
             <reverse-related count="2">Gisa's Bidding</reverse-related>
