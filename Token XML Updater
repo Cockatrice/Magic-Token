@@ -2,13 +2,12 @@
 
 """
 Command line tool to compare a new set of tokens from Scryfall with an existing token XML. Pulls down a token set from Scryfall, appends reprinted tokens to a copy of the current XML file, and creates entries for new tokens in a seperate XML file. 
-Does not handle reverse-related, adding 'token' to token names, or adding spaces to same-name tokens. Treats tokens with new reminder text as new tokens.
+Does not handle reverse-related or adding spaces to same-name tokens. Treats tokens with new reminder text as new tokens.
 
 Run using 'python filename setcode /path/to/current/XML/file' or make the file executable with chmod and use './filename setcode /path/to/current/XML/file', when in the same folder as this script file.
 """
 
 import requests
-import re
 import sys
 from lxml import etree
 
@@ -70,7 +69,8 @@ def update_token_xml(set_code,xml_file):
     token_set = pull_scryfall_API('https://api.scryfall.com/cards/search?q=s%3A'+'t'+set_code.lower())
     
     #parse the existing token xml
-    xml_tree = etree.parse(xml_file)
+    parser = etree.XMLParser(remove_blank_text=True) #removes blank spaces to make pretty print behave with .insert
+    xml_tree = etree.parse(xml_file,parser)
     xml_root = xml_tree.getroot()
     
     #create new xml tree to add new tokens to
@@ -93,8 +93,9 @@ def update_token_xml(set_code,xml_file):
             continue
         
         match_found = False
+        catch_all = False
         
-        token_name = sf_token['name'] #using token name from Scryfall as written; some names need 'token' appended or spaces added on the end
+        token_name = sf_token['name'] #using token name from Scryfall as written; some names will need spaces added on the end
         token_text = sf_token['oracle_text']
         token_type = sf_token['type_line']
         token_colors = sorted(sf_token['colors'])
@@ -133,7 +134,7 @@ def update_token_xml(set_code,xml_file):
                 xml_pt = ""
              
             #append picURL/set line to existing file if a perfect match
-            if (re.match(token_name, xml_name)) and (xml_text == token_text) and (xml_card.find('./prop/type').text == token_type) and (xml_colors == token_colors) and (xml_pt == token_pt):
+            if (xml_name.startswith(token_name)) and (xml_text == token_text) and (xml_card.find('./prop/type').text == token_type) and (xml_colors == token_colors) and (xml_pt == token_pt):
                 
                 new = etree.Element('set',attrib = {'picURL':sf_token['image_uris']['large']})
                 new.text = set_code.upper()
@@ -171,8 +172,9 @@ def update_token_xml(set_code,xml_file):
             
             #check if it's in the 'Card' catch-all or 'Token' catchall in Scryfall    
             if card_type.text == 'Card' or card_type.text == 'Token':
-            	maintype.text = 'Please edit manually'
-            	print (f"Card '{token_name}' has type 'Card' or type 'Token'; please edit type and maintype manually.")
+                maintype.text = 'Please edit manually'
+                print (f"Card '{token_name}' has type 'Card' or type 'Token'; please edit type and maintype manually.")
+                catch_all = True
             
             #creature is the maintype for any type line with the word 'Creature' in it
             elif 'Creature' in card_type.text:
@@ -183,6 +185,13 @@ def update_token_xml(set_code,xml_file):
                 for item in maintype_list:
                     if item in card_type.text:
                         maintype.text = item
+            
+            #check if subtype and name match to determine whether or not to add 'Token' to the name
+            if not catch_all:
+                subtype = card_type.text.split(' — ')[1] #whatever is after the emdash should be the subtype
+                
+                if subtype == token_name:
+                    name.text+=' Token'
             
             if token_type not in short_tag_list:
                 cmc = etree.SubElement(prop,'cmc')
@@ -197,6 +206,7 @@ def update_token_xml(set_code,xml_file):
             card_set.text = set_code.upper()
             
             reverse_related = etree.SubElement(card, 'reverse-related')
+            reverse_related.text = "" #prevents short tag
             token = etree.SubElement(card,'token')
             token.text = '1'
 
@@ -210,15 +220,17 @@ def update_token_xml(set_code,xml_file):
                     
     #create and output xml file -- contains new tokens
     new_tree = etree.ElementTree(new_root)
+    etree.indent(new_tree,space='    ') #pretty print defaults to two spaces apparently
     new_tree.write(f'{set_code}_new_tokens.xml', encoding='utf-8', pretty_print=True)
     
     #outputs the ammended token xml file -- contains reprinted tokens
+    etree.indent(xml_tree,space='    ')
     xml_tree.write(f'token_file_{set_code}_update.xml',encoding='utf-8', xml_declaration=True, pretty_print=True)
     
     #output some token facts
     print(f'Created {new_token_count} new token entries in {set_code}_new_tokens.xml')
     print(f'Appended set lines for {reprint_count} reprinted tokens in token_file_{set_code}_update')
     if double_faced_count > 0:
-        print(f'Skipped {double_faced_count} double-faced tokens.') 
+        print(f'Skipped {double_faced_count} double-faced tokens.')
         
 update_token_xml(sys.argv[1],sys.argv[2])
