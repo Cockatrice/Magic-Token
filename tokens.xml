@@ -8033,7 +8033,7 @@ Equip {1}</text>
             <reverse-related exclude="exclude" count="x">Siege Veteran</reverse-related>
             <reverse-related>Skystrike Officer</reverse-related>
             <reverse-related>Third Path Iconoclast</reverse-related>
-            <reverse-related count="2">Urza, Planeswalker </reverse-related>
+            <reverse-related count="2">Urza, Planeswalker</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
