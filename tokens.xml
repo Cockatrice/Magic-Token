@@ -8591,7 +8591,7 @@ Whenever you draw a card, put a +1/+1 counter on this creature.</text>
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Spirit</type>
-                <maintype/>
+                <maintype>Creature</maintype>
                 <cmc>0</cmc>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/3/4/349e3241-8f9d-4c52-9848-e01b575fd372.jpg?1667886797">BRO</set>
