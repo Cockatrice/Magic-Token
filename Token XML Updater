@@ -186,8 +186,8 @@ def update_token_xml(set_code,xml_file):
                     if item in card_type.text:
                         maintype.text = item
             
-            #check if subtype and name match to determine whether or not to add 'Token' to the name
-            if not catch_all:
+            #check if subtype and name match to determine whether or not to add 'Token' to the name; don't do this for emblems
+            if not catch_all and card_type.text != 'Emblem':
                 subtype = card_type.text.split(' — ')[1] #whatever is after the emdash should be the subtype
                 
                 if subtype == token_name:
