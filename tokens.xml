@@ -527,6 +527,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/7/7/772dac39-269b-4a35-aad3-320279af833f.jpg?1667886810">BRO</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/d/9d8ab1dd-f8a5-4a93-8aa0-f0701a4c3ff2.jpg?1662663425">DMC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/c/ec53abaa-b316-496d-9351-318a9dd9de4d.jpg?1615686653">KHM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/0/b0f09f9e-e0f9-4ed8-bfc0-5f1a3046106e.jpg?1572489163">ELD</set>
@@ -534,16 +535,19 @@ Creature tokens you control have flying and vigilance.</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/8/c879d4a6-cef5-48f1-8c08-f5b59ec850de.jpg?1562857282">C15</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/a/0a21bc37-6f21-4dda-a313-a0d75696f7fc.jpg">ODY</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/e/6e1fc8db-f4a3-4f9c-bfab-64d5a3968435.jpg">ONS</set>
+            <reverse-related>Argoth, Sanctum of Nature</reverse-related>
             <reverse-related>Ayula's Influence</reverse-related>
             <reverse-related count="x" exclude="exclude">Ayula's Influence</reverse-related>
             <reverse-related>Bearscape</reverse-related>
             <reverse-related count="x">Caller of the Claw</reverse-related>
+            <reverse-related>Fade From History</reverse-related>
             <reverse-related count="3">Flaxen Intruder // Welcome Home</reverse-related>
             <reverse-related count="2">Grizzly Fate</reverse-related>
             <reverse-related count="4" exclude="exclude">Grizzly Fate</reverse-related>
             <reverse-related count="x">Kamahl's Summons</reverse-related>
             <reverse-related count="2">Mother Bear</reverse-related>
             <reverse-related>Path to the World Tree</reverse-related>
+            <reverse-related count="2">Titania's Command</reverse-related>
             <reverse-related>Words of Wilding</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -1764,12 +1768,14 @@ Cloud Sprite can block only creatures with flying.</text>
                 <cmc>0</cmc>
                 <pt>0/0</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/1/914fecab-24c0-4179-84d6-ded78c29134f.jpg?1667886948">BRO</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/7/a7caaf39-8f16-4f1d-bee6-a45674306319.jpg?1641306203">MH2</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/0/008d3b2e-a5e6-4ac2-85a0-82628333b80c.jpg?1641306112">C21</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/5/85f212cd-4fc6-42fe-b268-22d8e3b2b7eb.jpg?1563073206">MH1</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/5/c5eafa38-5333-4ef2-9661-08074c580a32.jpg?1562702317">DOM</set>
             <reverse-related>Digsite Engineer</reverse-related>
             <reverse-related>Karn, Scion of Urza</reverse-related>
+            <reverse-related>Urza's Command</reverse-related>
             <reverse-related>Urza's Saga</reverse-related>
             <reverse-related>Urza, Lord High Artificer</reverse-related>
             <token>1</token>
@@ -1810,6 +1816,19 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Construct Token      </name>
+            <prop>
+                <type>Token Artifact Creature — Construct</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/8/087ab398-474f-4455-bef4-ea42c6913486.jpg?1667886890">BRO</set>
+            <reverse-related>Kayla's Command</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Construct Token       </name>
             <text>Haste</text>
             <prop>
                 <colors>R</colors>
@@ -3422,6 +3441,21 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
             <tablerow>1</tablerow>
         </card>
         <card>
+            <name>Forest Dryad Token</name>
+            <text>(This creature is affected by summoning sickness, and it has "{T}: Add {G}.")</text>
+            <prop>
+                <colors>G</colors>
+                <type>Token Land Creature — Forest Dryad</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/7/4/74de70f2-93b6-4fc5-8c4d-464f880d3c54.jpg?1667886857">BRO</set>
+            <reverse-related count="x">Awaken the Woods</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Fractal Token</name>
             <prop>
                 <colors>GU</colors>
@@ -4047,6 +4081,20 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
         </card>
         <card>
             <name>Golem Token        </name>
+            <prop>
+                <type>Token Artifact Creature — Golem</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>*/*</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/4/7/474c8cfe-71ce-46c7-8cf4-dfeae3c0e73b.jpg?1667916342">BRO</set>
+            <reverse-related>Mask of the Jadecrafter</reverse-related>
+            <reverse-related>Rootwire Amalgam</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Golem Token         </name>
             <prop>
                 <colors>RW</colors>
                 <type>Token Artifact Creature — Golem</type>
@@ -6723,9 +6771,39 @@ Creatures you control attack each combat if able.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/4/d45fe4b6-aeaf-4f84-b660-c7b482ed8512.jpg?1667886993">BRO</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/4/447af615-1e59-471f-886b-bf46007a938d.jpg?1661549831">DMU</set>
+            <reverse-related>Arbalest Engineers</reverse-related>
+            <reverse-related>Argothian Opportunist</reverse-related>
+            <reverse-related>Ashnod, Flesh Mechanist</reverse-related>
+            <reverse-related>Cityscape Leveler</reverse-related>
+            <reverse-related>Excavation Explosion</reverse-related>
+            <reverse-related count="3">Fallaji Excavation</reverse-related>
+            <reverse-related>Geology Enthusiast</reverse-related>
+            <reverse-related>Gix's Caress</reverse-related>
+            <reverse-related count="x">Great Desert Prospector</reverse-related>
+            <reverse-related>Hall of Tagsin</reverse-related>
+            <reverse-related>Horned Stoneseeker</reverse-related>
+            <reverse-related>Junkyard Genius</reverse-related>
             <reverse-related>Karn, Living Legacy</reverse-related>
+            <reverse-related>Koilos Roc</reverse-related>
+            <reverse-related count="2">Mishra, Lost to Phyrexia</reverse-related>
+            <reverse-related>Powerstone Engineer</reverse-related>
+            <reverse-related>Repair and Recharge</reverse-related>
+            <reverse-related>Sarinth Greatwurm</reverse-related>
+            <reverse-related exclude="exclude" count="x">Sarinth Greatwurm</reverse-related>
+            <reverse-related>Sibling Rivalry</reverse-related>
+            <reverse-related>Slagstone Refinery</reverse-related>
+            <reverse-related exclude="exclude" count="x">Slagstone Refinery</reverse-related>
+            <reverse-related count="2">Splitting the Powerstone</reverse-related>
+            <reverse-related>Static Net</reverse-related>
+            <reverse-related>Stern Lesson</reverse-related>
+            <reverse-related>Stone Retrieval Unit</reverse-related>
+            <reverse-related>Thran Spider</reverse-related>
             <reverse-related>The Mana Rig</reverse-related>
+            <reverse-related>Urza, Powerstone Prodigy</reverse-related>
+            <reverse-related>Urza's Command</reverse-related>
+            <reverse-related>Visions of Phyrexia</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -7936,6 +8014,30 @@ Equip {1}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Soldier Token       </name>
+            <prop>
+                <type>Token Artifact Creature — Soldier</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/7/37da5b54-ec55-46e3-9f0b-565cbbe1ac7a.jpg?1667887016">BRO</set>
+            <reverse-related>Conscripted Infantry</reverse-related>
+            <reverse-related>Emergency Weld</reverse-related>
+            <reverse-related count="4">Mass Production</reverse-related>
+            <reverse-related count="2">Mishra's Onslaught</reverse-related>
+            <reverse-related count="x">Myrel, Shield of Argive</reverse-related>
+            <reverse-related>Platoon Dispenser</reverse-related>
+            <reverse-related>Scrapwork Cohort</reverse-related>
+            <reverse-related>Siege Veteran</reverse-related>
+            <reverse-related exclude="exclude" count="x">Siege Veteran</reverse-related>
+            <reverse-related>Skystrike Officer</reverse-related>
+            <reverse-related>Third Path Iconoclast</reverse-related>
+            <reverse-related count="2">Urza, Planeswalker </reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Soldier Ally Token</name>
             <prop>
                 <colors>W</colors>
@@ -8483,6 +8585,21 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Spirit Token              </name>
+            <text>Vigilance
+Whenever you draw a card, put a +1/+1 counter on this creature.</text>
+            <prop>
+                <colors>U</colors>
+                <type>Token Crearture — Spirit</type>
+                <maintype/>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/4/349e3241-8f9d-4c52-9848-e01b575fd372.jpg?1667886797">BRO</set>
+            <reverse-related>Teferi, Temporal Pilgrim</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Spirit Cleric Token</name>
             <text>This creature's power and toughness are each equal to the number of Spirits you control.</text>
             <prop>
@@ -8791,6 +8908,7 @@ This creature can't be enchanted.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/4/5/4501d15d-d306-4372-9516-bd63cf788f45.jpg?1667887063">BRO</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/5/65dd4252-09d0-4666-8d80-10432265ae4a.jpg?1644543340">NEC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/a/ca51da85-15ed-4f65-8ffa-8868ef779cd2.jpg?1641599947">VOC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/e/1e542094-8d95-463c-ae6c-8f2cd56434b2.jpg?1641306208">MH2</set>
@@ -8832,6 +8950,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Tezzeret, Artifice Master</reverse-related>
             <reverse-related count="5">Thopter Assembly</reverse-related>
             <reverse-related>Thopter Engineer</reverse-related>
+            <reverse-related>Thopter Mechanic</reverse-related>
             <reverse-related>Thopter Spy Network</reverse-related>
             <reverse-related>Thopter Squadron</reverse-related>
             <reverse-related count="2">Whirler Rogue</reverse-related>
@@ -10460,6 +10579,20 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Zombie Token       </name>
+            <prop>
+                <type>Token Artifact Creature — Zombie</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/e/fef47d03-9050-48ed-994f-f72582967dbd.jpg?1667887088">BRO</set>
+            <reverse-related>Ashnod, Flesh Mechanist</reverse-related>
+            <reverse-related>Transmogrant Altar</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Zombie Army Token</name>
             <prop>
                 <colors>B</colors>
@@ -11388,6 +11521,19 @@ Throne of the Dead Three — Reveal the top ten cards of your library. Put a cre
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/c/cc18b93e-b590-4fbb-be47-d63a25cde811.jpg?1644879927">STX</set>
             <reverse-related>Rowan, Scholar of Sparks</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Saheeli, Filigree Master Emblem</name>
+            <text>Artifact creatures you control get +1/+1.
+Artifact spells you cast cost {1} less to cast.</text>
+            <prop>
+                <type>Emblem</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/0/9020571d-97fb-4f46-85ec-6cb3141bfc87.jpg?1667887140">BRO</set>
+            <reverse-related></reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
