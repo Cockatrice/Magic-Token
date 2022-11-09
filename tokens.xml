@@ -6863,7 +6863,7 @@ Creatures you control attack each combat if able.</text>
                 <pt>3/3</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/b/3/b3170b92-b4eb-4826-92ed-85deba4c4c88.jpg?1666063013">BOT</set>
-            <reverse-related>Soundwave, Superior Captain</reverse-related>
+            <reverse-related exclude="exclude">Soundwave, Superior Captain</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
