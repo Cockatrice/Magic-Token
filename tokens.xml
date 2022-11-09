@@ -1663,6 +1663,7 @@ Cloud Sprite can block only creatures with flying.</text>
         <card>
             <name>Clown Robot Token</name>
             <prop>
+                <colors>W</colors>
                 <type>Token Artifact Creature — Clown Robot</type>
                 <maintype>Creature</maintype>
                 <cmc>0</cmc>
@@ -1677,6 +1678,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related exclude="exclude">Clowning Around</reverse-related>
             <reverse-related>Complaints Clerk</reverse-related>
             <reverse-related>Pietra, Crafter of Clowns</reverse-related>
+            <reverse-related count="x">Surprise Party</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -1877,9 +1879,10 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Contortionist</name>
+            <name>Contortionist </name>
             <text>At the beginning of your upkeep, you may fold this token in half.</text>
             <prop>
+                <colors>U</colors>
                 <type>Token Creature — Octopus Performer</type>
                 <maintype>Creature</maintype>
                 <cmc>0</cmc>
@@ -3471,7 +3474,7 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
             <reverse-related>Fortifying Provisions</reverse-related>
             <reverse-related count="3" exclude="exclude">Giant Opportunity</reverse-related>
             <reverse-related>Giant's Skewer</reverse-related>
-            <reverse-related count="2">Gift Shop</reverse-related>
+            <reverse-related count="2" exclude="exclude">Gift Shop</reverse-related>
             <reverse-related>Gilded Goose</reverse-related>
             <reverse-related>Gingerbread Cabin</reverse-related>
             <reverse-related count="x=1">Gluttonous Troll</reverse-related>
@@ -7622,6 +7625,19 @@ Equip {1}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Sketch Token</name>
+            <text>(This token has flying if it has wings in its art. The same is true for first strike and a sword, vigilance and a shield, menace and mean eyes, trample and horns, deathtouch and claws, lifelink and fangs, and haste and footwear.)</text>
+            <prop>
+                <type>Token Creature — Sketch</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/4</pt>
+            </prop>
+            <reverse-related>D00-DL, Caricaturist</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Sliver Token</name>
             <prop>
                 <type>Token Creature — Sliver</type>
@@ -8643,14 +8659,14 @@ Cumulative upkeep {G}</text>
             <reverse-related>Chittering Doom</reverse-related>
             <reverse-related>Chitterspitter</reverse-related>
             <reverse-related count="2">Cloakwood Hermit</reverse-related>
-            <reverse-related count="2">Comet, Steller Pup</reverse-related>
+            <reverse-related count="2">Comet, Stellar Pup</reverse-related>
             <reverse-related count="4">Deep Forest Hermit</reverse-related>
             <reverse-related count="4">Deranged Hermit</reverse-related>
             <reverse-related count="2">Drey Keeper</reverse-related>
             <reverse-related>Druid's Call</reverse-related>
             <reverse-related>Earl of Squirrel</reverse-related>
             <reverse-related>Liege of the Hollows</reverse-related>
-            <reverse-related count="x">Mistakes were Made</reverse-related>
+            <reverse-related count="x">Mistakes Were Made</reverse-related>
             <reverse-related count="x">Nantuko Shrine</reverse-related>
             <reverse-related count="x">Nested Shambler</reverse-related>
             <reverse-related>Nut Collector</reverse-related>
@@ -8812,7 +8828,7 @@ Equip {0}</text>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/a/4aef57de-7b99-47f3-af44-3c0bc546bbac.jpg?1664344170">UNF</set>
             <reverse-related count="2">Dart Throw</reverse-related>
-            <reverse-related>Gift Shop</reverse-related>
+            <reverse-related exclude="exclude">Gift Shop</reverse-related>
             <reverse-related>Push Your Luck</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -11970,6 +11986,7 @@ You draw a card during each opponent's end step.</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/2/52942a5c-0552-4a9b-9c0f-7a9ffd04d0af.jpg?1664344308">UNF</set>
             <reverse-related exclude="exclude">Aerialephant</reverse-related>
             <reverse-related exclude="exclude">Ambassador Blorpityblorpboop</reverse-related>
+            <reverse-related exclude="exclude">Animate Object</reverse-related>
             <reverse-related exclude="exclude">Bioluminary</reverse-related>
             <reverse-related exclude="exclude">Blorbian Buddy</reverse-related>
             <reverse-related exclude="exclude">Carnival Carnivore</reverse-related>
@@ -11987,14 +12004,15 @@ You draw a card during each opponent's end step.</text>
             <reverse-related exclude="exclude">Park Bleater</reverse-related>
             <reverse-related exclude="exclude">Phyrexian Midway Bamboozle</reverse-related>
             <reverse-related exclude="exclude">Prize Wall</reverse-related>
-            <reverse-related exclude="exclude">Robo-Piǹata</reverse-related>
+            <reverse-related exclude="exclude">Robo-Piñata</reverse-related>
             <reverse-related exclude="exclude">Scampire</reverse-related>
             <reverse-related exclude="exclude">Scavenger Hunt</reverse-related>
             <reverse-related exclude="exclude">Stiltstrider</reverse-related>
-            <reverse-related exclude="exclude">Ticketomaton</reverse-related>
             <reverse-related exclude="exclude">Ticket Turbotubes</reverse-related>
+            <reverse-related exclude="exclude">Ticketomaton</reverse-related>
             <reverse-related exclude="exclude">Trivia Contest</reverse-related>
             <reverse-related exclude="exclude">Tusk and Whiskers</reverse-related>
+            <reverse-related exclude="exclude">Wicker Picker</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
