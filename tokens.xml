@@ -1775,7 +1775,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/5/c5eafa38-5333-4ef2-9661-08074c580a32.jpg?1562702317">DOM</set>
             <reverse-related>Digsite Engineer</reverse-related>
             <reverse-related>Karn, Scion of Urza</reverse-related>
-            <reverse-related>Urza's Command</reverse-related>
+            <reverse-related exclude="exclude">Urza's Command</reverse-related>
             <reverse-related>Urza's Saga</reverse-related>
             <reverse-related>Urza, Lord High Artificer</reverse-related>
             <token>1</token>
