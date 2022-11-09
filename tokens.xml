@@ -11534,7 +11534,7 @@ Artifact spells you cast cost {1} less to cast.</text>
                 <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/9/0/9020571d-97fb-4f46-85ec-6cb3141bfc87.jpg?1667887140">BRO</set>
-            <reverse-related></reverse-related>
+            <reverse-related exclude="exclude">Saheeli, Filigree Master</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
