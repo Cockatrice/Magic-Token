@@ -171,7 +171,7 @@ def update_token_xml(set_code,xml_file):
             maintype = etree.SubElement(prop,'maintype')
             
             #check if it's in the 'Card' catch-all or 'Token' catchall in Scryfall    
-            if card_type.text == 'Card' or card_type.text == 'Token':
+            if card_type.text == 'Card' or card_type.text == 'Token' or card_type.text == 'Token Artifact':
                 maintype.text = 'Please edit manually'
                 print (f"Card '{token_name}' has type 'Card' or type 'Token'; please edit type and maintype manually.")
                 catch_all = True
