@@ -27,17 +27,39 @@ jobs:
           key: cache-lychee-${{ github.sha }}
           restore-keys: cache-lychee-
 
-      # Extract and check URLs directly from tokens.xml
-      - name: Check tokens.xml URLs
+      - name: Extract picture URLs from tokens.xml
+        id: tokens_pic_urls
         uses: lycheeverse/lychee-action@v1
-        if: always()
         with:
-          args: '--no-progress --require-https --cache --max-cache-age 1h -- tokens.xml'
+          args: '--dump --exclude www.w3.org -- tokens.xml'
+          fail: true
+          jobSummary: false
+
+      - name: List duplicated image links
+        if: steps.tokens_pic_urls.outcome == 'success'
+        shell: bash
+        # Remove blank lines | trim trailing integers (Scryfall) | sort | count and list duplicates
+        run: |
+          grep . /tmp/lychee/out.md | sed 's/\.jpg?.*/.jpg/' | sort | uniq -cd
+      
+      - name: List image hosting sources
+        if: steps.tokens_pic_urls.outcome == 'success'
+        shell: bash
+        # Extract domains from URLs | remove blank lines | sort | count and list | sort descending
+        run: |
+          awk -F/ '{print $3}' /tmp/lychee/out.md | grep . | sort | uniq -c | sort -nr
+
+      # Check already extracted URLs from tokens.xml
+      - name: Check URLs from tokens.xml
+        uses: lycheeverse/lychee-action@v1
+        if: steps.tokens_pic_urls.outcome == 'success'
+        with:
+          args: '--no-progress --require-https --cache --max-cache-age 1h -- /tmp/lychee/out.md'
           fail: true
           jobSummary: true
 
       # Extract and check URLs directly from challenge_tokens.xml
-      - name: Check challenge_tokens.xml URLs
+      - name: Check URLs from challenge_tokens.xml
         uses: lycheeverse/lychee-action@v1
         if: always()
         with:
