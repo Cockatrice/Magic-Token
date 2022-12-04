@@ -32,7 +32,7 @@ jobs:
         uses: lycheeverse/lychee-action@v1
         with:
           args: '--dump --exclude www.w3.org -- tokens.xml'
-          output: lychee/foo.txt
+          output: foo.txt
           fail: true
           jobSummary: false
 
