@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20230127</sourceVersion>
+        <sourceVersion>20230127b</sourceVersion>
     </info>
     <cards>
         <!--
@@ -12025,6 +12025,7 @@ You draw a card during each opponent's end step.</text>
             <reverse-related exclude="exclude">Lightning Runner</reverse-related>
             <reverse-related exclude="exclude">Live Fast</reverse-related>
             <reverse-related exclude="exclude">Longtusk Cub</reverse-related>
+            <reverse-related exclude="exclude">Longtusk Stalker</reverse-related>
             <reverse-related exclude="exclude">Maulfist Doorbuster</reverse-related>
             <reverse-related exclude="exclude">Minister of Inquiries</reverse-related>
             <reverse-related exclude="exclude">Multiform Wonder</reverse-related>
@@ -12060,7 +12061,9 @@ You draw a card during each opponent's end step.</text>
             <reverse-related exclude="exclude">Daxos the Returned</reverse-related>
             <reverse-related exclude="exclude">Ezuri, Claw of Progress</reverse-related>
             <reverse-related exclude="exclude">Kalemne, Disciple of Iroas</reverse-related>
+            <reverse-related exclude="exclude">Kelsien, the Plague</reverse-related>
             <reverse-related exclude="exclude">Meren of Clan Nel Toth</reverse-related>
+            <reverse-related exclude="exclude">Minthara, Merciless Soul</reverse-related>
             <reverse-related exclude="exclude">Mizzix of the Izmagnus</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
