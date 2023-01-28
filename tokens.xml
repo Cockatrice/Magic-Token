@@ -11557,7 +11557,7 @@ Throne of the Dead Three — Reveal the top ten cards of your library. Put a cre
         </card>
         <card>
             <name>Mordenkainen Emblem</name>
-            <text>Islands you control have "{T}: Draw a card."</text>
+            <text>You have no maximum hand size.</text>
             <prop>
                 <type>Emblem — Mordenkainen</type>
                 <maintype>Emblem</maintype>
