@@ -1336,6 +1336,7 @@ This creature can't block.</text>
                 <pt>2/1</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/0/5/05a61555-ddb9-4d55-b637-a219d772033d.jpg?1674397379">DMR</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/0/08/Cat2.jpg">APC</set>
             <reverse-related>Penumbra Bobcat</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7632,6 +7633,7 @@ Equip {1}</text>
                 <pt>0/1</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/3/a/3acb4442-e7e5-482b-9ce8-f1af8069114e.jpg?1674397416">DMR</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/5/57/Sheep1.jpg">TSB</set>
             <reverse-related>Ovinomancer</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
