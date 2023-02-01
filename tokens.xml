@@ -6541,6 +6541,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <pt>3/3</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/9/1/919381b0-2d23-4794-b4ff-923c23e18196.jpg?1675095680">ONE</set>
+            <related>Poison Counter</related>
             <reverse-related count="2">Goliath Hatchery</reverse-related>
             <reverse-related>Lukka, Bound to Ruin</reverse-related>
             <reverse-related>Viral Spawning</reverse-related>
@@ -6718,6 +6719,7 @@ This creature can't block.</text>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/9/6/96ec91a9-659a-455f-98e0-cd30b6c6c2a4.jpg?1675095978">ONE</set>
+            <related>Poison Counter</related>
             <reverse-related count="2">Basilica Shepherd</reverse-related>
             <reverse-related count="2">Charge of the Mites</reverse-related>
             <reverse-related>Crawling Chorus</reverse-related>
