@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20230130</sourceVersion>
+        <sourceVersion>20230208</sourceVersion>
     </info>
     <cards>
         <!--
@@ -1310,6 +1310,7 @@ This creature can't block.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/1/11011596-4aa1-48a7-90d8-36cb7b27c711.jpg?1675095303">ONE</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/b/db1b2c60-c995-441a-a3d6-20220d6cb7f1.jpg?1620573744">CMR</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/8/f859b55c-0b49-4190-b1fa-94f97a59b57c.jpg?1598312335">2XM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/8/58a18a05-4fa1-467e-9310-e5c6dc797fcf.jpg?1592710004">C18</set>
@@ -1321,6 +1322,7 @@ This creature can't block.</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/2/5252ab51-43e8-4b24-9830-de0ad9b9d3dc.jpg">SOM</set>
             <reverse-related>Ajani's Chosen</reverse-related>
             <reverse-related count="x">Ajani, Caller of the Pride</reverse-related>
+            <reverse-related>Kemba, Kha Enduring</reverse-related>
             <reverse-related count="x">Kemba, Kha Regent</reverse-related>
             <reverse-related count="x">White Sun's Zenith</reverse-related>
             <token>1</token>
@@ -2476,6 +2478,21 @@ Whenever Dreamstealer deals combat damage to a player, that player discards that
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/c/8c362d05-f2f7-4415-8937-f9f368986e61.jpg">HOU</set>
             <reverse-related>Dreamstealer</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Drone Token</name>
+            <text>Deathtouch
+When this creature leaves the battlefield, each opponent loses 2 life and you gain 2 life.</text>
+            <prop>
+                <type>Token Artifact Creature — Drone</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/c/f/cfacac5f-7685-4792-9e4c-166d4b421240.jpg?1675095803">ONE</set>
+            <reverse-related>Kaito, Dancing Shadow</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -6514,6 +6531,24 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Phyrexian Beast Token </name>
+            <text>Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)</text>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Phyrexian Beast</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/1/919381b0-2d23-4794-b4ff-923c23e18196.jpg?1675095680">ONE</set>
+            <related>Poison Counter</related>
+            <reverse-related count="2">Goliath Hatchery</reverse-related>
+            <reverse-related>Lukka, Bound to Ruin</reverse-related>
+            <reverse-related>Viral Spawning</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Phyrexian Germ Token</name>
             <prop>
                 <colors>B</colors>
@@ -6556,9 +6591,14 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/e/feeae905-e456-4598-b3de-b339397983bf.jpg">NPH</set>
+            <set picURL="https://cards.scryfall.io/large/front/3/6/3663e79b-2bf9-44af-a638-c0ad9067d8d4.jpg?1675095429">ONE</set>
             <reverse-related>Chancellor of the Forge</reverse-related>
             <reverse-related count="x">Chancellor of the Forge</reverse-related>
+            <reverse-related>Charforger</reverse-related>
+            <reverse-related>Chimney Rabble</reverse-related>
+            <reverse-related>Churning Reservoir</reverse-related>
+            <reverse-related count="3">Gleeful Demolition</reverse-related>
+            <reverse-related count="x">Ovika, Enigma Goliath</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -6570,6 +6610,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/3/63ace2fa-8cfb-4641-a05c-d12830378e03.jpg?1675095914">ONE</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/f/af7c6e4c-4980-4b1b-8156-fd17dd6f47c9.jpg?1608908566">CMR</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/c/dc77b308-9d0c-492f-b3fe-e00d60470767.jpg?1563073222">MH1</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/0/509be7b3-490d-4229-ba10-999921a6b977.jpg?1562841177">MM3</set>
@@ -6577,6 +6618,8 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related>Blade Splicer</reverse-related>
             <reverse-related>Conversion Chamber</reverse-related>
             <reverse-related>Ich-Tekik, Salvage Splicer</reverse-related>
+            <reverse-related>Incubation Sac</reverse-related>
+            <reverse-related>Malcator, Purity Overseer</reverse-related>
             <reverse-related>Master Splicer</reverse-related>
             <reverse-related count="2">Maul Splicer</reverse-related>
             <reverse-related count="3">Phyrexian Triniform</reverse-related>
@@ -6601,6 +6644,35 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/4/248ae300-40cc-4e6f-8fa6-2bd6ab85fee6.jpg?1562902339">C16</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/a/5a4c5954-da2b-498a-9e86-eb4d6dc95cb8.jpg">MBS</set>
             <reverse-related>Phyrexian Rebirth</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Phyrexian Horror Token </name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Phyrexian Horror</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>*/*</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/f/1f5fc2cb-a172-418a-a0f3-1a63a5f1aa2c.jpg?1675095716">ONE</set>
+            <reverse-related>Nissa, Ascended Animist</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Phyrexian Horror Token  </name>
+            <text>Trample, haste</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Phyrexian Horror</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>*/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/a/da13c90f-9ed2-4262-88e2-17daa294537b.jpg?1675095539">ONE</set>
+            <reverse-related>Urabrask's Forge</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -6633,6 +6705,33 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/9/a9930d11-4772-4fc2-abbd-9af0a9b23a3e.jpg">DDE</set>
             <reverse-related>Phyrexian Processor</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Phyrexian Mite Token</name>
+            <text>Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)
+This creature can't block.</text>
+            <prop>
+                <type>Token Artifact Creature — Phyrexian Mite</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/6/96ec91a9-659a-455f-98e0-cd30b6c6c2a4.jpg?1675095978">ONE</set>
+            <related>Poison Counter</related>
+            <reverse-related count="2">Basilica Shepherd</reverse-related>
+            <reverse-related count="2">Charge of the Mites</reverse-related>
+            <reverse-related>Crawling Chorus</reverse-related>
+            <reverse-related>Indoctrination Attendant</reverse-related>
+            <reverse-related>Infested Fleshcutter</reverse-related>
+            <reverse-related>Mirrex</reverse-related>
+            <reverse-related>Mite Overseer</reverse-related>
+            <reverse-related count="x">Ria Ivor, Bane of Bladehold</reverse-related>
+            <reverse-related>Skrelv's Hive</reverse-related>
+            <reverse-related>Stinging Hivemaster</reverse-related>
+            <reverse-related count="3">Vishgraz, the Doomhive</reverse-related>
+            <reverse-related count="x">White Sun's Twilight</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7030,6 +7129,34 @@ Creatures you control attack each combat if able.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Rebel Token</name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Rebel</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/a/4/a41eb9df-d8b4-4697-a759-886faf16754d.jpg?1675095630">ONE</set>
+            <reverse-related>Barbed Batterfist</reverse-related>
+            <reverse-related>Blade of Shared Souls</reverse-related>
+            <reverse-related>Bladehold War-Whip</reverse-related>
+            <reverse-related>Dragonwing Glider</reverse-related>
+            <reverse-related>Glimmer Lens</reverse-related>
+            <reverse-related>Goldwarden's Helm</reverse-related>
+            <reverse-related count="5">Goldwardens' Gambit</reverse-related>
+            <reverse-related>Hexgold Halberd</reverse-related>
+            <reverse-related>Hexgold Hoverwings</reverse-related>
+            <reverse-related>Hexplate Wallbreaker</reverse-related>
+            <reverse-related>Kemba's Banner</reverse-related>
+            <reverse-related>Mirran Bardiche</reverse-related>
+            <reverse-related count="x">Otharri, Suns' Glory</reverse-related>
+            <reverse-related>Sylvok Battle-Chair</reverse-related>
+            <reverse-related>Vulshok Splitter</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Reflection Token</name>
             <prop>
                 <colors>W</colors>
@@ -7243,6 +7370,21 @@ Equip {1}</text>
             <reverse-related count="3">Imperial Oath</reverse-related>
             <reverse-related>Naomi, Pillar of Order</reverse-related>
             <reverse-related>The Wandering Emperor</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Samurai Token </name>
+            <text>Double strike</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Samurai</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/7/0/70750c90-3856-4d6d-923b-2ab91b1d7049.jpg?1675095377">ONE</set>
+            <reverse-related>The Eternal Wanderer</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7753,6 +7895,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set>UNF</set>
             <reverse-related>D00-DL, Caricaturist</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -9049,6 +9192,19 @@ This creature can't be enchanted.</text>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/5/65f8e40f-fb5e-4ab8-add3-a8b87e7bcdd9.jpg?1626139916">AFR</set>
             <!-- this token is created by another token only -->
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>The Hollow Sentinel</name>
+            <prop>
+                <type>Token Legendary Artifact Creature — Phyrexian Golem</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/4/54e0cbfa-a7f9-49a6-9bca-4a08f5b8da93.jpg?1675095839">ONE</set>
+            <reverse-related>Venser, Corpse Puppet</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -11496,6 +11652,18 @@ Throne of the Dead Three — Reveal the top ten cards of your library. Put a cre
             <tablerow>1</tablerow>
         </card>
         <card>
+            <name>Koth, Fire of Resistance Emblem</name>
+            <text>Whenever a Mountain enters the battlefield under your control, this emblem deals 4 damage to any target.</text>
+            <prop>
+                <type>Emblem</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/4/7/4746f904-67f3-450d-93f6-172b3fd50057.jpg?1675097314">ONE</set>
+            <reverse-related>Koth, Fire of Resistance</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Liliana of the Dark Realms Emblem</name>
             <text>Swamps you control have 'Tap: Add {B}{B}{B}{B}.'</text>
             <prop>
@@ -12084,18 +12252,26 @@ You draw a card during each opponent's end step.</text>
         </card>
         <card>
             <name>Poison Counter</name>
+            <text>(A player with ten or more poison counters loses the game.)</text>
             <prop>
                 <type>Counter</type>
                 <maintype>Counter</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/4/0/40255bfa-0004-45f1-a31b-17d385f09a95.jpg?1675096257">ONE</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/7/470618f6-f67f-44c6-a086-285632508915.jpg">NPH</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/2/92fcdd2b-dd90-458d-9b8b-5b1b9a3f8bd3.jpg">MBS</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/5/856e308d-6268-4311-9667-c2f761db8f99.jpg">SOM</set>
+            <reverse-related exclude="exclude">Annex Sentry</reverse-related>
+            <reverse-related exclude="exclude">Aspirant's Ascent</reverse-related>
+            <reverse-related exclude="exclude">Bilious Skulldweller</reverse-related>
             <reverse-related exclude="exclude">Blackcleave Goblin</reverse-related>
             <reverse-related exclude="exclude">Blight Mamba</reverse-related>
+            <reverse-related exclude="exclude">Blightbelly Rat</reverse-related>
             <reverse-related exclude="exclude">Blighted Agent</reverse-related>
             <reverse-related exclude="exclude">Blightsteel Colossus</reverse-related>
             <reverse-related exclude="exclude">Blightwidow</reverse-related>
+            <reverse-related exclude="exclude">Bloated Contaminator</reverse-related>
+            <reverse-related exclude="exclude">Branchblight Stalker</reverse-related>
             <reverse-related exclude="exclude">Burn the Impure</reverse-related>
             <reverse-related exclude="exclude">Caress of Phyrexia</reverse-related>
             <reverse-related exclude="exclude">Carrion Call</reverse-related>
@@ -12104,11 +12280,15 @@ You draw a card during each opponent's end step.</text>
             <reverse-related exclude="exclude">Core Prowler</reverse-related>
             <reverse-related exclude="exclude">Corpse Cur</reverse-related>
             <reverse-related exclude="exclude">Corrupted Conscience</reverse-related>
+            <reverse-related exclude="exclude">Crawling Chorus</reverse-related>
             <reverse-related exclude="exclude">Crypt Cobra</reverse-related>
             <reverse-related exclude="exclude">Cystbearer</reverse-related>
             <reverse-related exclude="exclude">Decimator Web</reverse-related>
+            <reverse-related exclude="exclude">Duelist of Deep Faith</reverse-related>
+            <reverse-related exclude="exclude">Dune Mover</reverse-related>
             <reverse-related exclude="exclude">Fallen Ferromancer</reverse-related>
             <reverse-related exclude="exclude">Flensermite</reverse-related>
+            <reverse-related exclude="exclude">Flensing Raptor</reverse-related>
             <reverse-related exclude="exclude">Flesh-Eater Imp</reverse-related>
             <reverse-related exclude="exclude">Glistener Elf</reverse-related>
             <reverse-related exclude="exclude">Glistening Oil</reverse-related>
@@ -12116,15 +12296,30 @@ You draw a card during each opponent's end step.</text>
             <reverse-related exclude="exclude">Hand of the Praetors</reverse-related>
             <reverse-related exclude="exclude">Ichor Rats</reverse-related>
             <reverse-related exclude="exclude">Ichorclaw Myr</reverse-related>
+            <reverse-related exclude="exclude">Ichorspit Basilisk</reverse-related>
+            <reverse-related exclude="exclude">Indoctrination Attendant</reverse-related>
+            <reverse-related exclude="exclude">Infectious Bite</reverse-related>
+            <reverse-related exclude="exclude">Infectious Inquiry</reverse-related>
             <reverse-related exclude="exclude">Inkmoth Nexus</reverse-related>
+            <reverse-related exclude="exclude">Jawbone Duelist</reverse-related>
+            <reverse-related exclude="exclude">Karumonix, the Rat King</reverse-related>
+            <reverse-related exclude="exclude">Kinzu of the Bleak Coven</reverse-related>
             <reverse-related exclude="exclude">Leeches</reverse-related>
             <reverse-related exclude="exclude">Lost Leonin</reverse-related>
             <reverse-related exclude="exclude">Marsh Viper</reverse-related>
             <reverse-related exclude="exclude">Melira, Sylvok Outcast</reverse-related>
+            <reverse-related exclude="exclude">Monument to Perfection</reverse-related>
             <reverse-related exclude="exclude">Mycosynth Fiend</reverse-related>
+            <reverse-related exclude="exclude">Myr Convert</reverse-related>
+            <reverse-related exclude="exclude">Necrogen Communion</reverse-related>
+            <reverse-related exclude="exclude">Necrogen Rotpriest</reverse-related>
             <reverse-related exclude="exclude">Necropede</reverse-related>
+            <reverse-related exclude="exclude">Nimraiser Paladin</reverse-related>
+            <reverse-related exclude="exclude">Noxious Assault</reverse-related>
             <reverse-related exclude="exclude">Ogre Menial</reverse-related>
+            <reverse-related exclude="exclude">Paladin of Predation</reverse-related>
             <reverse-related exclude="exclude">Pestilent Souleater</reverse-related>
+            <reverse-related exclude="exclude">Pestilent Syphoner</reverse-related>
             <reverse-related exclude="exclude">Phyresis</reverse-related>
             <reverse-related exclude="exclude">Phyrexian Crusader</reverse-related>
             <reverse-related exclude="exclude">Phyrexian Digester</reverse-related>
@@ -12136,23 +12331,32 @@ You draw a card during each opponent's end step.</text>
             <reverse-related exclude="exclude">Pistus Strike</reverse-related>
             <reverse-related exclude="exclude">Pit Scorpion</reverse-related>
             <reverse-related exclude="exclude">Plague Myr</reverse-related>
+            <reverse-related exclude="exclude">Plague Nurse</reverse-related>
             <reverse-related exclude="exclude">Plague Stinger</reverse-related>
             <reverse-related exclude="exclude">Priests of Norn</reverse-related>
+            <reverse-related exclude="exclude">Prologue to Phyresis</reverse-related>
+            <reverse-related exclude="exclude">Prosthetic Injector</reverse-related>
             <reverse-related exclude="exclude">Putrefax</reverse-related>
             <reverse-related exclude="exclude">Razor Swine</reverse-related>
             <reverse-related exclude="exclude">Reaper of Sheoldred</reverse-related>
             <reverse-related exclude="exclude">Relic Putrescence</reverse-related>
+            <reverse-related exclude="exclude">Ribskiff</reverse-related>
             <reverse-related exclude="exclude">Rot Wolf</reverse-related>
             <reverse-related exclude="exclude">Sabertooth Cobra</reverse-related>
             <reverse-related exclude="exclude">Scourge Servant</reverse-related>
             <reverse-related exclude="exclude">Septic Rats</reverse-related>
             <reverse-related exclude="exclude">Serpent Generator</reverse-related>
+            <reverse-related exclude="exclude">Sheoldred's Headcleaver</reverse-related>
             <reverse-related exclude="exclude">Shriek Raptor</reverse-related>
             <reverse-related exclude="exclude">Skithiryx, the Blight Dragon</reverse-related>
+            <reverse-related exclude="exclude">Skrelv, Defector Mite</reverse-related>
+            <reverse-related exclude="exclude">Slaughter Singer</reverse-related>
             <reverse-related exclude="exclude">Snake Cult Initiation</reverse-related>
             <reverse-related exclude="exclude">Spinebiter</reverse-related>
+            <reverse-related exclude="exclude">Stinging Hivemaster</reverse-related>
             <reverse-related exclude="exclude">Suq'Ata Assassin</reverse-related>
             <reverse-related exclude="exclude">Swamp Mosquito</reverse-related>
+            <reverse-related exclude="exclude">Tainted Observer</reverse-related>
             <reverse-related exclude="exclude">Tainted Strike</reverse-related>
             <reverse-related exclude="exclude">Tangle Angler</reverse-related>
             <reverse-related exclude="exclude">Tel-Jilad Fallen</reverse-related>
@@ -12160,12 +12364,21 @@ You draw a card during each opponent's end step.</text>
             <reverse-related exclude="exclude">Toxic Nim</reverse-related>
             <reverse-related exclude="exclude">Trigon of Infestation</reverse-related>
             <reverse-related exclude="exclude">Triumph of the Hordes</reverse-related>
+            <reverse-related exclude="exclude">Tyrranax Atrocity</reverse-related>
+            <reverse-related exclude="exclude">Tyrranax Rex</reverse-related>
+            <reverse-related exclude="exclude">Unctus's Retrofitter</reverse-related>
             <reverse-related exclude="exclude">Vector Asp</reverse-related>
+            <reverse-related exclude="exclude">Venerated Rotpriest</reverse-related>
+            <reverse-related exclude="exclude">Venomous Brutalizer</reverse-related>
+            <reverse-related exclude="exclude">Venser, Corpse Puppet</reverse-related>
             <reverse-related exclude="exclude">Viral Drake</reverse-related>
             <reverse-related exclude="exclude">Viridian Betrayers</reverse-related>
             <reverse-related exclude="exclude">Viridian Corrupter</reverse-related>
             <reverse-related exclude="exclude">Virulent Sliver</reverse-related>
             <reverse-related exclude="exclude">Virulent Wound</reverse-related>
+            <reverse-related exclude="exclude">Voidwing Hybrid</reverse-related>
+            <reverse-related exclude="exclude">Vraska's Fall</reverse-related>
+            <reverse-related exclude="exclude">Vraska, Betrayal's Sting</reverse-related>
             <reverse-related exclude="exclude">Whispering Specter</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
