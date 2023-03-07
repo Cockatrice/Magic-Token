@@ -9808,7 +9808,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Unicorn.jpeg?raw=true">JMP</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/unicorn_arena.png?raw=true">JMP</set>
             <reverse-related>Blessed Sanctuary</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -11599,6 +11599,18 @@ Throne of the Dead Three — Reveal the top ten cards of your library. Put a cre
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/f/df296190-e51b-44a7-ae83-279fee3151a5.jpg?1644543190">NEO</set>
             <reverse-related>Kaito Shizuki</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Karn, Living Legacy Emblem</name>
+            <text>Tap an untapped artifact you control: This emblem deals 1 damage to any target.</text>
+            <prop>
+                <type>Emblem</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/karn_emblem_arena.png?raw=true">DMU</set>
+            <reverse-related>Karn, Living Legacy</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
