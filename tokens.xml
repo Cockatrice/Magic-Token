@@ -9808,7 +9808,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/unicorn_arena.png?raw=true">JMP</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Unicorn.jpeg?raw=true">JMP</set>
             <reverse-related>Blessed Sanctuary</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
