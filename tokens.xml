@@ -1842,6 +1842,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Karn, Scion of Urza</reverse-related>
             <reverse-related exclude="exclude">Urza's Command</reverse-related>
             <reverse-related>Urza's Saga</reverse-related>
+            <reverse-related>Urza, Chief Artificer</reverse-related>
             <reverse-related>Urza, Lord High Artificer</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7046,11 +7047,14 @@ Creatures you control attack each combat if able.</text>
             <reverse-related>Static Net</reverse-related>
             <reverse-related>Stern Lesson</reverse-related>
             <reverse-related>Stone Retrieval Unit</reverse-related>
+            <reverse-related count="x">Terisiare's Devastation</reverse-related>
+            <reverse-related count="2">The Brothers' War</reverse-related>
             <reverse-related>The Mana Rig</reverse-related>
             <reverse-related>Thran Spider</reverse-related>
             <reverse-related>Urza's Command</reverse-related>
             <reverse-related>Urza, Powerstone Prodigy</reverse-related>
             <reverse-related>Visions of Phyrexia</reverse-related>
+            <reverse-related count="x">Wreck Hunter</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -9316,6 +9320,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="5">Thopter Assembly</reverse-related>
             <reverse-related>Thopter Engineer</reverse-related>
             <reverse-related>Thopter Mechanic</reverse-related>
+            <reverse-related>Thopter Shop</reverse-related>
             <reverse-related>Thopter Spy Network</reverse-related>
             <reverse-related>Thopter Squadron</reverse-related>
             <reverse-related count="2">Whirler Rogue</reverse-related>
