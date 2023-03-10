@@ -6858,7 +6858,7 @@ Toxic 1 (Players dealt combat damage by this creature also get a poison counter.
             <set picURL="https://cards.scryfall.io/large/front/5/9/594c55d3-d435-4dec-bc92-011442a43684.jpg?1675905874">ONC</set>
             <related>Poison Counter</related>
             <reverse-related>Wurmquake</reverse-related>
-            <reverse-related count="x">Wurmquake</reverse-related>
+            <reverse-related count="x" exclude="exclude">Wurmquake</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
