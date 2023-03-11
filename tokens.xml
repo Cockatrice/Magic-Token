@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20230310b</sourceVersion>
+        <sourceVersion>20230311</sourceVersion>
     </info>
     <cards>
         <!--
@@ -6623,7 +6623,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/3/6/3663e79b-2bf9-44af-a638-c0ad9067d8d4.jpg?1675095429">ONE</set>
             <reverse-related>Chancellor of the Forge</reverse-related>
-            <reverse-related count="x">Chancellor of the Forge</reverse-related>
+            <reverse-related count="x" exclude="exclude">Chancellor of the Forge</reverse-related>
             <reverse-related>Charforger</reverse-related>
             <reverse-related>Chimney Rabble</reverse-related>
             <reverse-related>Churning Reservoir</reverse-related>
@@ -10949,7 +10949,7 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             <reverse-related>Sidisi, Brood Tyrant</reverse-related>
             <reverse-related>Skull Skaab</reverse-related>
             <reverse-related>Stir the Sands</reverse-related>
-            <reverse-related count="3">Stir the Sands</reverse-related>
+            <reverse-related count="3" exclude="exclude">Stir the Sands</reverse-related>
             <reverse-related count="x">Syphon Flesh</reverse-related>
             <reverse-related>The Book of Vile Darkness</reverse-related>
             <reverse-related>The Fourth Sphere</reverse-related>
