@@ -34,7 +34,7 @@ jobs:
       - name: Check tokens.xml URLs
         uses: lycheeverse/lychee-action@v1
         with:
-          args: '${{lychee_args}} -- tokens.xml'
+          args: '${{env.lychee_args}} -- tokens.xml'
           fail: true
           jobSummary: true
 
@@ -42,6 +42,6 @@ jobs:
       - name: Check challenge_tokens.xml URLs
         uses: lycheeverse/lychee-action@v1
         with:
-          args: '${{lychee_args}} -- challenge_tokens.xml'
+          args: '${{env.lychee_args}} -- challenge_tokens.xml'
           fail: true
           jobSummary: true
