@@ -30,7 +30,7 @@ jobs:
           restore-keys: cache-lychee-
 
       # Extract and check URLs directly from token files
-      - name: Check tokens.xml URLs
+      - name: Check token art URLs
         uses: lycheeverse/lychee-action@v1
         with:
           args: '${{env.lychee_args}} -- tokens.xml challenge_tokens.xml'
