@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20230311</sourceVersion>
+        <sourceVersion>20230312</sourceVersion>
     </info>
     <cards>
         <!--
@@ -495,6 +495,19 @@ Creature tokens you control have flying and vigilance.</text>
             <reverse-related count="2">The Superlatorium</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Banana</name>
+            <text>{T}, Sacrifice this artifact: Add {R} or {G}. You gain 2 life.</text>
+            <prop>
+                <type>Token Artifact</type>
+                <maintype>Artifact</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set>J22</set>
+            <reverse-related>Kibo, Uktabi Prince</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Bat Token</name>
@@ -1745,6 +1758,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Funnel-Web Recluse</reverse-related>
             <reverse-related>Gone Missing</reverse-related>
             <reverse-related>Hard Evidence</reverse-related>
+            <reverse-related>Hold for Questioning</reverse-related>
             <reverse-related>Humble the Brute</reverse-related>
             <reverse-related count="x">Inquisitor Eisenhorn</reverse-related>
             <reverse-related>Inquisitor Greyfax</reverse-related>
@@ -2449,6 +2463,7 @@ Flying</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/5/65844e72-aa84-483f-b07e-9e34e798aaec.jpg">AKH</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/f/8fb5229a-8bdf-4090-8a5c-a35780bd6ff9.jpg?1562857271">C15</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/3/93679bb9-ee1c-4eea-bcdd-72785d5788af.jpg">M13</set>
+            <reverse-related>Alandra, Sky Dreamer</reverse-related>
             <reverse-related>Drake Haven</reverse-related>
             <reverse-related>Roost of Drakes</reverse-related>
             <reverse-related count="2">Talrand's Invocation</reverse-related>
@@ -3039,6 +3054,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/7/b7047838-ac9f-4ca1-9827-73d87098124f.jpg">ORI</set>
             <reverse-related>Zendikar's Roil</reverse-related>
+            <reverse-related count="x" exclude="exclude">Zendikar's Roil</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3913,6 +3929,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/9/e9577d3c-ee19-4b53-adac-b304287a066f.jpg">10E</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/6/062043de-a199-408d-8d77-09531ad38b16.jpg">LGN</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/b/fbd728ed-d5dc-44b3-9159-6c86cab3be0c.jpg?1561758473">UGL</set>
+            <reverse-related>Ardoz, Cobbler of War</reverse-related>
             <reverse-related>Battle Cry Goblin</reverse-related>
             <reverse-related count="2">Beetleback Chief</reverse-related>
             <reverse-related count="x">Box of Free-Range Goblins</reverse-related>
@@ -5024,7 +5041,7 @@ Equip {2}</text>
             <reverse-related>Infestation Expert</reverse-related>
             <reverse-related>Infested Roothold</reverse-related>
             <reverse-related count="2">Infested Werewolf</reverse-related>
-            <reverse-related count="x=1">Iridescent Hornbeetle</reverse-related>
+            <reverse-related count="x">Iridescent Hornbeetle</reverse-related>
             <reverse-related count="2">It of the Horrid Swarm</reverse-related>
             <reverse-related>Living Hive</reverse-related>
             <reverse-related>Old Rutstein</reverse-related>
@@ -6936,6 +6953,21 @@ Creatures you control attack each combat if able.</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/2/42248cea-29e8-4ebe-ad64-e87e216b55d6.jpg?1654172420">CLB</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/a/da3002d9-7754-4c7f-a051-382cd7a86e80.jpg?1594733620">M21</set>
             <reverse-related>Pursued Whale</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Pirate Token  </name>
+            <text>Menace, haste</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Pirate</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set>J22</set>
+            <reverse-related>Daring Piracy</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -9308,6 +9340,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Ghirapur Gearcrafter</reverse-related>
             <reverse-related count="x">Hangarback Walker</reverse-related>
             <reverse-related>Inspired Sphinx</reverse-related>
+            <reverse-related>Launch Mishap</reverse-related>
             <reverse-related>Loyal Apprentice</reverse-related>
             <reverse-related count="2">Maverick Thopterist</reverse-related>
             <reverse-related count="2">Pia and Kiran Nalaar</reverse-related>
@@ -10696,6 +10729,20 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Zeppelin</name>
+            <text>Flying, crew 3</text>
+            <prop>
+                <type>Token Artifact — Vehicle</type>
+                <maintype>Artifact</maintype>
+                <cmc>0</cmc>
+                <pt>5/5</pt>
+            </prop>
+            <set>J22</set>
+            <reverse-related>Lita, Mechanical Engineer</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Zombie Army Token</name>
             <prop>
                 <colors>B</colors>
@@ -10950,6 +10997,7 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             <reverse-related>Skull Skaab</reverse-related>
             <reverse-related>Stir the Sands</reverse-related>
             <reverse-related count="3" exclude="exclude">Stir the Sands</reverse-related>
+            <reverse-related count="2">Suspicious Shambler</reverse-related>
             <reverse-related count="x">Syphon Flesh</reverse-related>
             <reverse-related>The Book of Vile Darkness</reverse-related>
             <reverse-related>The Fourth Sphere</reverse-related>
