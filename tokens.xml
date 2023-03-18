@@ -2107,7 +2107,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
         <card>
             <name>Devil Token </name>
             <text>Haste
-            When this creature dies, create a colorless Treasure artifact token.</text>
+When this creature dies, create a colorless Treasure artifact token.</text>
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Devil</type>
@@ -11787,7 +11787,7 @@ Throne of the Dead Three — Reveal the top ten cards of your library. Put a cre
         <card>
             <name>Inzerva, Master of Insights Emblem</name>
             <text>Your opponents play with their hands revealed.
-            Whenever an opponent draws a card, this emblem deals 1 damage to them.</text>
+Whenever an opponent draws a card, this emblem deals 1 damage to them.</text>
             <prop>
                 <type>Emblem — Inzerva</type>
                 <maintype>Emblem</maintype>
