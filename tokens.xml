@@ -31,7 +31,7 @@
         </card>
          -->
         <card>
-            <name>Adorned Pouncer (Token)</name>
+            <name>Adorned Pouncer </name>
             <text>Double strike</text>
             <prop>
                 <colors>B</colors>
@@ -46,7 +46,7 @@
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Ajani's Pridemate (Token)</name>
+            <name>Ajani's Pridemate </name>
             <text>Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.</text>
             <prop>
                 <colors>W</colors>
@@ -61,7 +61,7 @@
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Angel of Sanctions (Token)</name>
+            <name>Angel of Sanctions </name>
             <text>Flying
 When Angel of Sanctions enters the battlefield, you may exile target nonland permanent an opponent controls until Angel of Sanctions leaves the battlefield.</text>
             <prop>
@@ -228,7 +228,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Anointer Priest (Token)</name>
+            <name>Anointer Priest </name>
             <text>Whenever a creature token enters the battlefield under your control, you gain 1 life.</text>
             <prop>
                 <colors>W</colors>
@@ -337,7 +337,7 @@ Whenever this creature deals damage to a planeswalker, destroy that planeswalker
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Assembly-Worker (Token)</name>
+            <name>Assembly-Worker </name>
             <prop>
                 <type>Token Artifact Creature — Assembly-Worker</type>
                 <maintype>Creature</maintype>
@@ -433,7 +433,7 @@ Whenever this creature attacks, it deals 3 damage to each opponent.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Aven Initiate (Token)</name>
+            <name>Aven Initiate </name>
             <text>Flying</text>
             <prop>
                 <colors>W</colors>
@@ -448,7 +448,7 @@ Whenever this creature attacks, it deals 3 damage to each opponent.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Aven Wind Guide (Token)</name>
+            <name>Aven Wind Guide </name>
             <text>Flying, vigilance
 Creature tokens you control have flying and vigilance.</text>
             <prop>
@@ -1532,7 +1532,7 @@ This creature can't block.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Champion of Wits (Token)</name>
+            <name>Champion of Wits </name>
             <text>When Champion of Wits enters the battlefield, you may draw cards equal to its power. If you do, discard two cards.</text>
             <prop>
                 <colors>B</colors>
@@ -1671,7 +1671,7 @@ This creature can't block.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Cloud Sprite (Token)</name>
+            <name>Cloud Sprite </name>
             <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
 Cloud Sprite can block only creatures with flying.</text>
             <prop>
@@ -2229,7 +2229,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Dragon Egg (Token)</name>
+            <name>Dragon Egg </name>
             <text>Defender
 When this creature dies, create a 2/2 red Dragon creature token with flying and "{R}: This creature gets +1/+0 until end of turn."</text>
             <prop>
@@ -2487,7 +2487,7 @@ Flying</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Dreamstealer (Token)</name>
+            <name>Dreamstealer </name>
             <text>Menace
 Whenever Dreamstealer deals combat damage to a player, that player discards that many cards.</text>
             <prop>
@@ -2550,7 +2550,7 @@ When this creature leaves the battlefield, each opponent loses 2 life and you ga
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Earthshaker Khenra (Token)</name>
+            <name>Earthshaker Khenra </name>
             <text>Haste
 When Earthshaker Khenra enters the battlefield, target creature with power less than or equal to Earthshaker Khenra's power can't block this turn.</text>
             <prop>
@@ -3359,7 +3359,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Faerie Dragon (Token)</name>
+            <name>Faerie Dragon </name>
             <text>Flying</text>
             <prop>
                 <colors>U</colors>
@@ -3462,7 +3462,7 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Festering Goblin (Token)</name>
+            <name>Festering Goblin </name>
             <text>When Festering Goblin dies, target creature gets -1/-1 until end of turn.</text>
             <prop>
                 <colors>B</colors>
@@ -3740,7 +3740,7 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Glyph Keeper (Token)</name>
+            <name>Glyph Keeper </name>
             <text>Flying
 Whenever Glyph Keeper becomes the target of a spell or ability for the first time each turn, counter that spell or ability.</text>
             <prop>
@@ -4076,7 +4076,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Goldmeadow Harrier (Token)</name>
+            <name>Goldmeadow Harrier </name>
             <text>{W}, {T}: Tap target creature.</text>
             <prop>
                 <colors>W</colors>
@@ -4330,7 +4330,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Heart-Piercer Manticore (Token)</name>
+            <name>Heart-Piercer Manticore </name>
             <text>When Heart-Piercer Manticore enters the battlefield, you may sacrifice another creature. When you do, Heart-Piercer Manticore deals damage equal to that creature's power to target creature or player.</text>
             <prop>
                 <colors>W</colors>
@@ -4421,7 +4421,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Honored Hydra (Token)</name>
+            <name>Honored Hydra </name>
             <text>Trample</text>
             <prop>
                 <colors>W</colors>
@@ -5429,7 +5429,7 @@ Flanking</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Kobolds of Kher Keep (Token)</name>
+            <name>Kobolds of Kher Keep </name>
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Kobold</type>
@@ -5562,7 +5562,7 @@ Flanking</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Labyrinth Guardian (Token)</name>
+            <name>Labyrinth Guardian </name>
             <text>When Labyrinth Guardian becomes the target of a spell, sacrifice it.</text>
             <prop>
                 <colors>W</colors>
@@ -5649,7 +5649,7 @@ At the beginning of the end step, sacrifice this creature.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Llanowar Elves (Token)</name>
+            <name>Llanowar Elves </name>
             <text>{T}: Add {G}.</text>
             <prop>
                 <colors>G</colors>
@@ -5800,7 +5800,7 @@ Flying, vigilance, trample, lifelink, haste</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Metallic Sliver (Token)</name>
+            <name>Metallic Sliver </name>
             <prop>
                 <type>Token Artifact Creature — Sliver</type>
                 <maintype>Creature</maintype>
@@ -6285,7 +6285,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Oketra's Attendant (Token)</name>
+            <name>Oketra's Attendant </name>
             <text>Flying</text>
             <prop>
                 <colors>W</colors>
@@ -7104,7 +7104,7 @@ Creatures you control attack each combat if able.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Proven Combatant (Token)</name>
+            <name>Proven Combatant </name>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Zombie Human Warrior</type>
@@ -7297,7 +7297,7 @@ Creatures you control attack each combat if able.</text>
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Resilient Khenra (Token)</name>
+            <name>Resilient Khenra </name>
             <text>When Resilient Khenra enters the battlefield, you may have target creature get +X/+X until end of turn, where X is Resilient Khenra's power.</text>
             <prop>
                 <colors>B</colors>
@@ -7409,7 +7409,7 @@ Equip {1}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Sacred Cat (Token)</name>
+            <name>Sacred Cat </name>
             <text>Lifelink</text>
             <prop>
                 <colors>W</colors>
@@ -7908,7 +7908,7 @@ Equip {1}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Sinuous Striker (Token)</name>
+            <name>Sinuous Striker </name>
             <text>{U}: Sinuous Striker gets +1/-1 until end of turn.</text>
             <prop>
                 <colors>B</colors>
@@ -8427,7 +8427,7 @@ Equip {1}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Spark Elemental (Token)</name>
+            <name>Spark Elemental </name>
             <text>Trample, haste
 At the beginning of the end step, sacrifice Spark Elemental.</text>
             <prop>
@@ -9107,7 +9107,7 @@ Cumulative upkeep {G}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Steadfast Sentinel (Token)</name>
+            <name>Steadfast Sentinel </name>
             <text>Vigilance</text>
             <prop>
                 <colors>B</colors>
@@ -9153,7 +9153,7 @@ Equip {0}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Sunscourge Champion (Token)</name>
+            <name>Sunscourge Champion </name>
             <text>When Sunscourge Champion enters the battlefield, you gain life equal to its power.</text>
             <prop>
                 <colors>B</colors>
@@ -9183,7 +9183,7 @@ Equip {0}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Tah-Crop Skirmisher (Token)</name>
+            <name>Tah-Crop Skirmisher </name>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Zombie Naga Warrior</type>
@@ -9227,7 +9227,7 @@ Equip {0}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Temmet, Vizier of Naktamun (Token)</name>
+            <name>Temmet, Vizier of Naktamun </name>
             <text>At the beginning of combat on your turn, target creature token you control gets +1/+1 until end of turn and can't be blocked this turn.</text>
             <prop>
                 <colors>W</colors>
@@ -9415,7 +9415,7 @@ This creature can't be enchanted.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Timeless Dragon (Token)</name>
+            <name>Timeless Dragon </name>
             <text>Flying</text>
             <prop>
                 <colors>B</colors>
@@ -9430,7 +9430,7 @@ This creature can't be enchanted.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Timeless Witness (Token)</name>
+            <name>Timeless Witness </name>
             <text>When Timeless Witness enters the battlefield, return target card from your graveyard to your hand</text>
             <prop>
                 <colors>B</colors>
@@ -9773,7 +9773,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Trueheart Duelist (Token)</name>
+            <name>Trueheart Duelist </name>
             <text>Trueheart Duelist can block an additional creature each combat.</text>
             <prop>
                 <colors>W</colors>
@@ -9907,7 +9907,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Unwavering Initiate (Token)</name>
+            <name>Unwavering Initiate </name>
             <text>Vigilance</text>
             <prop>
                 <colors>W</colors>
@@ -10115,7 +10115,7 @@ Whenever Vanguard Suppressor deals combat damage to a player, draw a card.</text
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Vizier of Many Faces (Token)</name>
+            <name>Vizier of Many Faces </name>
             <text>You may have Vizier of Many Faces enter the battlefield as a copy of any creature on the battlefield, except it has no mana cost, it's white, and it's a Zombie in addition to its other types.</text>
             <prop>
                 <colors>W</colors>
