@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20230313</sourceVersion>
+        <sourceVersion>20230318</sourceVersion>
     </info>
     <cards>
         <!--
@@ -11707,6 +11707,18 @@ Throne of the Dead Three — Reveal the top ten cards of your library. Put a cre
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/f/df296190-e51b-44a7-ae83-279fee3151a5.jpg?1644543190">NEO</set>
             <reverse-related>Kaito Shizuki</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Karn, Living Legacy Emblem</name>
+            <text>Tap an untapped artifact you control: This emblem deals 1 damage to any target.</text>
+            <prop>
+                <type>Emblem</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/karn_emblem_arena.png?raw=true">DMU</set>
+            <reverse-related>Karn, Living Legacy</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
