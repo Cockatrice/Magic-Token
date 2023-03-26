@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20230318</sourceVersion>
+        <sourceVersion>20230326</sourceVersion>
     </info>
     <cards>
         <!--
@@ -203,7 +203,6 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/2/a2db6fe1-b6ec-43ca-933f-dbab4cd08064.jpg?1654172678">CLB</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/1/91098481-46c2-49bf-8123-e9cab2f22b84.jpg?1604194613">ZNR</set>
             <reverse-related count="2">Emeria's Call</reverse-related>
             <token>1</token>
@@ -219,6 +218,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/2/a2db6fe1-b6ec-43ca-933f-dbab4cd08064.jpg?1654172678">CLB</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/b/3bd871a3-3802-4bdc-8033-3ecfd01c0449.jpg?1615686143">KHM</set>
             <reverse-related>Firja's Retribution</reverse-related>
             <reverse-related>Great Hall of Starnheim</reverse-related>
