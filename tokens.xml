@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20230326</sourceVersion>
+        <sourceVersion>20230331</sourceVersion>
     </info>
     <cards>
         <!--
@@ -1671,6 +1671,21 @@ This creature can't block.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Cleric Token   </name>
+            <text>Lifelink</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Cleric</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set>PHTR</set>
+            <reverse-related exclude="exclude">Dungeon Master</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Cloud Sprite (Token)</name>
             <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
 Cloud Sprite can block only creatures with flying.</text>
@@ -2086,6 +2101,22 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
             <reverse-related>Tibalt, Rakish Instigator</reverse-related>
             <reverse-related>Zariel, Archduke of Avernus</reverse-related>
             <reverse-related>Zurzoth, Chaos Rider</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Devil Token </name>
+            <text>Haste
+When this creature dies, create a colorless Treasure artifact token.</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Devil</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/4</pt>
+            </prop>
+            <set>PH17</set>
+            <reverse-related count="4">Diabolical Salvation</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3477,6 +3508,21 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Fighter Token</name>
+            <text>First Strike</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Fighter</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set>PHTR</set>
+            <reverse-related exclude="exclude">Dungeon Master</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Fish Token</name>
             <text>When this creature dies, create a 6/6 blue Whale creature token with "When this creature dies, create a 9/9 blue Kraken creature token."</text>
             <prop>
@@ -4271,6 +4317,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <pt>2/2</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/6/c6071fed-39c1-4f3b-a821-1611aedd8054.jpg">AER</set>
+            <reverse-related>Chandra, Gremlin Wrangler</reverse-related>
             <reverse-related>Gremlin Infestation</reverse-related>
             <reverse-related count="x">Release the Gremlins</reverse-related>
             <token>1</token>
@@ -4724,6 +4771,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related>Jerren, Corrupted Bishop</reverse-related>
             <reverse-related count="x" exclude="exclude">Jerren, Corrupted Bishop</reverse-related>
             <reverse-related count="2">Join the Dance</reverse-related>
+            <reverse-related>Kharis &amp; The Beholder</reverse-related>
             <reverse-related>Lovestruck Beast // Heart's Desire</reverse-related>
             <reverse-related count="2">Oakhame Ranger // Bring Back</reverse-related>
             <reverse-related count="2">Rally for the Throne</reverse-related>
@@ -4800,7 +4848,36 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/4/e4439a8b-ef98-428d-a274-53c660b23afe.jpg?1562636929">EMN</set>
             <reverse-related>Docent of Perfection</reverse-related>
+            <reverse-related count="x">Euroakus</reverse-related>
             <reverse-related>Final Iteration</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Human Wizard Token </name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Human Wizard</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/1</pt>
+            </prop>
+            <set>PH18</set>
+            <reverse-related>The Legend of Arena</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Human Wizard Token  </name>
+            <prop>
+                <colors>WUBRG</colors>
+                <type>Token Creature — Human Wizard</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set>PH21</set>
+            <reverse-related>Ersta, Friend to All</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7409,6 +7486,21 @@ Equip {1}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Rogue Token  </name>
+            <text>Hexproof</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Rogue</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set>PHTR</set>
+            <reverse-related exclude="exclude">Dungeon Master</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Sacred Cat (Token)</name>
             <text>Lifelink</text>
             <prop>
@@ -7968,6 +8060,21 @@ Equip {1}</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/f/cf4c245f-af2f-46a7-81f3-670a04940901.jpg?1654171461">CLB</set>
             <reverse-related>Altar of Bhaal // Bone Offering</reverse-related>
             <reverse-related>Gut, True Soul Zealot</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Skeleton Token   </name>
+            <text>When this creature dies, each opponent gains 2 life.</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Skeleton</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set>PHTR</set>
+            <reverse-related>Dungeon Master</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -10428,6 +10535,21 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Wizard Token  </name>
+            <text>Flying</text>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Wizard</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set>PHTR</set>
+            <reverse-related exclude="exclude">Dungeon Master</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Wolf Token</name>
             <prop>
                 <colors>G</colors>
@@ -11567,6 +11689,18 @@ Throne of the Dead Three — Reveal the top ten cards of your library. Put a cre
             <tablerow>1</tablerow>
         </card>
         <card>
+            <name>Ersta, Friend to All Emblem</name>
+            <text>At the beginning of your upkeep, if you control twenty or more Wizards, you win the game.</text>
+            <prop>
+                <type>Emblem — Ersta</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set>PH17</set>
+            <reverse-related exclude="exclude">Ersta, Friend to All</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Garruk, Apex Predator Emblem</name>
             <text>Whenever a creature attacks you, it gets +5/+5 and gains trample until end of turn.</text>
             <prop>
@@ -11647,6 +11781,19 @@ Throne of the Dead Three — Reveal the top ten cards of your library. Put a cre
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/5/859f645b-24e0-4c34-ae82-ba0ae9854377.jpg?1561757496">RIX</set>
             <reverse-related>Huatli, Radiant Champion</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Inzerva, Master of Insights Emblem</name>
+            <text>Your opponents play with their hands revealed.
+Whenever an opponent draws a card, this emblem deals 1 damage to them.</text>
+            <prop>
+                <type>Emblem — Inzerva</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set>PH17</set>
+            <reverse-related>Inzerva, Master of Insights</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
