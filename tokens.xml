@@ -3508,6 +3508,21 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Fighter Token</name>
+            <text>First Strike</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Fighter</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set>PHTR</set>
+            <reverse-related exclude="exclude">Dungeon Master</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Fish Token</name>
             <text>When this creature dies, create a 6/6 blue Whale creature token with "When this creature dies, create a 9/9 blue Kraken creature token."</text>
             <prop>
@@ -3540,21 +3555,6 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
             <reverse-related>Expendable Lackey</reverse-related>
             <reverse-related>Reservoir Kraken</reverse-related>
             <reverse-related>Sleep with the Fishes</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
-            <name>Fighter Token</name>
-            <text>First Strike</text>
-            <prop>
-                <colors>R</colors>
-                <type>Token Creature — Fighter</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>3/3</pt>
-            </prop>
-            <set>PHTR</set>
-            <reverse-related exclude="exclude">Dungeon Master</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
