@@ -3577,6 +3577,7 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/7/4/74de70f2-93b6-4fc5-8c4d-464f880d3c54.jpg?1667886857">BRO</set>
             <reverse-related count="x">Awaken the Woods</reverse-related>
+            <reverse-related>Staff of Titania</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
