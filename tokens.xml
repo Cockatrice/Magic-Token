@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20230331</sourceVersion>
+        <sourceVersion>20230401</sourceVersion>
     </info>
     <cards>
         <!--
@@ -504,7 +504,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
-            <set>J22</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Banana.jpeg?raw=true">J22</set>
             <reverse-related>Kibo, Uktabi Prince</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
