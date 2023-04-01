@@ -203,7 +203,6 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/2/a2db6fe1-b6ec-43ca-933f-dbab4cd08064.jpg?1654172678">CLB</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/1/91098481-46c2-49bf-8123-e9cab2f22b84.jpg?1604194613">ZNR</set>
             <reverse-related count="2">Emeria's Call</reverse-related>
             <token>1</token>
@@ -219,6 +218,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/2/a2db6fe1-b6ec-43ca-933f-dbab4cd08064.jpg?1654172678">CLB</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/b/3bd871a3-3802-4bdc-8033-3ecfd01c0449.jpg?1615686143">KHM</set>
             <reverse-related>Firja's Retribution</reverse-related>
             <reverse-related>Great Hall of Starnheim</reverse-related>
@@ -3504,6 +3504,21 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
             </prop>
             <set picURL="https://cdn.staticneo.com/w/mtg/2/24/Festering_Goblin.jpg">FUT</set>
             <reverse-related>Skirk Ridge Exhumer</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Fighter Token</name>
+            <text>First Strike</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Fighter</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set>PHTR</set>
+            <reverse-related exclude="exclude">Dungeon Master</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -11854,6 +11869,18 @@ Whenever an opponent draws a card, this emblem deals 1 damage to them.</text>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/f/df296190-e51b-44a7-ae83-279fee3151a5.jpg?1644543190">NEO</set>
             <reverse-related>Kaito Shizuki</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Karn, Living Legacy Emblem</name>
+            <text>Tap an untapped artifact you control: This emblem deals 1 damage to any target.</text>
+            <prop>
+                <type>Emblem</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/karn_emblem_arena.png?raw=true">DMU</set>
+            <reverse-related>Karn, Living Legacy</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>

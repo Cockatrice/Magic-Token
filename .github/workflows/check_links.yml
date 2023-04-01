@@ -22,8 +22,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Set up lychee cache
-        uses: actions/cache@v3
+      # Restore cache
+      - name: Restore lychee cache
+        id: restore-cache
+        uses: actions/cache/restore@v3
         with:
           path: .lycheecache
           key: cache-lychee-${{ github.sha }}
@@ -36,3 +38,11 @@ jobs:
           args: '${{env.lychee_args}} -- tokens.xml challenge_tokens.xml'
           fail: true
           jobSummary: true
+
+      # Always save cache
+      - name: Save lychee cache
+        uses: actions/cache/save@v3
+        if: always()
+        with:
+            path: .lycheecache
+            key: ${{ steps.restore-cache.outputs.cache-primary-key }}
