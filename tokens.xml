@@ -7043,7 +7043,7 @@ Creatures you control attack each combat if able.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set>J22</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Pirate.jpeg?raw=true">J22</set>
             <reverse-related>Daring Piracy</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
