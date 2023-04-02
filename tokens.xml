@@ -259,7 +259,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Arco-Flagellant </name>
+            <name>Arco-Flagellant (Token)</name>
             <text>Arco-Flagellant can't block.
 Pay 3 life: Arco-Flagellant gains indestructible until end of turn.</text>
             <prop>
@@ -6527,7 +6527,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Ornithopter </name>
+            <name>Ornithopter (Token)</name>
             <text>Flying</text>
             <prop>
                 <type>Token Artifact Creature — Thopter</type>
@@ -8024,7 +8024,7 @@ Equip {1}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Sicarian Infiltrator </name>
+            <name>Sicarian Infiltrator (Token)</name>
             <text>When Sicarian Infiltrator enters the battlefield, draw a card.</text>
             <prop>
                 <colors>U</colors>
@@ -8558,7 +8558,7 @@ Equip {1}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Space Marine Devastator </name>
+            <name>Space Marine Devastator (Token)</name>
             <text>When Space Marine Devastator enters the battlefield, destroy up to one target artifact or enchantment.</text>
             <prop>
                 <colors>W</colors>
@@ -9283,7 +9283,7 @@ Equip {0}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Storm Crow </name>
+            <name>Storm Crow (Token)</name>
             <text>Flying</text>
             <prop>
                 <colors>U</colors>
@@ -10025,7 +10025,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Ultramarines Honour Guard </name>
+            <name>Ultramarines Honour Guard (Token)</name>
             <text>Other creatures you control get +1/+1.</text>
             <prop>
                 <colors>W</colors>
@@ -10231,7 +10231,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Vanguard Suppressor </name>
+            <name>Vanguard Suppressor (Token)</name>
             <text>Flying
 Whenever Vanguard Suppressor deals combat damage to a player, draw a card.</text>
             <prop>
@@ -10876,7 +10876,7 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Zephyrim </name>
+            <name>Zephyrim (Token)</name>
             <text>Flying, vigilance</text>
             <prop>
                 <colors>W</colors>
