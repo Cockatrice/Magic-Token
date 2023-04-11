@@ -3265,7 +3265,7 @@ This creature's power and toughness are each equal to the number of instant and 
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/2/8/28a7a9b0-d823-4b34-829f-ade81fc141e0.jpg?1681048054">MOM</set>
             <reverse-related count="2">Joyful Stormsculptor</reverse-related>
-            <reverse-related count="2">Kyren Flamewright</reverse-related>
+            <reverse-related count="2" exclude="exclude">Kyren Flamewright</reverse-related>
             <reverse-related>Preening Champion</reverse-related>
             <reverse-related count="2">Ral's Reinforcements</reverse-related>
             <token>1</token>
@@ -5110,15 +5110,14 @@ Equip {2}</text>
             <set picURL="https://cards.scryfall.io/large/front/c/c/cca1decc-90fd-4df8-997e-52f8789032f8.jpg?1681041732">MOM</set>
             <related>Phyrexian Token </related>
             <reverse-related>Assimilate Essence</reverse-related>
-            <reverse-related>Blighted Burgeoning</reverse-related>
             <reverse-related>Blight Titan</reverse-related>
+            <reverse-related>Blighted Burgeoning</reverse-related>
             <reverse-related>Bloated Processor</reverse-related>
             <reverse-related>Brimaz, Blight of Oreskos</reverse-related>
             <reverse-related>Chrome Host Seedshark</reverse-related>
             <reverse-related>Compleated Huntmaster</reverse-related>
             <reverse-related>Converter Beast</reverse-related>
             <reverse-related>Corruption of Towashi</reverse-related>
-            <reverse-related count="5">The Argent Etchings </reverse-related>
             <reverse-related>Elvish Vatkeeper</reverse-related>
             <reverse-related>Essence of Orthodoxy</reverse-related>
             <reverse-related count="x" exclude="exclude">Essence of Orthodoxy</reverse-related>
@@ -5141,6 +5140,7 @@ Equip {2}</text>
             <reverse-related>Sunder the Gateway</reverse-related>
             <reverse-related>Sunfall</reverse-related>
             <reverse-related>Tangled Skyline</reverse-related>
+            <reverse-related count="5">The Argent Etchings</reverse-related>
             <reverse-related>Tiller of Flesh</reverse-related>
             <reverse-related>Traumatic Revelation</reverse-related>
             <token>1</token>
@@ -5618,8 +5618,8 @@ Flanking</text>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/8/8/88439bfc-8942-473b-9e4f-863017788476.jpg?1681044669">MOM</set>
             <reverse-related>Chivalric Alliance</reverse-related>
-            <reverse-related>Invasion of Belenon</reverse-related>
-            <reverse-related count="x">Invasion of New Phyrexia</reverse-related>
+            <reverse-related exclude="exclude">Invasion of Belenon</reverse-related>
+            <reverse-related count="x" exlude="exclude">Invasion of New Phyrexia</reverse-related>
             <reverse-related>Knight of the New Coalition</reverse-related>
             <reverse-related count="2">Unyaro</reverse-related>
             <reverse-related>Xerex Strobe-Knight</reverse-related>
@@ -5770,7 +5770,7 @@ Flanking</text>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/c/b/cb727dec-dd82-4072-b2ec-a4e31b58752f.jpg?1681136870">MOM</set>
-            <reverse-related count="2">Invasion of Segovia</reverse-related>
+            <reverse-related count="2" exclude="exlude">Invasion of Segovia</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -6965,7 +6965,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <pt>3/3</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/a/1/a1bb0ec0-729e-4dcb-bab4-9f31c1056ab3.jpg?1681138002">MOM</set>
-            <reverse-related>Polukranos, Engine of Ruin</reverse-related>
+            <reverse-related exclude="exclude">Polukranos, Engine of Ruin</reverse-related>
             <reverse-related count="x" exclude="exclude">Polukranos, Engine of Ruin</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -6981,7 +6981,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <pt>3/3</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/2/b/2bff78d9-7c4c-4b3b-a485-5328e985315b.jpg?1681137228">MOM</set>
-            <reverse-related>Polukranos, Engine of Ruin</reverse-related>
+            <reverse-related exclude="exclude">Polukranos, Engine of Ruin</reverse-related>
             <reverse-related count="x" exclude="exclude">Polukranos, Engine of Ruin</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -8565,9 +8565,9 @@ Equip {1}</text>
             <reverse-related>Defiler of Faith</reverse-related>
             <reverse-related count="x">Deploy to the Front</reverse-related>
             <reverse-related count="3">Elspeth Tirel</reverse-related>
+            <reverse-related count="3">Elspeth's Talent</reverse-related>
             <reverse-related>Elspeth, Knight-Errant</reverse-related>
             <reverse-related count="3">Elspeth, Sun's Champion</reverse-related>
-            <reverse-related count="3">Elspeth's Talent</reverse-related>
             <reverse-related count="x">Entrapment Maneuver</reverse-related>
             <reverse-related count="x">Evangel of Heliod</reverse-related>
             <reverse-related count="3">Even the Odds</reverse-related>
@@ -9104,7 +9104,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related count="2">Seraph of the Scales</reverse-related>
             <reverse-related>Syndicate Messenger</reverse-related>
             <reverse-related>Teysa, Envoy of Ghosts</reverse-related>
-            <reverse-related>The Broken Sky</reverse-related>
+            <reverse-related exclude="exclude">The Broken Sky</reverse-related>
             <reverse-related>Tithe Taker</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -9681,7 +9681,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Ghirapur Gearcrafter</reverse-related>
             <reverse-related count="x">Hangarback Walker</reverse-related>
             <reverse-related>Inspired Sphinx</reverse-related>
-            <reverse-related>Invasion of Kaladesh</reverse-related>
+            <reverse-related exclude="exlude">Invasion of Kaladesh</reverse-related>
             <reverse-related>Launch Mishap</reverse-related>
             <reverse-related>Loyal Apprentice</reverse-related>
             <reverse-related count="2">Maverick Thopterist</reverse-related>
@@ -9919,7 +9919,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="2">Ingenious Mastery</reverse-related>
             <reverse-related count="3">Inspired Tinkering</reverse-related>
             <reverse-related>Instrument of the Bards</reverse-related>
-            <reverse-related>Invasion of Ergamon</reverse-related>
+            <reverse-related exclude="exlude">Invasion of Ergamon</reverse-related>
             <reverse-related>Involuntary Employment</reverse-related>
             <reverse-related count="2">Jan Jansen, Chaos Crafter</reverse-related>
             <reverse-related count="2" exclude="exclude">Jared Carthalion</reverse-related>
@@ -10008,7 +10008,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="2">Tavern Scoundrel</reverse-related>
             <reverse-related>Tempting Contract</reverse-related>
             <reverse-related>The Golden City of Orazca</reverse-related>
-            <reverse-related count="3">The Great Work</reverse-related>
+            <reverse-related count="3" exclude="exclude">The Great Work</reverse-related>
             <reverse-related count="x">The Reaver Cleaver</reverse-related>
             <reverse-related count="3">The Western Cloud</reverse-related>
             <reverse-related>Thieves' Tools</reverse-related>
@@ -10692,7 +10692,7 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
                 <pt>3/2</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/a/2/a2661ea2-7ff6-4188-9d40-f18bb625ed52.jpg?1681137544">MOM</set>
-            <reverse-related count="2">Valor's Reach Tag Team</reverse-related>
+            <reverse-related count="2" exclude="exclude">Valor's Reach Tag Team</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -11326,7 +11326,7 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             <reverse-related count="x">Dark Salvation</reverse-related>
             <reverse-related>Death Tyrant</reverse-related>
             <reverse-related count="x" exclude="exclude">Death Tyrant</reverse-related>
-            <reverse-related count="x">Deluge of the Dead</reverse-related>
+            <reverse-related count="x" exclude="exclude">Deluge of the Dead</reverse-related>
             <reverse-related>Diregraf Colossus</reverse-related>
             <reverse-related>Doomed Dissenter</reverse-related>
             <reverse-related>Drana's Chosen</reverse-related>
