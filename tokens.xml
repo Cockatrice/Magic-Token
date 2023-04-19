@@ -13132,8 +13132,8 @@ If a player casts no spells during their own turn, it becomes night next turn.</
                 <maintype>State</maintype>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/c/9c0f7843-4cbb-4d0f-8887-ec823a9238da.jpg?1630606483">MID</set>
-            <reverse-related exclude="exclude">Arlinn, the Pack's Hope</reverse-related>
             <related attach="transform">Night</related>
+            <reverse-related exclude="exclude">Arlinn, the Pack's Hope</reverse-related>
             <reverse-related>Baneblade Scoundrel</reverse-related>
             <reverse-related>Bird Admirer</reverse-related>
             <reverse-related>Brimstone Vandal</reverse-related>
