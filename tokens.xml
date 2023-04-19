@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20230413</sourceVersion>
+        <sourceVersion>20230419</sourceVersion>
     </info>
     <cards>
         <!--
@@ -2364,8 +2364,8 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
                 <pt>5/5</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/4/a4c06e08-2026-471d-a6d0-bbb0f040420a.jpg?1644542956">NEO</set>
-            <reverse-related>Goro-Goro, Disciple of Ryusei</reverse-related>
             <reverse-related>Goro-Goro and Satoru</reverse-related>
+            <reverse-related>Goro-Goro, Disciple of Ryusei</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -5167,7 +5167,7 @@ Equip {2}</text>
                 <cmc>0</cmc>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/c/c/cca1decc-90fd-4df8-997e-52f8789032f8.jpg?1681041732">MOM</set>
-            <related>Phyrexian Token </related>
+            <related attach="transform">Phyrexian Token </related>
             <reverse-related>Assimilate Essence</reverse-related>
             <reverse-related>Blight Titan</reverse-related>
             <reverse-related>Blighted Burgeoning</reverse-related>
@@ -7969,8 +7969,8 @@ Equip {1}</text>
             <reverse-related count="2">Seed Spark</reverse-related>
             <reverse-related>Selesnya Evangel</reverse-related>
             <reverse-related>Selesnya Guildmage</reverse-related>
-            <reverse-related>Slimefoot, the Stowaway</reverse-related>
             <reverse-related>Slimefoot and Squee</reverse-related>
+            <reverse-related>Slimefoot, the Stowaway</reverse-related>
             <reverse-related count="x">Spontaneous Generation</reverse-related>
             <reverse-related count="x">Spore Burst</reverse-related>
             <reverse-related count="3">Spore Swarm</reverse-related>
@@ -13132,8 +13132,8 @@ If a player casts no spells during their own turn, it becomes night next turn.</
                 <maintype>State</maintype>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/c/9c0f7843-4cbb-4d0f-8887-ec823a9238da.jpg?1630606483">MID</set>
+            <related attach="transform">Night</related>
             <reverse-related exclude="exclude">Arlinn, the Pack's Hope</reverse-related>
-            <related>Night</related>
             <reverse-related>Baneblade Scoundrel</reverse-related>
             <reverse-related>Bird Admirer</reverse-related>
             <reverse-related>Brimstone Vandal</reverse-related>
@@ -13176,7 +13176,7 @@ If a player casts at least two spells during their own turn, it becomes day next
                 <maintype>State</maintype>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/back/9/c/9c0f7843-4cbb-4d0f-8887-ec823a9238da.jpg?1630606483">MID</set>
-            <related>Day</related>
+            <related attach="transform">Day</related>
             <reverse-related>Unnatural Moonrise</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
