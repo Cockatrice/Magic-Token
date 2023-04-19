@@ -2364,8 +2364,8 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
                 <pt>5/5</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/4/a4c06e08-2026-471d-a6d0-bbb0f040420a.jpg?1644542956">NEO</set>
-            <reverse-related>Goro-Goro, Disciple of Ryusei</reverse-related>
             <reverse-related>Goro-Goro and Satoru</reverse-related>
+            <reverse-related>Goro-Goro, Disciple of Ryusei</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7969,8 +7969,8 @@ Equip {1}</text>
             <reverse-related count="2">Seed Spark</reverse-related>
             <reverse-related>Selesnya Evangel</reverse-related>
             <reverse-related>Selesnya Guildmage</reverse-related>
-            <reverse-related>Slimefoot, the Stowaway</reverse-related>
             <reverse-related>Slimefoot and Squee</reverse-related>
+            <reverse-related>Slimefoot, the Stowaway</reverse-related>
             <reverse-related count="x">Spontaneous Generation</reverse-related>
             <reverse-related count="x">Spore Burst</reverse-related>
             <reverse-related count="3">Spore Swarm</reverse-related>
