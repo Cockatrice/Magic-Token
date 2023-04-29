@@ -2,16 +2,52 @@
 <cockatrice_carddatabase version="3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v3/cards.xsd">
     <sets>
         <set>
-            <name>CTH</name>
-            <longname>Challenge the Horde</longname>
+            <name>FTH</name>
+            <longname>Face the Hydra</longname>
             <settype>Challenge</settype>
-            <releasedate>2011-09-05</releasedate>
+            <releasedate>2013-10-19</releasedate>
+        </set>
+        <set>
+            <name>BTH</name>
+            <longname>Battle the Horde</longname>
+            <settype>Challenge</settype>
+            <releasedate>2014-03-01</releasedate>
+        </set>
+        <set>
+            <name>DAG</name>
+            <longname>Defeat a God</longname>
+            <settype>Challenge</settype>
+            <releasedate>2014-05-25</releasedate>
+        </set>
+        <set>
+            <name>HP1</name>
+            <longname>Theros Hero's Path</longname>
+            <settype>Challenge</settype>
+            <releasedate>2013-09-27</releasedate>
+        </set>
+        <set>
+            <name>HP2</name>
+            <longname>Born of the Gods Hero's Path</longname>
+            <settype>Challenge</settype>
+            <releasedate>2014-02-07</releasedate>
+        </set>
+        <set>
+            <name>HP3</name>
+            <longname>Journey into Nyx Hero's Path</longname>
+            <settype>Challenge</settype>
+            <releasedate>2014-05-02</releasedate>
+        </set>
+        <set>
+            <name>PPC1</name>
+            <longname>M15 Prerelease Challenge</longname>
+            <settype>Challenge</settype>
+            <releasedate>2014-07-12</releasedate>
         </set>
     </sets>
     <cards>
         <card>
             <name>Strike the Weak Spot</name>
-            <set picURL="http://deckmaster.info/images/cards/THS/-66612-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/0/40ffc5ec-67da-4af7-ae3a-e33fea136eac.jpg?1562639764">FTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -21,7 +57,7 @@
         </card>
         <card>
             <name>Mogis's Chosen</name>
-            <set picURL="http://deckmaster.info/images/cards/BNG/-66703-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/5/553ae9d2-3807-4ca8-a575-7fa6667ee212.jpg?1562639810">BTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -32,7 +68,7 @@
         </card>
         <card>
             <name>Rip to Pieces</name>
-            <set picURL="http://deckmaster.info/images/cards/JOU/-66809-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/3/33307f9a-9c09-402a-9c76-a0a76b3a9a6a.jpg?1562639740">DAG</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -42,7 +78,7 @@
         </card>
         <card>
             <name>Descend on the Prey</name>
-            <set picURL="http://deckmaster.info/images/cards/BNG/-66707-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/5/95e0a522-2395-438a-83bc-ea092e4286c3.jpg?1562639935">BTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -52,7 +88,7 @@
         </card>
         <card>
             <name>The Vanquisher</name>
-            <set picURL="http://deckmaster.info/images/cards/BNG/-66786-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/8/08a63083-997b-4a72-af48-cd35e6e9599d.jpg?1561756617">HP2</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -62,7 +98,7 @@
         </card>
         <card>
             <name>The General</name>
-            <set picURL="http://deckmaster.info/images/cards/BNG/-66724-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/8/68a4653a-5063-4fa9-8cbe-21d3ddebe3df.jpg?1561757335">HP2</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -72,7 +108,7 @@
         </card>
         <card>
             <name>Minotaur Younghorn</name>
-            <set picURL="http://deckmaster.info/images/cards/BNG/-66702-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/c/2c8e22f9-6b70-425c-a0a8-09b6101a286e.jpg?1562639728">BTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -83,7 +119,7 @@
         </card>
         <card>
             <name>Dance of Flame</name>
-            <set picURL="http://deckmaster.info/images/cards/JOU/-66812-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/c/3c85c8c7-e415-411d-b1b3-edc45c0e3fb0.jpg?1562639756">DAG</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -93,7 +129,7 @@
         </card>
         <card>
             <name>The Provider</name>
-            <set picURL="http://deckmaster.info/images/cards/BNG/-66764-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/9/d9987b43-7f20-46ce-b7dd-f3126e5bc991.jpg?1561758193">HP2</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -103,7 +139,7 @@
         </card>
         <card>
             <name>Refreshing Elixir</name>
-            <set picURL="http://deckmaster.info/images/cards/BNG/-66714-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/1/b1d75296-e2a5-48f3-a98d-3633be9f6138.jpg?1562639987">BTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -114,7 +150,7 @@ Hero's Reward — When Refreshing Elixir is put into a graveyard from anywhere, 
         </card>
         <card>
             <name>Rollicking Throng</name>
-            <set picURL="http://deckmaster.info/images/cards/JOU/-66803-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/d/8da84d4f-5526-401f-9762-4fcfbc313c81.jpg?1562639918">DAG</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -125,7 +161,7 @@ Hero's Reward — When Refreshing Elixir is put into a graveyard from anywhere, 
         </card>
         <card>
             <name>Impulsive Destruction</name>
-            <set picURL="http://deckmaster.info/images/cards/JOU/-66807-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/2/8262a9f7-010a-4fc0-bcb6-86b2b1253000.jpg?1562639891">DAG</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -135,7 +171,7 @@ Hero's Reward — When Refreshing Elixir is put into a graveyard from anywhere, 
         </card>
         <card>
             <name>Unquenchable Fury </name>
-            <set picURL="http://deckmaster.info/images/cards/BNG/-66710-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/4/d4d98fc6-da00-4d65-9469-9d2c5b111f2e.jpg?1644254317">BTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -145,7 +181,7 @@ Hero's Reward — When Refreshing Elixir is put into a graveyard from anywhere, 
         </card>
         <card>
             <name>Maddened Oread</name>
-            <set picURL="http://deckmaster.info/images/cards/JOU/-66814-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/7/076ad38c-30ec-41a4-be18-c287f65d1d86.jpg?1562639657">DAG</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -156,7 +192,7 @@ Hero's Reward — When Refreshing Elixir is put into a graveyard from anywhere, 
         </card>
         <card>
             <name>Xenagos's Scorn</name>
-            <set picURL="http://deckmaster.info/images/cards/JOU/-66810-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/1/d1b30dc4-9d7c-4098-87a6-f7434030a427.jpg?1562640060">DAG</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -166,7 +202,7 @@ Hero's Reward — When Refreshing Elixir is put into a graveyard from anywhere, 
         </card>
         <card>
             <name>Shrieking Titan Head</name>
-            <set picURL="http://deckmaster.info/images/cards/THS/-66604-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/4/44ef6754-b611-4e52-a04b-dc2c794d2cb8.jpg?1562639773">FTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -178,7 +214,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Xenagos's Strike</name>
-            <set picURL="http://deckmaster.info/images/cards/JOU/-66811-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/b/6b5fef7d-b8bb-43e2-a36b-d4cc98c3ef13.jpg?1562639842">DAG</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -188,7 +224,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Snapping Fang Head</name>
-            <set picURL="http://deckmaster.info/images/cards/THS/-66605-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/1/11decc7a-58e7-43f3-acc5-9ec94cce858d.jpg?1562639681">FTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -200,7 +236,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Massacre Totem</name>
-            <set picURL="http://deckmaster.info/images/cards/BNG/-66712-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/6/a6e352e9-20ac-485b-bcaf-1d053c4ecb40.jpg?1562639963">BTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -210,7 +246,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Spear of the General</name>
-            <set picURL="http://deckmaster.info/images/cards/JOU/-66827-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/d/8d10db7e-e680-496a-8845-3bdfb176a989.jpg?1561757549">HP3</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -220,7 +256,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Minotaur Goreseeker</name>
-            <set picURL="http://deckmaster.info/images/cards/BNG/-66701-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/d/3d2f2bcc-0db9-4aa1-b63d-587c62468015.jpg?1562639757">BTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -231,7 +267,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Swallow the Hero Whole</name>
-            <set picURL="http://deckmaster.info/images/cards/THS/-66613-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/b/9b1871c1-59e5-4c2f-8e05-944d6cbabf99.jpg?1562639944">FTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -241,7 +277,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>The Philosopher</name>
-            <set picURL="http://deckmaster.info/images/cards/THS/-66631-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/f/efbffd56-92a1-4b17-8d53-e9f28b1872e1.jpg?1561758389">HP1</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -251,7 +287,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Disorienting Glower</name>
-            <set picURL="http://deckmaster.info/images/cards/THS/-66606-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/b/7b0f9139-6366-4334-b532-1385336f5a04.jpg?1562639874">FTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -261,7 +297,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>The Destined</name>
-            <set picURL="http://deckmaster.info/images/cards/JOU/-66878-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/0/80c9f81c-a6d7-4ffd-b2c8-01ef025b272f.jpg?1561757472">HP3</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -271,7 +307,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Altar of Mogis</name>
-            <set picURL="http://deckmaster.info/images/cards/BNG/-66711-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/6/f6882d51-1db2-4b08-8873-cb6f2d96b260.jpg?1562640138">BTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -281,7 +317,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>The Warrior</name>
-            <set picURL="http://deckmaster.info/images/cards/THS/-66651-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/d/dd60768a-c47f-4af5-bb33-c17777c7dd66.jpg?1561758221">HP1</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -291,7 +327,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Touch of the Horned God</name>
-            <set picURL="http://deckmaster.info/images/cards/BNG/-66709-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/5/c58bacd4-e84b-4c73-802f-5f65e5c94a46.jpg?1562640033">BTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -301,7 +337,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Ravenous Brute Head</name>
-            <set picURL="http://deckmaster.info/images/cards/THS/-66602-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/7/a76d49f7-2860-4972-ab97-1e798ea017d1.jpg?1562639969">FTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -312,7 +348,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>The Savant</name>
-            <set picURL="http://deckmaster.info/images/cards/BNG/-66734-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/1/51726f8f-b63d-4e93-82b2-d63d361a3b70.jpg?1561757135">HP2</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -322,7 +358,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Dance of Panic</name>
-            <set picURL="http://deckmaster.info/images/cards/JOU/-66813-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/c/6ce2817d-bb90-4cc0-beca-9f8af865c7a2.jpg?1562639845">DAG</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -332,7 +368,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Savage Vigor Head</name>
-            <set picURL="http://deckmaster.info/images/cards/THS/-66603-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/b/4b90bd09-d6aa-4201-a7fe-78accbcfc4e8.jpg?1562639790">FTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -343,7 +379,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Intervention of Keranos</name>
-            <set picURL="http://deckmaster.info/images/cards/BNG/-66708-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/6/661e8959-4c63-439b-8cbf-837f84ad3e57.jpg?1562639836">BTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -353,7 +389,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Distract the Hydra</name>
-            <set picURL="http://deckmaster.info/images/cards/THS/-66607-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/6/263da86e-6e10-40fb-bbf0-5a577c63fc0a.jpg?1562639719">FTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -363,7 +399,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>The Slayer</name>
-            <set picURL="http://deckmaster.info/images/cards/THS/-66683-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/a/5a12f3e3-5708-4d14-a1ed-600232002266.jpg?1561757199">HP1</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -373,7 +409,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Impulsive Return</name>
-            <set picURL="http://deckmaster.info/images/cards/JOU/-66808-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/5/b52d516f-d425-49f1-99cc-17f743aa41b2.jpg?1562639997">DAG</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -383,7 +419,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Phoberos Reaver</name>
-            <set picURL="http://deckmaster.info/images/cards/BNG/-66704-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/e/1eda2434-523d-4e9c-a8f1-acbee5c87aac.jpg?1562639708">BTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -394,7 +430,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Bow of the Hunter</name>
-            <set picURL="http://deckmaster.info/images/cards/JOU/-66867-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/4/249f009a-07da-41e6-909c-64e17208ed2e.jpg?1561756793">HP3</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -404,7 +440,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Torn Between Heads</name>
-            <set picURL="http://deckmaster.info/images/cards/THS/-66614-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/f/0fe46ef0-86f6-42f7-b78e-a148d7f00456.jpg?1562639675">FTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -414,7 +450,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Noxious Hydra Breath</name>
-            <set picURL="http://deckmaster.info/images/cards/THS/-66611-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/1/21533aec-7c28-4d20-9cc8-96b962d445bf.jpg?1562639710">FTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -424,7 +460,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Vitality Salve</name>
-            <set picURL="http://deckmaster.info/images/cards/BNG/-66715-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/e/6ede8ada-95c6-426b-83f6-17f25afc3c21.jpg?1562639851">BTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -434,7 +470,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Lash of the Tyrant</name>
-            <set picURL="http://deckmaster.info/images/cards/JOU/-66847-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/6/26326918-56f7-4dd1-90cc-3e3230672637.jpg?1561756804">HP3</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -444,7 +480,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Reckless Minotaur</name>
-            <set picURL="http://deckmaster.info/images/cards/BNG/-66705-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/3/938272b2-8e1c-4196-8557-c597735dd96e.jpg?1562639929">BTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -455,7 +491,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Hydra's Impenetrable Hide</name>
-            <set picURL="http://deckmaster.info/images/cards/THS/-66609-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/f/6f85efed-56e7-488f-ac82-8829ad8b64ad.jpg?1562639853">FTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -465,7 +501,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Axe of the Warmonger</name>
-            <set picURL="http://deckmaster.info/images/cards/JOU/-66857-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/6/e6ba72d5-b57e-4c79-a868-e114c07288c9.jpg?1561758338">HP3</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -475,7 +511,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>The Harvester</name>
-            <set picURL="http://deckmaster.info/images/cards/THS/-66672-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/c/6c17db56-68ee-44c5-82c5-9ed9f03c5899.jpg?1561757365">HP1</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -485,7 +521,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Hydra Head</name>
-            <set picURL="http://deckmaster.info/images/cards/THS/-66601-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/7/27d772a9-7542-4ffe-9cd4-e144d129f342.jpg?1562639721">FTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -496,7 +532,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>The Explorer</name>
-            <set picURL="http://deckmaster.info/images/cards/BNG/-66775-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/9/1936aa23-3a5d-4386-bc4d-66841e0cab2c.jpg?1561756731">HP2</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -506,7 +542,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Grown from the Stump</name>
-            <set picURL="http://deckmaster.info/images/cards/THS/-66608-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/2/e24e319f-494e-4ea8-8435-1207d18cc86b.jpg?1562640098">FTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -516,7 +552,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>The Warmonger</name>
-            <set picURL="http://deckmaster.info/images/cards/BNG/-66754-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/0/f02b5e79-5eea-4cbe-b087-241cf27f0580.jpg?1561758391">HP2</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -526,7 +562,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Unified Lunge</name>
-            <set picURL="http://deckmaster.info/images/cards/THS/-66615-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/b/bbb3bcaf-73f4-4f41-a0dc-0a3d710ad507.jpg?1562640012">FTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -536,7 +572,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>The Tyrant</name>
-            <set picURL="http://deckmaster.info/images/cards/BNG/-66744-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/e/be5044ab-5f7d-4109-8574-42306ca86b4c.jpg?1561757961">HP2</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -546,7 +582,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>The Champion</name>
-            <set picURL="http://deckmaster.info/images/cards/JOU/-66889-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/a/9a6eba2c-a980-4a2b-b103-bd91bc5889d2.jpg?1561757656">HP3</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -556,7 +592,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Plundered Statue</name>
-            <set picURL="http://deckmaster.info/images/cards/BNG/-66713-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/e/8eea07ed-a321-4403-b3a9-ce5e69a175fd.jpg?1562639920">BTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -566,7 +602,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>The Protector</name>
-            <set picURL="http://deckmaster.info/images/cards/THS/-66621-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/a/ca66cd86-1574-4e6e-94de-a19d8d26836f.jpg?1561758086">HP1</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -576,7 +612,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Impulsive Charge</name>
-            <set picURL="http://deckmaster.info/images/cards/JOU/-66806-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/e/6eaba998-11dc-4a0c-a755-4332f22e6dfc.jpg?1562639850">DAG</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -586,7 +622,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Pheres-Band Revelers</name>
-            <set picURL="http://deckmaster.info/images/cards/JOU/-66802-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/e/ae0182f2-31c0-4927-9ca5-0b3f4d342409.jpg?1562639976">DAG</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -597,7 +633,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>The Hunter</name>
-            <set picURL="http://deckmaster.info/images/cards/THS/-66661-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/e/4ef068ff-934c-4e4d-a4ae-e44f194b8dca.jpg?1561757110">HP1</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -607,7 +643,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Ecstatic Piper</name>
-            <set picURL="http://deckmaster.info/images/cards/JOU/-66801-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/f/8f960d71-b55d-4730-9b3f-49e9afd2809c.jpg?1562639923">DAG</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -618,7 +654,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Consuming Rage</name>
-            <set picURL="http://deckmaster.info/images/cards/BNG/-66706-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/e/7e5d19fa-0f12-41cb-90a8-c027edbc893b.jpg?1562639885">BTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -628,7 +664,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Xenagos Ascended</name>
-            <set picURL="http://deckmaster.info/images/cards/JOU/-66815-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/e/fe9dd9f0-3071-4bbd-80d2-e35b153006d7.jpg?1562640158">DAG</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -639,7 +675,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Wild Maenads</name>
-            <set picURL="http://deckmaster.info/images/cards/JOU/-66805-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/b/7b8ec95a-e728-446b-8c4a-a3571e6aa458.jpg?1562639876">DAG</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -650,7 +686,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Serpent Dancers</name>
-            <set picURL="http://deckmaster.info/images/cards/-66804-hr.jpg">TK</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/4/f4210dae-7248-4a7b-9646-99683c0dce17.jpg?1562640131">DAG</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -661,7 +697,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Neck Tangle</name>
-            <set picURL="http://deckmaster.info/images/cards/THS/-66610-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/1/b1f3cf6e-e681-461f-8754-b3e464b150d9.jpg?1562639988">FTH</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -671,7 +707,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>The Avenger</name>
-            <set picURL="http://deckmaster.info/images/cards/THS/-66641-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/0/d0f83818-2c47-435c-ade3-302e4eabc2bf.jpg?1561758124">HP1</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -681,7 +717,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Cloak of the Philosopher</name>
-            <set picURL="http://deckmaster.info/images/cards/JOU/-66837-hr.jpg">CTH</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/b/cb470a9e-ec5c-42f4-a128-9a813d883f14.jpg?1561758089">HP3</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
@@ -691,7 +727,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
         </card>
         <card>
             <name>Garruk the Slayer</name>
-            <set picURL="http://s3.gatheringmagic.com.s3.amazonaws.com/uploads/2014/06/23/garruk-the-slayer.png">M15</set>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/1/c18e2175-ec42-47f2-a40f-426ccaa1e89e.jpg?1561757981">PPC1</set>
             <color></color>
             <manacost></manacost>
             <cmc>0</cmc>
