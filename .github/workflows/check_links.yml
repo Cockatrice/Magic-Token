@@ -15,13 +15,17 @@ jobs:
 
     name: Check image links
     runs-on: ubuntu-latest
+    env:
+      lychee_args: '--no-progress --require-https --cache --max-cache-age 1h --exclude http://www.w3.org'
 
     steps:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Set up lychee cache
-        uses: actions/cache@v3
+      # Restore cache
+      - name: Restore lychee cache
+        id: restore-cache
+        uses: actions/cache/restore@v3
         with:
           path: .lycheecache
           key: cache-lychee-${{ github.sha }}
@@ -55,19 +59,30 @@ jobs:
           awk -F/ '{print $3}' /tmp/lychee/out.md | grep . | sort | uniq -c | sort -nr
 
       # Check already extracted URLs from tokens.xml
-      - name: Check URLs from tokens.xml
-        uses: lycheeverse/lychee-action@v1
-        if: steps.tokens_pic_urls.outcome == 'success'
-        with:
-          args: '--no-progress --require-https --cache --max-cache-age 1h -- /tmp/lychee/out.md'
-          fail: true
-          jobSummary: true
+      #- name: Check URLs from tokens.xml
+      #  uses: lycheeverse/lychee-action@v1
+      #  if: steps.tokens_pic_urls.outcome == 'success'
+      #  with:
+      #    args: '--no-progress --require-https --cache --max-cache-age 1h -- /tmp/lychee/out.md'
+      #    fail: true
+      #    jobSummary: true
 
       # Extract and check URLs directly from challenge_tokens.xml
       - name: Check URLs from challenge_tokens.xml
         uses: lycheeverse/lychee-action@v1
-        if: always()
+
+      # Extract and check URLs directly from token files
+      - name: Check token art URLs
+        uses: lycheeverse/lychee-action@v1
         with:
-          args: '--no-progress --require-https --cache --max-cache-age 1h -- challenge_tokens.xml'
+          args: '${{env.lychee_args}} -- tokens.xml challenge_tokens.xml'
           fail: true
           jobSummary: true
+
+      # Always save cache
+      - name: Save lychee cache
+        uses: actions/cache/save@v3
+        if: always()
+        with:
+            path: .lycheecache
+            key: ${{ steps.restore-cache.outputs.cache-primary-key }}
