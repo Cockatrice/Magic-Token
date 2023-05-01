@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cockatrice_carddatabase version="3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v3/cards.xsd">
+<cockatrice_carddatabase version="4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd">
     <sets>
         <set>
             <name>FTH</name>
@@ -47,697 +47,831 @@
     <cards>
         <card>
             <name>Strike the Weak Spot</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/0/40ffc5ec-67da-4af7-ae3a-e33fea136eac.jpg?1562639764">FTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Sorcery</type>
-            <tablerow>3</tablerow>
             <text>Destroy target Head. If that Head was elite, the Hydra take an extra turn after this one.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Sorcery</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/0/40ffc5ec-67da-4af7-ae3a-e33fea136eac.jpg?1562639764">FTH</set>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>Mogis's Chosen</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/5/553ae9d2-3807-4ca8-a575-7fa6667ee212.jpg?1562639810">BTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Creature — Minotaur</type>
-            <pt>5/4</pt>
-            <tablerow>2</tablerow>
             <text>Mogis's Chosen enters the battlefield tapped. Mogis's Chosen attacks each turn if able.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Creature — Minotaur</type>
+                <pt>5/4</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/5/553ae9d2-3807-4ca8-a575-7fa6667ee212.jpg?1562639810">BTH</set>
+            <tablerow>2</tablerow>
         </card>
         <card>
             <name>Rip to Pieces</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/3/33307f9a-9c09-402a-9c76-a0a76b3a9a6a.jpg?1562639740">DAG</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Sorcery</type>
-            <tablerow>3</tablerow>
             <text>At the beginning of combat this turn, each Reveler deals 1 damage to each player and each creature those players control.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Sorcery</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/3/33307f9a-9c09-402a-9c76-a0a76b3a9a6a.jpg?1562639740">DAG</set>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>Descend on the Prey</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/5/95e0a522-2395-438a-83bc-ea092e4286c3.jpg?1562639935">BTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Sorcery</type>
-            <tablerow>3</tablerow>
             <text>Whenever a Minotaur attacks this turn, it gains first strike until end of turn and must be blocked this turn if able.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Sorcery</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/5/95e0a522-2395-438a-83bc-ea092e4286c3.jpg?1562639935">BTH</set>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>The Vanquisher</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/8/08a63083-997b-4a72-af48-cd35e6e9599d.jpg?1561756617">HP2</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Hero</type>
-            <tablerow>1</tablerow>
             <text>Your starting hand size is increased by one. Your maximum hand size is increased by one.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Hero</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/8/08a63083-997b-4a72-af48-cd35e6e9599d.jpg?1561756617">HP2</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>The General</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/8/68a4653a-5063-4fa9-8cbe-21d3ddebe3df.jpg?1561757335">HP2</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Hero</type>
-            <tablerow>1</tablerow>
             <text>Exile The General: Creature you control get +1/+1 until end of turn. Untap them.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Hero</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/8/68a4653a-5063-4fa9-8cbe-21d3ddebe3df.jpg?1561757335">HP2</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Minotaur Younghorn</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/c/2c8e22f9-6b70-425c-a0a8-09b6101a286e.jpg?1562639728">BTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Creature — Minotaur</type>
-            <pt>2/2</pt>
-            <tablerow>2</tablerow>
             <text>Haste, Minotaur Younghorn attacks each turn if able.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Creature — Minotaur</type>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/c/2c8e22f9-6b70-425c-a0a8-09b6101a286e.jpg?1562639728">BTH</set>
+            <tablerow>2</tablerow>
         </card>
         <card>
             <name>Dance of Flame</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/c/3c85c8c7-e415-411d-b1b3-edc45c0e3fb0.jpg?1562639756">DAG</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Enchantment</type>
-            <tablerow>1</tablerow>
             <text>Whenever a Reveler attacks, Dance of Flame deals 1 damage to each player.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Enchantment</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/c/3c85c8c7-e415-411d-b1b3-edc45c0e3fb0.jpg?1562639756">DAG</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>The Provider</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/9/d9987b43-7f20-46ce-b7dd-f3126e5bc991.jpg?1561758193">HP2</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Hero</type>
-            <tablerow>1</tablerow>
             <text>Exile The Provider: Put two +1/+1 counters on target creature you control. You gain life equal to that creature's toughness.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Hero</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/9/d9987b43-7f20-46ce-b7dd-f3126e5bc991.jpg?1561758193">HP2</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Refreshing Elixir</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/1/b1d75296-e2a5-48f3-a98d-3633be9f6138.jpg?1562639987">BTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Artifact</type>
-            <tablerow>1</tablerow>
             <text>At the beginning of the Horde's precombat main phase, reveal an additional card from the top of the Horde's library. The Horde casts that card.
 Hero's Reward — When Refreshing Elixir is put into a graveyard from anywhere, each player gains 5 life.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Artifact</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/1/b1d75296-e2a5-48f3-a98d-3633be9f6138.jpg?1562639987">BTH</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Rollicking Throng</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/d/8da84d4f-5526-401f-9762-4fcfbc313c81.jpg?1562639918">DAG</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Creature — Human Reveler</type>
-            <pt>1/3</pt>
-            <tablerow>2</tablerow>
             <text>When Rollicking Throng enters the battlefield, reveal the top card of Xenagos's library and Xenagos casts that card. (This ability doesn't trigger as the game begins.)</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Creature — Human Reveler</type>
+                <pt>1/3</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/d/8da84d4f-5526-401f-9762-4fcfbc313c81.jpg?1562639918">DAG</set>
+            <tablerow>2</tablerow>
         </card>
         <card>
             <name>Impulsive Destruction</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/2/8262a9f7-010a-4fc0-bcb6-86b2b1253000.jpg?1562639891">DAG</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Sorcery</type>
-            <tablerow>3</tablerow>
             <text>Each player may sacrifice an artifact or enchantment. Impulsive Destruction deals 3 damage to each player who didn't sacrifice a permanent this way.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Sorcery</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/2/8262a9f7-010a-4fc0-bcb6-86b2b1253000.jpg?1562639891">DAG</set>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>Unquenchable Fury </name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/4/d4d98fc6-da00-4d65-9469-9d2c5b111f2e.jpg?1644254317">BTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Sorcery</type>
-            <tablerow>3</tablerow>
             <text>Each Minotaur can't be blocked this turn except by two or more creatures.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Sorcery</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/4/d4d98fc6-da00-4d65-9469-9d2c5b111f2e.jpg?1644254317">BTH</set>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>Maddened Oread</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/7/076ad38c-30ec-41a4-be18-c287f65d1d86.jpg?1562639657">DAG</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Enchantment Creature — Nymph Reveler</type>
-            <pt>4/2</pt>
-            <tablerow>2</tablerow>
             <text>As long as five or more Revelers are on the battlefield, Maddened Oread attacks each turn if able. Hero's Reward - When Maddened Oread leaves the battlefield, each player gains 3 life.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Enchantment Creature — Nymph Reveler</type>
+                <pt>4/2</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/7/076ad38c-30ec-41a4-be18-c287f65d1d86.jpg?1562639657">DAG</set>
+            <tablerow>2</tablerow>
         </card>
         <card>
             <name>Xenagos's Scorn</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/1/d1b30dc4-9d7c-4098-87a6-f7434030a427.jpg?1562640060">DAG</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Sorcery</type>
-            <tablerow>3</tablerow>
             <text>Xenagos Ascended gains trample until end of turn and attacks this turn if able.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Sorcery</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/1/d1b30dc4-9d7c-4098-87a6-f7434030a427.jpg?1562640060">DAG</set>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>Shrieking Titan Head</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/4/44ef6754-b611-4e52-a04b-dc2c794d2cb8.jpg?1562639773">FTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Elite Creature — Head</type>
-            <pt>0/8</pt>
-            <tablerow>2</tablerow>
             <text>At the beginning of the Hydra's end step, each player discards a card.
 Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gains 4 life and draws a card.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Elite Creature — Head</type>
+                <pt>0/8</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/4/44ef6754-b611-4e52-a04b-dc2c794d2cb8.jpg?1562639773">FTH</set>
+            <tablerow>2</tablerow>
         </card>
         <card>
             <name>Xenagos's Strike</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/b/6b5fef7d-b8bb-43e2-a36b-d4cc98c3ef13.jpg?1562639842">DAG</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Sorcery</type>
-            <tablerow>3</tablerow>
             <text>Xenagos's Strike deals 4 damage to each player.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Sorcery</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/b/6b5fef7d-b8bb-43e2-a36b-d4cc98c3ef13.jpg?1562639842">DAG</set>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>Snapping Fang Head</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/1/11decc7a-58e7-43f3-acc5-9ec94cce858d.jpg?1562639681">FTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Elite Creature — Head</type>
-            <pt>0/8</pt>
-            <tablerow>2</tablerow>
             <text>At the beginning of the Hydra's end step, Snapping Fang Head deals 1 damage to each player.
 Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gains 4 life and draws a card.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Elite Creature — Head</type>
+                <pt>0/8</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/1/11decc7a-58e7-43f3-acc5-9ec94cce858d.jpg?1562639681">FTH</set>
+            <tablerow>2</tablerow>
         </card>
         <card>
             <name>Massacre Totem</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/6/a6e352e9-20ac-485b-bcaf-1d053c4ecb40.jpg?1562639963">BTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Artifact</type>
-            <tablerow>1</tablerow>
             <text>At the beginning of the Horde's precombat main phase, reveal an additional card from the top of the Horde's library. The Horde casts that card. Hero's Reward — When Altar of Mogis is put into a graveyard from anywhere, the Horde sacrifies two Minotaurs.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Artifact</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/6/a6e352e9-20ac-485b-bcaf-1d053c4ecb40.jpg?1562639963">BTH</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Spear of the General</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/d/8d10db7e-e680-496a-8845-3bdfb176a989.jpg?1561757549">HP3</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Hero Artifact — Equipment</type>
-            <tablerow>1</tablerow>
             <text>Equipped creature gets +2/+0 and has first strike. Equip {2}</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Hero Artifact — Equipment</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/d/8d10db7e-e680-496a-8845-3bdfb176a989.jpg?1561757549">HP3</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Minotaur Goreseeker</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/d/3d2f2bcc-0db9-4aa1-b63d-587c62468015.jpg?1562639757">BTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Creature — Minotaur</type>
-            <pt>3/2</pt>
-            <tablerow>2</tablerow>
             <text>Haste, Minotaur Goreseeker attacks each turn if able.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Creature — Minotaur</type>
+                <pt>3/2</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/d/3d2f2bcc-0db9-4aa1-b63d-587c62468015.jpg?1562639757">BTH</set>
+            <tablerow>2</tablerow>
         </card>
         <card>
             <name>Swallow the Hero Whole</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/b/9b1871c1-59e5-4c2f-8e05-944d6cbabf99.jpg?1562639944">FTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Sorcery</type>
-            <tablerow>1</tablerow>
             <text>Each player exiles a creature he or she controls. Until the Hydra's next turn, when a Head leaves the battlefield, return the exiled cards to the battlefield under their owners' control.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Sorcery</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/b/9b1871c1-59e5-4c2f-8e05-944d6cbabf99.jpg?1562639944">FTH</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>The Philosopher</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/f/efbffd56-92a1-4b17-8d53-e9f28b1872e1.jpg?1561758389">HP1</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Hero</type>
-            <tablerow>1</tablerow>
             <text>{2}, {T}: Tap target creature.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Hero</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/f/efbffd56-92a1-4b17-8d53-e9f28b1872e1.jpg?1561758389">HP1</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Disorienting Glower</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/b/7b0f9139-6366-4334-b532-1385336f5a04.jpg?1562639874">FTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Sorcery</type>
-            <tablerow>3</tablerow>
             <text>Player's can't cast spells until the Hydra's next turn.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Sorcery</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/b/7b0f9139-6366-4334-b532-1385336f5a04.jpg?1562639874">FTH</set>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>The Destined</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/0/80c9f81c-a6d7-4ffd-b2c8-01ef025b272f.jpg?1561757472">HP3</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Hero</type>
-            <tablerow>1</tablerow>
             <text>Spells you cast that target a creature you control cost {2} less to cast</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Hero</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/0/80c9f81c-a6d7-4ffd-b2c8-01ef025b272f.jpg?1561757472">HP3</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Altar of Mogis</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/6/f6882d51-1db2-4b08-8873-cb6f2d96b260.jpg?1562640138">BTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Artifact</type>
-            <tablerow>1</tablerow>
             <text>At the beginning of the Horde's precombat main phase, reveal an additional card from the top of the Horde's library. The Horde casts that card. Hero's Reward — When Massacre Totem is put into a graveyard from anywhere, put the top seven cards of the Horde's library into its graveyard.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Artifact</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/6/f6882d51-1db2-4b08-8873-cb6f2d96b260.jpg?1562640138">BTH</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>The Warrior</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/d/dd60768a-c47f-4af5-bb33-c17777c7dd66.jpg?1561758221">HP1</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Hero</type>
-            <tablerow>1</tablerow>
             <text>{T}: Target creature you control gains haste until end of turn.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Hero</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/d/dd60768a-c47f-4af5-bb33-c17777c7dd66.jpg?1561758221">HP1</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Touch of the Horned God</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/5/c58bacd4-e84b-4c73-802f-5f65e5c94a46.jpg?1562640033">BTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Sorcery</type>
-            <tablerow>3</tablerow>
             <text>Whenever a Minotaur attacks this turn, it gains deathtouch until end of turn.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Sorcery</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/5/c58bacd4-e84b-4c73-802f-5f65e5c94a46.jpg?1562640033">BTH</set>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>Ravenous Brute Head</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/7/a76d49f7-2860-4972-ab97-1e798ea017d1.jpg?1562639969">FTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Elite Creature — Head</type>
-            <pt>0/6</pt>
-            <tablerow>2</tablerow>
             <text>Hero's Reward — When Ravenous Brute Head leaves the battlefield, each player gains 2 life and draws a card.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Elite Creature — Head</type>
+                <pt>0/6</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/7/a76d49f7-2860-4972-ab97-1e798ea017d1.jpg?1562639969">FTH</set>
+            <tablerow>2</tablerow>
         </card>
         <card>
             <name>The Savant</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/1/51726f8f-b63d-4e93-82b2-d63d361a3b70.jpg?1561757135">HP2</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Hero</type>
-            <tablerow>1</tablerow>
             <text>Exile The Savant: Tap all creatures your opponent control. Those creatures don't untap during their controllers' next untap steps.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Hero</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/1/51726f8f-b63d-4e93-82b2-d63d361a3b70.jpg?1561757135">HP2</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Dance of Panic</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/c/6ce2817d-bb90-4cc0-beca-9f8af865c7a2.jpg?1562639845">DAG</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Enchantment</type>
-            <tablerow>1</tablerow>
             <text>As long as five or more Revelers are on the battlefield, all Revelers have haste and attack each turn if able.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Enchantment</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/c/6ce2817d-bb90-4cc0-beca-9f8af865c7a2.jpg?1562639845">DAG</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Savage Vigor Head</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/b/4b90bd09-d6aa-4201-a7fe-78accbcfc4e8.jpg?1562639790">FTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Elite Creature — Head</type>
-            <pt>0/8</pt>
-            <tablerow>2</tablerow>
             <text>At the beginning of the Hydra's end step, reveal the top card of the Hydra's library and the Hydra casts that card. Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gains 4 life and draws a card.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Elite Creature — Head</type>
+                <pt>0/8</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/b/4b90bd09-d6aa-4201-a7fe-78accbcfc4e8.jpg?1562639790">FTH</set>
+            <tablerow>2</tablerow>
         </card>
         <card>
             <name>Intervention of Keranos</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/6/661e8959-4c63-439b-8cbf-837f84ad3e57.jpg?1562639836">BTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Sorcery</type>
-            <tablerow>3</tablerow>
             <text>At the beginning of combat this turn, Intervention of Keranos deals 3 damage to each creature.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Sorcery</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/6/661e8959-4c63-439b-8cbf-837f84ad3e57.jpg?1562639836">BTH</set>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>Distract the Hydra</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/6/263da86e-6e10-40fb-bbf0-5a577c63fc0a.jpg?1562639719">FTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Sorcery</type>
-            <tablerow>3</tablerow>
             <text>Each player may sacrifice a creature. Each player who sacrificed a creature this way chooses a Head and taps it. Each player who didn't sacrifice a creature loses 3 life.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Sorcery</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/6/263da86e-6e10-40fb-bbf0-5a577c63fc0a.jpg?1562639719">FTH</set>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>The Slayer</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/a/5a12f3e3-5708-4d14-a1ed-600232002266.jpg?1561757199">HP1</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Hero</type>
-            <tablerow>1</tablerow>
             <text>You start the game with an additional 7 life.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Hero</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/a/5a12f3e3-5708-4d14-a1ed-600232002266.jpg?1561757199">HP1</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Impulsive Return</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/5/b52d516f-d425-49f1-99cc-17f743aa41b2.jpg?1562639997">DAG</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Sorcery</type>
-            <tablerow>3</tablerow>
             <text>Return two cards named Ecstatic Piper from Xenagos's graveyard to the battlefield. At the beginning of combat this turn, Impulsive Return deals damage to each player equal to the number of Revelers on the battlefield.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Sorcery</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/5/b52d516f-d425-49f1-99cc-17f743aa41b2.jpg?1562639997">DAG</set>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>Phoberos Reaver</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/e/1eda2434-523d-4e9c-a8f1-acbee5c87aac.jpg?1562639708">BTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Creature — Minotaur</type>
-            <pt>2/3</pt>
-            <tablerow>0</tablerow>
             <text>Haste, Phoberos Reaver attacks each turn if able.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Creature — Minotaur</type>
+                <pt>2/3</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/e/1eda2434-523d-4e9c-a8f1-acbee5c87aac.jpg?1562639708">BTH</set>
+            <tablerow>0</tablerow>
         </card>
         <card>
             <name>Bow of the Hunter</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/4/249f009a-07da-41e6-909c-64e17208ed2e.jpg?1561756793">HP3</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Hero Artifact — Equipment</type>
-            <tablerow>1</tablerow>
             <text>Equipped creature has &quot;{T}: This creature deals 2 damage to target creature of player.&quot; Equip {2}</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Hero Artifact — Equipment</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/4/249f009a-07da-41e6-909c-64e17208ed2e.jpg?1561756793">HP3</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Torn Between Heads</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/f/0fe46ef0-86f6-42f7-b78e-a148d7f00456.jpg?1562639675">FTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Sorcery</type>
-            <tablerow>3</tablerow>
             <text>Tap up to two Heads. They don't untap during the Hydra's next untap step. Torn Between Heads deals 5 damage to each player.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Sorcery</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/f/0fe46ef0-86f6-42f7-b78e-a148d7f00456.jpg?1562639675">FTH</set>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>Noxious Hydra Breath</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/1/21533aec-7c28-4d20-9cc8-96b962d445bf.jpg?1562639710">FTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Sorcery</type>
-            <tablerow>3</tablerow>
             <text>Choose one — Noxious Hydra Breath deals 5 damage to each player; or destroy each tapped non-Head creature.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Sorcery</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/1/21533aec-7c28-4d20-9cc8-96b962d445bf.jpg?1562639710">FTH</set>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>Vitality Salve</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/e/6ede8ada-95c6-426b-83f6-17f25afc3c21.jpg?1562639851">BTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Artifact</type>
-            <tablerow>1</tablerow>
             <text>At the beginning of the Horde's precombat main phase, reveal an additional card from the top of the Horde's library. The Horde casts that card. Hero's Reward — When Vitality Salve is put into a graveyard from anywhere, each player returns a creature card from his or her graveyard to the battlefield.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Artifact</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/e/6ede8ada-95c6-426b-83f6-17f25afc3c21.jpg?1562639851">BTH</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Lash of the Tyrant</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/6/26326918-56f7-4dd1-90cc-3e3230672637.jpg?1561756804">HP3</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Hero Artifact — Equipment</type>
-            <tablerow>1</tablerow>
             <text>Equipped creature gets +1/+2 and has deathtouch. Equip {2}</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Hero Artifact — Equipment</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/6/26326918-56f7-4dd1-90cc-3e3230672637.jpg?1561756804">HP3</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Reckless Minotaur</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/3/938272b2-8e1c-4196-8557-c597735dd96e.jpg?1562639929">BTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Creature — Minotaur</type>
-            <pt>4/1</pt>
-            <tablerow>2</tablerow>
             <text>Haste, Reckless Minotaur attacks each turn if able. At the beginning of the end step, destroy Reckless Minotaur.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Creature — Minotaur</type>
+                <pt>4/1</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/3/938272b2-8e1c-4196-8557-c597735dd96e.jpg?1562639929">BTH</set>
+            <tablerow>2</tablerow>
         </card>
         <card>
             <name>Hydra's Impenetrable Hide</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/f/6f85efed-56e7-488f-ac82-8829ad8b64ad.jpg?1562639853">FTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Sorcery</type>
-            <tablerow>3</tablerow>
             <text>Each Head gains indestructible until the end of the Hydra's next turn.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Sorcery</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/f/6f85efed-56e7-488f-ac82-8829ad8b64ad.jpg?1562639853">FTH</set>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>Axe of the Warmonger</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/6/e6ba72d5-b57e-4c79-a868-e114c07288c9.jpg?1561758338">HP3</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Hero Artifact — Equipment</type>
-            <tablerow>1</tablerow>
             <text>Equipped creature gets +2/+1 and has haste. Equip {2}</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Hero Artifact — Equipment</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/6/e6ba72d5-b57e-4c79-a868-e114c07288c9.jpg?1561758338">HP3</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>The Harvester</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/c/6c17db56-68ee-44c5-82c5-9ed9f03c5899.jpg?1561757365">HP1</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Hero</type>
-            <tablerow>1</tablerow>
             <text>{T}: Draw a card, then discard a card.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Hero</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/c/6c17db56-68ee-44c5-82c5-9ed9f03c5899.jpg?1561757365">HP1</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Hydra Head</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/7/27d772a9-7542-4ffe-9cd4-e144d129f342.jpg?1562639721">FTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Creature — Head</type>
-            <pt>0/3</pt>
-            <tablerow>2</tablerow>
             <text>Hero's Reward — When Hydra Head leaves the battlefield, each player gains 2 life.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Creature — Head</type>
+                <pt>0/3</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/7/27d772a9-7542-4ffe-9cd4-e144d129f342.jpg?1562639721">FTH</set>
+            <tablerow>2</tablerow>
         </card>
         <card>
             <name>The Explorer</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/9/1936aa23-3a5d-4386-bc4d-66841e0cab2c.jpg?1561756731">HP2</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Hero</type>
-            <tablerow>1</tablerow>
             <text>You may play an additional land on each of your turns.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Hero</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/9/1936aa23-3a5d-4386-bc4d-66841e0cab2c.jpg?1561756731">HP2</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Grown from the Stump</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/2/e24e319f-494e-4ea8-8435-1207d18cc86b.jpg?1562640098">FTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Sorcery</type>
-            <tablerow>3</tablerow>
             <text>Put exactly two cards named Hydra Head onto the battlefield from the Hydra's graveyard. If you can't, reveal cards from the top of the Hydra's library until you reveal a Head card. Put that card onto the battlefield and the rest into the Hydra's graveyard.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Sorcery</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/2/e24e319f-494e-4ea8-8435-1207d18cc86b.jpg?1562640098">FTH</set>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>The Warmonger</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/0/f02b5e79-5eea-4cbe-b087-241cf27f0580.jpg?1561758391">HP2</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Hero</type>
-            <tablerow>1</tablerow>
             <text>Exile The Warmonger: Creature you control get +2/+0 and gain haste until end of turn.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Hero</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/0/f02b5e79-5eea-4cbe-b087-241cf27f0580.jpg?1561758391">HP2</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Unified Lunge</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/b/bbb3bcaf-73f4-4f41-a0dc-0a3d710ad507.jpg?1562640012">FTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Sorcery</type>
-            <tablerow>3</tablerow>
             <text>Unified Lunge deals X damage to each player, where X is the number of Heads on the battlefield.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Sorcery</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/b/bbb3bcaf-73f4-4f41-a0dc-0a3d710ad507.jpg?1562640012">FTH</set>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>The Tyrant</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/e/be5044ab-5f7d-4109-8574-42306ca86b4c.jpg?1561757961">HP2</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Hero</type>
-            <tablerow>0</tablerow>
             <text>Exile The Tyrant: Creature your opponents control get -1/-1 until end of turn.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Hero</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/e/be5044ab-5f7d-4109-8574-42306ca86b4c.jpg?1561757961">HP2</set>
+            <tablerow>0</tablerow>
         </card>
         <card>
             <name>The Champion</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/a/9a6eba2c-a980-4a2b-b103-bd91bc5889d2.jpg?1561757656">HP3</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Hero</type>
-            <tablerow>1</tablerow>
             <text>{2}, {T}, Exile The Champion: Search your library for a legendary artifact card that isn't a creature, reveal it, and put it onto the battlefield. Then shuffle your library.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Hero</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/a/9a6eba2c-a980-4a2b-b103-bd91bc5889d2.jpg?1561757656">HP3</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Plundered Statue</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/e/8eea07ed-a321-4403-b3a9-ce5e69a175fd.jpg?1562639920">BTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Artifact</type>
-            <tablerow>1</tablerow>
             <text>At the beginning of the Horde's precombat main phase, reveal an additional card from the top of the Horde's library. The Horde casts that card. Hero's Reward — When Plundered Statue is put into a graveyard from anywhere, each player draws a card.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Artifact</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/e/8eea07ed-a321-4403-b3a9-ce5e69a175fd.jpg?1562639920">BTH</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>The Protector</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/a/ca66cd86-1574-4e6e-94de-a19d8d26836f.jpg?1561758086">HP1</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Hero</type>
-            <tablerow>1</tablerow>
             <text>{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Hero</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/a/ca66cd86-1574-4e6e-94de-a19d8d26836f.jpg?1561758086">HP1</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Impulsive Charge</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/e/6eaba998-11dc-4a0c-a755-4332f22e6dfc.jpg?1562639850">DAG</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Sorcery</type>
-            <tablerow>3</tablerow>
             <text>At the beginning of combat this turn, all Revelers gain haste until end of turn and attack this combat if able.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Sorcery</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/e/6eaba998-11dc-4a0c-a755-4332f22e6dfc.jpg?1562639850">DAG</set>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>Pheres-Band Revelers</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/e/ae0182f2-31c0-4927-9ca5-0b3f4d342409.jpg?1562639976">DAG</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Creature — Centaur Reveler</type>
-            <pt>4/4</pt>
-            <tablerow>2</tablerow>
             <text>Hero's Reward - When Pheres-Band Revelers leaves the battlefield, each player draws a card.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Creature — Centaur Reveler</type>
+                <pt>4/4</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/e/ae0182f2-31c0-4927-9ca5-0b3f4d342409.jpg?1562639976">DAG</set>
+            <tablerow>2</tablerow>
         </card>
         <card>
             <name>The Hunter</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/e/4ef068ff-934c-4e4d-a4ae-e44f194b8dca.jpg?1561757110">HP1</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Hero</type>
-            <tablerow>1</tablerow>
             <text>{T}: Target creature you control gets +1/+1 until end of turn.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Hero</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/e/4ef068ff-934c-4e4d-a4ae-e44f194b8dca.jpg?1561757110">HP1</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Ecstatic Piper</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/f/8f960d71-b55d-4730-9b3f-49e9afd2809c.jpg?1562639923">DAG</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Creature — Satyr Reveler</type>
-            <pt>2/2</pt>
-            <tablerow>2</tablerow>
             <text>When Ecstatic Piper enters the battlefield, Xenagos Ascended attacks this turn if able Hero's Reward - When Ecstatic Piper leaves the battlefield, each player gains 2 life.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Creature — Satyr Reveler</type>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/f/8f960d71-b55d-4730-9b3f-49e9afd2809c.jpg?1562639923">DAG</set>
+            <tablerow>2</tablerow>
         </card>
         <card>
             <name>Consuming Rage</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/e/7e5d19fa-0f12-41cb-90a8-c027edbc893b.jpg?1562639885">BTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Sorcery</type>
-            <tablerow>3</tablerow>
             <text>Whenever a Minotaur attacks this turn, it gets +2/+0 until end of turn. Destroy that creature at end of combat.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Sorcery</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/e/7e5d19fa-0f12-41cb-90a8-c027edbc893b.jpg?1562639885">BTH</set>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>Xenagos Ascended</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/e/fe9dd9f0-3071-4bbd-80d2-e35b153006d7.jpg?1562640158">DAG</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Legendary Enchantment Creature — God</type>
-            <pt>6/5</pt>
-            <tablerow>2</tablerow>
             <text>Xenagos Ascended can't leave the battlefield as long as a Reveler is on the battlefield. When Xenagos Ascended leaves the battlefield, each player wins the game.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Legendary Enchantment Creature — God</type>
+                <pt>6/5</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/e/fe9dd9f0-3071-4bbd-80d2-e35b153006d7.jpg?1562640158">DAG</set>
+            <tablerow>2</tablerow>
         </card>
         <card>
             <name>Wild Maenads</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/b/7b8ec95a-e728-446b-8c4a-a3571e6aa458.jpg?1562639876">DAG</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Creature — Human Reveler</type>
-            <pt>3/1</pt>
-            <tablerow>2</tablerow>
             <text>First strike, Hero's Reward - When Wild Maenads leaves the battlefield, each player gains 3 life.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Creature — Human Reveler</type>
+                <pt>3/1</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/b/7b8ec95a-e728-446b-8c4a-a3571e6aa458.jpg?1562639876">DAG</set>
+            <tablerow>2</tablerow>
         </card>
         <card>
             <name>Serpent Dancers</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/4/f4210dae-7248-4a7b-9646-99683c0dce17.jpg?1562640131">DAG</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Creature — Human Reveler</type>
-            <pt>2/4</pt>
-            <tablerow>2</tablerow>
             <text>Deathtouch, Hero's Reward - When Serpent Dancers leaves the battlefield, each player draws a card.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Creature — Human Reveler</type>
+                <pt>2/4</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/4/f4210dae-7248-4a7b-9646-99683c0dce17.jpg?1562640131">DAG</set>
+            <tablerow>2</tablerow>
         </card>
         <card>
             <name>Neck Tangle</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/1/b1f3cf6e-e681-461f-8754-b3e464b150d9.jpg?1562639988">FTH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Sorcery</type>
-            <tablerow>3</tablerow>
             <text>If there are five or more Heads on the battlefield, tap two of them and they don't untap during the Hydra's next untap step. Otherwise, reveal the top card of the Hydra's library and the Hydra casts that card.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Sorcery</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/1/b1f3cf6e-e681-461f-8754-b3e464b150d9.jpg?1562639988">FTH</set>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>The Avenger</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/0/d0f83818-2c47-435c-ade3-302e4eabc2bf.jpg?1561758124">HP1</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Hero</type>
-            <tablerow>1</tablerow>
             <text>{3}, {T}: Target creature you control gains deathtouch until end of turn.</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Hero</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/0/d0f83818-2c47-435c-ade3-302e4eabc2bf.jpg?1561758124">HP1</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Cloak of the Philosopher</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/b/cb470a9e-ec5c-42f4-a128-9a813d883f14.jpg?1561758089">HP3</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Hero Artifact — Equipment</type>
-            <tablerow>1</tablerow>
             <text>Equipped creature gets +1/+1. {2}: Untap equipped creature. Equip {2}</text>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Hero Artifact — Equipment</type>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/b/cb470a9e-ec5c-42f4-a128-9a813d883f14.jpg?1561758089">HP3</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Garruk the Slayer</name>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/1/c18e2175-ec42-47f2-a40f-426ccaa1e89e.jpg?1561757981">PPC1</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>0</cmc>
-            <type>Planeswalker - Garruk</type>
-            <tablerow>2</tablerow>
             <text>0: Put a 2/2 green Wolf creature token onto the battlefield.
 +4: Target Wolf creature gets +1/+0 and gains deathtouch until end of turn.
 -10: Destroy target creature. Put loyalty counters on Garruk the Slayer equal to that creature's toughness.
 -25: Destroy all creatures Garruk the Slayer doesn't control.</text>
-            <loyalty>20</loyalty>
+            <prop>
+                <color></color>
+                <manacost></manacost>
+                <cmc>0</cmc>
+                <type>Planeswalker - Garruk</type>
+                <loyalty>20</loyalty>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/1/c18e2175-ec42-47f2-a40f-426ccaa1e89e.jpg?1561757981">PPC1</set>
+            <tablerow>2</tablerow>
         </card>
     </cards>
 </cockatrice_carddatabase>
