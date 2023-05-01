@@ -1,8 +1,16 @@
 name: Picture Health
 
 on:
+  push:
+    branches: [ master ]
+    paths:
+      - '.github/workflows/check_links.yml'
+      - '**.xml'
   pull_request:
-    # Default events are opened, synchronized or reopened
+    branches: [ master ]
+    paths:
+      - '.github/workflows/check_links.yml'
+      - '**.xml'
   workflow_dispatch:
   schedule:
     # Runs at the start of each month (UTC)
