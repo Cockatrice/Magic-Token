@@ -13421,5 +13421,194 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
+        <card>
+            <name>Mogis's Chosen</name>
+            <text>Mogis's Chosen enters the battlefield tapped. Mogis's Chosen attacks each turn if able.</text>
+            <prop>
+                <cmc>0</cmc>
+                <type>Creature — Minotaur</type>
+                <pt>5/4</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/5/553ae9d2-3807-4ca8-a575-7fa6667ee212.jpg?1562639810">TBTH</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Minotaur Younghorn</name>
+            <text>Haste, Minotaur Younghorn attacks each turn if able.</text>
+            <prop>
+                <cmc>0</cmc>
+                <type>Creature — Minotaur</type>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/c/2c8e22f9-6b70-425c-a0a8-09b6101a286e.jpg?1562639728">TBTH</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Rollicking Throng</name>
+            <text>When Rollicking Throng enters the battlefield, reveal the top card of Xenagos's library and Xenagos casts that card. (This ability doesn't trigger as the game begins.)</text>
+            <prop>
+                <cmc>0</cmc>
+                <type>Creature — Human Reveler</type>
+                <pt>1/3</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/d/8da84d4f-5526-401f-9762-4fcfbc313c81.jpg?1562639918">TDAG</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Maddened Oread</name>
+            <text>As long as five or more Revelers are on the battlefield, Maddened Oread attacks each turn if able. Hero's Reward - When Maddened Oread leaves the battlefield, each player gains 3 life.</text>
+            <prop>
+                <cmc>0</cmc>
+                <type>Enchantment Creature — Nymph Reveler</type>
+                <pt>4/2</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/7/076ad38c-30ec-41a4-be18-c287f65d1d86.jpg?1562639657">TDAG</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Shrieking Titan Head</name>
+            <text>At the beginning of the Hydra's end step, each player discards a card.
+Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gains 4 life and draws a card.</text>
+            <prop>
+                <cmc>0</cmc>
+                <type>Elite Creature — Head</type>
+                <pt>0/8</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/4/44ef6754-b611-4e52-a04b-dc2c794d2cb8.jpg?1562639773">TFTH</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Snapping Fang Head</name>
+            <text>At the beginning of the Hydra's end step, Snapping Fang Head deals 1 damage to each player.
+Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gains 4 life and draws a card.</text>
+            <prop>
+                <cmc>0</cmc>
+                <type>Elite Creature — Head</type>
+                <pt>0/8</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/1/11decc7a-58e7-43f3-acc5-9ec94cce858d.jpg?1562639681">TFTH</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Minotaur Goreseeker</name>
+            <text>Haste, Minotaur Goreseeker attacks each turn if able.</text>
+            <prop>
+                <cmc>0</cmc>
+                <type>Creature — Minotaur</type>
+                <pt>3/2</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/d/3d2f2bcc-0db9-4aa1-b63d-587c62468015.jpg?1562639757">TBTH</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Ravenous Brute Head</name>
+            <text>Hero's Reward — When Ravenous Brute Head leaves the battlefield, each player gains 2 life and draws a card.</text>
+            <prop>
+                <cmc>0</cmc>
+                <type>Elite Creature — Head</type>
+                <pt>0/6</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/7/a76d49f7-2860-4972-ab97-1e798ea017d1.jpg?1562639969">TFTH</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Savage Vigor Head</name>
+            <text>At the beginning of the Hydra's end step, reveal the top card of the Hydra's library and the Hydra casts that card. Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gains 4 life and draws a card.</text>
+            <prop>
+                <cmc>0</cmc>
+                <type>Elite Creature — Head</type>
+                <pt>0/8</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/b/4b90bd09-d6aa-4201-a7fe-78accbcfc4e8.jpg?1562639790">TFTH</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Phoberos Reaver</name>
+            <text>Haste, Phoberos Reaver attacks each turn if able.</text>
+            <prop>
+                <cmc>0</cmc>
+                <type>Creature — Minotaur</type>
+                <pt>2/3</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/e/1eda2434-523d-4e9c-a8f1-acbee5c87aac.jpg?1562639708">TBTH</set>
+            <tablerow>0</tablerow>
+        </card>
+        <card>
+            <name>Reckless Minotaur</name>
+            <text>Haste, Reckless Minotaur attacks each turn if able. At the beginning of the end step, destroy Reckless Minotaur.</text>
+            <prop>
+                <cmc>0</cmc>
+                <type>Creature — Minotaur</type>
+                <pt>4/1</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/3/938272b2-8e1c-4196-8557-c597735dd96e.jpg?1562639929">TBTH</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Hydra Head</name>
+            <text>Hero's Reward — When Hydra Head leaves the battlefield, each player gains 2 life.</text>
+            <prop>
+                <cmc>0</cmc>
+                <type>Creature — Head</type>
+                <pt>0/3</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/7/27d772a9-7542-4ffe-9cd4-e144d129f342.jpg?1562639721">TFTH</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Pheres-Band Revelers</name>
+            <text>Hero's Reward - When Pheres-Band Revelers leaves the battlefield, each player draws a card.</text>
+            <prop>
+                <cmc>0</cmc>
+                <type>Creature — Centaur Reveler</type>
+                <pt>4/4</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/e/ae0182f2-31c0-4927-9ca5-0b3f4d342409.jpg?1562639976">TDAG</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Ecstatic Piper</name>
+            <text>When Ecstatic Piper enters the battlefield, Xenagos Ascended attacks this turn if able Hero's Reward - When Ecstatic Piper leaves the battlefield, each player gains 2 life.</text>
+            <prop>
+                <cmc>0</cmc>
+                <type>Creature — Satyr Reveler</type>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/f/8f960d71-b55d-4730-9b3f-49e9afd2809c.jpg?1562639923">TDAG</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Xenagos Ascended</name>
+            <text>Xenagos Ascended can't leave the battlefield as long as a Reveler is on the battlefield. When Xenagos Ascended leaves the battlefield, each player wins the game.</text>
+            <prop>
+                <cmc>0</cmc>
+                <type>Legendary Enchantment Creature — God</type>
+                <pt>6/5</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/e/fe9dd9f0-3071-4bbd-80d2-e35b153006d7.jpg?1562640158">TDAG</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Wild Maenads</name>
+            <text>First strike, Hero's Reward - When Wild Maenads leaves the battlefield, each player gains 3 life.</text>
+            <prop>
+                <cmc>0</cmc>
+                <type>Creature — Human Reveler</type>
+                <pt>3/1</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/b/7b8ec95a-e728-446b-8c4a-a3571e6aa458.jpg?1562639876">TDAG</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Serpent Dancers</name>
+            <text>Deathtouch, Hero's Reward - When Serpent Dancers leaves the battlefield, each player draws a card.</text>
+            <prop>
+                <cmc>0</cmc>
+                <type>Creature — Human Reveler</type>
+                <pt>2/4</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/4/f4210dae-7248-4a7b-9646-99683c0dce17.jpg?1562640131">TDAG</set>
+            <tablerow>2</tablerow>
+        </card>
     </cards>
 </cockatrice_carddatabase>
