@@ -4559,7 +4559,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <name>Halfling Token</name>
             <prop>
                 <colors>W</colors>
-                <type>Tolkien Creature — Halfling</type>
+                <type>Token Creature — Halfling</type>
                 <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
