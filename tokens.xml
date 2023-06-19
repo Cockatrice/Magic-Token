@@ -671,11 +671,11 @@ Creature tokens you control have flying and vigilance.</text>
             <reverse-related count="x">Midsummer Revel</reverse-related>
             <reverse-related>Primeval Bounty</reverse-related>
             <reverse-related>Pulse of the Tangle</reverse-related>
+            <reverse-related>Radagast, Wizard of Wilds</reverse-related>
             <reverse-related>Savage Conception</reverse-related>
             <reverse-related>Sawtusk Demolisher</reverse-related>
             <reverse-related>Somberwald Beastmaster</reverse-related>
             <reverse-related>Soul of Zendikar</reverse-related>
-            <reverse-related>Radagast, Wizard of Wilds</reverse-related>
             <reverse-related>Thragtusk</reverse-related>
             <reverse-related>Trumpeting Gnarr</reverse-related>
             <reverse-related>Vivien, Monsters' Advocate</reverse-related>
@@ -3721,8 +3721,8 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
             <reverse-related count="2">Bill the Pony</reverse-related>
             <reverse-related>Brandywine Farmer</reverse-related>
             <reverse-related>Butterbur, Bree Innkeeper</reverse-related>
-            <reverse-related>Concession Stand</reverse-related>
             <reverse-related>Cirith Ungol Patrol</reverse-related>
+            <reverse-related>Concession Stand</reverse-related>
             <reverse-related>Curious Pair // Treats to Share</reverse-related>
             <reverse-related>Eastfarthing Farmer</reverse-related>
             <reverse-related>Elanor Gardner</reverse-related>
@@ -3775,8 +3775,8 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
             <reverse-related>Trail of Crumbs</reverse-related>
             <reverse-related count="2">Treebeard, Gracious Host</reverse-related>
             <reverse-related>Turn into a Pumpkin</reverse-related>
-            <reverse-related count="x=1">Witch's Oven</reverse-related>
             <reverse-related count="x">Voracious Fell Beast</reverse-related>
+            <reverse-related count="x=1">Witch's Oven</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -4869,10 +4869,10 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <pt>2/2</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/4/9/491fc1c3-a46e-4cfd-a749-57f4c96f6aea.jpg?1686265740">LTC</set>
-            <reverse-related count="2">Éowyn, Shieldmaiden</reverse-related>
             <reverse-related count="x">Forth Eorlingas!</reverse-related>
             <reverse-related count="2" exclude="exclude">Oath of Eorl</reverse-related>
             <reverse-related count="2">Riders of Rohan</reverse-related>
+            <reverse-related count="2">Éowyn, Shieldmaiden</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -4932,7 +4932,6 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related>Daysquad Marshal</reverse-related>
             <reverse-related>Denethor, Ruling Steward</reverse-related>
             <reverse-related count="2">Elspeth, Sun's Nemesis</reverse-related>
-            <reverse-related>Éomer of the Riddermark</reverse-related>
             <reverse-related>Faramir, Field Commander</reverse-related>
             <reverse-related count="3">Faramir, Prince of Ithilien</reverse-related>
             <reverse-related count="2">Faramir, Steward of Gondor</reverse-related>
@@ -4960,6 +4959,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related>Trynn, Champion of Freedom</reverse-related>
             <reverse-related>Ulvenwald Mysteries</reverse-related>
             <reverse-related>Valiant Rescuer</reverse-related>
+            <reverse-related>Éomer of the Riddermark</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -6876,15 +6876,15 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related>Fall of Cair Andros</reverse-related>
             <reverse-related>Foray of Orcs</reverse-related>
             <reverse-related>Gothmog, Morgul Lieutenant</reverse-related>
-            <reverse-related>Gríma Wormtongue</reverse-related>
             <reverse-related>Grishnákh, Brash Instigator</reverse-related>
+            <reverse-related>Gríma Wormtongue</reverse-related>
             <reverse-related>March from the Black Gate</reverse-related>
             <reverse-related>Mordor Muster</reverse-related>
             <reverse-related>Moria Scavenger</reverse-related>
             <reverse-related>Orcish Bowmasters</reverse-related>
             <reverse-related>Orcish Medicine</reverse-related>
-            <reverse-related>Saruman's Trickery</reverse-related>
             <reverse-related>Saruman the White</reverse-related>
+            <reverse-related>Saruman's Trickery</reverse-related>
             <reverse-related>Saruman, the White Hand</reverse-related>
             <reverse-related>Sauron, Lord of the Rings</reverse-related>
             <reverse-related>Sauron, the Dark Lord</reverse-related>
@@ -9312,7 +9312,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related count="2">Nearheath Chaplain</reverse-related>
             <reverse-related>Not Forgotten</reverse-related>
             <reverse-related>Nurturing Presence</reverse-related>
-            <reverse-related count="3" exclude="exclude">Oath of the Grey Host </reverse-related>
+            <reverse-related count="3" exclude="exclude">Oath of the Grey Host</reverse-related>
             <reverse-related count="x">Occult Epiphany</reverse-related>
             <reverse-related count="x">Path of the Ghosthunter</reverse-related>
             <reverse-related>Priest of the Blessed Graf</reverse-related>
@@ -10192,8 +10192,8 @@ This creature can't be enchanted.</text>
             <reverse-related>Gimli of the Glittering Caves</reverse-related>
             <reverse-related>Gleaming Barrier</reverse-related>
             <reverse-related>Glittermonger</reverse-related>
-            <reverse-related>Glóin, Dwarf Emissary</reverse-related>
             <reverse-related count="x=2">Gluntch, the Bestower</reverse-related>
+            <reverse-related>Glóin, Dwarf Emissary</reverse-related>
             <reverse-related>Goblin Airbrusher</reverse-related>
             <reverse-related count="2" exclude="exclude">Goblin Airbrusher</reverse-related>
             <reverse-related>Goldspan Dragon</reverse-related>
@@ -10243,13 +10243,13 @@ This creature can't be enchanted.</text>
             <reverse-related count="x">Marut</reverse-related>
             <reverse-related count="x">Master of Ceremonies</reverse-related>
             <reverse-related>Meet and Greet "Sisay"</reverse-related>
-            <reverse-related count="2">Mines of Moria </reverse-related>
+            <reverse-related count="2">Mines of Moria</reverse-related>
             <reverse-related>Misfortune Teller</reverse-related>
             <reverse-related>Monologue Tax</reverse-related>
             <reverse-related count="2">Most Wanted</reverse-related>
             <reverse-related count="x=1">Negan, the Cold-Blooded</reverse-related>
             <reverse-related>Noble's Purse</reverse-related>
-            <reverse-related>Oath of the Grey Host</reverse-related>
+            <reverse-related exclude="exclude">Oath of the Grey Host</reverse-related>
             <reverse-related count="x">Ognis, the Dragon's Lash</reverse-related>
             <reverse-related count="x">Old Gnawbone</reverse-related>
             <reverse-related>Old Rutstein</reverse-related>
@@ -12946,18 +12946,20 @@ Whenever your Ring-bearer deals combat damage to a player, each opponent loses 3
             <reverse-related>Elrond, Lord of Rivendell</reverse-related>
             <reverse-related>Enraged Huorn</reverse-related>
             <reverse-related>Fiery Inscription</reverse-related>
-            <reverse-related>Frodo, Adventurous Hobbit</reverse-related>
             <reverse-related>Frodo Baggins</reverse-related>
+            <reverse-related>Frodo, Adventurous Hobbit</reverse-related>
             <reverse-related>Frodo, Sauron's Bane</reverse-related>
+            <reverse-related>Galadriel, Elven-Queen</reverse-related>
             <reverse-related>Glorious Gale</reverse-related>
-            <reverse-related>Gollum, Patient Plotter</reverse-related>
             <reverse-related>Gollum's Bite</reverse-related>
+            <reverse-related>Gollum, Patient Plotter</reverse-related>
             <reverse-related>Horses of the Bruinen</reverse-related>
-            <reverse-related>Inherited Envelope</reverse-related>
             <reverse-related exclude="exclude">In the Darkness Bind Them</reverse-related>
+            <reverse-related>Inherited Envelope</reverse-related>
             <reverse-related>Mirrormere Guardian</reverse-related>
             <reverse-related>Nazgûl</reverse-related>
             <reverse-related>Now for Wrath, Now for Ruin!</reverse-related>
+            <reverse-related>One Ring to Rule Them All</reverse-related>
             <reverse-related>Ranger's Firebrand</reverse-related>
             <reverse-related>Rangers of Ithilien</reverse-related>
             <reverse-related>Relentless Rohirrim</reverse-related>
@@ -12965,8 +12967,8 @@ Whenever your Ring-bearer deals combat damage to a player, each opponent loses 3
             <reverse-related>Rohirrim Lancer</reverse-related>
             <reverse-related>Sam's Desperate Rescue</reverse-related>
             <reverse-related>Samwise the Stouthearted</reverse-related>
-            <reverse-related exclude="exclude">Sauron, Lord of the Rings</reverse-related>
             <reverse-related>Sauron's Ransom</reverse-related>
+            <reverse-related exclude="exclude">Sauron, Lord of the Rings</reverse-related>
             <reverse-related exclude="exclude">Sauron, the Dark Lord</reverse-related>
             <reverse-related>Scroll of Isildur</reverse-related>
             <reverse-related>Shortcut to Mushrooms</reverse-related>
@@ -12975,8 +12977,8 @@ Whenever your Ring-bearer deals combat damage to a player, each opponent loses 3
             <reverse-related>Soothing of Sméagol</reverse-related>
             <reverse-related>Stalwarts of Osgiliath</reverse-related>
             <reverse-related>The Black Breath</reverse-related>
-            <reverse-related exclude="exclude">There and Back Again</reverse-related>
             <reverse-related>The Ring Goes South</reverse-related>
+            <reverse-related exclude="exclude">There and Back Again</reverse-related>
             <reverse-related>Took Reaper</reverse-related>
             <reverse-related>Uruk-hai Berserker</reverse-related>
             <reverse-related>War of the Last Alliance</reverse-related>
@@ -13607,7 +13609,6 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>Denethor, Stone Seer</reverse-related>
             <reverse-related>Emberwilde Captain</reverse-related>
             <reverse-related>Entourage of Trest</reverse-related>
-            <reverse-related>Éomer, King of Rohan</reverse-related>
             <reverse-related>Fall from Favor</reverse-related>
             <reverse-related exclude="exclude">Faramir, Steward of Gondor</reverse-related>
             <reverse-related>Fealty to the Realm</reverse-related>
@@ -13630,6 +13631,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>Thorn of the Black Rose</reverse-related>
             <reverse-related>Throne of the High City</reverse-related>
             <reverse-related>Throne Warden</reverse-related>
+            <reverse-related>Éomer, King of Rohan</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
