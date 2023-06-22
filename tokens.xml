@@ -3219,7 +3219,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set>ARC</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Elemental.jpeg?raw=true">ARC</set>
             <reverse-related count="7" exclude="exclude">Evil Comes to Fruition</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4356,7 +4356,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>4/6</pt>
             </prop>
-            <set>ARC</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Golem.jpeg?raw=true">ARC</set>
             <reverse-related>The Iron Guardian Stirs</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
