@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20230701</sourceVersion>
+        <sourceVersion>20230807</sourceVersion>
     </info>
     <cards>
         <!--
@@ -87,6 +87,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/5/35e56eac-93d5-4ed3-af8f-2c77f0071e16.jpg?1689797424">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/6/6/663333ab-4e92-4290-b4e2-65f3f173e53f.jpg?1681053520">MOC</set>
             <set picURL="https://cards.scryfall.io/large/front/9/e/9efb5dbc-673b-4ea0-89b3-2c9bb8047816.jpg?1675905854">ONC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/6/e6dd9a8a-3b80-4c1c-9d44-7f998164dbcc.jpg?1641599832">VOC</set>
@@ -319,6 +320,7 @@ Pay 3 life: Arco-Flagellant gains indestructible until end of turn.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/7/57891433-318b-48a6-a73b-151a81ad3796.jpg?1689976124">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/f/d/fdfdf8c9-38ca-4471-9152-45cfb288b07d.jpg?1681053580">MOC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/5/f577d422-59d7-43ab-a822-2d73d47e61dd.jpg?1561897509">CN2</set>
             <reverse-related>Paliano</reverse-related>
@@ -387,6 +389,21 @@ Whenever this creature deals damage to a planeswalker, destroy that planeswalker
             <reverse-related>Inquisitorial Rosette</reverse-related>
             <reverse-related count="2">Marneus Calgar</reverse-related>
             <reverse-related count="2">Thunderhawk Gunship</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Avacyn</name>
+            <text>Flying, vigilance, indestructible</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Legendary Creature — Angel</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>8/8</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/c/2c8730fb-59ca-4cf7-96a4-d6ba3f6f2fbe.jpg?1689797474">CMM</set>
+            <reverse-related>Battle at the Helvault</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -855,6 +872,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/7/e70faf3a-adf6-482c-9f7d-7f254d5f8bec.jpg?1689972293">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/f/0fd60456-70aa-49ae-a0a7-2c50cb085223.jpg?1591319166">C20</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/3/03c3dc23-d6f2-4209-82e1-a0b936c94231.jpg?1572892490">GRN</set>
             <reverse-related>Murmuring Mystic</reverse-related>
@@ -902,6 +920,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/b/3b7ca733-6947-4e09-953e-d8b37b799e6a.jpg?1689796538">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/3/8/38476293-627e-44e6-a83e-24aaf3de8e9a.jpg?1681053522">MOC</set>
             <set picURL="https://cards.scryfall.io/large/front/2/e/2e5db619-2ccc-4e5b-bf74-0f8ed77afad9.jpg?1675905857">ONC</set>
             <set picURL="https://cards.scryfall.io/large/front/d/3/d3fdde92-dc2c-4ed0-b092-926ef9c091ad.jpg?1674397376">DMR</set>
@@ -1312,6 +1331,7 @@ Whenever this creature attacks, target attacking creature gains flying until end
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/3/e33d9cf0-8138-4ae6-bbfe-02d48a4634c1.jpg?1689796508">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/2/e2c91781-acf9-4cff-be1a-85148ad2a683.jpg?1604194683">ZNR</set>
             <reverse-related>Felidar Retreat</reverse-related>
             <reverse-related count="x=1" exclude="exclude">Felidar Retreat</reverse-related>
@@ -1373,6 +1393,7 @@ Whenever this creature attacks, target attacking creature gains flying until end
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/5/d5b3ed0c-1044-4662-9785-04d8503f1fbf.jpg?1689975700">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/1/1/11011596-4aa1-48a7-90d8-36cb7b27c711.jpg?1675095303">ONE</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/b/db1b2c60-c995-441a-a3d6-20220d6cb7f1.jpg?1620573744">CMR</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/8/f859b55c-0b49-4190-b1fa-94f97a59b57c.jpg?1598312335">2XM</set>
@@ -1450,6 +1471,7 @@ Whenever this creature attacks, target attacking creature gains flying until end
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/c/9cf66184-0df9-4a6b-bf4a-c5bd0d21b5b6.jpg?1689976223">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/0/7/07b58d5f-8a9f-4fd6-83d6-efe3a92e89b2.jpg?1674397383">DMR</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/e/2e07758f-0d1c-47d9-ba5a-43bc2a7423cd.jpg?1615686706">KHM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/6/f6541414-c506-449d-b3a8-79f47be531a9.jpg?1594733633">M21</set>
@@ -1697,6 +1719,7 @@ Whenever this creature attacks, target attacking creature gains flying until end
                 <cmc>0</cmc>
                 <pt>2/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/a/0a72ad3d-8660-4be4-9f9b-7d2f6b8ee82b.jpg?1689796488">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/e/7e4c9173-e530-4237-a03b-9aeca60ab0e4.jpg">THS</set>
             <reverse-related>Heliod, God of the Sun</reverse-related>
             <token>1</token>
@@ -1777,6 +1800,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/a/5adbbaa4-b1e3-4c5f-a1c7-aa294f838c54.jpg?1689976174">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/e/1/e197929c-1334-48f5-a03c-546a4074ad02.jpg?1681053629">MOC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/3/43eab560-8ead-4383-afb9-9180a214704b.jpg?1663530503">40K</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/2/d25234a6-cb8d-479a-90f5-9d1a1084277b.jpg?1654172822">CLB</set>
@@ -1890,6 +1914,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/f/0f3954f9-776d-4a8d-a032-724c4eae0e13.jpg?1689976204">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/0/c083dc19-2b62-4233-9ab9-04adc758b6d9.jpg?1641306112">C21</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/9/1935902c-d84f-496a-b9f1-f96d1f5e2b84.jpg?1562899738">UST</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/2/623a08d1-f5ff-48b7-bdb6-54b8d7a4b931.jpg?1562639829">KLD</set>
@@ -1909,6 +1934,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <cmc>0</cmc>
                 <pt>0/0</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/4/8/48fdadab-af27-46d3-bcf6-35e7affb1e43.jpg?1689883474">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/4/a/4ad1fd1a-9c1e-4b01-974e-84f18d325cfc.jpg?1674397386">DMR</set>
             <set picURL="https://cards.scryfall.io/large/front/9/1/914fecab-24c0-4179-84d6-ded78c29134f.jpg?1667886948">BRO</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/7/a7caaf39-8f16-4f1d-bee6-a45674306319.jpg?1641306203">MH2</set>
@@ -2042,6 +2068,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/c/a/cad40060-02a3-4044-9006-2c36f3d78e16.jpg?1689975454">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/b/3b3c99d1-ebd3-4eb4-ba04-941819394567.jpg?1598311608">2XM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/5/f54c7f9f-a1ea-4bf0-8ab3-cca49f393f4a.jpg?1594733532">M21</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/f/dfb61889-9bc6-426d-8ce5-7b1c0e6e959b.jpg?1592515962">M20</set>
@@ -2336,6 +2363,7 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
                 <cmc>0</cmc>
                 <pt>0/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/d/6df0b0ed-b82a-4204-8e2c-9d297b29bf9a.jpg?1689975523">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/e/0e80f154-9409-40fa-a564-6fc296498d80.jpg?1592710041">C18</set>
             <related>Dragon Token    </related>
             <reverse-related>Nesting Dragon</reverse-related>
@@ -2413,6 +2441,7 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/a/faee2063-b47e-4342-af98-0037b3e8e80f.jpg?1689975490">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/3/1/312ea78e-a4e6-4c66-9fd7-62dc7822d89e.jpg?1675905866">ONC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/8/c87386f2-5e90-4efd-a5d7-4716220d6ab7.jpg?1654172389">CLB</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/2/029c9790-d5f3-4fe2-a2f5-6da5d27de835.jpg?1615686423">KHM</set>
@@ -2466,6 +2495,7 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/b/9b3ed483-a6c9-4f12-bd76-e205ffb8afd4.jpg?1689710435">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/1/d1cae334-1e24-48a3-83a2-0a27bc9d3b29.jpg?1661549438">DMU</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/3/e32b97de-9cbb-40a2-ba3b-54e861023df0.jpg?1654171523">CLB</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/1/a195b254-bc3c-4259-9219-5a9e085d7947.jpg?1557575956">WAR</set>
@@ -2516,6 +2546,7 @@ When this creature dies, create a 2/2 red Dragon creature token with flying and 
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/0/30b11035-f651-427f-aad7-deb870d47c10.jpg?1689972191">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/f/3f350ecf-67fa-49c8-a47d-9e5573851d62.jpg?1608908530">CMR</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/a/5afb55d9-0852-4fe5-8e3b-330714d4c245.jpg?1592710048">C18</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/4/f43a5ec2-8898-4645-84d7-b7218682be9b.jpg">M19</set>
@@ -2569,6 +2600,7 @@ Whenever this creature deals combat damage to a player, gain control of target a
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/c/5c3a91bf-daa1-4bba-a052-d868700c610c.jpg?1689975885">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/c/dcd1cef8-d78a-4bdb-8da0-a50ad199c691.jpg?1641306072">C21</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/6/1659d2ee-1831-4ba1-a08d-03af31c9a043.jpg?1604194756">ZNR</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/7/07027a7c-5843-4d78-9b86-8799363c0b82.jpg?1591319174">C20</set>
@@ -2640,6 +2672,7 @@ When this creature leaves the battlefield, each opponent loses 2 life and you ga
                 <cmc>0</cmc>
                 <pt>2/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/7/5/75d82864-0286-4511-9e80-a154bec2757f.jpg?1689976242">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/4/142bbbe1-4446-4d80-b82d-0df8ef17eac1.jpg?1615686398">KHM</set>
             <reverse-related attach="attach">Dwarven Hammer</reverse-related>
             <reverse-related count="2">Dwarven Reinforcements</reverse-related>
@@ -2727,6 +2760,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/e/6ef7df0d-d7d6-463d-b452-32666973234a.jpg?1689883317">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/0/a03edf14-3495-4f61-ad73-f16e9456472c.jpg">OGW</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/8/f88da33f-a944-4cc4-978e-3858c2e17e3a.jpg">OGW</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/0/10e69ee5-ea72-4f0b-91fe-152b1459e318.jpg">OGW</set>
@@ -2770,6 +2804,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/e/1e820258-933f-4ad2-b63b-c6cd7f5bddf3.jpg?1689973156">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/6/06e3f3c1-866c-4214-82e0-dcca2d1aba1e.jpg?1601138478">2XM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/f/1feaa879-ceb3-4b20-8021-ae41d8be9005.jpg">C17</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/d/cd1ef4fc-9b03-4750-90c9-aaa0017579dc.jpg">MM2</set>
@@ -2803,6 +2838,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>10/10</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/a/1a2f00da-1c4d-45d4-af34-9216a34bff2a.jpg?1689973147">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/3/e/3e66f1df-e269-458a-8197-1e8145c7678e.jpg?1675905853">ONC</set>
             <set picURL="https://cards.scryfall.io/large/front/e/0/e0747a00-b43a-45de-947f-76d414159f92.jpg?1675456364">BRC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/9/390b256c-3381-4807-85a6-ff9e62a99bae.jpg?1641306070">C21</set>
@@ -2894,13 +2930,11 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/b/8b4f81e2-916f-4af4-9e63-f4469e953122.jpg?1562702183">EMA</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/d/ed37fa8e-5930-4e57-8ead-73894ac40c19.jpg">M14</set>
             <reverse-related count="2">Chandra, Acolyte of Flame</reverse-related>
-            <reverse-related count="x">Elemental Mastery</reverse-related>
             <reverse-related attach="attach">Mask of Immolation</reverse-related>
             <reverse-related count="2">Molten Birth</reverse-related>
             <reverse-related count="2">Scampering Scorcher</reverse-related>
             <reverse-related count="x=1">Seasoned Pyromancer</reverse-related>
             <reverse-related count="2" exclude="exclude">Seasoned Pyromancer</reverse-related>
-            <reverse-related count="x">Tempt with Vengeance</reverse-related>
             <reverse-related count="x">Tilonalli's Summoner</reverse-related>
             <reverse-related>Young Pyromancer</reverse-related>
             <token>1</token>
@@ -2918,10 +2952,6 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/d/9d952cde-4b40-4a05-833e-029da3554c6d.jpg?1591319193">C20</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/c/bc6f27f7-0248-4c04-8022-41073966e4d8.jpg">OGW</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/a/daf56553-2ecc-4fe8-8730-917d891f6882.jpg">CON</set>
-            <reverse-related count="2">Chandra, Flamecaller</reverse-related>
-            <reverse-related count="3">Feral Lightning</reverse-related>
-            <reverse-related>Lightning Coils</reverse-related>
-            <reverse-related>Rakka Mar</reverse-related>
             <reverse-related>Research // Development</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -3186,6 +3216,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>3/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/4/d461a38d-761b-47bb-b49d-1b2522cf2f6e.jpg?1689975751">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/5/7/57ae1be7-f2f6-4aef-8764-4af5ca963c9e.jpg?1674397390">DMR</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/d/addc39de-db64-41d8-9185-67a09d3e326d.jpg?1563073102">MH1</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/b/9b9cc37a-b9c3-40c2-a3e4-abfec86e199b.jpg?1562702213">DOM</set>
@@ -3278,6 +3309,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/3/e3c88b9d-6ac2-4d38-8551-23998d76e6ee.jpg?1689975395">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/d/3d0b9b88-705e-4df0-8a93-3e240b81355b.jpg?1641306151">STX</set>
             <reverse-related>Elemental Expressionist</reverse-related>
             <reverse-related count="2">Elemental Masterpiece</reverse-related>
@@ -3355,6 +3387,41 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Elemental Token                                </name>
+            <text>Haste</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/a/5/a58a214f-1b12-4d2c-9cc0-f0c5f4a6e7a6.jpg?1689975784">CMM</set>
+            <set picURL="https://cards.scryfall.io/large/front/9/4/94c14f3d-1578-426b-b64b-07c7e88ab572.jpg?1562279135">SHM</set>
+            <reverse-related count="x">Elemental Mastery</reverse-related>
+            <reverse-related count="x">Tempt with Vengeance</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+                <card>
+            <name>Elemental Token                                 </name>
+            <text>Haste</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/4/e4a9051b-f964-43f9-877b-ea4f17620ecb.jpg?1689972712">CMM</set>
+            <reverse-related count="2">Chandra, Flamecaller</reverse-related>
+            <reverse-related count="3">Feral Lightning</reverse-related>
+            <reverse-related count="x=5">Lightning Coils</reverse-related>
+            <reverse-related>Rakka Mar</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Elephant Token</name>
             <prop>
                 <colors>G</colors>
@@ -3363,6 +3430,7 @@ This creature's power and toughness are each equal to the number of instant and 
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/b/fb9a8f49-5b72-4480-ac58-904b7707ac0b.jpg?1689972269">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/b/3/b3067337-9c65-45cc-9b9f-7de6109b8c1f.jpg?1681053622">MOC</set>
             <set picURL="https://cards.scryfall.io/large/front/0/3/0305cc06-f0c2-4ac1-8717-9720cb97d269.jpg?1675905872">ONC</set>
             <set picURL="https://cards.scryfall.io/large/front/c/b/cb05000b-0ac3-4856-b25d-c87c19bda451.jpg?1674397394">DMR</set>
@@ -3407,6 +3475,7 @@ This creature's power and toughness are each equal to the number of instant and 
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/4/348b9211-e189-4c62-abdd-9778cfb84e16.jpg?1689975945">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/1/01b1f130-2e12-4e57-876b-fc81619ff01f.jpg">C14</set>
             <reverse-related>Freyalise, Llanowar's Fury</reverse-related>
             <token>1</token>
@@ -3440,6 +3509,7 @@ This creature's power and toughness are each equal to the number of instant and 
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/e/1e050305-6f8b-4261-a4b4-c9fa1dc99b0f.jpg?1689796762">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/0/2/023f668a-a8e6-4fcb-98d1-30adf343f050.jpg?1686264599">LTC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/1/118d0655-5719-4512-8bc1-fe759669811b.jpg?1615686731">KHM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/f/ff2aea59-c5f1-4927-8534-2215ef79bec7.jpg?1608908549">CMR</set>
@@ -4114,6 +4184,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/4/1/419c1799-1525-44ec-9f6c-dfc290f04ba7.jpg?1689975651">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/9/8/98ce0500-d9b4-4218-bcc6-dd6194068958.jpg?1686264363">LTC</set>
             <set picURL="https://cards.scryfall.io/large/front/9/c/9cb4069a-0ec9-415d-8a2c-82f4a9f3ea2b.jpg?1681053594">MOC</set>
             <set picURL="https://cards.scryfall.io/large/front/5/1/51782bd0-178e-40e2-9c4f-8ea4e8e11345.jpg?1675905868">ONC</set>
@@ -4481,6 +4552,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>3/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/7/07ab0fbc-293e-4917-9792-fdc9b512713d.jpg?1689975540">CMM</set>
             <set picURL="https://i.imgur.com/1PwSeto.jpg">CSP</set>
             <reverse-related>Balduvian Dead</reverse-related>
             <reverse-related>Sek'Kuar, Deathkeeper</reverse-related>
@@ -4917,6 +4989,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/e/de29dd78-a059-4aad-8627-9c783f245a91.jpg?1689975851">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/d/b/dbab4309-daca-42d9-ad0b-0457717c4503.jpg?1686265039">LTR</set>
             <set picURL="https://cards.scryfall.io/large/front/4/9/493bb455-ee32-4cbe-bcaa-8df5b16e7b96.jpg?1675905861">ONC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/3/e3683cc6-70e0-4d33-9fed-6a56ba8b6e9b.jpg?1598311517">2XM</set>
@@ -5077,6 +5150,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/d/0d88db82-009a-4371-a91e-9083b561e80f.jpg?1689796558">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/6/06fbcd85-c54e-492e-9e42-5e101cac4255.jpg?1615686169">KHM</set>
             <reverse-related>Battle for Bretagard</reverse-related>
             <reverse-related>Beskir Shieldmate</reverse-related>
@@ -5397,6 +5471,7 @@ Equip {2}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/3/23f07b07-e1d7-4a9b-bfa7-5566bbe43fd9.jpg?1689976078">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/e/6/e662eefb-c454-44b9-8270-f2229e20024e.jpg?1674397404">DMR</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/3/f3ac66f8-4bb2-42bd-9a18-7da9c3839c8b.jpg?1636630149">VOW</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/4/84da9c36-5d9c-4e29-b6cc-c5c10e490f2e.jpg?1604194822">ZNR</set>
@@ -5692,6 +5767,7 @@ Trample</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/d/3df61c33-38b3-4549-9e5d-ae1b5c1afd62.jpg?1689976149">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/5/2/52cf8f6b-2334-4881-8f58-4e11745c8851.jpg?1681044147">MOC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/b/4bd69d39-c2ce-44b4-b2d0-5e384d69db02.jpg?1662663534">DMC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/7/076f934b-a244-45f1-bcb3-7c5e882e9911.jpg?1594733476">M21</set>
@@ -5871,6 +5947,7 @@ Flanking</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/e/2e820517-9895-47ba-a9d7-11ed807dcc6d.jpg?1689710513">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/e/be224180-a482-4b94-8a9d-3a92ee0eb34b.jpg">BFZ</set>
             <reverse-related>Captain's Claws</reverse-related>
             <reverse-related count="2">Oath of Gideon</reverse-related>
@@ -5888,6 +5965,7 @@ Flanking</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/9/8907c15d-831b-47d5-b2b5-7759876b8f33.jpg?1689975994">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/9/d9c95045-e806-4933-94a4-cb52ae1a215b.jpg">C14</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/9/d9623e74-3b94-4842-903f-ed52931bdf6a.jpg">ZEN</set>
             <reverse-related count="6">Conqueror's Pledge</reverse-related>
@@ -6086,6 +6164,7 @@ A manifested creature card can be turned face up any time for its mana cost. A f
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/6/56ae2eb8-5090-412a-ad72-46ec4861d599.jpg?1689883353">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/3/e3088dea-11fd-403b-aaf4-56852283ba3d.jpg?1572370832">C19</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/6/d6fb189b-20a3-4ba4-86ec-f84513e0281a.jpg?1592709971">C18</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/9/e9f896d4-34b4-407d-be7e-bf7a69aaf811.jpg">FRF</set>
@@ -6100,12 +6179,14 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <reverse-related>Jeskai Infiltrator</reverse-related>
             <reverse-related>Lightform</reverse-related>
             <reverse-related>Mastery of the Unseen</reverse-related>
+            <reverse-related count="x">Omarthis, Ghostfire Initiate</reverse-related>
             <reverse-related>Qarsi High Priest</reverse-related>
             <reverse-related>Rageform</reverse-related>
             <reverse-related>Reality Shift</reverse-related>
             <reverse-related>Soul Summons</reverse-related>
             <reverse-related>Sultai Emissary</reverse-related>
             <reverse-related>Temur War Shaman</reverse-related>
+            <reverse-related>Ugin's Mastery</reverse-related>
             <reverse-related>Whisperwood Elemental</reverse-related>
             <reverse-related>Wildcall</reverse-related>
             <reverse-related>Write into Being</reverse-related>
@@ -6563,6 +6644,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/b/5b911529-052a-457b-b1a0-b3f498c2cbe0.jpg?1689976009">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/b/d/bd511c6c-a6ec-4715-94c0-945c091d82b1.jpg?1681053639">MOC</set>
             <set picURL="https://cards.scryfall.io/large/front/1/9/195b7790-7d01-48f4-a3d9-84ea94fc79ef.jpg?1675905880">ONC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/3/43b8035b-3e3e-44bb-bfef-4c5474fcc7d8.jpg?1675456427">BRC</set>
@@ -6678,6 +6760,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/1/81218951-e61f-43e6-802d-3820725e6f23.jpg?1689710534">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/3/e3d725a8-daff-4458-aab0-06803ae33be3.jpg?1654172405">CLB</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/7/6722527e-883e-49cc-9eab-daee962a740f.jpg?1562915853">C16</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/9/a99c10f3-9f11-42f1-9007-c0320a1929e0.jpg">WWK</set>
@@ -6922,6 +7005,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>2/4</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/5/15e94825-98a8-40f1-8f61-83c79885fec0.jpg?1689883496">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/f/8f1d69f9-d9d7-47a9-9236-351f81ffa9ae.jpg">M19</set>
             <reverse-related>Transmogrifying Wand</reverse-related>
             <token>1</token>
@@ -6973,6 +7057,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/c/9c2f9b68-07a4-4502-9cf8-de8583b5cdd0.jpg?1689796733">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/e/dee1c2ee-d92e-409a-995a-b4c91620c918.jpg?1581901969">THB</set>
             <reverse-related>Archon of Sun's Grace</reverse-related>
             <token>1</token>
@@ -7042,6 +7127,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/e/2e981bbc-7690-4020-aa28-f06295ee8ff8.jpg?1689976104">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/5/65f64d14-c203-4401-a379-c6227d1cbac2.jpg?1654172085">CLB</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/6/06b5e4d2-7eac-4ee9-82aa-80a668705679.jpg?1641306088">C21</set>
             <reverse-related count="x">Ezuri's Predation</reverse-related>
@@ -7075,6 +7161,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>0/0</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/c/fc375fe9-e8aa-4b7d-b439-a67c0b61beaf.jpg?1689883450">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/2/1/216e9c9c-e63e-451d-a340-ffa6206edcb6.jpg?1681053584">MOC</set>
             <set picURL="https://cards.scryfall.io/large/front/1/1/113959ba-be71-47ce-93e2-b81157034822.jpg?1676028695">ONC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/d/7dfd481c-94ad-4a2e-a396-3d4a10bacc33.jpg?1644543591">NEC</set>
@@ -7132,6 +7219,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/7/e7a91956-e351-4533-9f0d-4a578617f88b.jpg?1689883510">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/a/7/a760c72c-2883-492e-8d38-548825efdd00.jpg?1681053644">MOC</set>
             <set picURL="https://cards.scryfall.io/large/front/6/3/63ace2fa-8cfb-4641-a05c-d12830378e03.jpg?1675095914">ONE</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/f/af7c6e4c-4980-4b1b-8156-fd17dd6f47c9.jpg?1608908566">CMR</set>
@@ -7303,6 +7391,7 @@ This creature can't block.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/4/f4ef9889-e61d-4733-b27c-9e78aea8e84b.jpg?1690040703">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/f/dfe197cf-6f36-424e-a544-cbe7a56f8a32.jpg">MD1</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/c/5c087beb-99c0-403e-bb44-33cfc549a831.jpg">NPH</set>
             <reverse-related>Myr Sire</reverse-related>
@@ -7708,6 +7797,7 @@ Creatures you control attack each combat if able.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/5/d5328e78-65c5-46e8-8980-3075ece0fa99.jpg?1689975931">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/4/e43a205e-43ea-4b3e-92ab-c2ee2172a50a.jpg?1572489150">ELD</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/1/f1fb8ca6-7351-457a-b2a4-48f57ec3c64a.jpg">GTC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/a/1a85fe9d-ef18-46c4-88b0-cf2e222e30e4.jpg">SHM</set>
@@ -8065,6 +8155,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/2/82f710ed-fda6-44dd-9a42-d5b37656307d.jpg?1689973165">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/c/7/c7bb00e4-7eb0-4f7d-b2c3-8995959a6e6a.jpg?1674397413">DMR</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/5/d5a07153-9eb6-4366-aa09-ebe9b4868e7f.jpg?1661549652">DMU</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/7/f7cbc9fc-42d2-4d1a-b6c0-29a35cfd1588.jpg?1654171619">CLB</set>
@@ -8227,6 +8318,7 @@ Equip {1}</text>
                 <maintype>Creature</maintype>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/4/9/49bdae00-bcbd-4238-87d6-7e12ff7ffd83.jpg?1689975802">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/0/903e30f3-580e-4a14-989b-ae0632363407.jpg?1581902165">THB</set>
             <reverse-related count="x=1">Anax, Hardened in the Forge</reverse-related>
             <reverse-related>Heroes of the Revel</reverse-related>
@@ -8283,6 +8375,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/6/e6a5faa3-b86e-4e05-93db-5db9507ae7d0.jpg?1689710460">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/1/1/11a8610e-6264-4b02-b871-8975f3d06012.jpg?1681053662">MOC</set>
             <set picURL="https://cards.scryfall.io/large/front/8/c/8c6e94bc-9d23-44db-a961-677d95dd67d0.jpg?1675456451">BRC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/e/ae8e32b9-431c-43d9-a0df-d73f4ff4fbc2.jpg?1601138298">2XM</set>
@@ -8573,6 +8666,20 @@ Equip {1}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Sliver Army Token</name>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Sliver Army</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>0/0</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/b/9/b9821f26-04b4-460b-880e-5052122b21ae.jpg?1689612272">CMM</set>
+            <reverse-related>Lazotep Sliver</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Sliver Token</name>
             <prop>
                 <type>Token Creature — Sliver</type>
@@ -8580,6 +8687,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/0/00f50b09-3253-46a5-8639-5bc90c84b8e1.jpg?1689612301">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/5/8/586c179a-feda-475d-9e32-01b58e22c846.jpg?1681053516">MOC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/e/dec96e95-5580-4110-86ec-561007ab0f1e.jpg?1562640084">M15</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/8/68353af0-9cd0-43c0-9b39-8f904c618e3a.jpg">M14</set>
@@ -8588,6 +8696,7 @@ Equip {1}</text>
             <reverse-related>Brood Sliver</reverse-related>
             <reverse-related count="2">Hive Stirrings</reverse-related>
             <reverse-related count="2">Riptide Island</reverse-related>
+            <reverse-related>Rukarumel, Biologist</reverse-related>
             <reverse-related>Sliver Hive</reverse-related>
             <reverse-related>Sliver Queen</reverse-related>
             <token>1</token>
@@ -8782,6 +8891,7 @@ When this creature dies, create fourteen Treasure tokens.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/0/10322962-5b45-438f-9d28-225414721c34.jpg?1689710563">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/d/0/d0cc09a9-a21b-40ee-8b68-bc084f71737d.jpg?1681053527">MOC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/6/461532a6-ef9c-4a9b-9815-3b5158ada976.jpg?1675905862">ONC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/c/5c9295e9-222f-4e7d-91c3-84479d5ec568.jpg?1663530197">40K</set>
@@ -9123,6 +9233,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>1/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/3/e30d675b-1124-4a90-b270-39c52fdffc1f.jpg?1689796457">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/d/1dab34a7-0d18-4a6c-ac40-3b9901ff841b.jpg?1654171975">CLB</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/1/41bee18a-46d6-4f60-9e19-5fc670a20a4d.jpg?1653273222">MID</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/6/56f28541-9711-42cd-9c83-993a81af96b6.jpg?1581902167">THB</set>
@@ -9232,6 +9343,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/e/6e8ba2be-4e95-4d10-b866-9fde3f8c8a3f.jpg?1689972091">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/5/7/57b674ef-f541-4ee8-9727-1c5b3c0c8f4e.jpg?1686336860">LTR</set>
             <set picURL="https://cards.scryfall.io/large/front/4/7/476261b8-635c-4228-b5bf-ddc27157876e.jpg?1681053529">MOC</set>
             <set picURL="https://cards.scryfall.io/large/front/a/1/a171254d-7616-42c4-bd78-b2787fb973aa.jpg?1675905865">ONC</set>
@@ -9368,6 +9480,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/6/265d196a-eaf5-42b0-aa76-f30a75a74e3a.jpg?1689883431">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/6/d/6d02a57e-6c76-491c-85f8-8f4d825be2c2.jpg?1681045233">MOM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/d/8dc14fc0-5c53-4381-ae55-1fb22d0f4148.jpg?1641306109">C21</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/f/cf24e9fa-7d7f-4693-a9ed-b8e725d0ad5c.jpg?1563073193">MH1</set>
@@ -9757,6 +9870,7 @@ Equip {0}</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/a/0/a0f2a88f-ff00-4ef7-a9ed-e8457df2c9d3.jpg?1689976023">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/9/59a00cac-53ae-46ad-8468-e6d1db40b266.jpg">C14</set>
             <reverse-related exclude="exclude">Nahiri, the Lithomancer</reverse-related>
             <token>1</token>
@@ -9936,6 +10050,7 @@ This creature can't be enchanted.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/7/27a94450-ebe4-49c6-b2b0-bf335880f44f.jpg?1689883399">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/d/b/db0041d8-cacd-4057-8f99-37810edb4b7e.jpg?1681041251">MOM</set>
             <set picURL="https://cards.scryfall.io/large/front/4/e/4e076b7f-14f3-4ce2-83f9-a18ccb2b755f.jpg?1675905881">ONC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/5/4501d15d-d306-4372-9516-bd63cf788f45.jpg?1667887063">BRO</set>
@@ -10042,6 +10157,7 @@ This creature can't be enchanted.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/c/dc5604c5-4fff-4bb6-bf6d-69027e4eeb21.jpg?1689975917">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/b/5b9f471a-1822-4981-95a9-8923d83ddcbf.jpg">MM2</set>
             <reverse-related count="x">Endrek Sahr, Master Breeder</reverse-related>
             <token>1</token>
@@ -10100,6 +10216,7 @@ This creature can't be enchanted.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/c/b/cb7b5024-3a0b-4f14-977e-ba6c4c2567c9.jpg?1689975970">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/4/6/46a2c363-c879-4c36-b08a-dd57e3da19ae.jpg?1686265134">LTR</set>
             <set picURL="https://cards.scryfall.io/large/front/8/6/86e82686-0574-4fb3-8c3b-c6dbe3b24c8d.jpg?1681045651">MOM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/a/fab1ec58-5299-4604-8feb-212a6c5e7ffd.jpg?1664344237">UNF</set>
@@ -10920,6 +11037,21 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Wall Token    </name>
+            <text>Defender, flying</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Wall</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>0/4</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/0/d08e421a-49ef-448c-9e04-9c5a7e5c071c.jpg?1689710668">CMM</set>
+            <reverse-related>Teyo, Geometric Tactician</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Warrior Token</name>
             <prop>
                 <colors>R</colors>
@@ -11125,6 +11257,21 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             </prop>
             <set>PHTR</set>
             <reverse-related exclude="exclude">Dungeon Master</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Wizard Token   </name>
+            <text>T: Add {R}. Spend this mana only to cast a planeswalker spell.</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Wizard</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/4/d/4de5b65c-00c7-415a-92f3-cd1177372956.jpg?1689710898">CMM</set>
+            <reverse-related>Commodore Guff</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -11411,6 +11558,7 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/7/17a5c52e-c225-414c-93d9-e014c5aec465.jpg?1689796703">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/4/54afe5d9-a6b6-46a2-89e9-470ad9e44a06.jpg?1654172101">CLB</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/6/366c01a7-6399-496b-a5a3-8be45475ce33.jpg">AKH</set>
             <reverse-related>Sandwurm Convergence</reverse-related>
@@ -11469,6 +11617,7 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
                 <cmc>0</cmc>
                 <pt>0/0</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/a/b/ab6ce07c-d61c-4334-9ca8-bdf6ed9bee4f.jpg?1689797385">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/4/c46d82e0-ef99-473c-a09c-8f552db759bf.jpg?1641306185">MH2</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/f/2f4b7c63-8430-4ca4-baee-dc958d5bd22f.jpg?1557575919">WAR</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/f/3f3f2ad9-d362-4602-8e49-b44c0659c112.jpg?1557575928">WAR</set>
@@ -11585,6 +11734,7 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/4/c/4cf9feeb-23c3-4c3b-bc04-f50380d20197.jpg?1689976407">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/e/b/eb7b2c61-b903-4669-b9a3-110418a35593.jpg?1681136672">MOM</set>
             <set picURL="https://cards.scryfall.io/large/front/c/7/c700cb99-1cee-455f-9a36-d7d9a79fed06.jpg?1674397371">DMR</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/a/dac26fe3-b44c-4385-ad74-d348c33e151c.jpg?1662835159">DMU</set>
@@ -11778,6 +11928,7 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/7/f7ee09ec-0d88-469d-b61c-976f3be47766.jpg?1689975896">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/7/d791c7af-1ba7-45ab-ad0c-be9ebc9e51f9.jpg">C14</set>
             <reverse-related>Stitcher Geralf</reverse-related>
             <token>1</token>
@@ -12094,6 +12245,7 @@ Throne of the Dead Three — Reveal the top ten cards of your library. Put a cre
                 <type>Emblem — Ajani</type>
                 <maintype>Emblem</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/9/e9f9aebc-6eb8-4325-801f-ad2fbbf391b2.jpg?1689710331">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/8/e8ec39dd-8ba5-4a92-bfc8-4028a2c4691d.jpg?1562640117">M15</set>
             <reverse-related exclude="exclude">Ajani Steadfast</reverse-related>
             <token>1</token>
@@ -12145,6 +12297,7 @@ Throne of the Dead Three — Reveal the top ten cards of your library. Put a cre
                 <type>Emblem</type>
                 <maintype>Emblem</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/2/02347c41-407f-4388-9d9b-263ddf8b4e11.jpg?1689710398">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/7/7/775f2b3e-4e3b-4037-b7bb-117ababf8e51.jpg?1592516016">M20</set>
             <reverse-related>Chandra, Awakened Inferno</reverse-related>
             <token>1</token>
@@ -12176,11 +12329,12 @@ Throne of the Dead Three — Reveal the top ten cards of your library. Put a cre
         </card>
         <card>
             <name>Chandra, Torch of Defiance Emblem</name>
-            <text>Whenever you cast a spell, this emblem deals 5 damage to target creature or player.</text>
+            <text>Whenever you cast a spell, this emblem deals 5 damage to any target.</text>
             <prop>
                 <type>Emblem — Chandra</type>
                 <maintype>Emblem</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/1/3143984b-9798-4062-9a91-8ee139c3448e.jpg?1689710301">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/0/50ce1db3-417c-4c22-84e5-c463addde476.jpg?1562639801">KLD</set>
             <reverse-related exclude="exclude">Chandra, Torch of Defiance</reverse-related>
             <token>1</token>
@@ -12206,6 +12360,7 @@ Throne of the Dead Three — Reveal the top ten cards of your library. Put a cre
                 <type>Emblem — Daretti</type>
                 <maintype>Emblem</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/4/64ace1f4-51b5-4a6a-a730-859717efbd6d.jpg?1689975627">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/e/0e5578f7-3b45-470d-a5b0-7a2c50b9a333.jpg?1562897957">C16</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/3/43a3cfba-50f5-4d8c-96dd-3c4a70cb36ee.jpg">C14</set>
             <reverse-related exclude="exclude">Daretti, Scrap Savant</reverse-related>
@@ -12282,6 +12437,7 @@ Throne of the Dead Three — Reveal the top ten cards of your library. Put a cre
                 <type>Emblem — Elspeth</type>
                 <maintype>Emblem</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/f/dffbc23b-23d3-4cc5-9ea2-fa3aab785ffe.jpg?1689710350">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/6/1/610ed7d6-362b-434a-8cdc-b16bfe20eaa0.jpg?1681053664">MOC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/7/177c37bd-c53d-43b2-88c4-0b80d17a5744.jpg">THS</set>
             <reverse-related exclude="exclude">Elspeth, Sun's Champion</reverse-related>
@@ -12635,6 +12791,7 @@ Whenever an opponent draws a card, this emblem deals 1 damage to them.</text>
                 <type>Emblem — Narset</type>
                 <maintype>Emblem</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/c/6/c6ea709d-2470-4552-92b3-25d617155e51.jpg?1689710374">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/e/0e573150-9f7e-4398-8997-aecb6057a020.jpg?1591225613">IKO</set>
             <reverse-related exclude="exclude">Narset of the Ancient Way</reverse-related>
             <token>1</token>
@@ -12683,6 +12840,7 @@ Whenever an opponent draws a card, this emblem deals 1 damage to them.</text>
                 <type>Emblem — Nixilis</type>
                 <maintype>Emblem</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/3/f3b4bd21-2ab7-48cf-bc46-b67093b99421.jpg?1689975585">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/c/4c29f6a1-42a5-433f-9c09-c160b096f8e1.jpg">C14</set>
             <reverse-related exclude="exclude">Ob Nixilis of the Black Oath</reverse-related>
             <token>1</token>
@@ -12856,6 +13014,7 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
                 <type>Emblem — Teferi</type>
                 <maintype>Emblem</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/7/2/72db0562-982a-43df-b7b3-4a51c4710757.jpg?1689975602">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/c/ccdc8ec0-0c50-4eab-90b3-847498d1612c.jpg">C14</set>
             <reverse-related exclude="exclude">Teferi, Temporal Archmage</reverse-related>
             <token>1</token>
@@ -13401,6 +13560,7 @@ Whenever your Ring-bearer deals combat damage to a player, each opponent loses 3
                 <type>State</type>
                 <maintype>State</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/4/9/49de1576-1c82-4e8c-b492-5097ca7b8819.jpg?1689883554">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/9/9/9935aa4c-9aab-4298-bbcd-4df51a2e0428.jpg?1681053666">MOC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/a/ba64ed3e-93c5-406f-a38d-65cc68472122.jpg?1561757924">RIX</set>
             <reverse-related>Arch of Orazca</reverse-related>
@@ -13585,6 +13745,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>State</type>
                 <maintype>State</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/c/0cd9c491-6ba0-4484-822c-73bcbe9b0c49.jpg?1689612352">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/6/3/63455c28-3e53-45b1-8d0b-a5045dab1fb9.jpg?1686264959">LTC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/f/4fbf25fc-1f5a-4b89-942c-4fff18d0140a.jpg?1681053670">MOC</set>
             <set picURL="https://cards.scryfall.io/large/front/0/7/07e41000-f743-4928-bdc7-520b0824caec.jpg?1675905882">ONC</set>
@@ -13626,6 +13787,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>Protector of the Crown</reverse-related>
             <reverse-related>Queen Marchesa</reverse-related>
             <reverse-related>Regal Behemoth</reverse-related>
+            <reverse-related>Regal Sliver</reverse-related>
             <reverse-related>Skyline Despot</reverse-related>
             <reverse-related>Staunch Throneguard</reverse-related>
             <reverse-related>Thorn of the Black Rose</reverse-related>
@@ -13730,6 +13892,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>Token</type>
                 <maintype>Token</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/e/febfca87-fc37-46cc-8236-73bc5c0e5755.jpg?1689710585">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/4/3/43ec2f4d-d988-49a8-b2ac-598703fe8b26.jpg?1675456346">BRC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/e/1e6ce56c-ca2e-48e8-a4d9-671cb4de8a9d.jpg?1650819612">SNC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/7/c7ba6540-3743-445c-99bf-feb5af2fd56d.jpg?1641306129">C21</set>
