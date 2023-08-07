@@ -8666,6 +8666,20 @@ Equip {1}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Sliver Army Token</name>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Sliver Army</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>0/0</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/b/9/b9821f26-04b4-460b-880e-5052122b21ae.jpg?1689612272">CMM</set>
+            <reverse-related>Lazotep Sliver</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Sliver Token</name>
             <prop>
                 <type>Token Creature — Sliver</type>
@@ -8685,20 +8699,6 @@ Equip {1}</text>
             <reverse-related>Rukarumel, Biologist</reverse-related>
             <reverse-related>Sliver Hive</reverse-related>
             <reverse-related>Sliver Queen</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
-            <name>Sliver Army Token</name>
-            <prop>
-                <colors>B</colors>
-                <type>Token Creature — Sliver Army</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>0/0</pt>
-            </prop>
-            <set picURL="https://cards.scryfall.io/large/front/b/9/b9821f26-04b4-460b-880e-5052122b21ae.jpg?1689612272">CMM</set>
-            <reverse-related>Lazotep Sliver</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
