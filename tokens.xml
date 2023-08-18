@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20230807</sourceVersion>
+        <sourceVersion>20230818</sourceVersion>
     </info>
     <cards>
         <!--
@@ -3826,6 +3826,7 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
             <reverse-related count="x">Questionable Cuisine</reverse-related>
             <reverse-related>Rapacious Guest</reverse-related>
             <reverse-related>Revive the Shire</reverse-related>
+            <reverse-related>Rocco, Street Chef</reverse-related>
             <reverse-related>Rosie Cotton of South Lane</reverse-related>
             <reverse-related>Sam, Loyal Attendant</reverse-related>
             <reverse-related>Samwise Gamgee</reverse-related>
@@ -10091,6 +10092,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="2">Maverick Thopterist</reverse-related>
             <reverse-related count="2">Pia and Kiran Nalaar</reverse-related>
             <reverse-related>Pia Nalaar</reverse-related>
+            <reverse-related>Pia Nalaar, Consul of Revival</reverse-related>
             <reverse-related exclude="exclude">Retrofitter Foundry</reverse-related>
             <reverse-related count="2">Saheeli, Filigree Master</reverse-related>
             <reverse-related>Sai, Master Thopterist</reverse-related>
