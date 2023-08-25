@@ -644,6 +644,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/a/2/a2d33cf3-c803-4e90-9d4b-fa34136b600e.jpg?1692880483">WOE</set>
             <set picURL="https://cards.scryfall.io/large/front/c/6/c622237d-92e5-4efc-aec4-0a18efd6fb38.jpg?1686264549">LTC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/7/47239704-652c-49a7-9011-30f1f7d0078f.jpg?1675905872">ONC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/9/591cb5b2-6394-4c1a-b227-5c32e633b493.jpg?1661549611">DMU</set>
@@ -693,6 +694,7 @@ Creature tokens you control have flying and vigilance.</text>
             <reverse-related>Sawtusk Demolisher</reverse-related>
             <reverse-related>Somberwald Beastmaster</reverse-related>
             <reverse-related>Soul of Zendikar</reverse-related>
+            <reverse-related>The Huntsman's Redemption</reverse-related>
             <reverse-related>Thragtusk</reverse-related>
             <reverse-related>Trumpeting Gnarr</reverse-related>
             <reverse-related>Vivien, Monsters' Advocate</reverse-related>
@@ -920,6 +922,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/4/b/4b0c59f8-b407-47e7-8885-8c968f4ceecf.jpg?1692880921">WOE</set>
             <set picURL="https://cards.scryfall.io/large/front/3/b/3b7ca733-6947-4e09-953e-d8b37b799e6a.jpg?1689796538">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/3/8/38476293-627e-44e6-a83e-24aaf3de8e9a.jpg?1681053522">MOC</set>
             <set picURL="https://cards.scryfall.io/large/front/2/e/2e5db619-2ccc-4e5b-bf74-0f8ed77afad9.jpg?1675905857">ONC</set>
@@ -942,6 +945,9 @@ Creature tokens you control have flying and vigilance.</text>
             <reverse-related>Eyes in the Skies</reverse-related>
             <reverse-related>Falconer Adept</reverse-related>
             <reverse-related count="x">Jötun Owl Keeper</reverse-related>
+            <reverse-related>Knight of Doves</reverse-related>
+            <reverse-related count="x">Knight of Doves</reverse-related>
+            <reverse-related>Liberated Livestock</reverse-related>
             <reverse-related>Love Song of Night and Day</reverse-related>
             <reverse-related count="4">Migratory Route</reverse-related>
             <reverse-related count="2">Ornitharch</reverse-related>
@@ -1393,6 +1399,7 @@ Whenever this creature attacks, target attacking creature gains flying until end
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/0/30b76845-4e3d-488e-bf8f-904b3410cbd6.jpg?1692830335">WOC</set>
             <set picURL="https://cards.scryfall.io/large/front/d/5/d5b3ed0c-1044-4662-9785-04d8503f1fbf.jpg?1689975700">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/1/1/11011596-4aa1-48a7-90d8-36cb7b27c711.jpg?1675095303">ONE</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/b/db1b2c60-c995-441a-a3d6-20220d6cb7f1.jpg?1620573744">CMR</set>
@@ -1452,11 +1459,13 @@ Whenever this creature attacks, target attacking creature gains flying until end
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/b/9/b93ed798-245a-46d6-8964-1aebc290008d.jpg?1692830136">WOC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/7/d754e09c-efc0-4536-9f2a-6bd7e2f860ab.jpg?1591225552">IKO</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/3/b31f1580-5bba-4cef-b0c8-f2837a597b7d.jpg">M19</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/f/af0086cd-56b5-450e-818c-e54f45d1a104.jpg">AKH</set>
             <reverse-related count="2">Cubwarden</reverse-related>
             <reverse-related count="2">Leonin Warleader</reverse-related>
+            <reverse-related>Liberated Livestock</reverse-related>
             <reverse-related count="2">Pride Sovereign</reverse-related>
             <reverse-related count="2">Regal Caracal</reverse-related>
             <token>1</token>
@@ -3403,7 +3412,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
-                <card>
+        <card>
             <name>Elemental Token                                 </name>
             <text>Haste</text>
             <prop>
@@ -3422,6 +3431,20 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Elemental Token                                  </name>
+            <prop>
+                <colors>UW</colors>
+                <type>Token Creature — Elemental</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/4</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/f/ff615495-a230-484e-a858-ead84f880bdd.jpg?1692880575">WOE</set>
+            <reverse-related>Hylda of the Icy Crown</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Elephant Token</name>
             <prop>
                 <colors>G</colors>
@@ -3430,6 +3453,7 @@ This creature's power and toughness are each equal to the number of instant and 
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/1/5172ff86-3e04-437d-b262-427af8b3af05.jpg?1692830392">WOC</set>
             <set picURL="https://cards.scryfall.io/large/front/f/b/fb9a8f49-5b72-4480-ac58-904b7707ac0b.jpg?1689972269">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/b/3/b3067337-9c65-45cc-9b9f-7de6109b8c1f.jpg?1681053622">MOC</set>
             <set picURL="https://cards.scryfall.io/large/front/0/3/0305cc06-f0c2-4ac1-8717-9720cb97d269.jpg?1675905872">ONC</set>
@@ -3612,11 +3636,15 @@ This creature's power and toughness are each equal to the number of instant and 
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/6/d680c3f1-a3c0-4f38-8958-2402612c8dd1.jpg?1692830285">WOC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/7/67457137-64f2-413d-b62e-658b3f1b1043.jpg?1547509251">UMA</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/1/81b53311-d007-42e8-94c0-c18052b6ef09.jpg">MM2</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/6/1666cae8-8750-4091-8e45-259e76268db9.jpg">MOR</set>
+            <reverse-related>Alela, Cunning Conqueror</reverse-related>
             <reverse-related>Bitterblossom</reverse-related>
             <reverse-related count="x">Notorious Throng</reverse-related>
+            <reverse-related count="2">Shadow Puppeteers</reverse-related>
+            <reverse-related count="3">Tegwyll's Scouring</reverse-related>
             <reverse-related>Violet Pall</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -3631,6 +3659,7 @@ This creature's power and toughness are each equal to the number of instant and 
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/b/fb01ca03-8784-4f05-a19e-59d12949cf85.jpg?1692830300">WOC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/1/e1eb3b8a-f9d3-4ce1-b171-ba7b0c3f4830.jpg">MMA</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/0/a07b4786-1592-42c7-9d3e-d0d66abaed99.jpg">SHM</set>
             <reverse-related count="x">Oona, Queen of the Fae</reverse-related>
@@ -3662,6 +3691,7 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/4/5458e078-0145-448f-8028-7b35bd4d4cc1.jpg?1692830233">WOC</set>
             <set picURL="https://cards.scryfall.io/large/front/0/1/010ffef8-22ce-4d8f-80f0-6749f63ec4c2.jpg?1681053533">MOC</set>
             <set picURL="https://cards.scryfall.io/large/front/f/1/f1c9e102-7abb-4b72-867f-3aa2f51f6f77.jpg?1675456379">BRC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/c/bcd82cb0-ff4b-4f4d-b3d0-3ac53883b099.jpg?1572489144">ELD</set>
@@ -3670,6 +3700,23 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
             <reverse-related count="4">Hunted Troll</reverse-related>
             <reverse-related>Improbable Alliance</reverse-related>
             <reverse-related count="x">Stolen by the Fae</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Faerie Token </name>
+            <text>Flying
+This creature can block only creatures with flying.</text>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Faerie</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/f/0f9a993f-1f2b-4b17-b415-e975b7873e18.jpg?1692880732">WOE</set>
+            <reverse-related count="x=2">Faerie Slumber Party</reverse-related>
+            <reverse-related>Into the Fae Court</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3776,6 +3823,7 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
                 <type>Token Artifact — Food</type>
                 <maintype>Artifact</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/e/0eaec411-0590-4662-ac88-11bb0008d69c.jpg?1692880842">WOE</set>
             <set picURL="https://cards.scryfall.io/large/front/6/1/61f04cd9-63ef-4dda-948a-0be76628900c.jpg?1685551471">LTR</set>
             <set picURL="https://cards.scryfall.io/large/front/9/5/95a625ba-330c-4677-a9b3-9c471225b204.jpg?1681053634">MOC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/1/01136e91-1ad3-4e01-8f7e-2718c3a9da27.jpg?1664344184">UNF</set>
@@ -3794,14 +3842,18 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
             <reverse-related>Cirith Ungol Patrol</reverse-related>
             <reverse-related>Concession Stand</reverse-related>
             <reverse-related>Curious Pair // Treats to Share</reverse-related>
+            <reverse-related>Devouring Sugarmaw // Have for Dinner</reverse-related>
             <reverse-related>Eastfarthing Farmer</reverse-related>
             <reverse-related>Elanor Gardner</reverse-related>
+            <reverse-related exclude="exclude">Experimental Confectioner</reverse-related>
             <reverse-related>Fae Offering</reverse-related>
             <reverse-related count="x" exclude="exclude">Farmer Cotton</reverse-related>
             <reverse-related count="3">Feasting Troll King</reverse-related>
+            <reverse-related>Feed the Cauldron</reverse-related>
             <reverse-related>Fell the Pheasant</reverse-related>
             <reverse-related>Field-Tested Frying Pan</reverse-related>
             <reverse-related>Fierce Witchstalker</reverse-related>
+            <reverse-related>Food Coma</reverse-related>
             <reverse-related>Foreboding Fruit</reverse-related>
             <reverse-related>Fortifying Provisions</reverse-related>
             <reverse-related>Galadriel, Gift-Giver</reverse-related>
@@ -3811,20 +3863,31 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
             <reverse-related count="2" exclude="exclude">Gift Shop</reverse-related>
             <reverse-related>Gilded Goose</reverse-related>
             <reverse-related>Gingerbread Cabin</reverse-related>
+            <reverse-related>Gingerbread Hunter // Puny Snack</reverse-related>
             <reverse-related count="x=1">Gluttonous Troll</reverse-related>
+            <reverse-related>Greta, Sweettooth Scourge</reverse-related>
+            <reverse-related>Gumdrop Poisoner // Tempt with Treats</reverse-related>
             <reverse-related count="x">Gyome, Master Chef</reverse-related>
+            <reverse-related>Hollow Scavenger // Bakery Raid</reverse-related>
+            <reverse-related>Intrepid Trufflesnout // Go Hog Wild</reverse-related>
             <reverse-related count="x">Killer Service</reverse-related>
             <reverse-related>Late to Dinner</reverse-related>
             <reverse-related>Many Partings</reverse-related>
             <reverse-related>Meriadoc Brandybuck</reverse-related>
+            <reverse-related>Mintstrosity</reverse-related>
+            <reverse-related>Night of the Sweets' Revenge</reverse-related>
             <reverse-related>Oath of the Grey Host</reverse-related>
             <reverse-related>Of Herbs and Stewed Rabbit</reverse-related>
             <reverse-related>Oko, Thief of Crowns</reverse-related>
+            <reverse-related>Old Flitterfang</reverse-related>
             <reverse-related count="2">Orchard Strider</reverse-related>
             <reverse-related>Peregrin Took</reverse-related>
             <reverse-related>Pippin, Warden of Isengard</reverse-related>
+            <reverse-related>Provisions Merchant</reverse-related>
             <reverse-related count="x">Questionable Cuisine</reverse-related>
             <reverse-related>Rapacious Guest</reverse-related>
+            <reverse-related>Restless Cottage</reverse-related>
+            <reverse-related exclude="exclude">Return from the Wilds</reverse-related>
             <reverse-related>Revive the Shire</reverse-related>
             <reverse-related>Rocco, Street Chef</reverse-related>
             <reverse-related>Rosie Cotton of South Lane</reverse-related>
@@ -3832,21 +3895,29 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
             <reverse-related>Samwise Gamgee</reverse-related>
             <reverse-related count="x" exclude="exclude">Samwise Gamgee</reverse-related>
             <reverse-related>Savvy Hunter</reverse-related>
+            <reverse-related>Scream Puff</reverse-related>
             <reverse-related>Second Breakfast</reverse-related>
             <reverse-related>Shelob's Ambush</reverse-related>
+            <reverse-related>Skybeast Tracker</reverse-related>
+            <reverse-related>Spider Food</reverse-related>
             <reverse-related>Stew the Coneys</reverse-related>
+            <reverse-related>Sweettooth Witch</reverse-related>
             <reverse-related count="3">Taste of Death</reverse-related>
             <reverse-related>Tempting Witch</reverse-related>
             <reverse-related>The Battle of Bywater</reverse-related>
+            <reverse-related count="x">The Goose Mother</reverse-related>
             <reverse-related>The Shire</reverse-related>
             <reverse-related>The Underworld Cookbook</reverse-related>
             <reverse-related>The Wilds</reverse-related>
+            <reverse-related>The Witch's Vanity</reverse-related>
             <reverse-related count="2" exclude="exclude">The Wilds</reverse-related>
             <reverse-related>Tireless Provisioner</reverse-related>
+            <reverse-related>Tough Cookie</reverse-related>
             <reverse-related>Trail of Crumbs</reverse-related>
             <reverse-related count="2">Treebeard, Gracious Host</reverse-related>
             <reverse-related>Turn into a Pumpkin</reverse-related>
             <reverse-related count="x">Voracious Fell Beast</reverse-related>
+            <reverse-related exclude="exclude">Welcome to Sweettooth</reverse-related>
             <reverse-related count="x=1">Witch's Oven</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -4959,6 +5030,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <maintype>Creature</maintype>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/c/fcd8c14e-c989-4200-b95e-228c1b28038e.jpg?1692830354">WOC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/6/86dd086e-c757-4a6a-8838-51860f2095f8.jpg?1644542713">NEO</set>
             <reverse-related>Careful Cultivation</reverse-related>
             <reverse-related>Jugan Defends the Temple</reverse-related>
@@ -4990,6 +5062,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/d/dd0f8dba-e34e-443c-9e92-9ae9d3e4d585.jpg?1692830160">WOC</set>
             <set picURL="https://cards.scryfall.io/large/front/d/e/de29dd78-a059-4aad-8627-9c783f245a91.jpg?1689975851">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/d/b/dbab4309-daca-42d9-ad0b-0457717c4503.jpg?1686265039">LTR</set>
             <set picURL="https://cards.scryfall.io/large/front/4/9/493bb455-ee32-4cbe-bcaa-8df5b16e7b96.jpg?1675905861">ONC</set>
@@ -5061,6 +5134,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/0/50240867-3a3e-4a8d-9569-816ab4a3671a.jpg?1692830746">WOE</set>
             <set picURL="https://cards.scryfall.io/large/front/6/8/68264336-6bfb-44d9-86f5-86ef6433bc2f.jpg?1686258977">LTC</set>
             <set picURL="https://cards.scryfall.io/large/front/9/a/9abbeedd-f621-493d-bbab-acd425178c05.jpg?1681053525">MOC</set>
             <set picURL="https://cards.scryfall.io/large/front/3/4/34e52e1d-dcf7-485c-a29f-78e75581c3a4.jpg?1675905858">ONC</set>
@@ -5082,6 +5156,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related>Clarion Cathars</reverse-related>
             <reverse-related>Commander's Authority</reverse-related>
             <reverse-related>Dawnhart Mentor</reverse-related>
+            <reverse-related>Devouring Sugarmaw //  Have for Dinner</reverse-related>
             <reverse-related count="2">Gather the Townsfolk</reverse-related>
             <reverse-related count="5" exclude="exclude">Gather the Townsfolk</reverse-related>
             <reverse-related count="2">Harmonious Archon</reverse-related>
@@ -5096,13 +5171,16 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related>Lovestruck Beast // Heart's Desire</reverse-related>
             <reverse-related count="2">Oakhame Ranger // Bring Back</reverse-related>
             <reverse-related count="2">Rally for the Throne</reverse-related>
+            <reverse-related>Return from the Wilds</reverse-related>
             <reverse-related count="x">Slaughter Specialist</reverse-related>
+            <reverse-related>Stroke of Midnight</reverse-related>
             <reverse-related count="2">Sunset Revelry</reverse-related>
             <reverse-related>Thraben Doomsayer</reverse-related>
             <reverse-related count="x">Visions of Glory</reverse-related>
             <reverse-related>Voice of the Provinces</reverse-related>
             <reverse-related>Watchful Giant</reverse-related>
             <reverse-related>Wedding Announcement</reverse-related>
+            <reverse-related>Welcome to Sweettooth</reverse-related>
             <reverse-related>Worthy Knight</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5768,6 +5846,7 @@ Trample</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/4/f4035134-a162-4651-86c5-ae006b6e0e20.jpg?1692880673">WOE</set>
             <set picURL="https://cards.scryfall.io/large/front/3/d/3df61c33-38b3-4549-9e5d-ae1b5c1afd62.jpg?1689976149">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/5/2/52cf8f6b-2334-4881-8f58-4e11745c8851.jpg?1681044147">MOC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/b/4bd69d39-c2ce-44b4-b2d0-5e384d69db02.jpg?1662663534">DMC</set>
@@ -5787,6 +5866,8 @@ Trample</text>
             <reverse-related>Gallant Cavalry</reverse-related>
             <reverse-related count="4">Gideon's Phalanx</reverse-related>
             <reverse-related>History of Benalia</reverse-related>
+            <reverse-related>Hopeful Vigil</reverse-related>
+            <reverse-related count="2">Imodane's Recruiter // Train Troops</reverse-related>
             <reverse-related count="2">Knight Watch</reverse-related>
             <reverse-related>Knightly Valor</reverse-related>
             <reverse-related>Lonesome Unicorn // Rider in Need</reverse-related>
@@ -5801,6 +5882,7 @@ Trample</text>
             <reverse-related>Trostani's Summoner</reverse-related>
             <reverse-related count="x">Valiant Endeavor</reverse-related>
             <reverse-related>Valorous Steed</reverse-related>
+            <reverse-related>Virtue of Loyalty // Ardenvale Fealty</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -5899,6 +5981,20 @@ Flanking</text>
             <reverse-related>Knight of the New Coalition</reverse-related>
             <reverse-related count="2">Unyaro</reverse-related>
             <reverse-related>Xerex Strobe-Knight</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Knight Token       </name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Knight</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/1</pt>
+            </prop>
+            <set>WOC</set>
+            <reverse-related>Court of Embereth</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -6617,8 +6713,10 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <maintype>Creature</maintype>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/8/d80435c8-9a41-47cb-be84-784a278adcae.jpg?1692880772">WOE</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/f/e/fe10da68-dd05-4e8e-ab94-37262e835fb3.jpg?1572489138">ELD</set>
             <reverse-related count="2">Enchanted Carriage</reverse-related>
+            <reverse-related>Three Blind Mice</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -6719,6 +6817,21 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/5/c528581f-f671-45ae-8d7a-ae26a4e62ceb.jpg?1581902128">THB</set>
             <reverse-related>Ashiok, Nightmare Muse</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Nightmare Token  </name>
+            <text>At the beginning of combat on your turn, if a card was put into exile this turn, put a +1/+1 counter on this creature.</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Nightmare</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/5/858428ee-3a9c-4dfc-84c2-751e59df2ed7.jpg?1692880636">WOE</set>
+            <reverse-related count="2">Ashiok, Wicked Manipulator</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7006,8 +7119,11 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>2/4</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/3/03c18ed5-9806-4801-ae2e-852e39769038.jpg?1692830439">WOC</set>
             <set picURL="https://cards.scryfall.io/large/front/1/5/15e94825-98a8-40f1-8f61-83c79885fec0.jpg?1689883496">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/f/8f1d69f9-d9d7-47a9-9236-351f81ffa9ae.jpg">M19</set>
+            <reverse-related>Liberated Livestock</reverse-related>
+            <reverse-related>Ox Drover</reverse-related>
             <reverse-related>Transmogrifying Wand</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7058,6 +7174,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/c/5c83b97b-e74b-40b3-8465-28de8d8e0437.jpg?1692830411">WOC</set>
             <set picURL="https://cards.scryfall.io/large/front/9/c/9c2f9b68-07a4-4502-9cf8-de8583b5cdd0.jpg?1689796733">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/e/dee1c2ee-d92e-409a-995a-b4c91620c918.jpg?1581901969">THB</set>
             <reverse-related>Archon of Sun's Grace</reverse-related>
@@ -7600,6 +7717,21 @@ Creatures you control attack each combat if able.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Pirate Token   </name>
+            <text>This creature can't block</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Pirate</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/5/d5f108e7-7454-4c11-b1de-97d0bcc3c470.jpg?1692830519">WOC</set>
+            <reverse-related>Nettling Nuisance</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Plaguebearer of Nurgle</name>
             <prop>
                 <colors>B</colors>
@@ -7824,6 +7956,40 @@ Creatures you control attack each combat if able.</text>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/1/c1788d4c-31b8-4f73-8275-5470316e7ad4.jpg">C17</set>
             <reverse-related>Hungry Lynx</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Rat Token  </name>
+            <text>This creature can't block.</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Rat</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/e/1e0205f2-25c1-403b-b408-56e3f2d63b4d.jpg?1692495795">WOE</set>
+            <reverse-related>Edgewall Pack</reverse-related>
+            <reverse-related>Experimental Confectioner</reverse-related>
+            <reverse-related count="x">Experimental Confectioner</reverse-related>
+            <reverse-related>Gnawing Crescendo</reverse-related>
+            <reverse-related count="x">Gnawing Crescendo</reverse-related>
+            <reverse-related>Harried Spearguard</reverse-related>
+            <reverse-related>Lord Skitter's Butcher</reverse-related>
+            <reverse-related>Lord Skitter, Sewer King</reverse-related>
+            <reverse-related count="2">Ogre Chitterlord</reverse-related>
+            <reverse-related count="2">Ratcatcher Trainee // Pest Problem</reverse-related>
+            <reverse-related>Rat Out</reverse-related>
+            <reverse-related count="2">Redcap Gutter-Dweller</reverse-related>
+            <reverse-related count="x">Song of Totentanz</reverse-related>
+            <reverse-related count="x">Tangled Colony</reverse-related>
+            <reverse-related>Totentanz, Swarm Piper</reverse-related>
+            <reverse-related count="x">Totentanz, Swarm Piper</reverse-related>
+            <reverse-related>Twisted Sewer-Witch</reverse-related>
+            <reverse-related>Voracious Vermin</reverse-related>
+            <reverse-related>Warehouse Tabby</reverse-related>
+            <reverse-related count="x">Warehouse Tabby</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -8156,6 +8322,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/4/34e5ec9e-8e9c-4396-86b3-c9ca99eaf2fa.jpg?1692830106">WOC</set>
             <set picURL="https://cards.scryfall.io/large/front/8/2/82f710ed-fda6-44dd-9a42-d5b37656307d.jpg?1689973165">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/c/7/c7bb00e4-7eb0-4f7d-b2c3-8995959a6e6a.jpg?1674397413">DMR</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/5/d5a07153-9eb6-4366-aa09-ebe9b4868e7f.jpg?1661549652">DMU</set>
@@ -9481,6 +9648,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/7/07a0c31c-9ddf-440b-9b07-5cd6f6fc27eb.jpg?1692830426">WOC</set>
             <set picURL="https://cards.scryfall.io/large/front/2/6/265d196a-eaf5-42b0-aa76-f30a75a74e3a.jpg?1689883431">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/6/d/6d02a57e-6c76-491c-85f8-8f4d825be2c2.jpg?1681045233">MOM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/d/8dc14fc0-5c53-4381-ae55-1fb22d0f4148.jpg?1641306109">C21</set>
@@ -10218,6 +10386,7 @@ This creature can't be enchanted.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/7/3/73cbf189-a79b-4dca-8b29-33aef6306b5a.jpg?1692880797">WOE</set>
             <set picURL="https://cards.scryfall.io/large/front/c/b/cb7b5024-3a0b-4f14-977e-ba6c4c2567c9.jpg?1689975970">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/4/6/46a2c363-c879-4c36-b08a-dd57e3da19ae.jpg?1686265134">LTR</set>
             <set picURL="https://cards.scryfall.io/large/front/8/6/86e82686-0574-4fb3-8c3b-c6dbe3b24c8d.jpg?1681045651">MOM</set>
@@ -10273,6 +10442,8 @@ This creature can't be enchanted.</text>
             <reverse-related>Captain Lannery Storm</reverse-related>
             <reverse-related count="x">Cavern-Hoard Dragon</reverse-related>
             <reverse-related count="3">Centrifuge</reverse-related>
+            <reverse-related>Charming Scoundrel</reverse-related>
+            <reverse-related>Collector's Vault</reverse-related>
             <reverse-related count="2">Contract Killing</reverse-related>
             <reverse-related>Corsair Captain</reverse-related>
             <reverse-related>Crack Open</reverse-related>
@@ -10283,10 +10454,12 @@ This creature can't be enchanted.</text>
             <reverse-related>Deadeye Plunderers</reverse-related>
             <reverse-related>Deadly Derision</reverse-related>
             <reverse-related>Deadly Dispute</reverse-related>
+            <reverse-related>Decadent Dragon // Expensive Taste</reverse-related>
             <reverse-related>Depths of Desire</reverse-related>
             <reverse-related count="x">Descent into Avernus</reverse-related>
             <reverse-related count="x">Dihada, Binder of Wills</reverse-related>
             <reverse-related>Dire Fleet Hoarder</reverse-related>
+            <reverse-related>Discerning Financier</reverse-related>
             <reverse-related count="x=0">Dockside Extortionist</reverse-related>
             <reverse-related>Done for the Day</reverse-related>
             <reverse-related>Dungeoneer's Pack</reverse-related>
@@ -10298,6 +10471,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Fae Offering</reverse-related>
             <reverse-related>Fain, the Broker</reverse-related>
             <reverse-related>Fake Your Own Death</reverse-related>
+            <reverse-related>Flick a Coin</reverse-related>
             <reverse-related>Forging the Tyrite Sword</reverse-related>
             <reverse-related>Forsworn Paladin</reverse-related>
             <reverse-related>Furnace Reins</reverse-related>
@@ -10318,6 +10492,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Goldspan Dragon</reverse-related>
             <reverse-related>Goldvein Pick</reverse-related>
             <reverse-related>Gorbag of Minas Morgul</reverse-related>
+            <reverse-related>Grabby Giant // That's Mine</reverse-related>
             <reverse-related>Grim Bounty</reverse-related>
             <reverse-related count="2">Grim Hireling</reverse-related>
             <reverse-related count="2">Guild Artisan</reverse-related>
@@ -10347,6 +10522,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Jolene, the Plunder Queen</reverse-related>
             <reverse-related count="x" exclude="exclude">Jolene, the Plunder Queen</reverse-related>
             <reverse-related>Kalain, Reclusive Painter</reverse-related>
+            <reverse-related>Korvold and the Noble Thief</reverse-related>
             <reverse-related>Life Insurance</reverse-related>
             <reverse-related count="x">Lobelia Sackville-Baggins</reverse-related>
             <reverse-related>Loot Dispute</reverse-related>
@@ -10398,6 +10574,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Rashmi and Ragavan</reverse-related>
             <reverse-related count="x">Reckless Endeavor</reverse-related>
             <reverse-related>Reckoner Bankbuster</reverse-related>
+            <reverse-related>Redcap Thief</reverse-related>
             <reverse-related>Revel in Riches</reverse-related>
             <reverse-related>Riveteers Requisitioner</reverse-related>
             <reverse-related>Rose Room Treasurer</reverse-related>
@@ -13269,6 +13446,155 @@ Whenever your Ring-bearer deals combat damage to a player, each opponent loses 3
             <tablerow>1</tablerow>
         </card>
         <card>
+            <name>Monster // Sorcerer</name>
+            <text>Enchant creature
+Enchanted creature gets +1/+1 and has trample.
+
+---
+
+Enchant creature
+Enchanted creature gets +1/+1 and has "Whenever this creature attacks, scry 1."</text>
+            <prop>
+                <type>Token Enchantment — Aura Role // Token Enchantment — Aura Role</type>
+                <maintype>Enchantment</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/b/6b8a810b-8538-41c3-a792-dbd1a1845faa.jpg?1692934266">WOE</set>
+            <reverse-related>Become Brutes</reverse-related>
+            <reverse-related>Curse of the Werefox</reverse-related>
+            <reverse-related>Faunsbane Troll</reverse-related>
+            <reverse-related>Ferocious Werefox // Guard Change</reverse-related>
+            <reverse-related>Giant Inheritance</reverse-related>
+            <reverse-related>Gylwain, Casting Director</reverse-related>
+            <reverse-related>Living Lectern</reverse-related>
+            <reverse-related>Monstrous Rage</reverse-related>
+            <reverse-related>Spellbook Vendor</reverse-related>
+            <reverse-related>Splashy Spellcaster</reverse-related>
+            <reverse-related>Syr Armont, the Redeemer</reverse-related>
+            <reverse-related>Unassuming Sage</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Royal // Young Hero</name>
+            <text>Enchant creature
+Enchanted creature gets +1/+1 and has ward {1}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+
+---
+
+Enchant creature
+Enchanted creature has "Whenever this creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it."</text>
+            <prop>
+                <type>Token Enchantment — Aura Role // Token Enchantment — Aura Role</type>
+                <maintype>Enchantment</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/c/f/cff8ef48-2988-4d21-837e-01f1459e07c5.jpg?1692904189">WOE</set>
+            <reverse-related>Besotted Knight // Betroth the Beast</reverse-related>
+            <reverse-related>Charmed Clothier</reverse-related>
+            <reverse-related>Cut In</reverse-related>
+            <reverse-related>Embereth Veteran</reverse-related>
+            <reverse-related exclude="exclude">Gylwain, Casting Director</reverse-related>
+            <reverse-related>Merry Bards</reverse-related>
+            <reverse-related>Protective Parents</reverse-related>
+            <reverse-related>Redtooth Genealogist</reverse-related>
+            <reverse-related>Return Triumphant</reverse-related>
+            <reverse-related>Royal Treatment</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Wicked // Cursed</name>
+            <text>Enchant creature
+Enchanted creature gets +1/+1.
+When this Aura is put into a graveyard from the battlefield, each opponent loses 1 life.
+
+---
+
+Enchant creature
+Enchanted creature has base power and toughness 1/1.</text>
+            <prop>
+                <type>Token Enchantment — Aura Role // Token Enchantment — Aura Role</type>
+                <maintype>Enchantment</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/a/9/a9b7040e-cd24-42cc-b043-9af8c557da6a.jpg?1692904193">WOE</set>
+            <reverse-related count="x">Asinine Antics</reverse-related>
+            <reverse-related exclude="exclude">Charming Scoundrel</reverse-related>
+            <reverse-related>Conceited Witch // Price of Beauty</reverse-related>
+            <reverse-related>Cursed Courtier</reverse-related>
+            <reverse-related>Diminisher Witch</reverse-related>
+            <reverse-related>Eriette's Whisper</reverse-related>
+            <reverse-related>Gadwick's First Duel</reverse-related>
+            <reverse-related>Lord Skitter's Blessing</reverse-related>
+            <reverse-related>Not Dead After All</reverse-related>
+            <reverse-related>Shatter the Oath</reverse-related>
+            <reverse-related>Spiteful Hexmage</reverse-related>
+            <reverse-related exclude="exclude">The Witch's Vanity</reverse-related>
+            <reverse-related>Twisted Fealty</reverse-related>
+            <reverse-related count="x">Twisted Sewer-Witch</reverse-related>
+            <reverse-related>Vantress Transmuter // Croaking Curse</reverse-related>
+            <reverse-related>Witch's Mark</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Monster // Virtuous</name>
+            <text>Enchant creature
+Enchanted creature gets +1/+1 and has trample.
+
+---
+
+Enchant creature
+Enchanted creature gets +1/+1 for each enchantment you control.</text>
+            <prop>
+                <type>Token Enchantment — Aura Role // Token Enchantment — Aura Role</type>
+                <maintype>Enchantment</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/7/27927100-2587-4e05-9957-eb183d46c1f0.jpg?1692881047">WOC</set>
+            <reverse-related>Ellivere of the Wild Court</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Royal // Virtuous</name>
+            <text>Enchant creature
+Enchanted creature gets +1/+1 and has ward {1}.
+(Whenever this creature become the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+
+---
+
+Enchant creature
+Enchanted creature gets +1/+1 for each enchantment you control.</text>
+            <prop>
+                <type>Token Enchantment — Aura Role // Token Enchantment — Aura Role</type>
+                <maintype>Enchantment</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/c/e/ce7ac41f-ea0e-46b5-bab4-be1a4e451524.jpg?1692830775">WOC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Sorceror // Virtuous</name>
+            <text>Enchant creature
+Enchanted creature gets +1/+1 and has "Whenever this creature attacks, scry 1."
+
+---
+
+Enchant creature
+Enchanted creature gets +1/+1 for each enchantment you control.</text>
+            <prop>
+                <type>Token Enchantment — Aura Role // Token Enchantment — Aura Role</type>
+                <maintype>Enchantment</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/4/3/43146a16-0044-491c-b0a9-657ba8e37427.jpg?1692830873">WOC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Acorn Stash</name>
             <text>(Place your acorn counters in this area.)</text>
             <prop>
@@ -13760,10 +14086,15 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>Canal Courier</reverse-related>
             <reverse-related>Champions of Minas Tirith</reverse-related>
             <reverse-related>Court of Ambition</reverse-related>
+            <reverse-related>Court of Ardenvale</reverse-related>
             <reverse-related>Court of Bounty</reverse-related>
             <reverse-related>Court of Cunning</reverse-related>
+            <reverse-related exclude="exclude">Court of Embereth</reverse-related>
+            <reverse-related>Court of Garenbrig</reverse-related>
             <reverse-related exclude="exclude">Court of Grace</reverse-related>
             <reverse-related>Court of Ire</reverse-related>
+            <reverse-related>Court of Locthwain</reverse-related>
+            <reverse-related>Court of Vantress</reverse-related>
             <reverse-related>Crimson Fleet Commodore</reverse-related>
             <reverse-related>Crown of Gondor</reverse-related>
             <reverse-related>Crown-Hunter Hireling</reverse-related>
@@ -13806,61 +14137,113 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>State</type>
                 <maintype>State</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/c/fcf4c7fb-7859-4c11-8552-6817f5119d2e.jpg?1692880519">WOE</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/8/a8d50cf9-03e6-467a-aadf-84a24106ffa9.jpg?1572489247">ELD</set>
             <reverse-related attach="attach">Altar of Bhaal // Bone Offering</reverse-related>
             <reverse-related attach="attach">Amethyst Dragon // Explosive Crystal</reverse-related>
             <reverse-related attach="attach">Animating Faerie // Bring to Life</reverse-related>
             <reverse-related attach="attach">Ardenvale Tactician // Dizzying Swoop</reverse-related>
+            <reverse-related attach="attach">Aquatic Alchemist // Bubble Up</reverse-related>
             <reverse-related attach="attach">Beanstalk Giant // Fertile Footsteps</reverse-related>
+            <reverse-related attach="attach">Beanstalk Wurm // Plant Beans</reverse-related>
+            <reverse-related attach="attach">Bellowing Bruiser //  Beat a Path</reverse-related>
+            <reverse-related attach="attach">Beluna Grandsquall // Seek Thrills</reverse-related>
+            <reverse-related attach="attach">Beluna's Gatekeeper // Entry Denied</reverse-related>
+            <reverse-related attach="attach">Besotted Knight // Betroth the Beast</reverse-related>
             <reverse-related attach="attach">Blessed Hippogriff // Tyr's Blessing</reverse-related>
             <reverse-related attach="attach">Bonecrusher Giant // Stomp</reverse-related>
+            <reverse-related attach="attach">Bramble Familiar // Fetch Quest</reverse-related>
             <reverse-related attach="attach">Brazen Borrower // Petty Theft</reverse-related>
+            <reverse-related attach="attach">Callous Sell-Sword // Burn Together</reverse-related>
+            <reverse-related attach="attach">Cheeky House-Mouse // Squeak By</reverse-related>
             <reverse-related attach="attach">Colossal Badger // Dig Deep</reverse-related>
+            <reverse-related attach="attach">Conceited Witch //  Price of Beauty</reverse-related>
+            <reverse-related attach="attach">Cruel Somnophage // Can't Wake Up</reverse-related>
             <reverse-related attach="attach">Crystal Dragon // Rob the Hoard</reverse-related>
             <reverse-related attach="attach">Curious Pair // Treats to Share</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Decadent Dragon // Expensive Taste</reverse-related>
             <reverse-related attach="attach">Dread Linnorm // Scale Deflection</reverse-related>
+            <reverse-related attach="attach">Devouring Sugarmaw // Have for Dinner</reverse-related>
+            <reverse-related attach="attach">Elusive Otter // Grove's Bounty</reverse-related>
             <reverse-related attach="attach">Embereth Shieldbreaker // Battle Display</reverse-related>
             <reverse-related attach="attach">Emerald Dragon // Dissonant Wave</reverse-related>
             <reverse-related attach="attach">Ettercap // Web Shot</reverse-related>
             <reverse-related attach="attach">Fae of Wishes // Granted</reverse-related>
             <reverse-related attach="attach">Faerie Guidemother // Gift of the Fae</reverse-related>
             <reverse-related attach="attach">Fang Dragon // Forktail Sweep</reverse-related>
+            <reverse-related attach="attach">Fell Horseman // Deathly Ride</reverse-related>
+            <reverse-related attach="attach">Ferocious Werefox // Guard Change</reverse-related>
             <reverse-related attach="attach">Flaxen Intruder // Welcome Home</reverse-related>
             <reverse-related attach="attach">Foulmire Knight // Profane Insight</reverse-related>
+            <reverse-related attach="attach">Frolicking Familiar // Blow Off Steam</reverse-related>
+            <reverse-related attach="attach">Galvanic Giant // Storm Reading</reverse-related>
             <reverse-related attach="attach">Garenbrig Carver // Shield's Might</reverse-related>
             <reverse-related attach="attach">Ghost Lantern // Bind Spirit</reverse-related>
             <reverse-related attach="attach">Giant Killer // Chop Down</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Gingerbread Hunter // Puny Snack</reverse-related>
+            <reverse-related attach="attach">Grabby Giant // That's Mine</reverse-related>
             <reverse-related attach="attach">Gray Slaad // Entropic Decay</reverse-related>
             <reverse-related attach="attach">Guardian Naga // Banishing Coils</reverse-related>
+            <reverse-related attach="attach">Gumdrop Poisoner // Tempt with Treats</reverse-related>
+            <reverse-related attach="attach">Heartflame Duelist // Heartflame Slash</reverse-related>
+            <reverse-related attach="attach">Hearth Elemental // Stoke Genius</reverse-related>
             <reverse-related attach="attach">Hezrou // Demonic Stench</reverse-related>
+            <reverse-related attach="attach">Hollow Scavenger // Bakery Raid</reverse-related>
             <reverse-related attach="attach">Horn of Valhalla // Ysgard's Call</reverse-related>
+            <reverse-related attach="attach">Horned Loch-Whale // Lagoon Breach</reverse-related>
             <reverse-related attach="attach">Hypnotic Sprite // Mesmeric Glare</reverse-related>
             <reverse-related attach="attach">Illithid Harvester // Plant Tadpoles</reverse-related>
+            <reverse-related attach="attach">Imodane's Recruiter // Train Troops</reverse-related>
+            <reverse-related attach="attach">Intrepid Trufflesnout // Go Hog Wild</reverse-related>
             <reverse-related attach="attach">Lonesome Unicorn // Rider in Need</reverse-related>
             <reverse-related attach="attach">Lovestruck Beast // Heart's Desire</reverse-related>
+            <reverse-related attach="attach">Kellan, the Fae-Blooded //  Birthright Boon</reverse-related>
             <reverse-related attach="attach">Merchant of the Vale // Haggle</reverse-related>
             <reverse-related attach="attach">Merfolk Secretkeeper // Venture Deeper</reverse-related>
+            <reverse-related attach="attach">Minecart Daredevil // Ride the Rails</reverse-related>
             <reverse-related attach="attach">Monster Manual // Zoological Study</reverse-related>
             <reverse-related attach="attach">Moonshae Pixie // Pixie Dust</reverse-related>
+            <reverse-related attach="attach">Mosswood Dreadknight //  Dread Whispers</reverse-related>
             <reverse-related attach="attach">Murderous Rider // Swift End</reverse-related>
             <reverse-related attach="attach">Oakhame Ranger // Bring Back</reverse-related>
+            <reverse-related attach="attach">Obyra's Attendants // Desperate Parry</reverse-related>
             <reverse-related attach="attach">Order of Midnight // Alter Fate</reverse-related>
             <reverse-related attach="attach" exclude="exclude">Pegasus Guardian // Rescue the Foal</reverse-related>
+            <reverse-related attach="attach">Picklock Prankster // Free the Fae</reverse-related>
+            <reverse-related attach="attach">Picnic Ruiner // Stolen Goodies</reverse-related>
+            <reverse-related attach="attach">Pollen-Shield Hare // Hare Raising</reverse-related>
             <reverse-related attach="attach">Queen of Ice // Rage of Winter</reverse-related>
+            <reverse-related attach="attach">Questing Druid // Seek the Beast</reverse-related>
+            <reverse-related attach="attach">Ratcatcher Trainee // Pest Problem</reverse-related>
             <reverse-related attach="attach">Realm-Cloaked Giant // Cast Off</reverse-related>
             <reverse-related attach="attach">Reaper of Night // Harvest Fear</reverse-related>
             <reverse-related attach="attach">Rimrock Knight // Boulder Rush</reverse-related>
             <reverse-related attach="attach">Rosethorn Acolyte // Seasonal Ritual</reverse-related>
             <reverse-related attach="attach">Sapphire Dragon // Psionic Pulse</reverse-related>
+            <reverse-related attach="attach">Scalding Viper // Steam Clean</reverse-related>
             <reverse-related attach="attach">Sea Hag // Aquatic Ingress</reverse-related>
             <reverse-related attach="attach">Shepherd of the Flock // Usher to Safety</reverse-related>
+            <reverse-related attach="attach">Shrouded Shepherd // Cleave Shadows</reverse-related>
             <reverse-related attach="attach">Silverflame Squire // On Alert</reverse-related>
             <reverse-related attach="attach">Smitten Swordmaster // Curry Favor</reverse-related>
+            <reverse-related attach="attach">Spellscorn Coven // Take It Back</reverse-related>
+            <reverse-related attach="attach">Stormkeld Vanguard // Bear Down</reverse-related>
             <reverse-related attach="attach">Sword Coast Serpent // Capsizing Wave</reverse-related>
+            <reverse-related attach="attach">Tempest Hart // Scan the Clouds</reverse-related>
+            <reverse-related attach="attach">Threadbind Clique // Rip the Seams</reverse-related>
             <reverse-related attach="attach">Tlincalli Hunter // Retrieve Prey</reverse-related>
             <reverse-related attach="attach">Topaz Dragon // Entropic Cloud</reverse-related>
             <reverse-related attach="attach">Tuinvale Treefolk // Oaken Boon</reverse-related>
+            <reverse-related attach="attach">Twining Twins // Swift Spiral</reverse-related>
             <reverse-related attach="attach">Two-Handed Axe // Sweeping Cleave</reverse-related>
+            <reverse-related attach="attach">Two-Headed Hunter // Twice the Rage</reverse-related>
+            <reverse-related attach="attach">Vantress Transmuter // Croaking Curse</reverse-related>
+            <reverse-related attach="attach">Virtue of Courage // Embereth Blaze</reverse-related>
+            <reverse-related attach="attach">Virtue of Knowledge // Vantress Visions</reverse-related>
+            <reverse-related attach="attach">Virtue of Loyalty // Ardenvale Fealty</reverse-related>
+            <reverse-related attach="attach">Virtue of Persistence // Locthwain Scorn</reverse-related>
+            <reverse-related attach="attach">Virtue of Strength // Virtue of Strength</reverse-related>
+            <reverse-related attach="attach">Woodland Acolyte // Mend the Wilds</reverse-related>
             <reverse-related attach="attach">Young Blue Dragon // Sand Augury</reverse-related>
             <reverse-related attach="attach">Young Red Dragon // Bathe in Gold</reverse-related>
             <token>1</token>
@@ -13894,6 +14277,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>Token</type>
                 <maintype>Token</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/d/ddd21725-17a3-40f9-bb9d-764c735949ef.jpg?1692830378">WOC</set>
             <set picURL="https://cards.scryfall.io/large/front/f/e/febfca87-fc37-46cc-8236-73bc5c0e5755.jpg?1689710585">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/4/3/43ec2f4d-d988-49a8-b2ac-598703fe8b26.jpg?1675456346">BRC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/e/1e6ce56c-ca2e-48e8-a4d9-671cb4de8a9d.jpg?1650819612">SNC</set>
