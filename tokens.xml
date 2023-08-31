@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20230818</sourceVersion>
+        <sourceVersion>20230831</sourceVersion>
     </info>
     <cards>
         <!--
@@ -10357,6 +10357,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="x">Mahadi, Emporium Master</reverse-related>
             <reverse-related>Malcolm, Keen-Eyed Navigator</reverse-related>
             <reverse-related count="x" exclude="exclude">Malcolm, Keen-Eyed Navigator</reverse-related>
+            <reverse-related count="x=1">Malik, Grim Manipulator</reverse-related>
             <reverse-related>Marching Duodrone</reverse-related>
             <reverse-related count="2">Mari, the Killing Quill</reverse-related>
             <reverse-related count="x">Marut</reverse-related>
@@ -10366,7 +10367,6 @@ This creature can't be enchanted.</text>
             <reverse-related>Misfortune Teller</reverse-related>
             <reverse-related>Monologue Tax</reverse-related>
             <reverse-related count="2">Most Wanted</reverse-related>
-            <reverse-related count="x=1">Negan, the Cold-Blooded</reverse-related>
             <reverse-related>Noble's Purse</reverse-related>
             <reverse-related exclude="exclude">Oath of the Grey Host</reverse-related>
             <reverse-related count="x">Ognis, the Dragon's Lash</reverse-related>
@@ -10974,9 +10974,9 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/1/a121c039-ec93-4383-bdb5-bc7acf9e1a05.jpg?1608349797">SLD</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/7/a7940307-6ae3-423e-b752-a72acddb9087.jpg?1616400493">SLD</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/b/4b236f7a-62b0-4605-9328-6994ca65909b.jpg?1608349820">SLD</set>
-            <reverse-related count="3">Daryl, Hunter of Walkers</reverse-related>
-            <reverse-related>Lucille</reverse-related>
-            <reverse-related count="2">Michonne, Ruthless Survivor</reverse-related>
+            <reverse-related count="2">Enkira, Hostile Scavenger</reverse-related>
+            <reverse-related>Gisa's Favorite Shovel</reverse-related>
+            <reverse-related count="3">Hansk, Slayer Zealot</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
