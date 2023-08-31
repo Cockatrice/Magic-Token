@@ -946,7 +946,7 @@ Creature tokens you control have flying and vigilance.</text>
             <reverse-related>Falconer Adept</reverse-related>
             <reverse-related count="x">Jötun Owl Keeper</reverse-related>
             <reverse-related>Knight of Doves</reverse-related>
-            <reverse-related count="x">Knight of Doves</reverse-related>
+            <reverse-related count="x" exclude="exclude">Knight of Doves</reverse-related>
             <reverse-related>Liberated Livestock</reverse-related>
             <reverse-related>Love Song of Night and Day</reverse-related>
             <reverse-related count="4">Migratory Route</reverse-related>
@@ -3909,8 +3909,8 @@ This creature can block only creatures with flying.</text>
             <reverse-related>The Shire</reverse-related>
             <reverse-related>The Underworld Cookbook</reverse-related>
             <reverse-related>The Wilds</reverse-related>
-            <reverse-related>The Witch's Vanity</reverse-related>
             <reverse-related count="2" exclude="exclude">The Wilds</reverse-related>
+            <reverse-related>The Witch's Vanity</reverse-related>
             <reverse-related>Tireless Provisioner</reverse-related>
             <reverse-related>Tough Cookie</reverse-related>
             <reverse-related>Trail of Crumbs</reverse-related>
@@ -5156,7 +5156,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related>Clarion Cathars</reverse-related>
             <reverse-related>Commander's Authority</reverse-related>
             <reverse-related>Dawnhart Mentor</reverse-related>
-            <reverse-related>Devouring Sugarmaw //  Have for Dinner</reverse-related>
+            <reverse-related>Devouring Sugarmaw // Have for Dinner</reverse-related>
             <reverse-related count="2">Gather the Townsfolk</reverse-related>
             <reverse-related count="5" exclude="exclude">Gather the Townsfolk</reverse-related>
             <reverse-related count="2">Harmonious Archon</reverse-related>
@@ -7972,24 +7972,24 @@ Creatures you control attack each combat if able.</text>
             <set picURL="https://cards.scryfall.io/large/front/1/e/1e0205f2-25c1-403b-b408-56e3f2d63b4d.jpg?1692495795">WOE</set>
             <reverse-related>Edgewall Pack</reverse-related>
             <reverse-related>Experimental Confectioner</reverse-related>
-            <reverse-related count="x">Experimental Confectioner</reverse-related>
+            <reverse-related count="x" exclude="exclude">Experimental Confectioner</reverse-related>
             <reverse-related>Gnawing Crescendo</reverse-related>
-            <reverse-related count="x">Gnawing Crescendo</reverse-related>
+            <reverse-related count="x" exclude="exclude">Gnawing Crescendo</reverse-related>
             <reverse-related>Harried Spearguard</reverse-related>
             <reverse-related>Lord Skitter's Butcher</reverse-related>
             <reverse-related>Lord Skitter, Sewer King</reverse-related>
             <reverse-related count="2">Ogre Chitterlord</reverse-related>
-            <reverse-related count="2">Ratcatcher Trainee // Pest Problem</reverse-related>
             <reverse-related>Rat Out</reverse-related>
+            <reverse-related count="2">Ratcatcher Trainee // Pest Problem</reverse-related>
             <reverse-related count="2">Redcap Gutter-Dweller</reverse-related>
             <reverse-related count="x">Song of Totentanz</reverse-related>
             <reverse-related count="x">Tangled Colony</reverse-related>
             <reverse-related>Totentanz, Swarm Piper</reverse-related>
-            <reverse-related count="x">Totentanz, Swarm Piper</reverse-related>
+            <reverse-related count="x" exclude="exclude">Totentanz, Swarm Piper</reverse-related>
             <reverse-related>Twisted Sewer-Witch</reverse-related>
             <reverse-related>Voracious Vermin</reverse-related>
             <reverse-related>Warehouse Tabby</reverse-related>
-            <reverse-related count="x">Warehouse Tabby</reverse-related>
+            <reverse-related count="x" exclude="exclude">Warehouse Tabby</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -14142,11 +14142,11 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Altar of Bhaal // Bone Offering</reverse-related>
             <reverse-related attach="attach">Amethyst Dragon // Explosive Crystal</reverse-related>
             <reverse-related attach="attach">Animating Faerie // Bring to Life</reverse-related>
-            <reverse-related attach="attach">Ardenvale Tactician // Dizzying Swoop</reverse-related>
             <reverse-related attach="attach">Aquatic Alchemist // Bubble Up</reverse-related>
+            <reverse-related attach="attach">Ardenvale Tactician // Dizzying Swoop</reverse-related>
             <reverse-related attach="attach">Beanstalk Giant // Fertile Footsteps</reverse-related>
             <reverse-related attach="attach">Beanstalk Wurm // Plant Beans</reverse-related>
-            <reverse-related attach="attach">Bellowing Bruiser //  Beat a Path</reverse-related>
+            <reverse-related attach="attach">Bellowing Bruiser // Beat a Path</reverse-related>
             <reverse-related attach="attach">Beluna Grandsquall // Seek Thrills</reverse-related>
             <reverse-related attach="attach">Beluna's Gatekeeper // Entry Denied</reverse-related>
             <reverse-related attach="attach">Besotted Knight // Betroth the Beast</reverse-related>
@@ -14157,13 +14157,13 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Callous Sell-Sword // Burn Together</reverse-related>
             <reverse-related attach="attach">Cheeky House-Mouse // Squeak By</reverse-related>
             <reverse-related attach="attach">Colossal Badger // Dig Deep</reverse-related>
-            <reverse-related attach="attach">Conceited Witch //  Price of Beauty</reverse-related>
+            <reverse-related attach="attach">Conceited Witch // Price of Beauty</reverse-related>
             <reverse-related attach="attach">Cruel Somnophage // Can't Wake Up</reverse-related>
             <reverse-related attach="attach">Crystal Dragon // Rob the Hoard</reverse-related>
             <reverse-related attach="attach">Curious Pair // Treats to Share</reverse-related>
             <reverse-related attach="attach" exclude="exclude">Decadent Dragon // Expensive Taste</reverse-related>
-            <reverse-related attach="attach">Dread Linnorm // Scale Deflection</reverse-related>
             <reverse-related attach="attach">Devouring Sugarmaw // Have for Dinner</reverse-related>
+            <reverse-related attach="attach">Dread Linnorm // Scale Deflection</reverse-related>
             <reverse-related attach="attach">Elusive Otter // Grove's Bounty</reverse-related>
             <reverse-related attach="attach">Embereth Shieldbreaker // Battle Display</reverse-related>
             <reverse-related attach="attach">Emerald Dragon // Dissonant Wave</reverse-related>
@@ -14195,15 +14195,15 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Illithid Harvester // Plant Tadpoles</reverse-related>
             <reverse-related attach="attach">Imodane's Recruiter // Train Troops</reverse-related>
             <reverse-related attach="attach">Intrepid Trufflesnout // Go Hog Wild</reverse-related>
+            <reverse-related attach="attach">Kellan, the Fae-Blooded // Birthright Boon</reverse-related>
             <reverse-related attach="attach">Lonesome Unicorn // Rider in Need</reverse-related>
             <reverse-related attach="attach">Lovestruck Beast // Heart's Desire</reverse-related>
-            <reverse-related attach="attach">Kellan, the Fae-Blooded //  Birthright Boon</reverse-related>
             <reverse-related attach="attach">Merchant of the Vale // Haggle</reverse-related>
             <reverse-related attach="attach">Merfolk Secretkeeper // Venture Deeper</reverse-related>
             <reverse-related attach="attach">Minecart Daredevil // Ride the Rails</reverse-related>
             <reverse-related attach="attach">Monster Manual // Zoological Study</reverse-related>
             <reverse-related attach="attach">Moonshae Pixie // Pixie Dust</reverse-related>
-            <reverse-related attach="attach">Mosswood Dreadknight //  Dread Whispers</reverse-related>
+            <reverse-related attach="attach">Mosswood Dreadknight // Dread Whispers</reverse-related>
             <reverse-related attach="attach">Murderous Rider // Swift End</reverse-related>
             <reverse-related attach="attach">Oakhame Ranger // Bring Back</reverse-related>
             <reverse-related attach="attach">Obyra's Attendants // Desperate Parry</reverse-related>
@@ -14242,7 +14242,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Virtue of Knowledge // Vantress Visions</reverse-related>
             <reverse-related attach="attach">Virtue of Loyalty // Ardenvale Fealty</reverse-related>
             <reverse-related attach="attach">Virtue of Persistence // Locthwain Scorn</reverse-related>
-            <reverse-related attach="attach">Virtue of Strength // Virtue of Strength</reverse-related>
+            <reverse-related attach="attach">Virtue of Strength // Garenbrig Growth</reverse-related>
             <reverse-related attach="attach">Woodland Acolyte // Mend the Wilds</reverse-related>
             <reverse-related attach="attach">Young Blue Dragon // Sand Augury</reverse-related>
             <reverse-related attach="attach">Young Red Dragon // Bathe in Gold</reverse-related>
