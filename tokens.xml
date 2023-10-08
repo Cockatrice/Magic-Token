@@ -61,6 +61,98 @@
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Alien Angel Token</name>
+            <text>First strike, vigilance
+Whenever an opponent casts a creature spell, this permanent isn't a creature until end of turn.</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Artifact Creature — Alien Angel</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/b/6/b65e872a-ba16-4df2-9214-60019fd6456a.jpg?1696601577">WHO</set>
+            <reverse-related count="2">Aplan Mortarium</reverse-related>
+            <reverse-related exclude="exclude">Blink</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Alien Insect Token</name>
+            <text>Flying</text>
+            <prop>
+                <colors>GW</colors>
+                <type>Token Creature — Alien Insect</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/0/609bcaff-c903-40ce-9b3e-bb7b07bb9125.jpg?1696625166">WHO</set>
+            <reverse-related count="x">Vrestin, Menoptra Leader</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Alien Rhino Token</name>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Alien Rhino</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/4</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/8/68243f3e-c311-47cf-b1f4-583625919a2c.jpg?1696547723">WHO</set>
+            <reverse-related>Fugitive of the Judoon</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Alien Salamander Token</name>
+            <text>Islandwalk</text>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Alien Salamander</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/b/db45133d-ce37-42b4-b068-fbcc8be0e907.jpg?1696625268">WHO</set>
+            <reverse-related>The Sea Devils</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Alien Warrior Token</name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Alien Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/1/6155e7ce-3e8c-4bb3-941d-dac686d4eb57.jpg?1696546993">WHO</set>
+            <reverse-related>Iraxxa, Empress of Mars</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Alien Token</name>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Alien</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/2/92520769-1e59-45d0-bfe9-cbaf80a4591e.jpg?1696547113">WHO</set>
+            <reverse-related>Adipose Offspring</reverse-related>
+            <reverse-related count="x" exclude="exclude">Adipose Offspring</reverse-related>
+            <reverse-related>New New York</reverse-related>
+            <reverse-related exclude="exclude">North Pole Research Base</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Angel of Sanctions (Token)</name>
             <text>Flying
 When Angel of Sanctions enters the battlefield, you may exile target nonland permanent an opponent controls until Angel of Sanctions leaves the battlefield.</text>
@@ -644,6 +736,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/a/5aaf1eac-279f-4264-93f6-9058a6a83d0a.jpg?1696546841">WHO</set>
             <set picURL="https://cards.scryfall.io/large/front/a/2/a2d33cf3-c803-4e90-9d4b-fa34136b600e.jpg?1692880483">WOE</set>
             <set picURL="https://cards.scryfall.io/large/front/c/6/c622237d-92e5-4efc-aec4-0a18efd6fb38.jpg?1686264549">LTC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/7/47239704-652c-49a7-9011-30f1f7d0078f.jpg?1675905872">ONC</set>
@@ -1809,6 +1902,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/d/0de94d6e-2c7c-46d8-897d-4f0e56cc583b.jpg?1696546667">WHO</set>
             <set picURL="https://cards.scryfall.io/large/front/5/a/5adbbaa4-b1e3-4c5f-a1c7-aa294f838c54.jpg?1689976174">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/e/1/e197929c-1334-48f5-a03c-546a4074ad02.jpg?1681053629">MOC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/3/43eab560-8ead-4383-afb9-9180a214704b.jpg?1663530503">40K</set>
@@ -1827,9 +1921,11 @@ Cloud Sprite can block only creatures with flying.</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/2/b2d16818-7812-4d36-b1bf-fb954e5ac958.jpg?1562086877">SOI</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/d/3d66ec9c-7e5d-47ca-bce4-46798152d1f4.jpg?1562086865">SOI</set>
             <reverse-related>Academy Manufactor</reverse-related>
+            <reverse-related>Antarctic Research Base</reverse-related>
             <reverse-related>Angelic Sleuth</reverse-related>
             <reverse-related count="x" exclude="exclude">Angelic Sleuth</reverse-related>
             <reverse-related>Bearer of Overwhelming Truths</reverse-related>
+            <reverse-related>Blink</reverse-related>
             <reverse-related>Briarbridge Patrol</reverse-related>
             <reverse-related>Briarbridge Tracker</reverse-related>
             <reverse-related>Bygone Bishop</reverse-related>
@@ -1840,6 +1936,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Dennick, Pious Apparition</reverse-related>
             <reverse-related count="x">Disorder in the Court</reverse-related>
             <reverse-related>Drownyard Explorers</reverse-related>
+            <reverse-related>Duggan, Private Detective</reverse-related>
             <reverse-related>Elmar, Ulvenwald Informant</reverse-related>
             <reverse-related>Eloise, Nephalia Sleuth</reverse-related>
             <reverse-related count="x" exclude="exclude">Eloise, Nephalia Sleuth</reverse-related>
@@ -1850,17 +1947,22 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Fleeting Memories</reverse-related>
             <reverse-related>Floodhound</reverse-related>
             <reverse-related>Foul Play</reverse-related>
+            <reverse-related exclude="exclude">Fugitive of the Judoon</reverse-related>
             <reverse-related>Funnel-Web Recluse</reverse-related>
             <reverse-related>Gone Missing</reverse-related>
             <reverse-related>Hard Evidence</reverse-related>
+            <reverse-related>Heaven Sent</reverse-related>
             <reverse-related>Hold for Questioning</reverse-related>
             <reverse-related>Humble the Brute</reverse-related>
             <reverse-related count="x">Inquisitor Eisenhorn</reverse-related>
             <reverse-related>Inquisitor Greyfax</reverse-related>
             <reverse-related>Jace's Scrutiny</reverse-related>
             <reverse-related>Lonis, Cryptozoologist</reverse-related>
+            <reverse-related>Madame Vastra</reverse-related>
             <reverse-related>Magnifying Glass</reverse-related>
+            <reverse-related>Martha Jones</reverse-related>
             <reverse-related>Ongoing Investigation</reverse-related>
+            <reverse-related exclude="exclude">Osgood, Operation Double</reverse-related>
             <reverse-related>Press for Answers</reverse-related>
             <reverse-related>Root Out</reverse-related>
             <reverse-related>Search the Premises</reverse-related>
@@ -1869,6 +1971,12 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related count="x">Sophina, Spearsage Deserter</reverse-related>
             <reverse-related>Survive the Night</reverse-related>
             <reverse-related>Tamiyo's Journal</reverse-related>
+            <reverse-related exclude="exclude">The Dining Car</reverse-related>
+            <reverse-related>The Fugitive Doctor</reverse-related>
+            <reverse-related exclude="exclude">The Rani</reverse-related>
+            <reverse-related>The Seventh Doctor</reverse-related>
+            <reverse-related>The Third Doctor</reverse-related>
+            <reverse-related>Thijarian Witness</reverse-related>
             <reverse-related>Thorough Investigation</reverse-related>
             <reverse-related>Thraben Inspector</reverse-related>
             <reverse-related>Tireless Tracker</reverse-related>
@@ -2049,6 +2157,51 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Hard Evidence</reverse-related>
             <reverse-related>Scuttletide</reverse-related>
             <reverse-related>Specimen Collector</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Cyberman</name>
+            <text>(You can cover a face-down creature that has become a Cyberman with this reminder card. It's a 2/2 Cyberman artifact creature.)</text>
+            <prop>
+                <type>Artifact Creature — Cyberman</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/b/9bc273b8-05bb-4c8f-92b1-c178d4bbadb0.jpg?1696625075">WHO</set>
+            <reverse-related>Cyber Conversion</reverse-related>
+            <reverse-related count="2">Cybership</reverse-related>
+            <reverse-related count="x">Death in Heaven</reverse-related>
+            <reverse-related>Missy</reverse-related>
+            <reverse-related>Mondassian Colony Ship</reverse-related>
+            <reverse-related count="x">The Cyber-Controller</reverse-related>
+            <reverse-related>The Moonbase</reverse-related>
+            <reverse-related count="x" exclude="exclude">The Moonbase</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Dalek Token</name>
+            <text>Menace</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Artifact Creature — Dalek</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/1/f176f6ec-1ff8-4cd4-b7a6-b95830532f6a.jpg?1696625378">WHO</set>
+            <reverse-related>City of the Daleks</reverse-related>
+            <reverse-related count="x" exclude="exclude">City of the Daleks</reverse-related>
+            <reverse-related>Cult of Skaro</reverse-related>
+            <reverse-related>Dalek Intensive Care</reverse-related>
+            <reverse-related>Davros, Dalek Creator</reverse-related>
+            <reverse-related>Doomsday Confluence</reverse-related>
+            <reverse-related count="x">Gardens of Tranquil Repose</reverse-related>
+            <reverse-related>Genesis of the Daleks</reverse-related>
+            <reverse-related count="x" exclude="exclude">Genesis of the Daleks</reverse-related>
+            <reverse-related>The Dalek Emperor</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -2283,6 +2436,21 @@ When this creature dies, create a colorless Treasure artifact token.</text>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/5/0/50b6ea55-c976-40e7-aa09-5ba77688bfe9.jpg?1681137067">MOM</set>
             <reverse-related>Ghalta and Mavren</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Dinosaur Token   </name>
+            <text>Flying, haste</text>
+            <prop>
+                <colors>RW</colors>
+                <type>Token Creature — Dinosaur</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/9/890d9d05-3be1-467c-9b6f-a2fd9f907657.jpg?1696547736">WHO</set>
+            <reverse-related>Dinosaurs on a Spaceship</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3816,6 +3984,20 @@ This creature can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Fish Token  </name>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Fish</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/9/297fc694-08f6-4477-b898-60ec641a0757.jpg?1696547039">WHO</set>
+            <reverse-related count="2">Frost Fair Lure Fish</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Food Token</name>
             <text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
             <prop>
@@ -3823,6 +4005,7 @@ This creature can block only creatures with flying.</text>
                 <type>Token Artifact — Food</type>
                 <maintype>Artifact</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/8/883a8ba9-6a3c-4f3b-876e-ec47a08dbb8a.jpg?1696625047">WHO</set>
             <set picURL="https://cards.scryfall.io/large/front/0/e/0eaec411-0590-4662-ac88-11bb0008d69c.jpg?1692880842">WOE</set>
             <set picURL="https://cards.scryfall.io/large/front/6/1/61f04cd9-63ef-4dda-948a-0be76628900c.jpg?1685551471">LTR</set>
             <set picURL="https://cards.scryfall.io/large/front/9/5/95a625ba-330c-4677-a9b3-9c471225b204.jpg?1681053634">MOC</set>
@@ -3834,6 +4017,7 @@ This creature can block only creatures with flying.</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/6/46582e55-c6f4-46e4-a78e-2c586ca4cf4d.jpg?1572489226">ELD</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/6/261aed78-2d57-4ed4-b3d2-53b139b6bd44.jpg?1572489232">ELD</set>
             <reverse-related>Academy Manufactor</reverse-related>
+            <reverse-related>Astrid Peth</reverse-related>
             <reverse-related>Bake into a Pie</reverse-related>
             <reverse-related>Bartered Cow</reverse-related>
             <reverse-related count="2">Bill the Pony</reverse-related>
@@ -3865,6 +4049,7 @@ This creature can block only creatures with flying.</text>
             <reverse-related>Gingerbread Cabin</reverse-related>
             <reverse-related>Gingerbread Hunter // Puny Snack</reverse-related>
             <reverse-related count="x=1">Gluttonous Troll</reverse-related>
+            <reverse-related>Graham O'Brien</reverse-related>
             <reverse-related>Greta, Sweettooth Scourge</reverse-related>
             <reverse-related>Gumdrop Poisoner // Tempt with Treats</reverse-related>
             <reverse-related count="x">Gyome, Master Chef</reverse-related>
@@ -3872,6 +4057,7 @@ This creature can block only creatures with flying.</text>
             <reverse-related>Intrepid Trufflesnout // Go Hog Wild</reverse-related>
             <reverse-related count="x">Killer Service</reverse-related>
             <reverse-related>Late to Dinner</reverse-related>
+            <reverse-related>Madame Vastra</reverse-related>
             <reverse-related>Many Partings</reverse-related>
             <reverse-related>Meriadoc Brandybuck</reverse-related>
             <reverse-related>Mintstrosity</reverse-related>
@@ -3899,14 +4085,19 @@ This creature can block only creatures with flying.</text>
             <reverse-related>Second Breakfast</reverse-related>
             <reverse-related>Shelob's Ambush</reverse-related>
             <reverse-related>Skybeast Tracker</reverse-related>
+            <reverse-related exclude="exclude">Spectrox Mines</reverse-related>
             <reverse-related>Spider Food</reverse-related>
             <reverse-related>Stew the Coneys</reverse-related>
             <reverse-related>Sweettooth Witch</reverse-related>
             <reverse-related count="3">Taste of Death</reverse-related>
             <reverse-related>Tempting Witch</reverse-related>
             <reverse-related>The Battle of Bywater</reverse-related>
+            <reverse-related>The Dining Car</reverse-related>
+            <reverse-related>The Eleventh Hour</reverse-related>
+            <reverse-related>The Fourth Doctor</reverse-related>
             <reverse-related count="x">The Goose Mother</reverse-related>
             <reverse-related>The Shire</reverse-related>
+            <reverse-related exclude="exclude">The Third Doctor</reverse-related>
             <reverse-related>The Underworld Cookbook</reverse-related>
             <reverse-related>The Wilds</reverse-related>
             <reverse-related count="2" exclude="exclude">The Wilds</reverse-related>
@@ -4959,6 +5150,21 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Horse Token </name>
+            <text>Doctors you control have horsemanship. (They can't be blocked except by creatures with horsemanship.)</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Horse</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/e/5e29c393-6d89-481d-8f33-19c61c46621a.jpg?1696547202">WHO</set>
+            <reverse-related exclude="exclude">The Girl in the Fireplace</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Hound Token</name>
             <prop>
                 <colors>G</colors>
@@ -5038,6 +5244,22 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Human Noble Token</name>
+            <text>Vanishing 3
+Prevent all damage that would be dealt to this creature.</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Human Noble</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/4/d/4d1bb221-bf45-4ce2-b38e-b121859235ad.jpg?1696547649">WHO</set>
+            <reverse-related>The Girl in the Fireplace</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Human Rogue Token</name>
             <text>Haste
 When this creature enters the battlefield, it deals 1 damage to any target.</text>
@@ -5050,6 +5272,20 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/d/cd3ca6d5-4b2c-46d4-95f3-f0f2fa47f447.jpg?1572489191">ELD</set>
             <reverse-related exclude="exclude">Outlaws' Merriment</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Human Rogue Token </name>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Human Rogue</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/a/3a8b8e1c-ea36-4b5a-91a0-a15d109cc25a.jpg?1696625230">WHO</set>
+            <reverse-related exclude="exclude">Spectrox Mines</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -5202,6 +5438,36 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related>Saint Traft and Rem Karolus</reverse-related>
             <reverse-related>Stensia Uprising</reverse-related>
             <reverse-related count="3">Thatcher Revolt</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Human Token  </name>
+            <text>Ward 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Human</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/a/b/abaff2e5-32b2-404b-a4a9-2612062f6499.jpg?1696547359">WHO</set>
+            <reverse-related>Fugitive of the Judoon</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Human Token   </name>
+            <text>Doctor spells you cast cost {1} less to cast.</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Human</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/9/d9ed2bb3-93b9-43a3-8b4a-97dc746f3d2b.jpg?1696546576">WHO</set>
+            <reverse-related>The Eleventh Hour</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -6311,6 +6577,21 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Mark of the Rani</name>
+            <text>Enchant creature
+Enchanted creature gets +2/+2 and is goaded.</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Enchantment — Aura</type>
+                <maintype>Enchantment</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/7/a/7a4c1206-c36f-4fb4-9014-e8a822c97085.jpg?1696601466">WHO</set>
+            <reverse-related>The Rani</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Mask</name>
             <text>Enchant permanent
 Totem armor</text>
@@ -6736,6 +7017,22 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Mutant Token</name>
+            <text>Deathtouch</text>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Mutant</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/f/6fa61fa5-f0ca-4933-ac57-9db95f891889.jpg?1696625301">WHO</set>
+            <reverse-related>The Curse of Fenric</reverse-related>
+            <reverse-related count="x" exclude="exclude">The Curse of Fenric</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Myr Token</name>
             <prop>
                 <type>Token Artifact Creature — Myr</type>
@@ -7107,6 +7404,23 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/a/6/a63d3174-75af-4dfa-b2f9-c4330c755af1.jpg?1661549794">DMU</set>
             <reverse-related>Yotia Declares War</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Osgood, Operation Double (Token)</name>
+            <text>{T}: Add {C}. Spend this mana only to cast an artifact spell or activate an ability of an artifact.
+Paradox — Whenever you cast a spell from anywhere other than your hand, investigate.
+(This token's mana cost is {2}{U}{U}.)</text>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Human Alien Shapeshifter</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/b/3b3d0482-c747-4eca-947b-9af1a2cc9b29.jpg?1696547580">WHO</set>
+            <reverse-related>Osgood, Operation Double</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -9059,6 +9373,7 @@ When this creature dies, create fourteen Treasure tokens.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/3/93c2a3ff-a2f6-40c1-a246-0041c6145fc0.jpg?1696546926">WHO</set>
             <set picURL="https://cards.scryfall.io/large/front/1/0/10322962-5b45-438f-9d28-225414721c34.jpg?1689710563">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/d/0/d0cc09a9-a21b-40ee-8b68-bc084f71737d.jpg?1681053527">MOC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/6/461532a6-ef9c-4a9b-9815-3b5158ada976.jpg?1675905862">ONC</set>
@@ -9101,6 +9416,7 @@ When this creature dies, create fourteen Treasure tokens.</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/1/b159b57d-bc52-4cef-ac7a-e364e40c3d03.jpg?1561757834">UGL</set>
             <reverse-related count="x">Abdel Adrian, Gorion's Ward</reverse-related>
             <reverse-related>Akroan Horse</reverse-related>
+            <reverse-related>Alistair, the Brigadier</reverse-related>
             <reverse-related count="x">Alliance of Arms</reverse-related>
             <reverse-related attach="attach">Ancestral Blade</reverse-related>
             <reverse-related>Argivian Cavalier</reverse-related>
@@ -9130,6 +9446,7 @@ When this creature dies, create fourteen Treasure tokens.</text>
             <reverse-related count="x" exclude="exclude">Historian's Boon</reverse-related>
             <reverse-related count="x">Horn of Valhalla // Ysgard's Call</reverse-related>
             <reverse-related count="x=1">Ironroot Warlord</reverse-related>
+            <reverse-related>Kate Stewart</reverse-related>
             <reverse-related>Keeper of the Accord</reverse-related>
             <reverse-related count="2">Keldon Strike Team</reverse-related>
             <reverse-related>King Darien XLVIII</reverse-related>
@@ -9165,6 +9482,7 @@ When this creature dies, create fourteen Treasure tokens.</text>
             <reverse-related count="7">Torsten, Founder of Benalia</reverse-related>
             <reverse-related>Tura Kennerüd, Skyknight</reverse-related>
             <reverse-related count="2" exclude="exclude">Undercellar Sweep</reverse-related>
+            <reverse-related>UNIT Headquarters</reverse-related>
             <reverse-related count="x">Veteran Soldier</reverse-related>
             <reverse-related count="3">You're Confronted by Robbers</reverse-related>
             <token>1</token>
@@ -10386,6 +10704,7 @@ This creature can't be enchanted.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/4/64159e56-a781-416d-a071-41a7b0c8263b.jpg?1696546690">WHO</set>
             <set picURL="https://cards.scryfall.io/large/front/7/3/73cbf189-a79b-4dca-8b29-33aef6306b5a.jpg?1692880797">WOE</set>
             <set picURL="https://cards.scryfall.io/large/front/c/b/cb7b5024-3a0b-4f14-977e-ba6c4c2567c9.jpg?1689975970">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/4/6/46a2c363-c879-4c36-b08a-dd57e3da19ae.jpg?1686265134">LTR</set>
@@ -10443,6 +10762,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="x">Cavern-Hoard Dragon</reverse-related>
             <reverse-related count="3">Centrifuge</reverse-related>
             <reverse-related>Charming Scoundrel</reverse-related>
+            <reverse-related>City of Death</reverse-related>
             <reverse-related>Collector's Vault</reverse-related>
             <reverse-related count="2">Contract Killing</reverse-related>
             <reverse-related>Corsair Captain</reverse-related>
@@ -10472,6 +10792,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Fain, the Broker</reverse-related>
             <reverse-related>Fake Your Own Death</reverse-related>
             <reverse-related>Flick a Coin</reverse-related>
+            <reverse-related count="2">Frost Fair Lure Fish</reverse-related>
             <reverse-related>Forging the Tyrite Sword</reverse-related>
             <reverse-related>Forsworn Paladin</reverse-related>
             <reverse-related>Furnace Reins</reverse-related>
@@ -10522,6 +10843,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Jolene, the Plunder Queen</reverse-related>
             <reverse-related count="x" exclude="exclude">Jolene, the Plunder Queen</reverse-related>
             <reverse-related>Kalain, Reclusive Painter</reverse-related>
+            <reverse-related>Kerblam! Warehouse</reverse-related>
             <reverse-related>Korvold and the Noble Thief</reverse-related>
             <reverse-related>Life Insurance</reverse-related>
             <reverse-related count="x">Lobelia Sackville-Baggins</reverse-related>
@@ -10543,7 +10865,9 @@ This creature can't be enchanted.</text>
             <reverse-related>Misfortune Teller</reverse-related>
             <reverse-related>Monologue Tax</reverse-related>
             <reverse-related count="2">Most Wanted</reverse-related>
+            <reverse-related>New New York</reverse-related>
             <reverse-related>Noble's Purse</reverse-related>
+            <reverse-related>North Pole Research Base</reverse-related>
             <reverse-related exclude="exclude">Oath of the Grey Host</reverse-related>
             <reverse-related count="x">Ognis, the Dragon's Lash</reverse-related>
             <reverse-related count="x">Old Gnawbone</reverse-related>
@@ -10569,6 +10893,8 @@ This creature can't be enchanted.</text>
             <reverse-related>Ragavan, Nimble Pilferer</reverse-related>
             <reverse-related count="2">Rain of Riches</reverse-related>
             <reverse-related count="2">Ramirez DePietro, Pillager</reverse-related>
+            <reverse-related count="7">RMS Titanic</reverse-related>
+            <reverse-related count="x" exclude="exclude">RMS Titanic</reverse-related>
             <reverse-related>Rankle and Torbran</reverse-related>
             <reverse-related count="2">Rapacious Dragon</reverse-related>
             <reverse-related>Rashmi and Ragavan</reverse-related>
@@ -10594,6 +10920,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Smothering Tithe</reverse-related>
             <reverse-related>Smuggler's Share</reverse-related>
             <reverse-related count="x" exclude="exclude">Smuggler's Share</reverse-related>
+            <reverse-related>Spectrox Mines</reverse-related>
             <reverse-related>Song of Eärendil</reverse-related>
             <reverse-related count="x">Spell Swindle</reverse-related>
             <reverse-related>Spiked Pit Trap</reverse-related>
@@ -10614,6 +10941,8 @@ This creature can't be enchanted.</text>
             <reverse-related>The Golden City of Orazca</reverse-related>
             <reverse-related count="3">The Great Work</reverse-related>
             <reverse-related count="x">The Reaver Cleaver</reverse-related>
+            <reverse-related count="2">The Matrix of Time</reverse-related>
+            <reverse-related exclude="exclude">The Third Doctor</reverse-related>
             <reverse-related count="3">The Western Cloud</reverse-related>
             <reverse-related>Thieves' Tools</reverse-related>
             <reverse-related>Tireless Provisioner</reverse-related>
@@ -11253,6 +11582,7 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/4/1/41567b9a-80cf-44fc-9c82-5a5f95014428.jpg?1696625023">WHO</set>
             <set picURL="https://cards.scryfall.io/large/front/9/f/9feb9fa0-29d3-4cf7-a996-e7cb718f02b6.jpg?1681053531">MOC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/d/3/d36e3c0e-a759-4adc-aa2f-61b13c0f786d.jpg?1561758133">BBD</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/6/7/677a1d9d-86fd-49db-9573-8cd2cbc1a096.jpg">DTK</set>
@@ -11266,6 +11596,8 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             <reverse-related count="2">Regna, the Redeemer</reverse-related>
             <reverse-related count="x">Secure the Wastes</reverse-related>
             <reverse-related count="3">Take Up Arms</reverse-related>
+            <reverse-related count="2">The Cave of Skulls</reverse-related>
+            <reverse-related count="3">The War Games</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -14277,6 +14609,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>Token</type>
                 <maintype>Token</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/c/8cd96dce-0cc4-4417-bec1-863b2c44f844.jpg?1696546791">WHO</set>
             <set picURL="https://cards.scryfall.io/large/front/d/d/ddd21725-17a3-40f9-bb9d-764c735949ef.jpg?1692830378">WOC</set>
             <set picURL="https://cards.scryfall.io/large/front/f/e/febfca87-fc37-46cc-8236-73bc5c0e5755.jpg?1689710585">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/4/3/43ec2f4d-d988-49a8-b2ac-598703fe8b26.jpg?1675456346">BRC</set>
