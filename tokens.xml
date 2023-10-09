@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20231009</sourceVersion>
+        <sourceVersion>20231009b</sourceVersion>
     </info>
     <cards>
         <!--
@@ -209,7 +209,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <reverse-related count="x">Decree of Justice</reverse-related>
             <reverse-related>Descend upon the Sinful</reverse-related>
             <reverse-related count="x">Devout Invocation</reverse-related>
-            <reverse-related count="x=1">Empyrial Storm</reverse-related>
+            <reverse-related count="x">Empyrial Storm</reverse-related>
             <reverse-related count="x">Entreat the Angels</reverse-related>
             <reverse-related>Geist of Saint Traft</reverse-related>
             <reverse-related>Invocation of Saint Traft</reverse-related>
@@ -319,7 +319,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/b/3bd871a3-3802-4bdc-8033-3ecfd01c0449.jpg?1615686143">KHM</set>
             <reverse-related>Firja's Retribution</reverse-related>
             <reverse-related>Great Hall of Starnheim</reverse-related>
-            <reverse-related count="x=1">Starnheim Unleashed</reverse-related>
+            <reverse-related count="x">Starnheim Unleashed</reverse-related>
             <reverse-related attach="attach">Valkyrie's Sword</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -1433,7 +1433,7 @@ Whenever this creature attacks, target attacking creature gains flying until end
             <set picURL="https://cards.scryfall.io/large/front/e/3/e33d9cf0-8138-4ae6-bbfe-02d48a4634c1.jpg?1689796508">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/e/2/e2c91781-acf9-4cff-be1a-85148ad2a683.jpg?1604194683">ZNR</set>
             <reverse-related>Felidar Retreat</reverse-related>
-            <reverse-related count="x=1" exclude="exclude">Felidar Retreat</reverse-related>
+            <reverse-related count="x" exclude="exclude">Felidar Retreat</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -1448,7 +1448,7 @@ Whenever this creature attacks, target attacking creature gains flying until end
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/8/1/816da759-e224-4960-b2b6-453cadc2faf1.jpg?1591225557">IKO</set>
-            <reverse-related count="x=1">Skycat Sovereign</reverse-related>
+            <reverse-related count="x">Skycat Sovereign</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3110,7 +3110,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <reverse-related attach="attach">Mask of Immolation</reverse-related>
             <reverse-related count="2">Molten Birth</reverse-related>
             <reverse-related count="2">Scampering Scorcher</reverse-related>
-            <reverse-related count="x=1">Seasoned Pyromancer</reverse-related>
+            <reverse-related count="x">Seasoned Pyromancer</reverse-related>
             <reverse-related count="2" exclude="exclude">Seasoned Pyromancer</reverse-related>
             <reverse-related count="x">Tilonalli's Summoner</reverse-related>
             <reverse-related>Young Pyromancer</reverse-related>
@@ -3864,7 +3864,7 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
             <set picURL="https://cards.scryfall.io/large/front/f/1/f1c9e102-7abb-4b72-867f-3aa2f51f6f77.jpg?1675456379">BRC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/c/bcd82cb0-ff4b-4f4d-b3d0-3ac53883b099.jpg?1572489144">ELD</set>
             <reverse-related>Alela, Artful Provocateur</reverse-related>
-            <reverse-related count="x=1">Faerie Formation</reverse-related>
+            <reverse-related count="x">Faerie Formation</reverse-related>
             <reverse-related count="4">Hunted Troll</reverse-related>
             <reverse-related>Improbable Alliance</reverse-related>
             <reverse-related count="x">Stolen by the Fae</reverse-related>
@@ -4048,7 +4048,7 @@ This creature can block only creatures with flying.</text>
             <reverse-related>Gilded Goose</reverse-related>
             <reverse-related>Gingerbread Cabin</reverse-related>
             <reverse-related>Gingerbread Hunter // Puny Snack</reverse-related>
-            <reverse-related count="x=1">Gluttonous Troll</reverse-related>
+            <reverse-related count="x">Gluttonous Troll</reverse-related>
             <reverse-related>Graham O'Brien</reverse-related>
             <reverse-related>Greta, Sweettooth Scourge</reverse-related>
             <reverse-related>Gumdrop Poisoner // Tempt with Treats</reverse-related>
@@ -4109,7 +4109,7 @@ This creature can block only creatures with flying.</text>
             <reverse-related>Turn into a Pumpkin</reverse-related>
             <reverse-related count="x">Voracious Fell Beast</reverse-related>
             <reverse-related exclude="exclude">Welcome to Sweettooth</reverse-related>
-            <reverse-related count="x=1">Witch's Oven</reverse-related>
+            <reverse-related count="x">Witch's Oven</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -5320,11 +5320,11 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related count="2">Faramir, Steward of Gondor</reverse-related>
             <reverse-related>Forbidden Friendship</reverse-related>
             <reverse-related>Garrison Cat</reverse-related>
-            <reverse-related count="x=1">General's Enforcer</reverse-related>
+            <reverse-related count="x">General's Enforcer</reverse-related>
             <reverse-related>Hero of the Nyxborn</reverse-related>
             <reverse-related>Horn of Gondor</reverse-related>
             <reverse-related count="x" exclude="exclude">Horn of Gondor</reverse-related>
-            <reverse-related count="x=1">Jirina Kudro</reverse-related>
+            <reverse-related count="x">Jirina Kudro</reverse-related>
             <reverse-related>Lossarnach Captain</reverse-related>
             <reverse-related>Nightsquad Commando</reverse-related>
             <reverse-related count="2">Oath of Eorl</reverse-related>
@@ -5333,7 +5333,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related>Protector of Gondor</reverse-related>
             <reverse-related>Quarrel's End</reverse-related>
             <reverse-related count="2">Rally at the Hornburg</reverse-related>
-            <reverse-related count="x=1">Reverent Hoplite</reverse-related>
+            <reverse-related count="x">Reverent Hoplite</reverse-related>
             <reverse-related>Sigarda, Heron's Grace</reverse-related>
             <reverse-related>Siona, Captain of the Pyleas</reverse-related>
             <reverse-related>Strength of Arms</reverse-related>
@@ -6137,12 +6137,12 @@ Trample</text>
             <reverse-related count="2">Knight Watch</reverse-related>
             <reverse-related>Knightly Valor</reverse-related>
             <reverse-related>Lonesome Unicorn // Rider in Need</reverse-related>
-            <reverse-related count="x=1">Militant Angel</reverse-related>
+            <reverse-related count="x">Militant Angel</reverse-related>
             <reverse-related>Righteous Confluence</reverse-related>
             <reverse-related>Security Blockade</reverse-related>
             <reverse-related>Selesnya Charm</reverse-related>
             <reverse-related>Sigiled Sword of Valeron</reverse-related>
-            <reverse-related count="x=1">Silverwing Squadron</reverse-related>
+            <reverse-related count="x">Silverwing Squadron</reverse-related>
             <reverse-related>Sunspire Gatekeepers</reverse-related>
             <reverse-related>The Circle of Loyalty</reverse-related>
             <reverse-related>Trostani's Summoner</reverse-related>
@@ -6350,7 +6350,7 @@ Flanking</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/1/2138b304-4dc0-48bb-a043-6246abafef53.jpg?1654172641">CLB</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/3/13412797-f831-49fe-adf3-369cdfacdbd5.jpg?1604194720">ZNR</set>
             <reverse-related>Nahiri, Heir of the Ancients</reverse-related>
-            <reverse-related count="x=1">Squad Commander</reverse-related>
+            <reverse-related count="x">Squad Commander</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7316,7 +7316,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <pt>2/2</pt>
             </prop>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/2/0260e0ae-bf09-430a-a449-c16219d84b63.jpg?1572892523">RNA</set>
-            <reverse-related count="x=1">Biogenic Ooze</reverse-related>
+            <reverse-related count="x">Biogenic Ooze</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -8802,7 +8802,7 @@ Equip {1}</text>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/4/9/49bdae00-bcbd-4238-87d6-7e12ff7ffd83.jpg?1689975802">CMM</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/0/903e30f3-580e-4a14-989b-ae0632363407.jpg?1581902165">THB</set>
-            <reverse-related count="x=1">Anax, Hardened in the Forge</reverse-related>
+            <reverse-related count="x">Anax, Hardened in the Forge</reverse-related>
             <reverse-related>Heroes of the Revel</reverse-related>
             <reverse-related>Satyr's Cunning</reverse-related>
             <token>1</token>
@@ -9258,7 +9258,7 @@ When this creature dies, create fourteen Treasure tokens.</text>
             <reverse-related count="x">Snake Basket</reverse-related>
             <reverse-related>Snake Pit</reverse-related>
             <reverse-related count="2">Sosuke's Summons</reverse-related>
-            <reverse-related count="x=1">Xyris, the Writhing Storm</reverse-related>
+            <reverse-related count="x">Xyris, the Writhing Storm</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -9445,7 +9445,7 @@ When this creature dies, create fourteen Treasure tokens.</text>
             <reverse-related>Historian's Boon</reverse-related>
             <reverse-related count="x" exclude="exclude">Historian's Boon</reverse-related>
             <reverse-related count="x">Horn of Valhalla // Ysgard's Call</reverse-related>
-            <reverse-related count="x=1">Ironroot Warlord</reverse-related>
+            <reverse-related count="x">Ironroot Warlord</reverse-related>
             <reverse-related>Kate Stewart</reverse-related>
             <reverse-related>Keeper of the Accord</reverse-related>
             <reverse-related count="2">Keldon Strike Team</reverse-related>
@@ -9462,7 +9462,7 @@ When this creature dies, create fourteen Treasure tokens.</text>
             <reverse-related count="x">Murder Investigation</reverse-related>
             <reverse-related>Phyrexian Warhorse</reverse-related>
             <reverse-related>Prava of the Steel Legion</reverse-related>
-            <reverse-related count="x=1" exclude="exclude">Prava of the Steel Legion</reverse-related>
+            <reverse-related count="x" exclude="exclude">Prava of the Steel Legion</reverse-related>
             <reverse-related>Precinct Captain</reverse-related>
             <reverse-related>Protect the Negotiators</reverse-related>
             <reverse-related>Queen Allenal of Ruadach</reverse-related>
@@ -9867,7 +9867,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related>Abzan Ascendancy</reverse-related>
             <reverse-related>Afterlife</reverse-related>
             <reverse-related>Alharu, Solemn Ritualist</reverse-related>
-            <reverse-related count="x=1" exclude="exclude">Alharu, Solemn Ritualist</reverse-related>
+            <reverse-related count="x" exclude="exclude">Alharu, Solemn Ritualist</reverse-related>
             <reverse-related count="2">Andúril, Flame of the West</reverse-related>
             <reverse-related>Avacyn's Collar</reverse-related>
             <reverse-related count="3">Benevolent Offering</reverse-related>
@@ -10780,7 +10780,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="x">Dihada, Binder of Wills</reverse-related>
             <reverse-related>Dire Fleet Hoarder</reverse-related>
             <reverse-related>Discerning Financier</reverse-related>
-            <reverse-related count="x=0">Dockside Extortionist</reverse-related>
+            <reverse-related count="x">Dockside Extortionist</reverse-related>
             <reverse-related>Done for the Day</reverse-related>
             <reverse-related>Dungeoneer's Pack</reverse-related>
             <reverse-related exclude="exclude">Elemental Masterpiece</reverse-related>
@@ -10850,12 +10850,12 @@ This creature can't be enchanted.</text>
             <reverse-related>Loot Dispute</reverse-related>
             <reverse-related>Lotho, Corrupt Shirriff</reverse-related>
             <reverse-related>Magda, Brazen Outlaw</reverse-related>
-            <reverse-related count="x=1" exclude="exclude">Magda, Brazen Outlaw</reverse-related>
+            <reverse-related count="x" exclude="exclude">Magda, Brazen Outlaw</reverse-related>
             <reverse-related exclude="exclude">Magma Opus</reverse-related>
             <reverse-related count="x">Mahadi, Emporium Master</reverse-related>
             <reverse-related>Malcolm, Keen-Eyed Navigator</reverse-related>
             <reverse-related count="x" exclude="exclude">Malcolm, Keen-Eyed Navigator</reverse-related>
-            <reverse-related count="x=1">Malik, Grim Manipulator</reverse-related>
+            <reverse-related count="x">Malik, Grim Manipulator</reverse-related>
             <reverse-related>Marching Duodrone</reverse-related>
             <reverse-related count="2">Mari, the Killing Quill</reverse-related>
             <reverse-related count="x">Marut</reverse-related>
@@ -11592,7 +11592,7 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             <reverse-related>Herald of Anafenza</reverse-related>
             <reverse-related count="2">Mardu Charm</reverse-related>
             <reverse-related>Mardu Hordechief</reverse-related>
-            <reverse-related count="x=1">Najeela, the Blade-Blossom</reverse-related>
+            <reverse-related count="x">Najeela, the Blade-Blossom</reverse-related>
             <reverse-related count="2">Regna, the Redeemer</reverse-related>
             <reverse-related count="x">Secure the Wastes</reverse-related>
             <reverse-related count="3">Take Up Arms</reverse-related>
