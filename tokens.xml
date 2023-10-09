@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20230831b</sourceVersion>
+        <sourceVersion>20231009</sourceVersion>
     </info>
     <cards>
         <!--
@@ -122,20 +122,6 @@ Whenever an opponent casts a creature spell, this permanent isn't a creature unt
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Alien Warrior Token</name>
-            <prop>
-                <colors>R</colors>
-                <type>Token Creature — Alien Warrior</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>2/2</pt>
-            </prop>
-            <set picURL="https://cards.scryfall.io/large/front/6/1/6155e7ce-3e8c-4bb3-941d-dac686d4eb57.jpg?1696546993">WHO</set>
-            <reverse-related>Iraxxa, Empress of Mars</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
             <name>Alien Token</name>
             <prop>
                 <colors>W</colors>
@@ -149,6 +135,20 @@ Whenever an opponent casts a creature spell, this permanent isn't a creature unt
             <reverse-related count="x" exclude="exclude">Adipose Offspring</reverse-related>
             <reverse-related>New New York</reverse-related>
             <reverse-related exclude="exclude">North Pole Research Base</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Alien Warrior Token</name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Alien Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/1/6155e7ce-3e8c-4bb3-941d-dac686d4eb57.jpg?1696546993">WHO</set>
+            <reverse-related>Iraxxa, Empress of Mars</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -1921,9 +1921,9 @@ Cloud Sprite can block only creatures with flying.</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/2/b2d16818-7812-4d36-b1bf-fb954e5ac958.jpg?1562086877">SOI</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/d/3d66ec9c-7e5d-47ca-bce4-46798152d1f4.jpg?1562086865">SOI</set>
             <reverse-related>Academy Manufactor</reverse-related>
-            <reverse-related>Antarctic Research Base</reverse-related>
             <reverse-related>Angelic Sleuth</reverse-related>
             <reverse-related count="x" exclude="exclude">Angelic Sleuth</reverse-related>
+            <reverse-related>Antarctic Research Base</reverse-related>
             <reverse-related>Bearer of Overwhelming Truths</reverse-related>
             <reverse-related>Blink</reverse-related>
             <reverse-related>Briarbridge Patrol</reverse-related>
@@ -10792,9 +10792,9 @@ This creature can't be enchanted.</text>
             <reverse-related>Fain, the Broker</reverse-related>
             <reverse-related>Fake Your Own Death</reverse-related>
             <reverse-related>Flick a Coin</reverse-related>
-            <reverse-related count="2">Frost Fair Lure Fish</reverse-related>
             <reverse-related>Forging the Tyrite Sword</reverse-related>
             <reverse-related>Forsworn Paladin</reverse-related>
+            <reverse-related count="2">Frost Fair Lure Fish</reverse-related>
             <reverse-related>Furnace Reins</reverse-related>
             <reverse-related count="x">Gadrak, the Crown-Scourge</reverse-related>
             <reverse-related>Gala Greeters</reverse-related>
@@ -10893,8 +10893,6 @@ This creature can't be enchanted.</text>
             <reverse-related>Ragavan, Nimble Pilferer</reverse-related>
             <reverse-related count="2">Rain of Riches</reverse-related>
             <reverse-related count="2">Ramirez DePietro, Pillager</reverse-related>
-            <reverse-related count="7">RMS Titanic</reverse-related>
-            <reverse-related count="x" exclude="exclude">RMS Titanic</reverse-related>
             <reverse-related>Rankle and Torbran</reverse-related>
             <reverse-related count="2">Rapacious Dragon</reverse-related>
             <reverse-related>Rashmi and Ragavan</reverse-related>
@@ -10903,6 +10901,8 @@ This creature can't be enchanted.</text>
             <reverse-related>Redcap Thief</reverse-related>
             <reverse-related>Revel in Riches</reverse-related>
             <reverse-related>Riveteers Requisitioner</reverse-related>
+            <reverse-related count="7">RMS Titanic</reverse-related>
+            <reverse-related count="x" exclude="exclude">RMS Titanic</reverse-related>
             <reverse-related>Rose Room Treasurer</reverse-related>
             <reverse-related count="2">Ruthless Knave</reverse-related>
             <reverse-related count="x">Ruthless Technomancer</reverse-related>
@@ -10920,8 +10920,8 @@ This creature can't be enchanted.</text>
             <reverse-related>Smothering Tithe</reverse-related>
             <reverse-related>Smuggler's Share</reverse-related>
             <reverse-related count="x" exclude="exclude">Smuggler's Share</reverse-related>
-            <reverse-related>Spectrox Mines</reverse-related>
             <reverse-related>Song of Eärendil</reverse-related>
+            <reverse-related>Spectrox Mines</reverse-related>
             <reverse-related count="x">Spell Swindle</reverse-related>
             <reverse-related>Spiked Pit Trap</reverse-related>
             <reverse-related>Spiteful Banditry</reverse-related>
@@ -10940,8 +10940,8 @@ This creature can't be enchanted.</text>
             <reverse-related count="2">The Balrog of Moria</reverse-related>
             <reverse-related>The Golden City of Orazca</reverse-related>
             <reverse-related count="3">The Great Work</reverse-related>
-            <reverse-related count="x">The Reaver Cleaver</reverse-related>
             <reverse-related count="2">The Matrix of Time</reverse-related>
+            <reverse-related count="x">The Reaver Cleaver</reverse-related>
             <reverse-related exclude="exclude">The Third Doctor</reverse-related>
             <reverse-related count="3">The Western Cloud</reverse-related>
             <reverse-related>Thieves' Tools</reverse-related>
