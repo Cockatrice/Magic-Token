@@ -55,7 +55,7 @@ jobs:
           echo "::set-output name=upstream::$UPSTREAM"
 
       - name: Checkout pull request
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
           repository: ${{steps.configure.outputs.name}}
