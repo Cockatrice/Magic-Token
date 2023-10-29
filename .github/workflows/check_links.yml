@@ -36,7 +36,8 @@ jobs:
         uses: lycheeverse/lychee-action@v1
         with:
           args: '--dump --exclude www.w3.org -- tokens.xml'
-          fail: true
+          output: lychee/out.md
+          fail: false
           jobSummary: false
 
       - name: Print dumped output file
