@@ -36,13 +36,12 @@ jobs:
         uses: lycheeverse/lychee-action@v1
         with:
           args: '--dump --exclude www.w3.org -- tokens.xml'
-          output: foo.txt
           fail: true
           jobSummary: false
 
       - name: Print dumped output file
         shell: bash
-        run: cat /tmp/lychee/foo.txt
+        run: cat /tmp/lychee/out.md
 
       - name: List duplicated image links
         if: steps.tokens_pic_urls.outcome == 'success'
