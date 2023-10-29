@@ -67,10 +67,6 @@ jobs:
       #    fail: true
       #    jobSummary: true
 
-      # Extract and check URLs directly from challenge_tokens.xml
-      - name: Check URLs from challenge_tokens.xml
-        uses: lycheeverse/lychee-action@v1
-
       # Extract and check URLs directly from token files
       - name: Check token art URLs
         uses: lycheeverse/lychee-action@v1
