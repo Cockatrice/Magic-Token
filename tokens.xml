@@ -14639,8 +14639,9 @@ As the Ring tempts you, you get an emblem named The Ring if you don't have one. 
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
-
-        <!-- See #225, Below cards are non-creature spells from Theros Challenge Decks that are not present in cards.xml in Cockatrice -->
+    </cards>
+    <cards>
+    <!-- See #225, Below cards are non-creature spells from Theros Challenge Decks that are not present in cards.xml in Cockatrice -->
         <card>
             <name>Mogis's Chosen</name>
             <text>Mogis's Chosen enters the battlefield tapped. Mogis's Chosen attacks each turn if able.</text>
