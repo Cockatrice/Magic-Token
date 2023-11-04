@@ -11524,7 +11524,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Vampire Token    </name>
-            <text>Lifelink (Damage dealt by this creature also causes you to gain that much life.</text>
+            <text>Lifelink (Damage dealt by this creature also causes you to gain that much life.)</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Vampire</type>
