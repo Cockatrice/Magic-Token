@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20231104</sourceVersion>
+        <sourceVersion>20231105</sourceVersion>
     </info>
     <cards>
         <!--
@@ -2424,6 +2424,7 @@ When this creature dies, create a colorless Treasure artifact token.</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/0/20f22bef-e00f-461b-a75b-c5ad49865044.jpg?1699018216">REX</set>
             <set picURL="https://cards.scryfall.io/large/front/5/9/59b5a5de-f799-49a0-925f-a0cfd46045b5.jpg?1698873816">LCC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/1/c/1ccee594-e1e6-4a82-bc17-93bcdeb36198.jpg?1562539756">XLN</set>
             <reverse-related>Baffling End</reverse-related>
@@ -2432,6 +2433,7 @@ When this creature dies, create a colorless Treasure artifact token.</text>
             <reverse-related>Raptor Hatchling</reverse-related>
             <reverse-related>Regisaur Alpha</reverse-related>
             <reverse-related>Thundering Spineback</reverse-related>
+            <reverse-related exclude="exclude">Welcome to . . .</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -10881,6 +10883,7 @@ This creature can't be enchanted.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/e/2e28240d-3306-42d7-aa7a-0af0a07f345d.jpg?1699018293">REX</set>
             <set picURL="https://cards.scryfall.io/large/front/3/d/3dfaedeb-f8ec-4f0e-b243-c850770a86f2.jpg?1698873949">LCI</set>
             <set picURL="https://cards.scryfall.io/large/front/6/4/64159e56-a781-416d-a071-41a7b0c8263b.jpg?1696546690">WHO</set>
             <set picURL="https://cards.scryfall.io/large/front/7/3/73cbf189-a79b-4dca-8b29-33aef6306b5a.jpg?1692880797">WOE</set>
@@ -11009,6 +11012,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Halo Scarab</reverse-related>
             <reverse-related>Heap Gate</reverse-related>
             <reverse-related>Heartless Pillage</reverse-related>
+            <reverse-related>Henry Wu, InGen Geneticist</reverse-related>
             <reverse-related>Herald of Hadar</reverse-related>
             <reverse-related count="x">Hit the Mother Lode</reverse-related>
             <reverse-related count="x">Hoard Hauler</reverse-related>
