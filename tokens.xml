@@ -14152,6 +14152,7 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
+        <!--The below tokens are reminder tokens for keeping track of counters.-->
         <card>
             <name>Acorn Stash</name>
             <text>(Place your acorn counters in this area.)</text>
@@ -14440,6 +14441,7 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
+        <!--The below tokens are reminders of certain game states.-->
         <card>
             <name>City's Blessing</name>
             <prop>
@@ -14812,6 +14814,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
+        <!--The below tokens are miscellaneous other tokens that don't fit into the above categories.-->
         <card>
             <name>Companion </name>
             <text>As each game begins, you can place any one card with companion here if your starting deck meets its condition. You may cast it once from here.</text>
@@ -14871,8 +14874,6 @@ As the Ring tempts you, you get an emblem named The Ring if you don't have one. 
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
-    </cards>
-    <cards>
     <!-- See #225, Below cards are non-creature spells from Theros Challenge Decks that are not present in cards.xml in Cockatrice -->
         <card>
             <name>Mogis's Chosen</name>
