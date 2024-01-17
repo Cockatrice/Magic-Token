@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20231112</sourceVersion>
+        <sourceVersion>20240117</sourceVersion>
     </info>
     <cards>
         <!--
@@ -1975,6 +1975,9 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related exclude="exclude">Osgood, Operation Double</reverse-related>
             <reverse-related>Press for Answers</reverse-related>
             <reverse-related>Root Out</reverse-related>
+            <reverse-related>Rory Williams</reverse-related>
+            <reverse-related>Sally Sparrow</reverse-related>
+            <reverse-related>Sarah Jane Smith</reverse-related>
             <reverse-related>Search the Premises</reverse-related>
             <reverse-related>Secrets of the Key</reverse-related>
             <reverse-related count="2" exclude="exclude">Secrets of the Key</reverse-related>
