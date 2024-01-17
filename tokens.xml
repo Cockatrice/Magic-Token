@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20240117</sourceVersion>
+        <sourceVersion>20240117b</sourceVersion>
     </info>
     <cards>
         <!--
@@ -14305,6 +14305,7 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
             <reverse-related exclude="exclude">Decimator Web</reverse-related>
             <reverse-related exclude="exclude">Duelist of Deep Faith</reverse-related>
             <reverse-related exclude="exclude">Dune Mover</reverse-related>
+            <reverse-related exclude="exclude">Etali, Primal Sickness</reverse-related>
             <reverse-related exclude="exclude">Fallen Ferromancer</reverse-related>
             <reverse-related exclude="exclude">Flensermite</reverse-related>
             <reverse-related exclude="exclude">Flensing Raptor</reverse-related>
@@ -14689,6 +14690,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>Regal Behemoth</reverse-related>
             <reverse-related>Regal Sliver</reverse-related>
             <reverse-related>Skyline Despot</reverse-related>
+            <reverse-related>Starscream, Seeker Leader</reverse-related>
             <reverse-related>Staunch Throneguard</reverse-related>
             <reverse-related>Thorn of the Black Rose</reverse-related>
             <reverse-related>Throne of the High City</reverse-related>
