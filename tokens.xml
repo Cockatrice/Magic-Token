@@ -1310,6 +1310,8 @@ Whenever this creature attacks, target attacking creature gains flying until end
             <reverse-related>Carefree Swinemaster</reverse-related>
             <reverse-related>Contraband Livestock</reverse-related>
             <reverse-related count="x">Curse of the Swine</reverse-related>
+            <reverse-related>Stampede Surfer</reverse-related>
+            <reverse-related count="x" exclude="exclude">Stampede Surfer</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3381,6 +3383,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/back/7/0/70f1f745-9fc2-41a6-9d39-fb4964595cf5.jpg?1571508365">UST</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/4/04b980ff-02ad-447e-8815-16cd0112ce60.jpg?1562840731">MM3</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/5/b/5bfb1440-d4c1-42cf-a777-ee1644dbbac7.jpg">DGM</set>
+            <reverse-related>Vernal Sovereign</reverse-related>
             <reverse-related>Voice of Resurgence</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4081,6 +4084,8 @@ This creature can block only creatures with flying.</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/6/261aed78-2d57-4ed4-b3d2-53b139b6bd44.jpg?1572489232">ELD</set>
             <reverse-related>Academy Manufactor</reverse-related>
             <reverse-related>Astrid Peth</reverse-related>
+            <reverse-related>Apothecary White</reverse-related>
+            <reverse-related count="x" exclude="exclude">Apothecary White</reverse-related>
             <reverse-related>Bake into a Pie</reverse-related>
             <reverse-related>Bartered Cow</reverse-related>
             <reverse-related count="2">Bill the Pony</reverse-related>
@@ -5521,6 +5526,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/b/d/bd5cd362-34f9-445f-85e1-9f6694f0f90a.jpg">DKA</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/a/3a98c51f-c55c-4bd9-853b-65b8bad5a29f.jpg">F12</set>
             <reverse-related count="x">Adeline, Resplendent Cathar</reverse-related>
+            <reverse-related count="x" exclude="exclude">Apothecary White</reverse-related>
             <reverse-related>Castle Ardenvale</reverse-related>
             <reverse-related>Cathar's Call</reverse-related>
             <reverse-related>Cemetery Protector</reverse-related>
@@ -6062,6 +6068,7 @@ Equip {2}</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/3/03ce1033-ce07-40ef-9315-beb759af9465.jpg?1641306199">MH2</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/back/c/0/c06bcc5b-4ccd-452d-8579-beee6c5cbe98.jpg?1654766742">GK1</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/0/4/0436e71b-c1f9-4ca8-a29c-775da858a0cd.jpg?1572892506">GRN</set>
+            <reverse-related>Amzu, Swarm's Hunger</reverse-related>
             <reverse-related>Grist, the Hunger Tide</reverse-related>
             <reverse-related count="x">Izoni, Thousand-Eyed</reverse-related>
             <token>1</token>
@@ -8910,6 +8917,7 @@ Equip {1}</text>
             <reverse-related>Thallid Shell-Dweller</reverse-related>
             <reverse-related>The Weatherseed Treaty</reverse-related>
             <reverse-related count="4">Thelonite Hermit</reverse-related>
+            <reverse-related>Tribune of Rot</reverse-related>
             <reverse-related>Tukatongue Thallid</reverse-related>
             <reverse-related count="x">Ulasht, the Hate Seed</reverse-related>
             <reverse-related>Undercellar Myconid</reverse-related>
@@ -10956,6 +10964,8 @@ This creature can't be enchanted.</text>
             <reverse-related>Contested Game Ball</reverse-related>
             <reverse-related count="2">Contract Killing</reverse-related>
             <reverse-related>Corsair Captain</reverse-related>
+            <reverse-related>Covetous Elegy</reverse-related>
+            <reverse-related count="x" exclude="exclude">Covetous Elegy</reverse-related>
             <reverse-related>Crack Open</reverse-related>
             <reverse-related exclude="exclude">Creative Outburst</reverse-related>
             <reverse-related count="x">Culmination of Studies</reverse-related>
@@ -10976,6 +10986,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Done for the Day</reverse-related>
             <reverse-related>Dungeoneer's Pack</reverse-related>
             <reverse-related exclude="exclude">Elemental Masterpiece</reverse-related>
+            <reverse-related count="x">Emissary Green</reverse-related>
             <reverse-related>Enterprising Scallywag</reverse-related>
             <reverse-related>Erestor of the Council</reverse-related>
             <reverse-related count="2">Excavation Technique</reverse-related>
@@ -11059,6 +11070,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="2">Mari, the Killing Quill</reverse-related>
             <reverse-related count="x">Marut</reverse-related>
             <reverse-related count="x">Master of Ceremonies</reverse-related>
+            <reverse-related>Mastermind Plum</reverse-related>
             <reverse-related>Meet and Greet "Sisay"</reverse-related>
             <reverse-related count="2">Mines of Moria</reverse-related>
             <reverse-related>Misfortune Teller</reverse-related>
