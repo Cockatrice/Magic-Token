@@ -1936,16 +1936,21 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Angelic Sleuth</reverse-related>
             <reverse-related count="x" exclude="exclude">Angelic Sleuth</reverse-related>
             <reverse-related>Antarctic Research Base</reverse-related>
+            <reverse-related>Ballroom<reverse-related>
             <reverse-related>Bearer of Overwhelming Truths</reverse-related>
             <reverse-related>Blink</reverse-related>
+            <reverse-related>Billiard Room</reverse-related>
             <reverse-related>Briarbridge Patrol</reverse-related>
             <reverse-related>Briarbridge Tracker</reverse-related>
             <reverse-related>Bygone Bishop</reverse-related>
             <reverse-related>Byway Courier</reverse-related>
+            <reverse-related count="4">Carnage Interpreter</reverse-related>
             <reverse-related>Confirm Suspicions</reverse-related>
             <reverse-related>Confront the Unknown</reverse-related>
+            <reverse-related>Conservatory</reverse-related>
             <reverse-related>Declaration in Stone</reverse-related>
             <reverse-related>Dennick, Pious Apparition</reverse-related>
+            <reverse-related>Dining Room</reverse-related>
             <reverse-related count="x">Disorder in the Court</reverse-related>
             <reverse-related>Drownyard Explorers</reverse-related>
             <reverse-related>Duggan, Private Detective</reverse-related>
@@ -1962,6 +1967,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related exclude="exclude">Fugitive of the Judoon</reverse-related>
             <reverse-related>Funnel-Web Recluse</reverse-related>
             <reverse-related>Gone Missing</reverse-related>
+            <reverse-related>Hall</reverse-related>
             <reverse-related>Hard Evidence</reverse-related>
             <reverse-related>Heaven Sent</reverse-related>
             <reverse-related>Hold for Questioning</reverse-related>
@@ -1969,7 +1975,11 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related count="x">Inquisitor Eisenhorn</reverse-related>
             <reverse-related>Inquisitor Greyfax</reverse-related>
             <reverse-related>Jace's Scrutiny</reverse-related>
+            <reverse-related>Kitchen</reverse-related>
+            <reverse-related>Lavinia, Foil to Conspiracy</reverse-related>
+            <reverse-related>Library</reverse-related>
             <reverse-related>Lonis, Cryptozoologist</reverse-related>
+            <reverse-related>Lounge</reverse-related>
             <reverse-related>Madame Vastra</reverse-related>
             <reverse-related>Magnifying Glass</reverse-related>
             <reverse-related>Martha Jones</reverse-related>
@@ -1981,10 +1991,13 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Sally Sparrow</reverse-related>
             <reverse-related>Sarah Jane Smith</reverse-related>
             <reverse-related>Search the Premises</reverse-related>
+            <reverse-related>Secret Passage</reverse-related>
             <reverse-related>Secrets of the Key</reverse-related>
             <reverse-related count="2" exclude="exclude">Secrets of the Key</reverse-related>
             <reverse-related count="x">Sophina, Spearsage Deserter</reverse-related>
+            <reverse-related>Study</reverse-related>
             <reverse-related>Survive the Night</reverse-related>
+            <reverse-related>Syndicate Heavy</reverse-related>
             <reverse-related>Tamiyo's Journal</reverse-related>
             <reverse-related exclude="exclude">The Dining Car</reverse-related>
             <reverse-related>The Fugitive Doctor</reverse-related>
@@ -10165,6 +10178,8 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/e/9e50a908-0adb-4149-b8cf-2cfb56eab2cb.jpg?1562857279">C15</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/9/1/91f3a4b0-0992-4245-b245-033ad1083a93.jpg">GTC</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/c/4/c48d8e99-a530-4eec-a938-254c98073975.jpg">EVE</set>
+            <reverse-related>Afterlife Insurance</reverse-related>
+            <reverse-related count="x" exclude="exclude">Afterlife Insurance</reverse-related>
             <reverse-related>Beckon Apparition</reverse-related>
             <reverse-related count="2">Debtors' Transport</reverse-related>
             <reverse-related count="x">Ethereal Absolution</reverse-related>
