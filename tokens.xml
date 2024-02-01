@@ -1938,8 +1938,8 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Antarctic Research Base</reverse-related>
             <reverse-related>Ballroom<reverse-related>
             <reverse-related>Bearer of Overwhelming Truths</reverse-related>
-            <reverse-related>Blink</reverse-related>
             <reverse-related>Billiard Room</reverse-related>
+            <reverse-related>Blink</reverse-related>
             <reverse-related>Briarbridge Patrol</reverse-related>
             <reverse-related>Briarbridge Tracker</reverse-related>
             <reverse-related>Bygone Bishop</reverse-related>
@@ -4096,9 +4096,9 @@ This creature can block only creatures with flying.</text>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/4/6/46582e55-c6f4-46e4-a78e-2c586ca4cf4d.jpg?1572489226">ELD</set>
             <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/2/6/261aed78-2d57-4ed4-b3d2-53b139b6bd44.jpg?1572489232">ELD</set>
             <reverse-related>Academy Manufactor</reverse-related>
-            <reverse-related>Astrid Peth</reverse-related>
             <reverse-related>Apothecary White</reverse-related>
             <reverse-related count="x" exclude="exclude">Apothecary White</reverse-related>
+            <reverse-related>Astrid Peth</reverse-related>
             <reverse-related>Bake into a Pie</reverse-related>
             <reverse-related>Bartered Cow</reverse-related>
             <reverse-related count="2">Bill the Pony</reverse-related>
