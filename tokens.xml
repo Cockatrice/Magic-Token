@@ -10979,7 +10979,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Contested Game Ball</reverse-related>
             <reverse-related count="2">Contract Killing</reverse-related>
             <reverse-related>Corsair Captain</reverse-related>
-            <reverse-related count="x" exclude="exclude">Covetous Elegy</reverse-related>
+            <reverse-related count="x">Covetous Elegy</reverse-related>
             <reverse-related>Crack Open</reverse-related>
             <reverse-related exclude="exclude">Creative Outburst</reverse-related>
             <reverse-related count="x">Culmination of Studies</reverse-related>
