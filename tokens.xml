@@ -1977,8 +1977,8 @@ Cloud Sprite can block only creatures with flying.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/c/e/ce241c25-205f-4556-9b05-77dc96308b2d.jpg?1706131176">MKC</set>
             <set picURL="https://cards.scryfall.io/large/front/e/e/ee022200-f589-4f06-8de8-d313e29f7be8.jpg?1706217806">MKM</set>
+            <set picURL="https://cards.scryfall.io/large/front/c/e/ce241c25-205f-4556-9b05-77dc96308b2d.jpg?1706131176">MKC</set>
             <set picURL="https://cards.scryfall.io/large/front/0/d/0de94d6e-2c7c-46d8-897d-4f0e56cc583b.jpg?1696546667">WHO</set>
             <set picURL="https://cards.scryfall.io/large/front/5/a/5adbbaa4-b1e3-4c5f-a1c7-aa294f838c54.jpg?1689976174">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/e/1/e197929c-1334-48f5-a03c-546a4074ad02.jpg?1681053629">MOC</set>
@@ -2025,8 +2025,8 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related exclude="exclude">Drag the Canal</reverse-related>
             <reverse-related>Drownyard Explorers</reverse-related>
             <reverse-related>Duggan, Private Detective</reverse-related>
-            <reverse-related>Elmar, Ulvenwald Informant</reverse-related>
             <reverse-related>Eliminate the Impossible</reverse-related>
+            <reverse-related>Elmar, Ulvenwald Informant</reverse-related>
             <reverse-related>Eloise, Nephalia Sleuth</reverse-related>
             <reverse-related count="x" exclude="exclude">Eloise, Nephalia Sleuth</reverse-related>
             <reverse-related count="x">Ethereal Investigator</reverse-related>
@@ -2071,13 +2071,13 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Mistway Spy</reverse-related>
             <reverse-related count="x" exclude="exclude">Mistway Spy</reverse-related>
             <reverse-related>Morska, Undersea Sleuth</reverse-related>
-            <reverse-related>Novice Inspector</reverse-related>
             <reverse-related>No Witnesses</reverse-related>
+            <reverse-related>Novice Inspector</reverse-related>
             <reverse-related count="x">Officious Interrogation</reverse-related>
             <reverse-related>On the Job</reverse-related>
             <reverse-related>Ongoing Investigation</reverse-related>
-            <reverse-related>Out Cold</reverse-related>
             <reverse-related exclude="exclude">Osgood, Operation Double</reverse-related>
+            <reverse-related>Out Cold</reverse-related>
             <reverse-related>Persuasive Interrogators</reverse-related>
             <reverse-related>Press for Answers</reverse-related>
             <reverse-related>Root Out</reverse-related>
@@ -11950,20 +11950,6 @@ Whenever Vanguard Suppressor deals combat damage to a player, draw a card.</text
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Voja, Friend to Elves</name>
-            <prop>
-                <colors>GW</colors>
-                <type>Token Legendary Creature — Wolf</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>3/3</pt>
-            </prop>
-            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/9/39475e91-1e71-4546-ae4a-47ea66e47536.jpg?1557575985">WAR</set>
-            <reverse-related>Tolsimir, Friend to Wolves</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
             <name>Voja Fenstalker</name>
             <text>Trample</text>
             <prop>
@@ -11975,6 +11961,20 @@ Whenever Vanguard Suppressor deals combat damage to a player, draw a card.</text
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/2/1/2175200f-3ed4-4b39-ac76-a7d25967aa8a.jpg?1706217451">MKM</set>
             <reverse-related>Tolsimir, Midnight's Light</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Voja, Friend to Elves</name>
+            <prop>
+                <colors>GW</colors>
+                <type>Token Legendary Creature — Wolf</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set picURL="https://c1.scryfall.com/file/scryfall-cards/large/front/3/9/39475e91-1e71-4546-ae4a-47ea66e47536.jpg?1557575985">WAR</set>
+            <reverse-related>Tolsimir, Friend to Wolves</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
