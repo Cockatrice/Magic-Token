@@ -548,6 +548,20 @@ Whenever this creature deals damage to a planeswalker, destroy that planeswalker
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Attendee Token</name>
+            <prop>
+                <colors>WUBRG</colors>
+                <type>Token Creature — Attendee</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set>PH22</set>
+            <reverse-related count="x">Svega, the Unconventional</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Avacyn</name>
             <text>Flying, vigilance, indestructible</text>
             <prop>
@@ -2530,6 +2544,7 @@ When this creature dies, create a colorless Treasure artifact token.</text>
                 <pt>4/4</pt>
             </prop>
             <set>PH17</set>
+            <related>Treasure Token</related>
             <reverse-related count="4">Diabolical Salvation</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -11284,6 +11299,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Done for the Day</reverse-related>
             <reverse-related>Dungeoneer's Pack</reverse-related>
             <reverse-related exclude="exclude">Elemental Masterpiece</reverse-related>
+            <reverse-related count="3">Elusen, the Giving</reverse-related>
             <reverse-related count="x">Emissary Green</reverse-related>
             <reverse-related>Enterprising Scallywag</reverse-related>
             <reverse-related>Erestor of the Council</reverse-related>
