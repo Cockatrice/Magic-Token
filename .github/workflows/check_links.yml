@@ -24,7 +24,7 @@ jobs:
     name: Check image links
     runs-on: ubuntu-latest
     env:
-      lychee_args: '--no-progress --require-https --cache --max-cache-age 1h --exclude http://www.w3.org'
+      lychee_args: '--no-progress --require-https --cache --max-cache-age 8h --exclude http://www.w3.org'
 
     steps:
       - name: Checkout
