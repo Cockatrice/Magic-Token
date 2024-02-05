@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20240205</sourceVersion>
+        <sourceVersion>20240205b</sourceVersion>
     </info>
     <cards>
         <!--
@@ -9577,14 +9577,14 @@ Equip {1}</text>
         </card>
         <card>
             <name>Sketch Token</name>
-            <text>(This token has flying if it has wings in its art. The same is true for first strike and a sword, vigilance and a shield, menace and mean eyes, trample and horns, deathtouch and claws, lifelink and fangs, and haste and footwear.)</text>
+            <text>(The creator of this token has 15 seconds to draw its art.)</text>
             <prop>
                 <type>Token Creature — Sketch</type>
                 <maintype>Creature</maintype>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
-            <set>UNF</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/sketch%20token.jpeg?raw=true">UNF</set>
             <reverse-related>D00-DL, Caricaturist</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
