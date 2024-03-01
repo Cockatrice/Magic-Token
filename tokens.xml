@@ -9961,8 +9961,8 @@ When this creature dies, create fourteen Treasure tokens.</text>
             <reverse-related>Benalish Commander</reverse-related>
             <reverse-related count="3">Captain of the Watch</reverse-related>
             <reverse-related count="3">Captain's Call</reverse-related>
-            <reverse-related count="x">Company Commander</reverse-related>
             <reverse-related count="x">Charisma Bobblehead</reverse-related>
+            <reverse-related count="x">Company Commander</reverse-related>
             <reverse-related count="x">Darien, King of Kjeldor</reverse-related>
             <reverse-related count="x" exclude="exclude">Decree of Justice</reverse-related>
             <reverse-related>Defiler of Faith</reverse-related>
@@ -14705,8 +14705,8 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
             <reverse-related exclude="exclude">Dr. Madison Li</reverse-related>
             <reverse-related exclude="exclude">Dynavolt Tower</reverse-related>
             <reverse-related exclude="exclude">Eddytrail Hawk</reverse-related>
-            <reverse-related exclude="exclude">Electrostatic Pummeler</reverse-related>
             <reverse-related exclude="exclude">Electrosiphon</reverse-related>
+            <reverse-related exclude="exclude">Electrostatic Pummeler</reverse-related>
             <reverse-related exclude="exclude">Empyreal Voyager</reverse-related>
             <reverse-related exclude="exclude">Era of Innovation</reverse-related>
             <reverse-related exclude="exclude">Fabrication Module</reverse-related>
