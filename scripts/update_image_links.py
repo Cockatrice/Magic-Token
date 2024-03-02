@@ -1,6 +1,6 @@
 """
-This script parses a token.xml file, collects the picURLs within, and replaces
-the URLs to Scryfall cards with up-to-date URLs by querying Scryfall's API.
+This script parses a token.xml file, collects the picURLs of cards within, and replaces
+the links to Scryfall images with up-to-date URLs by querying Scryfall's API.
 """
 
 from xml.sax import saxutils, make_parser, handler
