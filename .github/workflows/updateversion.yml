@@ -51,11 +51,11 @@ jobs:
             UPSTREAM="$(jq -r ".base.repo.clone_url" "$tmp")"
             LINK="${{github.event.issue.html_url}}"
           fi
-          echo "::set-output name=link::$LINK"
-          echo "::set-output name=ref::$REF"
-          echo "::set-output name=page::$REPO_PAGE"
-          echo "::set-output name=name::$REPO_NAME"
-          echo "::set-output name=upstream::$UPSTREAM"
+          echo "link=$LINK" >> $GITHUB_OUTPUT
+          echo "ref=$REF" >> $GITHUB_OUTPUT
+          echo "page=$REPO_PAGE" >> $GITHUB_OUTPUT
+          echo "name=$REPO_NAME" >> $GITHUB_OUTPUT
+          echo "upstream=$UPSTREAM" >> $GITHUB_OUTPUT
 
       - name: Checkout pull request
         uses: actions/checkout@v4
@@ -79,9 +79,9 @@ jobs:
             echo "::notice::you can resolve merge conflicts at $LINK/conflicts"
             exit 2
           elif git diff --quiet FETCH_HEAD tokens.xml; then
-            echo "::set-output name=update::false"
+            echo "update=false" >> $GITHUB_OUTPUT
           else
-            echo "::set-output name=update::true"
+            echo "update=true" >> $GITHUB_OUTPUT
           fi
 
       - name: Get date
@@ -93,8 +93,8 @@ jobs:
           previous="$(<version.txt)"
           date="$(date --utc +%Y%m%d)"
           echo "it is currently $date"
-          echo "::set-output name=date::$date"
-          echo "::set-output name=previous::$previous"
+          echo "date=$date" >> $GITHUB_OUTPUT
+          echo "previous=$previous" >> $GITHUB_OUTPUT
 
       - name: Check for suffix used when multiple changes happen in a day
         if: steps.check.outputs.update == 'true'
