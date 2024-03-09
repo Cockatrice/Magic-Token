@@ -101,6 +101,7 @@ jobs:
         id: version
         shell: python
         run: |
+          import os
           import re
           previous = "${{steps.date.outputs.previous}}"
           date = "${{steps.date.outputs.date}}"
@@ -124,7 +125,8 @@ jobs:
             else:
               charlist.append("a")
             version += "".join(reversed(charlist))
-          print(f"::set-output name=version::{version}")
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as envFile:
+            print(f"version={version}", file=envFile)
 
       - name: Update date in files
         if: steps.check.outputs.update == 'true'
