@@ -1996,6 +1996,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Complaints Clerk</reverse-related>
             <reverse-related>Pietra, Crafter of Clowns</reverse-related>
             <reverse-related count="x">Surprise Party</reverse-related>
+            <reverse-related count="5">Yawgmoth Merfolk Soul</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -4312,6 +4313,7 @@ This creature can block only creatures with flying.</text>
             <reverse-related>Fortifying Provisions</reverse-related>
             <reverse-related>Galadriel, Gift-Giver</reverse-related>
             <reverse-related>Generous Ent</reverse-related>
+            <reverse-related count="2">Giant Mana Cake</reverse-related>
             <reverse-related count="3" exclude="exclude">Giant Opportunity</reverse-related>
             <reverse-related>Giant's Skewer</reverse-related>
             <reverse-related count="2" exclude="exclude">Gift Shop</reverse-related>
@@ -8814,21 +8816,21 @@ Creatures you control attack each combat if able.</text>
                 <pt>2/2</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/a/4/a41eb9df-d8b4-4697-a759-886faf16754d.jpg?1675957561">ONE</set>
-            <reverse-related>Barbed Batterfist</reverse-related>
-            <reverse-related>Blade of Shared Souls</reverse-related>
-            <reverse-related>Bladehold War-Whip</reverse-related>
-            <reverse-related>Dragonwing Glider</reverse-related>
-            <reverse-related>Glimmer Lens</reverse-related>
-            <reverse-related>Goldwarden's Helm</reverse-related>
+            <reverse-related attach="attach">Barbed Batterfist</reverse-related>
+            <reverse-related attach="attach">Blade of Shared Souls</reverse-related>
+            <reverse-related attach="attach">Bladehold War-Whip</reverse-related>
+            <reverse-related attach="attach">Dragonwing Glider</reverse-related>
+            <reverse-related attach="attach">Glimmer Lens</reverse-related>
+            <reverse-related attach="attach">Goldwarden's Helm</reverse-related>
             <reverse-related count="5">Goldwardens' Gambit</reverse-related>
-            <reverse-related>Hexgold Halberd</reverse-related>
-            <reverse-related>Hexgold Hoverwings</reverse-related>
-            <reverse-related>Hexplate Wallbreaker</reverse-related>
-            <reverse-related>Kemba's Banner</reverse-related>
-            <reverse-related>Mirran Bardiche</reverse-related>
+            <reverse-related attach="attach">Hexgold Halberd</reverse-related>
+            <reverse-related attach="attach">Hexgold Hoverwings</reverse-related>
+            <reverse-related attach="attach">Hexplate Wallbreaker</reverse-related>
+            <reverse-related attach="attach">Kemba's Banner</reverse-related>
+            <reverse-related attach="attach">Mirran Bardiche</reverse-related>
             <reverse-related count="x">Otharri, Suns' Glory</reverse-related>
-            <reverse-related>Sylvok Battle-Chair</reverse-related>
-            <reverse-related>Vulshok Splitter</reverse-related>
+            <reverse-related attach="attach">Sylvok Battle-Chair</reverse-related>
+            <reverse-related attach="attach">Vulshok Splitter</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -10861,6 +10863,7 @@ Cumulative upkeep {G}</text>
             <reverse-related count="x">Squirrel Squatters</reverse-related>
             <reverse-related count="x">Squirrel Stack</reverse-related>
             <reverse-related count="2">Squirrel Wrangler</reverse-related>
+            <reverse-related count="x">Trendy Circus Pirate</reverse-related>
             <reverse-related count="x">Underworld Hermit</reverse-related>
             <reverse-related count="2">Verdant Command</reverse-related>
             <token>1</token>
@@ -11409,6 +11412,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Fain, the Broker</reverse-related>
             <reverse-related>Fake Your Own Death</reverse-related>
             <reverse-related>Flick a Coin</reverse-related>
+            <reverse-related>Forge, Neverwinter Charlatan</reverse-related>
             <reverse-related>Forging the Tyrite Sword</reverse-related>
             <reverse-related>Forsworn Paladin</reverse-related>
             <reverse-related count="2">Frost Fair Lure Fish</reverse-related>
@@ -11540,6 +11544,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Safana, Calimport Cutthroat</reverse-related>
             <reverse-related count="3" exclude="exclude">Safana, Calimport Cutthroat</reverse-related>
             <reverse-related>Sailor of Means</reverse-related>
+            <reverse-related>Sassy Gremlin Blood</reverse-related>
             <reverse-related>Scion of Opulence</reverse-related>
             <reverse-related count="x" exclude="exclude">Scion of Opulence</reverse-related>
             <reverse-related>Seize the Spoils</reverse-related>
@@ -14784,6 +14789,7 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
             <set picURL="https://cards.scryfall.io/large/front/4/7/470618f6-f67f-44c6-a086-285632508915.jpg?1561757039">NPH</set>
             <set picURL="https://cards.scryfall.io/large/front/9/2/92fcdd2b-dd90-458d-9b8b-5b1b9a3f8bd3.jpg?1561757601">MBS</set>
             <set picURL="https://cards.scryfall.io/large/front/8/5/856e308d-6268-4311-9667-c2f761db8f99.jpg?1562164863">SOM</set>
+            <reverse-related exclude="exclude">Ajani, Sleeper Agent Emblem</reverse-related>
             <reverse-related exclude="exclude">Annex Sentry</reverse-related>
             <reverse-related exclude="exclude">Aspirant's Ascent</reverse-related>
             <reverse-related exclude="exclude">Bilious Skulldweller</reverse-related>
@@ -14815,6 +14821,7 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
             <reverse-related exclude="exclude">Flensermite</reverse-related>
             <reverse-related exclude="exclude">Flensing Raptor</reverse-related>
             <reverse-related exclude="exclude">Flesh-Eater Imp</reverse-related>
+            <reverse-related exclude="exclude">Fynn, the Fangbearer</reverse-related>
             <reverse-related exclude="exclude">Glissa's Retriever</reverse-related>
             <reverse-related exclude="exclude">Glistener Elf</reverse-related>
             <reverse-related exclude="exclude">Glistening Oil</reverse-related>
@@ -14836,12 +14843,12 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
             <reverse-related exclude="exclude">Marsh Viper</reverse-related>
             <reverse-related exclude="exclude">Melira, Sylvok Outcast</reverse-related>
             <reverse-related exclude="exclude">Monument to Perfection</reverse-related>
-            <reverse-related exclude="exclude">Mycosynth Fiend</reverse-related>
             <reverse-related exclude="exclude">Myr Convert</reverse-related>
             <reverse-related exclude="exclude">Necrogen Communion</reverse-related>
             <reverse-related exclude="exclude">Necrogen Rotpriest</reverse-related>
             <reverse-related exclude="exclude">Necropede</reverse-related>
             <reverse-related exclude="exclude">Nimraiser Paladin</reverse-related>
+            <reverse-related exclude="exclude">Norn's Decree</reverse-related>
             <reverse-related exclude="exclude">Noxious Assault</reverse-related>
             <reverse-related exclude="exclude">Ogre Menial</reverse-related>
             <reverse-related exclude="exclude">Paladin of Predation</reverse-related>
@@ -14849,6 +14856,7 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
             <reverse-related exclude="exclude">Pestilent Souleater</reverse-related>
             <reverse-related exclude="exclude">Pestilent Syphoner</reverse-related>
             <reverse-related exclude="exclude">Phyresis</reverse-related>
+            <reverse-related exclude="exclude">Phyresis Outbreak</reverse-related>
             <reverse-related exclude="exclude">Phyrexian Crusader</reverse-related>
             <reverse-related exclude="exclude">Phyrexian Digester</reverse-related>
             <reverse-related exclude="exclude">Phyrexian Hydra</reverse-related>
@@ -15096,6 +15104,7 @@ If a player casts at least two spells during their own turn, it becomes day next
             <reverse-related exclude="exclude">Augury Raven</reverse-related>
             <reverse-related exclude="exclude">Battle Mammoth</reverse-related>
             <reverse-related exclude="exclude">Behold the Multiverse</reverse-related>
+            <reverse-related exclude="exclude">Cosmic Intervention</reverse-related>
             <reverse-related exclude="exclude">Cosmos Charger</reverse-related>
             <reverse-related exclude="exclude">Crush the Weak</reverse-related>
             <reverse-related exclude="exclude">Delayed Blast Fireball</reverse-related>
@@ -15107,10 +15116,14 @@ If a player casts at least two spells during their own turn, it becomes day next
             <reverse-related exclude="exclude">Dream Devourer</reverse-related>
             <reverse-related exclude="exclude">Dual Strike</reverse-related>
             <reverse-related exclude="exclude">Dwarven Reinforcements</reverse-related>
+            <reverse-related exclude="exclude">Edgin, Larcenous Lutenist</reverse-related>
+            <reverse-related exclude="exclude">Ethereal Valkyrie</reverse-related>
+            <reverse-related exclude="exclude">Frost Fair Lure Fish</reverse-related>
             <reverse-related exclude="exclude">Glorious Protector</reverse-related>
             <reverse-related exclude="exclude">Gods' Hall Guardian</reverse-related>
             <reverse-related exclude="exclude">Green Slime</reverse-related>
             <reverse-related exclude="exclude">Haunting Voyage</reverse-related>
+            <reverse-related exclude="exclude">Impending Flux</reverse-related>
             <reverse-related exclude="exclude">Iron Verdict</reverse-related>
             <reverse-related exclude="exclude">Jarl of the Forsaken</reverse-related>
             <reverse-related exclude="exclude">Karfell Harbinger</reverse-related>
@@ -15123,14 +15136,21 @@ If a player casts at least two spells during their own turn, it becomes day next
             <reverse-related exclude="exclude">Ravenform</reverse-related>
             <reverse-related exclude="exclude">Return Upon the Tide</reverse-related>
             <reverse-related exclude="exclude">Rise of the Dread Marn</reverse-related>
+            <reverse-related exclude="exclude">Sage of the Beyond</reverse-related>
             <reverse-related exclude="exclude">Sarulf's Packmate</reverse-related>
             <reverse-related exclude="exclude">Saw It Coming</reverse-related>
             <reverse-related exclude="exclude">Scorn Effigy</reverse-related>
             <reverse-related exclude="exclude">Shepherd of the Cosmos</reverse-related>
+            <reverse-related exclude="exclude">Singing Towers of Darillium</reverse-related>
             <reverse-related exclude="exclude">Skull Raid</reverse-related>
+            <reverse-related exclude="exclude">Spectral Deluge</reverse-related>
             <reverse-related exclude="exclude">Starnheim Unleashed</reverse-related>
+            <reverse-related exclude="exclude">Stoic Farmer</reverse-related>
             <reverse-related exclude="exclude">Struggle for Skemfar</reverse-related>
+            <reverse-related exclude="exclude">Surge of Brilliance</reverse-related>
             <reverse-related exclude="exclude">Tergrid's Shadow</reverse-related>
+            <reverse-related exclude="exclude">Tales of the Ancestors</reverse-related>
+            <reverse-related exclude="exclude">The Foretold Soldier</reverse-related>
             <reverse-related exclude="exclude">Vengeful Reaper</reverse-related>
             <reverse-related exclude="exclude">Warhorn Blast</reverse-related>
             <token>1</token>
