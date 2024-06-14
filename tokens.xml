@@ -1664,7 +1664,8 @@ Whenever this creature attacks, target attacking creature gains flying until end
                 <pt>2/1</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/c/e/ce5c5bcf-1fdd-4d73-a92b-223292da00ca.jpg?1717190066">MH3</set>
-            <reverse-related>Ajani, Nacatl Pariah // Ajani, Nacatl Avenger</reverse-related>
+            <reverse-related>Ajani, Nacatl Avenger</reverse-related>
+            <reverse-related>Ajani, Nacatl Pariah</reverse-related>
             <reverse-related>Ajani Fells the Godsire</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -2237,8 +2238,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Syndicate Heavy</reverse-related>
             <reverse-related count="x=2">Tamiyo Meets the Story Circle</reverse-related>
             <reverse-related>Tamiyo's Journal</reverse-related>
-            <reverse-related>
-Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar</reverse-related>
+            <reverse-related>Tamiyo, Inquisitive Student</reverse-related>
             <reverse-related>Teysa, Opulent Oligarch</reverse-related>
             <reverse-related count="x" exclude="exclude">Teysa, Opulent Oligarch</reverse-related>
             <reverse-related>The Chase Is On</reverse-related>
@@ -4567,7 +4567,7 @@ Ferocious — {T}: Add {G}{G}{G}{G}. Activate only if you control a creature wit
             <reverse-related>Skybeast Tracker</reverse-related>
             <reverse-related>Sophia, Dogged Detective</reverse-related>
             <reverse-related count="x" exclude="exclude">Sophia, Dogged Detective</reverse-related>
-            <reverse-related>Sorin of House Markov // Sorin, Ravenous Neonate</reverse-related>
+            <reverse-related>Sorin, Ravenous Neonate</reverse-related>
             <reverse-related exclude="exclude">Spectrox Mines</reverse-related>
             <reverse-related>Spider Food</reverse-related>
             <reverse-related>Stew the Coneys</reverse-related>
@@ -6578,7 +6578,7 @@ Equip {2}</text>
             <set picURL="https://cards.scryfall.io/large/front/0/4/0436e71b-c1f9-4ca8-a29c-775da858a0cd.jpg?1572892506">GRN</set>
             <reverse-related>Amzu, Swarm's Hunger</reverse-related>
             <reverse-related>Grist, the Hunger Tide</reverse-related>
-            <reverse-related>Grist, Voracious Larva // Grist, the Plague Swarm</reverse-related>
+            <reverse-related>Grist, the Plague Swarm</reverse-related>
             <reverse-related count="x">Izoni, Thousand-Eyed</reverse-related>
             <reverse-related>The Hunger Tide Rises</reverse-related>
             <token>1</token>
@@ -14786,8 +14786,7 @@ At the beginning of your end step, discard your hand.</text>
                 <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/c/8/c88e2bea-9c95-447e-bc9d-7d7f8ea40567.jpg?1717192398">MH3</set>
-            <reverse-related exclude="exclude">
-Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar</reverse-related>
+            <reverse-related exclude="exclude">Tamiyo, Seasoned Scholar</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
