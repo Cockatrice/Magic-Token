@@ -1655,22 +1655,6 @@ Whenever this creature attacks, target attacking creature gains flying until end
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Cat Warrior Token</name>
-            <prop>
-                <colors>W</colors>
-                <type>Token Creature — Cat Warrior</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>2/1</pt>
-            </prop>
-            <set picURL="https://cards.scryfall.io/large/front/c/e/ce5c5bcf-1fdd-4d73-a92b-223292da00ca.jpg?1717190066">MH3</set>
-            <reverse-related>Ajani, Nacatl Avenger</reverse-related>
-            <reverse-related>Ajani, Nacatl Pariah</reverse-related>
-            <reverse-related>Ajani Fells the Godsire</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
             <name>Cat Token</name>
             <prop>
                 <colors>W</colors>
@@ -1833,6 +1817,22 @@ Whenever this creature attacks, target attacking creature gains flying until end
             <reverse-related>Jedit Ojanen, Mercenary</reverse-related>
             <reverse-related count="x" exclude="exclude">Jedit Ojanen, Mercenary</reverse-related>
             <reverse-related count="6">Lord Windgrace</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Cat Warrior Token </name>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Cat Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/c/e/ce5c5bcf-1fdd-4d73-a92b-223292da00ca.jpg?1717190066">MH3</set>
+            <reverse-related>Ajani Fells the Godsire</reverse-related>
+            <reverse-related>Ajani, Nacatl Avenger</reverse-related>
+            <reverse-related>Ajani, Nacatl Pariah</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3400,7 +3400,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <reverse-related>Chittering Dispatcher</reverse-related>
             <reverse-related count="2">Corpsehatch</reverse-related>
             <reverse-related count="2">Dread Drone</reverse-related>
-            <reverse-related count="2">Drowner of Truth // Drowned Jungle</reverse-related>
+            <reverse-related count="2">Drowner of Truth</reverse-related>
             <reverse-related>Drownyard Lurker</reverse-related>
             <reverse-related>Eldrazi Repurposer</reverse-related>
             <reverse-related count="3">Emrakul's Hatcher</reverse-related>
@@ -13630,7 +13630,7 @@ Equip {1}</text>
             <reverse-related>Ghoulcaller's Accomplice</reverse-related>
             <reverse-related count="2">Gisa's Bidding</reverse-related>
             <reverse-related>Graf Harvest</reverse-related>
-            <reverse-related>Grave Dig</reverse-related>
+            <reverse-related>Gravedig</reverse-related>
             <reverse-related count="2">Grave Titan</reverse-related>
             <reverse-related>Graveyard Marshal</reverse-related>
             <reverse-related>Grixis Slavedriver</reverse-related>
@@ -15367,8 +15367,8 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
             <reverse-related exclude="exclude">Robobrain War Mind</reverse-related>
             <reverse-related exclude="exclude">Rogue Refiner</reverse-related>
             <reverse-related exclude="exclude">Roil Cartographer</reverse-related>
-            <reverse-related exclude="exclude">Satya, Aetherflux Genius</reverse-related>
             <reverse-related exclude="exclude">Sage of Shaila's Claim</reverse-related>
+            <reverse-related exclude="exclude">Satya, Aetherflux Genius</reverse-related>
             <reverse-related exclude="exclude">Scrapper Champion</reverse-related>
             <reverse-related exclude="exclude">Scurry of Gremlins</reverse-related>
             <reverse-related exclude="exclude">Servant of the Conduit</reverse-related>
