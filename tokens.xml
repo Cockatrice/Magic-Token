@@ -8216,8 +8216,9 @@ Paradox — Whenever you cast a spell from anywhere other than your hand, invest
                 <colors>U</colors>
                 <type>Token Creature — Human Alien Shapeshifter</type>
                 <maintype>Creature</maintype>
-                <cmc>0</cmc>
+                <cmc>4</cmc>
                 <pt>2/2</pt>
+                <manacost>2UU</manacost>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/3/b/3b3d0482-c747-4eca-947b-9af1a2cc9b29.jpg?1696547580">WHO</set>
             <reverse-related>Osgood, Operation Double</reverse-related>
@@ -10678,15 +10679,16 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Spellgorger Weird </name>
+            <name>Spellgorger Weird (Token)</name>
             <text>Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.
 (This token's mana cost is {2}{R}.)</text>
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Weird</type>
                 <maintype>Creature</maintype>
-                <cmc>0</cmc>
+                <cmc>3</cmc>
                 <pt>2/2</pt>
+                <manacost>2R</manacost>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/3/3/33b63bd0-0b61-4a87-928f-95fc6b5a3150.jpg?1717826490">MH3</set>
             <reverse-related>Ral and the Implicit Maze</reverse-related>
@@ -11487,15 +11489,16 @@ Equip {0}</text>
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Tarmogoyf</name>
+            <name>Tarmogoyf (Token)</name>
             <text>Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.
 (This token's mana cost is {1}{G}.)</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Lhurgoyf</type>
                 <maintype>Creature</maintype>
-                <cmc>0</cmc>
+                <cmc>2</cmc>
                 <pt>*/1+*</pt>
+                <manacost>1G</manacost>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/f/2/f26e1f55-284c-4540-bf5c-ebc7ab9687ab.jpg?1717661464">M3C</set>
             <reverse-related>Disa the Restless</reverse-related>
