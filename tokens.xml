@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20240616b</sourceVersion>
+        <sourceVersion>20240624</sourceVersion>
     </info>
     <cards>
         <!--
@@ -2175,6 +2175,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Gone Missing</reverse-related>
             <reverse-related>Hall</reverse-related>
             <reverse-related>Hard Evidence</reverse-related>
+            <reverse-related>Havengul Laboratory</reverse-related>
             <reverse-related>Heaven Sent</reverse-related>
             <reverse-related>Hold for Questioning</reverse-related>
             <reverse-related>Homicide Investigator</reverse-related>
@@ -4492,6 +4493,7 @@ Ferocious — {T}: Add {G}{G}{G}{G}. Activate only if you control a creature wit
             <reverse-related>Academy Manufactor</reverse-related>
             <reverse-related>Apothecary White</reverse-related>
             <reverse-related count="x" exclude="exclude">Apothecary White</reverse-related>
+            <reverse-related>Applejack</reverse-related>
             <reverse-related>Astrid Peth</reverse-related>
             <reverse-related>Bake into a Pie</reverse-related>
             <reverse-related>Bartered Cow</reverse-related>
@@ -11990,6 +11992,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Kellogg, Dangerous Mind</reverse-related>
             <reverse-related>Kerblam! Warehouse</reverse-related>
             <reverse-related>Korvold and the Noble Thief</reverse-related>
+            <reverse-related>Lara Croft, Tomb Raider</reverse-related>
             <reverse-related>Life Insurance</reverse-related>
             <reverse-related count="x">Lobelia Sackville-Baggins</reverse-related>
             <reverse-related>Loot Dispute</reverse-related>
@@ -12034,6 +12037,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Patron of the Arts</reverse-related>
             <reverse-related>Pick-a-Beeble</reverse-related>
             <reverse-related count="2" exclude="exclude">Pick-a-Beeble</reverse-related>
+            <reverse-related>Pinkie Pie</reverse-related>
             <reverse-related count="2">Pirate's Pillage</reverse-related>
             <reverse-related>Pirate's Prize</reverse-related>
             <reverse-related>Pitiless Plunderer</reverse-related>
