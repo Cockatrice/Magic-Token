@@ -4492,8 +4492,8 @@ Ferocious — {T}: Add {G}{G}{G}{G}. Activate only if you control a creature wit
             <set picURL="https://cards.scryfall.io/large/front/2/6/261aed78-2d57-4ed4-b3d2-53b139b6bd44.jpg?1572489232">ELD</set>
             <reverse-related>Academy Manufactor</reverse-related>
             <reverse-related>Apothecary White</reverse-related>
-            <reverse-related>Applejack</reverse-related>
             <reverse-related count="x" exclude="exclude">Apothecary White</reverse-related>
+            <reverse-related>Applejack</reverse-related>
             <reverse-related>Astrid Peth</reverse-related>
             <reverse-related>Bake into a Pie</reverse-related>
             <reverse-related>Bartered Cow</reverse-related>
