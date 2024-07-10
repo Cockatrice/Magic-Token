@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20240624</sourceVersion>
+        <sourceVersion>20240710</sourceVersion>
     </info>
     <cards>
         <!--
@@ -39,10 +39,15 @@
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/c/7/c76a6163-6fd9-4cdf-9b14-07f75c2f0fa1.jpg?1720338560">ACR</set>
             <set picURL="https://cards.scryfall.io/large/front/2/4/241b3b6d-a25f-4a43-b5d6-1d1079e7e498.jpg?1705432997">MKM</set>
             <reverse-related>Alley Assailant</reverse-related>
+            <reverse-related>Arno Dorian</reverse-related>
             <reverse-related>Aurelia's Vindicator</reverse-related>
+            <reverse-related>Aveline de Grandpré</reverse-related>
             <reverse-related>Basilica Stalker</reverse-related>
+            <reverse-related>Bayek of Siwa</reverse-related>
+            <reverse-related>Become Anonymous</reverse-related>
             <reverse-related>Bolrac-Clan Basher</reverse-related>
             <reverse-related>Boltbender</reverse-related>
             <reverse-related>Branch of Vitu-Ghazi</reverse-related>
@@ -531,6 +536,28 @@ Whenever this creature deals damage to a planeswalker, destroy that planeswalker
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/b/7/b7e997ac-5a4a-4555-9b37-06c25a5db356.jpg?1557575904">WAR</set>
             <reverse-related>Vraska, Swarm's Eminence</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Assassin Token   </name>
+            <text>Menace (This creature can't be blocked except by two or more creatures.)</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Assassin</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/9/19cb2062-86f0-4ce3-b5fb-d3c310f36ec3.jpg?1719129048">ACR</set>
+            <reverse-related>Aya of Alexandria</reverse-related>
+            <reverse-related count="x" exclude="exclude">Aya of Alexandria</reverse-related>
+            <reverse-related>Headsplitter</reverse-related>
+            <reverse-related count="2">Origin of the Hidden Ones</reverse-related>
+            <reverse-related exclude="exclude">Origin of the Hidden Ones</reverse-related>
+            <reverse-related count="x" exclude="exclude">Origin of the Hidden Ones</reverse-related>
+            <reverse-related>Ratonhnhaké꞉ton</reverse-related>
+            <reverse-related>Rooftop Bypass</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -5908,6 +5935,20 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Human Rogue Token  </name>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Human Rogue</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/5/05946b39-0b54-4f63-b521-4d5deb238541.jpg?1719129038">ACR</set>
+            <reverse-related count="3">Distract the Guards</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Human Soldier Token</name>
             <prop>
                 <colors>W</colors>
@@ -8369,6 +8410,20 @@ Paradox — Whenever you cast a spell from anywhere other than your hand, invest
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Phobos</name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Legendary Creature — Horse</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/4/4/447bd736-6b47-440c-86ed-db54bd655274.jpg?1719129410">ACR</set>
+            <reverse-related>The Spear of Leonidas</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Phyrexian Beast Token</name>
             <prop>
                 <colors>G</colors>
@@ -9910,6 +9965,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>3/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/2/d20ad1e6-d698-4a0a-8ed5-903e1d463004.jpg?1719129035">ACR</set>
             <set picURL="https://cards.scryfall.io/large/front/c/4/c4846f1d-d9ff-454b-8408-2809012d28b3.jpg?1699040416">LCC</set>
             <set picURL="https://cards.scryfall.io/large/front/1/1/1186b536-e6c8-433d-a906-b29f334d619c.jpg?1675455935">CLB</set>
             <reverse-related exclude="exclude">Black Market Connections</reverse-related>
@@ -11815,6 +11871,7 @@ This creature can't be enchanted.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/3/536a82d3-f5e2-46b7-969e-84683f937b38.jpg?1719129397">ACR</set>
             <set picURL="https://cards.scryfall.io/large/front/1/1/1141c3fe-1adf-48ab-ac05-079b081788cc.jpg?1717192227">MH3</set>
             <set picURL="https://cards.scryfall.io/large/front/7/e/7ec6f053-96f7-4e57-b2eb-4e7699a40a4f.jpg?1712317080">OTJ</set>
             <set picURL="https://cards.scryfall.io/large/front/c/f/cf0d0741-028f-481b-8982-55f36304c343.jpg?1708711393">PIP</set>
@@ -11911,6 +11968,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="2">Don Andres, the Renegade</reverse-related>
             <reverse-related>Done for the Day</reverse-related>
             <reverse-related>Dungeoneer's Pack</reverse-related>
+            <reverse-related count="x">Edward Kenway</reverse-related>
             <reverse-related exclude="exclude">Elemental Masterpiece</reverse-related>
             <reverse-related count="3">Elusen, the Giving</reverse-related>
             <reverse-related count="x">Emissary Green</reverse-related>
@@ -12011,6 +12069,8 @@ This creature can't be enchanted.</text>
             <reverse-related>Marching Duodrone</reverse-related>
             <reverse-related count="2">Mari, the Killing Quill</reverse-related>
             <reverse-related count="x">Marut</reverse-related>
+            <reverse-related>Mary Read and Anne Bonny</reverse-related>
+            <reverse-related count="x" exclude="exclude">Mary Read and Anne Bonny</reverse-related>
             <reverse-related count="x">Master of Ceremonies</reverse-related>
             <reverse-related>Mastermind Plum</reverse-related>
             <reverse-related>Meet and Greet "Sisay"</reverse-related>
@@ -12035,6 +12095,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Pain Distributor</reverse-related>
             <reverse-related>Patient Naturalist</reverse-related>
             <reverse-related>Patron of the Arts</reverse-related>
+            <reverse-related>Petty Larceny</reverse-related>
             <reverse-related>Pick-a-Beeble</reverse-related>
             <reverse-related count="2" exclude="exclude">Pick-a-Beeble</reverse-related>
             <reverse-related>Pinkie Pie</reverse-related>
@@ -14909,6 +14970,18 @@ You draw a card during each opponent's end step.</text>
             <tablerow>1</tablerow>
         </card>
         <card>
+            <name>The Capitoline Triad Emblem</name>
+            <text>Creatures you control have base power and toughness 9/9.</text>
+            <prop>
+                <type>Emblem</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/5/05402b51-8cf9-4f69-aa12-8a9d5981f8b1.jpg?1719168409">ACR</set>
+            <reverse-related>The Capitoline Triad</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>The Ring</name>
             <text>Your Ring-bearer is legendary and can't be blocked by creatures with greater power.
 Whenever your Ring-bearer attacks, draw a card, then discard a card.
@@ -16249,6 +16322,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>Token</type>
                 <maintype>Token</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/a/3/a31d4312-08cd-4f1e-9d8f-72cbe4abb285.jpg?1719129032">ACR</set>
             <set picURL="https://cards.scryfall.io/large/front/4/5/450bfe1d-a51b-4e45-a0f4-fc72ed94caa4.jpg?1717189937">MH3</set>
             <set picURL="https://cards.scryfall.io/large/front/e/8/e85f57c5-923a-4824-969e-53feddd78c3b.jpg?1712315973">OTJ</set>
             <set picURL="https://cards.scryfall.io/large/front/7/8/78c43047-87f6-4382-874e-02e9628647bd.jpg?1711949144">PIP</set>
