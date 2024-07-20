@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20240715</sourceVersion>
+        <sourceVersion>20240720</sourceVersion>
     </info>
     <cards>
         <!--
@@ -14093,7 +14093,7 @@ Throne of the Dead Three — Reveal the top ten cards of your library. Put a cre
                 <type>Dungeon</type>
                 <maintype>Dungeon</maintype>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/back/2/c/2c65185b-6cf0-451d-985e-56aa45d9a57d.jpg?1707897435">CLB</set>
+            <set picURL="https://cards.scryfall.io/large/front/2/c/2c65185b-6cf0-451d-985e-56aa45d9a57d.jpg?1707897435">CLB</set>
             <related>Skeleton Token  </related>
             <related>Treasure Token</related>
             <token>1</token>
@@ -15881,7 +15881,7 @@ When you take the initiative and at the beginning of your upkeep, venture into U
                 <type>State</type>
                 <maintype>State</maintype>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/2/c/2c65185b-6cf0-451d-985e-56aa45d9a57d.jpg?1707897435">CLB</set>
+            <set picURL="https://cards.scryfall.io/large/back/2/c/2c65185b-6cf0-451d-985e-56aa45d9a57d.jpg?1707897435">CLB</set>
             <related>Undercity</related>
             <reverse-related>Aarakocra Sneak</reverse-related>
             <reverse-related>Avenging Hunter</reverse-related>
