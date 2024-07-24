@@ -127,6 +127,23 @@
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Agate Instigator (Token)</name>
+            <text>Whenever another creature you control enters, this creature deals 1 damage to each opponent.
+(This token's mana cost is {1}{R}.)</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Lizard Rogue</type>
+                <maintype>Creature</maintype>
+                <cmc>2</cmc>
+                <pt>1/1</pt>
+                <manacost>1R</manacost>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/1/917f0578-eb06-4317-9279-70f5e1eff5b2.jpg?1721427498">BLC</set>
+            <reverse-related>Agate Instigator</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Ajani's Pridemate (Token)</name>
             <text>Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.</text>
             <prop>
@@ -786,6 +803,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/0/100c0127-49dd-4a78-9c88-1881e7923674.jpg?1721425184">BLB</set>
             <set picURL="https://cards.scryfall.io/large/front/6/7/677bd8b5-d751-4d17-9e6f-55eb2c30c3ed.jpg?1706217032">MKM</set>
             <set picURL="https://cards.scryfall.io/large/front/0/0/00841e4b-0995-4fb5-93d6-e177beba4934.jpg?1698873968">LCI</set>
             <set picURL="https://cards.scryfall.io/large/front/5/5/55368a15-e45b-4407-9c03-1b17bf84607a.jpg?1675456515">VOC</set>
@@ -801,6 +819,7 @@ Creature tokens you control have flying and vigilance.</text>
             <reverse-related count="2">Belfry Spirit</reverse-related>
             <reverse-related>Desecrated Tomb</reverse-related>
             <reverse-related count="2">Leering Onlooker</reverse-related>
+            <reverse-related>Lunar Convocation</reverse-related>
             <reverse-related>Regal Bloodlord</reverse-related>
             <reverse-related>Sanguine Evangelist</reverse-related>
             <reverse-related count="2">Skeletal Vampire</reverse-related>
@@ -897,6 +916,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/9/d93d0098-2147-4e84-af15-91dec8b98d21.jpg?1721427669">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/0/6/0688142d-7706-4e6a-86bf-e0810e9da9f0.jpg?1717193826">M3C</set>
             <set picURL="https://cards.scryfall.io/large/front/0/d/0d720a76-58ad-4a7a-8bd9-f6137648e6c4.jpg?1698873729">LCC</set>
             <set picURL="https://cards.scryfall.io/large/front/5/a/5aaf1eac-279f-4264-93f6-9058a6a83d0a.jpg?1696546841">WHO</set>
@@ -967,6 +987,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/f/df60cd9d-44f3-41d3-8ed3-b511bdee3fc6.jpg?1721427709">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/6/9/690641ed-abc6-499f-b650-d6e79d412631.jpg?1717193848">M3C</set>
             <set picURL="https://cards.scryfall.io/large/front/d/2/d2bfef17-6e00-4097-b27a-4e3c7e19ca03.jpg?1682211062">MOC</set>
             <set picURL="https://cards.scryfall.io/large/front/f/5/f55c70b8-0fa5-4d08-9061-f53d6f949908.jpg?1653273209">MID</set>
@@ -1196,6 +1217,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/7/2/72328455-560b-4ead-98bb-3c71b1e8baac.jpg?1721426913">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/b/4b0c59f8-b407-47e7-8885-8c968f4ceecf.jpg?1692880921">WOE</set>
             <set picURL="https://cards.scryfall.io/large/front/3/b/3b7ca733-6947-4e09-953e-d8b37b799e6a.jpg?1689796538">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/3/8/38476293-627e-44e6-a83e-24aaf3de8e9a.jpg?1682210858">MOC</set>
@@ -1285,11 +1307,13 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/0/e0796ccd-b8ba-49c9-b76b-4fce55c242dc.jpg?1721427206">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/e/7/e7222593-5ade-4512-bfee-6126d4d0cc19.jpg?1717190162">MH3</set>
             <set picURL="https://cards.scryfall.io/large/front/c/8/c813d283-c996-4f85-afaa-7702414a1197.jpg?1686264248">LTC</set>
             <set picURL="https://cards.scryfall.io/large/front/0/9/09ae926d-80be-42c5-8c36-658cd38d2597.jpg?1562896902">C16</set>
             <set picURL="https://cards.scryfall.io/large/front/c/a/ca72703f-d45b-4c80-98a8-55fad1fcf431.jpg?1562636894">THS</set>
             <reverse-related exclude="exclude">Radagast, Wizard of Wilds</reverse-related>
+            <reverse-related count="4">Perch Protection</reverse-related>
             <reverse-related>Song of Eärendil</reverse-related>
             <reverse-related>Strix Serenade</reverse-related>
             <reverse-related>Swan Song</reverse-related>
@@ -1399,6 +1423,7 @@ Whenever this creature attacks, target attacking creature gains flying until end
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/9/f90d1006-e8f9-4f62-b58b-6e711129e992.jpg?1721428107">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/3/3/3364c1cf-e036-4ba2-a8ae-20e995610311.jpg?1717191968">MH3</set>
             <set picURL="https://cards.scryfall.io/large/front/2/4/24bd6040-0e3f-40fa-98e5-531e82af1b59.jpg?1712320077">OTC</set>
             <set picURL="https://cards.scryfall.io/large/front/0/7/0753c3b5-6127-4e42-a029-b165d5f8170c.jpg?1712317386">BIG</set>
@@ -1428,6 +1453,8 @@ Whenever this creature attacks, target attacking creature gains flying until end
             <reverse-related count="x" exclude="exclude">Kamber, the Plunderer</reverse-related>
             <reverse-related count="x">Lacerate Flesh</reverse-related>
             <reverse-related>Markov Enforcer</reverse-related>
+            <reverse-related>Moonstone Eulogist</reverse-related>
+            <reverse-related count="x" exclude="exclude">Moonstone Eulogist</reverse-related>
             <reverse-related count="x">Odric, Blood-Cursed</reverse-related>
             <reverse-related>Old Rutstein</reverse-related>
             <reverse-related count="x">Olivia's Attendants</reverse-related>
@@ -1558,6 +1585,23 @@ Whenever this creature attacks, target attacking creature gains flying until end
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/a/f/af1a8115-127d-4268-a4d0-95360862e5fb.jpg?1684573311">UST</set>
             <reverse-related count="x">The Big Idea</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Bushy Bodyguard (Token)</name>
+            <text>When this creature enters, you may forage. If you do, put two +1/+1 counters on it.
+(This token's mana cost is {1}{G}.)</text>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Squirrel Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>2</cmc>
+                <pt>1/1</pt>
+                <manacost>1G</manacost>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/c/2/c247d48f-d1e9-4b28-b372-bf4eea67cb8c.jpg?1721426109">BLB</set>
+            <reverse-related>Bushy Bodyguard</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -1771,6 +1815,7 @@ Whenever this creature attacks, target attacking creature gains flying until end
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/1/21450a75-26ec-4344-bebc-d55c2cf3fc1c.jpg?1721427725">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/b/d/bdc3ab55-8b33-4604-ad78-26edbb23d218.jpg?1706129749">MKC</set>
             <set picURL="https://cards.scryfall.io/large/front/9/c/9cf66184-0df9-4a6b-bf4a-c5bd0d21b5b6.jpg?1689976223">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/0/7/07b58d5f-8a9f-4fd6-83d6-efe3a92e89b2.jpg?1675198658">DMR</set>
@@ -1987,6 +2032,7 @@ Whenever this creature attacks, target attacking creature gains flying until end
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/a/fa605271-03c0-401b-a470-4301898c2124.jpg?1721427940">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/3/f/3f03e9fe-cb71-498e-bf16-5af6af37a192.jpg?1674337938">SNC</set>
             <reverse-related count="x">Boss's Chauffeur</reverse-related>
             <reverse-related count="2">Cabaretti Charm</reverse-related>
@@ -2120,6 +2166,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/1/5117d654-dabb-4f97-b3d7-b6e1e3157758.jpg?1721428139">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/e/6/e604b9ca-6c5a-459e-b509-955c3428530a.jpg?1717191994">MH3</set>
             <set picURL="https://cards.scryfall.io/large/front/7/6/764a906c-8b27-4ffa-bdc3-7825c6919d3e.jpg?1712316807">OTJ</set>
             <set picURL="https://cards.scryfall.io/large/front/6/5/65ff5544-bdf8-43a3-a74d-4a2b7d79245a.jpg?1708696670">PIP</set>
@@ -2457,6 +2504,23 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Coruscation Mage (Token)</name>
+            <text>Whenever you cast a noncreature spell, this creature deals 1 damage to opponent.
+(This token's mana cost is {1}{R}.)</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Otter Wizard</type>
+                <maintype>Creature</maintype>
+                <cmc>2</cmc>
+                <pt>1/1</pt>
+                <manacost>1R</manacost>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/6/6674c208-4d8d-4833-bee2-bfc87c93049d.jpg?1721431141">BLB</set>
+            <reverse-related>Coruscation Mage</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Crab Token</name>
             <prop>
                 <colors>U</colors>
@@ -2471,6 +2535,20 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Specimen Collector</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Cragflame</name>
+            <text>Equipped creature gets +1/+1 and has vigilance, trample, and haste.
+Equip {2}</text>
+            <prop>
+                <type>Token Legendary Artifact — Equipment</type>
+                <maintype>Artifact</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/c/7/c76fa1c6-6000-47b2-9188-9c15b2c73f8f.jpg?1721431172">BLB</set>
+            <reverse-related>Mabel, Heir to Cragflame</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Cyberman</name>
@@ -2514,6 +2592,24 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Genesis of the Daleks</reverse-related>
             <reverse-related count="x" exclude="exclude">Genesis of the Daleks</reverse-related>
             <reverse-related>The Dalek Emperor</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Darkstar Augur (Token)</name>
+            <text>Flying
+At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.
+(This token's mana cost is {2}{B}.)</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Bat Warlock</type>
+                <maintype>Creature</maintype>
+                <cmc>3</cmc>
+                <pt>1/1</pt>
+                <manacost>2B</manacost>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/1/01b55966-0910-484d-9b2b-0a59233c44c4.jpg?1721425749">BLB</set>
+            <reverse-related>Darkstar Augur</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3467,6 +3563,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>10/10</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/6/5658b0e1-2c8e-4901-a478-f2a50ced40af.jpg?1721426872">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/2/0/209a3cfb-2c5a-4a9f-87f8-f9f6e290a88b.jpg?1717193455">M3C</set>
             <set picURL="https://cards.scryfall.io/large/front/4/3/43110337-7361-4f6b-9c7f-5f4ea97b9486.jpg?1712319435">OTC</set>
             <set picURL="https://cards.scryfall.io/large/front/d/d/ddf75a0b-9656-4885-86dc-60fc3dde78b7.jpg?1706130926">MKC</set>
@@ -3696,6 +3793,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/c/6c6c62a5-dd1d-4d37-a2da-6e4e6b5bec40.jpg?1721426949">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/7/8/7810827c-55ab-431d-a342-d115d97da082.jpg?1562919055">C16</set>
             <set picURL="https://cards.scryfall.io/large/front/1/c/1c791044-be86-47d8-8c1b-299f6ab254e6.jpg?1562636696">LRW</set>
             <reverse-related>Hoofprints of the Stag</reverse-related>
@@ -4084,6 +4182,7 @@ This creature's power and toughness are each equal to the number of instant and 
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/0/f0a8841d-1d2d-429f-a14d-bb2251dbf898.jpg?1721427744">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/9/f/9f2f4fec-ad7b-4407-b288-615ec40c4980.jpg?1717193909">M3C</set>
             <set picURL="https://cards.scryfall.io/large/front/2/b/2be112a9-0c95-4b38-a94f-cfb87791f06e.jpg?1698873798">LCC</set>
             <set picURL="https://cards.scryfall.io/large/front/5/1/5172ff86-3e04-437d-b262-427af8b3af05.jpg?1692830392">WOC</set>
@@ -4338,6 +4437,7 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/7/5/7561a5dd-56a3-41ee-a342-f7088930df0b.jpg?1721427235">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/5/4/5458e078-0145-448f-8028-7b35bd4d4cc1.jpg?1692830233">WOC</set>
             <set picURL="https://cards.scryfall.io/large/front/0/1/010ffef8-22ce-4d8f-80f0-6749f63ec4c2.jpg?1682210912">MOC</set>
             <set picURL="https://cards.scryfall.io/large/front/f/1/f1c9e102-7abb-4b72-867f-3aa2f51f6f77.jpg?1675456379">BRC</set>
@@ -4429,6 +4529,24 @@ Ferocious — {T}: Add {G}{G}{G}{G}. Activate only if you control a creature wit
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Finch Formation (Token)</name>
+            <text>Flying
+When this creature enters, target creature you control gains flying until end of turn.
+(This token's mana cost is {2}{U}.)</text>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Bird Scout</type>
+                <maintype>Creature</maintype>
+                <cmc>3</cmc>
+                <pt>1/1</pt>
+                <manacost>2U</manacost>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/c/8/c8be9b74-6f1a-4692-a09a-1013cae4da18.jpg?1721424865">BLB</set>
+            <reverse-related>Finch Formation</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>First Mate Ragavan</name>
             <prop>
                 <colors>R</colors>
@@ -4488,8 +4606,36 @@ Ferocious — {T}: Add {G}{G}{G}{G}. Activate only if you control a creature wit
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/e/de0d6700-49f0-4233-97ba-cef7821c30ed.jpg?1721431109">BLB</set>
             <set picURL="https://cards.scryfall.io/large/front/2/9/297fc694-08f6-4477-b898-60ec641a0757.jpg?1696547039">WHO</set>
+            <reverse-related count="2" exclude="exclude">Beza, the Bounding Spring</reverse-related>
+            <reverse-related>Fisher's Talent</reverse-related>
+            <reverse-related>Fountainport</reverse-related>
             <reverse-related count="2">Frost Fair Lure Fish</reverse-related>
+            <reverse-related>Into the Flood Maw</reverse-related>
+            <reverse-related>Knightfisher</reverse-related>
+            <reverse-related>Longstalk Brawl</reverse-related>
+            <reverse-related>Mind Spiral</reverse-related>
+            <reverse-related>Parting Gust</reverse-related>
+            <reverse-related>Sazacap's Brew</reverse-related>
+            <reverse-related>Starforged Sword</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Flowerfoot Swordmaster (Token)</name>
+            <text>Valiant — Whenever this creature becomes the target of a spell or ability you control for the first time each turn, Mice you control get +1/+0 until end of turn.
+(This token's mana cost is {W}.)</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Mouse Soldier</type>
+                <maintype>Creature</maintype>
+                <cmc>1</cmc>
+                <pt>1/1</pt>
+                <manacost>W</manacost>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/1/31c977b7-12cb-4e6f-8260-a7399b60940f.jpg?1721431117">BLB</set>
+            <reverse-related>Flowerfoot Swordmaster</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -4501,6 +4647,7 @@ Ferocious — {T}: Add {G}{G}{G}{G}. Activate only if you control a creature wit
                 <type>Token Artifact — Food</type>
                 <maintype>Artifact</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/d/0dce2241-e58b-41d4-b57c-9794fc8ee004.jpg?1721425221">BLB</set>
             <set picURL="https://cards.scryfall.io/large/front/1/4/14fe0b7c-2d73-4c21-98ca-ee3a7d7f20c8.jpg?1717192010">MH3</set>
             <set picURL="https://cards.scryfall.io/large/front/6/0/600d5d22-62a0-49c9-b050-90a2566e8caf.jpg?1712320125">OTC</set>
             <set picURL="https://cards.scryfall.io/large/front/2/8/280e3af6-7904-4214-8141-e145c48e2687.jpg?1712317778">BIG</set>
@@ -4523,13 +4670,17 @@ Ferocious — {T}: Add {G}{G}{G}{G}. Activate only if you control a creature wit
             <reverse-related>Applejack</reverse-related>
             <reverse-related>Astrid Peth</reverse-related>
             <reverse-related>Bake into a Pie</reverse-related>
+            <reverse-related>Bakersbane Duo</reverse-related>
             <reverse-related>Bartered Cow</reverse-related>
             <reverse-related count="2">Bill the Pony</reverse-related>
             <reverse-related>Brandywine Farmer</reverse-related>
             <reverse-related count="2">Bristlebud Farmer</reverse-related>
+            <reverse-related>Bumbleflower's Sharepot</reverse-related>
             <reverse-related>Butterbur, Bree Innkeeper</reverse-related>
+            <reverse-related>Cache Grab</reverse-related>
             <reverse-related>Cirith Ungol Patrol</reverse-related>
             <reverse-related>Concession Stand</reverse-related>
+            <reverse-related>Crumb and Get It</reverse-related>
             <reverse-related>Curious Pair // Treats to Share</reverse-related>
             <reverse-related>Devouring Sugarmaw // Have for Dinner</reverse-related>
             <reverse-related>Eastfarthing Farmer</reverse-related>
@@ -4559,7 +4710,10 @@ Ferocious — {T}: Add {G}{G}{G}{G}. Activate only if you control a creature wit
             <reverse-related>Greta, Sweettooth Scourge</reverse-related>
             <reverse-related>Gumdrop Poisoner // Tempt with Treats</reverse-related>
             <reverse-related count="x">Gyome, Master Chef</reverse-related>
+            <reverse-related>Hazel's Brewmaster</reverse-related>
             <reverse-related>Hollow Scavenger // Bakery Raid</reverse-related>
+            <reverse-related>Insatiable Frugivore</reverse-related>
+            <reverse-related count="x" exclude="exclude">Insatiable Frugivore</reverse-related>
             <reverse-related>Intrepid Trufflesnout // Go Hog Wild</reverse-related>
             <reverse-related count="x">Killer Service</reverse-related>
             <reverse-related>Late to Dinner</reverse-related>
@@ -4568,6 +4722,7 @@ Ferocious — {T}: Add {G}{G}{G}{G}. Activate only if you control a creature wit
             <reverse-related>Meriadoc Brandybuck</reverse-related>
             <reverse-related>Mintstrosity</reverse-related>
             <reverse-related>Night of the Sweets' Revenge</reverse-related>
+            <reverse-related>Nocturnal Hunger</reverse-related>
             <reverse-related>Nuka-Cola Vending Machine</reverse-related>
             <reverse-related>Oath of the Grey Host</reverse-related>
             <reverse-related>Of Herbs and Stewed Rabbit</reverse-related>
@@ -4575,6 +4730,7 @@ Ferocious — {T}: Add {G}{G}{G}{G}. Activate only if you control a creature wit
             <reverse-related>Old Flitterfang</reverse-related>
             <reverse-related count="2">Orchard Strider</reverse-related>
             <reverse-related>Overencumbered</reverse-related>
+            <reverse-related>Pawpatch Formation</reverse-related>
             <reverse-related>Peregrin Took</reverse-related>
             <reverse-related>Pippin, Warden of Isengard</reverse-related>
             <reverse-related>Provisions Merchant</reverse-related>
@@ -4588,7 +4744,9 @@ Ferocious — {T}: Add {G}{G}{G}{G}. Activate only if you control a creature wit
             <reverse-related>Sam, Loyal Attendant</reverse-related>
             <reverse-related>Samwise Gamgee</reverse-related>
             <reverse-related count="x" exclude="exclude">Samwise Gamgee</reverse-related>
+            <reverse-related>Savor</reverse-related>
             <reverse-related>Savvy Hunter</reverse-related>
+            <reverse-related>Scavenger's Talent</reverse-related>
             <reverse-related>Scream Puff</reverse-related>
             <reverse-related>Second Breakfast</reverse-related>
             <reverse-related>Shelob's Ambush</reverse-related>
@@ -4621,7 +4779,9 @@ Ferocious — {T}: Add {G}{G}{G}{G}. Activate only if you control a creature wit
             <reverse-related exclude="exclude">Transmutation Font</reverse-related>
             <reverse-related count="2">Treebeard, Gracious Host</reverse-related>
             <reverse-related>Turn into a Pumpkin</reverse-related>
+            <reverse-related>Valley Rally</reverse-related>
             <reverse-related>Vault 101: Birthday Party</reverse-related>
+            <reverse-related>Vinereap Mentor</reverse-related>
             <reverse-related count="x">Voracious Fell Beast</reverse-related>
             <reverse-related exclude="exclude">Welcome to Sweettooth</reverse-related>
             <reverse-related exclude="exclude">White Glove Gourmand</reverse-related>
@@ -4699,6 +4859,7 @@ Ferocious — {T}: Add {G}{G}{G}{G}. Activate only if you control a creature wit
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/4/8/48c184d8-159a-47e3-8107-c7e7c5788e1d.jpg?1721427762">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/b/4b059b47-374e-4745-aaac-2130ce70219a.jpg?1698873751">LCC</set>
             <set picURL="https://cards.scryfall.io/large/front/e/5/e54486a4-f432-4e50-8639-799e036d0657.jpg?1641306095">C21</set>
             <set picURL="https://cards.scryfall.io/large/front/4/9/495d3391-6311-418e-b55a-10c0af751026.jpg?1572892517">RNA</set>
@@ -4926,6 +5087,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/8/3805aa7a-6384-45e0-868c-01265822c078.jpg?1721426987">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/c/4/c47259b5-2bc9-42cc-ae64-790f04da70c0.jpg?1686265894">LTC</set>
             <set picURL="https://cards.scryfall.io/large/front/7/f/7fc777ba-4380-4d9d-8a0d-88e3213107cf.jpg?1675456372">BRC</set>
             <set picURL="https://cards.scryfall.io/large/front/5/c/5ce4f2b0-d63e-4f65-8261-ae61a8c9f591.jpg?1675455733">CLB</set>
@@ -5039,6 +5201,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/1/3186f5e2-8078-4fa3-b61e-866c2d4c495d.jpg?1721427528">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/d/a/daab2f6a-ea1d-49ec-9457-4c5db6cc6538.jpg?1717193792">M3C</set>
             <set picURL="https://cards.scryfall.io/large/front/c/d/cd6cd0d3-7973-49e6-9c1c-6f516a5d5fe5.jpg?1706217096">MKM</set>
             <set picURL="https://cards.scryfall.io/large/front/4/1/419c1799-1525-44ec-9f6c-dfc290f04ba7.jpg?1689975651">CMM</set>
@@ -5538,6 +5701,20 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Hamster Token</name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Hamster</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/7/1/711274ae-1a4e-491c-aa71-b2d29c890578.jpg?1721427571">BLC</set>
+            <reverse-related count="3">Rolling Hamsphere</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Harpy Token</name>
             <text>Flying</text>
             <prop>
@@ -5957,6 +6134,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/4/8/48703f7a-98af-4cf1-9782-4f344eeb2066.jpg?1721427050">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/7/3/737741e7-b2b2-4c41-ab7c-4eeaf9f37b71.jpg?1708696956">PIP</set>
             <set picURL="https://cards.scryfall.io/large/front/f/3/f3c9c53d-7aeb-4a04-923b-dd6c7505af8f.jpg?1706129826">MKC</set>
             <set picURL="https://cards.scryfall.io/large/front/d/d/dd0f8dba-e34e-443c-9e92-9ae9d3e4d585.jpg?1692830160">WOC</set>
@@ -6034,6 +6212,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/0/602f3817-fde4-4982-822d-0a2953561118.jpg?1721427027">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/d/7/d7cd1de1-9657-4262-be11-8279b3408e54.jpg?1706130233">MKM</set>
             <set picURL="https://cards.scryfall.io/large/front/5/0/50240867-3a3e-4a8d-9569-816ab4a3671a.jpg?1692830746">WOE</set>
             <set picURL="https://cards.scryfall.io/large/front/6/8/68264336-6bfb-44d9-86f5-86ef6433bc2f.jpg?1686258977">LTC</set>
@@ -6361,6 +6540,7 @@ Equip {2}</text>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/3/13374c5a-d39d-40c8-b9eb-c283dbad2cb9.jpg?1721427259">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/b/6/b6b43dc2-eaa4-4369-8c8c-b17c64326c5b.jpg?1717193567">M3C</set>
             <set picURL="https://cards.scryfall.io/large/front/2/3/2300635e-7771-4676-a5a5-29a9d8f49f1a.jpg?1604194799">ZNR</set>
             <reverse-related>Inscription of Insight</reverse-related>
@@ -6668,6 +6848,40 @@ Equip {2}</text>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/9/a/9af00a97-9938-4ab2-938a-669cdfe4332a.jpg?1675455301">40K</set>
             <reverse-related count="x">Canoptek Scarab Swarm</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Intrepid Rabbit (Token)</name>
+            <text>When this creature enters, target creature you control gets +1/+1 until end of turn.
+(This token's mana cost is {2}{W}.)</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Rabbit Soldier</type>
+                <maintype>Creature</maintype>
+                <cmc>3</cmc>
+                <pt>1/1</pt>
+                <manacost>2W</manacost>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/b/3b1cd58d-c0bc-48e5-b6fa-fb222fba77ab.jpg?1721442347">BLB</set>
+            <reverse-related>Intrepid Rabbit</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Iridescent Vinelasher (Token)</name>
+            <text>Landfall — Whenever a land you control enters, this creature deals 1 damage to target opponent.
+(This token's mana cost is {B}.)</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Lizard Assassin</type>
+                <maintype>Creature</maintype>
+                <cmc>1</cmc>
+                <pt>1/1</pt>
+                <manacost>B</manacost>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/f/2f55c677-dc14-4ae3-9518-0d80b528c3fb.jpg?1721425811">BLB</set>
+            <reverse-related>Iridescent Vinelasher</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7285,6 +7499,23 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <reverse-related>Whisperwood Elemental</reverse-related>
             <reverse-related>Wildcall</reverse-related>
             <reverse-related>Write into Being</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Manifold Mouse (Token)</name>
+            <text>At the beginning of combat on your turn, target Mouse you control gains your choice of double strike or trample until end of turn.
+(This token's mana cost is {1}{R}.)</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Mouse Soldier</type>
+                <maintype>Creature</maintype>
+                <cmc>2</cmc>
+                <pt>1/1</pt>
+                <manacost>1R</manacost>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/5/f5067c54-0f31-40e6-9ead-5d0183c9f00a.jpg?1721431148">BLB</set>
+            <reverse-related>Manifold Mouse</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7982,9 +8213,12 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>8/8</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/f/9fc10475-5eaf-47ea-a45c-3948a632f365.jpg?1721427277">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/1/9/19ac0a35-fae7-49f9-ae96-4406df992dc9.jpg?1562639696">BFZ</set>
             <reverse-related>Crush of Tentacles</reverse-related>
+            <reverse-related exclude="exclude">Fisher's Talent</reverse-related>
             <reverse-related count="3">Kiora, Master of the Depths</reverse-related>
+            <reverse-related>Octomancer</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -8269,6 +8503,24 @@ Paradox — Whenever you cast a spell from anywhere other than your hand, invest
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Otter Token</name>
+            <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+            <prop>
+                <colors>RU</colors>
+                <type>Token Creature — Otter</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/6/e6b2c465-c446-4dee-9101-763105dcf813.jpg?1721431166">BLB</set>
+            <reverse-related>Otterball Antics</reverse-related>
+            <reverse-related>Ral, Crackling Wit</reverse-related>
+            <reverse-related>Stormchaser's Talent</reverse-related>
+            <reverse-related count="x" exclude="exclude">Stormchaser's Talent</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Ox Token</name>
             <prop>
                 <colors>W</colors>
@@ -8312,6 +8564,24 @@ Paradox — Whenever you cast a spell from anywhere other than your hand, invest
             <set picURL="https://cards.scryfall.io/large/front/c/e/cee3ecef-4566-4164-af39-89cb0bbbffeb.jpg?1712316060">OTJ</set>
             <reverse-related>Bovine Intervention</reverse-related>
             <reverse-related>Bruse Tarl, Roving Rancher</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Pawpatch Recruit (Token)</name>
+            <text>Trample
+Whenever a creature you control becomes the target of a spell or ability an opponent controls, put a +1/+1 counter on target creature you control other than that creature.
+(This token's mana cost is {G}.)</text>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Rabbit Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>1</cmc>
+                <pt>1/1</pt>
+                <manacost>G</manacost>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/7/c/7cdd8679-93a7-4e58-a6f3-b48897697e89.jpg?1721426203">BLB</set>
+            <reverse-related>Pawpatch Recruit</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -8393,6 +8663,7 @@ Paradox — Whenever you cast a spell from anywhere other than your hand, invest
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/b/2b613822-b9c2-439e-9533-a91bed12b5e9.jpg?1721428033">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/d/0/d0ddbe3e-4a66-494d-9304-7471232549bf.jpg?1682693901">STX</set>
             <reverse-related>Beledros Witherbloom</reverse-related>
             <reverse-related count="x">Blight Mound</reverse-related>
@@ -8530,6 +8801,7 @@ Paradox — Whenever you cast a spell from anywhere other than your hand, invest
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/4/6/46161339-7173-4265-9691-106be5536b2d.jpg?1721428192">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/e/4ee5119d-f76c-44c7-bf82-34aabb4d2e69.jpg?1717192026">MH3</set>
             <set picURL="https://cards.scryfall.io/large/front/e/7/e7a91956-e351-4533-9f0d-4a578617f88b.jpg?1689883510">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/a/7/a760c72c-2883-492e-8d38-548825efdd00.jpg?1682211158">MOC</set>
@@ -9115,6 +9387,25 @@ Creatures you control attack each combat if able.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Prosperous Bandit (Token)</name>
+            <text>First strike
+Whenever this creature deals combat damage to a player, create that many tapped Treasure tokens.
+(This token's mana cost is {2}{R}.)</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Raccoon Rogue</type>
+                <maintype>Creature</maintype>
+                <cmc>3</cmc>
+                <pt>1/1</pt>
+                <manacost>2R</manacost>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/b/9b338247-1f5c-43b7-a66d-ddee01426917.jpg?1721427646">BLC</set>
+            <reverse-related>Prosperous Bandit</reverse-related>
+            <related count="x">Treasure Token</related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Proven Combatant (Token)</name>
             <prop>
                 <colors>B</colors>
@@ -9137,8 +9428,32 @@ Creatures you control attack each combat if able.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/1/81de52ef-7515-4958-abea-fb8ebdcef93c.jpg?1721431122">BLB</set>
             <set picURL="https://cards.scryfall.io/large/front/2/2/22ca55e0-d269-4178-bc90-920a12066e4f.jpg?1675455763">CLB</set>
             <reverse-related count="x">Cadira, Caller of the Small</reverse-related>
+            <reverse-related>Carrot Cake</reverse-related>
+            <reverse-related count="2">Head of the Homestead</reverse-related>
+            <reverse-related count="3">Hop to It</reverse-related>
+            <reverse-related count="x">Jacked Rabbit</reverse-related>
+            <reverse-related>Season of the Burrow</reverse-related>
+            <reverse-related count="x" exclude="exclude">Season of the Burrow</reverse-related>
+            <reverse-related>Tempt with Bunnies</reverse-related>
+            <reverse-related count="x" exclude="exclude">Tempt with Bunnies</reverse-related>
+            <reverse-related exclude="exclude">Warren Warleader</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Raccoon Token</name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Raccoon</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/a/f/af257e8b-9bed-4c6b-9510-11fe950fa80e.jpg?1721427818">BLC</set>
+            <reverse-related>Gourmand's Talent</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -9182,6 +9497,7 @@ Creatures you control attack each combat if able.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/3/d32015d8-9441-4ba6-a59d-a2b6d9f0979c.jpg?1721427440">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/5/2/52e48215-9771-4722-8cbc-347ac816fb43.jpg?1712319605">OTC</set>
             <set picURL="https://cards.scryfall.io/large/front/d/5/d5328e78-65c5-46e8-8980-3075ece0fa99.jpg?1689975931">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/e/4/e43a205e-43ea-4b3e-92ab-c2ee2172a50a.jpg?1572489150">ELD</set>
@@ -9258,6 +9574,21 @@ Creatures you control attack each combat if able.</text>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/f/3/f3054ecd-0f8a-439d-ab7c-129d5aa0ccb2.jpg?1717826483">MH3</set>
             <reverse-related exclude="exclude">Genku, Future Shaper</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Rat Token    </name>
+            <text>This creature gets +1/+1 for each other Rat you control.</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Rat</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/c/1c0977b2-3342-4b7e-b1c7-f06bd8ab7fbf.jpg?1721428982">BLB</set>
+            <reverse-related count="x">Vren, the Relentless</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -9504,6 +9835,23 @@ Equip {1}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Rust-Shield Rampager (Token)</name>
+            <text>This creature can't be blocked by creatures with power 2 or less.
+(This token's mana cost is {3}{G}.)</text>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Raccoon Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>4</cmc>
+                <pt>1/1</pt>
+                <manacost>3G</manacost>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/2/e2dd6325-e3d8-4816-ac52-8838c12b4922.jpg?1721589148">BLB</set>
+            <reverse-related>Rust-Shield Rampager</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Sacred Cat (Token)</name>
             <text>Lifelink</text>
             <prop>
@@ -9612,6 +9960,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/9/590abe94-9c71-4429-b1b5-8b5de877de03.jpg?1721427861">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/3/e/3ef1b559-ec63-4775-824f-bef0b3094807.jpg?1717193977">M3C</set>
             <set picURL="https://cards.scryfall.io/large/front/f/3/f38381fd-e368-46b2-94e9-89c9b182435d.jpg?1706130511">MKC</set>
             <set picURL="https://cards.scryfall.io/large/front/3/4/34e5ec9e-8e9c-4396-86b3-c9ca99eaf2fa.jpg?1692830106">WOC</set>
@@ -9655,6 +10004,7 @@ Equip {1}</text>
             <reverse-related count="x">Artifact Mutation</reverse-related>
             <reverse-related count="x">Aura Mutation</reverse-related>
             <reverse-related count="2">Bramble Elemental</reverse-related>
+            <reverse-related count="2">Brightcap Badger // Fungus Frolic</reverse-related>
             <reverse-related count="x">Death Mutation</reverse-related>
             <reverse-related>Deathbloom Thallid</reverse-related>
             <reverse-related>Deathspore Thallid</reverse-related>
@@ -9946,6 +10296,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/e/0e0f1e76-ccc0-4643-b4f2-c8e3042230ee.jpg?1721427307">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/a/d/ad46aa41-47e6-498d-8004-9127c21229a9.jpg?1717193635">M3C</set>
             <set picURL="https://cards.scryfall.io/large/front/a/b/ab451fcc-15c9-4c19-9624-af0af741bba6.jpg?1682210921">MOC</set>
             <set picURL="https://cards.scryfall.io/large/front/c/e/ce94fb42-cde4-4637-b938-13f17793bf1f.jpg?1675455965">CLB</set>
@@ -9998,6 +10349,20 @@ Equip {1}</text>
             <set picURL="https://cards.scryfall.io/large/front/1/8/18d590bd-1fa6-4a38-9297-6601b1b704d5.jpg?1712319572">OTC</set>
             <set picURL="https://cards.scryfall.io/large/front/3/0/30d12226-6417-4b98-beb5-89a36c774141.jpg?1681080954">IKO</set>
             <reverse-related>Shark Typhoon</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Shark Token </name>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Shark</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/9/f9424ef2-d271-4929-83e0-12775420bac3.jpg?1721427369">BLC</set>
+            <reverse-related exclude="exclude">Fisher's Talent</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -10279,6 +10644,20 @@ When this creature dies, create fourteen Treasure tokens.</text>
             <tablerow>1</tablerow>
         </card>
         <card>
+            <name>Snail Token</name>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Snail</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/9/d9bb0a91-b73e-465b-8c0e-50fc28e66fda.jpg?1721425912">BLB</set>
+            <reverse-related>Wick, the Whorled Mind</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Snake Token</name>
             <prop>
                 <colors>G</colors>
@@ -10422,6 +10801,7 @@ When this creature dies, create fourteen Treasure tokens.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/0/10da848f-7f50-4bc4-b13e-a58acf3516e8.jpg?1721427112">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/e/1/e17648a0-f680-429d-8dda-2b0c14f3d80a.jpg?1717190149">MH3</set>
             <set picURL="https://cards.scryfall.io/large/front/a/f/af191656-5e62-440f-b63a-705cfed314e7.jpg?1708711055">PIP</set>
             <set picURL="https://cards.scryfall.io/large/front/3/a/3a14b1a7-812b-49d5-80ff-47b7ffdb4678.jpg?1706130833">MKC</set>
@@ -10784,6 +11164,23 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Splash Lasher (Token)</name>
+            <text>When this creature enters, tap up to one target creature and put a stun counter on it.
+(This token's mana cost is {3}{U}.)</text>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Frog Wizard</type>
+                <maintype>Creature</maintype>
+                <cmc>4</cmc>
+                <pt>1/1</pt>
+                <manacost>3U</manacost>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/3/53065735-c427-458e-ade4-ec2d81c8d277.jpg?1721424987">BLB</set>
+            <reverse-related>Splash Lasher</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Spider Token</name>
             <text>Reach</text>
             <prop>
@@ -10793,6 +11190,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>1/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/5/858dec67-4839-45ce-91c9-85709b392c07.jpg?1721427890">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/e/3/e30d675b-1124-4a90-b270-39c52fdffc1f.jpg?1689796457">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/1/d/1dab34a7-0d18-4a6c-ac40-3b9901ff841b.jpg?1675456075">CLB</set>
             <set picURL="https://cards.scryfall.io/large/front/4/1/41bee18a-46d6-4f60-9e19-5fc670a20a4d.jpg?1653273222">MID</set>
@@ -10918,6 +11316,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/e/5e981782-d6ca-4d84-a69c-7571df51e9f3.jpg?1721427142">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/a/0/a0aa2f5e-9809-4e97-b9b2-9c9a322a8e21.jpg?1717189919">MH3</set>
             <set picURL="https://cards.scryfall.io/large/front/f/5/f52ac58b-c6d7-4d17-ad2e-1c959f9089b0.jpg?1706130639">MKC</set>
             <set picURL="https://cards.scryfall.io/large/front/6/e/6e8ba2be-4e95-4d10-b866-9fde3f8c8a3f.jpg?1689972091">CMM</set>
@@ -11339,7 +11738,7 @@ Cumulative upkeep {G}</text>
         </card>
         <card>
             <name>Squid Token</name>
-            <text>Islandwalk</text>
+            <text>Islandwalk (This creature can't be blocked as long as defending player controls an Island.)</text>
             <prop>
                 <colors>U</colors>
                 <type>Token Creature — Squid</type>
@@ -11347,6 +11746,7 @@ Cumulative upkeep {G}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/c/2c7e1ec8-ee84-4806-bd89-defd79902e41.jpg?1721427398">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/4/44ea459b-b655-4106-9f24-9bdb440e04b1.jpg?1682210939">MOC</set>
             <set picURL="https://cards.scryfall.io/large/front/7/4/743688fa-ca30-4a4b-92ec-6708af8692db.jpg?1675455973">CLB</set>
             <set picURL="https://cards.scryfall.io/large/front/b/2/b247ed9c-f5d4-43a7-bf9b-3a42878de840.jpg?1562930891">C16</set>
@@ -11365,6 +11765,7 @@ Cumulative upkeep {G}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/a/5a6ec62e-0e9b-4312-bfe8-cc85d76fd9e0.jpg?1721425294">BLB</set>
             <set picURL="https://cards.scryfall.io/large/front/f/9/f90bb066-79fd-48cd-ab5a-eaed71139b4e.jpg?1708711084">PIP</set>
             <set picURL="https://cards.scryfall.io/large/front/2/7/27f8ccb9-32b2-4562-a60f-843e82795984.jpg?1675198698">DMR</set>
             <set picURL="https://cards.scryfall.io/large/front/0/b/0b4170e0-c899-481a-8076-cae9f3effc37.jpg?1675456885">UNF</set>
@@ -11380,6 +11781,7 @@ Cumulative upkeep {G}</text>
             <reverse-related>Acorn Catapult</reverse-related>
             <reverse-related count="2">Acorn Harvest</reverse-related>
             <reverse-related>Animal Friend</reverse-related>
+            <reverse-related>Camellia, the Seedmiser</reverse-related>
             <reverse-related>Chatter of the Squirrel</reverse-related>
             <reverse-related count="x">Chatterfang, Squirrel General</reverse-related>
             <reverse-related>Chatterstorm</reverse-related>
@@ -11397,6 +11799,7 @@ Cumulative upkeep {G}</text>
             <reverse-related count="x">Nantuko Shrine</reverse-related>
             <reverse-related count="x">Nested Shambler</reverse-related>
             <reverse-related>Nut Collector</reverse-related>
+            <reverse-related>Rootcast Apprenticeship</reverse-related>
             <reverse-related>Scurry Oak</reverse-related>
             <reverse-related>Specimen Collector</reverse-related>
             <reverse-related>Squirrel Dealer</reverse-related>
@@ -11405,6 +11808,7 @@ Cumulative upkeep {G}</text>
             <reverse-related count="x">Squirrel Squatters</reverse-related>
             <reverse-related count="x">Squirrel Stack</reverse-related>
             <reverse-related count="2">Squirrel Wrangler</reverse-related>
+            <reverse-related count="2">Swarmyard Massacre</reverse-related>
             <reverse-related count="x">Trendy Circus Pirate</reverse-related>
             <reverse-related count="x">Underworld Hermit</reverse-related>
             <reverse-related count="2">Verdant Command</reverse-related>
@@ -11442,6 +11846,25 @@ Cumulative upkeep {G}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Starscape Cleric (Token)</name>
+            <text>Flying
+This creature can't block.
+Whenever you gain life, each opponent loses 1 life.
+(This token's mana cost is {1}{B}.)</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Bat Cleric</type>
+                <maintype>Creature</maintype>
+                <cmc>2</cmc>
+                <pt>1/1</pt>
+                <manacost>1B</manacost>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/3/5379a77e-4b98-4abc-b967-fbc76bb85fc6.jpg?1721425961">BLB</set>
+            <reverse-related>Starscape Cleric</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Steadfast Sentinel (Token)</name>
             <text>Vigilance</text>
             <prop>
@@ -11453,6 +11876,40 @@ Cumulative upkeep {G}</text>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/8/7/872694ba-0666-43c1-8884-47a2e92a127c.jpg?1562639897">HOU</set>
             <reverse-related>Steadfast Sentinel</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Steampath Charger (Token)</name>
+            <text>When this creature dies, it deals 1 damage to target player.
+(This token's mana cost is {1}{R}.)</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Lizard Warlock</type>
+                <maintype>Creature</maintype>
+                <cmc>2</cmc>
+                <pt>1/1</pt>
+                <manacost>1R</manacost>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/5/65a41850-49d2-4c1f-84df-cc7f7fb951f8.jpg?1721426057">BLB</set>
+            <reverse-related>Steampath Charger</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Steelburr Champion (Token)</name>
+            <text>Vigilance
+Whenever an opponent casts a noncreature spell, put a +1/+1 counter on this creature. (This token's mana cost is {2}{W}.)</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Mouse Soldier</type>
+                <maintype>Creature</maintype>
+                <cmc>3</cmc>
+                <pt>1/1</pt>
+                <manacost>2W</manacost>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/3/e3d40cb6-e227-40bc-9f6f-baa67e4edcec.jpg?1721427177">BLC</set>
+            <reverse-related>Steelburr Champion</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -11481,10 +11938,12 @@ Equip {0}</text>
                 <maintype>Creature</maintype>
                 <pt>1/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/4/d4498fac-e345-4cea-8d7e-7e0759600f33.jpg?1721427418">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/3/2/32c73960-1dd9-4f11-81b3-2ae4d3a5e283.jpg?1684573282">UNF</set>
             <set picURL="https://cards.scryfall.io/large/front/8/0/80165be4-c6c8-4b22-b259-c64eb4b7fc95.jpg?1562918744">UST</set>
             <reverse-related count="x">Attempted Murder</reverse-related>
             <reverse-related>Crow Storm</reverse-related>
+            <reverse-related>Murmuration</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -11517,6 +11976,20 @@ Equip {0}</text>
             <reverse-related count="x=3">Varchild, Betrayer of Kjeldor</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Sword</name>
+            <text>Equipped creature gets +1/+1
+Equip {2}</text>
+            <prop>
+                <type>Token Artifact — Equipment</type>
+                <maintype>Artifact</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/b/b/bb1e78e6-a9e7-48a4-9231-61fb331c5837.jpg?1721426299">BLB</set>
+            <reverse-related>Blacksmith's Talent</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Tah-Crop Skirmisher (Token)</name>
@@ -11596,6 +12069,24 @@ Equip {0}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Tender Wildguide (Token)</name>
+            <text>{T}: Add one mana of any color.
+{T}: Put a +1/+1 counter on this creature.
+(This token's mana cost is {1}{G}.)</text>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Possum Druid</type>
+                <maintype>Creature</maintype>
+                <cmc>2</cmc>
+                <pt>1/1</pt>
+                <manacost>1G</manacost>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/8/88fb4e41-7ce4-45ca-b365-fcde289ffe8c.jpg?1721431163">BLB</set>
+            <reverse-related>Tender Wildguide</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Tentacle Token</name>
             <prop>
                 <colors>U</colors>
@@ -11665,6 +12156,7 @@ This creature can't be enchanted.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/b/0bb68ae3-e74c-416f-a393-c42ad3f0312e.jpg?1721428230">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/7/a/7a98b0a3-519d-4d20-8559-ee5ab38e8c14.jpg?1717194188">M3C</set>
             <set picURL="https://cards.scryfall.io/large/front/b/b/bbac8690-2b00-4afe-8a2d-8e10c34843fc.jpg?1712320220">OTC</set>
             <set picURL="https://cards.scryfall.io/large/front/e/f/efaadec8-5bf7-4b53-b83e-33d17dc0ed74.jpg?1708711346">PIP</set>
@@ -11772,6 +12264,23 @@ This creature can't be enchanted.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Thornplate Intimidator (Token)</name>
+            <text>When this creature enters, target opponent loses 3 life unless they sacrifice a nonland permanent or discard a card.
+(This token's mana cost is {3}{B}.)</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Rat Rogue</type>
+                <maintype>Creature</maintype>
+                <cmc>4</cmc>
+                <pt>1/1</pt>
+                <manacost>3B</manacost>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/3/53fd3dd0-81b6-4f4a-86e6-920170017c92.jpg?1721442282">BLB</set>
+            <reverse-related>Thornplate Intimidator</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Thrull Token</name>
             <prop>
                 <colors>B</colors>
@@ -11800,6 +12309,23 @@ This creature can't be enchanted.</text>
             <set picURL="https://cards.scryfall.io/large/front/d/c/dc5604c5-4fff-4bb6-bf6d-69027e4eeb21.jpg?1689975917">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/5/b/5b9f471a-1822-4981-95a9-8923d83ddcbf.jpg?1562702075">MM2</set>
             <reverse-related count="x">Endrek Sahr, Master Breeder</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Thundertrap Trainer (Token)</name>
+            <text>When this creature enters, look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+(This token's mana cost is {1}{U}.)</text>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Otter Wizard</type>
+                <maintype>Creature</maintype>
+                <cmc>2</cmc>
+                <pt>1/1</pt>
+                <manacost>1U</manacost>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/0/80bcbe35-7764-4c75-b954-cbba11372dec.jpg?1721425076">BLB</set>
+            <reverse-related>Thundertrap Trainer</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -11871,6 +12397,7 @@ This creature can't be enchanted.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/f/ff0357fb-d90c-49c7-b16a-8b52ac686c3b.jpg?1721425653">BLB</set>
             <set picURL="https://cards.scryfall.io/large/front/5/3/536a82d3-f5e2-46b7-969e-84683f937b38.jpg?1720341322">ACR</set>
             <set picURL="https://cards.scryfall.io/large/front/1/1/1141c3fe-1adf-48ab-ac05-079b081788cc.jpg?1717192227">MH3</set>
             <set picURL="https://cards.scryfall.io/large/front/7/e/7ec6f053-96f7-4e57-b2eb-4e7699a40a4f.jpg?1712317080">OTJ</set>
@@ -11910,6 +12437,7 @@ This creature can't be enchanted.</text>
             <set picURL="https://cards.scryfall.io/large/front/7/2/720f3e68-84c0-462e-a0d1-90236ccc494a.jpg?1562539782">XLN</set>
             <set picURL="https://cards.scryfall.io/large/front/b/b/bbe8bced-9524-47f6-a600-bf4ddc072698.jpg?1562539795">XLN</set>
             <reverse-related>Academy Manufactor</reverse-related>
+            <reverse-related count="2">Alchemist's Talent</reverse-related>
             <reverse-related count="2">An Offer You Can't Refuse</reverse-related>
             <reverse-related>Ancestors' Aid</reverse-related>
             <reverse-related count="x">Ancient Copper Dragon</reverse-related>
@@ -11918,6 +12446,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="x">Baeloth Barrityl, Entertainer</reverse-related>
             <reverse-related>Battle Angels of Tyr</reverse-related>
             <reverse-related>Beamtown Beatstick</reverse-related>
+            <reverse-related>Beza, the Bounding Spring</reverse-related>
             <reverse-related count="2">Big Score</reverse-related>
             <reverse-related>Bilbo, Retired Burglar</reverse-related>
             <reverse-related>Bill Ferny, Bree Swindler</reverse-related>
@@ -11925,6 +12454,8 @@ This creature can't be enchanted.</text>
             <reverse-related>Black Market Connections</reverse-related>
             <reverse-related>Black Market Tycoon</reverse-related>
             <reverse-related count="x">Blood Money</reverse-related>
+            <reverse-related count="2">Bloodroot Apothecary</reverse-related>
+            <reverse-related>Blooming Blast</reverse-related>
             <reverse-related exclude="exclude">Bonehoard Dracosaur</reverse-related>
             <reverse-related>Boneyard Desecrator</reverse-related>
             <reverse-related count="x">Bootleggers' Stash</reverse-related>
@@ -11984,6 +12515,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Forge, Neverwinter Charlatan</reverse-related>
             <reverse-related>Forging the Tyrite Sword</reverse-related>
             <reverse-related>Forsworn Paladin</reverse-related>
+            <reverse-related exclude="exclude">Fountainport</reverse-related>
             <reverse-related count="2">Frost Fair Lure Fish</reverse-related>
             <reverse-related>Furnace Reins</reverse-related>
             <reverse-related count="x">Gadrak, the Crown-Scourge</reverse-related>
@@ -12110,6 +12642,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Prizefight</reverse-related>
             <reverse-related>Professional Face-Breaker</reverse-related>
             <reverse-related>Prosper, Tome-Bound</reverse-related>
+            <reverse-related count="x" exclude="exclude">Prosperous Bandit</reverse-related>
             <reverse-related>Prosperous Innkeeper</reverse-related>
             <reverse-related exclude="exclude">Prosperous Partnership</reverse-related>
             <reverse-related count="2">Prosperous Pirates</reverse-related>
@@ -12139,6 +12672,8 @@ This creature can't be enchanted.</text>
             <reverse-related>Sassy Gremlin Blood</reverse-related>
             <reverse-related>Scion of Opulence</reverse-related>
             <reverse-related count="x" exclude="exclude">Scion of Opulence</reverse-related>
+            <reverse-related>Season of the Bold</reverse-related>
+            <reverse-related count="x" exclude="exclude">Season of the Bold</reverse-related>
             <reverse-related>Seize the Spoils</reverse-related>
             <reverse-related count="x">Seize the Spotlight</reverse-related>
             <reverse-related>Shambling Ghast</reverse-related>
@@ -12866,6 +13401,41 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Wall Token     </name>
+            <text>Defender</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Wall</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>0/4</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/2/229a41de-91dd-4696-bfc1-10d702787c3e.jpg?1721424801">BLB</set>
+            <reverse-related>Builder's Talent</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Warren Warleader (Token)</name>
+            <text>Whenever you attack, choose one —
+• Create a 1/1 white Rabbit creature token that's tapped and attacking.
+• Attacking creatures you control get +1/+1 until end of turn.
+(This token's mana cost is {2}{W}{W}.)</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Rabbit Knight</type>
+                <maintype>Creature</maintype>
+                <cmc>4</cmc>
+                <pt>1/1</pt>
+                <manacost>2WW</manacost>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/c/5cc9b628-0a3a-4d09-ae4a-57c7f6f9ac36.jpg?1721431130">BLB</set>
+            <reverse-related>Warren Warleader</reverse-related>
+            <related>Rabbit Token</related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Warrior Token</name>
             <prop>
                 <colors>R</colors>
@@ -13117,6 +13687,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/7/e7fcf482-2241-4263-acf8-3c34a498bfd5.jpg?1721427912">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/8/1/81605b8d-cf1d-49dc-aebb-a857d6796a77.jpg?1675456083">CLB</set>
             <set picURL="https://cards.scryfall.io/large/front/d/5/d5f1e139-3054-4273-8a4d-faaaa9c383a8.jpg?1675457530">VOW</set>
             <set picURL="https://cards.scryfall.io/large/front/3/6/364e04d9-9a8a-49df-921c-7a9bf62dc731.jpg?1653273232">MID</set>
@@ -13225,6 +13796,7 @@ Equip {1}</text>
                 <maintype>Creature</maintype>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/1/61ea0e0e-13cf-4de3-80bf-89e66fa9b200.jpg?1721428070">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/8/8/88452ed7-1065-41c3-94a6-dc41108c45c1.jpg?1596045222">ELD</set>
             <reverse-related count="2">Garruk, Cursed Huntsman</reverse-related>
             <token>1</token>
@@ -14735,6 +15307,18 @@ Whenever an opponent draws a card, this emblem deals 1 damage to them.</text>
             <tablerow>1</tablerow>
         </card>
         <card>
+            <name>Ral, Crackling Wit Emblem</name>
+            <text>Instant and sorcery spells you cast have storm.</text>
+            <prop>
+                <type>Emblem</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/c/2c4c9934-fe82-4560-b0bf-0ebc863ff0d1.jpg?1721426368">BLB</set>
+            <reverse-related/>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Ral, Izzet Viceroy Emblem</name>
             <text>Whenever you cast an instant or sorcery spell, this emblem deals 4 damage to any target and you draw two cards.</text>
             <prop>
@@ -15502,6 +16086,7 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
                 <type>Counter</type>
                 <maintype>Counter</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/7/a/7afb0ba4-9a1b-4cd5-8d0f-2f697c6d3ab1.jpg?1721428757">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/0/40255bfa-0004-45f1-a31b-17d385f09a95.jpg?1675957570">ONE</set>
             <set picURL="https://cards.scryfall.io/large/front/4/7/470618f6-f67f-44c6-a086-285632508915.jpg?1561757039">NPH</set>
             <set picURL="https://cards.scryfall.io/large/front/9/2/92fcdd2b-dd90-458d-9b8b-5b1b9a3f8bd3.jpg?1561757601">MBS</set>
@@ -15516,6 +16101,7 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
             <reverse-related exclude="exclude">Blightsteel Colossus</reverse-related>
             <reverse-related exclude="exclude">Blightwidow</reverse-related>
             <reverse-related exclude="exclude">Bloated Contaminator</reverse-related>
+            <reverse-related exclude="exclude">Bloodroot Apothecary</reverse-related>
             <reverse-related exclude="exclude">Branchblight Stalker</reverse-related>
             <reverse-related exclude="exclude">Burn the Impure</reverse-related>
             <reverse-related exclude="exclude">Caress of Phyrexia</reverse-related>
@@ -15715,6 +16301,7 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
                 <type>State</type>
                 <maintype>State</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/0/30758c2e-fc01-4037-838c-bdabe8a4e5a3.jpg?1721428739">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/0/f/0fe8112a-46f0-4114-a10b-ed63a3768a4b.jpg?1706129997">MKC</set>
             <set picURL="https://cards.scryfall.io/large/front/9/c/9c3a8c98-e189-4cd2-b2fd-b5a591658eaa.jpg?1698873568">LCC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/9/49de1576-1c82-4e8c-b492-5097ca7b8819.jpg?1689883554">CMM</set>
@@ -16052,6 +16639,8 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Bonecrusher Giant // Stomp</reverse-related>
             <reverse-related attach="attach">Bramble Familiar // Fetch Quest</reverse-related>
             <reverse-related attach="attach">Brazen Borrower // Petty Theft</reverse-related>
+            <reverse-related attach="attach">Brightcap Badger // Fungus Frolic</reverse-related>
+            
             <reverse-related attach="attach">Callous Sell-Sword // Burn Together</reverse-related>
             <reverse-related attach="attach">Cheeky House-Mouse // Squeak By</reverse-related>
             <reverse-related attach="attach">Colossal Badger // Dig Deep</reverse-related>
@@ -16322,6 +16911,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>Token</type>
                 <maintype>Token</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/b/db388be3-ff31-4415-bc4b-de62f7223b1f.jpg?1721161180">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/a/3/a31d4312-08cd-4f1e-9d8f-72cbe4abb285.jpg?1720341318">ACR</set>
             <set picURL="https://cards.scryfall.io/large/front/4/5/450bfe1d-a51b-4e45-a0f4-fc72ed94caa4.jpg?1717189937">MH3</set>
             <set picURL="https://cards.scryfall.io/large/front/e/8/e85f57c5-923a-4824-969e-53feddd78c3b.jpg?1712315973">OTJ</set>
