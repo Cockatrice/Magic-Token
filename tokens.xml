@@ -1312,8 +1312,8 @@ Creature tokens you control have flying and vigilance.</text>
             <set picURL="https://cards.scryfall.io/large/front/c/8/c813d283-c996-4f85-afaa-7702414a1197.jpg?1686264248">LTC</set>
             <set picURL="https://cards.scryfall.io/large/front/0/9/09ae926d-80be-42c5-8c36-658cd38d2597.jpg?1562896902">C16</set>
             <set picURL="https://cards.scryfall.io/large/front/c/a/ca72703f-d45b-4c80-98a8-55fad1fcf431.jpg?1562636894">THS</set>
-            <reverse-related exclude="exclude">Radagast, Wizard of Wilds</reverse-related>
             <reverse-related count="4">Perch Protection</reverse-related>
+            <reverse-related exclude="exclude">Radagast, Wizard of Wilds</reverse-related>
             <reverse-related>Song of Eärendil</reverse-related>
             <reverse-related>Strix Serenade</reverse-related>
             <reverse-related>Swan Song</reverse-related>
@@ -11164,23 +11164,6 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Splash Lasher (Token)</name>
-            <text>When this creature enters, tap up to one target creature and put a stun counter on it.
-(This token's mana cost is {3}{U}.)</text>
-            <prop>
-                <colors>U</colors>
-                <type>Token Creature — Frog Wizard</type>
-                <maintype>Creature</maintype>
-                <cmc>4</cmc>
-                <pt>1/1</pt>
-                <manacost>3U</manacost>
-            </prop>
-            <set picURL="https://cards.scryfall.io/large/front/5/3/53065735-c427-458e-ade4-ec2d81c8d277.jpg?1721424987">BLB</set>
-            <reverse-related>Splash Lasher</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
             <name>Spider Token</name>
             <text>Reach</text>
             <prop>
@@ -11717,6 +11700,23 @@ Whenever you draw a card, put a +1/+1 counter on this creature.</text>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/f/e/febc7ce0-387f-413c-a387-2952b990ff3f.jpg?1562640159">KTK</set>
             <reverse-related>Kin-Tree Invocation</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Splash Lasher (Token)</name>
+            <text>When this creature enters, tap up to one target creature and put a stun counter on it.
+(This token's mana cost is {3}{U}.)</text>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Frog Wizard</type>
+                <maintype>Creature</maintype>
+                <cmc>4</cmc>
+                <pt>1/1</pt>
+                <manacost>3U</manacost>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/3/53065735-c427-458e-ade4-ec2d81c8d277.jpg?1721424987">BLB</set>
+            <reverse-related>Splash Lasher</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
