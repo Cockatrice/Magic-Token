@@ -3794,6 +3794,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <pt>4/4</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/6/c/6c6c62a5-dd1d-4d37-a2da-6e4e6b5bec40.jpg?1721426949">BLC</set>
+            <set picURL="https://cards.scryfall.io/large/front/1/7/17057115-9163-4f91-b2b9-8387ea547c9d.jpg?1591319124">C20</set>
             <set picURL="https://cards.scryfall.io/large/front/7/8/7810827c-55ab-431d-a342-d115d97da082.jpg?1562919055">C16</set>
             <set picURL="https://cards.scryfall.io/large/front/1/c/1c791044-be86-47d8-8c1b-299f6ab254e6.jpg?1562636696">LRW</set>
             <reverse-related>Hoofprints of the Stag</reverse-related>
@@ -4025,21 +4026,6 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
         </card>
         <card>
             <name>Elemental Token                          </name>
-            <text>Flying</text>
-            <prop>
-                <colors>W</colors>
-                <type>Token Creature — Elemental</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>4/4</pt>
-            </prop>
-            <set picURL="https://cards.scryfall.io/large/front/1/7/17057115-9163-4f91-b2b9-8387ea547c9d.jpg?1591319124">C20</set>
-            <reverse-related>Hoofprints of the Stag</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
-            <name>Elemental Token                           </name>
             <prop>
                 <colors>UR</colors>
                 <type>Token Creature — Elemental</type>
@@ -4062,7 +4048,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental Token                            </name>
+            <name>Elemental Token                           </name>
             <text>Trample
 This creature's power and toughness are each equal to the number of instant and sorcery cards in your graveyard plus the number of cards with flashback you own in exile.</text>
             <prop>
@@ -4078,7 +4064,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental Token                             </name>
+            <name>Elemental Token                            </name>
             <text>Trample, haste</text>
             <prop>
                 <colors>R</colors>
@@ -4093,7 +4079,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental Token                              </name>
+            <name>Elemental Token                             </name>
             <prop>
                 <colors>RU</colors>
                 <type>Token Creature — Elemental</type>
@@ -4110,7 +4096,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental Token                               </name>
+            <name>Elemental Token                              </name>
             <text>Whenever this creature becomes tapped, it deals 1 damage to target player.</text>
             <prop>
                 <colors>R</colors>
@@ -4125,7 +4111,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental Token                                </name>
+            <name>Elemental Token                               </name>
             <text>Haste</text>
             <prop>
                 <colors>R</colors>
@@ -4142,7 +4128,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental Token                                 </name>
+            <name>Elemental Token                                </name>
             <text>Haste</text>
             <prop>
                 <colors>R</colors>
@@ -4160,7 +4146,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Elemental Token                                  </name>
+            <name>Elemental Token                                 </name>
             <prop>
                 <colors>UW</colors>
                 <type>Token Creature — Elemental</type>
