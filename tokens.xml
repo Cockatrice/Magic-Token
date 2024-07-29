@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20240728</sourceVersion>
+        <sourceVersion>20240729</sourceVersion>
     </info>
     <cards>
         <!--
@@ -482,8 +482,9 @@ Pay 3 life: Arco-Flagellant gains indestructible until end of turn.</text>
                 <colors>B</colors>
                 <type>Token Creature — Human</type>
                 <maintype>Creature</maintype>
-                <cmc>0</cmc>
+                <cmc>3</cmc>
                 <pt>3/1</pt>
+                <manacost>2B</manacost>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/a/c/acb3325d-0b43-471b-9311-1c5ba14b06cf.jpg?1675455215">40K</set>
             <reverse-related count="x">Arco-Flagellant</reverse-related>
@@ -10415,8 +10416,9 @@ Equip {1}</text>
                 <colors>U</colors>
                 <type>Token Artifact Creature — Human Soldier</type>
                 <maintype>Creature</maintype>
-                <cmc>0</cmc>
+                <cmc>3</cmc>
                 <pt>1/2</pt>
+                <manacost>2U</manacost>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/5/8/58784a4f-8190-4751-b42c-fff188ad3ce5.jpg?1675455190">40K</set>
             <reverse-related count="x">Sicarian Infiltrator</reverse-related>
@@ -11049,8 +11051,9 @@ When this creature dies, create fourteen Treasure tokens.</text>
                 <colors>W</colors>
                 <type>Token Creature — Astartes Warrior</type>
                 <maintype>Creature</maintype>
-                <cmc>0</cmc>
+                <cmc>4</cmc>
                 <pt>3/3</pt>
+                <manacost>3W</manacost>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/a/a/aa796e45-1d95-44f7-927d-0cdd2f67da78.jpg?1675455163">40K</set>
             <reverse-related count="x">Space Marine Devastator</reverse-related>
@@ -12931,8 +12934,9 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
                 <colors>W</colors>
                 <type>Token Creature — Astartes Warrior</type>
                 <maintype>Creature</maintype>
-                <cmc>0</cmc>
+                <cmc>4</cmc>
                 <pt>2/2</pt>
+                <manacost>3W</manacost>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/f/7/f7d6c117-0924-404a-9b06-5c28b830d316.jpg?1675455171">40K</set>
             <reverse-related count="x">Ultramarines Honour Guard</reverse-related>
@@ -13183,8 +13187,9 @@ Whenever Vanguard Suppressor deals combat damage to a player, draw a card.</text
                 <colors>U</colors>
                 <type>Token Creature — Astartes Warrior</type>
                 <maintype>Creature</maintype>
-                <cmc>0</cmc>
+                <cmc>4</cmc>
                 <pt>3/2</pt>
+                <manacost>3U</manacost>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/e/5/e5d319cb-4982-4fb9-93d4-1cc846b03c30.jpg?1675455207">40K</set>
             <reverse-related count="x">Vanguard Suppressor</reverse-related>
@@ -13977,8 +13982,9 @@ Equip {1}</text>
                 <colors>W</colors>
                 <type>Token Creature — Human Warrior</type>
                 <maintype>Creature</maintype>
-                <cmc>0</cmc>
+                <cmc>4</cmc>
                 <pt>3/3</pt>
+                <manacost>3W</manacost>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/8/8/88be9551-c8d9-4486-b8f1-810f5dae12c8.jpg?1675455180">40K</set>
             <reverse-related count="x">Zephyrim</reverse-related>
