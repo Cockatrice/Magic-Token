@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20240729</sourceVersion>
+        <sourceVersion>20240831</sourceVersion>
     </info>
     <cards>
         <!--
@@ -8499,7 +8499,7 @@ Paradox — Whenever you cast a spell from anywhere other than your hand, invest
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/e/6/e6b2c465-c446-4dee-9101-763105dcf813.jpg?1721431166">BLB</set>
+            <set picURL="https://cards.scryfall.io/large/front/e/6/e6b2c465-c446-4dee-9101-763105dcf813.jpg?1724438155">BLB</set>
             <reverse-related>Otterball Antics</reverse-related>
             <reverse-related>Ral, Crackling Wit</reverse-related>
             <reverse-related>Stormchaser's Talent</reverse-related>
@@ -17125,7 +17125,7 @@ Hero's Reward — When Savage Vigor Head leaves the battlefield, each player gai
                 <type>Legendary Enchantment Creature — God</type>
                 <pt>6/5</pt>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/f/e/fe9dd9f0-3071-4bbd-80d2-e35b153006d7.jpg?1562640158">TDAG</set>
+            <set picURL="https://cards.scryfall.io/large/front/f/e/fe9dd9f0-3071-4bbd-80d2-e35b153006d7.jpg?1724717023">TDAG</set>
             <tablerow>2</tablerow>
         </card>
         <card>
