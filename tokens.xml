@@ -4399,7 +4399,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <text>This land is a Plains, Island, Swamp, Mountain, and Forest. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
             <prop>
                 <type>Token Land</type>
-                <maintype>Please edit manually</maintype>
+                <maintype>Land</maintype>
                 <cmc>0</cmc>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/6/b/6b76b7a4-f398-4bb4-833e-97ec0d4e581a.jpg?1726236906">DSK</set>
