@@ -5085,12 +5085,12 @@ When this creature enters, target creature you control gains flying until end of
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/4/7/475c7449-2c95-4873-94de-68a5e06cdfb8.jpg?1725996984">DSK</set>
+            <reverse-related>Glimmer Seeker</reverse-related>
+            <reverse-related>Glimmerburst</reverse-related>
+            <reverse-related>Glimmerlight</reverse-related>
+            <reverse-related>Grand Entryway // Elegant Rotunda</reverse-related>
             <reverse-related>Soaring Lightbringer</reverse-related>
             <reverse-related>Tunnel Surveyor</reverse-related>
-            <reverse-related>Glimmerlight</reverse-related>
-            <reverse-related>Glimmerburst</reverse-related>
-            <reverse-related>Glimmer Seeker</reverse-related>
-            <reverse-related>Grand Entryway // Elegant Rotunda</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -6961,8 +6961,8 @@ Equip {2}</text>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/3/7/377f1a20-b270-4b07-9892-7170cd0bee38.jpg?1726236771">DSK</set>
-            <reverse-related>The Swarmweaver</reverse-related>
             <reverse-related>Broodspinner</reverse-related>
+            <reverse-related>The Swarmweaver</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7638,13 +7638,10 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <reverse-related>Qarsi High Priest</reverse-related>
             <reverse-related>Rageform</reverse-related>
             <reverse-related>Reality Shift</reverse-related>
-            <reverse-related>Reality Shift</reverse-related>
-            <reverse-related>Scroll of Fate</reverse-related>
             <reverse-related>Scroll of Fate</reverse-related>
             <reverse-related>Soul Summons</reverse-related>
             <reverse-related>Stay Hidden, Stay Silent</reverse-related>
             <reverse-related>Sultai Emissary</reverse-related>
-            <reverse-related>Temur War Shaman</reverse-related>
             <reverse-related>Temur War Shaman</reverse-related>
             <reverse-related>They Came from the Pipes</reverse-related>
             <reverse-related>Thieving Amalgam</reverse-related>
@@ -7658,7 +7655,6 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <reverse-related>Unnerving Grasp</reverse-related>
             <reverse-related>Unsettling Twins</reverse-related>
             <reverse-related>Valgavoth's Onslaught</reverse-related>
-            <reverse-related>Whisperwood Elemental</reverse-related>
             <reverse-related>Whisperwood Elemental</reverse-related>
             <reverse-related>Wildcall</reverse-related>
             <reverse-related>Write into Being</reverse-related>
@@ -10332,9 +10328,9 @@ Equip {1}</text>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/7/a/7a88d2c4-9275-4e87-ac69-18218a57422d.jpg?1725988510">DSC</set>
             <reverse-related>I Am Untouchable</reverse-related>
+            <reverse-related>Kneel Before My Legions</reverse-related>
             <reverse-related>My Followers Ascend</reverse-related>
             <reverse-related>Your Own Face Mocks You</reverse-related>
-            <reverse-related>Kneel Before My Legions</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
