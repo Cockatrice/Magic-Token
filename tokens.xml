@@ -12201,7 +12201,7 @@ Equip {0}</text>
                 <maintype>Creature</maintype>
                 <pt>1/2</pt>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/d/4/d4498fac-e345-4cea-8d7e-7e0759600f33.jpg?1721427418">BLC</set>
+            <set picURL="https://cards.scryfall.io/large/front/d/4/d4498fac-e345-4cea-8d7e-7e0759600f33.jpg?1725674275">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/3/2/32c73960-1dd9-4f11-81b3-2ae4d3a5e283.jpg?1684573282">UNF</set>
             <set picURL="https://cards.scryfall.io/large/front/8/0/80165be4-c6c8-4b22-b259-c64eb4b7fc95.jpg?1562918744">UST</set>
             <reverse-related count="x">Attempted Murder</reverse-related>
@@ -14783,7 +14783,7 @@ Mad Wizard’s Lair — Draw three cards and reveal them. You may cast one of th
                 <type>Dungeon</type>
                 <maintype>Dungeon</maintype>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/6/f/6f509dbe-6ec7-4438-ab36-e20be46c9922.jpg?1663989819">AFR</set>
+            <set picURL="https://cards.scryfall.io/large/front/6/f/6f509dbe-6ec7-4438-ab36-e20be46c9922.jpg?1727740564">AFR</set>
             <related count="2" exclude="exclude">Skeleton Token </related>
             <related exclude="exclude">Treasure Token</related>
             <reverse-related exclude="exclude">Acererak the Archlich</reverse-related>
@@ -16559,7 +16559,7 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
                 <type>Counter</type>
                 <maintype>Counter</maintype>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/5/2/52942a5c-0552-4a9b-9c0f-7a9ffd04d0af.jpg?1675456937">UNF</set>
+            <set picURL="https://cards.scryfall.io/large/front/5/2/52942a5c-0552-4a9b-9c0f-7a9ffd04d0af.jpg?1726760988">UNF</set>
             <reverse-related exclude="exclude">Aerialephant</reverse-related>
             <reverse-related exclude="exclude">Ambassador Blorpityblorpboop</reverse-related>
             <reverse-related exclude="exclude">Animate Object</reverse-related>
