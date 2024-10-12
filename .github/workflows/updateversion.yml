@@ -5,6 +5,8 @@ on:
     types: [submitted]
   issue_comment:
     types: [created]
+  pull_request:
+    paths: '.github/workflows/updateversion.yml'
 
 jobs:
   update_version:
@@ -22,7 +24,8 @@ jobs:
           github.event.comment.author_association == 'MEMBER'
         ) &&
         endsWith( github.event.comment.body, '@github-actions update version' )
-      )
+      ) ||
+      ( github.event_name == 'pull_request' )
     runs-on: ubuntu-latest
     steps:
       - name: Get proper pr info
@@ -48,14 +51,14 @@ jobs:
             UPSTREAM="$(jq -r ".base.repo.clone_url" "$tmp")"
             LINK="${{github.event.issue.html_url}}"
           fi
-          echo "::set-output name=link::$LINK"
-          echo "::set-output name=ref::$REF"
-          echo "::set-output name=page::$REPO_PAGE"
-          echo "::set-output name=name::$REPO_NAME"
-          echo "::set-output name=upstream::$UPSTREAM"
+          echo "link=$LINK" >> $GITHUB_OUTPUT
+          echo "ref=$REF" >> $GITHUB_OUTPUT
+          echo "page=$REPO_PAGE" >> $GITHUB_OUTPUT
+          echo "name=$REPO_NAME" >> $GITHUB_OUTPUT
+          echo "upstream=$UPSTREAM" >> $GITHUB_OUTPUT
 
       - name: Checkout pull request
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
           repository: ${{steps.configure.outputs.name}}
@@ -76,9 +79,9 @@ jobs:
             echo "::notice::you can resolve merge conflicts at $LINK/conflicts"
             exit 2
           elif git diff --quiet FETCH_HEAD tokens.xml; then
-            echo "::set-output name=update::false"
+            echo "update=false" >> $GITHUB_OUTPUT
           else
-            echo "::set-output name=update::true"
+            echo "update=true" >> $GITHUB_OUTPUT
           fi
 
       - name: Get date
@@ -90,14 +93,15 @@ jobs:
           previous="$(<version.txt)"
           date="$(date --utc +%Y%m%d)"
           echo "it is currently $date"
-          echo "::set-output name=date::$date"
-          echo "::set-output name=previous::$previous"
+          echo "date=$date" >> $GITHUB_OUTPUT
+          echo "previous=$previous" >> $GITHUB_OUTPUT
 
       - name: Check for suffix used when multiple changes happen in a day
         if: steps.check.outputs.update == 'true'
         id: version
         shell: python
         run: |
+          import os
           import re
           previous = "${{steps.date.outputs.previous}}"
           date = "${{steps.date.outputs.date}}"
@@ -121,7 +125,8 @@ jobs:
             else:
               charlist.append("a")
             version += "".join(reversed(charlist))
-          print(f"::set-output name=version::{version}")
+          with open(os.environ["GITHUB_OUTPUT"], "a") as envFile:
+            print(f"version={version}", file=envFile)
 
       - name: Update date in files
         if: steps.check.outputs.update == 'true'
@@ -136,6 +141,7 @@ jobs:
           echo "$VERSION" >version.txt
 
       - name: Push changes
+        if: github.event_name != 'pull_request'
         shell: bash
         env:
           REPO_PAGE: ${{steps.configure.outputs.page}}
