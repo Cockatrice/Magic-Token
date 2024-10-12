@@ -49,11 +49,10 @@ jobs:
       # Extract picture URLs from tokens.xml
       - name: Extract URLs
         id: tokens_pic_urls
-        uses: lycheeverse/lychee-action@v1
+        uses: lycheeverse/lychee-action@v2
         with:
           args: '--dump --exclude www.w3.org -- tokens.xml'
           output: lychee/out.md
-          fail: true
           jobSummary: false
 
       # Analyse extracted links (1/2)
