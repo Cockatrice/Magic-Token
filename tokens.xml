@@ -918,6 +918,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/c/a/ca697323-bdc8-4fa0-a0ba-c2dd4deff68c.jpg?1730485687">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/e/4/e4c8e748-ab07-40d5-bd5c-a47a87be5a8c.jpg?1726237257">DSC</set>
             <set picURL="https://cards.scryfall.io/large/front/d/9/d93d0098-2147-4e84-af15-91dec8b98d21.jpg?1721427669">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/0/6/0688142d-7706-4e6a-86bf-e0810e9da9f0.jpg?1717193826">M3C</set>
@@ -990,6 +991,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/1/21bd6fb3-f60c-49cc-8854-6a20a1e1d9c7.jpg?1730485687">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/d/f/df60cd9d-44f3-41d3-8ed3-b511bdee3fc6.jpg?1721427709">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/6/9/690641ed-abc6-499f-b650-d6e79d412631.jpg?1717193848">M3C</set>
             <set picURL="https://cards.scryfall.io/large/front/d/2/d2bfef17-6e00-4097-b27a-4e3c7e19ca03.jpg?1682211062">MOC</set>
@@ -1705,6 +1707,7 @@ Whenever this creature attacks, target attacking creature gains flying until end
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/2/322ef76e-e0f0-48d7-a6ad-5d4c1c9ccb2e.jpg?1730485673">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/e/3/e33d9cf0-8138-4ae6-bbfe-02d48a4634c1.jpg?1689796508">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/e/2/e2c91781-acf9-4cff-be1a-85148ad2a683.jpg?1604194683">ZNR</set>
             <reverse-related>Felidar Retreat</reverse-related>
@@ -1767,6 +1770,7 @@ Whenever this creature attacks, target attacking creature gains flying until end
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/1/d16213b5-c0da-4a24-9f2e-b9432652859e.jpg?1730485573">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/3/0/30b76845-4e3d-488e-bf8f-904b3410cbd6.jpg?1692830335">WOC</set>
             <set picURL="https://cards.scryfall.io/large/front/d/5/d5b3ed0c-1044-4662-9785-04d8503f1fbf.jpg?1689975700">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/1/1/11011596-4aa1-48a7-90d8-36cb7b27c711.jpg?1675957554">ONE</set>
@@ -1819,7 +1823,7 @@ Whenever this creature attacks, target attacking creature gains flying until end
         </card>
         <card>
             <name>Cat Token   </name>
-            <text>Lifelink</text>
+            <text>Lifelink (Damage dealt by this creature also causes you to gain that much life.)</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Cat</type>
@@ -1827,6 +1831,7 @@ Whenever this creature attacks, target attacking creature gains flying until end
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/6/86701490-17ac-4253-810d-6cfd7a46594c.jpg?1730485666">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/b/9/b93ed798-245a-46d6-8964-1aebc290008d.jpg?1692830136">WOC</set>
             <set picURL="https://cards.scryfall.io/large/front/d/7/d754e09c-efc0-4536-9f2a-6bd7e2f860ab.jpg?1591225552">IKO</set>
             <set picURL="https://cards.scryfall.io/large/front/b/3/b31f1580-5bba-4cef-b0c8-f2837a597b7d.jpg?1562702272">M19</set>
@@ -1868,10 +1873,15 @@ Whenever this creature attacks, target attacking creature gains flying until end
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/8/2885d54c-9fb2-4f01-8937-54f8ac1ce5bc.jpg?1730485573">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/7/4/74bacab2-a4c6-4ba5-a208-6bd09ae4cf9f.jpg?1717190002">MH3</set>
             <set picURL="https://cards.scryfall.io/large/front/5/f/5f458f39-27b6-4121-bda9-1a0d1b42f5fb.jpg?1604194657">ZNR</set>
+            <reverse-related>Arahbo, the First Fang</reverse-related>
+            <reverse-related count="x" exclude="exclude">Arahbo, the First Fang</reverse-related>
             <reverse-related>Attended Healer</reverse-related>
+            <reverse-related>Cat Collector</reverse-related>
             <reverse-related>Ocelot Pride</reverse-related>
+            <reverse-related>Prideful Parent</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3044,12 +3054,13 @@ When this creature dies, create a colorless Treasure artifact token.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/d/5d8da5b2-7e02-494b-8686-c5845286d0b9.jpg?1730485673">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/8/a/8aaf03be-294a-4539-954c-79853f4351a9.jpg?1706216959">MKM</set>
             <set picURL="https://cards.scryfall.io/large/front/4/f/4f8107b3-8539-4b9c-8d0d-c512c940838f.jpg?1595212478">M21</set>
             <reverse-related count="2">Dog Walker</reverse-related>
             <reverse-related count="2">Hunted Bonebrute</reverse-related>
             <reverse-related count="2">Krovod Haunch</reverse-related>
-            <reverse-related>Release the Dogs</reverse-related>
+            <reverse-related count="4">Release the Dogs</reverse-related>
             <reverse-related>Rin and Seri, Inseparable</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -3177,6 +3188,7 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/a/5/a5d4dd3b-0a5f-4d2c-aa6b-3c47e71e8c39.jpg?1730485632">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/5/7/57b8e825-eef6-4d37-892a-6e28597679ee.jpg?1717193756">M3C</set>
             <set picURL="https://cards.scryfall.io/large/front/f/a/faee2063-b47e-4342-af98-0037b3e8e80f.jpg?1689975490">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/3/1/312ea78e-a4e6-4c66-9fd7-62dc7822d89e.jpg?1675905866">ONC</set>
@@ -3201,6 +3213,7 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
             <reverse-related>Lathliss, Dragon Queen</reverse-related>
             <reverse-related>Look Skyward and Despair</reverse-related>
             <reverse-related exclude="exclude">Loot Dispute</reverse-related>
+            <reverse-related>Rite of the Dragoncaller</reverse-related>
             <reverse-related>Sarkhan the Mad</reverse-related>
             <reverse-related count="4">Sarkhan, Fireblood</reverse-related>
             <reverse-related>Shiv</reverse-related>
@@ -3233,6 +3246,7 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/5/55c6be20-b65a-4b1e-8133-4c2d88c1f6f9.jpg?1730485631">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/9/b/9b3ed483-a6c9-4f12-bd76-e205ffb8afd4.jpg?1689710435">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/d/1/d1cae334-1e24-48a3-83a2-0a27bc9d3b29.jpg?1675456234">DMU</set>
             <set picURL="https://cards.scryfall.io/large/front/e/3/e32b97de-9cbb-40a2-ba3b-54e861023df0.jpg?1675455822">CLB</set>
@@ -3245,6 +3259,7 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
             <reverse-related>Broodmate Dragon</reverse-related>
             <reverse-related count="x">Descent of the Dragons</reverse-related>
             <reverse-related>Dragon Cultist</reverse-related>
+            <reverse-related>Dragon Trainer</reverse-related>
             <reverse-related>Dragon Whisperer</reverse-related>
             <reverse-related>Rith, Liberated Primeval</reverse-related>
             <reverse-related exclude="exclude">Rohgahh, Kher Keep Overlord</reverse-related>
@@ -3339,6 +3354,7 @@ Whenever this creature deals combat damage to a player, gain control of target a
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/4/f4a73034-e20f-4e7e-ac15-3460b1e9c69b.jpg?1730485599">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/f/1/f1966e5e-8414-4dc9-b212-7eb348848687.jpg?1712319555">OTC</set>
             <set picURL="https://cards.scryfall.io/large/front/7/4/7401d009-722e-4ca8-919e-d212c6172a23.jpg?1706130477">MKC</set>
             <set picURL="https://cards.scryfall.io/large/front/5/c/5c3a91bf-daa1-4bba-a052-d868700c610c.jpg?1689975885">CMM</set>
@@ -3351,6 +3367,8 @@ Whenever this creature deals combat damage to a player, gain control of target a
             <set picURL="https://cards.scryfall.io/large/front/8/f/8fb5229a-8bdf-4090-8a5c-a35780bd6ff9.jpg?1562857271">C15</set>
             <set picURL="https://cards.scryfall.io/large/front/9/3/93679bb9-ee1c-4eea-bcdd-72785d5788af.jpg?1562636854">M13</set>
             <reverse-related>Alandra, Sky Dreamer</reverse-related>
+            <reverse-related>Drake Hatcher</reverse-related>
+            <reverse-related count="x" exclude="exclude">Drake Hatcher</reverse-related>
             <reverse-related>Drake Haven</reverse-related>
             <reverse-related>Roost of Drakes</reverse-related>
             <reverse-related count="2">Talrand's Invocation</reverse-related>
@@ -4307,6 +4325,7 @@ This creature's power and toughness are each equal to the number of instant and 
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/1/315c45f4-7bc9-45d5-bbf5-2533cf80af60.jpg?1730485639">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/1/e/1e050305-6f8b-4261-a4b4-c9fa1dc99b0f.jpg?1689796762">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/0/2/023f668a-a8e6-4fcb-98d1-30adf343f050.jpg?1686264599">LTC</set>
             <set picURL="https://cards.scryfall.io/large/front/1/1/118d0655-5719-4512-8bc1-fe759669811b.jpg?1615686731">KHM</set>
@@ -4324,6 +4343,8 @@ This creature's power and toughness are each equal to the number of instant and 
             <reverse-related exclude="exclude">Battle for Bretagard</reverse-related>
             <reverse-related>Dwynen's Elite</reverse-related>
             <reverse-related>Elderleaf Mentor</reverse-related>
+            <reverse-related>Elfsworn Giant</reverse-related>
+            <reverse-related count="x" exclude="exclude">Elfsworn Giant</reverse-related>
             <reverse-related count="x">Elven Ambush</reverse-related>
             <reverse-related attach="attach">Elven Bow</reverse-related>
             <reverse-related count="x">Elvish Promenade</reverse-related>
@@ -4492,15 +4513,18 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/1/d1c0556e-ba3c-4a8e-b704-8eaa7c4dba1c.jpg?1730485603">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/7/5/7561a5dd-56a3-41ee-a342-f7088930df0b.jpg?1721427235">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/5/4/5458e078-0145-448f-8028-7b35bd4d4cc1.jpg?1692830233">WOC</set>
             <set picURL="https://cards.scryfall.io/large/front/0/1/010ffef8-22ce-4d8f-80f0-6749f63ec4c2.jpg?1682210912">MOC</set>
             <set picURL="https://cards.scryfall.io/large/front/f/1/f1c9e102-7abb-4b72-867f-3aa2f51f6f77.jpg?1675456379">BRC</set>
             <set picURL="https://cards.scryfall.io/large/front/b/c/bcd82cb0-ff4b-4f4d-b3d0-3ac53883b099.jpg?1572489144">ELD</set>
             <reverse-related>Alela, Artful Provocateur</reverse-related>
+            <reverse-related count="2">Faebloom Trick</reverse-related>
             <reverse-related count="x">Faerie Formation</reverse-related>
             <reverse-related count="4">Hunted Troll</reverse-related>
             <reverse-related>Improbable Alliance</reverse-related>
+            <reverse-related>Mischievous Mystic</reverse-related>
             <reverse-related count="x">Stolen by the Fae</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4661,10 +4685,12 @@ When this creature enters, target creature you control gains flying until end of
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/4/4/44057462-40b7-4709-afac-2ce03d53d525.jpg?1730485606">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/d/e/de0d6700-49f0-4233-97ba-cef7821c30ed.jpg?1721431109">BLB</set>
             <set picURL="https://cards.scryfall.io/large/front/2/9/297fc694-08f6-4477-b898-60ec641a0757.jpg?1696547039">WHO</set>
             <reverse-related count="2" exclude="exclude">Beza, the Bounding Spring</reverse-related>
             <reverse-related>Fisher's Talent</reverse-related>
+            <reverse-related>Fishing Pole</reverse-related>
             <reverse-related>Fountainport</reverse-related>
             <reverse-related count="2">Frost Fair Lure Fish</reverse-related>
             <reverse-related>Into the Flood Maw</reverse-related>
@@ -4702,6 +4728,7 @@ When this creature enters, target creature you control gains flying until end of
                 <type>Token Artifact — Food</type>
                 <maintype>Artifact</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/f/6f1077f8-9e2a-4155-a7f0-4604bc0f94e8.jpg?1730485652">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/0/d/0dce2241-e58b-41d4-b57c-9794fc8ee004.jpg?1721425221">BLB</set>
             <set picURL="https://cards.scryfall.io/large/front/1/4/14fe0b7c-2d73-4c21-98ca-ee3a7d7f20c8.jpg?1717192010">MH3</set>
             <set picURL="https://cards.scryfall.io/large/front/6/0/600d5d22-62a0-49c9-b050-90a2566e8caf.jpg?1712320125">OTC</set>
@@ -4733,11 +4760,13 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Bumbleflower's Sharepot</reverse-related>
             <reverse-related>Butterbur, Bree Innkeeper</reverse-related>
             <reverse-related>Cache Grab</reverse-related>
+            <reverse-related exclude="exclude">Cat Collector</reverse-related>
             <reverse-related>Cirith Ungol Patrol</reverse-related>
             <reverse-related>Concession Stand</reverse-related>
             <reverse-related>Crumb and Get It</reverse-related>
             <reverse-related>Curious Pair // Treats to Share</reverse-related>
             <reverse-related>Devouring Sugarmaw // Have for Dinner</reverse-related>
+            <reverse-related>Eager Trufflesnout</reverse-related>
             <reverse-related>Eastfarthing Farmer</reverse-related>
             <reverse-related>Elanor Gardner</reverse-related>
             <reverse-related exclude="exclude">Experimental Confectioner</reverse-related>
@@ -4775,6 +4804,7 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Madame Vastra</reverse-related>
             <reverse-related>Many Partings</reverse-related>
             <reverse-related>Meriadoc Brandybuck</reverse-related>
+            <reverse-related>Midnight Snack</reverse-related>
             <reverse-related>Mintstrosity</reverse-related>
             <reverse-related>Night of the Sweets' Revenge</reverse-related>
             <reverse-related>Nocturnal Hunger</reverse-related>
@@ -5276,6 +5306,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/7/0/70f8a1de-cd4c-4afa-bf03-0245d375d42e.jpg?1730485638">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/3/1/3186f5e2-8078-4fa3-b61e-866c2d4c495d.jpg?1721427528">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/d/a/daab2f6a-ea1d-49ec-9457-4c5db6cc6538.jpg?1717193792">M3C</set>
             <set picURL="https://cards.scryfall.io/large/front/c/d/cd6cd0d3-7973-49e6-9c1c-6f516a5d5fe5.jpg?1706217096">MKM</set>
@@ -5335,9 +5366,11 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <reverse-related count="2">Goblin Marshal</reverse-related>
             <reverse-related>Goblin Morningstar</reverse-related>
             <reverse-related attach="attach" exclude="exclude">Goblin Morningstar</reverse-related>
+            <reverse-related count="x">Goblin Negotiation</reverse-related>
             <reverse-related count="x">Goblin Offensive</reverse-related>
             <reverse-related>Goblin Rabblemaster</reverse-related>
             <reverse-related count="4">Goblin Rally</reverse-related>
+            <reverse-related count="2">Goblin Surprise</reverse-related>
             <reverse-related count="x">Goblin Traprunner</reverse-related>
             <reverse-related count="3">Goblin War Party</reverse-related>
             <reverse-related count="3">Goblin Warrens</reverse-related>
@@ -5360,6 +5393,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <reverse-related count="2">Pashalik Mons</reverse-related>
             <reverse-related count="3">Ponyback Brigade</reverse-related>
             <reverse-related>Rulik Mons, Warren Chief</reverse-related>
+            <reverse-related>Searslicer Goblin</reverse-related>
             <reverse-related count="3">Siege-Gang Commander</reverse-related>
             <reverse-related count="2">Sling-Gang Lieutenant</reverse-related>
             <reverse-related>Squee, Dubious Monarch</reverse-related>
@@ -6307,6 +6341,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/6/06af3d5a-7b38-42f6-822f-da4e04a7f265.jpg?1730485581">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/6/0/602f3817-fde4-4982-822d-0a2953561118.jpg?1721427027">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/d/7/d7cd1de1-9657-4262-be11-8279b3408e54.jpg?1706130233">MKM</set>
             <set picURL="https://cards.scryfall.io/large/front/5/0/50240867-3a3e-4a8d-9569-816ab4a3671a.jpg?1692830746">WOE</set>
@@ -6960,8 +6995,10 @@ Equip {2}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/9/59c2cbd7-79bb-4d93-b2b6-5d3abe88a012.jpg?1730485646">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/3/7/377f1a20-b270-4b07-9892-7170cd0bee38.jpg?1726236771">DSK</set>
             <reverse-related>Broodspinner</reverse-related>
+            <reverse-related>Infestation Sage</reverse-related>
             <reverse-related>The Swarmweaver</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7332,6 +7369,20 @@ Flanking</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Knight Token        </name>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Knight</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/d/0d287806-07bb-4709-9260-b9ef34fe2a13.jpg?1730485581">FDN</set>
+            <reverse-related count="2">Guarded Heir</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Kobolds of Kher Keep (Token)</name>
             <prop>
                 <colors>R</colors>
@@ -7364,9 +7415,11 @@ Flanking</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/c/e/cef25434-cd23-4dcf-b77e-36e648a8de23.jpg?1730485609">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/3/7/370a7b71-3e7f-4354-ab19-09c710369851.jpg?1706130296">MKC</set>
             <set picURL="https://cards.scryfall.io/large/front/5/4/54a1c6a9-3531-4432-9157-e4400dbc89fd.jpg?1615686273">KHM</set>
             <reverse-related>Koma, Cosmos Serpent</reverse-related>
+            <reverse-related count="4">Koma, World-Eater</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -8365,6 +8418,20 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Ninja Token </name>
+            <prop>
+                <type>Token Creature — Ninja</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/a/e/aeec04b1-475c-4e55-b72f-327ea5258146.jpg?1730485615">FDN</set>
+            <reverse-related>Kaito, Cunning Infiltrator</reverse-related>
+            <reverse-related>Kaito, Cunning Infiltrator Emblem</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Octopus Token</name>
             <prop>
                 <colors>U</colors>
@@ -8947,6 +9014,7 @@ Whenever a creature you control becomes the target of a spell or ability an oppo
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/1/01e437a1-6d74-4006-8598-06284444c837.jpg?1730485680">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/3/6/3663e79b-2bf9-44af-a638-c0ad9067d8d4.jpg?1675957555">ONE</set>
             <reverse-related>Chancellor of the Forge</reverse-related>
             <reverse-related count="x" exclude="exclude">Chancellor of the Forge</reverse-related>
@@ -9607,10 +9675,12 @@ Whenever this creature deals combat damage to a player, create that many tapped 
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/3/63ae4f9c-ad6e-4d6a-89f1-653916bf5373.jpg?1730485588">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/8/1/81de52ef-7515-4958-abea-fb8ebdcef93c.jpg?1721431122">BLB</set>
             <set picURL="https://cards.scryfall.io/large/front/2/2/22ca55e0-d269-4178-bc90-920a12066e4f.jpg?1675455763">CLB</set>
             <reverse-related count="x">Cadira, Caller of the Small</reverse-related>
             <reverse-related>Carrot Cake</reverse-related>
+            <reverse-related count="x">Hare Apparent</reverse-related>
             <reverse-related count="2">Head of the Homestead</reverse-related>
             <reverse-related count="3">Hop to It</reverse-related>
             <reverse-related count="x">Jacked Rabbit</reverse-related>
@@ -9631,8 +9701,10 @@ Whenever this creature deals combat damage to a player, create that many tapped 
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/b/1b8d8730-d6bd-4525-96e9-0513ed02de37.jpg?1730485645">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/a/f/af257e8b-9bed-4c6b-9510-11fe950fa80e.jpg?1721427818">BLC</set>
             <reverse-related>Gourmand's Talent</reverse-related>
+            <reverse-related>Sylvan Scavenging</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -9676,6 +9748,7 @@ Whenever this creature deals combat damage to a player, create that many tapped 
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/c/5cad84b0-2bbf-479c-ae46-f725892d04d1.jpg?1730485624">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/d/3/d32015d8-9441-4ba6-a59d-a2b6d9f0979c.jpg?1721427440">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/5/2/52e48215-9771-4722-8cbc-347ac816fb43.jpg?1712319605">OTC</set>
             <set picURL="https://cards.scryfall.io/large/front/d/5/d5328e78-65c5-46e8-8980-3075ece0fa99.jpg?1689975931">CMM</set>
@@ -9689,6 +9762,7 @@ Whenever this creature deals combat damage to a player, create that many tapped 
             <reverse-related>Ogre Slumlord</reverse-related>
             <reverse-related>Piper of the Swarm</reverse-related>
             <reverse-related count="x">Plague of Vermin</reverse-related>
+            <reverse-related count="x">Revenge of the Rats</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -9717,6 +9791,7 @@ Whenever this creature deals combat damage to a player, create that many tapped 
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/7/3/7384238b-cffb-4946-96de-dc6b7a37b979.jpg?1730485679">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/1/e/1e0205f2-25c1-403b-b408-56e3f2d63b4d.jpg?1692495795">WOE</set>
             <reverse-related>Edgewall Pack</reverse-related>
             <reverse-related>Experimental Confectioner</reverse-related>
@@ -10331,6 +10406,19 @@ Equip {1}</text>
             <reverse-related>Kneel Before My Legions</reverse-related>
             <reverse-related>My Followers Ascend</reverse-related>
             <reverse-related>Your Own Face Mocks You</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Scion of the Deep</name>
+            <prop>
+                <type>Token Legendary Creature — Octopus</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>8/8</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/6/26c478f7-b426-4055-8d06-e5782226c826.jpg?1730485617">FDN</set>
+            <reverse-related>Kiora, the Rising Tide</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -11016,6 +11104,7 @@ When this creature dies, create fourteen Treasure tokens.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/0/d093322e-a717-4e2d-8199-fa560792bcf6.jpg?1730485589">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/1/0/10da848f-7f50-4bc4-b13e-a58acf3516e8.jpg?1721427112">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/e/1/e17648a0-f680-429d-8dda-2b0c14f3d80a.jpg?1717190149">MH3</set>
             <set picURL="https://cards.scryfall.io/large/front/a/f/af191656-5e62-440f-b63a-705cfed314e7.jpg?1708711055">PIP</set>
@@ -11531,6 +11620,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/7/278adad2-49a6-4baa-8dbe-93474545eef7.jpg?1730485596">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/5/e/5e981782-d6ca-4d84-a69c-7571df51e9f3.jpg?1721427142">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/a/0/a0aa2f5e-9809-4e97-b9b2-9c9a322a8e21.jpg?1717189919">MH3</set>
             <set picURL="https://cards.scryfall.io/large/front/f/5/f52ac58b-c6d7-4d17-ad2e-1c959f9089b0.jpg?1706130639">MKC</set>
@@ -11604,6 +11694,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related>King of the Oathbreakers</reverse-related>
             <reverse-related count="2">Kirtar's Wrath</reverse-related>
             <reverse-related>Kykar, Wind's Fury</reverse-related>
+            <reverse-related>Kykar, Zephyr Awakener</reverse-related>
             <reverse-related count="2">Lingering Souls</reverse-related>
             <reverse-related>Luminous Angel</reverse-related>
             <reverse-related count="x">March of Souls</reverse-related>
@@ -12674,6 +12765,7 @@ This creature can't be enchanted.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/1/21210145-8edd-41f5-9a64-9f0b5be79864.jpg?1730485653">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/5/c/5c0b31c3-5775-41a6-9981-44fc4a6d4aa8.jpg?1726236858">DSK</set>
             <set picURL="https://cards.scryfall.io/large/front/f/f/ff0357fb-d90c-49c7-b16a-8b52ac686c3b.jpg?1721425653">BLB</set>
             <set picURL="https://cards.scryfall.io/large/front/5/3/536a82d3-f5e2-46b7-969e-84683f937b38.jpg?1720341322">ACR</set>
@@ -14459,6 +14551,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/2/e29a360b-11fd-42ba-82ba-de8f7e136c20.jpg?1730485624">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/9/0/909387e1-dc33-446c-825f-07c915ad73ee.jpg?1717191020">MH3</set>
             <set picURL="https://cards.scryfall.io/large/front/0/b/0b0205bb-2020-447a-a1ee-345d3f67e6a5.jpg?1712319647">OTC</set>
             <set picURL="https://cards.scryfall.io/large/front/d/b/dba3824a-bfeb-4c16-8148-2342101bd44b.jpg?1706130193">MKC</set>
@@ -15347,6 +15440,18 @@ Whenever an opponent draws a card, this emblem deals 1 damage to them.</text>
             <tablerow>1</tablerow>
         </card>
         <card>
+            <name>Kaito, Cunning Infiltrator Emblem</name>
+            <text>Whenever a player casts a spell, you create a 2/1 blue Ninja creature token.</text>
+            <prop>
+                <type>Emblem</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/b/f/bfe4b1d5-f252-48fe-b4a1-7fbbc2523cf1.jpg?1730485659">FDN</set>
+            <reverse-related exclude="exclude">Kaito, Cunning Infiltrator</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Kaito Shizuki Emblem</name>
             <text>Whenever a creature you control deals combat damage to a player, search your library for a blue or black creature card, put it onto the battlefield, then shuffle.</text>
             <prop>
@@ -15970,6 +16075,7 @@ Whenever your Ring-bearer deals combat damage to a player, each opponent loses 3
                 <type>Emblem — Vivien</type>
                 <maintype>Emblem</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/a/8/a804d502-1092-4ff3-93d9-d1b0ac0f07d5.jpg?1730485660">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/6/1/6177ad63-0150-45c8-86f8-4a39e296cc2a.jpg?1717194245">M3C</set>
             <set picURL="https://cards.scryfall.io/large/front/1/c/1cf97003-eef0-4c01-aee1-8a8264d8ef95.jpg?1562701931">M19</set>
             <reverse-related exclude="exclude">Vivien Reid</reverse-related>
@@ -17208,6 +17314,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>Token</type>
                 <maintype>Token</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/c/fc586e46-b7d0-4c84-8678-3542cd390de1.jpg?1730485665">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/b/1/b19112b9-1583-445d-bc48-5ca3325fab48.jpg?1725996984">DSK</set>
             <set picURL="https://cards.scryfall.io/large/front/d/b/db388be3-ff31-4415-bc4b-de62f7223b1f.jpg?1721161180">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/a/3/a31d4312-08cd-4f1e-9d8f-72cbe4abb285.jpg?1720341318">ACR</set>
