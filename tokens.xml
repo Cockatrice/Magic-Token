@@ -8420,6 +8420,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
         <card>
             <name>Ninja Token </name>
             <prop>
+                <colors>U</colors>
                 <type>Token Creature — Ninja</type>
                 <maintype>Creature</maintype>
                 <cmc>0</cmc>
@@ -10412,6 +10413,7 @@ Equip {1}</text>
         <card>
             <name>Scion of the Deep</name>
             <prop>
+                <colors>U</colors>
                 <type>Token Legendary Creature — Octopus</type>
                 <maintype>Creature</maintype>
                 <cmc>0</cmc>
