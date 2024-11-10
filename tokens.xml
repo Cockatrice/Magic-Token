@@ -8428,7 +8428,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/a/e/aeec04b1-475c-4e55-b72f-327ea5258146.jpg?1730485615">FDN</set>
             <reverse-related>Kaito, Cunning Infiltrator</reverse-related>
-            <reverse-related>Kaito, Cunning Infiltrator Emblem</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -15449,6 +15448,7 @@ Whenever an opponent draws a card, this emblem deals 1 damage to them.</text>
                 <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/b/f/bfe4b1d5-f252-48fe-b4a1-7fbbc2523cf1.jpg?1730485659">FDN</set>
+            <related>Ninja Token </related>
             <reverse-related exclude="exclude">Kaito, Cunning Infiltrator</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
