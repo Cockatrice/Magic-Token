@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20241110</sourceVersion>
+        <sourceVersion>20241111</sourceVersion>
     </info>
     <cards>
         <!--
@@ -12941,6 +12941,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Instrument of the Bards</reverse-related>
             <reverse-related>Invasion of Ergamon</reverse-related>
             <reverse-related>Involuntary Employment</reverse-related>
+            <reverse-related>Iron Man, Titan of Innovation</reverse-related>
             <reverse-related count="2">Jan Jansen, Chaos Crafter</reverse-related>
             <reverse-related count="2" exclude="exclude">Jared Carthalion</reverse-related>
             <reverse-related>Jewel Thief</reverse-related>
