@@ -2559,7 +2559,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <pt>1/1</pt>
                 <manacost>1R</manacost>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/6/6/6674c208-4d8d-4833-bee2-bfc87c93049d.jpg?1721431141">BLB</set>
+            <set picURL="https://cards.scryfall.io/large/front/6/6/6674c208-4d8d-4833-bee2-bfc87c93049d.jpg?1729353883">BLB</set>
             <reverse-related>Coruscation Mage</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4887,7 +4887,7 @@ When this creature enters, target creature you control gains flying until end of
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/1/0/107be8ee-ee22-4d37-94f1-2a5b438fbe05.jpg?1717193920">M3C</set>
-            <set picURL="https://cards.scryfall.io/large/front/7/4/74de70f2-93b6-4fc5-8c4d-464f880d3c54.jpg?1675455461">BRO</set>
+            <set picURL="https://cards.scryfall.io/large/front/7/4/74de70f2-93b6-4fc5-8c4d-464f880d3c54.jpg?1730838400">BRO</set>
             <reverse-related count="x">Awaken the Woods</reverse-related>
             <reverse-related count="x">Jyoti, Moag Ancient</reverse-related>
             <reverse-related>Staff of Titania</reverse-related>
@@ -12347,7 +12347,7 @@ Equip {0}</text>
                 <maintype>Creature</maintype>
                 <pt>1/2</pt>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/d/4/d4498fac-e345-4cea-8d7e-7e0759600f33.jpg?1721427418">BLC</set>
+            <set picURL="https://cards.scryfall.io/large/front/d/4/d4498fac-e345-4cea-8d7e-7e0759600f33.jpg?1725674275">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/3/2/32c73960-1dd9-4f11-81b3-2ae4d3a5e283.jpg?1684573282">UNF</set>
             <set picURL="https://cards.scryfall.io/large/front/8/0/80165be4-c6c8-4b22-b259-c64eb4b7fc95.jpg?1562918744">UST</set>
             <reverse-related count="x">Attempted Murder</reverse-related>
@@ -14934,7 +14934,7 @@ Mad Wizard’s Lair — Draw three cards and reveal them. You may cast one of th
                 <type>Dungeon</type>
                 <maintype>Dungeon</maintype>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/6/f/6f509dbe-6ec7-4438-ab36-e20be46c9922.jpg?1663989819">AFR</set>
+            <set picURL="https://cards.scryfall.io/large/front/6/f/6f509dbe-6ec7-4438-ab36-e20be46c9922.jpg?1727740564">AFR</set>
             <related count="2" exclude="exclude">Skeleton Token </related>
             <related exclude="exclude">Treasure Token</related>
             <reverse-related exclude="exclude">Acererak the Archlich</reverse-related>
@@ -16022,7 +16022,7 @@ You draw a card during each opponent's end step.</text>
                 <type>Emblem</type>
                 <maintype>Emblem</maintype>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/0/5/05402b51-8cf9-4f69-aa12-8a9d5981f8b1.jpg?1719168409">ACR</set>
+            <set picURL="https://cards.scryfall.io/large/front/0/5/05402b51-8cf9-4f69-aa12-8a9d5981f8b1.jpg?1730837194">ACR</set>
             <reverse-related>The Capitoline Triad</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -16724,7 +16724,7 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
                 <type>Counter</type>
                 <maintype>Counter</maintype>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/5/2/52942a5c-0552-4a9b-9c0f-7a9ffd04d0af.jpg?1675456937">UNF</set>
+            <set picURL="https://cards.scryfall.io/large/front/5/2/52942a5c-0552-4a9b-9c0f-7a9ffd04d0af.jpg?1726760988">UNF</set>
             <reverse-related exclude="exclude">Aerialephant</reverse-related>
             <reverse-related exclude="exclude">Ambassador Blorpityblorpboop</reverse-related>
             <reverse-related exclude="exclude">Animate Object</reverse-related>
