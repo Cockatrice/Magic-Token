@@ -55,6 +55,15 @@ jobs:
           output: lychee/out.md
           jobSummary: false
 
+      # List some helpful stats on missing pictures
+      - name: List missing image link counts
+        shell: bash
+        run: |
+          echo "❌ **Missing Image Links**" >> $GITHUB_STEP_SUMMARY
+          echo "Token with missing \`set\` element: [![](https://img.shields.io/badge/dynamic/xml?label=&colorB=white&query=count%28%2F%2Fcard%5Bnot%28set%29%5D%29&url=https%3A%2F%2Fraw.githubusercontent.com%2FCockatrice%2FMagic-Token%2Fmaster%2Ftokens.xml)](https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml)" >> $GITHUB_STEP_SUMMARY
+          echo "Missing picURL attribute (\`<set>\`): [![](https://img.shields.io/badge/dynamic/xml?label=&colorB=white&query=count%28%2F%2Fset%29-count%28%2F%2Fset%5B%40picURL%5D%29&url=https%3A%2F%2Fraw.githubusercontent.com%2FCockatrice%2FMagic-Token%2Fmaster%2Ftokens.xml)](https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml)" >> $GITHUB_STEP_SUMMARY
+          echo "Empty picURL value (\`<set picURL=\"\">\`): [![](https://img.shields.io/badge/dynamic/xml?label=&colorB=white&query=count%28%2F%2Fset%5B%40picURL%3D%22%22%5D%29&url=https%3A%2F%2Fraw.githubusercontent.com%2FCockatrice%2FMagic-Token%2Fmaster%2Ftokens.xml)](https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml)" >> $GITHUB_STEP_SUMMARY
+
       # Analyse extracted links (1/2)
       - name: List duplicated image links
         if: steps.tokens_pic_urls.outcome == 'success'
@@ -70,7 +79,7 @@ jobs:
         shell: bash
         # Extract 3rd field (domain name) | remove empty lines | sort | count duplicates and list with numbers | sort descending
         run: |
-          echo "📊 **Image Hosting Statistics**" >> $GITHUB_STEP_SUMMARY
+          echo "📶 **Image Hosting Statistics**" >> $GITHUB_STEP_SUMMARY
           awk -F/ '{print $3}' lychee/out.md | grep . | sort | uniq -c | sort -nr >> $GITHUB_STEP_SUMMARY
 
       # Always save cache
