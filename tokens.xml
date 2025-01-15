@@ -7067,7 +7067,7 @@ Equip {2}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set>J25</set>
+            <set picURL="https://i.imgur.com/sPQtr2R.jpeg">J25</set>
             <reverse-related>Cynette, Jelly Drover</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7083,7 +7083,7 @@ When this creature leaves the battlefield, return target card named Ozox, the Cl
                 <cmc>0</cmc>
                 <pt>2/1</pt>
             </prop>
-            <set>J25</set>
+            <set picURL="https://i.imgur.com/TitCO14.jpeg">J25</set>
             <reverse-related>Ozox, the Clattering King</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -8476,7 +8476,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set>J25</set>
+            <set picURL="https://i.imgur.com/nfMVZ0V.jpeg">J25</set>
             <reverse-related>Psemilla, Meletian Poet</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
