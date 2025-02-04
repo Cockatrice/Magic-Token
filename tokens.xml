@@ -275,6 +275,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
                 <cmc>0</cmc>
                 <pt>3/4</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/e/eee11a08-6cdc-4c47-9ad4-26b766e4a839.jpg?1738355124">DRC</set>
             <set picURL="https://cards.scryfall.io/large/front/a/8/a80e1cab-ff67-459f-ab64-2c340a8e36ac.jpg?1572370656">C19</set>
             <set picURL="https://cards.scryfall.io/large/front/a/1/a1786cb3-6f38-4f10-b5f1-8feb20e3baaf.jpg?1562844813">AKH</set>
             <reverse-related>Angel of Sanctions</reverse-related>
@@ -918,6 +919,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/b/6/b6c4b4a7-d9f0-4bd8-bb45-fecf48256dca.jpg?1738355168">DRC</set>
             <set picURL="https://cards.scryfall.io/large/front/c/a/ca697323-bdc8-4fa0-a0ba-c2dd4deff68c.jpg?1730485687">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/e/4/e4c8e748-ab07-40d5-bd5c-a47a87be5a8c.jpg?1726237257">DSC</set>
             <set picURL="https://cards.scryfall.io/large/front/d/9/d93d0098-2147-4e84-af15-91dec8b98d21.jpg?1721427669">BLC</set>
@@ -1100,6 +1102,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>6/6</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/6/36f13ff0-fa4d-42c0-9dd9-7448879f1b1b.jpg?1738355173">DRC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/d/4de1d095-459f-42fd-9d9f-8f71d002a5b2.jpg?1562639796">KLD</set>
             <reverse-related>Architect of the Untamed</reverse-related>
             <token>1</token>
@@ -1832,11 +1835,13 @@ Whenever this creature attacks, target attacking creature gains flying until end
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/0/902fba98-92b7-461b-ac6e-29cb2c4e307f.jpg?1738355211">DFT</set>
             <set picURL="https://cards.scryfall.io/large/front/8/6/86701490-17ac-4253-810d-6cfd7a46594c.jpg?1730485666">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/b/9/b93ed798-245a-46d6-8964-1aebc290008d.jpg?1692830136">WOC</set>
             <set picURL="https://cards.scryfall.io/large/front/d/7/d754e09c-efc0-4536-9f2a-6bd7e2f860ab.jpg?1591225552">IKO</set>
             <set picURL="https://cards.scryfall.io/large/front/b/3/b31f1580-5bba-4cef-b0c8-f2837a597b7d.jpg?1562702272">M19</set>
             <set picURL="https://cards.scryfall.io/large/front/a/f/af0086cd-56b5-450e-818c-e54f45d1a104.jpg?1562844817">AKH</set>
+            <reverse-related>Basri, Tomorrow's Champion</reverse-related>
             <reverse-related count="2">Cubwarden</reverse-related>
             <reverse-related count="2">Leonin Warleader</reverse-related>
             <reverse-related>Liberated Livestock</reverse-related>
@@ -2009,7 +2014,7 @@ Whenever this creature attacks, target attacking creature gains flying until end
         </card>
         <card>
             <name>Champion of Wits (Token)</name>
-            <text>When Champion of Wits enters the battlefield, you may draw cards equal to its power. If you do, discard two cards.</text>
+            <text>When this token enters, you may draw cards equal to its power. If you do, discard two cards.</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Zombie Naga Wizard</type>
@@ -2017,6 +2022,7 @@ Whenever this creature attacks, target attacking creature gains flying until end
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/9/d945177b-a94f-4d05-8d4c-d03afb04acf5.jpg?1738355145">DRC</set>
             <set picURL="https://cards.scryfall.io/large/front/6/5/65eebe6c-5bc9-463c-b74c-eae79fc3c1b6.jpg?1562639835">HOU</set>
             <reverse-related>Champion of Wits</reverse-related>
             <token>1</token>
@@ -2478,6 +2484,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/b/0bf43942-6814-4b31-9705-fd16336ed5ef.jpg?1738355181">DRC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/0/4001c4c6-647c-4ffc-9803-81df43b77e12.jpg?1594733639">M21</set>
             <set picURL="https://cards.scryfall.io/large/front/7/f/7fee6034-f0bb-49b9-ad75-67d3d6be1159.jpg?1592710114">C18</set>
             <reverse-related>Chrome Replicator</reverse-related>
@@ -2883,6 +2890,21 @@ When this creature dies, create a colorless Treasure artifact token.</text>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/c/b/cb87f3e1-f4ba-459d-9bb9-6651fe073a0a.jpg?1591319240">C20</set>
             <reverse-related>Gavi, Nest Warden</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Dinosaur Dragon Token</name>
+            <text>Flying</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Dinosaur Dragon</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/4</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/3/932aac56-2afa-4431-96fa-bd55d8bba983.jpg?1738355221">DFT</set>
+            <reverse-related>Draconautics Engineer</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -4243,6 +4265,7 @@ This creature's power and toughness are each equal to the number of instant and 
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/e/6ecb6655-2aa0-4622-ae9a-21dfffa7625e.jpg?1738355233">DFT</set>
             <set picURL="https://cards.scryfall.io/large/front/f/0/f0a8841d-1d2d-429f-a14d-bb2251dbf898.jpg?1721427744">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/9/f/9f2f4fec-ad7b-4407-b288-615ec40c4980.jpg?1717193909">M3C</set>
             <set picURL="https://cards.scryfall.io/large/front/2/b/2be112a9-0c95-4b38-a94f-cfb87791f06e.jpg?1698873798">LCC</set>
@@ -4268,6 +4291,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <set picURL="https://cards.scryfall.io/large/front/3/d/3dc13cf6-665a-4d92-836f-b2e10ca08ecd.jpg?1561756962">ODY</set>
             <set picURL="https://cards.scryfall.io/large/front/5/4/540a3b26-ca61-46c6-9e75-981cae435b2e.jpg?1561757150">INV</set>
             <reverse-related>Assault // Battery</reverse-related>
+            <reverse-related>Autarch Mammoth</reverse-related>
             <reverse-related>Bestial Menace</reverse-related>
             <reverse-related>Call of the Herd</reverse-related>
             <reverse-related>Elephant Ambush</reverse-related>
@@ -4276,7 +4300,9 @@ This creature's power and toughness are each equal to the number of instant and 
             <reverse-related>Generous Gift</reverse-related>
             <reverse-related>Kazandu Tuskcaller</reverse-related>
             <reverse-related count="2" exclude="exclude">Kazandu Tuskcaller</reverse-related>
+            <reverse-related>March of the World Ooze</reverse-related>
             <reverse-related count="x">Selvala's Charge</reverse-related>
+            <reverse-related>Stampeding Scurryfoot</reverse-related>
             <reverse-related count="x=3">Terastodon</reverse-related>
             <reverse-related>Trumpeting Herd</reverse-related>
             <token>1</token>
@@ -5308,6 +5334,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/7/0/7072dea6-0d99-47fa-a83d-c8607e6a4bbd.jpg?1738355229">DFT</set>
             <set picURL="https://cards.scryfall.io/large/front/7/0/70f8a1de-cd4c-4afa-bf03-0245d375d42e.jpg?1732803363">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/3/1/3186f5e2-8078-4fa3-b61e-866c2d4c495d.jpg?1721427528">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/d/a/daab2f6a-ea1d-49ec-9457-4c5db6cc6538.jpg?1717193792">M3C</set>
@@ -5379,6 +5406,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <reverse-related count="3">Goblin Warrens</reverse-related>
             <reverse-related>Goblinslide</reverse-related>
             <reverse-related count="3">Hordeling Outburst</reverse-related>
+            <reverse-related>Howlsquad Heavy</reverse-related>
             <reverse-related count="5">Hunted Phantasm</reverse-related>
             <reverse-related count="2">Ib Halfheart, Goblin Tactician</reverse-related>
             <reverse-related count="2">Jund</reverse-related>
@@ -5605,6 +5633,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/d/ddd97e96-5757-4226-b3d0-b460406cd58f.jpg?1738355183">DRC</set>
             <set picURL="https://cards.scryfall.io/large/front/c/6/c6a3a35a-ebd8-47e5-a5ed-c736b8bed968.jpg?1641306118">C21</set>
             <reverse-related>Triplicate Titan</reverse-related>
             <token>1</token>
@@ -5619,6 +5648,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/a/7/a73d4a82-b93f-49df-b1a7-cf4cc71d168a.jpg?1738355191">DRC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/0/40c50c6d-5116-4acb-89d3-f27efb20d336.jpg?1641306120">C21</set>
             <reverse-related>Triplicate Titan</reverse-related>
             <token>1</token>
@@ -5633,6 +5663,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/3/f3cf61ad-c9fb-405e-a0a9-0ab147a984b4.jpg?1738355192">DRC</set>
             <set picURL="https://cards.scryfall.io/large/front/f/2/f27efb56-7fd4-4d0e-b641-a152b3ef8953.jpg?1641306122">C21</set>
             <reverse-related>Triplicate Titan</reverse-related>
             <token>1</token>
@@ -6817,6 +6848,7 @@ Equip {2}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/d/9d3d855d-93a1-4ec4-af19-e544f271ae10.jpg?1738355238">DFT</set>
             <set picURL="https://cards.scryfall.io/large/front/3/f/3fb9b1f2-28c6-4061-b6a3-67bf68c2292a.jpg?1726237730">DSC</set>
             <set picURL="https://cards.scryfall.io/large/front/0/5/059e9d51-c7bf-41c0-a6f0-c0bbc6d3b434.jpg?1717191895">MH3</set>
             <set picURL="https://cards.scryfall.io/large/front/8/b/8bbc680c-31c4-48bc-b55f-c5651d823e87.jpg?1712319871">OTC</set>
@@ -6831,6 +6863,7 @@ Equip {2}</text>
             <set picURL="https://cards.scryfall.io/large/front/5/9/599b5074-86a5-4666-8cf4-3deb83c09ba0.jpg?1562702072">MM2</set>
             <set picURL="https://cards.scryfall.io/large/front/6/7/67563770-a392-4f69-b93b-6029da639993.jpg?1561757325">M10</set>
             <set picURL="https://cards.scryfall.io/large/front/a/a/aa47df37-f246-4f80-a944-008cdf347dad.jpg?1561757793">ONS</set>
+            <reverse-related count="x">Aatchik, Emerald Radian</reverse-related>
             <reverse-related>Ant Queen</reverse-related>
             <reverse-related count="x">Beacon of Creation</reverse-related>
             <reverse-related>Broodhatch Nantuko</reverse-related>
@@ -8375,6 +8408,21 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Nalaar Aetherjet</name>
+            <text>Flying
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This token becomes an artifact creature until end of turn.)</text>
+            <prop>
+                <type>Token Artifact — Vehicle</type>
+                <maintype>Artifact</maintype>
+                <cmc>0</cmc>
+                <pt>*/*</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/f/8f712a61-12c3-4d8e-93be-2b00dce4acbc.jpg?1738523116">DRC</set>
+            <reverse-related>Pia Nalaar, Chief Mechanic</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Necron Warrior Token</name>
             <prop>
                 <colors>B</colors>
@@ -9428,11 +9476,22 @@ Toxic 1 (Players dealt combat damage by this creature also get a poison counter.
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/6/8672d795-04f9-4089-9c92-6d6ff628da12.jpg?1738355210">DFT</set>
             <set picURL="https://cards.scryfall.io/large/front/b/e/be84f259-2809-48c9-9c70-861437f08c23.jpg?1674338500">NEO</set>
+            <reverse-related>Back on Track</reverse-related>
             <reverse-related count="2">Born to Drive</reverse-related>
+            <reverse-related count="x">Cloudspire Coordinator</reverse-related>
+            <reverse-related>Country Roads</reverse-related>
+            <reverse-related>Defend the Rider</reverse-related>
+            <reverse-related>Foul Roads</reverse-related>
             <reverse-related>Prodigy's Prototype</reverse-related>
             <reverse-related>Reckoner Bankbuster</reverse-related>
+            <reverse-related>Reef Roads</reverse-related>
+            <reverse-related>Roadside Assistance</reverse-related>
+            <reverse-related>Rocky Roads</reverse-related>
             <reverse-related>Shorikai, Genesis Engine</reverse-related>
+            <reverse-related count="x">Valor's Flagship</reverse-related>
+            <reverse-related>Wild Roads</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -10539,6 +10598,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/0/10de413b-3307-4bc7-bb21-f177543d7e21.jpg?1738355244">DFT</set>
             <set picURL="https://cards.scryfall.io/large/front/2/3/23165814-3eb8-4d94-b9c8-ecc798afe7a0.jpg?1717192207">MH3</set>
             <set picURL="https://cards.scryfall.io/large/front/e/6/e6a5faa3-b86e-4e05-93db-5db9507ae7d0.jpg?1689710460">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/1/1/11a8610e-6264-4b02-b871-8975f3d06012.jpg?1682211184">MOC</set>
@@ -10572,6 +10632,7 @@ Equip {1}</text>
             <reverse-related count="3">Marionette Master</reverse-related>
             <reverse-related>Master Trinketeer</reverse-related>
             <reverse-related>Maulfist Squad</reverse-related>
+            <reverse-related>Nesting Bot</reverse-related>
             <reverse-related>Oviya Pashiri, Sage Lifecrafter</reverse-related>
             <reverse-related>Peema Outrider</reverse-related>
             <reverse-related>Propeller Pioneer</reverse-related>
@@ -10633,6 +10694,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/a/5ac36b5d-07d5-4d5c-8de0-0300e6b874d9.jpg?1738355136">DRC</set>
             <set picURL="https://cards.scryfall.io/large/front/0/e/0e0f1e76-ccc0-4643-b4f2-c8e3042230ee.jpg?1721427307">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/a/d/ad46aa41-47e6-498d-8004-9127c21229a9.jpg?1717193635">M3C</set>
             <set picURL="https://cards.scryfall.io/large/front/a/b/ab451fcc-15c9-4c19-9624-af0af741bba6.jpg?1682210921">MOC</set>
@@ -12565,6 +12627,7 @@ This creature can't be enchanted.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/7/8/78e52380-13a1-44fe-b762-e71261cac3d0.jpg?1738355254">DFT</set>
             <set picURL="https://cards.scryfall.io/large/front/0/b/0bb68ae3-e74c-416f-a393-c42ad3f0312e.jpg?1721428230">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/7/a/7a98b0a3-519d-4d20-8559-ee5ab38e8c14.jpg?1717194188">M3C</set>
             <set picURL="https://cards.scryfall.io/large/front/b/b/bbac8690-2b00-4afe-8a2d-8e10c34843fc.jpg?1712320220">OTC</set>
@@ -12594,6 +12657,8 @@ This creature can't be enchanted.</text>
             <reverse-related>Aviation Pioneer</reverse-related>
             <reverse-related>Barbed Spike</reverse-related>
             <reverse-related>Breya's Apprentice</reverse-related>
+            <reverse-related>Broadcast Rambler</reverse-related>
+            <reverse-related>Camera Launcher</reverse-related>
             <reverse-related count="2">Depose // Deploy</reverse-related>
             <reverse-related exclude="exclude">Detective's Satchel</reverse-related>
             <reverse-related>Dovin, Grand Arbiter</reverse-related>
@@ -12608,22 +12673,27 @@ This creature can't be enchanted.</text>
             <reverse-related>Ghirapur Gearcrafter</reverse-related>
             <reverse-related count="x">Hangarback Walker</reverse-related>
             <reverse-related>Harried Dronesmith</reverse-related>
+            <reverse-related count="2">Haunt the Network</reverse-related>
             <reverse-related>Inspired Sphinx</reverse-related>
             <reverse-related>Invasion of Kaladesh</reverse-related>
             <reverse-related>Launch Mishap</reverse-related>
             <reverse-related>Loyal Apprentice</reverse-related>
             <reverse-related count="2">Maverick Thopterist</reverse-related>
+            <reverse-related>Nimble Thopterist</reverse-related>
             <reverse-related count="2">Pia and Kiran Nalaar</reverse-related>
             <reverse-related>Pia Nalaar</reverse-related>
             <reverse-related>Pia Nalaar, Consul of Revival</reverse-related>
+            <reverse-related>Rangers' Aetherhive</reverse-related>
             <reverse-related exclude="exclude">Retrofitter Foundry</reverse-related>
             <reverse-related count="2">Saheeli, Filigree Master</reverse-related>
             <reverse-related>Sai, Master Thopterist</reverse-related>
+            <reverse-related>Stridehangar Automaton</reverse-related>
             <reverse-related>Surveillance Monitor</reverse-related>
             <reverse-related count="x">Sweep the Skies</reverse-related>
             <reverse-related>Tezzeret, Artifice Master</reverse-related>
             <reverse-related count="5">Thopter Assembly</reverse-related>
             <reverse-related>Thopter Engineer</reverse-related>
+            <reverse-related>Thopter Fabricator</reverse-related>
             <reverse-related>Thopter Mechanic</reverse-related>
             <reverse-related>Thopter Shop</reverse-related>
             <reverse-related>Thopter Spy Network</reverse-related>
@@ -12748,6 +12818,7 @@ This creature can't be enchanted.</text>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/c/1/c111aa4c-f0ae-4fe6-bb52-8feadb0f2680.jpg?1738355146">DRC</set>
             <set picURL="https://cards.scryfall.io/large/front/f/7/f7ab74f3-897a-4dd9-b460-f31a0f496bb4.jpg?1641306179">MH2</set>
             <reverse-related>Timeless Dragon</reverse-related>
             <token>1</token>
@@ -12814,12 +12885,13 @@ This creature can't be enchanted.</text>
         </card>
         <card>
             <name>Treasure Token</name>
-            <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+            <text>{T}, Sacrifice this token: Add one mana of any color.</text>
             <prop>
                 <type>Token Artifact — Treasure</type>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/b/a/ba7638ef-114b-4055-9855-390f82b7d5c5.jpg?1738355257">DFT</set>
             <set picURL="https://cards.scryfall.io/large/front/2/1/21210145-8edd-41f5-9a64-9f0b5be79864.jpg?1733068745">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/5/c/5c0b31c3-5775-41a6-9981-44fc4a6d4aa8.jpg?1726236858">DSK</set>
             <set picURL="https://cards.scryfall.io/large/front/f/f/ff0357fb-d90c-49c7-b16a-8b52ac686c3b.jpg?1721425653">BLB</set>
@@ -12952,6 +13024,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Gemcutter Buccaneer</reverse-related>
             <reverse-related count="x" exclude="exclude">Gemcutter Buccaneer</reverse-related>
             <reverse-related count="2">Generous Plunderer</reverse-related>
+            <reverse-related>Gilded Ghoda</reverse-related>
             <reverse-related>Gilded Pinions</reverse-related>
             <reverse-related>Gimli of the Glittering Caves</reverse-related>
             <reverse-related>Gleaming Barrier</reverse-related>
@@ -12965,6 +13038,8 @@ This creature can't be enchanted.</text>
             <reverse-related>Goldspan Dragon</reverse-related>
             <reverse-related count="x">Goldvein Hydra</reverse-related>
             <reverse-related>Goldvein Pick</reverse-related>
+            <reverse-related>Gonti, Night Minister</reverse-related>
+            <reverse-related count="x" exclude="exclude">Gonti, Night Minister</reverse-related>
             <reverse-related>Gorbag of Minas Morgul</reverse-related>
             <reverse-related>Grabby Giant // That's Mine</reverse-related>
             <reverse-related>Great Train Heist</reverse-related>
@@ -13037,6 +13112,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="2">Mines of Moria</reverse-related>
             <reverse-related>Misfortune Teller</reverse-related>
             <reverse-related>Monologue Tax</reverse-related>
+            <reverse-related>Monument to Endurance</reverse-related>
             <reverse-related count="2">Most Wanted</reverse-related>
             <reverse-related exclude="exclude">Mr. House, President and CEO</reverse-related>
             <reverse-related count="x">My Wealth Will Bury You</reverse-related>
@@ -13092,6 +13168,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Riveteers Requisitioner</reverse-related>
             <reverse-related count="7">RMS Titanic</reverse-related>
             <reverse-related count="x" exclude="exclude">RMS Titanic</reverse-related>
+            <reverse-related>Rocketeer Boostbuggy</reverse-related>
             <reverse-related>Rose Room Treasurer</reverse-related>
             <reverse-related count="2">Ruthless Knave</reverse-related>
             <reverse-related count="x">Ruthless Technomancer</reverse-related>
@@ -13139,6 +13216,7 @@ This creature can't be enchanted.</text>
             <reverse-related exclude="exclude">The Third Doctor</reverse-related>
             <reverse-related count="3">The Western Cloud</reverse-related>
             <reverse-related>Thieves' Tools</reverse-related>
+            <reverse-related>Ticket Tortoise</reverse-related>
             <reverse-related>Tireless Provisioner</reverse-related>
             <reverse-related count="x" exclude="exclude">Tivit, Seller of Secrets</reverse-related>
             <reverse-related count="5">Treasure Chest</reverse-related>
@@ -13667,6 +13745,21 @@ Whenever Vanguard Suppressor deals combat damage to a player, draw a card.</text
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Vehicle Token</name>
+            <text>Crew 1 (Tap any number of creatures you control with total power 1 or more: This token becomes an artifact creature until end of turn.)</text>
+            <prop>
+                <type>Token Artifact — Vehicle</type>
+                <maintype>Artifact</maintype>
+                <cmc>0</cmc>
+                <pt>3/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/a/3/a3803365-ed78-409f-8ca5-7aa3634faf76.jpg?1738355265">DFT</set>
+            <reverse-related>Chandra, Spark Hunter</reverse-related>
+            <reverse-related>Mu Yanling, Wind Rider</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Vizier of Many Faces (Token)</name>
             <text>You may have Vizier of Many Faces enter the battlefield as a copy of any creature on the battlefield, except it has no mana cost, it's white, and it's a Zombie in addition to its other types.</text>
             <prop>
@@ -13676,6 +13769,7 @@ Whenever Vanguard Suppressor deals combat damage to a player, draw a card.</text
                 <cmc>0</cmc>
                 <pt>0/0</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/0/208b09fc-985b-49f5-8af8-27cb590946ae.jpg?1738355126">DRC</set>
             <set picURL="https://cards.scryfall.io/large/front/1/d/1df4f7a8-590a-4d90-b163-49ac88a915b6.jpg?1706129793">MKC</set>
             <set picURL="https://cards.scryfall.io/large/front/3/9/39520c16-1f4b-4f15-aeb4-53c91e8ecfcc.jpg?1562844791">AKH</set>
             <reverse-related>Vizier of Many Faces</reverse-related>
@@ -14458,6 +14552,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>0/0</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/7/177beb03-072c-462c-b816-d706d4d40b5f.jpg?1738355157">DRC</set>
             <set picURL="https://cards.scryfall.io/large/front/5/0/505a3bc6-deab-410e-a58e-e3b5f0f21e3d.jpg?1717191051">MH3</set>
             <set picURL="https://cards.scryfall.io/large/front/a/b/ab6ce07c-d61c-4334-9ca8-bdf6ed9bee4f.jpg?1689797385">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/c/4/c46d82e0-ef99-473c-a09c-8f552db759bf.jpg?1641306185">MH2</set>
@@ -14609,6 +14704,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/b/8/b82be730-c63b-4c2b-99f4-476befdb95cb.jpg?1738355219">DFT</set>
             <set picURL="https://cards.scryfall.io/large/front/e/2/e29a360b-11fd-42ba-82ba-de8f7e136c20.jpg?1732803360">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/9/0/909387e1-dc33-446c-825f-07c915ad73ee.jpg?1717191020">MH3</set>
             <set picURL="https://cards.scryfall.io/large/front/0/b/0b0205bb-2020-447a-a1ee-345d3f67e6a5.jpg?1712319647">OTC</set>
@@ -14681,6 +14777,7 @@ Equip {1}</text>
             <reverse-related>Cemetery Reaper</reverse-related>
             <reverse-related>Cradle of the Accursed</reverse-related>
             <reverse-related>Cryptbreaker</reverse-related>
+            <reverse-related count="x">Cryptcaller Chariot</reverse-related>
             <reverse-related>Curse of Disturbance</reverse-related>
             <reverse-related>Curse of Shallow Graves</reverse-related>
             <reverse-related count="x">Dark Salvation</reverse-related>
@@ -14694,6 +14791,7 @@ Equip {1}</text>
             <reverse-related>Drunau Corpse Trawler</reverse-related>
             <reverse-related>Dunes of the Dead</reverse-related>
             <reverse-related>Dying to Serve</reverse-related>
+            <reverse-related>Embalmed Ascendant</reverse-related>
             <reverse-related count="x">Empty the Pits</reverse-related>
             <reverse-related count="x">Endless Ranks of the Dead</reverse-related>
             <reverse-related>Feast or Famine</reverse-related>
@@ -14712,6 +14810,7 @@ Equip {1}</text>
             <reverse-related>Headless Rider</reverse-related>
             <reverse-related count="x" exclude="exclude">Headless Rider</reverse-related>
             <reverse-related count="2">Hour of Promise</reverse-related>
+            <reverse-related>Hour of Victory</reverse-related>
             <reverse-related>Kalitas, Traitor of Ghet</reverse-related>
             <reverse-related>Lair of the Ashen Idol</reverse-related>
             <reverse-related>Liliana's Devotee</reverse-related>
@@ -14740,6 +14839,7 @@ Equip {1}</text>
             <reverse-related>Rank Officer</reverse-related>
             <reverse-related>Reap the Seagraf</reverse-related>
             <reverse-related count="x">Rise from the Tides</reverse-related>
+            <reverse-related>Risen Necroregent</reverse-related>
             <reverse-related>Rotlung Reanimator</reverse-related>
             <reverse-related count="x">Rotted Ones, Lay Siege</reverse-related>
             <reverse-related>Sarcomancy</reverse-related>
@@ -14767,6 +14867,8 @@ Equip {1}</text>
             <reverse-related>Waste Not</reverse-related>
             <reverse-related>Wight</reverse-related>
             <reverse-related>Xathrid Necromancer</reverse-related>
+            <reverse-related>Zahur, Glory's Past</reverse-related>
+            <reverse-related count="x" exclude="exclude">Zahur, Glory's Past</reverse-related>
             <reverse-related>Zombie Infestation</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -14818,7 +14920,7 @@ Equip {1}</text>
         </card>
         <card>
             <name>Zombie Token    </name>
-            <text>Decayed</text>
+            <text>Decayed (This creature can't block. When it attacks, sacrifice it at end of combat.)</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Zombie</type>
@@ -14826,6 +14928,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/4/64525159-3df4-4a35-a4ee-bd69f62517f2.jpg?1738355155">DRC</set>
             <set picURL="https://cards.scryfall.io/large/front/6/a/6adb8607-1066-451d-a719-74ad32358278.jpg?1708345325">MID</set>
             <reverse-related count="x">Crowded Crypt</reverse-related>
             <reverse-related>Curse of the Restless Dead</reverse-related>
@@ -14891,6 +14994,21 @@ Equip {1}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Zombie Token        </name>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Zombie</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/4/d/4d6a4ed0-50ce-4556-a2c3-cbd7501635ec.jpg?1738355135">DRC</set>
+            <reverse-related>On Wings of Gold</reverse-related>
+            <reverse-related>Wizened Mentor</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Zombie Warrior Token</name>
             <text>Vigilance</text>
             <prop>
@@ -14900,6 +15018,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/e/feddb610-e327-4592-8a81-66f8613c1daf.jpg?1738355164">DRC</set>
             <set picURL="https://cards.scryfall.io/large/front/2/e/2e06aa97-1611-4af6-8bad-32051927fcfd.jpg?1557575941">WAR</set>
             <reverse-related>God-Eternal Oketra</reverse-related>
             <token>1</token>
@@ -15207,6 +15326,18 @@ Throne of the Dead Three — Reveal the top ten cards of your library. Put a cre
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/4/a/4a8123a6-7e7b-49fb-9ebc-19d8150852e8.jpg?1562639787">ORI</set>
             <reverse-related exclude="exclude">Chandra, Roaring Flame</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Chandra, Spark Hunter Emblem</name>
+            <text>Whenever an artifact you control enters, this emblem deals 3 damage to any target.</text>
+            <prop>
+                <type>Emblem</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/4/343d2622-a5a6-4195-ab41-c6bd17e334a2.jpg?1738355266">DFT</set>
+            <reverse-related exclude="exclude">Chandra, Spark Hunter</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -16397,6 +16528,7 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
                 <type>Counter</type>
                 <maintype>Counter</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/a/6a2c1fa5-deed-48ba-afe4-6c8ea8d9135e.jpg?1738355201">DRC</set>
             <set picURL="https://cards.scryfall.io/large/front/1/c/1c516212-ad39-4396-8e05-ae57f100309f.jpg?1717192446">MH3</set>
             <set picURL="https://cards.scryfall.io/large/front/2/a/2a794202-875f-4397-a8de-9722c8d78448.jpg?1708711465">PIP</set>
             <set picURL="https://cards.scryfall.io/large/front/a/4/a446b9f8-cb22-408a-93ff-bee44a0dccc0.jpg?1717192462">KLD</set>
@@ -16410,6 +16542,7 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
             <reverse-related exclude="exclude">Aether Spike</reverse-related>
             <reverse-related exclude="exclude">Aether Swooper</reverse-related>
             <reverse-related exclude="exclude">Aether Theorist</reverse-related>
+            <reverse-related exclude="exclude">Aetherflux Conduit</reverse-related>
             <reverse-related exclude="exclude">Aethergeode Miner</reverse-related>
             <reverse-related exclude="exclude">Aethersphere Harvester</reverse-related>
             <reverse-related exclude="exclude">Aethersquall Ancient</reverse-related>
@@ -16479,10 +16612,14 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
             <reverse-related exclude="exclude">Maulfist Doorbuster</reverse-related>
             <reverse-related exclude="exclude">Minister of Inquiries</reverse-related>
             <reverse-related exclude="exclude">Multiform Wonder</reverse-related>
+            <reverse-related exclude="exclude">Nissa, Worldsoul Speaker</reverse-related>
             <reverse-related exclude="exclude">Peema Aether-Seer</reverse-related>
+            <reverse-related exclude="exclude">Peema Trailblazer</reverse-related>
             <reverse-related exclude="exclude">Phyrexian Ironworks</reverse-related>
+            <reverse-related exclude="exclude">Pia Nalaar, Chief Mechanic</reverse-related>
             <reverse-related exclude="exclude">Plasma Caster</reverse-related>
             <reverse-related exclude="exclude">Primal Prayers</reverse-related>
+            <reverse-related exclude="exclude">Rampaging Aetherhood</reverse-related>
             <reverse-related exclude="exclude">Razorfield Ripper</reverse-related>
             <reverse-related exclude="exclude">Reservoir Walker</reverse-related>
             <reverse-related exclude="exclude">Rex, Cyber-Hound</reverse-related>
@@ -16493,6 +16630,7 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
             <reverse-related exclude="exclude">Roil Cartographer</reverse-related>
             <reverse-related exclude="exclude">Sage of Shaila's Claim</reverse-related>
             <reverse-related exclude="exclude">Satya, Aetherflux Genius</reverse-related>
+            <reverse-related exclude="exclude">Saheeli, Radiant Creator</reverse-related>
             <reverse-related exclude="exclude">Scrapper Champion</reverse-related>
             <reverse-related exclude="exclude">Scurry of Gremlins</reverse-related>
             <reverse-related exclude="exclude">Servant of the Conduit</reverse-related>
@@ -16506,6 +16644,7 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
             <reverse-related exclude="exclude">Static Prison</reverse-related>
             <reverse-related exclude="exclude">Stone Idol Generator</reverse-related>
             <reverse-related exclude="exclude">Tempest Harvester</reverse-related>
+            <reverse-related exclude="exclude">Territorial Aetherkite</reverse-related>
             <reverse-related exclude="exclude">Territorial Gorger</reverse-related>
             <reverse-related exclude="exclude">Thriving Grubs</reverse-related>
             <reverse-related exclude="exclude">Thriving Ibex</reverse-related>
@@ -17197,6 +17336,68 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Woodland Acolyte // Mend the Wilds</reverse-related>
             <reverse-related attach="attach">Young Blue Dragon // Sand Augury</reverse-related>
             <reverse-related attach="attach">Young Red Dragon // Bathe in Gold</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Start Your Engines!</name>
+            <text>Whenever an opponent loses life during your turn, if your speed is 1 or greater, increase your speed by 1. Max speed is 4. This ability triggers only once each turn.</text>
+            <prop>
+                <type>State</type>
+                <maintype>State</maintype>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/back/8/2/82613de6-ed37-48c1-8d2f-d91a3f496794.jpg?1738355275">DFT</set>
+            <related attach="transform">Max Speed</related>
+            <reverse-related>Aether Syphon</reverse-related>
+            <reverse-related>Amonkhet Raceway</reverse-related>
+            <reverse-related>Avishkar Raceway</reverse-related>
+            <reverse-related>Burnout Bashtronaut</reverse-related>
+            <reverse-related exclude="exclude">Embalmed Ascendant</reverse-related>
+            <reverse-related>Endrider Catalyzer</reverse-related>
+            <reverse-related>Endrider Spikespitter</reverse-related>
+            <reverse-related>Far Fortune, End Boss</reverse-related>
+            <reverse-related>Gas Guzzler</reverse-related>
+            <reverse-related>Gastal Raider</reverse-related>
+            <reverse-related>Gastal Thrillseeker</reverse-related>
+            <reverse-related>Glitch Ghost Surveyor</reverse-related>
+            <reverse-related>Goblin Surveyor</reverse-related>
+            <reverse-related>Hazoret, Godseeker</reverse-related>
+            <reverse-related exclude="exclude">Hour of Victory</reverse-related>
+            <reverse-related exclude="exclude">Howlsquad Heavy</reverse-related>
+            <reverse-related>Kickoff Celebrations</reverse-related>
+            <reverse-related>Leonin Surveyor</reverse-related>
+            <reverse-related>Lightwheel Enhancements</reverse-related>
+            <reverse-related>Loxodon Surveyor</reverse-related>
+            <reverse-related>Mendicant Core, Guidelight</reverse-related>
+            <reverse-related>Momentum Breaker</reverse-related>
+            <reverse-related>Muraganda Raceway</reverse-related>
+            <reverse-related>Mutant Surveyor</reverse-related>
+            <reverse-related exclude="exclude">Nesting Bot</reverse-related>
+            <reverse-related>Outpace Oblivion</reverse-related>
+            <reverse-related>Perilous Snare</reverse-related>
+            <reverse-related>Point the Way</reverse-related>
+            <reverse-related>Pride of the Road</reverse-related>
+            <reverse-related>Racers' Scoreboard</reverse-related>
+            <reverse-related exclude="exclude">Risen Necroregent</reverse-related>
+            <reverse-related>Samut, the Driving Force</reverse-related>
+            <reverse-related>Slick Imitator</reverse-related>
+            <reverse-related>Starting Column</reverse-related>
+            <reverse-related>Streaking Oilgorger</reverse-related>
+            <reverse-related>Swiftwing Assailant</reverse-related>
+            <reverse-related>The Speed Demon</reverse-related>
+            <reverse-related>Vnwxt, Verbose Host</reverse-related>
+            <reverse-related>Walking Sarcophagus</reverse-related>
+            <reverse-related exclude="exclude">Zahur, Glory's Past</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Max Speed</name>
+            <prop>
+                <type>State</type>
+                <maintype>State</maintype>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/2/82613de6-ed37-48c1-8d2f-d91a3f496794.jpg?1738355275">DFT</set>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
