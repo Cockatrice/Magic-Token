@@ -13002,6 +13002,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="x">Emissary Green</reverse-related>
             <reverse-related>Enterprising Scallywag</reverse-related>
             <reverse-related>Erestor of the Council</reverse-related>
+            <reverse-related>Evin, Waterdeep Opportunist</reverse-related>
             <reverse-related count="2">Excavation Technique</reverse-related>
             <reverse-related exclude="exclude">Exhibition Magician</reverse-related>
             <reverse-related count="x">Exit Through the Grift Shop</reverse-related>
@@ -13009,7 +13010,6 @@ This creature can't be enchanted.</text>
             <reverse-related>Fain, the Broker</reverse-related>
             <reverse-related>Fake Your Own Death</reverse-related>
             <reverse-related>Flick a Coin</reverse-related>
-            <reverse-related>Forge, Neverwinter Charlatan</reverse-related>
             <reverse-related>Forging the Tyrite Sword</reverse-related>
             <reverse-related>Forsworn Paladin</reverse-related>
             <reverse-related exclude="exclude">Fountainport</reverse-related>
@@ -16629,8 +16629,8 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
             <reverse-related exclude="exclude">Rogue Refiner</reverse-related>
             <reverse-related exclude="exclude">Roil Cartographer</reverse-related>
             <reverse-related exclude="exclude">Sage of Shaila's Claim</reverse-related>
-            <reverse-related exclude="exclude">Satya, Aetherflux Genius</reverse-related>
             <reverse-related exclude="exclude">Saheeli, Radiant Creator</reverse-related>
+            <reverse-related exclude="exclude">Satya, Aetherflux Genius</reverse-related>
             <reverse-related exclude="exclude">Scrapper Champion</reverse-related>
             <reverse-related exclude="exclude">Scurry of Gremlins</reverse-related>
             <reverse-related exclude="exclude">Servant of the Conduit</reverse-related>
@@ -17010,6 +17010,7 @@ If a player casts at least two spells during their own turn, it becomes day next
             <reverse-related exclude="exclude">Augury Raven</reverse-related>
             <reverse-related exclude="exclude">Battle Mammoth</reverse-related>
             <reverse-related exclude="exclude">Behold the Multiverse</reverse-related>
+            <reverse-related exclude="exclude">Bohn, Beguiling Balladeer</reverse-related>
             <reverse-related exclude="exclude">Cosmic Intervention</reverse-related>
             <reverse-related exclude="exclude">Cosmos Charger</reverse-related>
             <reverse-related exclude="exclude">Crush the Weak</reverse-related>
@@ -17022,7 +17023,6 @@ If a player casts at least two spells during their own turn, it becomes day next
             <reverse-related exclude="exclude">Dream Devourer</reverse-related>
             <reverse-related exclude="exclude">Dual Strike</reverse-related>
             <reverse-related exclude="exclude">Dwarven Reinforcements</reverse-related>
-            <reverse-related exclude="exclude">Edgin, Larcenous Lutenist</reverse-related>
             <reverse-related exclude="exclude">Ethereal Valkyrie</reverse-related>
             <reverse-related exclude="exclude">Frost Fair Lure Fish</reverse-related>
             <reverse-related exclude="exclude">Glorious Protector</reverse-related>
