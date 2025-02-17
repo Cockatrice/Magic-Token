@@ -9476,20 +9476,32 @@ Toxic 1 (Players dealt combat damage by this creature also get a poison counter.
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/8/6/8672d795-04f9-4089-9c92-6d6ff628da12.jpg?1738355210">DFT</set>
             <set picURL="https://cards.scryfall.io/large/front/b/e/be84f259-2809-48c9-9c70-861437f08c23.jpg?1674338500">NEO</set>
-            <reverse-related>Back on Track</reverse-related>
             <reverse-related count="2">Born to Drive</reverse-related>
+            <reverse-related>Prodigy's Prototype</reverse-related>
+            <reverse-related>Reckoner Bankbuster</reverse-related>
+            <reverse-related>Shorikai, Genesis Engine</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Pilot Token </name>
+            <text>This token saddles Mounts and crews Vehicles as though its power were 2 greater.</text>
+            <prop>
+                <type>Token Creature — Pilot</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/6/8672d795-04f9-4089-9c92-6d6ff628da12.jpg?1738355210">DFT</set>
+            <reverse-related>Back on Track</reverse-related>
             <reverse-related count="x">Cloudspire Coordinator</reverse-related>
             <reverse-related>Country Roads</reverse-related>
             <reverse-related>Defend the Rider</reverse-related>
             <reverse-related>Foul Roads</reverse-related>
-            <reverse-related>Prodigy's Prototype</reverse-related>
-            <reverse-related>Reckoner Bankbuster</reverse-related>
             <reverse-related>Reef Roads</reverse-related>
             <reverse-related>Roadside Assistance</reverse-related>
             <reverse-related>Rocky Roads</reverse-related>
-            <reverse-related>Shorikai, Genesis Engine</reverse-related>
             <reverse-related count="x">Valor's Flagship</reverse-related>
             <reverse-related>Wild Roads</reverse-related>
             <token>1</token>
