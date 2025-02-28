@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20250217b</sourceVersion>
+        <sourceVersion>20250228</sourceVersion>
     </info>
     <cards>
         <!--
@@ -16099,8 +16099,8 @@ Whenever a card is put into your graveyard from anywhere, you may return it to y
         </card>
         <card>
             <name>Teferi, Who Slows the Sunset Emblem</name>
-            <text>Untap all permanents you control during each opponent's untap step.
-You draw a card during each opponent's end step.</text>
+            <text>Untap all permanents you control during each opponent’s untap step.
+You draw a card during each opponent’s draw step.</text>
             <prop>
                 <type>Emblem</type>
                 <maintype>Emblem</maintype>
