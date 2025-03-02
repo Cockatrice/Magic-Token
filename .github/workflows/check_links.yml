@@ -48,7 +48,7 @@ jobs:
 
       # Print output
       - name: Print List of URLs
-        run: cat .lychee/url_list.md
+        run: cat ./lychee/url_list.md
 
       # Check dumped URLs
       - name: Check token art URLs
