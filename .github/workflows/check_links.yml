@@ -39,13 +39,6 @@ jobs:
           key: cache-lychee-${{ github.sha }}
           restore-keys: cache-lychee-
 
-      # Extract and check URLs directly from token files (checking dumped file did not work)
-      - name: Check token art URLs
-        uses: lycheeverse/lychee-action@v2
-        with:
-          args: '${{env.lychee_args}} -- tokens.xml'
-          jobSummary: true
-
       # Extract picture URLs from tokens.xml
       - name: Extract URLs
         id: tokens_pic_urls
@@ -55,11 +48,31 @@ jobs:
           output: lychee/out.md
           jobSummary: false
 
+      # Print as test
+      - name: Print Output
+        run: cat ./lychee/out.md
+
+      # Check dumped URLs
+      - name: Check token art URLs
+        if: steps.tokens_pic_urls.outcome == 'success'
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: '${{env.lychee_args}} -- ./lychee/out.md'
+          jobSummary: true
+
+    #  # Fallback if dump not working (TODO)
+    #  - name: Check token art URLs
+    #    if: steps.tokens_pic_urls.outcome == 'success'
+    #    uses: lycheeverse/lychee-action@v2
+    #    with:
+    #      args: '${{env.lychee_args}} -- ./lychee/out.md'
+    #      jobSummary: true
+
       # List some helpful stats on missing pictures
       - name: List missing image link counts
         shell: bash
         run: |
-          echo "❌ **Missing Image Links**" >> $GITHUB_STEP_SUMMARY
+          echo "❌ **Missing Image Links (<kbd>master</kbd> branch)**" >> $GITHUB_STEP_SUMMARY
           echo "Token with missing \`set\` element: [![](https://img.shields.io/badge/dynamic/xml?label=&colorB=white&query=count%28%2F%2Fcard%5Bnot%28set%29%5D%29&url=https%3A%2F%2Fraw.githubusercontent.com%2FCockatrice%2FMagic-Token%2Fmaster%2Ftokens.xml)](https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml)" >> $GITHUB_STEP_SUMMARY
           echo "Missing picURL attribute (\`<set>\`): [![](https://img.shields.io/badge/dynamic/xml?label=&colorB=white&query=count%28%2F%2Fset%29-count%28%2F%2Fset%5B%40picURL%5D%29&url=https%3A%2F%2Fraw.githubusercontent.com%2FCockatrice%2FMagic-Token%2Fmaster%2Ftokens.xml)](https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml)" >> $GITHUB_STEP_SUMMARY
           echo "Empty picURL value (\`<set picURL=\"\">\`): [![](https://img.shields.io/badge/dynamic/xml?label=&colorB=white&query=count%28%2F%2Fset%5B%40picURL%3D%22%22%5D%29&url=https%3A%2F%2Fraw.githubusercontent.com%2FCockatrice%2FMagic-Token%2Fmaster%2Ftokens.xml)](https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml)" >> $GITHUB_STEP_SUMMARY
