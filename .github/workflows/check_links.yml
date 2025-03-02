@@ -48,16 +48,12 @@ jobs:
           output: lychee/out.md
           jobSummary: false
 
-      # Print as test
-      - name: Print Output
-        run: cat ./lychee/out.md
-
       # Check dumped URLs
       - name: Check token art URLs
         if: steps.tokens_pic_urls.outcome == 'success'
         uses: lycheeverse/lychee-action@v2
         with:
-          args: '${{env.lychee_args}} -- ./lychee/out.md'
+          args: '${{env.lychee_args}} -- lychee/out.md'
           jobSummary: true
 
     #  # Fallback if dump not working (TODO)
