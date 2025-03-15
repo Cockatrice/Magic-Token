@@ -9493,7 +9493,7 @@ Toxic 1 (Players dealt combat damage by this creature also get a poison counter.
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/8/6/8672d795-04f9-4089-9c92-6d6ff628da12.jpg?1738355210">DFT</set>
+            <set picURL="https://cards.scryfall.io/large/front/8/6/8672d795-04f9-4089-9c92-6d6ff628da12.jpg?1738702075">DFT</set>
             <reverse-related>Back on Track</reverse-related>
             <reverse-related count="x">Cloudspire Coordinator</reverse-related>
             <reverse-related>Country Roads</reverse-related>
@@ -10541,7 +10541,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>8/8</pt>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/2/6/26c478f7-b426-4055-8d06-e5782226c826.jpg?1730485617">FDN</set>
+            <set picURL="https://cards.scryfall.io/large/front/2/6/26c478f7-b426-4055-8d06-e5782226c826.jpg?1740922203">FDN</set>
             <reverse-related>Kiora, the Rising Tide</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -17358,7 +17358,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>State</type>
                 <maintype>State</maintype>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/back/8/2/82613de6-ed37-48c1-8d2f-d91a3f496794.jpg?1738355275">DFT</set>
+            <set picURL="https://cards.scryfall.io/large/back/8/2/82613de6-ed37-48c1-8d2f-d91a3f496794.jpg?1739184127">DFT</set>
             <related attach="transform">Max Speed</related>
             <reverse-related>Aether Syphon</reverse-related>
             <reverse-related>Amonkhet Raceway</reverse-related>
@@ -17409,7 +17409,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>State</type>
                 <maintype>State</maintype>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/8/2/82613de6-ed37-48c1-8d2f-d91a3f496794.jpg?1738355275">DFT</set>
+            <set picURL="https://cards.scryfall.io/large/front/8/2/82613de6-ed37-48c1-8d2f-d91a3f496794.jpg?1739184127">DFT</set>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
