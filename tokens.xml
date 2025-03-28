@@ -17358,7 +17358,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>State</type>
                 <maintype>State</maintype>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/back/8/2/82613de6-ed37-48c1-8d2f-d91a3f496794.jpg?1739184127">DFT</set>
+            <set picURL="https://cards.scryfall.io/large/front/8/2/82613de6-ed37-48c1-8d2f-d91a3f496794.jpg?1739184127">DFT</set>
             <related attach="transform">Max Speed</related>
             <reverse-related>Aether Syphon</reverse-related>
             <reverse-related>Amonkhet Raceway</reverse-related>
@@ -17409,7 +17409,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>State</type>
                 <maintype>State</maintype>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/8/2/82613de6-ed37-48c1-8d2f-d91a3f496794.jpg?1739184127">DFT</set>
+            <set picURL="https://cards.scryfall.io/large/back/8/2/82613de6-ed37-48c1-8d2f-d91a3f496794.jpg?1739184127">DFT</set>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
