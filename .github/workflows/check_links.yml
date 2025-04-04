@@ -55,7 +55,7 @@ jobs:
         if: steps.tokens_pic_urls.outcome == 'success'
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --no-progress --require-https --cache --max-cache-age 8h -- ${{ github.workspace }}/lychee/url_list.md
+          args: --no-progress --require-https --cache --max-cache-age 8h ./lychee/url_list.md
           jobSummary: true
 
     #  # Fallback if dump not working (TODO)
