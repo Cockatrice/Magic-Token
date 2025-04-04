@@ -56,7 +56,7 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           args: --no-progress --require-https --cache --max-cache-age 8h -- url_list.md
-          workingDirectory: /lychee
+          workingDirectory: lychee
           jobSummary: true
 
     #  # Fallback if dump not working (TODO)
