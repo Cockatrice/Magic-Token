@@ -53,11 +53,11 @@ jobs:
       # Check dumped URLs
       - name: Check token art URLs
         if: steps.tokens_pic_urls.outcome == 'success'
-        working-directory: ./lychee
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --no-progress --require-https /url_list.md
+          args: --no-progress --require-https url_list.md
           jobSummary: true
+          workingDirectory: ./lychee
 
     #  # Fallback if dump not working (TODO)
     #  - name: Check token art URLs
