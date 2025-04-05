@@ -3293,9 +3293,9 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
             <reverse-related>Broodmate Dragon</reverse-related>
             <reverse-related count="x">Descent of the Dragons</reverse-related>
             <reverse-related>Dragon Cultist</reverse-related>
-            <reverse-related>Dragonback Assault</reverse-related>
             <reverse-related>Dragon Trainer</reverse-related>
             <reverse-related>Dragon Whisperer</reverse-related>
+            <reverse-related>Dragonback Assault</reverse-related>
             <reverse-related>Rith, Liberated Primeval</reverse-related>
             <reverse-related exclude="exclude">Rohgahh, Kher Keep Overlord</reverse-related>
             <reverse-related count="x" exclude="exclude">Rohgahh, Kher Keep Overlord</reverse-related>
@@ -5417,9 +5417,9 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <set picURL="https://cards.scryfall.io/large/front/0/6/062043de-a199-408d-8d77-09531ad38b16.jpg?1737835990">LGN</set>
             <set picURL="https://cards.scryfall.io/large/front/f/b/fbd728ed-d5dc-44b3-9159-6c86cab3be0c.jpg?1691108799">UGL</set>
             <reverse-related>A Killer Among Us</reverse-related>
-            <reverse-related>Ardoz, Cobbler of War</reverse-related>
             <reverse-related>Ainok Strike Leader</reverse-related>
             <reverse-related count="x" exclude="exclude">Ainok Strike Leader</reverse-related>
+            <reverse-related>Ardoz, Cobbler of War</reverse-related>
             <reverse-related>Battle Cry Goblin</reverse-related>
             <reverse-related count="2">Beetleback Chief</reverse-related>
             <reverse-related count="x">Box of Free-Range Goblins</reverse-related>
@@ -11379,8 +11379,8 @@ When this creature dies, create fourteen Treasure tokens.</text>
             <reverse-related count="3">Elspeth Tirel</reverse-related>
             <reverse-related count="3">Elspeth's Talent</reverse-related>
             <reverse-related>Elspeth, Knight-Errant</reverse-related>
-            <reverse-related count="3">Elspeth, Sun's Champion</reverse-related>
             <reverse-related count="2">Elspeth, Storm Slayer</reverse-related>
+            <reverse-related count="3">Elspeth, Sun's Champion</reverse-related>
             <reverse-related count="x">Entrapment Maneuver</reverse-related>
             <reverse-related count="x">Evangel of Heliod</reverse-related>
             <reverse-related count="3">Even the Odds</reverse-related>
