@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20250405</sourceVersion>
+        <sourceVersion>20250501b</sourceVersion>
     </info>
     <cards>
         <!--
@@ -16885,9 +16885,12 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
             <reverse-related exclude="exclude">Spontaneous Artist</reverse-related>
             <reverse-related exclude="exclude">Static Prison</reverse-related>
             <reverse-related exclude="exclude">Stone Idol Generator</reverse-related>
+            <reverse-related exclude="exclude">Synth Eradicator</reverse-related>
+            <reverse-related exclude="exclude">T-45 Power Armor</reverse-related>
             <reverse-related exclude="exclude">Tempest Harvester</reverse-related>
             <reverse-related exclude="exclude">Territorial Aetherkite</reverse-related>
             <reverse-related exclude="exclude">Territorial Gorger</reverse-related>
+            <reverse-related exclude="exclude">The Motherlode, Excavator</reverse-related>
             <reverse-related exclude="exclude">Thriving Grubs</reverse-related>
             <reverse-related exclude="exclude">Thriving Ibex</reverse-related>
             <reverse-related exclude="exclude">Thriving Rats</reverse-related>
@@ -16896,6 +16899,8 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
             <reverse-related exclude="exclude">Thriving Turtle</reverse-related>
             <reverse-related exclude="exclude">Tune the Narrative</reverse-related>
             <reverse-related exclude="exclude">Unstable Amulet</reverse-related>
+            <reverse-related exclude="exclude">Vault 112: Sadistic Simulation</reverse-related>
+            <reverse-related exclude="exclude">Volatile Stormdrake</reverse-related>
             <reverse-related exclude="exclude">Voltaic Brawler</reverse-related>
             <reverse-related exclude="exclude">Voltstorm Angel</reverse-related>
             <reverse-related exclude="exclude">Wheel of Potential</reverse-related>
