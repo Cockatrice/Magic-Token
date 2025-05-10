@@ -17190,7 +17190,8 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
         </card>
         <card>
             <name>CRANK!</name>
-            <text>At the beginning of your upkeep, if you control a Contraption, move the CRANK! counter to your next sprocket and crank any number of that sprocket's Contraptions. (Sprocket 1 follows Sprocket 3.)</text>
+            <text>Start the game with a CRANK! counter on Sprocket 3.
+At the beginning of your upkeep, if you control a Contraption, move the CRANK! counter to your next sprocket and crank any number of that sprocket's Contraptions. (Sprocket 1 follows Sprocket 3.)</text>
             <prop>
                 <type>State</type>
                 <maintype>State</maintype>
