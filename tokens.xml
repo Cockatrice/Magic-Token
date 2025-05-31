@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20250531b</sourceVersion>
+        <sourceVersion>20250531c</sourceVersion>
     </info>
     <cards>
         <!--
@@ -2027,7 +2027,7 @@ Whenever this creature attacks, target attacking creature gains flying until end
                 <pt>4/4</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/d/9/d945177b-a94f-4d05-8d4c-d03afb04acf5.jpg?1738355145">DRC</set>
-            <set picURL="https://cards.scryfall.io/large/front/6/5/65eebe6c-5bc9-463c-b74c-eae79fc3c1b6.jpg?1562639835">HOU</set>
+            <set picURL="https://cards.scryfall.io/large/front/6/5/65eebe6c-5bc9-463c-b74c-eae79fc3c1b6.jpg?1746945763">HOU</set>
             <reverse-related>Champion of Wits</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4801,10 +4801,10 @@ When this creature enters, target creature you control gains flying until end of
             <set picURL="https://cards.scryfall.io/large/front/0/1/01136e91-1ad3-4e01-8f7e-2718c3a9da27.jpg?1675456902">UNF</set>
             <set picURL="https://cards.scryfall.io/large/front/3/7/37e32ba6-108a-421f-9dad-3d03f7ebe239.jpg?1641306206">MH2</set>
             <set picURL="https://cards.scryfall.io/large/front/9/6/965bef73-eb93-4512-91b4-bf2ce7d27d42.jpg?1641306116">C21</set>
-            <set picURL="https://cards.scryfall.io/large/front/b/f/bf36408d-ed85-497f-8e68-d3a922c388a0.jpg?1572489210">ELD</set>
+            <set picURL="https://cards.scryfall.io/large/front/b/f/bf36408d-ed85-497f-8e68-d3a922c388a0.jpg?1744533637">ELD</set>
             <set picURL="https://cards.scryfall.io/large/front/1/3/13e8f518-1c0d-4c01-a397-71481839d02b.jpg?1674409652">ELD</set>
-            <set picURL="https://cards.scryfall.io/large/front/4/6/46582e55-c6f4-46e4-a78e-2c586ca4cf4d.jpg?1572489226">ELD</set>
-            <set picURL="https://cards.scryfall.io/large/front/2/6/261aed78-2d57-4ed4-b3d2-53b139b6bd44.jpg?1572489232">ELD</set>
+            <set picURL="https://cards.scryfall.io/large/front/4/6/46582e55-c6f4-46e4-a78e-2c586ca4cf4d.jpg?1744533628">ELD</set>
+            <set picURL="https://cards.scryfall.io/large/front/2/6/261aed78-2d57-4ed4-b3d2-53b139b6bd44.jpg?1744533616">ELD</set>
             <reverse-related>Academy Manufactor</reverse-related>
             <reverse-related>Apothecary White</reverse-related>
             <reverse-related count="x" exclude="exclude">Apothecary White</reverse-related>
@@ -5380,7 +5380,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <set picURL="https://cards.scryfall.io/large/front/5/1/51782bd0-178e-40e2-9c4f-8ea4e8e11345.jpg?1675905868">ONC</set>
             <set picURL="https://cards.scryfall.io/large/front/f/9/f9b8316a-ec6d-43de-a1c5-6ef3c5c53146.jpg?1675198651">DMR</set>
             <set picURL="https://cards.scryfall.io/large/front/1/2/128511d0-bc4c-48d9-9e8e-9c7c945cfaeb.jpg?1675456250">DMU</set>
-            <set picURL="https://cards.scryfall.io/large/front/4/b/4b02577e-62ec-4716-8e4c-51630cf1d49e.jpg?1651801113">NEC</set>
+            <set picURL="https://cards.scryfall.io/large/front/4/b/4b02577e-62ec-4716-8e4c-51630cf1d49e.jpg?1742836399">NEC</set>
             <set picURL="https://cards.scryfall.io/large/front/1/4/1425e965-7eea-419c-a7ec-c8169fa9edbf.jpg?1641306248">AFR</set>
             <set picURL="https://cards.scryfall.io/large/front/4/1/41268b47-df00-41db-92d7-991c7945e4c6.jpg?1641306189">MH2</set>
             <set picURL="https://cards.scryfall.io/large/front/2/3/234007e2-624f-42d0-af7f-9788f9f35fab.jpg?1641306034">TSR</set>
@@ -7174,7 +7174,7 @@ When this creature leaves the battlefield, return target card named Ozox, the Cl
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/6/2/62c4a6f6-6425-4c0c-b35a-880fcab42aad.jpg?1707358305">PIP</set>
+            <set picURL="https://cards.scryfall.io/large/front/6/2/62c4a6f6-6425-4c0c-b35a-880fcab42aad.jpg?1743257964">PIP</set>
             <reverse-related>Boomer Scrapper</reverse-related>
             <reverse-related>Break Down</reverse-related>
             <reverse-related>C.A.M.P.</reverse-related>
@@ -7918,7 +7918,7 @@ Umbra armor</text>
                 <maintype>Enchantment</maintype>
                 <cmc>0</cmc>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/b/2/b21b5504-c5ef-4dfc-8219-8db90aca7694.jpg?1592709997">C18</set>
+            <set picURL="https://cards.scryfall.io/large/front/b/2/b21b5504-c5ef-4dfc-8219-8db90aca7694.jpg?1746945607">C18</set>
             <reverse-related>Estrid, the Masked</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -8470,7 +8470,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/8/f/8f712a61-12c3-4d8e-93be-2b00dce4acbc.jpg?1738523116">DRC</set>
+            <set picURL="https://cards.scryfall.io/large/front/8/f/8f712a61-12c3-4d8e-93be-2b00dce4acbc.jpg?1742027086">DRC</set>
             <reverse-related>Pia Nalaar, Chief Mechanic</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -9632,7 +9632,7 @@ Creatures you control attack each combat if able.</text>
                 <cmc>0</cmc>
                 <pt>4/2</pt>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/d/5/d5f108e7-7454-4c11-b1de-97d0bcc3c470.jpg?1692830519">WOC</set>
+            <set picURL="https://cards.scryfall.io/large/front/d/5/d5f108e7-7454-4c11-b1de-97d0bcc3c470.jpg?1743775077">WOC</set>
             <reverse-related>Nettling Nuisance</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -10951,7 +10951,7 @@ Deathtouch</text>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/5/1/513f2ce9-0127-4479-b37a-a835fbada8f8.jpg?1562639802">HOU</set>
+            <set picURL="https://cards.scryfall.io/large/front/5/1/513f2ce9-0127-4479-b37a-a835fbada8f8.jpg?1746945735">HOU</set>
             <reverse-related>Sinuous Striker</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -12643,7 +12643,7 @@ Equip {2}</text>
                 <cmc>0</cmc>
                 <pt>2/1</pt>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/6/c/6c2e835c-0f39-4fd1-a839-125bee0c9dbc.jpg?1562844800">AKH</set>
+            <set picURL="https://cards.scryfall.io/large/front/6/c/6c2e835c-0f39-4fd1-a839-125bee0c9dbc.jpg?1746945737">AKH</set>
             <reverse-related>Tah-Crop Skirmisher</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -14828,7 +14828,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/f/1/f10d5813-7818-43e8-b08d-4ed8c54d0366.jpg?1742583287">TDM</set>
+            <set picURL="https://cards.scryfall.io/large/front/f/1/f10d5813-7818-43e8-b08d-4ed8c54d0366.jpg?1748452772">TDM</set>
             <reverse-related>Adorned Crocodile</reverse-related>
             <reverse-related>Essence Anchor</reverse-related>
             <reverse-related count="2">Sultai Monument</reverse-related>
@@ -16406,7 +16406,7 @@ Whenever your Ring-bearer deals combat damage to a player, each opponent loses 3
                 <type>Emblem</type>
                 <maintype>Emblem</maintype>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/7/2/7215460e-8c06-47d0-94e5-d1832d0218af.jpg?1688215133">LTR</set>
+            <set picURL="https://cards.scryfall.io/large/front/7/2/7215460e-8c06-47d0-94e5-d1832d0218af.jpg?1742651318">LTR</set>
             <related>The Ring Tempts You</related>
             <reverse-related exclude="exclude">Bilbo, Retired Burglar</reverse-related>
             <reverse-related>Birthday Escape</reverse-related>
@@ -17915,7 +17915,7 @@ As the Ring tempts you, you get an emblem named The Ring if you don't have one. 
                 <type>Token</type>
                 <maintype>Token</maintype>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/back/7/2/7215460e-8c06-47d0-94e5-d1832d0218af.jpg?1688215133">LTR</set>
+            <set picURL="https://cards.scryfall.io/large/back/7/2/7215460e-8c06-47d0-94e5-d1832d0218af.jpg?1742651318">LTR</set>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
