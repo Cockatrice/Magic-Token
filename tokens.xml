@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20250518</sourceVersion>
+        <sourceVersion>20250531</sourceVersion>
     </info>
     <cards>
         <!--
@@ -1780,7 +1780,6 @@ Whenever this creature attacks, target attacking creature gains flying until end
                 <pt>2/2</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/d/1/d16213b5-c0da-4a24-9f2e-b9432652859e.jpg?1730485573">FDN</set>
-            <set picURL="https://cards.scryfall.io/large/front/3/0/30b76845-4e3d-488e-bf8f-904b3410cbd6.jpg?1692830335">WOC</set>
             <set picURL="https://cards.scryfall.io/large/front/d/5/d5b3ed0c-1044-4662-9785-04d8503f1fbf.jpg?1689975700">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/1/1/11011596-4aa1-48a7-90d8-36cb7b27c711.jpg?1675957554">ONE</set>
             <set picURL="https://cards.scryfall.io/large/front/d/b/db1b2c60-c995-441a-a3d6-20220d6cb7f1.jpg?1620573744">CMR</set>
@@ -4286,7 +4285,6 @@ This creature's power and toughness are each equal to the number of instant and 
             <set picURL="https://cards.scryfall.io/large/front/f/0/f0a8841d-1d2d-429f-a14d-bb2251dbf898.jpg?1721427744">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/9/f/9f2f4fec-ad7b-4407-b288-615ec40c4980.jpg?1717193909">M3C</set>
             <set picURL="https://cards.scryfall.io/large/front/2/b/2be112a9-0c95-4b38-a94f-cfb87791f06e.jpg?1698873798">LCC</set>
-            <set picURL="https://cards.scryfall.io/large/front/5/1/5172ff86-3e04-437d-b262-427af8b3af05.jpg?1692830392">WOC</set>
             <set picURL="https://cards.scryfall.io/large/front/f/b/fb9a8f49-5b72-4480-ac58-904b7707ac0b.jpg?1689972269">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/b/3/b3067337-9c65-45cc-9b9f-7de6109b8c1f.jpg?1682211080">MOC</set>
             <set picURL="https://cards.scryfall.io/large/front/0/3/0305cc06-f0c2-4ac1-8717-9720cb97d269.jpg?1675905872">ONC</set>
@@ -6264,7 +6262,6 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <maintype>Creature</maintype>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/f/c/fcd8c14e-c989-4200-b95e-228c1b28038e.jpg?1692830354">WOC</set>
             <set picURL="https://cards.scryfall.io/large/front/8/6/86dd086e-c757-4a6a-8838-51860f2095f8.jpg?1674338555">NEO</set>
             <reverse-related>Careful Cultivation</reverse-related>
             <reverse-related>Jugan Defends the Temple</reverse-related>
@@ -11992,7 +11989,6 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/e/f/ef77c8eb-aa24-46d5-8036-6651c7602383.jpg?1717191953">MH3</set>
             <set picURL="https://cards.scryfall.io/large/front/f/4/f4588570-bde4-4c2f-8469-81a3e15fb57b.jpg?1706217407">MKM</set>
-            <set picURL="https://cards.scryfall.io/large/front/0/7/07a0c31c-9ddf-440b-9b07-5cd6f6fc27eb.jpg?1692830426">WOC</set>
             <set picURL="https://cards.scryfall.io/large/front/2/6/265d196a-eaf5-42b0-aa76-f30a75a74e3a.jpg?1689883431">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/6/d/6d02a57e-6c76-491c-85f8-8f4d825be2c2.jpg?1682207085">MOM</set>
             <set picURL="https://cards.scryfall.io/large/front/8/d/8dc14fc0-5c53-4381-ae55-1fb22d0f4148.jpg?1641306109">C21</set>
