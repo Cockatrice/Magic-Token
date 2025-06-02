@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20250531c</sourceVersion>
+        <sourceVersion>20250602</sourceVersion>
     </info>
     <cards>
         <!--
@@ -1841,7 +1841,6 @@ Whenever this creature attacks, target attacking creature gains flying until end
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/9/0/902fba98-92b7-461b-ac6e-29cb2c4e307f.jpg?1738355211">DFT</set>
             <set picURL="https://cards.scryfall.io/large/front/8/6/86701490-17ac-4253-810d-6cfd7a46594c.jpg?1730485666">FDN</set>
-            <set picURL="https://cards.scryfall.io/large/front/b/9/b93ed798-245a-46d6-8964-1aebc290008d.jpg?1692830136">WOC</set>
             <set picURL="https://cards.scryfall.io/large/front/d/7/d754e09c-efc0-4536-9f2a-6bd7e2f860ab.jpg?1591225552">IKO</set>
             <set picURL="https://cards.scryfall.io/large/front/b/3/b31f1580-5bba-4cef-b0c8-f2837a597b7d.jpg?1562702272">M19</set>
             <set picURL="https://cards.scryfall.io/large/front/a/f/af0086cd-56b5-450e-818c-e54f45d1a104.jpg?1562844817">AKH</set>
