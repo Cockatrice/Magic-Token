@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20250602</sourceVersion>
+        <sourceVersion>20250608</sourceVersion>
     </info>
     <cards>
         <!--
@@ -16989,24 +16989,7 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
-        <card>
-            <name>Sorceror // Virtuous</name>
-            <text>Enchant creature
-Enchanted creature gets +1/+1 and has "Whenever this creature attacks, scry 1."
 
----
-
-Enchant creature
-Enchanted creature gets +1/+1 for each enchantment you control.</text>
-            <prop>
-                <type>Token Enchantment — Aura Role // Token Enchantment — Aura Role</type>
-                <maintype>Enchantment</maintype>
-                <cmc>0</cmc>
-            </prop>
-            <set picURL="https://cards.scryfall.io/large/front/4/3/43146a16-0044-491c-b0a9-657ba8e37427.jpg?1696162712">WOC</set>
-            <token>1</token>
-            <tablerow>1</tablerow>
-        </card>
         <!--The below tokens are reminder tokens for keeping track of counters.-->
         <card>
             <name>Acorn Stash</name>
