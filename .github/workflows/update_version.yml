@@ -5,10 +5,11 @@ on:
     branches: [ master ]
     paths:
       - 'tokens.xml'
+      - 'version.txt'
 
 concurrency:
-  group: version-bump-${{ github.ref }}
-  cancel-in-progress: false
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: ${{ !contains(github.ref, '/master') }}
 
 jobs:
   update_version:
