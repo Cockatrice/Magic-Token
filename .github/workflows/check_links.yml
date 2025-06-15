@@ -54,32 +54,44 @@ jobs:
           args: --no-progress --require-https --cache --max-cache-age 8h -- url_list.md
           jobSummary: true
 
-      # List some helpful stats on missing pictures
+      # List helpful stats on missing pictures
       - name: List missing image link counts
         shell: bash
         run: |
-          echo "❌ **Missing Image Links (<kbd>master</kbd> branch)**" >> $GITHUB_STEP_SUMMARY
-          echo "Token with missing \`set\` element: [![](https://img.shields.io/badge/dynamic/xml?label=&colorB=white&query=count%28%2F%2Fcard%5Bnot%28set%29%5D%29&url=https%3A%2F%2Fraw.githubusercontent.com%2FCockatrice%2FMagic-Token%2Fmaster%2Ftokens.xml)](https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml)" >> $GITHUB_STEP_SUMMARY
-          echo "Missing picURL attribute (\`<set>\`): [![](https://img.shields.io/badge/dynamic/xml?label=&colorB=white&query=count%28%2F%2Fset%29-count%28%2F%2Fset%5B%40picURL%5D%29&url=https%3A%2F%2Fraw.githubusercontent.com%2FCockatrice%2FMagic-Token%2Fmaster%2Ftokens.xml)](https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml)" >> $GITHUB_STEP_SUMMARY
-          echo "Empty picURL value (\`<set picURL=\"\">\`): [![](https://img.shields.io/badge/dynamic/xml?label=&colorB=white&query=count%28%2F%2Fset%5B%40picURL%3D%22%22%5D%29&url=https%3A%2F%2Fraw.githubusercontent.com%2FCockatrice%2FMagic-Token%2Fmaster%2Ftokens.xml)](https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml)" >> $GITHUB_STEP_SUMMARY
+          {
+            echo "❌ **Missing Image Links (<kbd>master</kbd> Branch)**"
+            echo "| Count | Description |"
+            echo "|------:|:------------|"
+            echo "| [![](https://img.shields.io/badge/dynamic/xml?label=&colorB=white&query=count%28%2F%2Fcard%5Bnot%28set%29%5D%29&url=https%3A%2F%2Fraw.githubusercontent.com%2FCockatrice%2FMagic-Token%2Fmaster%2Ftokens.xml)](https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml) | Tokens with missing \`set\` element |"
+            echo "| [![](https://img.shields.io/badge/dynamic/xml?label=&colorB=white&query=count%28%2F%2Fset%29-count%28%2F%2Fset%5B%40picURL%5D%29&url=https%3A%2F%2Fraw.githubusercontent.com%2FCockatrice%2FMagic-Token%2Fmaster%2Ftokens.xml)](https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml) | Set elements with missing picURL attribute (\`<set>\`) |"
+            echo "| [![](https://img.shields.io/badge/dynamic/xml?label=&colorB=white&query=count%28%2F%2Fset%5B%40picURL%3D%22%22%5D%29&url=https%3A%2F%2Fraw.githubusercontent.com%2FCockatrice%2FMagic-Token%2Fmaster%2Ftokens.xml)](https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml) | Set elements with empty picURL value (\`<set picURL=\"\">\`) |"
+          } >> $GITHUB_STEP_SUMMARY
 
       # Analyse extracted links (1/2)
       - name: List duplicated image links
         if: steps.tokens_pic_urls.outcome == 'success'
         shell: bash
-        # Remove empty lines | trim trailing integers (Scryfall) | sort | count and list duplicates
         run: |
-          echo "🪞 **Duplicated Image Links**" >> $GITHUB_STEP_SUMMARY
-          grep . url_list.md | sed 's/\.jpg?.*/.jpg/' | sort | uniq -cd >> $GITHUB_STEP_SUMMARY
+          {
+            echo "🪞 **Duplicated Image Links**"
+            echo "| Count | Image URL |"
+            echo "|------:|:----------|"
+            # Remove empty lines | trim trailing integers (Scryfall) | sort | count and list only duplicates with numbers | sort descending | print md table
+            grep . url_list.md | sed 's/\.jpg?.*/.jpg/' | sort | uniq -cd | sort -nr | awk '{printf "| %5s | %s |\n", $1, $2}'
+          } >> $GITHUB_STEP_SUMMARY
 
       # Analyse extracted links (2/2)
       - name: List image hosting sources
         if: steps.tokens_pic_urls.outcome == 'success'
         shell: bash
-        # Extract 3rd field (domain name) | remove empty lines | sort | count duplicates and list with numbers | sort descending
         run: |
-          echo "📶 **Image Hosting Statistics**" >> $GITHUB_STEP_SUMMARY
-          awk -F/ '{print $3}' url_list.md | grep . | sort | uniq -c | sort -nr >> $GITHUB_STEP_SUMMARY
+          {
+            echo "📶 **Image Hosting Statistics**"
+            echo "| Count | Domain |"
+            echo "|------:|:-------|"
+            # Extract 3rd field (domain name) | remove empty lines | sort | count and list with numbers | sort descending | print md table
+            awk -F/ '{print $3}' url_list.md | grep . | sort | uniq -c | sort -nr | awk '{printf "| %5s | %s |\n", $1, $2}'
+          } >> $GITHUB_STEP_SUMMARY
 
       # Always save cache
       - name: Save lychee cache
