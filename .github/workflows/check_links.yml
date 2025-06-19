@@ -42,7 +42,7 @@ jobs:
         id: tokens_pic_urls
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --dump --exclude www.w3.org -- tokens.xml
+          args: --dump -- tokens.xml
           output: url_list.md
           jobSummary: false
 
