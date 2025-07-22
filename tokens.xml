@@ -934,6 +934,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/b/3b584d93-5681-4ecd-953c-5ef58307caab.jpg?1752946408">EOC</set>
             <set picURL="https://cards.scryfall.io/large/front/f/0/f0aba72c-4dd1-47e5-a447-e074d0ab4ba1.jpg?1743110011">TDC</set>
             <set picURL="https://cards.scryfall.io/large/front/b/6/b6c4b4a7-d9f0-4bd8-bb45-fecf48256dca.jpg?1738355168">DRC</set>
             <set picURL="https://cards.scryfall.io/large/front/c/a/ca697323-bdc8-4fa0-a0ba-c2dd4deff68c.jpg?1730485687">FDN</set>
@@ -1009,6 +1010,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/b/eb243b20-85e6-4eba-9403-42272975e8a5.jpg?1752946415">EOC</set>
             <set picURL="https://cards.scryfall.io/large/front/2/1/21bd6fb3-f60c-49cc-8854-6a20a1e1d9c7.jpg?1730485687">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/d/f/df60cd9d-44f3-41d3-8ed3-b511bdee3fc6.jpg?1721427709">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/6/9/690641ed-abc6-499f-b650-d6e79d412631.jpg?1717193848">M3C</set>
@@ -1027,6 +1029,8 @@ Creature tokens you control have flying and vigilance.</text>
             <set picURL="https://cards.scryfall.io/large/front/7/6/76b5e455-053d-4a86-93b2-2436b554b638.jpg?1562636821">ZEN</set>
             <set picURL="https://cards.scryfall.io/large/front/c/e/ce45e037-5efb-4735-afee-12d7dc3127d1.jpg?1561758106">ODY</set>
             <reverse-related>Baloth Cage Trap</reverse-related>
+            <reverse-related>Baloth Prime</reverse-related>
+            <reverse-related count="x" exclude="exclude">Baloth Prime</reverse-related>
             <reverse-related>Beast Attack</reverse-related>
             <reverse-related>Combine Chrysalis</reverse-related>
             <reverse-related>Herd Baloth</reverse-related>
@@ -1349,6 +1353,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/a/2a3d4bf9-2107-4686-8df5-cd7c934d0691.jpg?1752946401">EOC</set>
             <set picURL="https://cards.scryfall.io/large/front/e/0/e0796ccd-b8ba-49c9-b76b-4fce55c242dc.jpg?1721427206">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/e/7/e7222593-5ade-4512-bfee-6126d4d0cc19.jpg?1717190162">MH3</set>
             <set picURL="https://cards.scryfall.io/large/front/c/8/c813d283-c996-4f85-afaa-7702414a1197.jpg?1686264248">LTC</set>
@@ -2270,6 +2275,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/5/15866ed4-1ca3-427f-99ba-ee26ede9ae18.jpg?1752946432">EOC</set>
             <set picURL="https://cards.scryfall.io/large/front/6/e/6e886e0b-2ce7-4231-a47c-a39bda50e8fd.jpg?1749245699">FIC</set>
             <set picURL="https://cards.scryfall.io/large/front/5/1/5117d654-dabb-4f97-b3d7-b6e1e3157758.jpg?1721428139">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/e/6/e604b9ca-6c5a-459e-b509-955c3428530a.jpg?1717191994">MH3</set>
@@ -3523,6 +3529,23 @@ When this creature leaves the battlefield, each opponent loses 2 life and you ga
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Drone Token </name>
+            <text>Flying
+This token can block only creatures with flying.</text>
+            <prop>
+                <type>Token Artifact Creature — Drone</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/f/3fcf8950-117a-4587-8522-79001dffa500.jpg?1752946472">EOE</set>
+            <reverse-related>Desculpting Blast</reverse-related>
+            <reverse-related>Pinnacle Emissary</reverse-related>
+            <reverse-related>Station Monitor</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Dwarf Berserker Token</name>
             <prop>
                 <colors>R</colors>
@@ -4095,6 +4118,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>5/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/b/0b0229d7-8635-4509-b141-12787af32855.jpg?1752946416">EOC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/1/41af35a0-90c0-401c-ab44-b02e3129aa8b.jpg?1726237285">DSC</set>
             <set picURL="https://cards.scryfall.io/large/front/a/1/a15220f0-ae87-42c8-9dbc-f386a0f03789.jpg?1712319858">OTC</set>
             <set picURL="https://cards.scryfall.io/large/front/e/e/ee793f2e-f5e0-4cdb-b620-6959ff4b6541.jpg?1699542025">BRC</set>
@@ -4150,6 +4174,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/e/5e3552f9-1c22-46f7-b606-c8a59950bf75.jpg?1752946424">EOC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/4/448c05fc-8327-4c2a-aec2-fa08e297002d.jpg?1712319964">OTC</set>
             <set picURL="https://cards.scryfall.io/large/front/e/d/ed666385-a2e7-4e1f-ad2c-babbfc0c50b3.jpg?1562640123">BFZ</set>
             <reverse-related>Omnath, Locus of Rage</reverse-related>
@@ -5321,6 +5346,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/3/e32673cc-bec9-49b3-bc34-e2b3982ca245.jpg?1752946433">EOC</set>
             <set picURL="https://cards.scryfall.io/large/front/a/2/a257ae72-2a82-4861-a2fb-a0a09be00646.jpg?1712317852">BIG</set>
             <set picURL="https://cards.scryfall.io/large/front/6/d/6def709a-53b3-4520-9544-74ab6472d256.jpg?1699017702">LCI</set>
             <set picURL="https://cards.scryfall.io/large/front/d/b/dbf33cc3-254f-4c5c-be22-3a2d96f29b80.jpg?1684573322">UST</set>
@@ -5696,6 +5722,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/b/c/bc1c56b2-69f3-42d9-81f4-3dbd40dd8f5d.jpg?1752946440">EOC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/0/406e2960-f560-48bb-b4a6-4bd35889a8f8.jpg?1712318018">BIG</set>
             <set picURL="https://cards.scryfall.io/large/front/9/6/96d831eb-8d5f-4436-bbc6-3d1a90f3d2ed.jpg?1682211141">MOC</set>
             <set picURL="https://cards.scryfall.io/large/front/7/b/7becaa04-f142-4163-9286-00018b95c4ca.jpg?1601138543">2XM</set>
@@ -5719,6 +5746,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>9/9</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/2/f2f589ac-991f-4f26-8fd4-0d903683f15a.jpg?1752946449">EOC</set>
             <set picURL="https://cards.scryfall.io/large/front/2/d/2d84926d-5892-4c62-a943-fac9f0ddc569.jpg?1561756844">MBS</set>
             <reverse-related>Titan Forge</reverse-related>
             <token>1</token>
@@ -5758,6 +5786,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/1/51cfd1dc-b7f8-418b-9a7a-76d887f83929.jpg?1752946442">EOC</set>
             <set picURL="https://cards.scryfall.io/large/front/d/c/dcee70ef-6285-4f09-8a71-8b7960e8fa99.jpg?1562636925">THS</set>
             <reverse-related>Hammer of Purphoros</reverse-related>
             <token>1</token>
@@ -6486,6 +6515,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/3/631c2c16-132d-4607-ab7e-207a6af188e5.jpg?1752946465">EOE</set>
             <set picURL="https://cards.scryfall.io/large/front/8/d/8dc05018-f1c5-4c45-bb32-9a9ccd641f48.jpg?1749245651">FIC</set>
             <set picURL="https://cards.scryfall.io/large/front/b/4/b4293d70-13d0-4540-af69-5afc79821102.jpg?1726236958">DSC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/8/48703f7a-98af-4cf1-9782-4f344eeb2066.jpg?1721427050">BLC</set>
@@ -6505,6 +6535,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related>Bastion of Remembrance</reverse-related>
             <reverse-related count="x">Call the Coppercoats</reverse-related>
             <reverse-related>Commanding Presence</reverse-related>
+            <reverse-related count="2">Cosmogrand Zenith</reverse-related>
             <reverse-related>Daysquad Marshal</reverse-related>
             <reverse-related>Denethor, Ruling Steward</reverse-related>
             <reverse-related count="2">Elspeth, Sun's Nemesis</reverse-related>
@@ -6515,9 +6546,11 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related>Garrison Cat</reverse-related>
             <reverse-related count="x">General's Enforcer</reverse-related>
             <reverse-related>Hero of the Nyxborn</reverse-related>
+            <reverse-related>Honored Knight-Captain</reverse-related>
             <reverse-related>Horn of Gondor</reverse-related>
             <reverse-related count="x" exclude="exclude">Horn of Gondor</reverse-related>
             <reverse-related count="x">Jirina Kudro</reverse-related>
+            <reverse-related>Knight Luminary</reverse-related>
             <reverse-related>Lossarnach Captain</reverse-related>
             <reverse-related>Nightsquad Commando</reverse-related>
             <reverse-related count="2">Oath of Eorl</reverse-related>
@@ -6526,6 +6559,8 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related>Protector of Gondor</reverse-related>
             <reverse-related>Quarrel's End</reverse-related>
             <reverse-related count="2">Rally at the Hornburg</reverse-related>
+            <reverse-related>Rayblade Trooper</reverse-related>
+            <reverse-related exclude="exclude" count="x">Rayblade Trooper</reverse-related>
             <reverse-related count="x">Reverent Hoplite</reverse-related>
             <reverse-related>Sigarda, Heron's Grace</reverse-related>
             <reverse-related>Siona, Captain of the Pyleas</reverse-related>
@@ -6942,6 +6977,7 @@ Equip {2}</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/c/5/c5229eb0-9356-43a6-9b1b-6366f3c1e405.jpg?1752946457">EOC</set>
             <set picURL="https://cards.scryfall.io/large/front/c/c/cca1decc-90fd-4df8-997e-52f8789032f8.jpg?1682207112">MOM</set>
             <related attach="transform">Phyrexian Token </related>
             <reverse-related>Assimilate Essence</reverse-related>
@@ -7196,9 +7232,12 @@ Equip {2}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/1/2172a126-2ea6-4b5c-84c2-7879c1982a3a.jpg?1752946407">EOC</set>
             <set picURL="https://cards.scryfall.io/large/front/c/4/c41933b2-a91f-4c43-8734-08fc3a392ac2.jpg?1675456210">DMC</set>
+            <reverse-related count="x">Eumidian Hatchery</reverse-related>
             <reverse-related>Fumulus, the Infestation</reverse-related>
             <reverse-related count="x" exclude="exclude">Fumulus, the Infestation</reverse-related>
+            <reverse-related>Scouring Swarm</reverse-related>
             <reverse-related>Xira, the Golden Sting</reverse-related>
             <reverse-related count="x" exclude="exclude">Xira, the Golden Sting</reverse-related>
             <token>1</token>
@@ -7832,6 +7871,38 @@ Flanking</text>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/3/0/30093c6e-505e-4902-b535-707e364059b4.jpg?1562639734">M15</set>
             <reverse-related>Goblin Kaboomist</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Lander Token</name>
+            <text>{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+            <prop>
+                <type>Token Artifact — Lander</type>
+                <maintype>Artifact</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/b/a/ba3b3b34-0ffa-41a4-8529-7b9d2946a1ac.jpg?1752946480">EOE</set>
+            <reverse-related>Beamsaw Prospector</reverse-related>
+            <reverse-related>Bioengineered Future</reverse-related>
+            <reverse-related exclude="exclude">Biomechan Engineer</reverse-related>
+            <reverse-related>Biotech Specialist</reverse-related>
+            <reverse-related>Dauntless Scrapbot</reverse-related>
+            <reverse-related>Divert Disaster</reverse-related>
+            <reverse-related count="x=2">Edge Rover</reverse-related>
+            <reverse-related>Emergency Eject</reverse-related>
+            <reverse-related>Galactic Wayfarer</reverse-related>
+            <reverse-related>Glacier Godmaw</reverse-related>
+            <reverse-related>Horizon Explorer</reverse-related>
+            <reverse-related>Kav Landseeker</reverse-related>
+            <reverse-related>Lithobraking</reverse-related>
+            <reverse-related>Orbital Plunge</reverse-related>
+            <reverse-related>Sami's Curiosity</reverse-related>
+            <reverse-related>Scrounge for Eternity</reverse-related>
+            <reverse-related>Seedship Agrarian</reverse-related>
+            <reverse-related>Seedship Impact</reverse-related>
+            <reverse-related>Sunstar Expansionist</reverse-related>
+            <reverse-related count="2">Terrapact Intimidator</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -8579,6 +8650,19 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Munitions</name>
+            <text>When this token leaves the battlefield, it deals 2 damage to any target.</text>
+            <prop>
+                <type>Token Artifact</type>
+                <maintype>Artifact</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/a/1/a16f931a-9fa3-45b1-8d54-04b6b5bf7b71.jpg?1752946495">EOE</set>
+            <reverse-related>Weapons Manufacturing</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Mutant Token</name>
             <text>Deathtouch</text>
             <prop>
@@ -9216,6 +9300,7 @@ Whenever a creature you control becomes the target of a spell or ability an oppo
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/c/f/cf9587a6-7497-4f49-a5d0-a19fdfd969aa.jpg?1752946424">EOC</set>
             <set picURL="https://cards.scryfall.io/large/front/2/b/2b613822-b9c2-439e-9533-a91bed12b5e9.jpg?1721428033">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/d/0/d0ddbe3e-4a66-494d-9304-7471232549bf.jpg?1682693901">STX</set>
             <reverse-related>Beledros Witherbloom</reverse-related>
@@ -9593,6 +9678,7 @@ This creature can't block.</text>
                 <cmc>0</cmc>
                 <pt>0/0</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/back/c/5/c5229eb0-9356-43a6-9b1b-6366f3c1e405.jpg?1752946457">EOC</set>
             <set picURL="https://cards.scryfall.io/large/back/c/c/cca1decc-90fd-4df8-997e-52f8789032f8.jpg?1682207112">MOM</set>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -10395,6 +10481,36 @@ When this token enters, it deals 3 damage to any target.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Robot Token  </name>
+            <prop>
+                <type>Token Artifact Creature — Robot</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/c/4/c46f9a07-005c-44b7-8057-b2f00b274dd6.jpg?1752946498">EOE</set>
+            <reverse-related>Auxiliary Boosters</reverse-related>
+            <reverse-related>Biomechan Engineer</reverse-related>
+            <reverse-related count="x" exclude="exclude">Biomechan Engineer</reverse-related>
+            <reverse-related>Dyadrine, Synthesis Amalgam</reverse-related>
+            <reverse-related>Elegy Acolyte</reverse-related>
+            <reverse-related>Eusocial Engineering</reverse-related>
+            <reverse-related count="x" exclude="exclude">Eusocial Engineering</reverse-related>
+            <reverse-related>Gravpack Monoist</reverse-related>
+            <reverse-related count="x">Infinite Guideline Station</reverse-related>
+            <reverse-related>Kavaron Harrier</reverse-related>
+            <reverse-related count="x" exclude="exclude">Kavaron Harrier</reverse-related>
+            <reverse-related>Kavaron, Memorial World</reverse-related>
+            <reverse-related>Mechan Assembler</reverse-related>
+            <reverse-related>Melded Moxite</reverse-related>
+            <reverse-related count="x">Pinnacle Starcage</reverse-related>
+            <reverse-related>Sami, Ship's Engineer</reverse-related>
+            <reverse-related>Secluded Starforge</reverse-related>
+            <reverse-related>Wedgelight Rammer</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Robot Warrior Token</name>
             <prop>
                 <colors>U</colors>
@@ -11006,6 +11122,7 @@ Deathtouch</text>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/0/30f46500-172a-40ce-9f8e-3738e764e3fa.jpg?1752946399">EOC</set>
             <set picURL="https://cards.scryfall.io/large/front/b/f/bf1aef3b-3b2b-4947-ba34-dc2fc616f7e0.jpg?1726237653">DSC</set>
             <reverse-related>Formless Genesis</reverse-related>
             <token>1</token>
@@ -11273,6 +11390,7 @@ Deathtouch</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/b/f/bf7501ee-783d-49c6-b381-1db056360b40.jpg?1752946465">EOE</set>
             <set picURL="https://cards.scryfall.io/large/front/0/0/00f50b09-3253-46a5-8639-5bc90c84b8e1.jpg?1689612301">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/5/8/586c179a-feda-475d-9e32-01b58e22c846.jpg?1682210831">MOC</set>
             <set picURL="https://cards.scryfall.io/large/front/d/e/dec96e95-5580-4110-86ec-561007ab0f1e.jpg?1562640084">M15</set>
@@ -11285,6 +11403,7 @@ Deathtouch</text>
             <reverse-related>Rukarumel, Biologist</reverse-related>
             <reverse-related>Sliver Hive</reverse-related>
             <reverse-related>Sliver Queen</reverse-related>
+            <reverse-related count="2">Thrumming Hivepool</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -13007,6 +13126,7 @@ This creature can't be enchanted.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/a/8a508e59-92e1-47e4-948a-5237df162dbb.jpg?1752946457">EOC</set>
             <set picURL="https://cards.scryfall.io/large/front/8/c/8cf7fb45-2454-4d3e-a79f-05a3eb8f4da1.jpg?1742506548">TDC</set>
             <set picURL="https://cards.scryfall.io/large/front/7/8/78e52380-13a1-44fe-b762-e71261cac3d0.jpg?1738355254">DFT</set>
             <set picURL="https://cards.scryfall.io/large/front/0/b/0bb68ae3-e74c-416f-a393-c42ad3f0312e.jpg?1721428230">BLC</set>
@@ -16644,6 +16764,18 @@ You draw a card during each opponent’s draw step.</text>
             <tablerow>1</tablerow>
         </card>
         <card>
+            <name>Tezzeret, Cruel Captain Emblem</name>
+            <text>At the beginning of combat on your turn, put three +1/+1 counters on target artifact you control. If it's not a creature, it becomes a 0/0 Robot artifact creature.</text>
+            <prop>
+                <type>Emblem</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/b/9/b97ae026-a3d3-4130-bf6f-aeeb3a1ab520.jpg?1752946502">EOE</set>
+            <reverse-related>Tezzeret, Cruel Captain</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>The Capitoline Triad Emblem</name>
             <text>Creatures you control have base power and toughness 9/9.</text>
             <prop>
@@ -16988,7 +17120,6 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
-
         <!--The below tokens are reminder tokens for keeping track of counters.-->
         <card>
             <name>Acorn Stash</name>
@@ -18127,6 +18258,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>Token</type>
                 <maintype>Token</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/9/09d6521e-438a-4d16-992f-f2ab27b26ce4.jpg?1752946393">EOC</set>
             <set picURL="https://cards.scryfall.io/large/front/f/c/fcde6a95-37f1-4bb4-9cea-5b65dbc9c76a.jpg?1749244795">FIN</set>
             <set picURL="https://cards.scryfall.io/large/front/4/5/45364163-62b7-4641-b2c9-c2e46d61335c.jpg?1742421113">TDM</set>
             <set picURL="https://cards.scryfall.io/large/front/f/c/fc586e46-b7d0-4c84-8678-3542cd390de1.jpg?1730485665">FDN</set>
