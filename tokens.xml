@@ -6060,6 +6060,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <reverse-related attach="attach">Astrologian's Planisphere</reverse-related>
             <reverse-related attach="attach">Bard's Bow</reverse-related>
             <reverse-related attach="attach">Black Mage's Rod</reverse-related>
+            <reverse-related attach="attach">Blue Mage's Cane</reverse-related>
             <reverse-related count="x">Champions from Beyond</reverse-related>
             <reverse-related attach="attach">Dancer's Chakrams</reverse-related>
             <reverse-related attach="attach">Dark Knight's Greatsword</reverse-related>
@@ -6070,10 +6071,13 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <reverse-related attach="attach">Machinist's Arsenal</reverse-related>
             <reverse-related>Magitek Armor</reverse-related>
             <reverse-related attach="attach">Monk's Fist</reverse-related>
+            <reverse-related attach="attach">Ninja's Blades</reverse-related>
             <reverse-related attach="attach">Paladin's Arms</reverse-related>
             <reverse-related attach="attach">Red Mage's Rapier</reverse-related>
+            <reverse-related attach="attach">Reaper's Scythe</reverse-related>
             <reverse-related attach="attach">Sage's Nouliths</reverse-related>
             <reverse-related attach="attach">Samurai's Katana</reverse-related>
+            <reverse-related attach="attach">Summoner's Grimoire</reverse-related>
             <reverse-related>Tellah, Great Sage</reverse-related>
             <reverse-related count="x" exclude="exclude">Tellah, Great Sage</reverse-related>
             <reverse-related count="4">The Crystal's Chosen</reverse-related>
