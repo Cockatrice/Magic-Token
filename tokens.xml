@@ -1489,9 +1489,9 @@ Whenever this creature attacks, target attacking creature gains flying until end
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/1/f/1fbc471d-5948-47fc-b7cc-81cc13a4cd15.jpg?1748704082">FIN</set>
             <reverse-related>Call the Mountain Chocobo</reverse-related>
+            <reverse-related>Choco-Comet</reverse-related>
             <reverse-related>Chocobo Racetrack</reverse-related>
             <reverse-related count="x" exclude="exclude">Chocobo Racetrack</reverse-related>
-            <reverse-related>Choco-Comet</reverse-related>
             <reverse-related>Gysahl Greens</reverse-related>
             <reverse-related>Sidequest: Raise a Chocobo</reverse-related>
             <reverse-related>Summon: Fat Chocobo</reverse-related>
@@ -13659,8 +13659,8 @@ This creature can't be enchanted.</text>
             <reverse-related>Prized Statue</reverse-related>
             <reverse-related>Prizefight</reverse-related>
             <reverse-related>Professional Face-Breaker</reverse-related>
-            <reverse-related>Prosper, Tome-Bound</reverse-related>
             <reverse-related>Prompto Argentum</reverse-related>
+            <reverse-related>Prosper, Tome-Bound</reverse-related>
             <reverse-related count="x" exclude="exclude">Prosperous Bandit</reverse-related>
             <reverse-related>Prosperous Innkeeper</reverse-related>
             <reverse-related exclude="exclude">Prosperous Partnership</reverse-related>
@@ -13730,8 +13730,8 @@ This creature can't be enchanted.</text>
             <reverse-related>Teval's Judgment</reverse-related>
             <reverse-related count="2">The Balrog of Moria</reverse-related>
             <reverse-related>The Belligerent</reverse-related>
-            <reverse-related>The Golden City of Orazca</reverse-related>
             <reverse-related>The Gold Saucer</reverse-related>
+            <reverse-related>The Golden City of Orazca</reverse-related>
             <reverse-related count="3">The Great Work</reverse-related>
             <reverse-related count="2">The Matrix of Time</reverse-related>
             <reverse-related count="x">The Reaver Cleaver</reverse-related>
