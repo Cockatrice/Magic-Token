@@ -4892,6 +4892,7 @@ When this creature enters, target creature you control gains flying until end of
                 <type>Token Artifact — Food</type>
                 <maintype>Artifact</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/f/0fb2c5a4-859e-40ac-8091-7ba44f57b878.jpg?1757379328">SPM</set>
             <set picURL="https://cards.scryfall.io/large/front/4/8/4853f6f5-476d-4109-a1c6-f98f4d332db3.jpg?1748704103">FIN</set>
             <set picURL="https://cards.scryfall.io/large/front/6/f/6f1077f8-9e2a-4155-a7f0-4604bc0f94e8.jpg?1733068734">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/0/d/0dce2241-e58b-41d4-b57c-9794fc8ee004.jpg?1721425221">BLB</set>
@@ -4927,6 +4928,7 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Cache Grab</reverse-related>
             <reverse-related exclude="exclude">Cat Collector</reverse-related>
             <reverse-related>Cirith Ungol Patrol</reverse-related>
+            <reverse-related>City Pigeon</reverse-related>
             <reverse-related>Concession Stand</reverse-related>
             <reverse-related>Crumb and Get It</reverse-related>
             <reverse-related>Curious Pair // Treats to Share</reverse-related>
@@ -4961,6 +4963,7 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related count="x">Gyome, Master Chef</reverse-related>
             <reverse-related>Hazel's Brewmaster</reverse-related>
             <reverse-related>Hollow Scavenger // Bakery Raid</reverse-related>
+            <reverse-related>Hot Dog Cart</reverse-related>
             <reverse-related>Hurska Sweet-Tooth</reverse-related>
             <reverse-related>Ignis Scientia</reverse-related>
             <reverse-related>Insatiable Frugivore</reverse-related>
@@ -5010,6 +5013,7 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Sorin, Ravenous Neonate</reverse-related>
             <reverse-related exclude="exclude">Spectrox Mines</reverse-related>
             <reverse-related>Spider Food</reverse-related>
+            <reverse-related>Spider-Ham, Peter Porker</reverse-related>
             <reverse-related>Stew the Coneys</reverse-related>
             <reverse-related>Survivor's Med Kit</reverse-related>
             <reverse-related>Sweettooth Witch</reverse-related>
@@ -6371,6 +6375,23 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Human Citizen Token</name>
+            <prop>
+                <colors>GW</colors>
+                <type>Token Creature — Human Citizen</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/9/398fbcd8-fac7-4396-9c69-5c72695121a9.jpg?1757379319">SPM</set>
+            <reverse-related count="3">Friendly Neighborhood</reverse-related>
+            <reverse-related>News Helicopter</reverse-related>
+            <reverse-related>Silk, Web Weaver</reverse-related>
+            <reverse-related>Spider-Girl, Legacy Hero</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Human Cleric Token</name>
             <prop>
                 <colors>WB</colors>
@@ -6863,6 +6884,20 @@ Equip {2}</text>
             <reverse-related>Svella, Ice Shaper</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Illusion Villain Token</name>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Illusion Villain</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/6/f67d6b6d-c57e-431f-ae80-a9658d628827.jpg?1757379299">SPM</set>
+            <reverse-related count="x">Mysterio, Master of Illusion</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
         </card>
         <card>
             <name>Illusion Token</name>
@@ -10515,6 +10550,21 @@ When this token enters, it deals 3 damage to any target.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Robot Token   </name>
+            <text>Flying</text>
+            <prop>
+                <type>Token Artifact Creature — Robot</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/5/15796c4b-6041-4e0a-bc4f-0518d165549e.jpg?1757379338">SPM</set>
+            <reverse-related count="2">Robotics Mastery</reverse-related>
+            <reverse-related count="2">Spider-Slayer, Hatred Honed</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Robot Warrior Token</name>
             <prop>
                 <colors>U</colors>
@@ -12119,6 +12169,24 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Spider Token      </name>
+            <text>Reach</text>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Spider</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/4/a/4a40f6e1-3545-4503-af3e-f0acfb735e3a.jpg?1757379309">SPM</set>
+            <reverse-related>Origin of Spider-Man</reverse-related>
+            <reverse-related>Peter Parker</reverse-related>
+            <reverse-related count="2">Spiders-Man, Heroic Horde</reverse-related>
+            <reverse-related>Wall Crawl</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Spike Token</name>
             <prop>
                 <colors>G</colors>
@@ -13397,6 +13465,7 @@ This creature can't be enchanted.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/5/d52efeb3-661d-45e9-97c3-af167f889684.jpg?1757379348">SPM</set>
             <set picURL="https://cards.scryfall.io/large/front/a/b/ab0cda01-10b5-4a1b-b2bb-ad8bb296590f.jpg?1748704105">FIN</set>
             <set picURL="https://cards.scryfall.io/large/front/9/c/9c8f66e1-4eab-4d51-b10e-9cedd607d709.jpg?1742421087">TDM</set>
             <set picURL="https://cards.scryfall.io/large/front/b/a/ba7638ef-114b-4055-9855-390f82b7d5c5.jpg?1738355257">DFT</set>
@@ -13483,6 +13552,7 @@ This creature can't be enchanted.</text>
             <reverse-related>City of Death</reverse-related>
             <reverse-related count="2">Cloud, Ex-SOLDIER</reverse-related>
             <reverse-related>Collector's Vault</reverse-related>
+            <reverse-related>Common Crook</reverse-related>
             <reverse-related>Contested Game Ball</reverse-related>
             <reverse-related count="2">Contract Killing</reverse-related>
             <reverse-related>Corsair Captain</reverse-related>
@@ -13557,6 +13627,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Great Train Heist</reverse-related>
             <reverse-related count="x" exclude="exclude">Great Train Heist</reverse-related>
             <reverse-related>Greedy Freebooter</reverse-related>
+            <reverse-related>Green Goblin, Nemesis</reverse-related>
             <reverse-related>Grim Bounty</reverse-related>
             <reverse-related count="2">Grim Hireling</reverse-related>
             <reverse-related count="2">Guild Artisan</reverse-related>
@@ -13583,6 +13654,8 @@ This creature can't be enchanted.</text>
             <reverse-related>Invasion of Ergamon</reverse-related>
             <reverse-related>Involuntary Employment</reverse-related>
             <reverse-related>Iron Man, Titan of Innovation</reverse-related>
+            <reverse-related>J. Jonah Jameson</reverse-related>
+            <reverse-related exclude="exclude" count="x">J. Jonah Jameson</reverse-related>
             <reverse-related count="2">Jan Jansen, Chaos Crafter</reverse-related>
             <reverse-related count="2" exclude="exclude">Jared Carthalion</reverse-related>
             <reverse-related>Jewel Thief</reverse-related>
@@ -13651,6 +13724,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Petty Larceny</reverse-related>
             <reverse-related>Pick-a-Beeble</reverse-related>
             <reverse-related count="2" exclude="exclude">Pick-a-Beeble</reverse-related>
+            <reverse-related>Pictures of Spider-Man</reverse-related>
             <reverse-related>Piggy Bank</reverse-related>
             <reverse-related>Pinkie Pie</reverse-related>
             <reverse-related count="2">Pirate's Pillage</reverse-related>
@@ -13663,6 +13737,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Prized Statue</reverse-related>
             <reverse-related>Prizefight</reverse-related>
             <reverse-related>Professional Face-Breaker</reverse-related>
+            <reverse-related>Professional Wrestler</reverse-related>
             <reverse-related>Prompto Argentum</reverse-related>
             <reverse-related>Prosper, Tome-Bound</reverse-related>
             <reverse-related count="x" exclude="exclude">Prosperous Bandit</reverse-related>
@@ -13750,6 +13825,7 @@ This creature can't be enchanted.</text>
             <reverse-related count="3">Treasure Map</reverse-related>
             <reverse-related count="x">Treasure Vault</reverse-related>
             <reverse-related>Trove of Temptation</reverse-related>
+            <reverse-related>Ultimate Green Goblin</reverse-related>
             <reverse-related>Undercity Dire Rat</reverse-related>
             <reverse-related>Undercity Scrounger</reverse-related>
             <reverse-related count="2">Unexpected Windfall</reverse-related>
@@ -18262,6 +18338,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>Token</type>
                 <maintype>Token</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/9/e980eddf-92f8-4dc4-8bad-b2f3dcaf03ef.jpg?1757379290">SPM</set>
             <set picURL="https://cards.scryfall.io/large/front/0/9/09d6521e-438a-4d16-992f-f2ab27b26ce4.jpg?1752946393">EOC</set>
             <set picURL="https://cards.scryfall.io/large/front/f/c/fcde6a95-37f1-4bb4-9cea-5b65dbc9c76a.jpg?1749244795">FIN</set>
             <set picURL="https://cards.scryfall.io/large/front/4/5/45364163-62b7-4641-b2c9-c2e46d61335c.jpg?1742421113">TDM</set>
