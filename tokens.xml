@@ -6886,20 +6886,6 @@ Equip {2}</text>
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Illusion Villain Token</name>
-            <prop>
-                <colors>U</colors>
-                <type>Token Creature — Illusion Villain</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>3/3</pt>
-            </prop>
-            <set picURL="https://cards.scryfall.io/large/front/f/6/f67d6b6d-c57e-431f-ae80-a9658d628827.jpg?1757379299">SPM</set>
-            <reverse-related count="x">Mysterio, Master of Illusion</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
             <name>Illusion Token</name>
             <prop>
                 <colors>U</colors>
@@ -6990,6 +6976,20 @@ Equip {2}</text>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/4/2/42a6bc0b-e76d-4c45-b39d-0186d9bc9c42.jpg?1641306328">AFC</set>
             <reverse-related>Minn, Wily Illusionist</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Illusion Villain Token</name>
+            <prop>
+                <colors>U</colors>
+                <type>Token Creature — Illusion Villain</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/6/f67d6b6d-c57e-431f-ae80-a9658d628827.jpg?1757379299">SPM</set>
+            <reverse-related count="x">Mysterio, Master of Illusion</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
