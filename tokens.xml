@@ -15952,14 +15952,13 @@ Throne of the Dead Three — Reveal the top ten cards of your library. Put a cre
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Arlinn Kord Emblem</name>
+            <name>Arlinn, Embraced by the Moon Emblem</name>
             <text>Creatures you control have haste and "{T}: This creature deals damage equal to its power to target creature or player."</text>
             <prop>
                 <type>Emblem — Arlinn</type>
                 <maintype>Emblem</maintype>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/b/b/bb0686c3-a44a-449d-ab12-eeb9c0c25489.jpg?1562086879">SOI</set>
-            <reverse-related exclude="exclude">Arlinn Kord</reverse-related>
             <reverse-related exclude="exclude">Arlinn, Embraced by the Moon</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
