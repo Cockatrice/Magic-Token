@@ -18239,7 +18239,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Bounty: Paq, Fleeting Fil Cher</name>
+            <name>Bounty: Paq, Fleeting Filcher</name>
             <text>At the beginning of your end step, if there are four or more card types among cards in your graveyard, collect your reward.</text>
             <prop>
                 <type>Bounty</type>
@@ -18251,7 +18251,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Bounty: Ris Sa "Blades" Lee</name>
+            <name>Bounty: Rissa "Blades" Lee</name>
             <text>At the beginning of your end step, if you cast an instant or sorcery spell this turn while you had two or more instant and/or sorcery cards in your graveyard, collect your reward.</text>
             <prop>
                 <type>Bounty</type>
@@ -18275,7 +18275,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Bounty: Squeakers of the Sly</name>
+            <name>Bounty: Squeakers the Sly</name>
             <text>At the beginning of your end step, if a legendary creature you controlled attacked alone this turn, collect your reward.</text>
             <prop>
                 <type>Bounty</type>
