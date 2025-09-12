@@ -12613,6 +12613,7 @@ Whenever you draw a card, put a +1/+1 counter on this creature.</text>
                 <type>Token Creature — Spirit</type>
                 <maintype>Creature</maintype>
                 <cmc>0</cmc>
+                <pt>2/2</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/3/4/349e3241-8f9d-4c52-9848-e01b575fd372.jpg?1675455446">BRO</set>
             <reverse-related>Teferi, Temporal Pilgrim</reverse-related>
