@@ -15653,7 +15653,7 @@ Equip {1}</text>
         <card>
             <name>Zombie Token      </name>
             <prop>
-                <colors>B</colors>
+                <colors>U</colors>
                 <type>Token Creature — Zombie</type>
                 <maintype>Creature</maintype>
                 <cmc>0</cmc>
