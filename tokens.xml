@@ -611,7 +611,7 @@ Whenever this creature deals damage to a planeswalker, destroy that planeswalker
         </card>
         <card>
             <name>Astartes Warrior Token</name>
-            <text>Menance</text>
+            <text>Menace</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Astartes Warrior</type>
@@ -1659,7 +1659,7 @@ Whenever this creature attacks, target attacking creature gains flying until end
         </card>
         <card>
             <name>Boo</name>
-            <text>Trample, Haste</text>
+            <text>Trample, haste</text>
             <prop>
                 <colors>R</colors>
                 <type>Token Legendary Creature — Hamster</type>
@@ -9060,7 +9060,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
         </card>
         <card>
             <name>Ooze Token      </name>
-            <text>This creature's power is equal to the number of card types among cards in your graveyard and it's toughness is equal to that number plus 1.</text>
+            <text>This creature's power is equal to the number of card types among cards in your graveyard and its toughness is equal to that number plus 1.</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Ooze</type>
@@ -9920,7 +9920,7 @@ Creatures you control attack each combat if able.</text>
         </card>
         <card>
             <name>Pirate Token   </name>
-            <text>This creature can't block</text>
+            <text>This creature can't block.</text>
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Pirate</type>
@@ -12124,7 +12124,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
         </card>
         <card>
             <name>Spider Token   </name>
-            <text>Menace, Reach</text>
+            <text>Menace, reach</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Spider</type>
@@ -16623,7 +16623,7 @@ Whenever an opponent draws a card, this emblem deals 1 damage to them.</text>
         </card>
         <card>
             <name>Rowan, Scholar of Sparks Emblem</name>
-            <text>Whenver you cast an instant or sorcery spell, you may pay {2}. If you do, copy that spell. You may choose new targets for the copy.</text>
+            <text>Whenever you cast an instant or sorcery spell, you may pay {2}. If you do, copy that spell. You may choose new targets for the copy.</text>
             <prop>
                 <type>Emblem — Rowan</type>
                 <maintype>Emblem</maintype>
@@ -17827,7 +17827,7 @@ If a player casts at least two spells during their own turn, it becomes day next
         <card>
             <name>The Initiative</name>
             <text>Whenever one or more creatures a player controls deal combat damage to you, that player takes the initiative.
-When you take the initiative and at the beginning of your upkeep, venture into Undercity. (If you're in a dungeon, advance to the next room. If you're not, enter Undercity. You can take the initiative even if you already have it.</text>
+When you take the initiative and at the beginning of your upkeep, venture into Undercity. (If you're in a dungeon, advance to the next room. If you're not, enter Undercity. You can take the initiative even if you already have it.)</text>
             <prop>
                 <type>State</type>
                 <maintype>State</maintype>
