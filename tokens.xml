@@ -6706,7 +6706,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
         </card>
         <card>
             <name>Human Token  </name>
-            <text>Ward 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)</text>
+            <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Human</type>
@@ -14834,7 +14834,7 @@ Equip {1}</text>
         </card>
         <card>
             <name>Wizard Token   </name>
-            <text>T: Add {R}. Spend this mana only to cast a planeswalker spell.</text>
+            <text>{T}: Add {R}. Spend this mana only to cast a planeswalker spell.</text>
             <prop>
                 <colors>R</colors>
                 <type>Token Creature — Wizard</type>
@@ -16414,7 +16414,7 @@ Whenever an opponent draws a card, this emblem deals 1 damage to them.</text>
         </card>
         <card>
             <name>Liliana of the Dark Realms Emblem</name>
-            <text>Swamps you control have 'Tap: Add {B}{B}{B}{B}.'</text>
+            <text>Swamps you control have '{T}: Add {B}{B}{B}{B}.'</text>
             <prop>
                 <type>Emblem — Liliana</type>
                 <maintype>Emblem</maintype>
