@@ -13400,7 +13400,7 @@ This creature can't be enchanted.</text>
         </card>
         <card>
             <name>Timeless Witness (Token)</name>
-            <text>When Timeless Witness enters the battlefield, return target card from your graveyard to your hand</text>
+            <text>When Timeless Witness enters the battlefield, return target card from your graveyard to your hand.</text>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature — Zombie Human Shaman</type>
