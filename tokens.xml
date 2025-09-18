@@ -769,6 +769,7 @@ Creature tokens you control have flying and vigilance.</text>
         </card>
         <card>
             <name>Ballistic Boulder</name>
+            <text>Flying</text>
             <prop>
                 <type>Token Artifact Creature — Construct</type>
                 <maintype>Creature</maintype>
