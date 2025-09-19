@@ -2619,7 +2619,7 @@ Cloud Sprite can block only creatures with flying.</text>
         </card>
         <card>
             <name>Coruscation Mage (Token)</name>
-            <text>Whenever you cast a noncreature spell, this creature deals 1 damage to opponent.
+            <text>Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent.
 (This token's mana cost is {1}{R}.)</text>
             <prop>
                 <colors>R</colors>
@@ -11496,7 +11496,8 @@ When this creature dies, create fourteen Treasure tokens.</text>
         </card>
         <card>
             <name>Smoke Blessing</name>
-            <text>When enchanted creature dies, it deals 1 damage to its controller and you create a Treasure token.</text>
+            <text>Enchant creature
+When enchanted creature dies, it deals 1 damage to its controller and you create a Treasure token.</text>
             <prop>
                 <colors>R</colors>
                 <type>Token Enchantment — Aura</type>
@@ -17702,7 +17703,7 @@ At the beginning of your upkeep, if you control a Contraption, move the CRANK! c
         </card>
         <card>
             <name>Day</name>
-            <text>(If it becomes day or night or a daybound permanent enters the battlefield, track day/night for the rest of the game.)
+            <text>(If it becomes day or night or if a daybound permanent enters the battlefield, track day/night for the rest of the game.)
 As it becomes day, transform all nightbound permanents.
 If a player casts no spells during their own turn, it becomes night next turn.</text>
             <prop>
