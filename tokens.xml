@@ -13085,7 +13085,8 @@ Equip {2}</text>
         </card>
         <card>
             <name>Temmet, Vizier of Naktamun (Token)</name>
-            <text>At the beginning of combat on your turn, target creature token you control gets +1/+1 until end of turn and can't be blocked this turn.</text>
+            <text>Temmet, Vizier of Naktamun is legendary.
+At the beginning of combat on your turn, target creature token you control gets +1/+1 until end of turn and can’t be blocked this turn.</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Legendary Creature — Zombie Human Cleric</type>
@@ -13965,6 +13966,7 @@ Sacrifice this creature: This creature deals 1 damage to target creature or play
         </card>
         <card>
             <name>Tuktuk the Returned</name>
+            <text>Tuktuk the Returned is legendary.</text>
             <prop>
                 <type>Token Legendary Artifact Creature — Goblin Golem</type>
                 <maintype>Creature</maintype>
