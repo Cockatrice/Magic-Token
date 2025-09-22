@@ -6051,7 +6051,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
         </card>
         <card>
             <name>Heart-Piercer Manticore (Token)</name>
-            <text>When Heart-Piercer Manticore enters the battlefield, you may sacrifice another creature. When you do, Heart-Piercer Manticore deals damage equal to that creature's power to target creature or player.</text>
+            <text>When Heart-Piercer Manticore enters the battlefield, you may sacrifice another creature. When you do, Heart-Piercer Manticore deals damage equal to that creature's power to any target.</text>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature — Zombie Manticore</type>
@@ -13921,7 +13921,7 @@ This creature's power and toughness are each equal to the number of lands you co
         <card>
             <name>Triskelavite Token</name>
             <text>Flying
-Sacrifice this creature: This creature deals 1 damage to target creature or player.</text>
+Sacrifice this creature: This creature deals 1 damage to any target.</text>
             <prop>
                 <type>Token Artifact Creature — Triskelavite</type>
                 <maintype>Creature</maintype>
@@ -15958,7 +15958,7 @@ Throne of the Dead Three — Reveal the top ten cards of your library. Put a cre
         </card>
         <card>
             <name>Arlinn, Embraced by the Moon Emblem</name>
-            <text>Creatures you control have haste and "{T}: This creature deals damage equal to its power to target creature or player."</text>
+            <text>Creatures you control have haste and "{T}: This creature deals damage equal to its power to any target."</text>
             <prop>
                 <type>Emblem — Arlinn</type>
                 <maintype>Emblem</maintype>
@@ -16259,7 +16259,7 @@ Whenever an opponent draws a card, this emblem deals 1 damage to them.</text>
         </card>
         <card>
             <name>Jace, Telepath Unbound Emblem</name>
-            <text>Whenever you cast a spell, target opponent puts the top five cards of his or her library into his or her graveyard.</text>
+            <text>Whenever you cast a spell, target opponent puts the top five cards of their library into their graveyard.</text>
             <prop>
                 <type>Emblem — Jace</type>
                 <maintype>Emblem</maintype>
@@ -16271,7 +16271,7 @@ Whenever an opponent draws a card, this emblem deals 1 damage to them.</text>
         </card>
         <card>
             <name>Jace, Unraveler of Secrets Emblem</name>
-            <text>Whenever an opponent casts his or her first spell each turn, counter that spell.</text>
+            <text>Whenever an opponent casts their first spell each turn, counter that spell.</text>
             <prop>
                 <type>Emblem — Jace</type>
                 <maintype>Emblem</maintype>
@@ -16393,7 +16393,7 @@ Whenever an opponent draws a card, this emblem deals 1 damage to them.</text>
         </card>
         <card>
             <name>Koth of the Hammer Emblem</name>
-            <text>Mountains you control have 'Tap: This land deals 1 damage to target creature or player.'</text>
+            <text>Mountains you control have 'Tap: This land deals 1 damage to any target.'</text>
             <prop>
                 <type>Emblem — Koth</type>
                 <maintype>Emblem</maintype>
