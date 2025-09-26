@@ -17844,12 +17844,12 @@ If a player casts at least two spells during their own turn, it becomes day next
             <reverse-related attach="attach">Bygone Colossus</reverse-related>
             <reverse-related attach="attach">Codecracker Hound</reverse-related>
             <reverse-related attach="attach">Drix Fatemaker</reverse-related>
-            <reverse-related attach="attach">Eusocial Engineering</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Eusocial Engineering</reverse-related>
             <reverse-related attach="attach">Exalted Sunborn</reverse-related>
             <reverse-related attach="attach">Germinating Wurm</reverse-related>
             <reverse-related>Gravitic Herald</reverse-related>
             <reverse-related attach="attach">Haliya, Guided by Light</reverse-related>
-            <reverse-related attach="attach">Knight Luminary</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Knight Luminary</reverse-related>
             <reverse-related attach="attach">Loading Zone</reverse-related>
             <reverse-related attach="attach">Mechanozoa</reverse-related>
             <reverse-related attach="attach">Memorial Team Leader</reverse-related>
@@ -17857,13 +17857,13 @@ If a player casts at least two spells during their own turn, it becomes day next
             <reverse-related attach="attach">Network Marauder</reverse-related>
             <reverse-related attach="attach">Nova Hellkite</reverse-related>
             <reverse-related attach="attach">Perigee Beckoner</reverse-related>
-            <reverse-related attach="attach">Pinnacle Emissary</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Pinnacle Emissary</reverse-related>
             <reverse-related attach="attach">Possibility Technician</reverse-related>
             <reverse-related attach="attach">Quantum Riddler</reverse-related>
-            <reverse-related attach="attach">Rayblade Trooper</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Rayblade Trooper</reverse-related>
             <reverse-related attach="attach">Red Tiger Mechan</reverse-related>
             <reverse-related attach="attach">Sinister Cryologist</reverse-related>
-            <reverse-related attach="attach">Sliver Weftwinder</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Sliver Weftwinder</reverse-related>
             <reverse-related exclude="exclude">Sliver Weftwinder</reverse-related>
             <reverse-related attach="attach">Spirited Simulacrum</reverse-related>
             <reverse-related attach="attach">Starbreach Whale</reverse-related>
