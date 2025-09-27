@@ -17830,7 +17830,7 @@ If a player casts at least two spells during their own turn, it becomes day next
         </card>
         <card>
             <name>In the Weft</name>
-            <text>(After a permanent becomes warped, you can place the exiled card here. You may cast that spell from exile.)</text>
+            <text>After a permanent becomes warped, you can place the exiled card here. You may cast that spell from exile.</text>
             <prop>
                 <type>State</type>
                 <maintype>State</maintype>
