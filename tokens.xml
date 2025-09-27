@@ -10033,7 +10033,7 @@ Creatures you control attack each combat if able.</text>
         </card>
         <card>
             <name>Powerstone Token</name>
-            <text>{T}: Add {C}. This mana can't be spent to cast nonartifact spells.</text>
+            <text>{T}: Add {C}. This mana can't be spent to cast a nonartifact spell.</text>
             <prop>
                 <type>Token Artifact — Powerstone</type>
                 <maintype>Artifact</maintype>
@@ -16455,7 +16455,7 @@ Whenever an opponent draws a card, this emblem deals 1 damage to them.</text>
         </card>
         <card>
             <name>Liliana, Waker of the Dead Emblem</name>
-            <text>At the beginning of combat on your turn, put target creature from a graveyard onto the battlefield under your control. It gains haste.</text>
+            <text>At the beginning of combat on your turn, put target creature card from a graveyard onto the battlefield under your control. It gains haste.</text>
             <prop>
                 <type>Emblem</type>
                 <maintype>Emblem</maintype>
@@ -18316,7 +18316,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
         </card>
         <card>
             <name>Companion </name>
-            <text>As each game begins, you can place any one card with companion here if your starting deck meets its condition. You may cast it once from here.</text>
+            <text>As each game begins, you can place one card with companion here if your starting deck meets its condition. You may cast it once from here.</text>
             <prop>
                 <type>Companion</type>
                 <maintype>Companion</maintype>
@@ -18373,8 +18373,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <text>The Ring Tempts You
 As the Ring tempts you, you get an emblem named The Ring if you don't have one. Then your emblem gains its next ability and you choose a creature you control to become or remain your Ring-bearer.
 • The Ring can tempt you even if you don't control a creature.
-• The Ring gains its abilities in order from top to bottom.
-• Once it gains an ability, it has that ability for the rest of the game.
+• The Ring gains its abilities in order from top to bottom. Once it gains an ability, it has that ability for the rest of the game.
 • Each time the Ring tempts you, you must choose a creature if you control one.
 • Each player can have only one emblem named The Ring and only one Ring-bearer at a time.</text>
             <prop>
