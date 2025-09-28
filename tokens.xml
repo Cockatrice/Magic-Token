@@ -17835,7 +17835,7 @@ If a player casts at least two spells during their own turn, it becomes day next
                 <type>State</type>
                 <maintype>State</maintype>
             </prop>
-            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/In%20the%20Weft.png?raw=true">EOE</set>
+            <set picURL="https://raw.githubusercontent.com/SlightlyCircuitous/image-storage/refs/heads/main/In%20the%20Weft.png">EOE</set>
             <reverse-related attach="attach">All-Fates Stalker</reverse-related>
             <reverse-related attach="attach">Anticausal Vestige</reverse-related>
             <reverse-related attach="attach">Astelli Reclaimer</reverse-related>
