@@ -17863,8 +17863,8 @@ If a player casts at least two spells during their own turn, it becomes day next
             <reverse-related attach="attach" exclude="exclude">Rayblade Trooper</reverse-related>
             <reverse-related attach="attach">Red Tiger Mechan</reverse-related>
             <reverse-related attach="attach">Sinister Cryologist</reverse-related>
-            <reverse-related attach="attach" exclude="exclude">Sliver Weftwinder</reverse-related>
             <reverse-related exclude="exclude">Sliver Weftwinder</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Sliver Weftwinder</reverse-related>
             <reverse-related attach="attach">Spirited Simulacrum</reverse-related>
             <reverse-related attach="attach">Starbreach Whale</reverse-related>
             <reverse-related attach="attach">Starfield Shepherd</reverse-related>
