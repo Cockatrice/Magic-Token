@@ -17829,6 +17829,57 @@ If a player casts at least two spells during their own turn, it becomes day next
             <tablerow>1</tablerow>
         </card>
         <card>
+            <name>In the Weft</name>
+            <text>After a permanent becomes warped, you can place the exiled card here. You may cast that spell from exile.</text>
+            <prop>
+                <type>State</type>
+                <maintype>State</maintype>
+            </prop>
+            <set picURL="https://raw.githubusercontent.com/SlightlyCircuitous/image-storage/refs/heads/main/In%20the%20Weft.png">EOE</set>
+            <reverse-related attach="attach">All-Fates Stalker</reverse-related>
+            <reverse-related attach="attach">Anticausal Vestige</reverse-related>
+            <reverse-related attach="attach">Astelli Reclaimer</reverse-related>
+            <reverse-related attach="attach">Axavar, Fate Thief</reverse-related>
+            <reverse-related attach="attach">Broodguard Elite</reverse-related>
+            <reverse-related attach="attach">Bygone Colossus</reverse-related>
+            <reverse-related attach="attach">Codecracker Hound</reverse-related>
+            <reverse-related attach="attach">Drix Fatemaker</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Eusocial Engineering</reverse-related>
+            <reverse-related attach="attach">Exalted Sunborn</reverse-related>
+            <reverse-related attach="attach">Germinating Wurm</reverse-related>
+            <reverse-related>Gravitic Herald</reverse-related>
+            <reverse-related attach="attach">Haliya, Guided by Light</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Knight Luminary</reverse-related>
+            <reverse-related attach="attach">Loading Zone</reverse-related>
+            <reverse-related attach="attach">Mechanozoa</reverse-related>
+            <reverse-related attach="attach">Memorial Team Leader</reverse-related>
+            <reverse-related attach="attach">Mightform Harmonizer</reverse-related>
+            <reverse-related attach="attach">Network Marauder</reverse-related>
+            <reverse-related attach="attach">Nova Hellkite</reverse-related>
+            <reverse-related attach="attach">Perigee Beckoner</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Pinnacle Emissary</reverse-related>
+            <reverse-related attach="attach">Possibility Technician</reverse-related>
+            <reverse-related attach="attach">Quantum Riddler</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Rayblade Trooper</reverse-related>
+            <reverse-related attach="attach">Red Tiger Mechan</reverse-related>
+            <reverse-related attach="attach">Sinister Cryologist</reverse-related>
+            <reverse-related exclude="exclude">Sliver Weftwinder</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Sliver Weftwinder</reverse-related>
+            <reverse-related attach="attach">Spirited Simulacrum</reverse-related>
+            <reverse-related attach="attach">Starbreach Whale</reverse-related>
+            <reverse-related attach="attach">Starfield Shepherd</reverse-related>
+            <reverse-related attach="attach">Starfield Vocalist</reverse-related>
+            <reverse-related attach="attach">Starwinder</reverse-related>
+            <reverse-related attach="attach">Susurian Voidborn</reverse-related>
+            <reverse-related>Tannuk, Steadfast Second</reverse-related>
+            <reverse-related attach="attach">Timeline Culler</reverse-related>
+            <reverse-related attach="attach">Voidcalled Devotee</reverse-related>
+            <reverse-related attach="attach">Weftblade Enhancer</reverse-related>
+            <reverse-related attach="attach">Weftstalker Ardent</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>The Initiative</name>
             <text>Whenever one or more creatures a player controls deal combat damage to you, that player takes the initiative.
 When you take the initiative and at the beginning of your upkeep, venture into Undercity. (If you're in a dungeon, advance to the next room. If you're not, enter Undercity. You can take the initiative even if you already have it.)</text>
