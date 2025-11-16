@@ -265,6 +265,46 @@ Whenever an opponent casts a creature spell, this permanent isn't a creature unt
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Ally Token</name>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Ally</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/8/f842c52a-04b6-4625-ba58-45b043ada340.jpg?1762594645">TLA</set>
+            <reverse-related count="x">Aang and Katara</reverse-related>
+            <reverse-related count="x">Aang, Airbending Master</reverse-related>
+            <reverse-related>Allied Teamwork</reverse-related>
+            <reverse-related>Appa, Steadfast Guardian</reverse-related>
+            <reverse-related count="2">Founding of Omashu</reverse-related>
+            <reverse-related count="x">Gather the White Lotus</reverse-related>
+            <reverse-related attach="attach">Hook Swords</reverse-related>
+            <reverse-related>Invasion Reinforcements</reverse-related>
+            <reverse-related>Iroh, Tea Master</reverse-related>
+            <reverse-related>Jasmine Dragon Tea Shop</reverse-related>
+            <reverse-related>Katara, Water Tribe's Hope</reverse-related>
+            <reverse-related attach="attach">Kyoshi Battle Fan</reverse-related>
+            <reverse-related>Kyoshi Warriors</reverse-related>
+            <reverse-related>Loyal Fire Sage</reverse-related>
+            <reverse-related>Match the Odds</reverse-related>
+            <reverse-related>Path to Redemption</reverse-related>
+            <reverse-related>Pretending Poxbearers</reverse-related>
+            <reverse-related>Sokka and Suki</reverse-related>
+            <reverse-related count="x" exclude="exclude">Sokka and Suki</reverse-related>
+            <reverse-related>Sokka, Tenacious Tactician</reverse-related>
+            <reverse-related>Suki, Courageous Rescuer</reverse-related>
+            <reverse-related>Suki, Kyoshi Warrior</reverse-related>
+            <reverse-related>Sun Warriors</reverse-related>
+            <reverse-related count="2">The Cave of Two Lovers</reverse-related>
+            <reverse-related>Tolls of War</reverse-related>
+            <reverse-related>Treetop Freedom Fighters</reverse-related>
+            <reverse-related count="x">United Front</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Angel of Sanctions (Token)</name>
             <text>Flying
 When Angel of Sanctions enters the battlefield, you may exile target nonland permanent an opponent controls until Angel of Sanctions leaves the battlefield.</text>
@@ -776,7 +816,9 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>2/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/b/0b1b8ff0-0b1e-4a55-a937-fde7ec15c41a.jpg?1762595496">TLA</set>
             <set picURL="https://cards.scryfall.io/large/front/b/9/b9d70342-9d3c-44cb-9026-db5e5941b9fc.jpg?1694737403">LTR</set>
+            <reverse-related>Fire Navy Trebuchet</reverse-related>
             <reverse-related>Mordor Trebuchet</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -921,8 +963,10 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/d/1dbbdb0f-57a4-4b85-ba5c-1383f0efb3af.jpg?1762595401">TLA</set>
             <set picURL="https://cards.scryfall.io/large/front/c/a/ca3dae7d-3880-4c0a-acfb-8fd227cf9fab.jpg?1562640044">KTK</set>
             <reverse-related>Bear's Companion</reverse-related>
+            <reverse-related>The Earth King</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -2276,6 +2320,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/8/98bdb578-e81e-40f9-9c06-b2867158baef.jpg?1762595562">TLA</set>
             <set picURL="https://cards.scryfall.io/large/front/1/5/15866ed4-1ca3-427f-99ba-ee26ede9ae18.jpg?1752946432">EOC</set>
             <set picURL="https://cards.scryfall.io/large/front/6/e/6e886e0b-2ce7-4231-a47c-a39bda50e8fd.jpg?1749245699">FIC</set>
             <set picURL="https://cards.scryfall.io/large/front/5/1/5117d654-dabb-4f97-b3d7-b6e1e3157758.jpg?1721428139">BLC</set>
@@ -2303,12 +2348,14 @@ Cloud Sprite can block only creatures with flying.</text>
             <set picURL="https://cards.scryfall.io/large/front/b/2/b2d16818-7812-4d36-b1bf-fb954e5ac958.jpg?1562086877">SOI</set>
             <set picURL="https://cards.scryfall.io/large/front/3/d/3d66ec9c-7e5d-47ca-bce4-46798152d1f4.jpg?1562086865">SOI</set>
             <reverse-related>Academy Manufactor</reverse-related>
+            <reverse-related>Air Nomad Legacy</reverse-related>
             <reverse-related>Alquist Proft, Master Sleuth</reverse-related>
             <reverse-related>Angelic Sleuth</reverse-related>
             <reverse-related count="x" exclude="exclude">Angelic Sleuth</reverse-related>
             <reverse-related>Antarctic Research Base</reverse-related>
             <reverse-related count="2">Armed with Proof</reverse-related>
             <reverse-related>Auspicious Arrival</reverse-related>
+            <reverse-related>Azula, On the Hunt</reverse-related>
             <reverse-related>Ballroom</reverse-related>
             <reverse-related>Bearer of Overwhelming Truths</reverse-related>
             <reverse-related>Billiard Room</reverse-related>
@@ -2317,6 +2364,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Briarbridge Tracker</reverse-related>
             <reverse-related>Bygone Bishop</reverse-related>
             <reverse-related>Byway Courier</reverse-related>
+            <reverse-related>Callous Inspector</reverse-related>
             <reverse-related count="4">Carnage Interpreter</reverse-related>
             <reverse-related>Case of the Filched Falcon</reverse-related>
             <reverse-related>Case of the Pilfered Proof</reverse-related>
@@ -2327,6 +2375,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Confront the Unknown</reverse-related>
             <reverse-related exclude="exclude">Confront the Unknown</reverse-related>
             <reverse-related>Conservatory</reverse-related>
+            <reverse-related>Cunning Maneuver</reverse-related>
             <reverse-related>Curious Inquiry</reverse-related>
             <reverse-related>Declaration in Stone</reverse-related>
             <reverse-related>Deduce</reverse-related>
@@ -2347,12 +2396,15 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related count="2">Ezrim, Agency Chief</reverse-related>
             <reverse-related>Fae Offering</reverse-related>
             <reverse-related>Fateful Absence</reverse-related>
+            <reverse-related>Fire Nation Raider</reverse-related>
+            <reverse-related>Fire Nation Warship</reverse-related>
             <reverse-related>Fleeting Memories</reverse-related>
             <reverse-related>Floodhound</reverse-related>
             <reverse-related>Flotsam // Jetsam</reverse-related>
             <reverse-related>Follow the Bodies</reverse-related>
             <reverse-related count="x" exclude="exclude">Follow the Bodies</reverse-related>
             <reverse-related>Foreboding Steamboat</reverse-related>
+            <reverse-related>Forecasting Fortune Teller</reverse-related>
             <reverse-related>Forensic Gadgeteer</reverse-related>
             <reverse-related>Foul Play</reverse-related>
             <reverse-related exclude="exclude">Fugitive of the Judoon</reverse-related>
@@ -2375,14 +2427,18 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Inquisitor Greyfax</reverse-related>
             <reverse-related>Jace's Scrutiny</reverse-related>
             <reverse-related count="x">James, Wandering Dad // Follow Him</reverse-related>
+            <reverse-related>Jet's Brainwashing</reverse-related>
+            <reverse-related>June, Bounty Hunter</reverse-related>
             <reverse-related>Kellan, Inquisitive Prodigy // Tail the Suspect</reverse-related>
             <reverse-related>Kitchen</reverse-related>
+            <reverse-related>Knowledge Seeke</reverse-related>
             <reverse-related>Lavinia, Foil to Conspiracy</reverse-related>
             <reverse-related>Lazav, Wearer of Faces</reverse-related>
             <reverse-related>Library</reverse-related>
             <reverse-related>Lonis, Cryptozoologist</reverse-related>
             <reverse-related exclude="exclude">Lonis, Cryptozoologist</reverse-related>
             <reverse-related>Lord Jyscal Guado</reverse-related>
+            <reverse-related>Lost Days</reverse-related>
             <reverse-related>Lounge</reverse-related>
             <reverse-related>Loxodon Eavesdropper</reverse-related>
             <reverse-related>Madame Vastra</reverse-related>
@@ -2391,6 +2447,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Martha Jones</reverse-related>
             <reverse-related>Meddling Youths</reverse-related>
             <reverse-related>Merchant of Truth</reverse-related>
+            <reverse-related>Messenger Hawk</reverse-related>
             <reverse-related>Mistway Spy</reverse-related>
             <reverse-related count="x" exclude="exclude">Mistway Spy</reverse-related>
             <reverse-related>Morska, Undersea Sleuth</reverse-related>
@@ -2398,6 +2455,8 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related count="x" exclude="exclude">Nick Valentine, Private Eye</reverse-related>
             <reverse-related>No Witnesses</reverse-related>
             <reverse-related>Novice Inspector</reverse-related>
+            <reverse-related count="x">Nyla, Shirshu Sleuth</reverse-related>
+            <reverse-related>Obsessive Pursuit</reverse-related>
             <reverse-related count="x">Officious Interrogation</reverse-related>
             <reverse-related>On the Job</reverse-related>
             <reverse-related>Ongoing Investigation</reverse-related>
@@ -2407,6 +2466,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Persuasive Interrogators</reverse-related>
             <reverse-related count="x">Piper Wright, Publick Reporter</reverse-related>
             <reverse-related>Press for Answers</reverse-related>
+            <reverse-related>Raven Eagle</reverse-related>
             <reverse-related>Root Out</reverse-related>
             <reverse-related>Rory Williams</reverse-related>
             <reverse-related>Sally Sparrow</reverse-related>
@@ -2418,6 +2478,8 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Serene Sleuth</reverse-related>
             <reverse-related count="x" exclude="exclude">Serene Sleuth</reverse-related>
             <reverse-related>Sharp-Eyed Rookie</reverse-related>
+            <reverse-related>Sokka's Sword Training</reverse-related>
+            <reverse-related>Sold Out</reverse-related>
             <reverse-related>Sophia, Dogged Detective</reverse-related>
             <reverse-related count="x" exclude="exclude">Sophia, Dogged Detective</reverse-related>
             <reverse-related count="x">Sophina, Spearsage Deserter</reverse-related>
@@ -2432,6 +2494,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>The Chase Is On</reverse-related>
             <reverse-related exclude="exclude">The Dining Car</reverse-related>
             <reverse-related>The Fugitive Doctor</reverse-related>
+            <reverse-related>The Mechanist, Aerial Artisan</reverse-related>
             <reverse-related exclude="exclude">The Rani</reverse-related>
             <reverse-related>The Seventh Doctor</reverse-related>
             <reverse-related>The Third Doctor</reverse-related>
@@ -2441,10 +2504,12 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Thraben Inspector</reverse-related>
             <reverse-related>Tireless Tracker</reverse-related>
             <reverse-related count="x">Tivit, Seller of Secrets</reverse-related>
+            <reverse-related exclude="exclude">Tolls of War</reverse-related>
             <reverse-related>Torch the Witness</reverse-related>
             <reverse-related>Toxin Analysis</reverse-related>
             <reverse-related>Trail of Evidence</reverse-related>
             <reverse-related>Transmutation Font</reverse-related>
+            <reverse-related>True Ancestry</reverse-related>
             <reverse-related>Ulvenwald Mysteries</reverse-related>
             <reverse-related>Undercover Crocodelf</reverse-related>
             <reverse-related>Unshakable Tail</reverse-related>
@@ -2453,6 +2518,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related count="x">Wernog, Rider's Chaplain</reverse-related>
             <reverse-related>Wojek Investigator</reverse-related>
             <reverse-related count="x" exclude="exclude">Wojek Investigator</reverse-related>
+            <reverse-related>Zuko's Exile</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -3463,6 +3529,20 @@ Whenever this creature deals combat damage to a player, gain control of target a
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/1/1/11335886-a422-42ff-be14-226602202603.jpg?1709590974">LTC</set>
             <reverse-related>Wake the Dragon</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Dragon Token       </name>
+            <text>Flying, firebending 4 (Whenever this token attacks, add {R}{R}{R}{R} to your mana pool. This mana lasts until end of combat.)</text>
+            <prop>
+                <type>Token Creature — Dragon</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/4</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/c/d/cddc0746-6d3e-441f-866f-28587bf54801.jpg?1762594883">TLA</set>
+            <reverse-related>Avatar Roku</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -4908,6 +4988,7 @@ When this creature enters, target creature you control gains flying until end of
                 <type>Token Artifact — Food</type>
                 <maintype>Artifact</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/0/d0e54f01-1301-481f-ace0-87966b5135f0.jpg?1762595738">TLA</set>
             <set picURL="https://cards.scryfall.io/large/front/0/f/0fb2c5a4-859e-40ac-8091-7ba44f57b878.jpg?1757379328">SPM</set>
             <set picURL="https://cards.scryfall.io/large/front/4/8/4853f6f5-476d-4109-a1c6-f98f4d332db3.jpg?1748704103">FIN</set>
             <set picURL="https://cards.scryfall.io/large/front/6/f/6f1077f8-9e2a-4155-a7f0-4604bc0f94e8.jpg?1733068734">FDN</set>
@@ -4937,21 +5018,26 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Bakersbane Duo</reverse-related>
             <reverse-related>Bartered Cow</reverse-related>
             <reverse-related count="2">Bill the Pony</reverse-related>
+            <reverse-related count="x">Bosco, Just a Bear</reverse-related>
             <reverse-related>Brandywine Farmer</reverse-related>
             <reverse-related count="2">Bristlebud Farmer</reverse-related>
             <reverse-related>Bumbleflower's Sharepot</reverse-related>
+            <reverse-related>Bumi's Feast Lecture</reverse-related>
             <reverse-related>Butterbur, Bree Innkeeper</reverse-related>
             <reverse-related>Cache Grab</reverse-related>
+            <reverse-related>Canyon Crawler</reverse-related>
             <reverse-related exclude="exclude">Cat Collector</reverse-related>
             <reverse-related>Cirith Ungol Patrol</reverse-related>
             <reverse-related>City Pigeon</reverse-related>
             <reverse-related>Concession Stand</reverse-related>
+            <reverse-related>Creeping Crystal Coating</reverse-related>
             <reverse-related>Crumb and Get It</reverse-related>
             <reverse-related>Curious Pair // Treats to Share</reverse-related>
             <reverse-related>Devouring Sugarmaw // Have for Dinner</reverse-related>
             <reverse-related>Eager Trufflesnout</reverse-related>
             <reverse-related>Eastfarthing Farmer</reverse-related>
             <reverse-related>Elanor Gardner</reverse-related>
+            <reverse-related count="x">Elephant-Mandrill</reverse-related>
             <reverse-related exclude="exclude">Experimental Confectioner</reverse-related>
             <reverse-related>Fae Offering</reverse-related>
             <reverse-related count="x" exclude="exclude">Farmer Cotton</reverse-related>
@@ -4985,13 +5071,16 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Insatiable Frugivore</reverse-related>
             <reverse-related count="x" exclude="exclude">Insatiable Frugivore</reverse-related>
             <reverse-related>Intrepid Trufflesnout // Go Hog Wild</reverse-related>
+            <reverse-related exclude="exclude">Iroh, Tea Master</reverse-related>
             <reverse-related count="x">Killer Service</reverse-related>
             <reverse-related>Late to Dinner</reverse-related>
+            <reverse-related>Leaves from the Vine</reverse-related>
             <reverse-related>Madame Vastra</reverse-related>
             <reverse-related>Many Partings</reverse-related>
             <reverse-related>Meriadoc Brandybuck</reverse-related>
             <reverse-related>Midnight Snack</reverse-related>
             <reverse-related>Mintstrosity</reverse-related>
+            <reverse-related>Momo, Playful Pet</reverse-related>
             <reverse-related>Night of the Sweets' Revenge</reverse-related>
             <reverse-related>Nocturnal Hunger</reverse-related>
             <reverse-related>Nuka-Cola Vending Machine</reverse-related>
@@ -5035,7 +5124,9 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Sweettooth Witch</reverse-related>
             <reverse-related count="3">Taste of Death</reverse-related>
             <reverse-related>Tempting Witch</reverse-related>
+            <reverse-related>The Art of Tea</reverse-related>
             <reverse-related>The Battle of Bywater</reverse-related>
+            <reverse-related>The Cabbage Merchant</reverse-related>
             <reverse-related>The Dining Car</reverse-related>
             <reverse-related>The Eleventh Hour</reverse-related>
             <reverse-related>The Fourth Doctor</reverse-related>
@@ -5052,6 +5143,7 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related exclude="exclude">Transmutation Font</reverse-related>
             <reverse-related count="2">Treebeard, Gracious Host</reverse-related>
             <reverse-related>Turn into a Pumpkin</reverse-related>
+            <reverse-related>Unlucky Cabbage Merchant</reverse-related>
             <reverse-related>Valley Rally</reverse-related>
             <reverse-related>Vault 101: Birthday Party</reverse-related>
             <reverse-related>Vinereap Mentor</reverse-related>
@@ -8162,6 +8254,7 @@ A manifested creature card can be turned face up any time for its mana cost. A f
                 <cmc>0</cmc>
                 <pt>20/20</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/c/dcff76fb-e23d-4333-a770-b1d616f98486.jpg?1762594498">TLE</set>
             <set picURL="https://cards.scryfall.io/large/front/2/5/25fca5a7-3b61-4e1e-83a3-a312c06fd922.jpg?1717193716">M3C</set>
             <set picURL="https://cards.scryfall.io/large/front/3/4/34db5e62-4792-4207-b008-7d62bae683a7.jpg?1675198627">DMR</set>
             <set picURL="https://cards.scryfall.io/large/front/f/b/fb248ba0-2ee7-4994-be57-2bcc8df29680.jpg?1598311645">2XM</set>
@@ -8420,7 +8513,10 @@ Flying, vigilance, trample, lifelink, haste</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/4/e49c80ac-5c90-4fd2-ad40-cc77af160f64.jpg?1762595324">TLA</set>
             <set picURL="https://cards.scryfall.io/large/front/3/8/388180bd-cc96-4b18-9ddd-18a3f7e06282.jpg?1675456267">DMU</set>
+            <reverse-related>Crescent Island Temple</reverse-related>
+            <reverse-related count="x" exclude="exclude">Crescent Island Temple</reverse-related>
             <reverse-related>Jaya, Fiery Negotiator</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -11964,6 +12060,38 @@ When enchanted creature dies, it deals 1 damage to its controller and you create
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Soldier Token         </name>
+            <text>Firebending 1 (Whenever this token attacks, add {R}. This mana lasts until end of combat.)</text>
+            <prop>
+                <type>Token Creature — Soldier</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/d/2de43b03-9ac5-4292-ab29-2dc6210ef3d9.jpg?1762595385">TLA</set>
+            <reverse-related>Cruel Administrator</reverse-related>
+            <reverse-related count="2">Fire Nation Attacks</reverse-related>
+            <reverse-related>Fire Nation Occupation</reverse-related>
+            <reverse-related>Firebender Ascension</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+         <card>
+            <name>Soldier Token          </name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Soldier</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/3/83313791-7d33-42bf-8ee7-05f17f88940a.jpg?1762594533">TLE</set>
+            <reverse-related>Fire Nation Archers</reverse-related>
+            <reverse-related>Zuko, Avatar Hunter</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Space Marine Devastator (Token)</name>
             <text>When Space Marine Devastator enters the battlefield, destroy up to one target artifact or enchantment.</text>
             <prop>
@@ -12735,6 +12863,26 @@ Whenever you draw a card, put a +1/+1 counter on this creature.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Spirit Token                     </name>
+            <text>This token can't block or be blocked by non-Spirit creatures.</text>
+            <prop>
+                <type>Token Creature — Spirit</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/5/f59eba51-458a-40e0-b754-999f91d5d839.jpg?1762597054">TLA</set>
+            <reverse-related>Avatar Kuruk</reverse-related>
+            <reverse-related>Baboon Spirit</reverse-related>
+            <reverse-related>Foggy Swamp Spirit Keeper</reverse-related>
+            <reverse-related count="x">Hei Bai, Forest Guardian</reverse-related>
+            <reverse-related>Lost in the Spirit World</reverse-related>
+            <reverse-related>Realm of Koh</reverse-related>
+            <reverse-related count="2">Wan Shi Tong, All-Knowing</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Spirit Warrior Token</name>
             <prop>
                 <colors>BG</colors>
@@ -13484,6 +13632,7 @@ This creature can't be enchanted.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/e/ee9ffe19-fea7-4dcc-a673-26be06d2f1be.jpg?1762595854">TLA</set>
             <set picURL="https://cards.scryfall.io/large/front/d/5/d52efeb3-661d-45e9-97c3-af167f889684.jpg?1757379348">SPM</set>
             <set picURL="https://cards.scryfall.io/large/front/a/b/ab0cda01-10b5-4a1b-b2bb-ad8bb296590f.jpg?1748704105">FIN</set>
             <set picURL="https://cards.scryfall.io/large/front/9/c/9c8f66e1-4eab-4d51-b10e-9cedd607d709.jpg?1742421087">TDM</set>
@@ -18408,6 +18557,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>Token</type>
                 <maintype>Token</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/b/2b3d7795-3fc3-4b78-bdf4-0a79981f1eee.jpg?1762595417">TLA</set>
             <set picURL="https://cards.scryfall.io/large/front/e/9/e980eddf-92f8-4dc4-8bad-b2f3dcaf03ef.jpg?1757379290">SPM</set>
             <set picURL="https://cards.scryfall.io/large/front/0/9/09d6521e-438a-4d16-992f-f2ab27b26ce4.jpg?1752946393">EOC</set>
             <set picURL="https://cards.scryfall.io/large/front/f/c/fcde6a95-37f1-4bb4-9cea-5b65dbc9c76a.jpg?1749244795">FIN</set>
