@@ -18259,6 +18259,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Heartflame Duelist // Heartflame Slash</reverse-related>
             <reverse-related attach="attach">Hearth Elemental // Stoke Genius</reverse-related>
             <reverse-related attach="attach">Hezrou // Demonic Stench</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Hildibrand Manderville // Gentleman's Rise</reverse-related>
             <reverse-related attach="attach">Hollow Scavenger // Bakery Raid</reverse-related>
             <reverse-related attach="attach">Horn of Valhalla // Ysgard's Call</reverse-related>
             <reverse-related attach="attach">Horned Loch-Whale // Lagoon Breach</reverse-related>
@@ -18266,13 +18267,17 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Illithid Harvester // Plant Tadpoles</reverse-related>
             <reverse-related attach="attach">Imodane's Recruiter // Train Troops</reverse-related>
             <reverse-related attach="attach">Intrepid Trufflesnout // Go Hog Wild</reverse-related>
+            <reverse-related attach="attach">Ishgard, the Holy See // Faith &amp; Grief</reverse-related>
+            <reverse-related attach="attach">Jidoor, Aristocratic Capital // Overture</reverse-related>
             <reverse-related attach="attach" exclude="exclude">Kellan, Daring Traveler // Journey On</reverse-related>
             <reverse-related attach="attach">Kellan, the Fae-Blooded // Birthright Boon</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Lindblum, Industrial Regency // Mage Siege</reverse-related>
             <reverse-related attach="attach">Lonesome Unicorn // Rider in Need</reverse-related>
             <reverse-related attach="attach">Lovestruck Beast // Heart's Desire</reverse-related>
             <reverse-related attach="attach">Merchant of the Vale // Haggle</reverse-related>
             <reverse-related attach="attach">Merfolk Secretkeeper // Venture Deeper</reverse-related>
             <reverse-related attach="attach">Minecart Daredevil // Ride the Rails</reverse-related>
+            <reverse-related attach="attach">Midgar, City of Mako // Reactor Raid</reverse-related>
             <reverse-related attach="attach">Monster Manual // Zoological Study</reverse-related>
             <reverse-related attach="attach">Moonshae Pixie // Pixie Dust</reverse-related>
             <reverse-related attach="attach">Mosswood Dreadknight // Dread Whispers</reverse-related>
@@ -18319,6 +18324,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Woodland Acolyte // Mend the Wilds</reverse-related>
             <reverse-related attach="attach">Young Blue Dragon // Sand Augury</reverse-related>
             <reverse-related attach="attach">Young Red Dragon // Bathe in Gold</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Zanarkand, Ancient Metropolis // Lasting Fayth</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
