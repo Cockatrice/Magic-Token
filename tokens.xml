@@ -2618,6 +2618,21 @@ Cloud Sprite can block only creatures with flying.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Cordyceps Infected</name>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Fungus Zombie</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/f/ff00d5aa-2fea-47cd-82f4-f7e388d1ecb6.jpg?1759245315">SLD</set>
+            <reverse-related count="x">Abby, Merciless Soldier</reverse-related>
+            <reverse-related>Ellie, Brick Master</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Coruscation Mage (Token)</name>
             <text>Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent.
 (This token's mana cost is {1}{R}.)</text>
