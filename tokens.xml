@@ -274,8 +274,8 @@ Whenever an opponent casts a creature spell, this permanent isn't a creature unt
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/f/8/f842c52a-04b6-4625-ba58-45b043ada340.jpg?1762594645">TLA</set>
-            <reverse-related count="x">Aang, Airbending Master</reverse-related>
             <reverse-related count="x">Aang and Katara</reverse-related>
+            <reverse-related count="x">Aang, Airbending Master</reverse-related>
             <reverse-related>Allied Teamwork</reverse-related>
             <reverse-related>Appa, Steadfast Guardian</reverse-related>
             <reverse-related count="2">Founding of Omashu</reverse-related>
@@ -2437,8 +2437,8 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Library</reverse-related>
             <reverse-related>Lonis, Cryptozoologist</reverse-related>
             <reverse-related exclude="exclude">Lonis, Cryptozoologist</reverse-related>
-            <reverse-related>Lost Days</reverse-related>
             <reverse-related>Lord Jyscal Guado</reverse-related>
+            <reverse-related>Lost Days</reverse-related>
             <reverse-related>Lounge</reverse-related>
             <reverse-related>Loxodon Eavesdropper</reverse-related>
             <reverse-related>Madame Vastra</reverse-related>
@@ -2478,11 +2478,11 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Serene Sleuth</reverse-related>
             <reverse-related count="x" exclude="exclude">Serene Sleuth</reverse-related>
             <reverse-related>Sharp-Eyed Rookie</reverse-related>
+            <reverse-related>Sokka's Sword Training</reverse-related>
+            <reverse-related>Sold Out</reverse-related>
             <reverse-related>Sophia, Dogged Detective</reverse-related>
             <reverse-related count="x" exclude="exclude">Sophia, Dogged Detective</reverse-related>
             <reverse-related count="x">Sophina, Spearsage Deserter</reverse-related>
-            <reverse-related>Sokka's Sword Training</reverse-related>
-            <reverse-related>Sold Out</reverse-related>
             <reverse-related>Study</reverse-related>
             <reverse-related>Survive the Night</reverse-related>
             <reverse-related>Syndicate Heavy</reverse-related>
@@ -2504,8 +2504,8 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Thraben Inspector</reverse-related>
             <reverse-related>Tireless Tracker</reverse-related>
             <reverse-related count="x">Tivit, Seller of Secrets</reverse-related>
-            <reverse-related>Torch the Witness</reverse-related>
             <reverse-related exclude="exclude">Tolls of War</reverse-related>
+            <reverse-related>Torch the Witness</reverse-related>
             <reverse-related>Toxin Analysis</reverse-related>
             <reverse-related>Trail of Evidence</reverse-related>
             <reverse-related>Transmutation Font</reverse-related>
@@ -5003,8 +5003,8 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Bakersbane Duo</reverse-related>
             <reverse-related>Bartered Cow</reverse-related>
             <reverse-related count="2">Bill the Pony</reverse-related>
-            <reverse-related>Brandywine Farmer</reverse-related>
             <reverse-related count="x">Bosco, Just a Bear</reverse-related>
+            <reverse-related>Brandywine Farmer</reverse-related>
             <reverse-related count="2">Bristlebud Farmer</reverse-related>
             <reverse-related>Bumbleflower's Sharepot</reverse-related>
             <reverse-related>Bumi's Feast Lecture</reverse-related>
@@ -5056,8 +5056,8 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Insatiable Frugivore</reverse-related>
             <reverse-related count="x" exclude="exclude">Insatiable Frugivore</reverse-related>
             <reverse-related>Intrepid Trufflesnout // Go Hog Wild</reverse-related>
-            <reverse-related count="x">Killer Service</reverse-related>
             <reverse-related exclude="exclude">Iroh, Tea Master</reverse-related>
+            <reverse-related count="x">Killer Service</reverse-related>
             <reverse-related>Late to Dinner</reverse-related>
             <reverse-related>Leaves from the Vine</reverse-related>
             <reverse-related>Madame Vastra</reverse-related>
@@ -12055,9 +12055,9 @@ When enchanted creature dies, it deals 1 damage to its controller and you create
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/2/d/2de43b03-9ac5-4292-ab29-2dc6210ef3d9.jpg?1762595385">TLA</set>
             <reverse-related>Cruel Administrator</reverse-related>
-            <reverse-related>Firebender Ascension</reverse-related>
             <reverse-related count="2">Fire Nation Attacks</reverse-related>
             <reverse-related>Fire Nation Occupation</reverse-related>
+            <reverse-related>Firebender Ascension</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
