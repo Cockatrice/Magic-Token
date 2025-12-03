@@ -13325,7 +13325,7 @@ This creature can't be enchanted.</text>
                 <pt>4/4</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/6/5/65f8e40f-fb5e-4ab8-add3-a8b87e7bcdd9.jpg?1641306235" uuid="959ea7b6-fdde-57d0-b137-2a1fa11b39dd">AFR</set>
-            
+             <!-- this token is created by another token only -->
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -17368,7 +17368,7 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
-        
+        <!--The below tokens are reminder tokens for keeping track of counters.-->
         <card>
             <name>Acorn Stash</name>
             <text>(Place your acorn counters in this area.)</text>
@@ -17762,7 +17762,7 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
-        
+        <!--The below tokens are reminders of certain game states.-->
         <card>
             <name>City's Blessing</name>
             <prop>
@@ -18390,7 +18390,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
-        
+        <!--The below tokens are miscellaneous other tokens that don't fit into the above categories.-->
         <card>
             <name>Bounty: Eriana, Wrecking Ball</name>
             <text>At the beginning of your end step, if you committed a crime this turn, collect your reward. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
@@ -18626,7 +18626,7 @@ Rewards
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
-        
+        <!-- See #225, Below cards are non-creature spells from Theros Challenge Decks that are not present in cards.xml in Cockatrice -->
         <card>
             <name>Mogis's Chosen</name>
             <text>Mogis's Chosen enters the battlefield tapped. Mogis's Chosen attacks each turn if able.</text>
