@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20251117</sourceVersion>
+        <sourceVersion>20251229</sourceVersion>
     </info>
     <cards>
         <!--
@@ -17763,6 +17763,30 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
             <tablerow>1</tablerow>
         </card>
         <!--The below tokens are reminders of certain game states.-->
+        <card>
+            <name>Airbend</name>
+            <text>When you airbend, you can place the exiled card here. While that card is exiled, its owner may cast it for {2} rather than its mana cost.</text>
+            <prop>
+                <type>State</type>
+                <maintype>State</maintype>
+            </prop>
+            <set picURL="https://raw.githubusercontent.com/SlightlyCircuitous/image-storage/refs/heads/main/airbend.jpeg">TLA</set>
+            <reverse-related exclude="exclude">Aang, Airbending Master</reverse-related>
+            <reverse-related exclude="exclude">Aang, Swift Savior</reverse-related>
+            <reverse-related>Aang, the Last Airbender</reverse-related>
+            <reverse-related>Airbender Ascension</reverse-related>
+            <reverse-related>Airbender's Reversal</reverse-related>
+            <reverse-related>Airbending Lesson</reverse-related>
+            <reverse-related>Appa, Loyal Sky Bison</reverse-related>
+            <reverse-related exclude="exclude">Appa, Steadfast Guardian</reverse-related>
+            <reverse-related>Avatar's Wrath</reverse-related>
+            <reverse-related>Glider Staff</reverse-related>
+            <reverse-related>Monk Gyatso</reverse-related>
+            <reverse-related>Avatar Yangchen</reverse-related>
+            <reverse-related>Whirlwind Technique</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
         <card>
             <name>City's Blessing</name>
             <prop>
