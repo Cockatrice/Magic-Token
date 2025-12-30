@@ -17770,7 +17770,7 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
                 <type>State</type>
                 <maintype>State</maintype>
             </prop>
-            <set picURL="https://raw.githubusercontent.com/SlightlyCircuitous/image-storage/refs/heads/main/airbend.jpeg">TLA</set>
+            <set picURL="https://raw.githubusercontent.com/SlightlyCircuitous/image-storage/refs/heads/main/airbend.jpeg" uuid="100-000-000-067">TLA</set>
             <reverse-related exclude="exclude">Aang, Airbending Master</reverse-related>
             <reverse-related exclude="exclude">Aang, Swift Savior</reverse-related>
             <reverse-related>Aang, the Last Airbender</reverse-related>
