@@ -389,7 +389,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/b/bb/Angel3.jpg" uuid="100-000-000-000">APC</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/b/bb/Angel3.jpg" uuid="110bfc8c144bd83959f4ab60346601a259265d678c18ffa681aa13ff820ce6cb">APC</set>
             <reverse-related>Haunted Angel</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -849,7 +849,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
-            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Banana.jpeg?raw=true" uuid="100-000-000-001">J22</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Banana.jpeg?raw=true" uuid="f9782dd7999dc14b39c1329735e6e4ef72e77a3cf5fa32f2f57bf8d5493f0fc5">J22</set>
             <reverse-related>Kibo, Uktabi Prince</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -1109,7 +1109,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/c/cd/Beast5.jpg" uuid="100-000-000-002">EXO</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/c/cd/Beast5.jpg" uuid="d1407f2ed00fe40136a530f40167545e673d17ab4bea2aad58e24fac2bda94ad">EXO</set>
             <reverse-related>Keeper of the Beasts</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -1123,7 +1123,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/a/a6/Beast4.jpg" uuid="100-000-000-003">MRD</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/a/a6/Beast4.jpg" uuid="086be09cf4e6d1a5371d0fb26406abb2cdf06c1f2bb95f7542ee8521989109cb">MRD</set>
             <reverse-related>One Dozen Eyes</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -1774,7 +1774,7 @@ Whenever this creature attacks, target attacking creature gains flying until end
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/b/b8/Camarid.jpg" uuid="100-000-000-004">FEM</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/b/b8/Camarid.jpg" uuid="625bcfd7af43eba9012da81940a017efd59cf4b2d75095636df64de75a392b57">FEM</set>
             <reverse-related count="x">Homarid Spawning Bed</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -1788,7 +1788,7 @@ Whenever this creature attacks, target attacking creature gains flying until end
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/f/fd/Caribou.jpg" uuid="100-000-000-005">ME2</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/f/fd/Caribou.jpg" uuid="52287993f4b26cc0dd840e53cee7d69e8a05fa422035f95416d9fcc3304aaa7d">ME2</set>
             <reverse-related>Caribou Range</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -1909,7 +1909,7 @@ Whenever this creature attacks, target attacking creature gains flying until end
                 <pt>2/1</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/0/5/05a61555-ddb9-4d55-b637-a219d772033d.jpg?1675198619" uuid="05a61555-ddb9-4d55-b637-a219d772033d">DMR</set>
-            <set picURL="https://cdn.staticneo.com/w/mtg/0/08/Cat2.jpg" uuid="100-000-000-006">APC</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/0/08/Cat2.jpg" uuid="df80b067f73954bfd2d3d8bc8cc48f1fd4dcaa88a77e3f8827488bc22e6249d1">APC</set>
             <reverse-related>Penumbra Bobcat</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -2944,7 +2944,7 @@ At the beginning of your upkeep, sacrifice another creature. If you can't, this 
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
-            <set picURL="https://i.imgur.com/cHNbJQM.jpg" uuid="100-000-000-007">ME2</set>
+            <set picURL="https://i.imgur.com/cHNbJQM.jpg" uuid="494ca52b451114526005b0cebb658e1875379285d6c390267e5f3fcef7b5a519">ME2</set>
             <reverse-related>Kjeldoran Home Guard</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -3206,7 +3206,7 @@ When this creature dies, create a colorless Treasure artifact token.</text>
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/0/0a/Djinn.jpg" uuid="100-000-000-008">ME4</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/0/0a/Djinn.jpg" uuid="cb966f24c5a1a22e10c06b2a1302a4bb0d2de1b3096df16f860e46ce7cc7a2cd">ME4</set>
             <reverse-related>Bottle of Suleiman</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -3326,7 +3326,7 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
-            <set picURL="https://i.imgur.com/8wb1Y6p.jpg" uuid="100-000-000-009">CHK</set>
+            <set picURL="https://i.imgur.com/8wb1Y6p.jpg" uuid="e071d1312a8e9c4b3b39be19ad80ba60be9b2d873511030a1cd1a2ce73827dd4">CHK</set>
             <reverse-related>Tatsumasa, the Dragon's Fang</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -3911,7 +3911,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/4/42/Elemental_Cat.jpg" uuid="100-000-000-010">JUD</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/4/42/Elemental_Cat.jpg" uuid="71dd5e88226cb96e926659ee59494527ad868c83e4d21e4e422a238fe11ad045">JUD</set>
             <reverse-related count="x">Firecat Blitz</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4020,7 +4020,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/0/0a/Elemental8.jpg" uuid="100-000-000-011">DST</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/0/0a/Elemental8.jpg" uuid="89dae5a93d99a61aa4062771fa5eb8bbff5b96bd159e67296a333117520cbb3c">DST</set>
             <reverse-related>Wand of the Elements</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4105,7 +4105,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/8/89/Elemental7.jpg" uuid="100-000-000-012">DST</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/8/89/Elemental7.jpg" uuid="2de9c4575bbcafc05c218d7001a4eba1a54ba818cef73f1fd9bf28f0c63c6f8c">DST</set>
             <reverse-related>Wand of the Elements</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4286,7 +4286,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Elemental.jpeg?raw=true" uuid="100-000-000-013">ARC</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Elemental.jpeg?raw=true" uuid="22bed432a8bd2b95a6f81d7189251b44b1d2ff51ce73c8e7a2bb1d2662da4fc7">ARC</set>
             <reverse-related count="7" exclude="exclude">Evil Comes to Fruition</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4846,7 +4846,7 @@ Ferocious — {T}: Add {G}{G}{G}{G}. Activate only if you control a creature wit
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/2/24/Festering_Goblin.jpg" uuid="100-000-000-014">FUT</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/2/24/Festering_Goblin.jpg" uuid="847ce5bbf3729489a1785895691dae8deb30172ae9746bb957dfe013635bb801">FUT</set>
             <reverse-related>Skirk Ridge Exhumer</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5556,7 +5556,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/b/bd/Goblin_Scout.jpg" uuid="100-000-000-015">MIR</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/b/bd/Goblin_Scout.jpg" uuid="c11bff9a00868fc169f83e09a0afb822dc15dd57da9b6044baaa550588fc631e">MIR</set>
             <reverse-related count="3">Goblin Scouts</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5821,7 +5821,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/0/0c/Goldmeadow_Harrier.jpg" uuid="100-000-000-016">FUT</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/0/0c/Goldmeadow_Harrier.jpg" uuid="3b5d9777fedaeea8c9cc28db610fafb6b75c3245c64ed893b792f5d3c7f7eb58">FUT</set>
             <reverse-related>Goldmeadow Lookout</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5872,7 +5872,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>4/6</pt>
             </prop>
-            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Golem.jpeg?raw=true" uuid="100-000-000-017">ARC</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Golem.jpeg?raw=true" uuid="8d641a35502d0e16f09ae3dc7eaf6c9948e9b6497cc8f30d929eace450401fd0">ARC</set>
             <reverse-related>The Iron Guardian Stirs</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -6017,7 +6017,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <pt>3/1</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/0/7/07ab0fbc-293e-4917-9792-fdc9b512713d.jpg?1689975540" uuid="07ab0fbc-293e-4917-9792-fdc9b512713d">CMM</set>
-            <set picURL="https://i.imgur.com/1PwSeto.jpg" uuid="100-000-000-018">CSP</set>
+            <set picURL="https://i.imgur.com/1PwSeto.jpg" uuid="31f4dd02eff126a304aa35c9699f83855e2ee245b0e7ee79d74178c02bf889a3">CSP</set>
             <reverse-related>Balduvian Dead</reverse-related>
             <reverse-related>Sek'Kuar, Deathkeeper</reverse-related>
             <token>1</token>
@@ -6238,7 +6238,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://i.imgur.com/qfVFHVv.jpg" uuid="100-000-000-019">ALL</set>
+            <set picURL="https://i.imgur.com/qfVFHVv.jpg" uuid="b956ab5dbb31f765aa8f70ea48fb7b737284c07cd57cff2bb75fbebd7fc2c795">ALL</set>
             <reverse-related>Phelddagrif</reverse-related>
             <reverse-related>Questing Phelddagrif</reverse-related>
             <token>1</token>
@@ -6477,7 +6477,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/c/cd/Hound.jpg" uuid="100-000-000-020">TMP</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/c/cd/Hound.jpg" uuid="2a6d86b663c8c5afd2078f8ed1b7965d3cdb4d44731f36e54b23229c295fd317">TMP</set>
             <reverse-related count="4">Mongrel Pack</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7297,7 +7297,7 @@ Equip {2}</text>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/d/df/Insect3.jpg" uuid="100-000-000-021">MIR</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/d/df/Insect3.jpg" uuid="c328af50346eca732143630dbacc477b40502eda70121c710f2ba7851558e1ec">MIR</set>
             <reverse-related count="x">Carrion</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7481,7 +7481,7 @@ Equip {2}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://i.imgur.com/sPQtr2R.jpeg" uuid="100-000-000-022">J25</set>
+            <set picURL="https://i.imgur.com/sPQtr2R.jpeg" uuid="e4953efa45095d2fe6b5d92a9a7eb364ab6bf30fb0bec1922a9cd66de7853235">J25</set>
             <reverse-related>Cynette, Jelly Drover</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7497,7 +7497,7 @@ When this creature leaves the battlefield, return target card named Ozox, the Cl
                 <cmc>0</cmc>
                 <pt>2/1</pt>
             </prop>
-            <set picURL="https://i.imgur.com/TitCO14.jpeg" uuid="100-000-000-023">J25</set>
+            <set picURL="https://i.imgur.com/TitCO14.jpeg" uuid="a5077e8d9154095562b4f71c57b35cd091c8c9c650614bac1acd47768eda2e6b">J25</set>
             <reverse-related>Ozox, the Clattering King</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7538,7 +7538,7 @@ When this creature leaves the battlefield, return target card named Ozox, the Cl
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/3/3d/Kaldra.jpg" uuid="100-000-000-024">DST</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/3/3d/Kaldra.jpg" uuid="9c82152c53737a316e38dcd4ac624c63bfe6341edb41bde5f6e9928619b48c64">DST</set>
             <reverse-related>Helm of Kaldra</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7568,7 +7568,7 @@ When this creature leaves the battlefield, return target card named Ozox, the Cl
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/4/42/Kavu.jpg" uuid="100-000-000-025">APC</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/4/42/Kavu.jpg" uuid="142f83d16f7e66e13c0fb65e969a22b89cbd78e8f2477639719342462817c533">APC</set>
             <reverse-related>Penumbra Kavu</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7614,7 +7614,7 @@ Trample</text>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
-            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Kelp.jpeg?raw=true" uuid="100-000-000-026">ME2</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Kelp.jpeg?raw=true" uuid="54fd5ca7d97ff9e312fd731e33c0cfab3450fd6e7c9ab7f243981435973fbafc">ME2</set>
             <reverse-related>Wall of Kelp</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7753,7 +7753,7 @@ Trample</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://i.imgur.com/zvrInRn.jpg" uuid="100-000-000-027">ME2</set>
+            <set picURL="https://i.imgur.com/zvrInRn.jpg" uuid="f0fe66c400973c36c7b46cb5ce355b0f4b7682325f6792424987e90f96845e6e">ME2</set>
             <reverse-related>Errand of Duty</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7818,7 +7818,7 @@ Flanking</text>
                 <cmc>0</cmc>
                 <pt>3/1</pt>
             </prop>
-            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Knight.jpeg?raw=true" uuid="100-000-000-028">WOC</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Knight.jpeg?raw=true" uuid="d01324eb751caca5bfa9fee58ac6111bd8edda305b70c64cdf0fd8fa1ab98b42">WOC</set>
             <reverse-related>Court of Embereth</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -8433,7 +8433,7 @@ Flying, vigilance, trample, lifelink, haste</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://i.imgur.com/E1DDrA1.jpg" uuid="100-000-000-029">PCY</set>
+            <set picURL="https://i.imgur.com/E1DDrA1.jpg" uuid="910d072e7f95ef535041276e362eba5bbd2b0cd70ee7a887ac21058a3e352fc6">PCY</set>
             <reverse-related count="x">Infernal Genesis</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -8447,7 +8447,7 @@ Flying, vigilance, trample, lifelink, haste</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/c/c7/Minor_Demon.jpg" uuid="100-000-000-030">ME3</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/c/c7/Minor_Demon.jpg" uuid="89dbcbd1b788e44d60e3a262e17482c6a593246e0ff58e195f3e73992dbfa095">ME3</set>
             <reverse-related>Boris Devilboon</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -8530,7 +8530,7 @@ Flying, vigilance, trample, lifelink, haste</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/9/97/Ape1.jpg" uuid="100-000-000-031">MMQ</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/9/97/Ape1.jpg" uuid="4a6b05f74d23ca9796f4a8c9dd8b03cf6945d50946a5fd353d41c0d574edffc2">MMQ</set>
             <reverse-related count="x">Monkey Cage</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -8984,7 +8984,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="https://i.imgur.com/nfMVZ0V.jpeg" uuid="100-000-000-032">J25</set>
+            <set picURL="https://i.imgur.com/nfMVZ0V.jpeg" uuid="548b23d83b7db75ebd84eddd9e2a2e16d4ab10a27f8190e9825abc8ae964db9e">J25</set>
             <reverse-related>Psemilla, Meletian Poet</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -9211,7 +9211,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/4/44/Orb.jpg" uuid="100-000-000-033">ALL</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/4/44/Orb.jpg" uuid="2c57f2940d1ecb8ca82346a4099b6116f4ce793ca9642073868fdc5e600714bc">ALL</set>
             <reverse-related>Phantasmal Sphere</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -9436,7 +9436,7 @@ Whenever a creature you control becomes the target of a spell or ability an oppo
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
-            <set picURL="https://i.imgur.com/J9VBbki.jpg" uuid="100-000-000-034">MRD</set>
+            <set picURL="https://i.imgur.com/J9VBbki.jpg" uuid="ddb3cc500b1edc5e3fa94624ff4ffd69a310d4e6564112d15062a478708ba2ca">MRD</set>
             <reverse-related>Nuisance Engine</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -9976,7 +9976,7 @@ Toxic 1 (Players dealt combat damage by this creature also get a poison counter.
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/8/88/Pincher.jpg" uuid="100-000-000-035">5DN</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/8/88/Pincher.jpg" uuid="96336266cc046d3ff955fd4298a6dc6e06e966917a66859be1554f42a660f5a5">5DN</set>
             <reverse-related>Summoning Station</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -10025,7 +10025,7 @@ Creatures you control attack each combat if able.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Pirate.jpeg?raw=true" uuid="100-000-000-036">J22</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Pirate.jpeg?raw=true" uuid="ba2e1484ccf2c5a761b5b5f54a2e227f4a907466d4e328e3d48407ea1ad897e0">J22</set>
             <reverse-related>Daring Piracy</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -10211,7 +10211,7 @@ Creatures you control attack each combat if able.</text>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/f/fb/Prism.jpg" uuid="100-000-000-037">VIS</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/f/fb/Prism.jpg" uuid="15f0525b093ce018caf19658c9996be4c998db8d98efcef10f798a0db98279c4">VIS</set>
             <reverse-related>Diamond Kaleidoscope</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -10485,7 +10485,7 @@ Whenever this creature deals combat damage to a player, create that many tapped 
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/e/e2/Reflection1.jpg" uuid="100-000-000-038">INV</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/e/e2/Reflection1.jpg" uuid="251e3a84429b3c3a11188381a39eedf561a47a7927ada3d226cd1aaad959a5d7">INV</set>
             <reverse-related>Pure Reflection</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -10499,7 +10499,7 @@ Whenever this creature deals combat damage to a player, create that many tapped 
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/2/27/Reflection2.jpg" uuid="100-000-000-039">TMP</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/2/27/Reflection2.jpg" uuid="29f73c9cd47db83438220d45760a1b98a5605f95750352d3401ff59875b4ee0c">TMP</set>
             <reverse-related>Spirit Mirror</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -10844,7 +10844,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/3/33/Sand1.jpg" uuid="100-000-000-040">GPT</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/3/33/Sand1.jpg" uuid="1cf2e13ecfcbe74582ffbe6fc669e6a223314bf63492cf893fbed111737cc664">GPT</set>
             <reverse-related count="x">Dune-Brood Nephilim</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -11018,7 +11018,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/7/76/Saproling3.jpg" uuid="100-000-000-041">NEM</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/7/76/Saproling3.jpg" uuid="0f6bf49d4b4ca73a7bb6b1f962d74cf0ebb195ec5f333ce26be0f80cfc45a331">NEM</set>
             <reverse-related>Saproling Burst</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -11350,7 +11350,7 @@ Deathtouch</text>
                 <pt>0/1</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/3/a/3acb4442-e7e5-482b-9ce8-f1af8069114e.jpg?1675198691" uuid="3acb4442-e7e5-482b-9ce8-f1af8069114e">DMR</set>
-            <set picURL="https://cdn.staticneo.com/w/mtg/5/57/Sheep1.jpg" uuid="100-000-000-042">TSB</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/5/57/Sheep1.jpg" uuid="9446b4773cd7697cfe65c0fd5829d323cfaa8b9d7f10d3ce4e2a74cd2cf39c24">TSB</set>
             <reverse-related>Ovinomancer</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -11529,7 +11529,7 @@ Deathtouch</text>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
-            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/sketch%20token.jpeg?raw=true" uuid="100-000-000-043">UNF</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/sketch%20token.jpeg?raw=true" uuid="289751917051a332087a2134b1e34edd9b5342c1a20d015b9164a8db80e50a0a">UNF</set>
             <reverse-related>D00-DL, Caricaturist</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -11676,7 +11676,7 @@ When enchanted creature dies, it deals 1 damage to its controller and you create
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/0/01/Snake3.jpg" uuid="100-000-000-044">LEG</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/0/01/Snake3.jpg" uuid="372311eddbd12837dd1da5393beb327e4ee1f200157386a2338828165c74eeca">LEG</set>
             <related>Poison Counter</related>
             <reverse-related>Serpent Generator</reverse-related>
             <token>1</token>
@@ -12131,7 +12131,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/d/d3/Spawn.jpg" uuid="100-000-000-045">DST</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/d/d3/Spawn.jpg" uuid="2eef0c7010e6ae2b052417f19b35e1076b95b3049bd172adc4c009f464a0180b">DST</set>
             <reverse-related>Spawning Pit</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -12340,7 +12340,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/7/7c/Spike.jpg" uuid="100-000-000-046">STH</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/7/7c/Spike.jpg" uuid="e125f89c13605e48e88d11fc4b631bb6d53cbe74249850181c458d7f586186f9">STH</set>
             <reverse-related>Spike Breeder</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -12597,7 +12597,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
-            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Spirit.jpeg?raw=true" uuid="100-000-000-047">ME2</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Spirit.jpeg?raw=true" uuid="9038afa76bcbe0af011e27eea60a020d94582d0069c2d6b124dcd9f76d864ff2">ME2</set>
             <reverse-related>Broken Visage</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -12924,7 +12924,7 @@ Cumulative upkeep {G}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/f/f6/Splinter.jpg" uuid="100-000-000-048">ALL</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/f/f6/Splinter.jpg" uuid="210d48a0124427ee498bc89885648f77ef8e7620f937320500dee5b096d3cecc">ALL</set>
             <reverse-related>Splintering Wind</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -13034,7 +13034,7 @@ Cumulative upkeep {G}</text>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
-            <set picURL="https://i.imgur.com/E3W8jc6.jpg" uuid="100-000-000-049">ME3</set>
+            <set picURL="https://i.imgur.com/E3W8jc6.jpg" uuid="7ed80337fb38876f7319081f8d4ab8f5be8ca387b4254ca242d55ed5a92f10c4">ME3</set>
             <reverse-related count="x">Spiny Starfish</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -13309,7 +13309,7 @@ This creature can't be enchanted.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/e/e6/Tetravite.jpg" uuid="100-000-000-050">ATQ</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/e/e6/Tetravite.jpg" uuid="792eaaecdc339f891ce1a0948ff2e758d2cc7ef3cdcd6f61cc0530bc46278be5">ATQ</set>
             <reverse-related>Tetravus</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -13605,7 +13605,7 @@ This creature can't be enchanted.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/5/5c/Tombspawn.jpg" uuid="100-000-000-051">MIR</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/5/5c/Tombspawn.jpg" uuid="854b3bbb7b139dc2a0e15d15b2225636fc71712f5f47d832121e638a86f41e32">MIR</set>
             <reverse-related count="x">Tombstone Stairwell</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -14092,7 +14092,7 @@ Sacrifice this creature: This creature deals 1 damage to any target.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/a/a7/Triskelavite.jpg" uuid="100-000-000-052">TSP</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/a/a7/Triskelavite.jpg" uuid="1ad9b976cd7dda7b36303cffd2b5e3fb63e12f0ed5e1ec915fe0919146c3f58a">TSP</set>
             <reverse-related>Triskelavus</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -14153,7 +14153,7 @@ Sacrifice this creature: This creature deals 1 damage to any target.</text>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/7/78/Twin.jpg" uuid="100-000-000-053">DST</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/7/78/Twin.jpg" uuid="eac9f8c23aa505a12eaab123bc29c81c30333caefa5e1b4c08f1df383398246b">DST</set>
             <reverse-related>Gemini Engine</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -14245,7 +14245,7 @@ Sacrifice this creature: This creature deals 1 damage to any target.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Unicorn.jpeg?raw=true" uuid="100-000-000-054">JMP</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Unicorn.jpeg?raw=true" uuid="4ac49167a26fefd2db79162b3af8ce4e075bdd27d4aabf8fcfcf116ded5c2282">JMP</set>
             <reverse-related>Blessed Sanctuary</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -14275,7 +14275,7 @@ Sacrifice this creature: This creature deals 1 damage to any target.</text>
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/f/f1/Urami.jpg" uuid="100-000-000-055">SOK</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/f/f1/Urami.jpg" uuid="0ebaf69c0c093120ab40f7155a4f4a9b468604654410268c1d0da6771d635b05">SOK</set>
             <reverse-related>Tomb of Urami</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -14636,7 +14636,7 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
                 <cmc>0</cmc>
                 <pt>0/2</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/3/36/Wall2.jpg" uuid="100-000-000-056">MIR</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/3/36/Wall2.jpg" uuid="47770608329fdba6ff36ebc26440320b58e2d49764a5805733cb5d92ca2db234">MIR</set>
             <reverse-related>Basalt Golem</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -14760,7 +14760,7 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/7/e/7edc0515-a130-45a7-aa09-0e23bba41587.jpg?1742506712" uuid="7edc0515-a130-45a7-aa09-0e23bba41587">TDM</set>
-            <set picURL="https://cdn.staticneo.com/w/mtg/9/95/Warrior.jpg" uuid="100-000-000-057">SOK</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/9/95/Warrior.jpg" uuid="270446ffb1c01ce27753ad02e1f5d8394cb52ec7ede693189ae7bdd25468df08">SOK</set>
             <reverse-related count="x">Avenger of the Fallen</reverse-related>
             <reverse-related count="2">Bone-Cairn Butcher</reverse-related>
             <reverse-related count="2">Dalkovan Encampment</reverse-related>
@@ -14949,7 +14949,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/f/f5/Wirefly.jpg" uuid="100-000-000-058">DST</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/f/f5/Wirefly.jpg" uuid="2868cb8966a74a2533e339d4dca791ba4b82f311442af7ca981b97b9aa6a3f79">DST</set>
             <reverse-related>Wirefly Hive</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -15138,7 +15138,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/d/d1/Wolf1.jpg" uuid="100-000-000-059">CSP</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/d/d1/Wolf1.jpg" uuid="934dea3e65f1399729d36f8cb78fb3a97a82d2e122ada5726fb05a723df8a327">CSP</set>
             <reverse-related>Sound the Call</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -15183,7 +15183,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Wolves%20of%20the%20Hunt.jpeg?raw=true" uuid="100-000-000-060">M10</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Wolves%20of%20the%20Hunt.jpeg?raw=true" uuid="0256f91bba58e00c239d4cc807c6afa0588e387ab27c4b4f4fe5c2a601e8c7d0">M10</set>
             <reverse-related>Master of the Hunt</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -15198,7 +15198,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
-            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Wood.jpeg?raw=true" uuid="100-000-000-061">MIR</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Wood.jpeg?raw=true" uuid="731140284eac4aca18aa8cfd15ad56f45d4423067910729caccaf21683e013e1">MIR</set>
             <reverse-related>Jungle Patrol</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -15307,7 +15307,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
-            <set picURL="https://cdn.staticneo.com/w/mtg/7/7e/Wurm2.jpg" uuid="100-000-000-062">FUT</set>
+            <set picURL="https://cdn.staticneo.com/w/mtg/7/7e/Wurm2.jpg" uuid="bc3e7a0c6f84c0d5ea5205d7dae44c3a176db4a4733ede5fd038972dc465eda9">FUT</set>
             <reverse-related>Baru, Fist of Krosa</reverse-related>
             <reverse-related>Wurmcalling</reverse-related>
             <token>1</token>
@@ -15369,7 +15369,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
-            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Zeppelin.jpeg?raw=true" uuid="100-000-000-063">J22</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/Zeppelin.jpeg?raw=true" uuid="ec689c48e055f9214817ccb1a38b818efc82998657e82d9fe36b6358b02e7233">J22</set>
             <reverse-related>Lita, Mechanical Engineer</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -16513,7 +16513,7 @@ Whenever an opponent draws a card, this emblem deals 1 damage to them.</text>
                 <type>Emblem</type>
                 <maintype>Emblem</maintype>
             </prop>
-            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/karn_emblem_arena.png?raw=true" uuid="100-000-000-064">DMU</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/karn_emblem_arena.png?raw=true" uuid="2a2f49e13c0709af06ad7a76c0ca86171f36d3eee65dd0bf03876584e09547a0">DMU</set>
             <reverse-related>Karn, Living Legacy</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -17770,7 +17770,7 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
                 <type>State</type>
                 <maintype>State</maintype>
             </prop>
-            <set picURL="https://raw.githubusercontent.com/SlightlyCircuitous/image-storage/refs/heads/main/airbend.jpeg" uuid="100-000-000-067">TLA</set>
+            <set picURL="https://raw.githubusercontent.com/SlightlyCircuitous/image-storage/refs/heads/main/airbend.jpeg" uuid="2d847994a1e3ad772c926589518e141855c003454170130fab0a0e9c5b865a2d">TLA</set>
             <reverse-related exclude="exclude">Aang, Airbending Master</reverse-related>
             <reverse-related exclude="exclude">Aang, Swift Savior</reverse-related>
             <reverse-related>Aang, the Last Airbender</reverse-related>
@@ -17837,7 +17837,7 @@ At the beginning of your upkeep, if you control a Contraption, move the CRANK! c
                 <type>State</type>
                 <maintype>State</maintype>
             </prop>
-            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/CRANK!.png?raw=true" uuid="100-000-000-065">UST</set>
+            <set picURL="https://github.com/SlightlyCircuitous/image-storage/blob/main/CRANK!.png?raw=true" uuid="75e0bdffb6278da4ad709a88090572c5c6a6865dc839c72920afbbbcf0e44de0">UST</set>
             <reverse-related>Accessories to Murder</reverse-related>
             <reverse-related>Applied Aeronautics</reverse-related>
             <reverse-related>Arms Depot</reverse-related>
@@ -18023,7 +18023,7 @@ If a player casts at least two spells during their own turn, it becomes day next
                 <type>State</type>
                 <maintype>State</maintype>
             </prop>
-            <set picURL="https://raw.githubusercontent.com/SlightlyCircuitous/image-storage/refs/heads/main/In%20the%20Weft.png" uuid="100-000-000-066">EOE</set>
+            <set picURL="https://raw.githubusercontent.com/SlightlyCircuitous/image-storage/refs/heads/main/In%20the%20Weft.png" uuid="099497c28495b47806d23044f01afae044b93a4205b8fecd40951b9331e998f6">EOE</set>
             <reverse-related attach="attach">All-Fates Stalker</reverse-related>
             <reverse-related attach="attach">Anticausal Vestige</reverse-related>
             <reverse-related attach="attach">Astelli Reclaimer</reverse-related>
