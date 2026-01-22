@@ -2431,7 +2431,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>June, Bounty Hunter</reverse-related>
             <reverse-related>Kellan, Inquisitive Prodigy // Tail the Suspect</reverse-related>
             <reverse-related>Kitchen</reverse-related>
-            <reverse-related>Knowledge Seeke</reverse-related>
+            <reverse-related>Knowledge Seeker</reverse-related>
             <reverse-related>Lavinia, Foil to Conspiracy</reverse-related>
             <reverse-related>Lazav, Wearer of Faces</reverse-related>
             <reverse-related>Library</reverse-related>
@@ -4087,6 +4087,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/e/ee285548-04c8-4562-bf66-a0bb53acfe76.jpg?1767954860" uuid="ee285548-04c8-4562-bf66-a0bb53acfe76">ECC</set>
             <set picURL="https://cards.scryfall.io/large/front/6/c/6c6c62a5-dd1d-4d37-a2da-6e4e6b5bec40.jpg?1721426949" uuid="6c6c62a5-dd1d-4d37-a2da-6e4e6b5bec40">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/1/7/17057115-9163-4f91-b2b9-8387ea547c9d.jpg?1591319124" uuid="17057115-9163-4f91-b2b9-8387ea547c9d">C20</set>
             <set picURL="https://cards.scryfall.io/large/front/7/8/7810827c-55ab-431d-a342-d115d97da082.jpg?1562919055" uuid="7810827c-55ab-431d-a342-d115d97da082">C16</set>
@@ -4168,6 +4169,7 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>*/*</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/7/e/7ec88cb2-7a77-45ae-b2c8-f8d09452d619.jpg?1767955123" uuid="7ec88cb2-7a77-45ae-b2c8-f8d09452d619">ECC</set>
             <set picURL="https://cards.scryfall.io/large/front/8/6/8676704a-419e-4a00-a052-bca2ad34ecae.jpg?1601138189" uuid="8676704a-419e-4a00-a052-bca2ad34ecae">2XM</set>
             <set picURL="https://cards.scryfall.io/large/back/7/0/70f1f745-9fc2-41a6-9d39-fb4964595cf5.jpg?1571508365" uuid="70f1f745-9fc2-41a6-9d39-fb4964595cf5">UST</set>
             <set picURL="https://cards.scryfall.io/large/front/0/4/04b980ff-02ad-447e-8815-16cd0112ce60.jpg?1562840731" uuid="04b980ff-02ad-447e-8815-16cd0112ce60">MM3</set>
@@ -4270,9 +4272,11 @@ When Earthshaker Khenra enters the battlefield, target creature with power less 
                 <cmc>0</cmc>
                 <pt>5/5</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/a/1ab6cab4-a3a5-4b48-832a-1d486e8094a5.jpg?1767955096" uuid="1ab6cab4-a3a5-4b48-832a-1d486e8094a5">ECC</set>
             <set picURL="https://cards.scryfall.io/large/front/5/e/5e3552f9-1c22-46f7-b606-c8a59950bf75.jpg?1752946424" uuid="5e3552f9-1c22-46f7-b606-c8a59950bf75">EOC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/4/448c05fc-8327-4c2a-aec2-fa08e297002d.jpg?1712319964" uuid="448c05fc-8327-4c2a-aec2-fa08e297002d">OTC</set>
             <set picURL="https://cards.scryfall.io/large/front/e/d/ed666385-a2e7-4e1f-ad2c-babbfc0c50b3.jpg?1562640123" uuid="ed666385-a2e7-4e1f-ad2c-babbfc0c50b3">BFZ</set>
+            <reverse-related count="x">Elemental Spectacle</reverse-related>
             <reverse-related>Omnath, Locus of Rage</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4576,6 +4580,23 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Elf Token</name>
+            <prop>
+                <colors>BG</colors>
+                <type>Token Creature — Elf</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/9/39b36f22-21f9-44fe-8a49-bdc859503342.jpg?1767955588" uuid="39b36f22-21f9-44fe-8a49-bdc859503342">ECL</set>
+            <reverse-related count="x">Morcant's Eyes</reverse-related>
+            <reverse-related>Scarblade's Malice</reverse-related>
+            <reverse-related>Stoic Grove-Guide</reverse-related>
+            <reverse-related>Unforgiving Aim</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Elf Warrior Token</name>
             <prop>
                 <colors>G</colors>
@@ -4584,6 +4605,7 @@ This creature's power and toughness are each equal to the number of instant and 
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/9/29e9326a-a435-44c7-939a-8da6ed3c4510.jpg?1767954990" uuid="29e9326a-a435-44c7-939a-8da6ed3c4510">ECC</set>
             <set picURL="https://cards.scryfall.io/large/front/3/1/315c45f4-7bc9-45d5-bbf5-2533cf80af60.jpg?1732803364" uuid="315c45f4-7bc9-45d5-bbf5-2533cf80af60">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/1/e/1e050305-6f8b-4261-a4b4-c9fa1dc99b0f.jpg?1689796762" uuid="1e050305-6f8b-4261-a4b4-c9fa1dc99b0f">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/0/2/023f668a-a8e6-4fcb-98d1-30adf343f050.jpg?1686264599" uuid="023f668a-a8e6-4fcb-98d1-30adf343f050">LTC</set>
@@ -4656,7 +4678,9 @@ This creature's power and toughness are each equal to the number of instant and 
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/c/f/cf36b5f2-e699-41c0-ae89-23cd9c414b54.jpg?1767955474" uuid="cf36b5f2-e699-41c0-ae89-23cd9c414b54">ECL</set>
             <set picURL="https://cards.scryfall.io/large/front/1/6/1632f3fa-4615-46ee-9768-22bbd9d142d6.jpg?1712316649" uuid="1632f3fa-4615-46ee-9768-22bbd9d142d6">OTJ</set>
+            <reverse-related count="2">Oko, Shadowmoor Scion</reverse-related>
             <reverse-related>Oko, the Ringleader</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -4685,7 +4709,7 @@ This creature's power and toughness are each equal to the number of instant and 
             <set picURL="https://cards.scryfall.io/large/front/6/b/6b76b7a4-f398-4bb4-833e-97ec0d4e581a.jpg?1726236906" uuid="6b76b7a4-f398-4bb4-833e-97ec0d4e581a">DSK</set>
             <reverse-related>Overlord of the Hauntwoods</reverse-related>
             <token>1</token>
-            <tablerow>1</tablerow>
+            <tablerow>0</tablerow>
         </card>
         <card>
             <name>Faerie Dragon (Token)</name>
@@ -4802,6 +4826,23 @@ This creature can block only creatures with flying.</text>
             <set picURL="https://cards.scryfall.io/large/front/0/f/0f9a993f-1f2b-4b17-b415-e975b7873e18.jpg?1692880732" uuid="0f9a993f-1f2b-4b17-b415-e975b7873e18">WOE</set>
             <reverse-related count="x=2">Faerie Slumber Party</reverse-related>
             <reverse-related>Into the Fae Court</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Faerie Token  </name>
+            <text>Flying</text>
+            <prop>
+                <colors>BU</colors>
+                <type>Token Creature — Faerie</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/1/01524db2-c96f-4902-8394-bc7a7128e573.jpg?1767956498" uuid="01524db2-c96f-4902-8394-bc7a7128e573">ECL</set>
+            <reverse-related>Bitterbloom Bearer</reverse-related>
+            <reverse-related count="x">Glen Elendra's Answer</reverse-related>
+            <reverse-related>Pestered Wellguard</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -5755,6 +5796,22 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <set picURL="https://cards.scryfall.io/large/front/1/d/1db51576-a755-45de-b37b-f16b27e8f3a1.jpg?1675456012" uuid="1db51576-a755-45de-b37b-f16b27e8f3a1">CLB</set>
             <set picURL="https://cards.scryfall.io/large/front/9/9/99a6ebce-f391-4642-857a-4dc1466895f3.jpg?1562926018" uuid="99a6ebce-f391-4642-857a-4dc1466895f3">C16</set>
             <reverse-related>Goblin Spymaster</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Goblin Token    </name>
+            <prop>
+                <colors>BR</colors>
+                <type>Token Creature — Goblin</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/1/6139a45d-ebc7-4bca-8c13-73c85ea5fe0d.jpg?1767955652" uuid="6139a45d-ebc7-4bca-8c13-73c85ea5fe0d">ECL</set>
+            <reverse-related count="2">Boggart Mischief</reverse-related>
+            <reverse-related>Elder Auntie</reverse-related>
+            <reverse-related count="2">Sourbread Auntie</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7644,6 +7701,28 @@ Trample</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Kithkin Token</name>
+            <prop>
+                <colors>GW</colors>
+                <type>Token Creature — Kithkin</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/e/2ed11e1b-2289-48d2-8d96-ee7e590ecfd4.jpg?1767955680" uuid="2ed11e1b-2289-48d2-8d96-ee7e590ecfd4">ECL</set>
+            <reverse-related>Ajani, Outland Chaperone</reverse-related>
+            <reverse-related>Brigid's Command</reverse-related>
+            <reverse-related>Brigid, Clachan's Heart</reverse-related>
+            <reverse-related count="2">Catharsis</reverse-related>
+            <reverse-related>Clachan Festival</reverse-related>
+            <reverse-related count="2" exclude="exclude">Clachan Festival</reverse-related>
+            <reverse-related>Goldmeadow Nomad</reverse-related>
+            <reverse-related>Kinbinding</reverse-related>
+            <reverse-related count="x">Kithkeeper</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Knight Ally Token</name>
             <prop>
                 <colors>W</colors>
@@ -8383,6 +8462,22 @@ Flying, vigilance, trample, lifelink, haste</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Merfolk Token  </name>
+            <prop>
+                <colors>UW</colors>
+                <type>Token Creature — Merfolk</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/4/c/4c5ad4e1-b489-4023-88ab-1200c5f26ffc.jpg?1767955704" uuid="4c5ad4e1-b489-4023-88ab-1200c5f26ffc">ECL</set>
+            <reverse-related>Merrow Skyswimmer</reverse-related>
+            <reverse-related>Silvergill Mentor</reverse-related>
+            <reverse-related count="x">Wanderwine Farewell</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Merfolk Wizard Token</name>
             <prop>
                 <colors>U</colors>
@@ -8829,6 +8924,20 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related count="x" exclude="exclude">The Curse of Fenric</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Mutavault (Token)</name>
+            <text>{T}: Add {C}.
+{1}: This token becomes a 2/2 creature with all creature types until end of turn. It's still a land.</text>
+            <prop>
+                <type>Token Land</type>
+                <maintype>Land</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/d/3d2f5d31-a1c6-465f-b518-b40acdfab8aa.jpg?1767955820" uuid="3d2f5d31-a1c6-465f-b518-b40acdfab8aa">ECL</set>
+            <reverse-related>Mutable Explorer</reverse-related>
+            <token>1</token>
+            <tablerow>0</tablerow>
         </card>
         <card>
             <name>Myr Token</name>
@@ -10070,6 +10179,7 @@ Creatures you control attack each combat if able.</text>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/d/3db07715-d315-4361-8af5-ce68d20e6c08.jpg?1767955008" uuid="3db07715-d315-4361-8af5-ce68d20e6c08">ECC</set>
             <set picURL="https://cards.scryfall.io/large/front/8/7/8709f51f-a1a5-46dc-bd72-c511797e1b3c.jpg?1742583199" uuid="8709f51f-a1a5-46dc-bd72-c511797e1b3c">TDC</set>
             <set picURL="https://cards.scryfall.io/large/front/b/0/b0d3a058-3e25-4bb9-895b-ad2285c50bca.jpg?1717191911" uuid="b0d3a058-3e25-4bb9-895b-ad2285c50bca">MH3</set>
             <set picURL="https://cards.scryfall.io/large/front/2/9/29ab531f-8dce-43a2-af8d-584f02982375.jpg?1712319889" uuid="29ab531f-8dce-43a2-af8d-584f02982375">OTC</set>
@@ -10594,6 +10704,7 @@ When this token enters, it deals 3 damage to any target.</text>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/f/8f4188d4-a371-49be-ad33-ad87801ba99d.jpg?1767955030" uuid="8f4188d4-a371-49be-ad33-ad87801ba99d">ECC</set>
             <set picURL="https://cards.scryfall.io/large/front/e/e/eec70281-7bdf-46b8-903e-a8a46b7d47bf.jpg?1706129624" uuid="eec70281-7bdf-46b8-903e-a8a46b7d47bf">MKC</set>
             <set picURL="https://cards.scryfall.io/large/front/2/3/230419f9-a9f7-441d-bad7-0ed867326aa1.jpg?1674337936" uuid="230419f9-a9f7-441d-bad7-0ed867326aa1">SNC</set>
             <reverse-related count="x">Crash the Party</reverse-related>
@@ -10879,6 +10990,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/4/34032448-fe31-44c7-845c-37fea0b8e762.jpg?1767955055" uuid="34032448-fe31-44c7-845c-37fea0b8e762">ECC</set>
             <set picURL="https://cards.scryfall.io/large/front/5/9/590abe94-9c71-4429-b1b5-8b5de877de03.jpg?1721427861" uuid="590abe94-9c71-4429-b1b5-8b5de877de03">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/3/e/3ef1b559-ec63-4775-824f-bef0b3094807.jpg?1717193977" uuid="3ef1b559-ec63-4775-824f-bef0b3094807">M3C</set>
             <set picURL="https://cards.scryfall.io/large/front/f/3/f38381fd-e368-46b2-94e9-89c9b182435d.jpg?1706130511" uuid="f38381fd-e368-46b2-94e9-89c9b182435d">MKC</set>
@@ -10930,6 +11042,7 @@ Equip {1}</text>
             <reverse-related>Dreampod Druid</reverse-related>
             <reverse-related>Druidic Satchel</reverse-related>
             <reverse-related>Elvish Farmer</reverse-related>
+            <reverse-related count="x">Ferrafor, Young Yew</reverse-related>
             <reverse-related count="x=2">Fertile Imagination</reverse-related>
             <reverse-related count="2">Fists of Ironwood</reverse-related>
             <reverse-related>Flash Foliage</reverse-related>
@@ -11077,6 +11190,19 @@ Equip {1}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Scarecrow Token </name>
+            <prop>
+                <type>Token Artifact Creature — Scarecrow</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/a/9ae02771-2917-4d6e-9608-1a592389439a.jpg?1767955222" uuid="9ae02771-2917-4d6e-9608-1a592389439a">ECC</set>
+            <reverse-related count="x">Wickersmith's Tools</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Scion of the Deep</name>
             <prop>
                 <colors>U</colors>
@@ -11215,13 +11341,19 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/c/2/c2963ce1-f9d8-437a-9489-e0913a8b8d26.jpg?1767660071" uuid="c2963ce1-f9d8-437a-9489-e0913a8b8d26">ECL</set>
             <set picURL="https://cards.scryfall.io/large/front/1/f/1f83e08c-b3c6-4a8f-8764-dc225141c1c2.jpg?1717193534" uuid="1f83e08c-b3c6-4a8f-8764-dc225141c1c2">M3C</set>
             <set picURL="https://cards.scryfall.io/large/front/c/6/c6bde9bf-fffc-4b86-9698-d5620b21d6b8.jpg?1675455920" uuid="c6bde9bf-fffc-4b86-9698-d5620b21d6b8">CLB</set>
             <set picURL="https://cards.scryfall.io/large/front/7/9/798cef87-237b-4e4a-b7ed-78d15c720391.jpg?1598311416" uuid="798cef87-237b-4e4a-b7ed-78d15c720391">2XM</set>
             <set picURL="https://cards.scryfall.io/large/front/d/0/d01a5225-4a61-4fa3-b38b-452606140781.jpg?1592709979" uuid="d01a5225-4a61-4fa3-b38b-452606140781">C18</set>
             <set picURL="https://cards.scryfall.io/large/front/5/7/57753582-85bc-4485-b924-eaab563678d6.jpg?1562857266" uuid="57753582-85bc-4485-b924-eaab563678d6">C15</set>
             <set picURL="https://cards.scryfall.io/large/front/1/a/1a7d89ca-8611-4bda-b5c8-0350ce091102.jpg?1562636694" uuid="1a7d89ca-8611-4bda-b5c8-0350ce091102">LRW</set>
+            <reverse-related>Abundant Countryside</reverse-related>
+            <reverse-related count="3">Belonging</reverse-related>
             <reverse-related>Crib Swap</reverse-related>
+            <reverse-related>Personify</reverse-related>
+            <reverse-related count="x">Springleaf Parade</reverse-related>
+            <reverse-related>Stalactite Dagger</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -11740,6 +11872,7 @@ When enchanted creature dies, it deals 1 damage to its controller and you create
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/a/9a9380a8-8f38-47cd-8648-20626c06b9b3.jpg?1767955081" uuid="9a9380a8-8f38-47cd-8648-20626c06b9b3">ECC</set>
             <set picURL="https://cards.scryfall.io/large/front/6/a/6aaa8539-8d21-4da1-8410-d4354078390f.jpg?1562844799" uuid="6aaa8539-8d21-4da1-8410-d4354078390f">AKH</set>
             <reverse-related>Hapatra, Vizier of Poisons</reverse-related>
             <token>1</token>
@@ -12077,7 +12210,7 @@ When enchanted creature dies, it deals 1 damage to its controller and you create
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
-         <card>
+        <card>
             <name>Soldier Token          </name>
             <prop>
                 <colors>R</colors>
@@ -13633,6 +13766,7 @@ This creature can't be enchanted.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/a/c/ac4384b7-853c-417d-b3b4-f54cd0b5d361.jpg?1767955781" uuid="ac4384b7-853c-417d-b3b4-f54cd0b5d361">ECL</set>
             <set picURL="https://cards.scryfall.io/large/front/e/e/ee9ffe19-fea7-4dcc-a673-26be06d2f1be.jpg?1762595854" uuid="ee9ffe19-fea7-4dcc-a673-26be06d2f1be">TLA</set>
             <set picURL="https://cards.scryfall.io/large/front/d/5/d52efeb3-661d-45e9-97c3-af167f889684.jpg?1757379348" uuid="d52efeb3-661d-45e9-97c3-af167f889684">SPM</set>
             <set picURL="https://cards.scryfall.io/large/front/a/b/ab0cda01-10b5-4a1b-b2bb-ad8bb296590f.jpg?1748704105" uuid="ab0cda01-10b5-4a1b-b2bb-ad8bb296590f">FIN</set>
@@ -13685,6 +13819,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Ancestors' Aid</reverse-related>
             <reverse-related count="10">Ancient Adamantoise</reverse-related>
             <reverse-related count="x">Ancient Copper Dragon</reverse-related>
+            <reverse-related count="2">Ashling's Command</reverse-related>
             <reverse-related count="3">Atsushi, the Blazing Sky</reverse-related>
             <reverse-related>Axgard Artisan</reverse-related>
             <reverse-related count="x">Baeloth Barrityl, Entertainer</reverse-related>
@@ -13758,6 +13893,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Fae Offering</reverse-related>
             <reverse-related>Fain, the Broker</reverse-related>
             <reverse-related>Fake Your Own Death</reverse-related>
+            <reverse-related>Flamekin Gildweaver</reverse-related>
             <reverse-related>Flick a Coin</reverse-related>
             <reverse-related>Forging the Tyrite Sword</reverse-related>
             <reverse-related>Forsworn Paladin</reverse-related>
@@ -13878,6 +14014,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Namazu Trader</reverse-related>
             <reverse-related>New New York</reverse-related>
             <reverse-related>Noble's Purse</reverse-related>
+            <reverse-related>Noggle Robber</reverse-related>
             <reverse-related>North Pole Research Base</reverse-related>
             <reverse-related exclude="exclude">Nuka-Cola Vending Machine</reverse-related>
             <reverse-related exclude="exclude">Oath of the Grey Host</reverse-related>
@@ -13923,6 +14060,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Rashmi and Ragavan</reverse-related>
             <reverse-related count="x">Reckless Endeavor</reverse-related>
             <reverse-related>Reckless Lackey</reverse-related>
+            <reverse-related>Reckless Ransacking</reverse-related>
             <reverse-related>Reckoner Bankbuster</reverse-related>
             <reverse-related>Redcap Thief</reverse-related>
             <reverse-related>Redrock Sentinel</reverse-related>
@@ -13942,6 +14080,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Sassy Gremlin Blood</reverse-related>
             <reverse-related>Scion of Opulence</reverse-related>
             <reverse-related count="x" exclude="exclude">Scion of Opulence</reverse-related>
+            <reverse-related>Scuzzback Scrounger</reverse-related>
             <reverse-related>Season of the Bold</reverse-related>
             <reverse-related count="x" exclude="exclude">Season of the Bold</reverse-related>
             <reverse-related>Seize the Spoils</reverse-related>
@@ -14002,6 +14141,8 @@ This creature can't be enchanted.</text>
             <reverse-related count="x">Vault 21: House Gambit</reverse-related>
             <reverse-related>Vault Robber</reverse-related>
             <reverse-related count="x">Vazi, Keen Negotiator</reverse-related>
+            <reverse-related>Village Pillagers</reverse-related>
+            <reverse-related count="x" exclude="exclude">Village Pillagers</reverse-related>
             <reverse-related count="x">Visions of Ruin</reverse-related>
             <reverse-related>Volatile Fault</reverse-related>
             <reverse-related>Vraska, Relic Seeker</reverse-related>
@@ -14065,6 +14206,22 @@ This creature's power and toughness are each equal to the number of lands you co
             <set picURL="https://cards.scryfall.io/large/front/e/2/e2d7531f-93b5-4601-8337-b0f3ade3a890.jpg?1726237861" uuid="e2d7531f-93b5-4601-8337-b0f3ade3a890">DSC</set>
             <set picURL="https://cards.scryfall.io/large/front/9/4/94e4345b-61b1-4026-a01c-c9f2036c5c8a.jpg?1708345264" uuid="94e4345b-61b1-4026-a01c-c9f2036c5c8a">MID</set>
             <reverse-related>Wrenn and Seven</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Treefolk Token  </name>
+            <text>Reach</text>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Treefolk</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/4</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/2/82e01706-ab45-4e52-9ee1-7070567234fd.jpg?1767955530" uuid="82e01706-ab45-4e52-9ee1-7070567234fd">ECL</set>
+            <reverse-related>Sapling Nursery</reverse-related>
+            <reverse-related>Tend the Sprigs</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -15213,12 +15370,14 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/b/3/b3c0ff23-6c20-4637-99d6-6cbca26d75ba.jpg?1767955743" uuid="b3c0ff23-6c20-4637-99d6-6cbca26d75ba">ECL</set>
             <set picURL="https://cards.scryfall.io/large/front/7/4/74b0276f-004e-458a-b941-e217216141f6.jpg?1592710098" uuid="74b0276f-004e-458a-b941-e217216141f6">C18</set>
             <set picURL="https://cards.scryfall.io/large/front/f/b/fb508d76-5e34-45f9-b0bb-9dbbf8caadbf.jpg?1562945714" uuid="fb508d76-5e34-45f9-b0bb-9dbbf8caadbf">C16</set>
             <set picURL="https://cards.scryfall.io/large/front/1/f/1fd82205-5d3e-4a8d-a31b-020efc6303d0.jpg?1562701940" uuid="1fd82205-5d3e-4a8d-a31b-020efc6303d0">MM2</set>
             <set picURL="https://cards.scryfall.io/large/front/8/2/828b9eb1-ccdc-4540-9d53-7853539af189.jpg?1562702171" uuid="828b9eb1-ccdc-4540-9d53-7853539af189">MMA</set>
             <set picURL="https://cards.scryfall.io/large/front/0/7/0788f7a4-793a-42f4-a7c9-05e4b4587897.jpg?1561756613" uuid="0788f7a4-793a-42f4-a7c9-05e4b4587897">EVE</set>
             <reverse-related>Creakwood Liege</reverse-related>
+            <reverse-related count="x">Lluwen, Imperfect Naturalist</reverse-related>
             <reverse-related count="x">Worm Harvest</reverse-related>
             <reverse-related count="2">Wriggling Grub</reverse-related>
             <token>1</token>
@@ -15557,6 +15716,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/7/17f001ab-514b-49e7-a657-b2872ad7a1de.jpg?1767954964" uuid="17f001ab-514b-49e7-a657-b2872ad7a1de">ECC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/c/4cecd5c6-d6c8-4cd5-97a3-cddaf051af15.jpg?1749245686" uuid="4cecd5c6-d6c8-4cd5-97a3-cddaf051af15">FIC</set>
             <set picURL="https://cards.scryfall.io/large/front/b/8/b82be730-c63b-4c2b-99f4-476befdb95cb.jpg?1738355219" uuid="b82be730-c63b-4c2b-99f4-476befdb95cb">DFT</set>
             <set picURL="https://cards.scryfall.io/large/front/e/2/e29a360b-11fd-42ba-82ba-de8f7e136c20.jpg?1732803360" uuid="e29a360b-11fd-42ba-82ba-de8f7e136c20">FDN</set>
@@ -16754,6 +16914,18 @@ Whenever an opponent draws a card, this emblem deals 1 damage to them.</text>
             <tablerow>1</tablerow>
         </card>
         <card>
+            <name>Oko, Shadowmoor Scion Emblem</name>
+            <text>Creatures you control of the chosen type get +3/+3 and have vigilance and hexproof.</text>
+            <prop>
+                <type>Emblem</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/d/0d9d6611-bc46-4fc1-8e39-460f56236ceb.jpg?1767955914" uuid="0d9d6611-bc46-4fc1-8e39-460f56236ceb">ECL</set>
+            <reverse-related exclude="exclude">Oko, Shadowmoor Scion</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Ral, Crackling Wit Emblem</name>
             <text>Instant and sorcery spells you cast have storm.</text>
             <prop>
@@ -17555,6 +17727,7 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
                 <type>Counter</type>
                 <maintype>Counter</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/a/8a9cb417-8709-4336-be36-2fb0cea31fe1.jpg?1768158241" uuid="8a9cb417-8709-4336-be36-2fb0cea31fe1">ECC</set>
             <set picURL="https://cards.scryfall.io/large/front/7/a/7afb0ba4-9a1b-4cd5-8d0f-2f697c6d3ab1.jpg?1721428757" uuid="7afb0ba4-9a1b-4cd5-8d0f-2f697c6d3ab1">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/0/40255bfa-0004-45f1-a31b-17d385f09a95.jpg?1675957570" uuid="40255bfa-0004-45f1-a31b-17d385f09a95">ONE</set>
             <set picURL="https://cards.scryfall.io/large/front/4/7/470618f6-f67f-44c6-a086-285632508915.jpg?1561757039" uuid="470618f6-f67f-44c6-a086-285632508915">NPH</set>
@@ -17780,10 +17953,10 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
             <reverse-related>Airbending Lesson</reverse-related>
             <reverse-related>Appa, Loyal Sky Bison</reverse-related>
             <reverse-related exclude="exclude">Appa, Steadfast Guardian</reverse-related>
+            <reverse-related>Avatar Yangchen</reverse-related>
             <reverse-related>Avatar's Wrath</reverse-related>
             <reverse-related>Glider Staff</reverse-related>
             <reverse-related>Monk Gyatso</reverse-related>
-            <reverse-related>Avatar Yangchen</reverse-related>
             <reverse-related>Whirlwind Technique</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -18112,6 +18285,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>State</type>
                 <maintype>State</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/6/f629bba8-e2ef-4d1c-8f64-339879289a6d.jpg?1768158267" uuid="f629bba8-e2ef-4d1c-8f64-339879289a6d">ECC</set>
             <set picURL="https://cards.scryfall.io/large/front/6/6/66f569e1-5a37-4801-be01-9c5d44a82427.jpg?1749245701" uuid="66f569e1-5a37-4801-be01-9c5d44a82427">FIC</set>
             <set picURL="https://cards.scryfall.io/large/front/9/7/97793b27-54d1-4870-9a86-680741ca8730.jpg?1712320267" uuid="97793b27-54d1-4870-9a86-680741ca8730">OTC</set>
             <set picURL="https://cards.scryfall.io/large/front/0/1/014627ea-1d70-4cd2-8c4e-103616e271f7.jpg?1706130165" uuid="014627ea-1d70-4cd2-8c4e-103616e271f7">MKC</set>
@@ -18153,6 +18327,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>Feast of Succession</reverse-related>
             <reverse-related exclude="exclude">Forth Eorlingas!</reverse-related>
             <reverse-related>Garrulous Sycophant</reverse-related>
+            <reverse-related>Grave Venerations</reverse-related>
             <reverse-related>Jared Carthalion, True Heir</reverse-related>
             <reverse-related>Keeper of Keys</reverse-related>
             <reverse-related>Knights of the Black Rose</reverse-related>
@@ -18588,6 +18763,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>Token</type>
                 <maintype>Token</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/1/61328aec-ba26-4142-a774-96924303786d.jpg?1767794310" uuid="61328aec-ba26-4142-a774-96924303786d">ECC</set>
             <set picURL="https://cards.scryfall.io/large/front/2/b/2b3d7795-3fc3-4b78-bdf4-0a79981f1eee.jpg?1762595417" uuid="2b3d7795-3fc3-4b78-bdf4-0a79981f1eee">TLA</set>
             <set picURL="https://cards.scryfall.io/large/front/e/9/e980eddf-92f8-4dc4-8bad-b2f3dcaf03ef.jpg?1757379290" uuid="e980eddf-92f8-4dc4-8bad-b2f3dcaf03ef">SPM</set>
             <set picURL="https://cards.scryfall.io/large/front/0/9/09d6521e-438a-4d16-992f-f2ab27b26ce4.jpg?1752946393" uuid="09d6521e-438a-4d16-992f-f2ab27b26ce4">EOC</set>
