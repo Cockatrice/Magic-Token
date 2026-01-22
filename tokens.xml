@@ -7711,8 +7711,8 @@ Trample</text>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/2/e/2ed11e1b-2289-48d2-8d96-ee7e590ecfd4.jpg?1767955680" uuid="2ed11e1b-2289-48d2-8d96-ee7e590ecfd4">ECL</set>
             <reverse-related>Ajani, Outland Chaperone</reverse-related>
-            <reverse-related>Brigid, Clachan's Heart</reverse-related>
             <reverse-related>Brigid's Command</reverse-related>
+            <reverse-related>Brigid, Clachan's Heart</reverse-related>
             <reverse-related count="2">Catharsis</reverse-related>
             <reverse-related>Clachan Festival</reverse-related>
             <reverse-related count="2" exclude="exclude">Clachan Festival</reverse-related>
@@ -14080,8 +14080,8 @@ This creature can't be enchanted.</text>
             <reverse-related>Sassy Gremlin Blood</reverse-related>
             <reverse-related>Scion of Opulence</reverse-related>
             <reverse-related count="x" exclude="exclude">Scion of Opulence</reverse-related>
-            <reverse-related>Season of the Bold</reverse-related>
             <reverse-related>Scuzzback Scrounger</reverse-related>
+            <reverse-related>Season of the Bold</reverse-related>
             <reverse-related count="x" exclude="exclude">Season of the Bold</reverse-related>
             <reverse-related>Seize the Spoils</reverse-related>
             <reverse-related count="x">Seize the Spotlight</reverse-related>
@@ -14141,10 +14141,10 @@ This creature can't be enchanted.</text>
             <reverse-related count="x">Vault 21: House Gambit</reverse-related>
             <reverse-related>Vault Robber</reverse-related>
             <reverse-related count="x">Vazi, Keen Negotiator</reverse-related>
-            <reverse-related count="x">Visions of Ruin</reverse-related>
-            <reverse-related>Volatile Fault</reverse-related>
             <reverse-related>Village Pillagers</reverse-related>
             <reverse-related count="x" exclude="exclude">Village Pillagers</reverse-related>
+            <reverse-related count="x">Visions of Ruin</reverse-related>
+            <reverse-related>Volatile Fault</reverse-related>
             <reverse-related>Vraska, Relic Seeker</reverse-related>
             <reverse-related count="2">Wanted Scoundrels</reverse-related>
             <reverse-related>Warren Soultrader</reverse-related>
@@ -17953,10 +17953,10 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
             <reverse-related>Airbending Lesson</reverse-related>
             <reverse-related>Appa, Loyal Sky Bison</reverse-related>
             <reverse-related exclude="exclude">Appa, Steadfast Guardian</reverse-related>
+            <reverse-related>Avatar Yangchen</reverse-related>
             <reverse-related>Avatar's Wrath</reverse-related>
             <reverse-related>Glider Staff</reverse-related>
             <reverse-related>Monk Gyatso</reverse-related>
-            <reverse-related>Avatar Yangchen</reverse-related>
             <reverse-related>Whirlwind Technique</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
