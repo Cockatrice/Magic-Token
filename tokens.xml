@@ -6254,7 +6254,14 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/2/d/2d132d9b-00dd-4ab9-b195-1857f3cee37b.jpg?1748704056" uuid="2d132d9b-00dd-4ab9-b195-1857f3cee37b">FIN</set>
+        <set picURL="https://cards.scryfall.io/large/front/d/0/d0657ce1-bf75-4007-ac1b-0623eb263357.jpg?1748704030" uuid="d0657ce1-bf75-4007-ac1b-0623eb263357">FIN</set>
+        <set picURL="https://cards.scryfall.io/large/front/3/3/3308e4bf-950f-4b83-969a-2a95f077552f.jpg?1748704035" uuid="3308e4bf-950f-4b83-969a-2a95f077552f">FIN</set>
+        <set picURL="https://cards.scryfall.io/large/front/a/2/a257329e-28b9-4ab6-ae05-f6ce0070cb35.jpg?1748704038" uuid="a257329e-28b9-4ab6-ae05-f6ce0070cb35">FIN</set>
+        <set picURL="https://cards.scryfall.io/large/front/5/6/5619d240-3832-477b-ad30-8d310c90f555.jpg?1748704042" uuid="5619d240-3832-477b-ad30-8d310c90f555">FIN</set>
+        <set picURL="https://cards.scryfall.io/large/front/c/3/c39b8112-6a5c-4080-a884-2b4d6e5276ef.jpg?1748704045" uuid="c39b8112-6a5c-4080-a884-2b4d6e5276ef">FIN</set>
+        <set picURL="https://cards.scryfall.io/large/front/c/8/c82c74c1-fb73-4d4d-808e-2f4d7b97c97d.jpg?1748704049" uuid="c82c74c1-fb73-4d4d-808e-2f4d7b97c97d">FIN</set>
+        <set picURL="https://cards.scryfall.io/large/front/7/f/7fc68b53-e23d-4762-aa53-e634e856be47.jpg?1748704052" uuid="7fc68b53-e23d-4762-aa53-e634e856be47">FIN</set>
+        <set picURL="https://cards.scryfall.io/large/front/2/d/2d132d9b-00dd-4ab9-b195-1857f3cee37b.jpg?1748704056" uuid="2d132d9b-00dd-4ab9-b195-1857f3cee37b">FIN</set>
             <reverse-related count="3">Aerith Rescue Mission</reverse-related>
             <reverse-related attach="attach">Astrologian's Planisphere</reverse-related>
             <reverse-related attach="attach">Bard's Bow</reverse-related>
@@ -15183,6 +15190,7 @@ Equip {1}</text>
                 <pt>0/1</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/1/8/187fe54c-7d0c-4225-9d46-3affbead897d.jpg?1748704073" uuid="187fe54c-7d0c-4225-9d46-3affbead897d">FIN</set>
+            <set picURL="https://cards.scryfall.io/large/front/e/2/e27f28ec-d5e7-4415-96cc-b666cdecae08.jpg?1748704077" uuid="e27f28ec-d5e7-4415-96cc-b666cdecae08">FIN</set>
             <reverse-related>Circle of Power</reverse-related>
             <reverse-related>Cornered by Black Mages</reverse-related>
             <reverse-related>Kuja, Genome Sorcerer</reverse-related>
