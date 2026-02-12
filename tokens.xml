@@ -18074,23 +18074,36 @@ If a player casts no spells during their own turn, it becomes night next turn.</
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/9/c/9c0f7843-4cbb-4d0f-8887-ec823a9238da.jpg?1644880530" uuid="9c0f7843-4cbb-4d0f-8887-ec823a9238da">MID</set>
             <related attach="transform">Night</related>
+            <reverse-related>Angel of Eternal Dawn</reverse-related>
             <reverse-related exclude="exclude">Arlinn, the Pack's Hope</reverse-related>
+            <reverse-related>Avabruck Caretaker</reverse-related>
+            <reverse-related>Ballista Watcher</reverse-related>
             <reverse-related>Baneblade Scoundrel</reverse-related>
             <reverse-related>Bird Admirer</reverse-related>
             <reverse-related>Brimstone Vandal</reverse-related>
             <reverse-related>Brutal Cathar</reverse-related>
             <reverse-related>Burly Breaker</reverse-related>
             <reverse-related>Celestus Sanctifier</reverse-related>
+            <reverse-related exclude="exclude">Child of the Pack</reverse-related>
             <reverse-related>Component Collector</reverse-related>
             <reverse-related>Curse of Leeches</reverse-related>
             <reverse-related>Fangblade Brigand</reverse-related>
+            <reverse-related>Fearful Villager</reverse-related>
             <reverse-related>Firmament Sage</reverse-related>
             <reverse-related>Gavony Dawnguard</reverse-related>
             <reverse-related>Graveyard Trespasser</reverse-related>
             <reverse-related>Harvesttide Infiltrator</reverse-related>
+            <reverse-related>Hookhand Mariner</reverse-related>
             <reverse-related>Hound Tamer</reverse-related>
+            <reverse-related>Howlpack Piper</reverse-related>
+            <reverse-related>Ill-Tempered Loner</reverse-related>
+            <reverse-related exclude="exclude">Infestation Expert</reverse-related>
             <reverse-related>Kessig Naturalist</reverse-related>
+            <reverse-related>Lambholt Raconteur</reverse-related>
+            <reverse-related>Oakshade Stalker</reverse-related>
+            <reverse-related>Obsessive Astronomer</reverse-related>
             <reverse-related>Outland Liberator</reverse-related>
+            <reverse-related>Rahilda, Wanted Cutthroat</reverse-related>
             <reverse-related>Reckless Stormseeker</reverse-related>
             <reverse-related>Shady Traveler</reverse-related>
             <reverse-related>Spellrune Painter</reverse-related>
@@ -18104,6 +18117,10 @@ If a player casts no spells during their own turn, it becomes night next turn.</
             <reverse-related>Tovolar, Dire Overlord</reverse-related>
             <reverse-related>Vadrik, Astral Archmage</reverse-related>
             <reverse-related>Village Watch</reverse-related>
+            <reverse-related>Volatile Arsonist</reverse-related>
+            <reverse-related>Weary Prisoner</reverse-related>
+            <reverse-related>Weaver of Blossoms</reverse-related>
+            <reverse-related>Wolfkin Outcast</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -18118,6 +18135,7 @@ If a player casts at least two spells during their own turn, it becomes day next
             </prop>
             <set picURL="https://cards.scryfall.io/large/back/9/c/9c0f7843-4cbb-4d0f-8887-ec823a9238da.jpg?1644880530" uuid="9c0f7843-4cbb-4d0f-8887-ec823a9238da">MID</set>
             <related attach="transform">Day</related>
+            <reverse-related>Into the Night</reverse-related>
             <reverse-related>Unnatural Moonrise</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
