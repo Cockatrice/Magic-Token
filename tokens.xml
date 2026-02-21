@@ -2326,6 +2326,7 @@ Cloud Sprite can block only creatures with flying.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/c/3/c321b9e4-ab7e-4e8a-988f-5463c776d685.jpg?1771590258" uuid="c321b9e4-ab7e-4e8a-988f-5463c776d685" num="2">TMC</set>
             <set picURL="https://cards.scryfall.io/large/front/9/8/98bdb578-e81e-40f9-9c06-b2867158baef.jpg?1764117743" uuid="98bdb578-e81e-40f9-9c06-b2867158baef">TLA</set>
             <set picURL="https://cards.scryfall.io/large/front/1/5/15866ed4-1ca3-427f-99ba-ee26ede9ae18.jpg?1752946432" uuid="15866ed4-1ca3-427f-99ba-ee26ede9ae18">EOC</set>
             <set picURL="https://cards.scryfall.io/large/front/6/e/6e886e0b-2ce7-4231-a47c-a39bda50e8fd.jpg?1749245699" uuid="6e886e0b-2ce7-4231-a47c-a39bda50e8fd">FIC</set>
@@ -2359,6 +2360,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Angelic Sleuth</reverse-related>
             <reverse-related count="x" exclude="exclude">Angelic Sleuth</reverse-related>
             <reverse-related>Antarctic Research Base</reverse-related>
+            <reverse-related>April O'Neil, Live on the Scene</reverse-related>
             <reverse-related count="2">Armed with Proof</reverse-related>
             <reverse-related>Auspicious Arrival</reverse-related>
             <reverse-related>Azula, On the Hunt</reverse-related>
@@ -3084,6 +3086,20 @@ When this creature dies, create a colorless Treasure artifact token.</text>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/a/7/a7e24a8f-3663-47c6-94b1-4525ae9da3b5.jpg?1699017427" uuid="a7e24a8f-3663-47c6-94b1-4525ae9da3b5">LCI</set>
             <reverse-related count="2">Palani's Hatcher</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Dinosaur Soldier Token</name>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Dinosaur Soldier</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/8/f8845523-62d5-451c-aa20-780c64bb44b3.jpg?1771590377" uuid="f8845523-62d5-451c-aa20-780c64bb44b3" num="2">TMT</set>
+            <reverse-related count="x">Triceraton Commander</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -5043,6 +5059,7 @@ When this creature enters, target creature you control gains flying until end of
                 <type>Token Artifact — Food</type>
                 <maintype>Artifact</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/2/e2b62092-57df-4d95-b2b9-961794e7c20b.jpg?1771590558" uuid="e2b62092-57df-4d95-b2b9-961794e7c20b" num="8">TMT</set>
             <set picURL="https://cards.scryfall.io/large/front/d/0/d0e54f01-1301-481f-ace0-87966b5135f0.jpg?1764117767" uuid="d0e54f01-1301-481f-ace0-87966b5135f0">TLA</set>
             <set picURL="https://cards.scryfall.io/large/front/0/f/0fb2c5a4-859e-40ac-8091-7ba44f57b878.jpg?1757379328" uuid="0fb2c5a4-859e-40ac-8091-7ba44f57b878">SPM</set>
             <set picURL="https://cards.scryfall.io/large/front/4/8/4853f6f5-476d-4109-a1c6-f98f4d332db3.jpg?1748704103" uuid="4853f6f5-476d-4109-a1c6-f98f4d332db3">FIN</set>
@@ -5091,6 +5108,7 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Cirith Ungol Patrol</reverse-related>
             <reverse-related>City Pigeon</reverse-related>
             <reverse-related>Concession Stand</reverse-related>
+            <reverse-related>Courier of Comestibles</reverse-related>
             <reverse-related>Creeping Crystal Coating</reverse-related>
             <reverse-related>Crumb and Get It</reverse-related>
             <reverse-related>Curious Pair // Treats to Share</reverse-related>
@@ -5103,6 +5121,7 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Fae Offering</reverse-related>
             <reverse-related count="x" exclude="exclude">Farmer Cotton</reverse-related>
             <reverse-related count="3">Feasting Troll King</reverse-related>
+            <reverse-related>Featherbrained Filcher</reverse-related>
             <reverse-related>Feed the Cauldron</reverse-related>
             <reverse-related>Fell the Pheasant</reverse-related>
             <reverse-related>Field-Tested Frying Pan</reverse-related>
@@ -5136,13 +5155,16 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related count="x">Killer Service</reverse-related>
             <reverse-related>Late to Dinner</reverse-related>
             <reverse-related>Leaves from the Vine</reverse-related>
+            <reverse-related>Lita, Little Orphan Amphibian</reverse-related>
             <reverse-related>Madame Vastra</reverse-related>
             <reverse-related>Many Partings</reverse-related>
             <reverse-related>Meriadoc Brandybuck</reverse-related>
+            <reverse-related>Michelangelo, the Heart</reverse-related>
             <reverse-related>Midnight Snack</reverse-related>
             <reverse-related>Mintstrosity</reverse-related>
             <reverse-related>Momo, Playful Pet</reverse-related>
             <reverse-related>Night of the Sweets' Revenge</reverse-related>
+            <reverse-related>Ninja Pizza</reverse-related>
             <reverse-related>Nocturnal Hunger</reverse-related>
             <reverse-related>Nuka-Cola Vending Machine</reverse-related>
             <reverse-related>Oath of the Grey Host</reverse-related>
@@ -5151,9 +5173,11 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Old Flitterfang</reverse-related>
             <reverse-related count="2">Orchard Strider</reverse-related>
             <reverse-related>Overencumbered</reverse-related>
+            <reverse-related count="x=2">Party Dude</reverse-related>
             <reverse-related>Pawpatch Formation</reverse-related>
             <reverse-related>Peregrin Took</reverse-related>
             <reverse-related>Pippin, Warden of Isengard</reverse-related>
+            <reverse-related>Pizza Face, Gastromancer</reverse-related>
             <reverse-related>Provisions Merchant</reverse-related>
             <reverse-related count="x">Questionable Cuisine</reverse-related>
             <reverse-related>Rapacious Guest</reverse-related>
@@ -5183,6 +5207,7 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Stew the Coneys</reverse-related>
             <reverse-related>Survivor's Med Kit</reverse-related>
             <reverse-related>Sweettooth Witch</reverse-related>
+            <reverse-related>Tainted Treats</reverse-related>
             <reverse-related count="3">Taste of Death</reverse-related>
             <reverse-related>Tempting Witch</reverse-related>
             <reverse-related>The Art of Tea</reverse-related>
@@ -7526,6 +7551,21 @@ Equip {2}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Insect Warrior Token</name>
+            <text>Flying</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Insect Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/6/86e41be4-d555-4e35-b9b0-1e937ac5edce.jpg?1771590426" uuid="86e41be4-d555-4e35-b9b0-1e937ac5edce" num="4">TMT</set>
+            <reverse-related>Lord Dregg, Insect Invader</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Intrepid Rabbit (Token)</name>
             <text>When this creature enters, target creature you control gets +1/+1 until end of turn.
 (This token's mana cost is {2}{W}.)</text>
@@ -8942,6 +8982,39 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>1</tablerow>
         </card>
         <card>
+            <name>Mutagen Token</name>
+            <text>{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.</text>
+            <prop>
+                <type>Token Artifact — Mutagen</type>
+                <maintype>Artifact</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/5/6559c423-449c-4e8e-8384-3ce78183e317.jpg?1760102885" uuid="6559c423-449c-4e8e-8384-3ce78183e317" num="9">TMT</set>
+            <reverse-related>April O'Neil, Human Element</reverse-related>
+            <reverse-related>Crustacean Commando</reverse-related>
+            <reverse-related>Donatello, the Brains</reverse-related>
+            <reverse-related>Genghis Frog</reverse-related>
+            <reverse-related>Michelangelo, Mutant BFF</reverse-related>
+            <reverse-related>Michelangelo, Weirdness to 11</reverse-related>
+            <reverse-related>Mona Lisa, Ever Adaptable</reverse-related>
+            <reverse-related count="x">Mutagen Man, Living Ooze</reverse-related>
+            <reverse-related>Mutant Chain Reaction</reverse-related>
+            <reverse-related>Ooze Spill</reverse-related>
+            <reverse-related>Raphael, the Muscle</reverse-related>
+            <reverse-related>Ray Fillet, Man Ray</reverse-related>
+            <reverse-related>Return to the Sewers</reverse-related>
+            <reverse-related>Roadkill Rodney</reverse-related>
+            <reverse-related count="x">Shellshock</reverse-related>
+            <reverse-related>Slithering Cryptid</reverse-related>
+            <reverse-related>Splinter, the Mentor</reverse-related>
+            <reverse-related count="x" exclude="exclude">Splinter, the Mentor</reverse-related>
+            <reverse-related>The Ooze</reverse-related>
+            <reverse-related count="x" exclude="exclude">The Ooze</reverse-related>
+            <reverse-related>Zoo Escapees</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Mutant Token</name>
             <text>Deathtouch</text>
             <prop>
@@ -8954,6 +9027,27 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <set picURL="https://cards.scryfall.io/large/front/6/f/6fa61fa5-f0ca-4933-ac57-9db95f891889.jpg?1696625301" uuid="6fa61fa5-f0ca-4933-ac57-9db95f891889">WHO</set>
             <reverse-related>The Curse of Fenric</reverse-related>
             <reverse-related count="x" exclude="exclude">The Curse of Fenric</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Mutant Token </name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Mutant</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/1/51e33613-7a24-461c-8d9f-12680af4b92a.jpg?1771590526" uuid="51e33613-7a24-461c-8d9f-12680af4b92a" num="7">TMT</set>
+            <reverse-related>Jennika, Bad Apple Big Sister</reverse-related>
+            <reverse-related>Mighty Mutanimals</reverse-related>
+            <reverse-related>Old Hob, Alleycat Blues</reverse-related>
+            <reverse-related count="x">Sally Pride, Lioness Leader</reverse-related>
+            <reverse-related>Slash, Reptile Rampager</reverse-related>
+            <reverse-related>Splinter &amp; Leo, Father &amp; Son</reverse-related>
+            <reverse-related>Turtle Blimp</reverse-related>
+            <reverse-related attach="attach">Wooden Cane</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -9115,6 +9209,39 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/a/e/aeec04b1-475c-4e55-b72f-327ea5258146.jpg?1732302748" uuid="aeec04b1-475c-4e55-b72f-327ea5258146">FDN</set>
             <reverse-related>Kaito, Cunning Infiltrator</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Ninja Token  </name>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Ninja</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/a/7/a7b76498-d696-40d1-b7c7-91657525b44f.jpg?1771590477" uuid="a7b76498-d696-40d1-b7c7-91657525b44f" num="5">TMT</set>
+            <reverse-related>Dark Leo &amp; Shredder</reverse-related>
+            <reverse-related>Endless Foot Assault</reverse-related>
+            <reverse-related count="x" exclude="exclude">Endless Foot Assault</reverse-related>
+            <reverse-related attach="attach">Foot Chopper</reverse-related>
+            <reverse-related>Foot Mystic</reverse-related>
+            <reverse-related>Uneasy Alliance</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Ninja Turtle Spirit Token</name>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Ninja Turtle Spirit</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/8/98c32288-8676-44d0-b480-7eddcac1a0e4.jpg?1771590416" uuid="98c32288-8676-44d0-b480-7eddcac1a0e4" num="3">TMT</set>
+            <reverse-related count="3">The Last Ronin's Technique</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -9306,9 +9433,11 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/c/2/c2fc764f-d5fe-452a-8474-5ad380048faf.jpg?1771590231" uuid="c2fc764f-d5fe-452a-8474-5ad380048faf" num="1">TMC</set>
             <set picURL="https://cards.scryfall.io/large/front/7/8/786e11b0-1b63-4243-a16d-e75caebe20d7.jpg?1726237813" uuid="786e11b0-1b63-4243-a16d-e75caebe20d7">DSC</set>
             <set picURL="https://cards.scryfall.io/large/front/0/2/0260e0ae-bf09-430a-a449-c16219d84b63.jpg?1572892523" uuid="0260e0ae-bf09-430a-a449-c16219d84b63">RNA</set>
-            <reverse-related count="x">Biogenic Ooze</reverse-related>
+            <reverse-related>Biogenic Ooze</reverse-related>
+            <reverse-related count="x" exclude="exclude">Biogenic Ooze</reverse-related>
             <reverse-related>Rot Like the Scum You Are</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -10475,6 +10604,7 @@ Whenever this creature deals combat damage to a player, create that many tapped 
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/b/3b69ac36-617d-4e55-a625-0e6f0d0dfbd3.jpg?1771590504" uuid="3b69ac36-617d-4e55-a625-0e6f0d0dfbd3" num="6">TMT</set>
             <set picURL="https://cards.scryfall.io/large/front/0/2/02c73185-3062-4801-8ab2-5006b9c3b232.jpg?1742506369" uuid="02c73185-3062-4801-8ab2-5006b9c3b232">TDC</set>
             <set picURL="https://cards.scryfall.io/large/front/5/c/5cad84b0-2bbf-479c-ae46-f725892d04d1.jpg?1730485624" uuid="5cad84b0-2bbf-479c-ae46-f725892d04d1">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/d/3/d32015d8-9441-4ba6-a59d-a2b6d9f0979c.jpg?1721427440" uuid="d32015d8-9441-4ba6-a59d-a2b6d9f0979c">BLC</set>
@@ -10483,6 +10613,8 @@ Whenever this creature deals combat damage to a player, create that many tapped 
             <set picURL="https://cards.scryfall.io/large/front/e/4/e43a205e-43ea-4b3e-92ab-c2ee2172a50a.jpg?1572489150" uuid="e43a205e-43ea-4b3e-92ab-c2ee2172a50a">ELD</set>
             <set picURL="https://cards.scryfall.io/large/front/f/1/f1fb8ca6-7351-457a-b2a4-48f57ec3c64a.jpg?1561758412" uuid="f1fb8ca6-7351-457a-b2a4-48f57ec3c64a">GTC</set>
             <set picURL="https://cards.scryfall.io/large/front/1/a/1a85fe9d-ef18-46c4-88b0-cf2e222e30e4.jpg?1562279130" uuid="1a85fe9d-ef18-46c4-88b0-cf2e222e30e4">SHM</set>
+            <reverse-related>Big Apple, 3 a.m.</reverse-related>
+            <reverse-related count="x" exclude="exclude">Big Apple, 3 a.m.</reverse-related>
             <reverse-related count="x">Chittering Witch</reverse-related>
             <reverse-related>Lab Rats</reverse-related>
             <reverse-related count="2">Mad Ratter</reverse-related>
@@ -10490,6 +10622,9 @@ Whenever this creature deals combat damage to a player, create that many tapped 
             <reverse-related>Ogre Slumlord</reverse-related>
             <reverse-related>Piper of the Swarm</reverse-related>
             <reverse-related count="x">Plague of Vermin</reverse-related>
+            <reverse-related>Rat King, Pale Piper</reverse-related>
+            <reverse-related count="x" exclude="exclude">Rat King, Pale Piper</reverse-related>
+            <reverse-related>Rat King, Verminister</reverse-related>
             <reverse-related count="x">Revenge of the Rats</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -10818,6 +10953,24 @@ When this token enters, it deals 3 damage to any target.</text>
             <set picURL="https://cards.scryfall.io/large/front/1/5/15796c4b-6041-4e0a-bc4f-0518d165549e.jpg?1757379338" uuid="15796c4b-6041-4e0a-bc4f-0518d165549e">SPM</set>
             <reverse-related count="2">Robotics Mastery</reverse-related>
             <reverse-related count="2">Spider-Slayer, Hatred Honed</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Robot Token    </name>
+            <prop>
+                <type>Token Artifact Creature — Robot</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/0/8/08497fc5-1c0e-4c3c-a356-bf4b34bd4c45.jpg?1771590585" uuid="08497fc5-1c0e-4c3c-a356-bf4b34bd4c45" num="10">TMT</set>
+            <reverse-related>Baxter Stockman</reverse-related>
+            <reverse-related count="x">Big Mother Mouser</reverse-related>
+            <reverse-related>Mechanized Ninja Cavalry</reverse-related>
+            <reverse-related>Mouser Attack!</reverse-related>
+            <reverse-related>Mouser Foundry</reverse-related>
+            <reverse-related>Ravenous Robots</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -13808,6 +13961,7 @@ This creature can't be enchanted.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/4/8/4837a3f1-ca7f-41e5-a5d1-729c8495b0e8.jpg?1771590279" uuid="4837a3f1-ca7f-41e5-a5d1-729c8495b0e8" num="3">TMC</set>
             <set picURL="https://cards.scryfall.io/large/front/a/c/ac4384b7-853c-417d-b3b4-f54cd0b5d361.jpg?1767955781" uuid="ac4384b7-853c-417d-b3b4-f54cd0b5d361">ECL</set>
             <set picURL="https://cards.scryfall.io/large/front/e/e/ee9ffe19-fea7-4dcc-a673-26be06d2f1be.jpg?1764117773" uuid="ee9ffe19-fea7-4dcc-a673-26be06d2f1be">TLA</set>
             <set picURL="https://cards.scryfall.io/large/front/d/5/d52efeb3-661d-45e9-97c3-af167f889684.jpg?1757379348" uuid="d52efeb3-661d-45e9-97c3-af167f889684">SPM</set>
@@ -13896,12 +14050,14 @@ This creature can't be enchanted.</text>
             <reverse-related>Buy Your Silence</reverse-related>
             <reverse-related>Captain Lannery Storm</reverse-related>
             <reverse-related>Careening Mine Cart</reverse-related>
+            <reverse-related count="2">Casey &amp; Raph, Hotheads</reverse-related>
             <reverse-related count="x">Cataclysmic Prospecting</reverse-related>
             <reverse-related count="x">Cavern-Hoard Dragon</reverse-related>
             <reverse-related count="3">Centrifuge</reverse-related>
             <reverse-related>Charming Scoundrel</reverse-related>
             <reverse-related>City of Death</reverse-related>
             <reverse-related count="2">Cloud, Ex-SOLDIER</reverse-related>
+            <reverse-related>Coin of Mastery</reverse-related>
             <reverse-related>Collector's Vault</reverse-related>
             <reverse-related>Common Crook</reverse-related>
             <reverse-related>Contested Game Ball</reverse-related>
@@ -14175,6 +14331,7 @@ This creature can't be enchanted.</text>
             <reverse-related>Ticket Tortoise</reverse-related>
             <reverse-related>Tireless Provisioner</reverse-related>
             <reverse-related count="x" exclude="exclude">Tivit, Seller of Secrets</reverse-related>
+            <reverse-related>Tokka &amp; Rahzar, Unsupervised</reverse-related>
             <reverse-related count="5">Treasure Chest</reverse-related>
             <reverse-related>Treasure Dredger</reverse-related>
             <reverse-related count="3">Treasure Map</reverse-related>
@@ -18834,6 +18991,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>Token</type>
                 <maintype>Token</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/e/3e28bc58-b616-4a65-8d33-7cdd07405d41.jpg?1771590336" uuid="3e28bc58-b616-4a65-8d33-7cdd07405d41" num="1">TMT</set>
             <set picURL="https://cards.scryfall.io/large/front/6/1/61328aec-ba26-4142-a774-96924303786d.jpg?1767794310" uuid="61328aec-ba26-4142-a774-96924303786d">ECC</set>
             <set picURL="https://cards.scryfall.io/large/front/2/b/2b3d7795-3fc3-4b78-bdf4-0a79981f1eee.jpg?1764117639" uuid="2b3d7795-3fc3-4b78-bdf4-0a79981f1eee">TLA</set>
             <set picURL="https://cards.scryfall.io/large/front/e/9/e980eddf-92f8-4dc4-8bad-b2f3dcaf03ef.jpg?1757379290" uuid="e980eddf-92f8-4dc4-8bad-b2f3dcaf03ef">SPM</set>
@@ -19086,6 +19244,353 @@ Hero's Reward — When Snapping Fang Head leaves the battlefield, each player ga
                 <pt>2/4</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/f/4/f4210dae-7248-4a7b-9646-99683c0dce17.jpg?1734674540" uuid="f4210dae-7248-4a7b-9646-99683c0dce17">TDAG</set>
+            <tablerow>2</tablerow>
+        </card>
+        <!-- Below cards are bosses, events, and creatures from the Turtle Team-Up decks, included in the TMC set code.-->
+        <card>
+            <name>Baxter, Exzzperimental Zzientist</name>
+            <text>Creatures named Foot Disciple have flying.</text>
+            <prop>
+                <type>Boss</type>
+                <maintype>Boss</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/5/85067e01-384c-434d-8cbf-e9dcba5e9ae8.jpg?1761372632" uuid="85067e01-384c-434d-8cbf-e9dcba5e9ae8" num="4">TMC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Bebop, Porcine Punk</name>
+            <text>Whenever the bosses attack, put a +1/+1 counter on each creature named Foot Disciple.</text>
+            <prop>
+                <type>Boss</type>
+                <maintype>Boss</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/6/66acff08-ba29-4785-8d10-127d023a055e.jpg?1771536244" uuid="66acff08-ba29-4785-8d10-127d023a055e" num="5">TMC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Chrome Dome, Cyber-Ninja</name>
+            <text>Ninjas the bosses control get +1/+0 for each boss in play.</text>
+            <prop>
+                <type>Boss</type>
+                <maintype>Boss</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/a/9a2d23c4-d381-4a92-b4b1-0cf71948f941.jpg?1771342608" uuid="9a2d23c4-d381-4a92-b4b1-0cf71948f941" num="6">TMC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+
+        <card>
+            <name>Karai, Shadow Warrior</name>
+            <text>Whenever a creature the heroes control dies, the heroes lose 1 life.</text>
+            <prop>
+                <type>Boss</type>
+                <maintype>Boss</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/a/8a534b81-f4a1-4a57-85cc-be6801ebd5b0.jpg?1771536255" uuid="8a534b81-f4a1-4a57-85cc-be6801ebd5b0" num="7">TMC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Krang, Dimension X Overlord</name>
+            <text>The bosses play an additional card each turn.
+At the start of the Boss turn, the bosses lose 2 life.</text>
+            <prop>
+                <type>Boss</type>
+                <maintype>Boss</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/7/8742baf6-2bf9-48ac-af68-6427704b3593.jpg?1761372635" uuid="8742baf6-2bf9-48ac-af68-6427704b3593" num="8">TMC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Leatherhead, Sewer Gator</name>
+            <text>When this boss enters, the bosses gain 5 life for each boss in play.</text>
+            <prop>
+                <type>Boss</type>
+                <maintype>Boss</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/7/17193bd0-63c0-49ce-9a85-12996fdcda00.jpg?1771342627" uuid="17193bd0-63c0-49ce-9a85-12996fdcda00" num="9">TMC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Rat King, the Chaosbringer</name>
+            <text>Ninjas the bosses control have deathtouch.</text>
+            <prop>
+                <type>Boss</type>
+                <maintype>Boss</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/d/dd43716d-06bb-4187-ab77-414cfc59d20f.jpg?1761372639" uuid="dd43716d-06bb-4187-ab77-414cfc59d20f" num="10">TMC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Rocksteady, Rowdy Rhino</name>
+            <text>Whenever the bosses attack, put a +1/+1 counter on each creature named Foot Disciple.</text>
+            <prop>
+                <type>Boss</type>
+                <maintype>Boss</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/b/1b2a91d9-42ae-4f2b-ba95-46dc74e68fd6.jpg?1771536267" uuid="1b2a91d9-42ae-4f2b-ba95-46dc74e68fd6" num="11">TMC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Savanti Romero, Temporal Rogue</name>
+            <text>Whenever one or more Ninjas the bosses control deal combat damage to the heroes, the bosses play a card.</text>
+            <prop>
+                <type>Boss</type>
+                <maintype>Boss</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/2/22c51c78-a578-4a1a-87b0-430b32da7d78.jpg?1771536274" uuid="22c51c78-a578-4a1a-87b0-430b32da7d78" num="12">TMC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Shredder, Foot Clan Overlord</name>
+            <text>Whenever a creature the bosses control dies, the heroes lose 1 life.</text>
+            <prop>
+                <type>Boss</type>
+                <maintype></maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/9/19f04282-ef44-4474-bb0f-bcc938bdba7a.jpg?1761372642" uuid="19f04282-ef44-4474-bb0f-bcc938bdba7a" num="13">TMC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Slash, the Dark Mirror</name>
+            <text>Attacking creatures the bosses control have first strike.</text>
+            <prop>
+                <type>Boss</type>
+                <maintype>Boss</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/d/6d84f8fc-0da6-4acc-9da2-9993daabd9f4.jpg?1771536281" uuid="6d84f8fc-0da6-4acc-9da2-9993daabd9f4" num="14">TMC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Event: Baxter's Experiments</name>
+            <text>Copy the next event the bosses play. (Put this card beside the event deck. After the next event is played, put this card into the event discard pile.)</text>
+            <prop>
+                <type>Event</type>
+                <maintype>Event</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/c/b/cb231e4d-dbba-4475-a01b-212d83859722.jpg?1771536328" uuid="cb231e4d-dbba-4475-a01b-212d83859722" num="15">TMC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Event: Bebop's Rampage</name>
+            <text>Bebop's Rampage deals 2 damage to each creature the heroes control.</text>
+            <prop>
+                <type>Event</type>
+                <maintype>Event</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/b/0/b05811b0-1856-4cf8-9910-44da1a994116.jpg?1771536334" uuid="b05811b0-1856-4cf8-9910-44da1a994116" num="16">TMC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Event: Chrome Dome's Overload</name>
+            <text>Each hero sacrifices a tapped creature they control.</text>
+            <prop>
+                <type>Event</type>
+                <maintype>Event</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/7/f/7f183188-a0a2-474c-b741-63a70365fd8e.jpg?1771342636" uuid="7f183188-a0a2-474c-b741-63a70365fd8e" num="17">TMC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Event: Karai's Planning</name>
+            <text>The heroes lose 3 life and the bosses gain 3 life.</text>
+            <prop>
+                <type>Event</type>
+                <maintype>Event</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/3/33dd64d2-8656-4ee8-93a8-fccbdc950899.jpg?1771536342" uuid="33dd64d2-8656-4ee8-93a8-fccbdc950899" num="18">TMC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Event: Krang's Stratagem</name>
+            <text>As a team, the heroes discard a total of two cards.</text>
+            <prop>
+                <type>Event</type>
+                <maintype>Event</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/7/c/7c25a10b-e2a7-4345-ae6f-021b607a3e59.jpg?1771536368" uuid="7c25a10b-e2a7-4345-ae6f-021b607a3e59" num="19">TMC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Event: Leatherhead's Smackdown</name>
+            <text>As a team, the heroes choose a creature with the greatest power among creatures they control. Destroy it. The bosses lose life equal to that creature's power.</text>
+            <prop>
+                <type>Event</type>
+                <maintype>Event</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/a/fac36345-b2fb-4a44-a499-f68bbe87e736.jpg?1771342647" uuid="fac36345-b2fb-4a44-a499-f68bbe87e736" num="20">TMC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Event: Rat King's Revolution</name>
+            <text>Each hero taps a creature they control and puts X stun counters on it, where X is the number of bosses. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+            <prop>
+                <type>Event</type>
+                <maintype>Event</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/b/b/bbafc14d-099c-4bad-a90c-788d2b838186.jpg?1771536379" uuid="bbafc14d-099c-4bad-a90c-788d2b838186" num="21">TMC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Event: Rocksteady's Beatdown</name>
+            <text>Destroy all creatures with flying the heroes control.</text>
+            <prop>
+                <type>Event</type>
+                <maintype>Event</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/7/f/7fbf846e-9496-470d-b039-b4cd9e71f066.jpg?1771536385" uuid="7fbf846e-9496-470d-b039-b4cd9e71f066" num="22">TMC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Event: Savanti Romero's Curse</name>
+            <text>Each hero returns X creatures they control to their owners' hands, where X is the number of bosses.</text>
+            <prop>
+                <type>Event</type>
+                <maintype>Event</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/4/84c98b5c-4bec-4455-9681-045842a87721.jpg?1771536416" uuid="84c98b5c-4bec-4455-9681-045842a87721" num="23">TMC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Event: Shredder's Challenge</name>
+            <text>Return two Ninja cards at random from the boss graveyard to the battlefield under the Boss team's control. (If there's only one, return it to the battlefield.)</text>
+            <prop>
+                <type>Event</type>
+                <maintype>Event</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/8/b/8b673d4b-0188-4225-9067-dc61386a18fd.jpg?1771536444" uuid="8b673d4b-0188-4225-9067-dc61386a18fd" num="24">TMC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Event: Slash's Smash</name>
+            <text>Destroy all Turtles.</text>
+            <prop>
+                <type>Event</type>
+                <maintype>Event</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/5/f5287c97-72fa-47a0-9316-44719e447f99.jpg?1771536451" uuid="f5287c97-72fa-47a0-9316-44719e447f99" num="25">TMC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Event: Villain Infiltration</name>
+            <text>As a team, the heroes choose a creature with the greatest power among creatures they control. Destroy it.</text>
+            <prop>
+                <type>Event</type>
+                <maintype>Event</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/2/321f758f-a738-4f9b-a1d8-8edeb4fd9aff.jpg?1771536457" uuid="321f758f-a738-4f9b-a1d8-8edeb4fd9aff" num="26">TMC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Event: Villain Mayhem!</name>
+            <text>As a team, the heroes choose three creatures they control. Destroy each other creature the heroes control.</text>
+            <prop>
+                <type>Event</type>
+                <maintype>Event</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/0/e05ee2a3-4054-48a5-8646-6588d1b39fb8.jpg?1771536463" uuid="e05ee2a3-4054-48a5-8646-6588d1b39fb8" num="27">TMC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Event: Villain Scheme!</name>
+            <text>Shuffle this card and the boss graveyard into the boss library.</text>
+            <prop>
+                <type>Event</type>
+                <maintype>Event</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/1/3119f359-ca5f-46f4-aa32-c03db9a4f397.jpg?1771536469" uuid="3119f359-ca5f-46f4-aa32-c03db9a4f397" num="28">TMC</set>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Foot Disciple</name>
+            <text>This creature can't block.</text>
+            <prop>
+                <colors>B</colors>
+                <type>Creature — Ninja</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/5/f5dd41f4-3153-408a-a20c-09334cfd686c.jpg?1771536482" uuid="f5dd41f4-3153-408a-a20c-09334cfd686c" num="30">TMC</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Foot Enforcer</name>
+            <text>This creature can't block.
+This creature can't be blocked by more than one creature.</text>
+            <prop>
+                <colors>G</colors>
+                <type>Creature — Ninja</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>6/3</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/4/641b27a0-7fe5-4987-81bd-aa208b7463fd.jpg?1771536488" uuid="641b27a0-7fe5-4987-81bd-aa208b7463fd" num="31">TMC</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Foot Skirmisher</name>
+            <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+This creature can't block.</text>
+            <prop>
+                <colors>U</colors>
+                <type>Creature — Ninja</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/b/d/bd58ad15-8d15-46f6-b9b3-05ee8cbecadc.jpg?1771536475" uuid="bd58ad15-8d15-46f6-b9b3-05ee8cbecadc" num="29">TMC</set>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
     </cards>
