@@ -39,8 +39,10 @@ def cards_collection(identifiers):
 
         payload = json.dumps({'identifiers': chunk}).encode('utf-8')
         req = Request('https://api.scryfall.com/cards/collection', payload,
-                      headers={'Content-Type': 'application/json'})
-
+                      headers={
+                          'Content-Type': 'application/json',
+                          'User-Agent': 'Magic-Token',
+                          'Accept': 'application/json'})
         # Rate limiting
         cur_time = time.time()
         delta_time = cur_time - start_time
@@ -52,7 +54,6 @@ def cards_collection(identifiers):
             with urlopen(req) as f:
                 list_obj = json.load(f)
         except HTTPError as e:
-            print(f"HTTP {e.code}")
             print(e.read().decode())
             raise
         
