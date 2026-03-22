@@ -6,6 +6,7 @@ the links to Scryfall images with up-to-date URLs by querying Scryfall's API.
 from xml.sax import saxutils, make_parser, handler
 from urllib.parse import urlsplit
 from urllib.request import Request, urlopen
+from urllib.error import HTTPError
 import itertools
 import json
 import sys
@@ -47,12 +48,18 @@ def cards_collection(identifiers):
             time.sleep(0.1 - delta_time)
         start_time = time.time()
 
-        with urlopen(req) as f:
-            list_obj = json.load(f)
-            assert not list_obj.get('has_more', False)
-            assert 'warnings' not in list_obj
-
-            yield from list_obj['data']
+        try:
+            with urlopen(req) as f:
+                list_obj = json.load(f)
+        except HTTPError as e:
+            print(f"HTTP {e.code}")
+            print(e.read().decode())
+            raise
+        
+        assert not list_obj.get('has_more', False)
+        assert 'warnings' not in list_obj
+        
+        yield from list_obj['data']
 
 def parse_picurl(picurl):
     """
