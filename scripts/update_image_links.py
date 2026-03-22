@@ -17,6 +17,11 @@ import pathlib
 import shutil
 
 SCRYFALL_MAX_LIST_SIZE = 75
+SCRYFALL_API_HEADERS = {
+    'Content-Type': 'application/json',
+    'User-Agent': 'Magic-Token',
+    'Accept': 'application/json',
+}
 
 def cards_collection(identifiers):
     """
@@ -38,11 +43,7 @@ def cards_collection(identifiers):
         n += SCRYFALL_MAX_LIST_SIZE
 
         payload = json.dumps({'identifiers': chunk}).encode('utf-8')
-        req = Request('https://api.scryfall.com/cards/collection', payload,
-                      headers={
-                          'Content-Type': 'application/json',
-                          'User-Agent': 'Magic-Token',
-                          'Accept': 'application/json'})
+        req = Request('https://api.scryfall.com/cards/collection', payload, headers=SCRYFALL_API_HEADERS)
         # Rate limiting
         cur_time = time.time()
         delta_time = cur_time - start_time
@@ -54,8 +55,8 @@ def cards_collection(identifiers):
             with urlopen(req) as f:
                 list_obj = json.load(f)
         except HTTPError as e:
-            print(e.read().decode())
-            raise
+            error_body = e.read().decode()
+            raise RuntimeError(f"Scryfall API request failed: {error_body}") from e
         
         assert not list_obj.get('has_more', False)
         assert 'warnings' not in list_obj
