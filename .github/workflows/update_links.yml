@@ -26,7 +26,7 @@ jobs:
       - name: Query Scryfall API and update picURLs
         shell: bash
         working-directory: ./scripts
-        run: python3 -u update_image_links.py ../tokens.xml --inplace
+        run: python3 update_image_links.py ../tokens.xml --inplace
 
       - name: Create pull request
         if: github.event_name != 'pull_request'
