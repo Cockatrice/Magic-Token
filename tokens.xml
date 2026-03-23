@@ -1943,11 +1943,6 @@ Whenever this creature attacks, target attacking creature gains flying until end
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/9/0/902fba98-92b7-461b-ac6e-29cb2c4e307f.jpg?1738355211" uuid="902fba98-92b7-461b-ac6e-29cb2c4e307f">DFT</set>
-            <set picURL="https://cards.scryfall.io/large/front/8/6/86701490-17ac-4253-810d-6cfd7a46594c.jpg?1730485666" uuid="86701490-17ac-4253-810d-6cfd7a46594c">FDN</set>
-            <set picURL="https://cards.scryfall.io/large/front/d/7/d754e09c-efc0-4536-9f2a-6bd7e2f860ab.jpg?1591225552" uuid="d754e09c-efc0-4536-9f2a-6bd7e2f860ab">IKO</set>
-            <set picURL="https://cards.scryfall.io/large/front/b/3/b31f1580-5bba-4cef-b0c8-f2837a597b7d.jpg?1562702272" uuid="b31f1580-5bba-4cef-b0c8-f2837a597b7d">M19</set>
-            <set picURL="https://cards.scryfall.io/large/front/a/f/af0086cd-56b5-450e-818c-e54f45d1a104.jpg?1562844817" uuid="af0086cd-56b5-450e-818c-e54f45d1a104">AKH</set>
             <set picURL="https://cards.scryfall.io/large/front/9/0/902fba98-92b7-461b-ac6e-29cb2c4e307f.jpg?1738355211" uuid="902fba98-92b7-461b-ac6e-29cb2c4e307f" num="2">DFT</set>
             <set picURL="https://cards.scryfall.io/large/front/8/6/86701490-17ac-4253-810d-6cfd7a46594c.jpg?1730485666" uuid="86701490-17ac-4253-810d-6cfd7a46594c" num="27">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/d/7/d754e09c-efc0-4536-9f2a-6bd7e2f860ab.jpg?1591225552" uuid="d754e09c-efc0-4536-9f2a-6bd7e2f860ab" num="1">IKO</set>
@@ -2350,7 +2345,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <set picURL="https://cards.scryfall.io/large/front/d/4/d45eca06-2ef2-47ef-a0ab-6766bbd3ab8b.jpg?1653273214" uuid="d45eca06-2ef2-47ef-a0ab-6766bbd3ab8b" num="16">MID</set>
             <set picURL="https://cards.scryfall.io/large/front/e/b/eb129b0d-1349-4e88-a6a7-b7968b26ee7e.jpg?1641306201" uuid="eb129b0d-1349-4e88-a6a7-b7968b26ee7e" num="15">MH2</set>
             <set picURL="https://cards.scryfall.io/large/front/d/1/d1dfd9b9-8214-4e20-b1c9-48c9f7276883.jpg?1601138520" uuid="d1dfd9b9-8214-4e20-b1c9-48c9f7276883" num="22">2XM</set>
-            <set picURL="https://cards.scryfall.io/large/front/b/7/b7c52125-929a-4e03-a955-d55ae34a905b.jpg?1645580136" uuid="b7c52125-929a-4e03-a955-d55ae34a905b">SLD</set>
             <set picURL="https://cards.scryfall.io/large/front/b/7/b7c52125-929a-4e03-a955-d55ae34a905b.jpg?1645580136" uuid="b7c52125-929a-4e03-a955-d55ae34a905b" num="348">SLD</set>
             <set picURL="https://cards.scryfall.io/large/front/9/3/93acc8a5-c694-4ad8-b4c0-2e156424319d.jpg?1592710105" uuid="93acc8a5-c694-4ad8-b4c0-2e156424319d" num="19">C18</set>
             <set picURL="https://cards.scryfall.io/large/back/9/b/9b111525-0600-4bae-94a3-df8f9472388f.jpg?1571508353" uuid="9b111525-0600-4bae-94a3-df8f9472388f" num="18">UST</set>
@@ -3264,10 +3258,6 @@ When this creature dies, create a colorless Treasure artifact token.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/e/f/ef7e3418-03c0-4d27-9f96-6c898f2287ad.jpg?1742506221" uuid="ef7e3418-03c0-4d27-9f96-6c898f2287ad">TDC</set>
-            <set picURL="https://cards.scryfall.io/large/front/5/d/5d8da5b2-7e02-494b-8686-c5845286d0b9.jpg?1730485673" uuid="5d8da5b2-7e02-494b-8686-c5845286d0b9">FDN</set>
-            <set picURL="https://cards.scryfall.io/large/front/8/a/8aaf03be-294a-4539-954c-79853f4351a9.jpg?1706216959" uuid="8aaf03be-294a-4539-954c-79853f4351a9">MKM</set>
-            <set picURL="https://cards.scryfall.io/large/front/4/f/4f8107b3-8539-4b9c-8d0d-c512c940838f.jpg?1595212478" uuid="4f8107b3-8539-4b9c-8d0d-c512c940838f">M21</set>
             <set picURL="https://cards.scryfall.io/large/front/e/f/ef7e3418-03c0-4d27-9f96-6c898f2287ad.jpg?1742506221" uuid="ef7e3418-03c0-4d27-9f96-6c898f2287ad" num="3">TDC</set>
             <set picURL="https://cards.scryfall.io/large/front/5/d/5d8da5b2-7e02-494b-8686-c5845286d0b9.jpg?1730485673" uuid="5d8da5b2-7e02-494b-8686-c5845286d0b9" num="29">FDN</set>
             <set picURL="https://cards.scryfall.io/large/front/8/a/8aaf03be-294a-4539-954c-79853f4351a9.jpg?1706216959" uuid="8aaf03be-294a-4539-954c-79853f4351a9" num="1">MKM</set>
