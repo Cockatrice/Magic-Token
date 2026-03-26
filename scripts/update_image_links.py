@@ -19,7 +19,7 @@ import shutil
 SCRYFALL_MAX_LIST_SIZE = 75
 SCRYFALL_API_HEADERS = {
     'Content-Type': 'application/json',
-    'User-Agent': 'Magic-Token',
+    'User-Agent': 'Magic-Token/1.0',
     'Accept': 'application/json',
 }
 
