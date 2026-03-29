@@ -17918,14 +17918,21 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/e/d/edf99449-b176-460b-afb3-14a35e3ae35a.jpg?1742583166" uuid="edf99449-b176-460b-afb3-14a35e3ae35a" num="34">TDC</set>
             <set picURL="https://cards.scryfall.io/large/front/7/3/73805b39-7624-4fbd-bcc0-4241e733a97f.jpg?1554069468" uuid="73805b39-7624-4fbd-bcc0-4241e733a97f" num="0">C15</set>
+            <reverse-related exclude="exclude">Aang, Airbending Master</reverse-related>
+            <reverse-related exclude="exclude">Azlask, the Swelling Scourge</reverse-related>
+            <reverse-related exclude="exclude">Azula, Ruthless Firebender</reverse-related>
             <reverse-related exclude="exclude">Daxos the Returned</reverse-related>
             <reverse-related exclude="exclude">Ezuri, Claw of Progress</reverse-related>
             <reverse-related exclude="exclude">Kalemne, Disciple of Iroas</reverse-related>
+            <reverse-related exclude="exclude">Katara, Waterbending Master</reverse-related>
             <reverse-related exclude="exclude">Kelsien, the Plague</reverse-related>
+            <reverse-related exclude="exclude">Kratos, Stoic Father</reverse-related>
             <reverse-related exclude="exclude">Meren of Clan Nel Toth</reverse-related>
             <reverse-related exclude="exclude">Minthara, Merciless Soul</reverse-related>
             <reverse-related exclude="exclude">Mizzix of the Izmagnus</reverse-related>
             <reverse-related exclude="exclude">Otharri, Suns' Glory</reverse-related>
+            <reverse-related exclude="exclude">Toph, Earthbending Master</reverse-related>
+            <reverse-related exclude="exclude">Zuko, Firebending Master</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
