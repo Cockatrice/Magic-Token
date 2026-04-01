@@ -6,6 +6,7 @@ the links to Scryfall images with up-to-date URLs by querying Scryfall's API.
 from xml.sax import saxutils, make_parser, handler
 from urllib.parse import urlsplit
 from urllib.request import Request, urlopen
+from urllib.error import HTTPError
 import itertools
 import json
 import sys
@@ -16,6 +17,11 @@ import pathlib
 import shutil
 
 SCRYFALL_MAX_LIST_SIZE = 75
+SCRYFALL_API_HEADERS = {
+    'Content-Type': 'application/json',
+    'User-Agent': 'Magic-Token/1.0',
+    'Accept': 'application/json',
+}
 
 def cards_collection(identifiers):
     """
@@ -37,9 +43,7 @@ def cards_collection(identifiers):
         n += SCRYFALL_MAX_LIST_SIZE
 
         payload = json.dumps({'identifiers': chunk}).encode('utf-8')
-        req = Request('https://api.scryfall.com/cards/collection', payload,
-                      headers={'Content-Type': 'application/json'})
-
+        req = Request('https://api.scryfall.com/cards/collection', payload, headers=SCRYFALL_API_HEADERS)
         # Rate limiting
         cur_time = time.time()
         delta_time = cur_time - start_time
@@ -47,12 +51,17 @@ def cards_collection(identifiers):
             time.sleep(0.1 - delta_time)
         start_time = time.time()
 
-        with urlopen(req) as f:
-            list_obj = json.load(f)
-            assert not list_obj.get('has_more', False)
-            assert 'warnings' not in list_obj
-
-            yield from list_obj['data']
+        try:
+            with urlopen(req) as f:
+                list_obj = json.load(f)
+        except HTTPError as e:
+            error_body = e.read().decode()
+            raise RuntimeError(f"Scryfall API request failed: {error_body}") from e
+        
+        assert not list_obj.get('has_more', False)
+        assert 'warnings' not in list_obj
+        
+        yield from list_obj['data']
 
 def parse_picurl(picurl):
     """
