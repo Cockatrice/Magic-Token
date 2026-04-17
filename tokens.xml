@@ -13533,7 +13533,7 @@ Equip {2}</text>
             <text>Spells you cast cost {2} less to cast.
 {T}: Draw a card.</text>
             <prop>
-                <type>Token Artifact</type>
+                <type>Token Legendary Artifact — Book</type>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
@@ -14960,7 +14960,7 @@ Whenever Vanguard Suppressor deals combat damage to a player, draw a card.</text
             <text>Hexproof
 Whenever you cast a creature spell, note one of its creature types that hasn't been noted for this artifact.</text>
             <prop>
-                <type>Legendary Token Artifact</type>
+                <type>Token Legendary Artifact — Book</type>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
@@ -15248,7 +15248,7 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             <text>Equipped creature gets +1/+1 for each quest counter among permanents you control.
 Equip {1}</text>
             <prop>
-                <type>Token Artifact — Equipment</type>
+                <type>Token Artifact — Book Equipment</type>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
