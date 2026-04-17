@@ -1576,7 +1576,7 @@ Whenever this creature attacks, target attacking creature gains flying until end
             <set picURL="https://cards.scryfall.io/large/front/4/d/4d4b2e0c-0e81-4147-aeef-579491d7ebc2.jpg?1698873655" uuid="4d4b2e0c-0e81-4147-aeef-579491d7ebc2" num="15">LCC</set>
             <set picURL="https://cards.scryfall.io/large/front/a/c/ac2c781d-cbfe-4d01-be02-9f34fee5d839.jpg?1682211097" uuid="ac2c781d-cbfe-4d01-be02-9f34fee5d839" num="32">MOC</set>
             <set picURL="https://cards.scryfall.io/large/front/a/6/a6f374bc-cd29-469f-808a-6a6c004ee8aa.jpg?1675457554" uuid="a6f374bc-cd29-469f-808a-6a6c004ee8aa" num="17">VOW</set>
-            <set picURL="https://cards.scryfall.io/large/front/6/b/6b563165-b97f-42c6-82a8-65d8ee69e381.jpg?1762793559" uuid="6b563165-b97f-42c6-82a8-65d8ee69e381" num="2180">SLD</set>
+            <set picURL="https://cards.scryfall.io/large/front/6/b/6b563165-b97f-42c6-82a8-65d8ee69e381.jpg?1774779993" uuid="6b563165-b97f-42c6-82a8-65d8ee69e381" num="2180">SLD</set>
             <reverse-related>Anje, Maid of Dishonor</reverse-related>
             <reverse-related>Arterial Alchemy</reverse-related>
             <reverse-related>Belligerent Guest</reverse-related>
@@ -2718,8 +2718,8 @@ Whenever enchanted creature attacks, it gets +2/+0 until end of turn if it's att
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/1/4/14a3f3bc-2968-4861-849c-4a79da12bb03.jpg?1759245311" uuid="14a3f3bc-2968-4861-849c-4a79da12bb03" num="2206">SLD</set>
-            <set picURL="https://cards.scryfall.io/large/front/f/f/ff00d5aa-2fea-47cd-82f4-f7e388d1ecb6.jpg?1759245315" uuid="ff00d5aa-2fea-47cd-82f4-f7e388d1ecb6" num="2201">SLD</set>
+            <set picURL="https://cards.scryfall.io/large/front/1/4/14a3f3bc-2968-4861-849c-4a79da12bb03.jpg?1774779940" uuid="14a3f3bc-2968-4861-849c-4a79da12bb03" num="2206">SLD</set>
+            <set picURL="https://cards.scryfall.io/large/front/f/f/ff00d5aa-2fea-47cd-82f4-f7e388d1ecb6.jpg?1774779922" uuid="ff00d5aa-2fea-47cd-82f4-f7e388d1ecb6" num="2201">SLD</set>
             <reverse-related count="x">Abby, Merciless Soldier</reverse-related>
             <reverse-related>Ellie, Brick Master</reverse-related>
             <token>1</token>
@@ -3584,7 +3584,7 @@ Whenever this creature deals combat damage to a player, gain control of target a
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/c/d/cddc0746-6d3e-441f-866f-28587bf54801.jpg?1764117693" uuid="cddc0746-6d3e-441f-866f-28587bf54801" num="9">TLA</set>
+            <set picURL="https://cards.scryfall.io/large/front/c/d/cddc0746-6d3e-441f-866f-28587bf54801.jpg?1774985748" uuid="cddc0746-6d3e-441f-866f-28587bf54801" num="9">TLA</set>
             <reverse-related>Avatar Roku</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5787,7 +5787,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <set picURL="https://cards.scryfall.io/large/front/c/0/c0861b13-6cf8-4078-9178-e223a4041a8b.jpg?1557575963" uuid="c0861b13-6cf8-4078-9178-e223a4041a8b" num="14">WAR</set>
             <set picURL="https://cards.scryfall.io/large/front/9/9/993613a6-09a9-45a5-b35f-5a5fdb6d14ec.jpg?1572892502" uuid="993613a6-09a9-45a5-b35f-5a5fdb6d14ec" num="4">RNA</set>
             <set picURL="https://cards.scryfall.io/large/back/1/d/1d34ff67-24e1-4cf5-b032-8be6b83e0819.jpg?1752557396" uuid="1d34ff67-24e1-4cf5-b032-8be6b83e0819" num="3">GK1</set>
-            <set picURL="https://cards.scryfall.io/large/front/6/4/64f4dc68-060b-4c63-8f43-00f53c52a251.jpg?1541007299" uuid="64f4dc68-060b-4c63-8f43-00f53c52a251" num="4">GK1</set>
+            <set picURL="https://cards.scryfall.io/large/front/6/4/64f4dc68-060b-4c63-8f43-00f53c52a251.jpg?1775789177" uuid="64f4dc68-060b-4c63-8f43-00f53c52a251" num="4">GK1</set>
             <set picURL="https://cards.scryfall.io/large/front/b/2/b27dc0bd-ba46-4a5c-9559-7c11eb4ec37b.jpg?1572892497" uuid="b27dc0bd-ba46-4a5c-9559-7c11eb4ec37b" num="4">GRN</set>
             <set picURL="https://cards.scryfall.io/large/front/4/f/4f736760-60d5-412d-9877-753eb7b5f926.jpg?1562702055" uuid="4f736760-60d5-412d-9877-753eb7b5f926" num="11">M19</set>
             <set picURL="https://cards.scryfall.io/large/front/b/d/bd79264f-0734-48b7-8333-4035e518d46c.jpg?1562702307" uuid="bd79264f-0734-48b7-8333-4035e518d46c" num="9">DOM</set>
@@ -8559,8 +8559,8 @@ Flying, vigilance, trample, lifelink, haste</text>
                 <cmc>0</cmc>
                 <pt>10/10</pt>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/0/2/0281825d-9d38-4b56-b522-a8d3cf8c77c9.jpg?1762360143" uuid="0281825d-9d38-4b56-b522-a8d3cf8c77c9" num="14">NEO</set>
-            <set picURL="https://cards.scryfall.io/large/front/5/d/5d02dee4-2071-448f-9fd3-58d63635d712.jpg?1762360125" uuid="5d02dee4-2071-448f-9fd3-58d63635d712" num="1969">SLD</set>
+            <set picURL="https://cards.scryfall.io/large/front/0/2/0281825d-9d38-4b56-b522-a8d3cf8c77c9.jpg?1774995344" uuid="0281825d-9d38-4b56-b522-a8d3cf8c77c9" num="14">NEO</set>
+            <set picURL="https://cards.scryfall.io/large/front/5/d/5d02dee4-2071-448f-9fd3-58d63635d712.jpg?1774778942" uuid="5d02dee4-2071-448f-9fd3-58d63635d712" num="1969">SLD</set>
             <reverse-related>Mechtitan Core</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -11847,7 +11847,7 @@ Deathtouch</text>
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/9/0/900340a5-7517-4ec4-a51e-762e15a29470.jpg?1681156222" uuid="900340a5-7517-4ec4-a51e-762e15a29470" num="1">NEC</set>
-            <set picURL="https://cards.scryfall.io/large/front/4/1/41648b36-154c-4907-8571-9461e45a9e00.jpg?1732731853" uuid="41648b36-154c-4907-8571-9461e45a9e00" num="1835">SLD</set>
+            <set picURL="https://cards.scryfall.io/large/front/4/1/41648b36-154c-4907-8571-9461e45a9e00.jpg?1774781067" uuid="41648b36-154c-4907-8571-9461e45a9e00" num="1835">SLD</set>
             <reverse-related>Go-Shintai of Life's Origin</reverse-related>
             <reverse-related count="x" exclude="exclude">Go-Shintai of Life's Origin</reverse-related>
             <token>1</token>
@@ -12416,7 +12416,7 @@ When enchanted creature dies, it deals 1 damage to its controller and you create
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/8/9/89e87c22-c966-40bb-9465-311cc1655fe2.jpg?1686264191" uuid="89e87c22-c966-40bb-9465-311cc1655fe2" num="5">LTC</set>
             <set picURL="https://cards.scryfall.io/large/front/1/7/1774c68a-3d76-4fe1-b741-e6acf6b9214c.jpg?1682206977" uuid="1774c68a-3d76-4fe1-b741-e6acf6b9214c" num="2">MOM</set>
-            <set picURL="https://cards.scryfall.io/large/back/6/4/64f4dc68-060b-4c63-8f43-00f53c52a251.jpg?1541007299" uuid="64f4dc68-060b-4c63-8f43-00f53c52a251" num="4">GK1</set>
+            <set picURL="https://cards.scryfall.io/large/back/6/4/64f4dc68-060b-4c63-8f43-00f53c52a251.jpg?1775789177" uuid="64f4dc68-060b-4c63-8f43-00f53c52a251" num="4">GK1</set>
             <set picURL="https://cards.scryfall.io/large/front/4/5/45907b16-af17-4237-ab38-9d7537fd30e8.jpg?1572892483" uuid="45907b16-af17-4237-ab38-9d7537fd30e8" num="2">GRN</set>
             <reverse-related>Archangel Elspeth</reverse-related>
             <reverse-related>Dawn of Hope</reverse-related>
@@ -13693,7 +13693,7 @@ Equip {2}</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/9/9/992cb1e0-e846-4710-b49e-a748e4ebffa5.jpg?1674338582" uuid="992cb1e0-e846-4710-b49e-a748e4ebffa5" num="16">NEO</set>
+            <set picURL="https://cards.scryfall.io/large/front/9/9/992cb1e0-e846-4710-b49e-a748e4ebffa5.jpg?1776338153" uuid="992cb1e0-e846-4710-b49e-a748e4ebffa5" num="16">NEO</set>
             <reverse-related>Tamiyo, Compleated Sage</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -15125,7 +15125,7 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/7/f/7f0fe7c9-b0ab-4d48-94d0-99e7bee0c0de.jpg?1675455879" uuid="7f0fe7c9-b0ab-4d48-94d0-99e7bee0c0de" num="18">CLB</set>
+            <set picURL="https://cards.scryfall.io/large/front/7/f/7f0fe7c9-b0ab-4d48-94d0-99e7bee0c0de.jpg?1776338172" uuid="7f0fe7c9-b0ab-4d48-94d0-99e7bee0c0de" num="18">CLB</set>
             <reverse-related>Volo, Itinerant Scholar</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -15413,7 +15413,7 @@ Equip {1}</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/a/d/ad073c87-42f2-45f0-9613-2cdbd0abf719.jpg?1708711704" uuid="ad073c87-42f2-45f0-9613-2cdbd0abf719" num="20">PIP</set>
+            <set picURL="https://cards.scryfall.io/large/front/a/d/ad073c87-42f2-45f0-9613-2cdbd0abf719.jpg?1776338138" uuid="ad073c87-42f2-45f0-9613-2cdbd0abf719" num="20">PIP</set>
             <reverse-related>Moira Brown, Guide Author</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -17453,7 +17453,7 @@ At the beginning of your end step, discard your hand.</text>
                 <type>Emblem</type>
                 <maintype>Emblem</maintype>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/c/8/c88e2bea-9c95-447e-bc9d-7d7f8ea40567.jpg?1717192398" uuid="c88e2bea-9c95-447e-bc9d-7d7f8ea40567" num="35">MH3</set>
+            <set picURL="https://cards.scryfall.io/large/front/c/8/c88e2bea-9c95-447e-bc9d-7d7f8ea40567.jpg?1772712793" uuid="c88e2bea-9c95-447e-bc9d-7d7f8ea40567" num="35">MH3</set>
             <reverse-related exclude="exclude">Tamiyo, Seasoned Scholar</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -19082,7 +19082,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>Bounty</type>
                 <maintype>Bounty</maintype>
             </prop>
-            <set picURL="https://cards.scryfall.io/large/front/f/e/fe1ca7a3-025f-4ab4-9764-c0b11e010f97.jpg?1712396708" uuid="fe1ca7a3-025f-4ab4-9764-c0b11e010f97" num="37">OTC</set>
+            <set picURL="https://cards.scryfall.io/large/front/f/e/fe1ca7a3-025f-4ab4-9764-c0b11e010f97.jpg?1773134328" uuid="fe1ca7a3-025f-4ab4-9764-c0b11e010f97" num="37">OTC</set>
             <related>Wanted!</related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -19177,7 +19177,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/4/e/4e119457-948d-4ef8-8c27-59fa675f766f.jpg?1775828179" uuid="4e119457-948d-4ef8-8c27-59fa675f766f" num="1">SOS</set>
             <set picURL="https://cards.scryfall.io/large/front/3/e/3e28bc58-b616-4a65-8d33-7cdd07405d41.jpg?1771590336" uuid="3e28bc58-b616-4a65-8d33-7cdd07405d41" num="1">TMT</set>
-            <set picURL="https://cards.scryfall.io/large/front/6/1/61328aec-ba26-4142-a774-96924303786d.jpg?1767794310" uuid="61328aec-ba26-4142-a774-96924303786d" num="1">ECC</set>
+            <set picURL="https://cards.scryfall.io/large/front/6/1/61328aec-ba26-4142-a774-96924303786d.jpg?1772966703" uuid="61328aec-ba26-4142-a774-96924303786d" num="1">ECC</set>
             <set picURL="https://cards.scryfall.io/large/front/2/b/2b3d7795-3fc3-4b78-bdf4-0a79981f1eee.jpg?1764117639" uuid="2b3d7795-3fc3-4b78-bdf4-0a79981f1eee" num="1">TLA</set>
             <set picURL="https://cards.scryfall.io/large/front/e/9/e980eddf-92f8-4dc4-8bad-b2f3dcaf03ef.jpg?1757379290" uuid="e980eddf-92f8-4dc4-8bad-b2f3dcaf03ef" num="1">SPM</set>
             <set picURL="https://cards.scryfall.io/large/front/0/9/09d6521e-438a-4d16-992f-f2ab27b26ce4.jpg?1752946393" uuid="09d6521e-438a-4d16-992f-f2ab27b26ce4" num="1">EOC</set>
