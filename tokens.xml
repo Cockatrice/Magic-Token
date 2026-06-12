@@ -8289,7 +8289,11 @@ Flanking</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/b/2/b25a7de0-0d5d-4b7a-a1bf-7483fa51392a.jpg?1752946475" uuid="b25a7de0-0d5d-4b7a-a1bf-7483fa51392a" num="4">EOE</set>
             <set picURL="https://cards.scryfall.io/large/front/b/a/ba3b3b34-0ffa-41a4-8529-7b9d2946a1ac.jpg?1752946480" uuid="ba3b3b34-0ffa-41a4-8529-7b9d2946a1ac" num="5">EOE</set>
+            <set picURL="https://cards.scryfall.io/large/front/4/9/49164e15-252a-46e2-8c5a-66e41e071072.jpg?1752946482" uuid="49164e15-252a-46e2-8c5a-66e41e071072" num="6">EOE</set>
+            <set picURL="https://cards.scryfall.io/large/front/c/1/c1d0baf8-db86-4a98-84fa-43aa32e0980f.jpg?1752946487" uuid="c1d0baf8-db86-4a98-84fa-43aa32e0980f" num="7">EOE</set>
+            <set picURL="https://cards.scryfall.io/large/front/8/5/85ef1950-219f-401b-8ff5-914f9aaec122.jpg?1752946491" uuid="85ef1950-219f-401b-8ff5-914f9aaec122" num="8">EOE</set>
             <reverse-related>Beamsaw Prospector</reverse-related>
             <reverse-related>Bioengineered Future</reverse-related>
             <reverse-related exclude="exclude">Biomechan Engineer</reverse-related>
