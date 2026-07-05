@@ -2519,8 +2519,8 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Ongoing Investigation</reverse-related>
             <reverse-related exclude="exclude">Osgood, Operation Double</reverse-related>
             <reverse-related>Out Cold</reverse-related>
-            <reverse-related>Panther Pounce</reverse-related>
             <reverse-related>Overencumbered</reverse-related>
+            <reverse-related>Panther Pounce</reverse-related>
             <reverse-related>Persuasive Interrogators</reverse-related>
             <reverse-related count="x">Piper Wright, Publick Reporter</reverse-related>
             <reverse-related>Press for Answers</reverse-related>
@@ -2771,22 +2771,6 @@ Whenever enchanted creature attacks, it gets +2/+0 until end of turn if it's att
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Council of Reeds</name>
-            <text>The "legend rule" doesn't apply to creatures you control.
-At the beginning of combat on your turn, if you've cast a noncreature spell this turn, create a token that's a copy of Council of Reeds.
-(This token's mana cost is {2}{U}.)</text>
-            <prop>
-                <type>Token Legendary Creature — Human Scientist Hero</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>2/2</pt>
-            </prop>
-            <set picURL="https://cards.scryfall.io/large/front/b/1/b1776802-c1d7-4d4d-926f-ab3748942b62.jpg?1781034747" uuid="b1776802-c1d7-4d4d-926f-ab3748942b62" num="8">MSC</set>
-            <reverse-related>Council of Reeds</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
             <name>Cordyceps Infected</name>
             <prop>
                 <colors>B</colors>
@@ -2816,6 +2800,22 @@ At the beginning of combat on your turn, if you've cast a noncreature spell this
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/6/6/6674c208-4d8d-4833-bee2-bfc87c93049d.jpg?1729353883" uuid="6674c208-4d8d-4833-bee2-bfc87c93049d" num="17">BLB</set>
             <reverse-related>Coruscation Mage</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Council of Reeds</name>
+            <text>The "legend rule" doesn't apply to creatures you control.
+At the beginning of combat on your turn, if you've cast a noncreature spell this turn, create a token that's a copy of Council of Reeds.
+(This token's mana cost is {2}{U}.)</text>
+            <prop>
+                <type>Token Legendary Creature — Human Scientist Hero</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/b/1/b1776802-c1d7-4d4d-926f-ab3748942b62.jpg?1781034747" uuid="b1776802-c1d7-4d4d-926f-ab3748942b62" num="8">MSC</set>
+            <reverse-related>Council of Reeds</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -5314,8 +5314,8 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Late to Dinner</reverse-related>
             <reverse-related>Leaves from the Vine</reverse-related>
             <reverse-related>Lita, Little Orphan Amphibian</reverse-related>
-            <reverse-related>Madame Vastra</reverse-related>
             <reverse-related>Lucky the Pizza Dog</reverse-related>
+            <reverse-related>Madame Vastra</reverse-related>
             <reverse-related>Many Partings</reverse-related>
             <reverse-related>Meriadoc Brandybuck</reverse-related>
             <reverse-related>Michelangelo, the Heart</reverse-related>
@@ -7419,8 +7419,8 @@ Equip {2}</text>
                 <pt>3/3</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/f/6/f67d6b6d-c57e-431f-ae80-a9658d628827.jpg?1757379299" uuid="f67d6b6d-c57e-431f-ae80-a9658d628827" num="2">SPM</set>
-            <reverse-related count="x">Mysterio, Master of Illusion</reverse-related>
             <reverse-related>Mysterio's Mirage</reverse-related>
+            <reverse-related count="x">Mysterio, Master of Illusion</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
