@@ -16123,7 +16123,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>0/1</pt>
             </prop>
-            <set picURL="ttps://raw.githubusercontent.com/SlightlyCircuitous/image-storage/refs/heads/main/Wood.jpeg">MIR</set>
+            <set picURL="https://raw.githubusercontent.com/SlightlyCircuitous/image-storage/refs/heads/main/Wood.jpeg">MIR</set>
             <reverse-related>Jungle Patrol</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
