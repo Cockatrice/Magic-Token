@@ -16871,7 +16871,6 @@ Temple of Bhaal — Creatures your opponents control get -5/-5 until end of turn
             <related exclude="exclude">Knight Token  </related>
             <related count="2" exclude="exclude">Faerie Dragon (Token)</related>
             <related count="3" exclude="exclude">Skeleton Token  </related>
-            <reverse-related></reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
