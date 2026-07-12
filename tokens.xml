@@ -16841,6 +16841,40 @@ Equip {1}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Baldur's Gate Wilderness</name>
+            <text>Crash Landing — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Goblin Camp — Create a Treasure token.
+Emerald Grove — Create a 2/2 white Knight creature token.
+Auntie’s Teahouse — Scry 3.
+Defiled Temple — You may sacrifice a permanent. If you do, draw a card.
+Mountain Pass — You may put a land card from your hand onto the battlefield.
+Ebonlake Grotto — Create two 1/1 blue Faerie Dragon creature tokens with flying.
+Grymforge — For each opponent, goad up to one target creature that player controls.
+Githyanki Crèche — Distribute three +1/+1 counters among up to three target creatures you control.
+Last Light Inn — Draw two cards.
+Reithwin Tollhouse — Roll 2d4 and create that many Treasure tokens.
+Moonrise Towers — Instant and sorcery spells you cast this turn cost {3} less to cast.
+Gauntlet of Shar — Each opponent loses 5 life.
+Balthazar’s Lab — Return up to two target creature cards from your graveyard to your hand.
+Circus of the Last Days — Create a token that’s a copy of one of your commanders, except it’s not legendary.
+Undercity Ruins — Create three 4/1 black Skeleton creature tokens with menace.
+Steel Watch Foundry — You get an emblem with “Creatures you control get +2/+2 and have trample.”
+Ansur’s Sanctum — Reveal the top four cards of your library and put them into your hand. Each opponent loses life equal to those cards’ total mana value.
+Temple of Bhaal — Creatures your opponents control get -5/-5 until end of turn.</text>
+            <prop>
+                <type>Dungeon</type>
+                <maintype>Dungeon</maintype>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/a/9/a9d56324-8293-4500-a9ad-fed351ccf966.jpg?1782738563" uuid="a9d56324-8293-4500-a9ad-fed351ccf966" num="0">CLB</set>
+            <related>Treasure Token</related>
+            <related count="x" exclude="exclude">Treasure Token</related>
+            <related exclude="exclude">Knight Token  </related>
+            <related count="2" exclude="exclude">Faerie Dragon (Token)</related>
+            <related count="3" exclude="exclude">Skeleton Token  </related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Dungeon of the Mad Mage</name>
             <text>Yawning Portal — You gain 1 life. (→ Dungeon Level)
 Dungeon Level — Scry 1. (→ Goblin Bazaar or Twisted Caverns)
@@ -19622,6 +19656,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <set picURL="https://cards.scryfall.io/large/front/d/d/ddd21725-17a3-40f9-bb9d-764c735949ef.jpg?1692830378" uuid="ddd21725-17a3-40f9-bb9d-764c735949ef" num="4">WOC</set>
             <set picURL="https://cards.scryfall.io/large/front/f/e/febfca87-fc37-46cc-8236-73bc5c0e5755.jpg?1689710585" uuid="febfca87-fc37-46cc-8236-73bc5c0e5755" num="55">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/4/3/43ec2f4d-d988-49a8-b2ac-598703fe8b26.jpg?1675456346" uuid="43ec2f4d-d988-49a8-b2ac-598703fe8b26" num="1">BRC</set>
+            <set picURL="https://cards.scryfall.io/large/front/5/1/51d7dc49-7116-489b-a719-7b293a513cdc.jpg?1782738550" uuid="51d7dc49-7116-489b-a719-7b293a513cdc" num="19">CLB</set>
             <set picURL="https://cards.scryfall.io/large/front/1/e/1e6ce56c-ca2e-48e8-a4d9-671cb4de8a9d.jpg?1674337886" uuid="1e6ce56c-ca2e-48e8-a4d9-671cb4de8a9d" num="1">SNC</set>
             <set picURL="https://cards.scryfall.io/large/front/c/7/c7ba6540-3743-445c-99bf-feb5af2fd56d.jpg?1641306129" uuid="c7ba6540-3743-445c-99bf-feb5af2fd56d" num="30">C21</set>
             <set picURL="https://cards.scryfall.io/large/front/1/4/1420c92f-a3f5-461a-b342-3708fa2212d7.jpg?1608908660" uuid="1420c92f-a3f5-461a-b342-3708fa2212d7" num="13">CMR</set>
