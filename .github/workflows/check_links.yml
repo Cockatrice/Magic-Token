@@ -42,11 +42,8 @@ jobs:
       # Extract picture URLs from tokens.xml
       - name: Extract URLs
         id: tokens_pic_urls
-        uses: lycheeverse/lychee-action@v2
-        with:
-          args: --dump -- tokens.xml
-          output: url_list.md
-          jobSummary: false
+        shell: bash
+        script: grep tokens.xml -oPe '(?<=picURL=")[^"]+(?=")' >url_list.md
 
       # Check dumped URLs
       - name: Check token art URLs
