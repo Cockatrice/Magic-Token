@@ -43,7 +43,7 @@ jobs:
       - name: Extract URLs
         id: tokens_pic_urls
         shell: bash
-        script: grep tokens.xml -oPe '(?<=picURL=")[^"]+(?=")' >url_list.md
+        run: grep tokens.xml -oPe '(?<=picURL=")[^"]+(?=")' >url_list.md
 
       # Check dumped URLs
       - name: Check token art URLs
