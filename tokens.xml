@@ -3861,7 +3861,7 @@ This token can block only creatures with flying.</text>
             <reverse-related count="x">An Unexpected Party // At the Door</reverse-related>
             <reverse-related attach="attach">Dwarven Shortsword</reverse-related>
             <reverse-related>Fíli the Pathfinder</reverse-related>
-            <reverse-related>The Lonely Mountain </reverse-related>
+            <reverse-related>The Lonely Mountain</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -5886,10 +5886,10 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related>Down, Down to Goblin-town</reverse-related>
             <reverse-related>Fearsome Goblin Pair</reverse-related>
             <reverse-related>Gathering of Darkness</reverse-related>
-            <reverse-related>Great Goblin, Foul-Hearted</reverse-related>
-            <reverse-related>Great Ugly-Looking Goblin // Clap! Snap!</reverse-related>
             <reverse-related attach="attach">Goblin Plate Mail</reverse-related>
             <reverse-related>Goblin-town Flunkies</reverse-related>
+            <reverse-related>Great Goblin, Foul-Hearted</reverse-related>
+            <reverse-related>Great Ugly-Looking Goblin // Clap! Snap!</reverse-related>
             <reverse-related>Misty Mountains Raider</reverse-related>
             <reverse-related>Rage into the Valley</reverse-related>
             <reverse-related>Rhovanion Rampager</reverse-related>
@@ -19134,9 +19134,9 @@ If a player casts at least two spells during their own turn, it becomes day next
             <reverse-related>Dáin, Lord of the Iron Hills</reverse-related>
             <reverse-related exclude="exclude">Fíli the Pathfinder</reverse-related>
             <reverse-related>Kíli the Resourceful</reverse-related>
-            <reverse-related>Óin the Brave</reverse-related>
             <reverse-related>Ori, Keeper of Songs</reverse-related>
             <reverse-related>Thorin Oakenshield</reverse-related>
+            <reverse-related>Óin the Brave</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -19452,8 +19452,10 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Beluna's Gatekeeper // Entry Denied</reverse-related>
             <reverse-related attach="attach">Beorn, Reluctant Host // Till and Tend</reverse-related>
             <reverse-related attach="attach">Besotted Knight // Betroth the Beast</reverse-related>
+            <reverse-related attach="attach">Bilbo Baggins, Burglar // Take a Glance</reverse-related>
+            <reverse-related attach="attach">Bilbo, Luckwearer // Burglar's Plot</reverse-related>
             <reverse-related attach="attach">Blessed Hippogriff // Tyr's Blessing</reverse-related>
-            <reverse-related attach="attach"> Bilbo Baggins, Burglar // Take a Glance</reverse-related>
+            <reverse-related attach="attach">Bofur, Reliable Guardian // Concerted Care</reverse-related>
             <reverse-related attach="attach">Bonecrusher Giant // Stomp</reverse-related>
             <reverse-related attach="attach">Bramble Familiar // Fetch Quest</reverse-related>
             <reverse-related attach="attach">Brazen Borrower // Petty Theft</reverse-related>
@@ -19481,12 +19483,17 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Foulmire Knight // Profane Insight</reverse-related>
             <reverse-related attach="attach">Frolicking Familiar // Blow Off Steam</reverse-related>
             <reverse-related attach="attach">Galvanic Giant // Storm Reading</reverse-related>
+            <reverse-related attach="attach">Gandalf, Goblins' Bane // Flameshape</reverse-related>
             <reverse-related attach="attach">Garenbrig Carver // Shield's Might</reverse-related>
             <reverse-related attach="attach">Ghost Lantern // Bind Spirit</reverse-related>
             <reverse-related attach="attach">Giant Killer // Chop Down</reverse-related>
             <reverse-related attach="attach" exclude="exclude">Gingerbread Hunter // Puny Snack</reverse-related>
+            <reverse-related attach="attach">Glamdring, Foe-hammer // Gleam of Death</reverse-related>
+            <reverse-related attach="attach">Glóin the Mighty // Easy Pickings</reverse-related>
+            <reverse-related attach="attach">Gollum, Silent Slinker // Meager Meal</reverse-related>
             <reverse-related attach="attach">Grabby Giant // That's Mine</reverse-related>
             <reverse-related attach="attach">Gray Slaad // Entropic Decay</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Great Ugly-Looking Goblin // Clap! Snap!</reverse-related>
             <reverse-related attach="attach">Guardian Naga // Banishing Coils</reverse-related>
             <reverse-related attach="attach">Gumdrop Poisoner // Tempt with Treats</reverse-related>
             <reverse-related attach="attach">Heartflame Duelist // Heartflame Slash</reverse-related>
@@ -19504,6 +19511,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Jidoor, Aristocratic Capital // Overture</reverse-related>
             <reverse-related attach="attach" exclude="exclude">Kellan, Daring Traveler // Journey On</reverse-related>
             <reverse-related attach="attach">Kellan, the Fae-Blooded // Birthright Boon</reverse-related>
+            <reverse-related attach="attach">Lake-town Mariners // Gone Fishing</reverse-related>
             <reverse-related attach="attach" exclude="exclude">Lindblum, Industrial Regency // Mage Siege</reverse-related>
             <reverse-related attach="attach">Lonesome Unicorn // Rider in Need</reverse-related>
             <reverse-related attach="attach">Lovestruck Beast // Heart's Desire</reverse-related>
@@ -19514,7 +19522,9 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Monster Manual // Zoological Study</reverse-related>
             <reverse-related attach="attach">Moonshae Pixie // Pixie Dust</reverse-related>
             <reverse-related attach="attach">Mosswood Dreadknight // Dread Whispers</reverse-related>
+            <reverse-related attach="attach">Most Decrepit Old Bird // Speak Secrets</reverse-related>
             <reverse-related attach="attach">Murderous Rider // Swift End</reverse-related>
+            <reverse-related attach="attach">My Precious // Allure of Power</reverse-related>
             <reverse-related attach="attach">Oakhame Ranger // Bring Back</reverse-related>
             <reverse-related attach="attach">Obyra's Attendants // Desperate Parry</reverse-related>
             <reverse-related attach="attach">Order of Midnight // Alter Fate</reverse-related>
@@ -19536,11 +19546,14 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Shepherd of the Flock // Usher to Safety</reverse-related>
             <reverse-related attach="attach">Shrouded Shepherd // Cleave Shadows</reverse-related>
             <reverse-related attach="attach">Silverflame Squire // On Alert</reverse-related>
+            <reverse-related attach="attach">Smaug, the Great Calamity // Spew Flame</reverse-related>
             <reverse-related attach="attach">Smitten Swordmaster // Curry Favor</reverse-related>
             <reverse-related attach="attach">Spellscorn Coven // Take It Back</reverse-related>
             <reverse-related attach="attach">Stormkeld Vanguard // Bear Down</reverse-related>
             <reverse-related attach="attach">Sword Coast Serpent // Capsizing Wave</reverse-related>
             <reverse-related attach="attach">Tempest Hart // Scan the Clouds</reverse-related>
+            <reverse-related attach="attach">The Arkenstone // Seek the Heart</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Thranduil, Sindarin Liege // Silvan Rally</reverse-related>
             <reverse-related attach="attach">Threadbind Clique // Rip the Seams</reverse-related>
             <reverse-related attach="attach">Tlincalli Hunter // Retrieve Prey</reverse-related>
             <reverse-related attach="attach">Topaz Dragon // Entropic Cloud</reverse-related>
@@ -19549,6 +19562,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Two-Handed Axe // Sweeping Cleave</reverse-related>
             <reverse-related attach="attach">Two-Headed Hunter // Twice the Rage</reverse-related>
             <reverse-related attach="attach">Vantress Transmuter // Croaking Curse</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Velvetwing Butterflies // Gaze in Wonder</reverse-related>
             <reverse-related attach="attach">Virtue of Courage // Embereth Blaze</reverse-related>
             <reverse-related attach="attach">Virtue of Knowledge // Vantress Visions</reverse-related>
             <reverse-related attach="attach">Virtue of Loyalty // Ardenvale Fealty</reverse-related>
@@ -19558,20 +19572,6 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Young Blue Dragon // Sand Augury</reverse-related>
             <reverse-related attach="attach">Young Red Dragon // Bathe in Gold</reverse-related>
             <reverse-related attach="attach" exclude="exclude">Zanarkand, Ancient Metropolis // Lasting Fayth</reverse-related>
-            <reverse-related attach="attach">Bilbo, Luckwearer // Burglar's Plot</reverse-related>
-            <reverse-related attach="attach">Bofur, Reliable Guardian // Concerted Care</reverse-related>
-            <reverse-related attach="attach">Gandalf, Goblins' Bane // Flameshape</reverse-related>
-            <reverse-related attach="attach">Glamdring, Foe-hammer // Gleam of Death</reverse-related>
-            <reverse-related attach="attach">Glóin the Mighty // Easy Pickings</reverse-related>
-            <reverse-related attach="attach">Gollum, Silent Slinker // Meager Meal</reverse-related>
-            <reverse-related attach="attach" exclude="exclude">Great Ugly-Looking Goblin // Clap! Snap!</reverse-related>
-            <reverse-related attach="attach">Lake-town Mariners // Gone Fishing</reverse-related>
-            <reverse-related attach="attach">Most Decrepit Old Bird // Speak Secrets</reverse-related>
-            <reverse-related attach="attach">My Precious // Allure of Power</reverse-related>
-            <reverse-related attach="attach">Smaug, the Great Calamity // Spew Flame</reverse-related>
-            <reverse-related attach="attach">The Arkenstone // Seek the Heart</reverse-related>
-            <reverse-related attach="attach" exclude="exclude">Thranduil, Sindarin Liege // Silvan Rally</reverse-related>
-            <reverse-related attach="attach" exclude="exclude">Velvetwing Butterflies // Gaze in Wonder</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
