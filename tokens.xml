@@ -554,7 +554,7 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <tablerow>2</tablerow>
         </card>
         <card>
-        <name>Ape Villain Token</name>
+            <name>Ape Villain Token</name>
             <text>Haste</text>
             <prop>
                 <colors>R</colors>
@@ -830,6 +830,21 @@ Creature tokens you control have flying and vigilance.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Axe</name>
+            <text>Equipped creature gets +1/+0.
+Equip {2} ({2}: Attach to target creatre you control. Equip only as a sorcery.)</text>
+            <prop>
+                <type>Token Artifact — Equipment</type>
+                <maintype>Artifact</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/f/6f7a3999-e341-43bb-9b8f-6c1a05b98906.jpg?1785497989" uuid="6f7a3999-e341-43bb-9b8f-6c1a05b98906" num="10">HOB</set>
+            <reverse-related>Dáin Ironfoot</reverse-related>
+            <reverse-related>Iron Hills Blacksmith</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Badger Token</name>
             <prop>
                 <colors>G</colors>
@@ -966,6 +981,7 @@ Creature tokens you control have flying and vigilance.</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/1/31661af9-a40a-418c-82e3-b74aa14cc7c4.jpg?1785497718" uuid="31661af9-a40a-418c-82e3-b74aa14cc7c4" num="7">HOB</set>
             <set picURL="https://cards.scryfall.io/large/front/7/7/772dac39-269b-4a35-aad3-320279af833f.jpg?1675455454" uuid="772dac39-269b-4a35-aad3-320279af833f" num="2">BRO</set>
             <set picURL="https://cards.scryfall.io/large/front/9/d/9d8ab1dd-f8a5-4a93-8aa0-f0701a4c3ff2.jpg?1675455585" uuid="9d8ab1dd-f8a5-4a93-8aa0-f0701a4c3ff2" num="7">DMC</set>
             <set picURL="https://cards.scryfall.io/large/front/e/c/ec53abaa-b316-496d-9351-318a9dd9de4d.jpg?1615686653" uuid="ec53abaa-b316-496d-9351-318a9dd9de4d" num="13">KHM</set>
@@ -979,6 +995,8 @@ Creature tokens you control have flying and vigilance.</text>
             <reverse-related count="x" exclude="exclude">Ayula's Influence</reverse-related>
             <reverse-related>Bearscape</reverse-related>
             <reverse-related count="x">Caller of the Claw</reverse-related>
+            <reverse-related>Dancing from Dark to Dawn</reverse-related>
+            <reverse-related count="x" exclude="exclude">Dancing from Dark to Dawn</reverse-related>
             <reverse-related>Fade from History</reverse-related>
             <reverse-related count="3">Flaxen Intruder // Welcome Home</reverse-related>
             <reverse-related count="2">Grizzly Fate</reverse-related>
@@ -1315,6 +1333,22 @@ Creature tokens you control have flying and vigilance.</text>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/b/7/b7b55dcf-ae63-4b84-8d39-80b5a6de3c1a.jpg?1561757893" uuid="b7b55dcf-ae63-4b84-8d39-80b5a6de3c1a" num="1">ARB</set>
             <reverse-related count="x">Flurry of Wings</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Bird Soldier Token </name>
+            <text>Flying</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Bird Soldier</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/4</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/e/9ed2d2f3-e1b0-41e0-a29d-31624e5e9004.jpg?1785524352" uuid="9ed2d2f3-e1b0-41e0-a29d-31624e5e9004" num="1">HOB</set>
+            <reverse-related>The Eagles Are Coming!</reverse-related>
+            <reverse-related count="x" exclude="exclude">The Eagles Are Coming!</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3606,9 +3640,11 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
                 <cmc>0</cmc>
                 <pt>6/6</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/e/1e4408fa-8037-42f1-989e-2da84867f76c.jpg?1785497692" uuid="1e4408fa-8037-42f1-989e-2da84867f76c" num="5">HOB</set>
             <set picURL="https://cards.scryfall.io/large/front/d/5/d5013fdc-fae8-4170-8320-1ed13902f319.jpg?1552078407" uuid="d5013fdc-fae8-4170-8320-1ed13902f319" num="5">GK2</set>
             <set picURL="https://cards.scryfall.io/large/front/7/c/7c66280f-287b-4294-9984-32484de2568a.jpg?1562636824" uuid="7c66280f-287b-4294-9984-32484de2568a" num="7">C17</set>
             <set picURL="https://cards.scryfall.io/large/front/8/4/84310f84-3e5f-4db8-bff1-16bef64de1a0.jpg?1562539809" uuid="84310f84-3e5f-4db8-bff1-16bef64de1a0" num="5">RTR</set>
+            <reverse-related exclude="exclude">The Misty Mountains Cold</reverse-related>
             <reverse-related>Utvara Hellkite</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -3809,6 +3845,23 @@ This token can block only creatures with flying.</text>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/c/a/cab5d0dd-8095-4410-8feb-8c13edfcb2e5.jpg?1610066785" uuid="cab5d0dd-8095-4410-8feb-8c13edfcb2e5" num="7">ELD</set>
             <reverse-related>Dwarven Mine</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Dwarf Token </name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Dwarf</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/f/9fcb3a3f-c0d4-43d4-8549-826a38bfa27d.jpg?1786258756" uuid="9fcb3a3f-c0d4-43d4-8549-826a38bfa27d" num="6">HOB</set>
+            <reverse-related count="x">An Unexpected Party // At the Door</reverse-related>
+            <reverse-related attach="attach">Dwarven Shortsword</reverse-related>
+            <reverse-related>Fíli the Pathfinder</reverse-related>
+            <reverse-related>The Lonely Mountain </reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -4779,6 +4832,25 @@ This creature's power and toughness are each equal to the number of instant and 
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Elf Token </name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Elf</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/7/6/761c7c31-c6c5-44e2-a845-f590542b6eda.jpg?1785497812" uuid="761c7c31-c6c5-44e2-a845-f590542b6eda" num="8">HOB</set>
+            <reverse-related>Down in the Valley</reverse-related>
+            <reverse-related count="x" exclude="exclude">Down in the Valley</reverse-related>
+            <reverse-related>Thranduil the Strategist</reverse-related>
+            <reverse-related count="x" exclude="exclude">Thranduil the Strategist</reverse-related>
+            <reverse-related>Thranduil, Sindarin Liege // Silvan Rally</reverse-related>
+            <reverse-related count="x" exclude="exclude">Thranduil, Sindarin Liege // Silvan Rally</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Elf Warrior Token</name>
             <prop>
                 <colors>G</colors>
@@ -5253,6 +5325,7 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related count="x" exclude="exclude">Apothecary White</reverse-related>
             <reverse-related>Applejack</reverse-related>
             <reverse-related>Astrid Peth</reverse-related>
+            <reverse-related>Bag End Banquet</reverse-related>
             <reverse-related>Bake into a Pie</reverse-related>
             <reverse-related>Bakersbane Duo</reverse-related>
             <reverse-related>Bartered Cow</reverse-related>
@@ -5793,6 +5866,34 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related count="x">Springjack Shepherd</reverse-related>
             <reverse-related>Trading Post</reverse-related>
             <reverse-related>Woe Strider</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Goblin Army Token</name>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Goblin Army</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>0/0</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/e/2e2028b1-34c0-40b6-8f65-79f79a279996.jpg?1785497644" uuid="2e2028b1-34c0-40b6-8f65-79f79a279996" num="3">HOB</set>
+            <set picURL="https://cards.scryfall.io/large/front/0/0/0045408d-4ab9-48bf-84aa-c6d827682090.jpg?1785497563" uuid="0045408d-4ab9-48bf-84aa-c6d827682090" num="4">HOB</set>
+            <reverse-related>Along the Crooked Way</reverse-related>
+            <reverse-related>Bolg of the North</reverse-related>
+            <reverse-related>Bothersome Noisemaker</reverse-related>
+            <reverse-related>Down, Down to Goblin-town</reverse-related>
+            <reverse-related>Fearsome Goblin Pair</reverse-related>
+            <reverse-related>Gathering of Darkness</reverse-related>
+            <reverse-related>Great Goblin, Foul-Hearted</reverse-related>
+            <reverse-related>Great Ugly-Looking Goblin // Clap! Snap!</reverse-related>
+            <reverse-related attach="attach">Goblin Plate Mail</reverse-related>
+            <reverse-related>Goblin-town Flunkies</reverse-related>
+            <reverse-related>Misty Mountains Raider</reverse-related>
+            <reverse-related>Rage into the Valley</reverse-related>
+            <reverse-related>Rhovanion Rampager</reverse-related>
+            <reverse-related>Tidings of War</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -6971,6 +7072,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/0/6007af81-4541-4b55-90ea-03d365362ae5.jpg?1785497653" uuid="6007af81-4541-4b55-90ea-03d365362ae5" num="2">HOB</set>
             <set picURL="https://cards.scryfall.io/large/front/6/3/631c2c16-132d-4607-ab7e-207a6af188e5.jpg?1757686920" uuid="631c2c16-132d-4607-ab7e-207a6af188e5" num="2">EOE</set>
             <set picURL="https://cards.scryfall.io/large/front/8/d/8dc05018-f1c5-4c45-bb32-9a9ccd641f48.jpg?1749245651" uuid="8dc05018-f1c5-4c45-bb32-9a9ccd641f48" num="1">FIC</set>
             <set picURL="https://cards.scryfall.io/large/front/b/4/b4293d70-13d0-4540-af69-5afc79821102.jpg?1726236958" uuid="b4293d70-13d0-4540-af69-5afc79821102" num="3">DSC</set>
@@ -13855,6 +13957,20 @@ Whenever an opponent casts a noncreature spell, put a +1/+1 counter on this crea
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Stone Boulder</name>
+            <text>Defender</text>
+            <prop>
+                <type>Token Artifact Creature — Wall</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/3/4/3440e247-a733-4609-9d80-d4a5fc58ae46.jpg?1785502811" uuid="3440e247-a733-4609-9d80-d4a5fc58ae46" num="11">HOB</set>
+            <reverse-related>Stone-Giant of High Pass</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Stoneforged Blade</name>
             <text>Indestructible
 Equipped creature gets +5/+5 and has double strike.
@@ -14427,6 +14543,8 @@ The Void attacks each combat if able.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/c/6/c6e096bb-ad9e-4a8b-8b42-26852fa32c1d.jpg?1783902770" uuid="c6e096bb-ad9e-4a8b-8b42-26852fa32c1d" num="12">HOB</set>
+            <set picURL="https://cards.scryfall.io/large/front/d/1/d1892b78-7663-4cbd-a732-9a4b0b18d4c8.jpg?1785498054" uuid="d1892b78-7663-4cbd-a732-9a4b0b18d4c8" num="13">HOB</set>
             <set picURL="https://cards.scryfall.io/large/front/f/9/f909bd95-58a1-4299-9570-87724145fc85.jpg?1781015203" uuid="f909bd95-58a1-4299-9570-87724145fc85" num="22">MSH</set>
             <set picURL="https://cards.scryfall.io/large/front/b/4/b4f61b5e-9c53-40b1-b93e-3ffa351ff052.jpg?1775828602" uuid="b4f61b5e-9c53-40b1-b93e-3ffa351ff052" num="12">SOS</set>
             <set picURL="https://cards.scryfall.io/large/front/4/8/4837a3f1-ca7f-41e5-a5d1-729c8495b0e8.jpg?1771590279" uuid="4837a3f1-ca7f-41e5-a5d1-729c8495b0e8" num="3">TMC</set>
@@ -14498,8 +14616,10 @@ The Void attacks each combat if able.</text>
             <reverse-related count="x">Baeloth Barrityl, Entertainer</reverse-related>
             <reverse-related>Battle Angels of Tyr</reverse-related>
             <reverse-related>Beamtown Beatstick</reverse-related>
+            <reverse-related>Bejeweled Warg</reverse-related>
             <reverse-related>Beza, the Bounding Spring</reverse-related>
             <reverse-related count="2">Big Score</reverse-related>
+            <reverse-related>Bilbo, Fellow Conspirator</reverse-related>
             <reverse-related>Bilbo, Retired Burglar</reverse-related>
             <reverse-related>Bill Ferny, Bree Swindler</reverse-related>
             <reverse-related count="3" exclude="exclude">Bill Ferny, Bree Swindler</reverse-related>
@@ -14558,6 +14678,8 @@ The Void attacks each combat if able.</text>
             <reverse-related count="x">Dockside Extortionist</reverse-related>
             <reverse-related count="2">Don Andres, the Renegade</reverse-related>
             <reverse-related>Done for the Day</reverse-related>
+            <reverse-related>Dori, Bearer of Friends</reverse-related>
+            <reverse-related>Dragon-Cursed Halls</reverse-related>
             <reverse-related>Dungeoneer's Pack</reverse-related>
             <reverse-related count="x">Edward Kenway</reverse-related>
             <reverse-related exclude="exclude">Elemental Masterpiece</reverse-related>
@@ -14592,6 +14714,7 @@ The Void attacks each combat if able.</text>
             <reverse-related>Gilded Pinions</reverse-related>
             <reverse-related>Gimli of the Glittering Caves</reverse-related>
             <reverse-related>Gleaming Barrier</reverse-related>
+            <reverse-related>Gleaming Splendor</reverse-related>
             <reverse-related>Glittermonger</reverse-related>
             <reverse-related count="x=2">Gluntch, the Bestower</reverse-related>
             <reverse-related>Glóin, Dwarf Emissary</reverse-related>
@@ -14662,6 +14785,7 @@ The Void attacks each combat if able.</text>
             <reverse-related>Life Insurance</reverse-related>
             <reverse-related count="x">Lobelia Sackville-Baggins</reverse-related>
             <reverse-related>Locke, Treasure Hunter</reverse-related>
+            <reverse-related>Long-Bodied Grey Dog</reverse-related>
             <reverse-related>Loot Dispute</reverse-related>
             <reverse-related>Lotho, Corrupt Shirriff</reverse-related>
             <reverse-related count="x">Luck Bobblehead</reverse-related>
@@ -14707,6 +14831,7 @@ The Void attacks each combat if able.</text>
             <reverse-related>Old Rutstein</reverse-related>
             <reverse-related>Olivia, Opulent Outlaw</reverse-related>
             <reverse-related count="x" exclude="exclude">Olivia, Opulent Outlaw</reverse-related>
+            <reverse-related count="x">Orcrist, Goblin-cleaver</reverse-related>
             <reverse-related>Orochi Soul-Reaver</reverse-related>
             <reverse-related>Pain Distributor</reverse-related>
             <reverse-related>Patient Naturalist</reverse-related>
@@ -14778,6 +14903,9 @@ The Void attacks each combat if able.</text>
             <reverse-related>Sidequest: Hunt the Mark</reverse-related>
             <reverse-related>Skullport Merchant</reverse-related>
             <reverse-related>Smashing Success</reverse-related>
+            <reverse-related count="x">Smaug the Impenetrable</reverse-related>
+            <reverse-related>Smaug the Magnificent</reverse-related>
+            <reverse-related count="x">Smaug, Wicked Worm</reverse-related>
             <reverse-related>Smothering Tithe</reverse-related>
             <reverse-related>Smuggler's Share</reverse-related>
             <reverse-related count="x" exclude="exclude">Smuggler's Share</reverse-related>
@@ -14809,10 +14937,14 @@ The Void attacks each combat if able.</text>
             <reverse-related>The Golden City of Orazca</reverse-related>
             <reverse-related count="3">The Great Work</reverse-related>
             <reverse-related count="2">The Matrix of Time</reverse-related>
+            <reverse-related>The Misty Mountains Cold</reverse-related>
             <reverse-related count="x">The Reaver Cleaver</reverse-related>
+            <reverse-related>The Sackville-Bagginses</reverse-related>
             <reverse-related exclude="exclude">The Third Doctor</reverse-related>
             <reverse-related count="3">The Western Cloud</reverse-related>
             <reverse-related>Thieves' Tools</reverse-related>
+            <reverse-related count="2">Thorin, Company's Leader</reverse-related>
+            <reverse-related>Thorin, King of Durin's Folk</reverse-related>
             <reverse-related>Ticket Tortoise</reverse-related>
             <reverse-related>Tireless Provisioner</reverse-related>
             <reverse-related count="x" exclude="exclude">Tivit, Seller of Secrets</reverse-related>
@@ -15973,6 +16105,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/0/e07312b9-f3c1-4e36-88fc-b29cde581eb6.jpg?1785497932" uuid="e07312b9-f3c1-4e36-88fc-b29cde581eb6" num="9">HOB</set>
             <set picURL="https://cards.scryfall.io/large/front/e/7/e7fcf482-2241-4263-acf8-3c34a498bfd5.jpg?1721427912" uuid="e7fcf482-2241-4263-acf8-3c34a498bfd5" num="32">BLC</set>
             <set picURL="https://cards.scryfall.io/large/front/8/1/81605b8d-cf1d-49dc-aebb-a857d6796a77.jpg?1675456083" uuid="81605b8d-cf1d-49dc-aebb-a857d6796a77" num="43">CLB</set>
             <set picURL="https://cards.scryfall.io/large/front/d/5/d5f1e139-3054-4273-8a4d-faaaa9c383a8.jpg?1675457530" uuid="d5f1e139-3054-4273-8a4d-faaaa9c383a8" num="14">VOW</set>
@@ -16002,6 +16135,7 @@ Equip {1}</text>
             <reverse-related count="2">Arlinn, the Pack's Hope</reverse-related>
             <reverse-related>Arlinn, Voice of the Pack</reverse-related>
             <reverse-related>Bestial Menace</reverse-related>
+            <reverse-related>Chief Warg's Company</reverse-related>
             <reverse-related>Child of the Pack</reverse-related>
             <reverse-related>Cult of the Waxing Moon</reverse-related>
             <reverse-related>Elturgard Ranger</reverse-related>
@@ -16010,6 +16144,7 @@ Equip {1}</text>
             <reverse-related count="x">Feed the Pack</reverse-related>
             <reverse-related>Ferocious Pup</reverse-related>
             <reverse-related>Garruk Relentless</reverse-related>
+            <reverse-related>Head of the Hunt</reverse-related>
             <reverse-related count="x">Hollowhenge Overlord</reverse-related>
             <reverse-related count="x">Howl of the Night Pack</reverse-related>
             <reverse-related count="2">Howling Giant</reverse-related>
@@ -18987,6 +19122,25 @@ If a player casts at least two spells during their own turn, it becomes day next
             <tablerow>1</tablerow>
         </card>
         <card>
+            <name>Enduring Story</name>
+            <prop>
+                <type>State</type>
+                <maintype>State</maintype>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/3/53bfaac7-07cf-4637-8f64-aba93ec7fd1a.jpg?1786595037" uuid="53bfaac7-07cf-4637-8f64-aba93ec7fd1a" num="14">HOB</set>
+            <reverse-related>Balin, Loremaster</reverse-related>
+            <reverse-related>Bifur, Melodic Rider</reverse-related>
+            <reverse-related>Bombur, Gentle Dreamer</reverse-related>
+            <reverse-related>Dáin, Lord of the Iron Hills</reverse-related>
+            <reverse-related exclude="exclude">Fíli the Pathfinder</reverse-related>
+            <reverse-related>Kíli the Resourceful</reverse-related>
+            <reverse-related>Óin the Brave</reverse-related>
+            <reverse-related>Ori, Keeper of Songs</reverse-related>
+            <reverse-related>Thorin Oakenshield</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Foretell</name>
             <text>(After you foretell a card, you can place the exiled card here. You may cast it on a later turn for its foretell cost.)</text>
             <prop>
@@ -19282,10 +19436,12 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>State</type>
                 <maintype>State</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/5/e/5e289bb3-f6de-450d-9f7e-77e2e70cb7cc.jpg?1785534329" uuid="5e289bb3-f6de-450d-9f7e-77e2e70cb7cc" num="15">HOB</set>
             <set picURL="https://cards.scryfall.io/large/front/f/c/fcf4c7fb-7859-4c11-8552-6817f5119d2e.jpg?1701989179" uuid="fcf4c7fb-7859-4c11-8552-6817f5119d2e" num="18">WOE</set>
             <set picURL="https://cards.scryfall.io/large/front/a/8/a8d50cf9-03e6-467a-aadf-84a24106ffa9.jpg?1572489247" uuid="a8d50cf9-03e6-467a-aadf-84a24106ffa9" num="20">ELD</set>
             <reverse-related attach="attach">Altar of Bhaal // Bone Offering</reverse-related>
             <reverse-related attach="attach">Amethyst Dragon // Explosive Crystal</reverse-related>
+            <reverse-related attach="attach">An Unexpected Party // At the Door</reverse-related>
             <reverse-related attach="attach">Animating Faerie // Bring to Life</reverse-related>
             <reverse-related attach="attach">Aquatic Alchemist // Bubble Up</reverse-related>
             <reverse-related attach="attach">Ardenvale Tactician // Dizzying Swoop</reverse-related>
@@ -19294,8 +19450,10 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Bellowing Bruiser // Beat a Path</reverse-related>
             <reverse-related attach="attach">Beluna Grandsquall // Seek Thrills</reverse-related>
             <reverse-related attach="attach">Beluna's Gatekeeper // Entry Denied</reverse-related>
+            <reverse-related attach="attach">Beorn, Reluctant Host // Till and Tend</reverse-related>
             <reverse-related attach="attach">Besotted Knight // Betroth the Beast</reverse-related>
             <reverse-related attach="attach">Blessed Hippogriff // Tyr's Blessing</reverse-related>
+            <reverse-related attach="attach"> Bilbo Baggins, Burglar // Take a Glance</reverse-related>
             <reverse-related attach="attach">Bonecrusher Giant // Stomp</reverse-related>
             <reverse-related attach="attach">Bramble Familiar // Fetch Quest</reverse-related>
             <reverse-related attach="attach">Brazen Borrower // Petty Theft</reverse-related>
@@ -19400,6 +19558,20 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Young Blue Dragon // Sand Augury</reverse-related>
             <reverse-related attach="attach">Young Red Dragon // Bathe in Gold</reverse-related>
             <reverse-related attach="attach" exclude="exclude">Zanarkand, Ancient Metropolis // Lasting Fayth</reverse-related>
+            <reverse-related attach="attach">Bilbo, Luckwearer // Burglar's Plot</reverse-related>
+            <reverse-related attach="attach">Bofur, Reliable Guardian // Concerted Care</reverse-related>
+            <reverse-related attach="attach">Gandalf, Goblins' Bane // Flameshape</reverse-related>
+            <reverse-related attach="attach">Glamdring, Foe-hammer // Gleam of Death</reverse-related>
+            <reverse-related attach="attach">Glóin the Mighty // Easy Pickings</reverse-related>
+            <reverse-related attach="attach">Gollum, Silent Slinker // Meager Meal</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Great Ugly-Looking Goblin // Clap! Snap!</reverse-related>
+            <reverse-related attach="attach">Lake-town Mariners // Gone Fishing</reverse-related>
+            <reverse-related attach="attach">Most Decrepit Old Bird // Speak Secrets</reverse-related>
+            <reverse-related attach="attach">My Precious // Allure of Power</reverse-related>
+            <reverse-related attach="attach">Smaug, the Great Calamity // Spew Flame</reverse-related>
+            <reverse-related attach="attach">The Arkenstone // Seek the Heart</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Thranduil, Sindarin Liege // Silvan Rally</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Velvetwing Butterflies // Gaze in Wonder</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
