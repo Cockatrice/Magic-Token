@@ -19644,7 +19644,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>State</type>
                 <maintype>State</maintype>
             </prop>
-        <set picURL="">TSP</set>            
+        <set picURL="https://raw.githubusercontent.com/SlightlyCircuitous/image-storage/refs/heads/main/suspend.jpeg">TSP</set>            
         <reverse-related attach="attach">Aeon Chronicler</reverse-related>
         <reverse-related attach="attach">Amy Pond</reverse-related>
         <reverse-related attach="attach">Ancestral Vision</reverse-related>
