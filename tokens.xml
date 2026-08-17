@@ -19510,6 +19510,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Ishgard, the Holy See // Faith &amp; Grief</reverse-related>
             <reverse-related attach="attach">Jidoor, Aristocratic Capital // Overture</reverse-related>
             <reverse-related attach="attach" exclude="exclude">Kellan, Daring Traveler // Journey On</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Kellan, Inquisitive Prodigy // Tail the Suspect</reverse-related>
             <reverse-related attach="attach">Kellan, the Fae-Blooded // Birthright Boon</reverse-related>
             <reverse-related attach="attach">Lake-town Mariners // Gone Fishing</reverse-related>
             <reverse-related attach="attach" exclude="exclude">Lindblum, Industrial Regency // Mage Siege</reverse-related>
