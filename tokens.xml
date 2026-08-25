@@ -18877,6 +18877,59 @@ Enchanted creature gets +1/+1 for each enchantment you control.</text>
             <tablerow>1</tablerow>
         </card>
         <card>
+            <name>Storm Counter</name>
+            <prop>
+                <type>Counter</type>
+	            <maintype>Counter</maintype>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/1/c/1c9fc622-bc1d-4be0-9f47-e753e18b4d78.jpg?1783903424" uuid="1c9fc622-bc1d-4be0-9f47-e753e18b4d78" num="2422">SLD</set>
+            <reverse-related>Aeve, Progenitor Ooze</reverse-related>
+            <reverse-related>All of History, All at Once</reverse-related>
+            <reverse-related>Amphibian Downpour</reverse-related>
+            <reverse-related>Astral Steel</reverse-related>
+            <reverse-related>Bitter Ordeal</reverse-related>
+            <reverse-related>Brain Freeze</reverse-related>
+            <reverse-related exclude="exclude">Chatterstorm</reverse-related>
+            <reverse-related>Crackling Spellslinger</reverse-related>
+            <reverse-related exclude="exclude">Crow Storm</reverse-related>
+            <reverse-related>Dragonstorm</reverse-related>
+            <reverse-related exclude="exclude">Elemental Eruption</reverse-related>
+            <reverse-related exclude="exclude">Empty the Warrens</reverse-related>
+            <reverse-related>Fiery Encore</reverse-related>
+            <reverse-related>Flusterstorm</reverse-related>
+            <reverse-related>Follow the Bodies</reverse-related>
+            <reverse-related>Galathul Galecaller // Corvid Squall</reverse-related>
+            <reverse-related>Galvanic Relay</reverse-related>
+            <reverse-related>Grapeshot</reverse-related>
+            <reverse-related>Ground Rift</reverse-related>
+            <reverse-related>Haze of Rage</reverse-related>
+            <reverse-related>Hindering Touch</reverse-related>
+            <reverse-related exclude="exclude">Hunting Pack</reverse-related>
+            <reverse-related>Ignite Memories</reverse-related>
+            <reverse-related>Indris, the Hydrostatic Surge</reverse-related>
+            <reverse-related>Limitless Rekindling</reverse-related>
+            <reverse-related>Mind's Desire</reverse-related>
+            <reverse-related>Mordor on the March</reverse-related>
+            <reverse-related>Ominous Harvest</reverse-related>
+            <reverse-related>Prismari, the Inspiration</reverse-related>
+            <reverse-related>Radstorm</reverse-related>
+            <reverse-related>Reaping the Graves</reverse-related>
+            <reverse-related>Scattershot</reverse-related>
+            <reverse-related>Spreading Insurrection</reverse-related>
+            <reverse-related>Sprouting Vines</reverse-related>
+            <reverse-related>Storm of Memories</reverse-related>
+            <reverse-related>Storm, Force of Nature</reverse-related>
+            <reverse-related>Stormscale Scion</reverse-related>
+            <reverse-related>Tempest Technique</reverse-related>
+            <reverse-related>Temporal Fissure</reverse-related>
+            <reverse-related>Tendrils of Agony</reverse-related>
+            <reverse-related>Volcanic Awakening</reverse-related>
+            <reverse-related>Weather the Storm</reverse-related>
+            <reverse-related>Wing Shards</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
             <name>Ticket Bucket-Bot</name>
             <text>Collect your {TK} (ticket counters) here! Spend them whenever you place a sticker with a {TK} cost.</text>
             <prop>
