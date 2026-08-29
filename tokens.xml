@@ -1439,6 +1439,7 @@ Equip {2} ({2}: Attach to target creatre you control. Equip only as a sorcery.)<
             <set picURL="https://cards.scryfall.io/large/front/2/6/26e0e196-36e6-4d7a-a76b-1c2a18270267.jpg?1561756807" uuid="26e0e196-36e6-4d7a-a76b-1c2a18270267" num="4">INV</set>
             <reverse-related count="2">Alrund's Epiphany</reverse-related>
             <reverse-related>Fable of Wolf and Owl</reverse-related>
+            <reverse-related count="2">Feroz, Ulgrotha's Warden</reverse-related>
             <reverse-related count="x">Ordered Migration</reverse-related>
             <reverse-related>Ravenform</reverse-related>
             <reverse-related>Riku of Many Paths</reverse-related>
@@ -2107,6 +2108,21 @@ Whenever this creature attacks, target attacking creature gains flying until end
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Cat Token        </name>
+            <text>{T}: Put a loyalty counter on each planeswalker you control.</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Cat</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="">MBC</set>
+            <reverse-related>Worzel, the Protector</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Cat Warrior Token</name>
             <text>Forestwalk</text>
             <prop>
@@ -2494,6 +2510,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Fire Nation Raider</reverse-related>
             <reverse-related>Fire Nation Warship</reverse-related>
             <reverse-related>Fleeting Memories</reverse-related>
+            <reverse-related count="x">Flitwing, Lyev Detective</reverse-related>
             <reverse-related>Floodhound</reverse-related>
             <reverse-related>Flotsam // Jetsam</reverse-related>
             <reverse-related>Follow the Bodies</reverse-related>
@@ -5387,6 +5404,7 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related count="x" exclude="exclude">Insatiable Frugivore</reverse-related>
             <reverse-related>Intrepid Trufflesnout // Go Hog Wild</reverse-related>
             <reverse-related exclude="exclude">Iroh, Tea Master</reverse-related>
+            <reverse-related count="x">Jandor, Fortuned Traveler</reverse-related>
             <reverse-related count="x">Killer Service</reverse-related>
             <reverse-related>Late to Dinner</reverse-related>
             <reverse-related>Leaves from the Vine</reverse-related>
@@ -5394,6 +5412,7 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Lucky the Pizza Dog</reverse-related>
             <reverse-related>Madame Vastra</reverse-related>
             <reverse-related>Many Partings</reverse-related>
+            <reverse-related>Meatsqueak, Hoard Lord</reverse-related>
             <reverse-related>Meriadoc Brandybuck</reverse-related>
             <reverse-related>Michelangelo, the Heart</reverse-related>
             <reverse-related>Midnight Snack</reverse-related>
@@ -5408,6 +5427,7 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Oko, Thief of Crowns</reverse-related>
             <reverse-related>Old Flitterfang</reverse-related>
             <reverse-related count="2">Orchard Strider</reverse-related>
+            <reverse-related>Overcooked</reverse-related>
             <reverse-related>Overencumbered</reverse-related>
             <reverse-related count="x=2">Party Dude</reverse-related>
             <reverse-related>Pawpatch Formation</reverse-related>
@@ -5489,6 +5509,7 @@ When this creature enters, target creature you control gains flying until end of
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/1/0/107be8ee-ee22-4d37-94f1-2a5b438fbe05.jpg?1717193920" uuid="107be8ee-ee22-4d37-94f1-2a5b438fbe05" num="19">M3C</set>
             <set picURL="https://cards.scryfall.io/large/front/7/4/74de70f2-93b6-4fc5-8c4d-464f880d3c54.jpg?1730838400" uuid="74de70f2-93b6-4fc5-8c4d-464f880d3c54" num="3">BRO</set>
+            <reverse-related>Autumn Willow, Harmony</reverse-related>
             <reverse-related count="x">Awaken the Woods</reverse-related>
             <reverse-related count="x">Jyoti, Moag Ancient</reverse-related>
             <reverse-related>Staff of Titania</reverse-related>
@@ -6123,6 +6144,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <pt>2/1</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/7/2/72230a1b-90ba-4564-9164-90cffdf34b93.jpg?1577661705" uuid="72230a1b-90ba-4564-9164-90cffdf34b93" num="6">GK2</set>
+            <reverse-related>Chief Magistrate of Mercadia</reverse-related>
             <reverse-related>Rakdos Guildmage</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -6470,6 +6492,7 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <reverse-related count="3">Midnight Mayhem</reverse-related>
             <reverse-related>Razorkin Hordecaller</reverse-related>
             <reverse-related count="2">Scurry of Gremlins</reverse-related>
+            <reverse-related>The Unluckiest Planeswalker</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -8874,6 +8897,7 @@ Flying, vigilance, trample, lifelink, haste</text>
             <reverse-related>A Killer Among Us</reverse-related>
             <reverse-related>Daughter of the Deep</reverse-related>
             <reverse-related>Emperor Mihail II</reverse-related>
+            <reverse-related count="x">Grandmother Goby</reverse-related>
             <reverse-related>Lullmage Mentor</reverse-related>
             <reverse-related count="x">Namor the Sub-Mariner</reverse-related>
             <reverse-related>Namor, Atlantean King</reverse-related>
@@ -9961,6 +9985,7 @@ Paradox — Whenever you cast a spell from anywhere other than your hand, invest
             <reverse-related>Ral, Crackling Wit</reverse-related>
             <reverse-related>Stormchaser's Talent</reverse-related>
             <reverse-related count="x" exclude="exclude">Stormchaser's Talent</reverse-related>
+            <reverse-related>Tolabow, Loch Rascal</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -10230,6 +10255,7 @@ Whenever a creature you control becomes the target of a spell or ability an oppo
             <reverse-related attach="attach">Colossal Dreadmask</reverse-related>
             <reverse-related attach="attach">Cranial Ram</reverse-related>
             <reverse-related attach="attach">Drossclaw</reverse-related>
+            <reverse-related>Ekthi, Contaminator Priest</reverse-related>
             <reverse-related attach="attach">Flayer Husk</reverse-related>
             <reverse-related>Grip of Phyresis</reverse-related>
             <reverse-related attach="attach">Kaldra Compleat</reverse-related>
@@ -10841,6 +10867,7 @@ Creatures you control attack each combat if able.</text>
             <reverse-related>Argothian Opportunist</reverse-related>
             <reverse-related>Ashnod, Flesh Mechanist</reverse-related>
             <reverse-related>Cityscape Leveler</reverse-related>
+            <reverse-related count="2">Dyfed, the Guiding Hand</reverse-related>
             <reverse-related>Excavation Explosion</reverse-related>
             <reverse-related count="3">Fallaji Excavation</reverse-related>
             <reverse-related>Geology Enthusiast</reverse-related>
@@ -11004,6 +11031,7 @@ Whenever this creature deals combat damage to a player, create that many tapped 
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/6/9/695f72ea-13e6-40ab-afc7-55657701c82d.jpg?1674338535" uuid="695f72ea-13e6-40ab-afc7-55657701c82d" num="5">NEO</set>
+            <reverse-related>Boss Uramon, Shadow's Reach</reverse-related>
             <reverse-related>Tribute to Horobi</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -11614,6 +11642,20 @@ Equip {1}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Sanctum</name>
+            <text>{T}: Add one mana of any color.</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Land</type>
+                <maintype>Land</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="">MBC</set>
+            <reverse-related count="x">Zagorka, Mother of Sanctum</reverse-related>
+            <token>1</token>
+            <tablerow>0</tablerow>
+        </card>
+        <card>
             <name>Sand Token</name>
             <prop>
                 <type>Token Creature — Sand</type>
@@ -11924,6 +11966,21 @@ Equip {1}</text>
             <reverse-related>Doomed Artisan</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Selenia’s Curse</name>
+            <text>Enchant player
+If enchanted player would lose life, they lose twice that much life instead.</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Legendary Enchantment — Aura Curse</type>
+                <maintype>Enchantment</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="">MBC</set>
+            <reverse-related>Selenia, the Cursed Heart</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Serf Token</name>
@@ -12669,6 +12726,7 @@ When enchanted creature dies, it deals 1 damage to its controller and you create
             <reverse-related count="x">Evangel of Heliod</reverse-related>
             <reverse-related count="3">Even the Odds</reverse-related>
             <reverse-related>First Response</reverse-related>
+            <reverse-related count="x">Grizzlegom, Hurloon Hero</reverse-related>
             <reverse-related count="x">Heidegger, Shinra Executive</reverse-related>
             <reverse-related count="2">Hero of Bladehold</reverse-related>
             <reverse-related count="2">Heroic Reinforcements</reverse-related>
@@ -14647,6 +14705,7 @@ The Void attacks each combat if able.</text>
             <reverse-related count="x">Cavern-Hoard Dragon</reverse-related>
             <reverse-related count="3">Centrifuge</reverse-related>
             <reverse-related>Charming Scoundrel</reverse-related>
+            <reverse-related>Chira, All In</reverse-related>
             <reverse-related>City of Death</reverse-related>
             <reverse-related count="2">Cloud, Ex-SOLDIER</reverse-related>
             <reverse-related>Coin of Mastery</reverse-related>
@@ -16795,6 +16854,7 @@ Equip {1}</text>
             <reverse-related>The Fourth Sphere</reverse-related>
             <reverse-related exclude="exclude">The Necrobloom</reverse-related>
             <reverse-related count="x" exclude="exclude">The Necrobloom</reverse-related>
+            <reverse-related>Thomil, the Destroyer</reverse-related>
             <reverse-related count="x">Tobias, Doomed Conqueror</reverse-related>
             <reverse-related>Tormod, the Desecrator</reverse-related>
             <reverse-related>Tymaret Calls the Dead</reverse-related>
@@ -19321,6 +19381,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>Azure Fleet Admiral</reverse-related>
             <reverse-related>Canal Courier</reverse-related>
             <reverse-related>Champions of Minas Tirith</reverse-related>
+            <reverse-related exclude="exclude">Chief Magistrate of Mercadia</reverse-related>
             <reverse-related>Coin of Fate</reverse-related>
             <reverse-related>Court of Ambition</reverse-related>
             <reverse-related>Court of Ardenvale</reverse-related>
