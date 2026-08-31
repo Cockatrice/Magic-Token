@@ -19701,7 +19701,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <tablerow>1</tablerow>
         </card>
         <card>
-            <name>Suspend</name>
+            <name>Suspended</name>
             <text>"When you suspend, you can place the exiled card here. At the beginning of your upkeep, remove a time counter from it. When the last is removed, you may cast it without paying its mana cost. If you cast a creature spell this way, it gains haste.</text>
             <prop>
                 <type>State</type>
