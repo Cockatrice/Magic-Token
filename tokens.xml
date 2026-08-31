@@ -5902,6 +5902,7 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <set picURL="https://cards.scryfall.io/large/front/2/e/2e2028b1-34c0-40b6-8f65-79f79a279996.jpg?1785497644" uuid="2e2028b1-34c0-40b6-8f65-79f79a279996" num="3">HOB</set>
             <set picURL="https://cards.scryfall.io/large/front/0/0/0045408d-4ab9-48bf-84aa-c6d827682090.jpg?1785497563" uuid="0045408d-4ab9-48bf-84aa-c6d827682090" num="4">HOB</set>
             <reverse-related>Along the Crooked Way</reverse-related>
+            <reverse-related>Azog, Moria's Ruin</reverse-related>
             <reverse-related>Bolg of the North</reverse-related>
             <reverse-related>Bothersome Noisemaker</reverse-related>
             <reverse-related>Down, Down to Goblin-town</reverse-related>
@@ -14687,6 +14688,7 @@ The Void attacks each combat if able.</text>
             <reverse-related>Bejeweled Warg</reverse-related>
             <reverse-related>Beza, the Bounding Spring</reverse-related>
             <reverse-related count="2">Big Score</reverse-related>
+            <reverse-related>Bilbo's Gambit</reverse-related>
             <reverse-related>Bilbo, Fellow Conspirator</reverse-related>
             <reverse-related>Bilbo, Retired Burglar</reverse-related>
             <reverse-related>Bill Ferny, Bree Swindler</reverse-related>
