@@ -19699,6 +19699,105 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
+        <card>
+            <name>Suspend</name>
+            <text>"When you suspend, you can place the exiled card here. At the beginning of your upkeep, remove a time counter from it. When the last is removed, you may cast it without paying its mana cost. If you cast a creature spell this way, it gains haste.</text>
+            <prop>
+                <type>State</type>
+                <maintype>State</maintype>
+            </prop>
+        <set picURL="https://raw.githubusercontent.com/SlightlyCircuitous/image-storage/refs/heads/main/suspend.jpeg">TSP</set>            
+        <reverse-related attach="attach">Aeon Chronicler</reverse-related>
+        <reverse-related attach="attach">Amy Pond</reverse-related>
+        <reverse-related attach="attach">Ancestral Vision</reverse-related>
+        <reverse-related attach="attach">Arc Blade</reverse-related>
+        <reverse-related attach="attach">Atraxi Warden</reverse-related>
+        <reverse-related attach="attach" exclude="exclude">Benalish Commander</reverse-related>
+        <reverse-related attach="attach">Call the Crash</reverse-related>
+        <reverse-related attach="attach">Charnel Serenade</reverse-related>
+        <reverse-related attach="attach">Chronomantic Escape</reverse-related>
+        <reverse-related attach="attach">Corpulent Corpse</reverse-related>
+        <reverse-related attach="attach" exclude="exclude">Crashing Footfalls</reverse-related>
+        <reverse-related attach="attach">Curse of the Cabal</reverse-related>
+        <reverse-related attach="attach">Cyclical Evolution</reverse-related>
+        <reverse-related attach="attach">Deep-Sea Kraken</reverse-related>
+        <reverse-related>Delay</reverse-related>
+        <reverse-related attach="attach">Detritivore</reverse-related>
+        <reverse-related attach="attach">Dichotomancy</reverse-related>
+        <reverse-related attach="attach" exclude="exclude">Dinosaurs on a Spaceship</reverse-related>
+        <reverse-related attach="attach">Divine Congregation</reverse-related>
+        <reverse-related>Doom's Time Platform</reverse-related>
+        <reverse-related attach="attach">Durkwood Baloth</reverse-related>
+        <reverse-related attach="attach">Duskrider Peregrine</reverse-related>
+        <reverse-related attach="attach">Ecstatic Beauty</reverse-related>
+        <reverse-related attach="attach">Epochrasite</reverse-related>
+        <reverse-related attach="attach">Errant Ephemeron</reverse-related>
+        <reverse-related attach="attach">Festering March</reverse-related>
+        <reverse-related attach="attach">Fungal Behemoth</reverse-related>
+        <reverse-related attach="attach">Gaea's Will</reverse-related>
+        <reverse-related>Gandalf of the Secret Fire</reverse-related>
+        <reverse-related attach="attach">Gargadon</reverse-related>
+        <reverse-related attach="attach">Giant Dustwasp</reverse-related>
+        <reverse-related attach="attach">Glimpse of Tomorrow</reverse-related>
+        <reverse-related attach="attach">Greater Gargadon</reverse-related>
+        <reverse-related attach="attach">Heroes Remembered</reverse-related>
+        <reverse-related attach="attach">Hypergenesis</reverse-related>
+        <reverse-related attach="attach">Inevitable Betrayal</reverse-related>
+        <reverse-related attach="attach">Infiltrator il-Kor</reverse-related>
+        <reverse-related attach="attach">Inspiring Refrain</reverse-related>
+        <reverse-related attach="attach">Ith, High Arcanist</reverse-related>
+        <reverse-related attach="attach">Ivory Giant</reverse-related>
+        <reverse-related>Jhoira of the Ghitu</reverse-related>
+        <reverse-related attach="attach">Judoon Enforcers</reverse-related>
+        <reverse-related>Kang Prime</reverse-related>
+        <reverse-related attach="attach">Keldon Halberdier</reverse-related>
+        <reverse-related attach="attach">Knight of Old Benalia</reverse-related>
+        <reverse-related attach="attach">Knight of Sursi</reverse-related>
+        <reverse-related attach="attach">Living End</reverse-related>
+        <reverse-related attach="attach">Lotus Bloom</reverse-related>
+        <reverse-related attach="attach">Mindstab</reverse-related>
+        <reverse-related attach="attach">Mox Tantalite</reverse-related>
+        <reverse-related attach="attach">Nantuko Shaman</reverse-related>
+        <reverse-related attach="attach">Nihilith</reverse-related>
+        <reverse-related attach="attach">Pardic Dragon</reverse-related>
+        <reverse-related attach="attach">Petrified Plating</reverse-related>
+        <reverse-related attach="attach">Phthisis</reverse-related>
+        <reverse-related attach="attach">Plunder</reverse-related>
+        <reverse-related attach="attach">Profane Tutor</reverse-related>
+        <reverse-related attach="attach">Reality Strobe</reverse-related>
+        <reverse-related attach="attach">Restore Balance</reverse-related>
+        <reverse-related attach="attach">Resurgent Belief</reverse-related>
+        <reverse-related attach="attach">Rift Bolt</reverse-related>
+        <reverse-related attach="attach">Rift Sower</reverse-related>
+        <reverse-related attach="attach" exclude="exclude">Riftmarked Knight</reverse-related>
+        <reverse-related attach="attach">Riftwing Cloudskate</reverse-related>
+        <reverse-related attach="attach">Roiling Horror</reverse-related>
+        <reverse-related>Rory Williams</reverse-related>
+        <reverse-related attach="attach">Rousing Refrain</reverse-related>
+        <reverse-related attach="attach">Search for Tomorrow</reverse-related>
+        <reverse-related attach="attach">Shade of Trokair</reverse-related>
+        <reverse-related attach="attach">Shivan Meteor</reverse-related>
+        <reverse-related attach="attach">Shivan Sand-Mage</reverse-related>
+        <reverse-related>Sibylline Soothsayer</reverse-related>
+        <reverse-related>Sinister Concierge</reverse-related>
+        <reverse-related attach="attach">Sol Talisman</reverse-related>
+        <reverse-related>Soovril, Patient Antiquarian</reverse-related>
+        <reverse-related attach="attach">Star Whale</reverse-related>
+        <reverse-related>Suspend</reverse-related>
+        <reverse-related attach="attach">Suspended Sentence</reverse-related>
+        <reverse-related>Taigam, Master Opportunist</reverse-related>
+        <reverse-related>The Eleventh Doctor</reverse-related>
+        <reverse-related>The Parting of the Ways</reverse-related>
+        <reverse-related>The Tenth Doctor</reverse-related>
+        <reverse-related>The Wedding of River Song</reverse-related>
+        <reverse-related attach="attach">Veiling Oddity</reverse-related>
+        <reverse-related attach="attach">Venture Forth</reverse-related>
+        <reverse-related attach="attach">Viscerid Deepwalker</reverse-related>
+        <reverse-related attach="attach">Watcher of Hours</reverse-related>
+        <reverse-related attach="attach">Wheel of Fate</reverse-related>
+        <token>1</token>
+        <tablerow>1</tablerow>
+</card>
         <!--The below tokens are miscellaneous other tokens that don't fit into the above categories.-->
         <card>
             <name>Bounty: Eriana, Wrecking Ball</name>
