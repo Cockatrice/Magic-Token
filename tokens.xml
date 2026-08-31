@@ -19718,6 +19718,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             </prop>
         <set picURL="https://raw.githubusercontent.com/SlightlyCircuitous/image-storage/refs/heads/main/suspend.jpeg">TSP</set>            
         <reverse-related attach="attach">Aeon Chronicler</reverse-related>
+        <reverse-related>Amy's Home</reverse-related>
         <reverse-related attach="attach">Ancestral Vision</reverse-related>
         <reverse-related attach="attach">Arc Blade</reverse-related>
         <reverse-related attach="attach">Atraxi Warden</reverse-related>
@@ -19795,6 +19796,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
         <reverse-related>Suspend</reverse-related>
         <reverse-related attach="attach">Suspended Sentence</reverse-related>
         <reverse-related>Taigam, Master Opportunist</reverse-related>
+        <reverse-related>Talon Gates</reverse-related>   
         <reverse-related>The Eleventh Doctor</reverse-related>
         <reverse-related>The Parting of the Ways</reverse-related>
         <reverse-related>The Tenth Doctor</reverse-related>
