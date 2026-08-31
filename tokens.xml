@@ -19706,8 +19706,8 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
         <reverse-related attach="attach">Restore Balance</reverse-related>
         <reverse-related attach="attach">Resurgent Belief</reverse-related>
         <reverse-related attach="attach">Rift Bolt</reverse-related>
-        <reverse-related attach="attach" exclude="exclude">Riftmarked Knight</reverse-related>
         <reverse-related attach="attach">Rift Sower</reverse-related>
+        <reverse-related attach="attach" exclude="exclude">Riftmarked Knight</reverse-related>
         <reverse-related attach="attach">Riftwing Cloudskate</reverse-related>
         <reverse-related attach="attach">Roiling Horror</reverse-related>
         <reverse-related>Rory Williams</reverse-related>
