@@ -8130,8 +8130,8 @@ Equip {2}</text>
             <reverse-related>Fatehold Charm</reverse-related>
             <reverse-related exclude="exclude">Hexhaven Battalion</reverse-related>
             <reverse-related>Inspired Tethermage</reverse-related>
-            <reverse-related>Jace, Reality Sculptor</reverse-related>
             <reverse-related>Jace's Machinations</reverse-related>
+            <reverse-related>Jace, Reality Sculptor</reverse-related>
             <reverse-related>Keeper of the Quiet Hour</reverse-related>
             <reverse-related>Mindseeker Oculus</reverse-related>
             <reverse-related>No Admittance</reverse-related>
@@ -8144,7 +8144,7 @@ Equip {2}</text>
             <reverse-related>Solve for Disappointment</reverse-related>
             <reverse-related>Tam's Resistance</reverse-related>
             <reverse-related>Theorist's Proxy</reverse-related>
-            <reverse-related>Theorist's Sanctum </reverse-related>
+            <reverse-related>Theorist's Sanctum</reverse-related>
             <reverse-related>Violent Echoes</reverse-related>
             <reverse-related>Vraska's Final Mercy</reverse-related>
             <reverse-related>Way of the Cryomancer</reverse-related>
@@ -9729,8 +9729,8 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <set picURL="https://cards.scryfall.io/large/front/1/8/187cf6d5-c352-48f2-b8bf-fe1bf946e2ac.jpg?1561756726" uuid="187cf6d5-c352-48f2-b8bf-fe1bf946e2ac" num="4">MRD</set>
             <reverse-related>Genesis Chamber</reverse-related>
             <reverse-related count="2">Master's Call</reverse-related>
-            <reverse-related>Mirrodin Besieged</reverse-related>
             <reverse-related>Memnarch, the Warden</reverse-related>
+            <reverse-related>Mirrodin Besieged</reverse-related>
             <reverse-related count="4">Myr Battlesphere</reverse-related>
             <reverse-related>Myr Incubator</reverse-related>
             <reverse-related>Myr Matrix</reverse-related>
@@ -12201,6 +12201,20 @@ Equip {1}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Sculpture Treasure Token</name>
+            <text>{T}, Sacrifice this token: Add one mana of any color.</text>
+            <prop>
+                <type>Token Artifact Creature — Sculpture Treasure</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/a/0/a0fec445-c6fb-4ca2-b63f-1d608c418a22.jpg?1789735148" uuid="a0fec445-c6fb-4ca2-b63f-1d608c418a22" num="13">FRA</set>
+            <reverse-related>Vraska, Soul of Stone</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Selenia’s Curse</name>
             <text>Enchant player
 If enchanted player would lose life, they lose twice that much life instead.</text>
@@ -12854,20 +12868,6 @@ When enchanted creature dies, it deals 1 damage to its controller and you create
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/5/7/57708b3d-ddfb-4924-b5c9-123aa9e967ad.jpg?1562639813" uuid="57708b3d-ddfb-4924-b5c9-123aa9e967ad" num="11">HOU</set>
             <reverse-related>Rhonas's Last Stand</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
-            <name>Sculpture Treasure Token</name>
-            <text>{T}, Sacrifice this token: Add one mana of any color.</text>
-            <prop>
-                <type>Token Artifact Creature — Sculpture Treasure</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>1/1</pt>
-            </prop>
-            <set picURL="https://cards.scryfall.io/large/front/a/0/a0fec445-c6fb-4ca2-b63f-1d608c418a22.jpg?1789735148" uuid="a0fec445-c6fb-4ca2-b63f-1d608c418a22" num="13">FRA</set>
-            <reverse-related>Vraska, Soul of Stone</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -14641,9 +14641,9 @@ The Void attacks each combat if able.</text>
             <reverse-related count="2">Maverick Thopterist</reverse-related>
             <reverse-related>Nimble Thopterist</reverse-related>
             <reverse-related count="2">Pia and Kiran Nalaar</reverse-related>
-            <reverse-related>Pia, Determined Rebuilder</reverse-related>
             <reverse-related>Pia Nalaar</reverse-related>
             <reverse-related>Pia Nalaar, Consul of Revival</reverse-related>
+            <reverse-related>Pia, Determined Rebuilder</reverse-related>
             <reverse-related>Rangers' Aetherhive</reverse-related>
             <reverse-related exclude="exclude">Retrofitter Foundry</reverse-related>
             <reverse-related>Saheeli, Consul of Oversight</reverse-related>
@@ -19745,8 +19745,8 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related exclude="exclude">Forth Eorlingas!</reverse-related>
             <reverse-related>Garland, Royal Kidnapper</reverse-related>
             <reverse-related>Garrulous Sycophant</reverse-related>
-            <reverse-related>Grave Venerations</reverse-related>
             <reverse-related exclude="exclude">Ginger, Queen of Sweets</reverse-related>
+            <reverse-related>Grave Venerations</reverse-related>
             <reverse-related>Heart-Shaped Herb</reverse-related>
             <reverse-related>Jared Carthalion, True Heir</reverse-related>
             <reverse-related>Keeper of Keys</reverse-related>
@@ -19768,8 +19768,8 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>Skyline Despot</reverse-related>
             <reverse-related>Starscream, Seeker Leader</reverse-related>
             <reverse-related>Staunch Throneguard</reverse-related>
-            <reverse-related>Tamiyo, Upriser Crowned</reverse-related>
             <reverse-related>T'Chaka, Venerable King</reverse-related>
+            <reverse-related>Tamiyo, Upriser Crowned</reverse-related>
             <reverse-related>The Spear of Bashenga</reverse-related>
             <reverse-related>Thorn of the Black Rose</reverse-related>
             <reverse-related>Throne of the High City</reverse-related>
