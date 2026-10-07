@@ -11597,7 +11597,7 @@ When this token enters, it deals 3 damage to any target.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set>MSC</set>
+            <set picURL="https://raw.githubusercontent.com/SlightlyCircuitous/image-storage/refs/heads/main/robot%20hero.png">MSC</set>
             <reverse-related>Shuri, Vibranium Technologist</reverse-related>
             <reverse-related>Virtual Assistant</reverse-related>
             <token>1</token>
