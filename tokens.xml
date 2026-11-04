@@ -563,6 +563,8 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/f/9fc2b0f6-f126-47a2-8316-febf92e90006.jpg?1793363555" uuid="9fc2b0f6-f126-47a2-8316-febf92e90006" num="10">TRC</set>
+            <set picURL="https://cards.scryfall.io/large/front/a/7/a73b0752-c59f-43de-a7c9-d952a2b59062.jpg?1793363302" uuid="a73b0752-c59f-43de-a7c9-d952a2b59062" num="3">TRC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/b/4b2ee605-3c7a-4769-978d-3199bdc7c504.jpg?1717193799" uuid="4b2ee605-3c7a-4769-978d-3199bdc7c504" num="14">M3C</set>
             <set picURL="https://cards.scryfall.io/large/front/0/7/07b28aff-eb3d-4e8c-8837-e32b482d10a0.jpg?1712319813" uuid="07b28aff-eb3d-4e8c-8837-e32b482d10a0" num="15">OTC</set>
             <set picURL="https://cards.scryfall.io/large/front/1/7/17e0924c-e4b7-482d-9076-1d3b8ff09e9b.jpg?1641306040" uuid="17e0924c-e4b7-482d-9076-1d3b8ff09e9b" num="10">TSR</set>
@@ -1053,6 +1055,8 @@ Equip {2} ({2}: Attach to target creatre you control. Equip only as a sorcery.)<
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/c/a/ca8e8a9a-d673-4644-9eec-f4f549307d9b.jpg?1793363664" uuid="ca8e8a9a-d673-4644-9eec-f4f549307d9b" num="11">TRC</set>
+            <set picURL="https://cards.scryfall.io/large/front/2/1/215c8aec-f26f-4777-aa90-252e537f5df9.jpg?1793363331" uuid="215c8aec-f26f-4777-aa90-252e537f5df9" num="4">TRC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/2/4296d26c-3ba6-49e8-986c-76f875a0498c.jpg?1781184042" uuid="4296d26c-3ba6-49e8-986c-76f875a0498c" num="11">MSC</set>
             <set picURL="https://cards.scryfall.io/large/front/5/8/5871be0a-0fd6-441d-8f9e-76c66b5bd8bc.jpg?1775827152" uuid="5871be0a-0fd6-441d-8f9e-76c66b5bd8bc" num="14">SOC</set>
             <set picURL="https://cards.scryfall.io/large/front/3/b/3b584d93-5681-4ecd-953c-5ef58307caab.jpg?1752946408" uuid="3b584d93-5681-4ecd-953c-5ef58307caab" num="5">EOC</set>
@@ -1837,6 +1841,33 @@ Whenever this creature attacks, target attacking creature gains flying until end
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Borg Token</name>
+            <prop>
+                <type>Token Artifact Creature — Borg</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/6/0/60c52ea5-28b9-413d-9be5-aaadfbd8022b.jpg?1793364865" uuid="60c52ea5-28b9-413d-9be5-aaadfbd8022b" num="19">TRK</set>
+            <set picURL="https://cards.scryfall.io/large/front/6/6/662d060a-719c-42bf-8bee-cf602a045ff0.jpg?1793364924" uuid="662d060a-719c-42bf-8bee-cf602a045ff0" num="20">TRK</set>
+            <reverse-related>Antagonist Incorporator</reverse-related>
+            <reverse-related>Assembly Specialist</reverse-related>
+            <reverse-related count="2">Borg Incursion</reverse-related>
+            <reverse-related count="2">Class-4 Tactical Cube</reverse-related>
+            <reverse-related count="x">Collective Override</reverse-related>
+            <reverse-related>Conquest Mission</reverse-related>
+            <reverse-related count="2" exclude="exclude">Conquest Mission</reverse-related>
+            <reverse-related count="x">Deliver from Chaos</reverse-related>
+            <reverse-related count="x">Join the Collective</reverse-related>
+            <reverse-related>Locutus of Borg</reverse-related>
+            <reverse-related>Maturation Chamber</reverse-related>
+            <reverse-related count="x">Stratagem Emulator</reverse-related>
+            <reverse-related>Tenacious Drone</reverse-related>
+            <reverse-related>Type-03 Borg Vessel</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Brainiac Token</name>
             <prop>
                 <colors>R</colors>
@@ -2346,6 +2377,8 @@ Whenever this creature attacks, target attacking creature gains flying until end
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/f/8/f801903a-5db6-4566-ad33-2c1de8ac4287.jpg?1793363573" uuid="f801903a-5db6-4566-ad33-2c1de8ac4287" num="13">TRC</set>
+            <set picURL="https://cards.scryfall.io/large/front/b/b/bb355701-39e2-428e-a62b-feac0bdada72.jpg?1793363381" uuid="bb355701-39e2-428e-a62b-feac0bdada72" num="6">TRC</set>
             <set picURL="https://cards.scryfall.io/large/front/b/7/b7171de9-476d-4bfa-8cc0-b4fbc168cf4d.jpg?1789737561" uuid="b7171de9-476d-4bfa-8cc0-b4fbc168cf4d" num="11">FRC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/0/40135aa8-d531-427d-ab5c-9a2192f61bf9.jpg?1742506203" uuid="40135aa8-d531-427d-ab5c-9a2192f61bf9" num="26">TDC</set>
             <set picURL="https://cards.scryfall.io/large/front/f/a/fa605271-03c0-401b-a470-4301898c2124.jpg?1721427940" uuid="fa605271-03c0-401b-a470-4301898c2124" num="33">BLC</set>
@@ -2483,6 +2516,8 @@ Cloud Sprite can block only creatures with flying.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/4/24c80ef6-747d-47b7-8e1f-148f5dfacc32.jpg?1793364960" uuid="24c80ef6-747d-47b7-8e1f-148f5dfacc32" num="22">TRK</set>
+            <set picURL="https://cards.scryfall.io/large/front/3/0/306c8271-ddfc-45a4-bd23-bf31212f813d.jpg?1793365062" uuid="306c8271-ddfc-45a4-bd23-bf31212f813d" num="21">TRK</set>
             <set picURL="https://cards.scryfall.io/large/front/5/e/5e644586-888f-4e2e-8d66-8aa02bd79ec1.jpg?1781264157" uuid="5e644586-888f-4e2e-8d66-8aa02bd79ec1" num="17">MSH</set>
             <set picURL="https://cards.scryfall.io/large/front/c/3/c321b9e4-ab7e-4e8a-988f-5463c776d685.jpg?1771590258" uuid="c321b9e4-ab7e-4e8a-988f-5463c776d685" num="2">TMC</set>
             <set picURL="https://cards.scryfall.io/large/front/8/2/82016bc3-8905-454a-b4aa-b9eac69d42c4.jpg?1764117725" uuid="82016bc3-8905-454a-b4aa-b9eac69d42c4" num="14">TLA</set>
@@ -2545,11 +2580,13 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Case of the Pilfered Proof</reverse-related>
             <reverse-related>Chalk Outline</reverse-related>
             <reverse-related>Cold Case Cracker</reverse-related>
+            <reverse-related>Commander Raffi Musiker</reverse-related>
             <reverse-related>Confirm Suspicions</reverse-related>
             <reverse-related exclude="exclude">Confirm Suspicions</reverse-related>
             <reverse-related>Confront the Unknown</reverse-related>
             <reverse-related exclude="exclude">Confront the Unknown</reverse-related>
             <reverse-related>Conservatory</reverse-related>
+            <reverse-related count="2">Constable Odo</reverse-related>
             <reverse-related>Cunning Maneuver</reverse-related>
             <reverse-related>Curious Inquiry</reverse-related>
             <reverse-related>Declaration in Stone</reverse-related>
@@ -2596,12 +2633,14 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Hostile Investigator</reverse-related>
             <reverse-related>Hotshot Investigators</reverse-related>
             <reverse-related>Humble the Brute</reverse-related>
+            <reverse-related>In the Pale Moonlight</reverse-related>
             <reverse-related>Innocent Bystander</reverse-related>
             <reverse-related>Innocuous Researcher</reverse-related>
             <reverse-related count="x" exclude="exclude">Innocuous Researcher</reverse-related>
             <reverse-related count="x">Inquisitor Eisenhorn</reverse-related>
             <reverse-related>Inquisitor Greyfax</reverse-related>
             <reverse-related>Jace's Scrutiny</reverse-related>
+            <reverse-related>Jake Sisko, War Correspondent</reverse-related>
             <reverse-related count="x">James, Wandering Dad // Follow Him</reverse-related>
             <reverse-related>Jet's Brainwashing</reverse-related>
             <reverse-related>June, Bounty Hunter</reverse-related>
@@ -2647,6 +2686,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Root Out</reverse-related>
             <reverse-related>Rory Williams</reverse-related>
             <reverse-related>Sally Sparrow</reverse-related>
+            <reverse-related>Sam Kirk, Xenoanthropologist</reverse-related>
             <reverse-related>Sarah Jane Smith</reverse-related>
             <reverse-related>Search the Premises</reverse-related>
             <reverse-related>Secret Passage</reverse-related>
@@ -2660,6 +2700,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Sophia, Dogged Detective</reverse-related>
             <reverse-related count="x" exclude="exclude">Sophia, Dogged Detective</reverse-related>
             <reverse-related count="x">Sophina, Spearsage Deserter</reverse-related>
+            <reverse-related>Starfleet Security</reverse-related>
             <reverse-related>Study</reverse-related>
             <reverse-related>Survive the Night</reverse-related>
             <reverse-related>Syndicate Heavy</reverse-related>
@@ -2671,6 +2712,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>The Chase Is On</reverse-related>
             <reverse-related exclude="exclude">The Dining Car</reverse-related>
             <reverse-related>The Fugitive Doctor</reverse-related>
+            <reverse-related>The Measure of a Man</reverse-related>
             <reverse-related>The Mechanist, Aerial Artisan</reverse-related>
             <reverse-related exclude="exclude">The Rani</reverse-related>
             <reverse-related>The Seventh Doctor</reverse-related>
@@ -5145,12 +5187,17 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
             <set picURL="https://cards.scryfall.io/large/front/f/1/f1c9e102-7abb-4b72-867f-3aa2f51f6f77.jpg?1675456379" uuid="f1c9e102-7abb-4b72-867f-3aa2f51f6f77" num="4">BRC</set>
             <set picURL="https://cards.scryfall.io/large/front/b/c/bcd82cb0-ff4b-4f4d-b3d0-3ac53883b099.jpg?1572489144" uuid="bcd82cb0-ff4b-4f4d-b3d0-3ac53883b099" num="5">ELD</set>
             <reverse-related>Alela, Artful Provocateur</reverse-related>
+            <reverse-related count="2">Data, Professor of Humanities</reverse-related>
             <reverse-related count="2">Faebloom Trick</reverse-related>
             <reverse-related count="x">Faerie Formation</reverse-related>
             <reverse-related count="4">Hunted Troll</reverse-related>
             <reverse-related>Improbable Alliance</reverse-related>
+            <reverse-related count="x">La Forge, Thoughtful as Ever</reverse-related>
             <reverse-related>Mischievous Mystic</reverse-related>
             <reverse-related count="x">Stolen by the Fae</reverse-related>
+            <reverse-related>Troi, Winging It</reverse-related>
+            <reverse-related count="x" exclude="exclude">Troi, Winging It</reverse-related>
+            <reverse-related count="x">Worf, Still Not Merry</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -5371,6 +5418,7 @@ When this creature enters, target creature you control gains flying until end of
                 <type>Token Artifact — Food</type>
                 <maintype>Artifact</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/d/dd703147-f546-45af-8511-2d108afd0ad2.jpg?1793364343" uuid="dd703147-f546-45af-8511-2d108afd0ad2" num="23">TRK</set>
             <set picURL="https://cards.scryfall.io/large/front/3/9/39389acc-cfa7-4a44-9d46-45be7dd72564.jpg?1781264170" uuid="39389acc-cfa7-4a44-9d46-45be7dd72564" num="19">MSH</set>
             <set picURL="https://cards.scryfall.io/large/front/d/a/da1fca2e-4ea7-4c5f-bd58-f9529dfb6f37.jpg?1775827284" uuid="da1fca2e-4ea7-4c5f-bd58-f9529dfb6f37" num="27">SOC</set>
             <set picURL="https://cards.scryfall.io/large/front/e/2/e2b62092-57df-4d95-b2b9-961794e7c20b.jpg?1771590558" uuid="e2b62092-57df-4d95-b2b9-961794e7c20b" num="8">TMT</set>
@@ -5485,6 +5533,7 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Midnight Snack</reverse-related>
             <reverse-related>Mintstrosity</reverse-related>
             <reverse-related>Momo, Playful Pet</reverse-related>
+            <reverse-related>Neelix, Moral Support</reverse-related>
             <reverse-related>Night of the Sweets' Revenge</reverse-related>
             <reverse-related>Ninja Pizza</reverse-related>
             <reverse-related>Nocturnal Hunger</reverse-related>
@@ -5504,6 +5553,7 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Provisions Merchant</reverse-related>
             <reverse-related count="x">Questionable Cuisine</reverse-related>
             <reverse-related>Rapacious Guest</reverse-related>
+            <reverse-related>Replicator</reverse-related>
             <reverse-related>Restless Cottage</reverse-related>
             <reverse-related exclude="exclude">Return from the Wilds</reverse-related>
             <reverse-related>Revive the Shire</reverse-related>
@@ -5527,6 +5577,7 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related exclude="exclude">Spectrox Mines</reverse-related>
             <reverse-related>Spider Food</reverse-related>
             <reverse-related>Spider-Ham, Peter Porker</reverse-related>
+            <reverse-related>Spot, Felis catus</reverse-related>
             <reverse-related>Stew the Coneys</reverse-related>
             <reverse-related>Survivor's Med Kit</reverse-related>
             <reverse-related>Sweettooth Witch</reverse-related>
@@ -7421,6 +7472,21 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Human Token    </name>
+            <text>Permanents can't phase in.</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Human</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>0/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/5/25b0644d-4934-4495-9b6e-c31d1d10c298.jpg?1784177188" uuid="25b0644d-4934-4495-9b6e-c31d1d10c298" num="1">TRK</set>
+            <reverse-related>The City on the Edge of Forever</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Human Warrior Token</name>
             <text>Trample, haste</text>
             <prop>
@@ -7684,6 +7750,22 @@ Equip {2}</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Illusion Token       </name>
+            <prop>
+                <type>Token Artifact Creature — Illusion</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/7/d760eee8-e49a-4662-8bfc-fcf8ed2ad2d8.jpg?1793364353" uuid="d760eee8-e49a-4662-8bfc-fcf8ed2ad2d8" num="24">TRK</set>
+            <reverse-related>Adversary by Algorithm</reverse-related>
+            <reverse-related>Holo-Engineer</reverse-related>
+            <reverse-related count="x" exclude="exclude">Holo-Engineer</reverse-related>
+            <reverse-related>Hologram Stalker</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Illusion Villain Token</name>
             <prop>
                 <colors>U</colors>
@@ -7846,6 +7928,8 @@ Equip {2}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/8/98d54f5e-1584-48e7-bb8e-5bb1520c2d93.jpg?1793363638" uuid="98d54f5e-1584-48e7-bb8e-5bb1520c2d93" num="12">TRC</set>
+            <set picURL="https://cards.scryfall.io/large/front/6/2/627d71a5-cacb-4dbb-a804-83a24be1dd9f.jpg?1793363355" uuid="627d71a5-cacb-4dbb-a804-83a24be1dd9f" num="5">TRC</set>
             <set picURL="https://cards.scryfall.io/large/front/e/5/e5aa36ec-5f3a-405d-9a65-5a56a44dcee3.jpg?1781264123" uuid="e5aa36ec-5f3a-405d-9a65-5a56a44dcee3" num="12">MSH</set>
             <set picURL="https://cards.scryfall.io/large/front/c/5/c5c3553b-010f-48ef-bca1-93ba12eaf558.jpg?1742583183" uuid="c5c3553b-010f-48ef-bca1-93ba12eaf558" num="22">TDC</set>
             <set picURL="https://cards.scryfall.io/large/front/9/d/9d3d855d-93a1-4ec4-af19-e544f271ae10.jpg?1738355238" uuid="9d3d855d-93a1-4ec4-af19-e544f271ae10" num="7">DFT</set>
@@ -8702,6 +8786,33 @@ Flanking</text>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/c/b/cb727dec-dd82-4072-b2ec-a4e31b58752f.jpg?1682206995" uuid="cb727dec-dd82-4072-b2ec-a4e31b58752f" num="4">MOM</set>
             <reverse-related count="2">Invasion of Segovia</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Klingon Warrior Token</name>
+            <text>Haste</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Klingon Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/c/9c2ae742-7ebf-4e26-b423-598e4f3d176d.jpg?1793363848" uuid="9c2ae742-7ebf-4e26-b423-598e4f3d176d" num="3">TRK</set>
+            <set picURL="https://cards.scryfall.io/large/front/0/6/060f77cd-2779-4f28-83b3-a7e11f64140b.jpg?1793364562" uuid="060f77cd-2779-4f28-83b3-a7e11f64140b" num="4">TRK</set>
+            <set picURL="https://cards.scryfall.io/large/front/b/7/b7897f31-509e-4099-b9b4-c6214b80f29d.jpg?1793364577" uuid="b7897f31-509e-4099-b9b4-c6214b80f29d" num="5">TRK</set>
+            <reverse-related>Boarding Action </reverse-related>
+            <reverse-related>Cha'DIch Investigator</reverse-related>
+            <reverse-related>D-7 Battle Cruiser</reverse-related>
+            <reverse-related count="x">Glory to the Empire!</reverse-related>
+            <reverse-related>L'Rell, Fierce Visionary</reverse-related>
+            <reverse-related>Right of Vengeance</reverse-related>
+            <reverse-related count="x">Rite of Ascension</reverse-related>
+            <reverse-related count="x">Sins of the Father</reverse-related>
+            <reverse-related count="2">The Destruction of Praxis</reverse-related>
+            <reverse-related>The Duras Sisters</reverse-related>
+            <reverse-related>Worf, Defiant Commander</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -9617,6 +9728,21 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <tablerow>1</tablerow>
         </card>
         <card>
+            <name>Murf</name>
+            <text>Indestructible</text>
+            <prop>
+                <colors>G</colors>
+                <type>Token Legendary Creature — Ooze Slug</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>0/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/1/d1b52f55-6147-4da6-983c-6ca3e1867723.jpg?1793363930" uuid="d1b52f55-6147-4da6-983c-6ca3e1867723" num="16">TRK</set>
+            <reverse-related>Rok-Tahk, Budding Scientist</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Mutagen Token</name>
             <text>{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.</text>
             <prop>
@@ -9777,6 +9903,42 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Neuroflux Heirloom</name>
+            <text>Equipped creature gets +1/+1.
+Equip {2}</text>
+            <prop>
+                <type>Token Artifact — Equipment</type>
+                <maintype>Artifact</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/8/d811c3c3-6b5b-4b42-be4f-0a455313ccd3.jpg?1793364366" uuid="d811c3c3-6b5b-4b42-be4f-0a455313ccd3" num="25">TRK</set>
+            <reverse-related attach="attach">Gwyndala, the Progeny</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>New Planet</name>
+            <text>{T}: Add one mana of any color.</text>
+            <prop>
+                <type>Token Land — Planet</type>
+                <maintype>Land</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/1/21d855f7-fd5c-4eb4-b997-a905849806b9.jpg?1793364386" uuid="21d855f7-fd5c-4eb4-b997-a905849806b9" num="27">TRK</set>
+            <reverse-related>Artificial Anomaly</reverse-related>
+            <reverse-related>David and Carol Marcus, Creators</reverse-related>
+            <reverse-related>Gaseous Anomaly</reverse-related>
+            <reverse-related>Genesis Effect</reverse-related>
+            <reverse-related>Saurian Explorer</reverse-related>
+            <reverse-related>Spatial Anomaly </reverse-related>
+            <reverse-related>Stable Wormhole</reverse-related>
+            <reverse-related>Subspace Anomaly</reverse-related>
+            <reverse-related>Temporal Anomaly</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+            <cipt>1</cipt>
+        </card>
+        <card>
             <name>Nightmare Horror Token</name>
             <prop>
                 <colors>B</colors>
@@ -9911,6 +10073,48 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
             <reverse-related exclude="exclude">Fisher's Talent</reverse-related>
             <reverse-related count="3">Kiora, Master of the Depths</reverse-related>
             <reverse-related>Octomancer</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Officer Token</name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Officer</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/d/6/d676cbef-8e31-4ae6-8dfe-6b84160f71e0.jpg?1793363893" uuid="d676cbef-8e31-4ae6-8dfe-6b84160f71e0" num="6">TRK</set>
+            <set picURL="https://cards.scryfall.io/large/front/a/0/a0547a22-fd86-492f-9143-af5dae0e69af.jpg?1793364627" uuid="a0547a22-fd86-492f-9143-af5dae0e69af" num="7">TRK</set>
+            <set picURL="https://cards.scryfall.io/large/front/1/5/155a3f1d-0897-4acd-b83a-82c48356dd66.jpg?1793364678" uuid="155a3f1d-0897-4acd-b83a-82c48356dd66" num="8">TRK</set>
+            <set picURL="https://cards.scryfall.io/large/front/7/d/7de20787-fc26-4cb7-bfe1-d7d8c13082cc.jpg?1793364694" uuid="7de20787-fc26-4cb7-bfe1-d7d8c13082cc" num="9">TRK</set>
+            <set picURL="https://cards.scryfall.io/large/front/b/0/b0ac658c-b34a-4794-9b36-91c63f903f65.jpg?1793364705" uuid="b0ac658c-b34a-4794-9b36-91c63f903f65" num="10">TRK</set>
+            <set picURL="https://cards.scryfall.io/large/front/b/1/b1e8a7db-b245-4903-b41f-6d2ee06401cb.jpg?1793364717" uuid="b1e8a7db-b245-4903-b41f-6d2ee06401cb" num="11">TRK</set>
+            <set picURL="https://cards.scryfall.io/large/front/d/8/d88565c6-a8e9-4726-94af-c56ffd96d33e.jpg?1793364728" uuid="d88565c6-a8e9-4726-94af-c56ffd96d33e" num="12">TRK</set>
+            <set picURL="https://cards.scryfall.io/large/front/5/a/5a8d4b2c-ec98-46e2-bf8d-da441d9c9cdf.jpg?1793364738" uuid="5a8d4b2c-ec98-46e2-bf8d-da441d9c9cdf" num="13">TRK</set>
+            <set picURL="https://cards.scryfall.io/large/front/5/a/5a24fb46-e819-4a4f-813f-eda0e96af606.jpg?1793364750" uuid="5a24fb46-e819-4a4f-813f-eda0e96af606" num="14">TRK</set>
+            <set picURL="https://cards.scryfall.io/large/front/0/1/012b04de-d9a5-4b12-afc8-cdf54bc42fc9.jpg?1793364763" uuid="012b04de-d9a5-4b12-afc8-cdf54bc42fc9" num="15">TRK</set>
+            <reverse-related>Academy Instructor</reverse-related>
+            <reverse-related count="x">Captain Benjamin Sisko</reverse-related>
+            <reverse-related>Captain James T. Kirk</reverse-related>
+            <reverse-related>Captain Janeway, Endgame</reverse-related>
+            <reverse-related>Captain Jean-Luc Picard</reverse-related>
+            <reverse-related count="x">Excalbian Gamemaster</reverse-related>
+            <reverse-related count="10">Georgiou, Terran Emperor</reverse-related>
+            <reverse-related count="2">Impossible Choice</reverse-related>
+            <reverse-related count="2">Kobayashi Maru Scenario</reverse-related>
+            <reverse-related>MACO Strike Team</reverse-related>
+            <reverse-related>Make It So</reverse-related>
+            <reverse-related count="2">M'Ress, Crew Coordinator</reverse-related>
+            <reverse-related count="x=2" exclude="exclude">M'Ress, Crew Coordinator</reverse-related>
+            <reverse-related>Photosynthetic Physician</reverse-related>
+            <reverse-related>Shuttlecraft Galileo</reverse-related>
+            <reverse-related count="x" exclude="exclude">Shuttlecraft Galileo</reverse-related>
+            <reverse-related count="2">Subspace Anomaly </reverse-related>
+            <reverse-related count="2">U.S.S. Cerritos, Following Up</reverse-related>
+            <reverse-related count="3">U.S.S. Enterprise-A, Free Spirit</reverse-related>
+            <reverse-related>Worf, Son of Mogh</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -11134,6 +11338,20 @@ Creatures you control attack each combat if able.</text>
             <tablerow>1</tablerow>
         </card>
         <card>
+            <name>Porthos</name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Legendary Creature — Dog</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/d/edd98ca8-9a23-4fb5-9719-27ac2795bfa3.jpg?1793363946" uuid="edd98ca8-9a23-4fb5-9719-27ac2795bfa3" num="17">TRK</set>
+            <reverse-related>Captain Jonathan Archer</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Primo, the Indivisible</name>
             <prop>
                 <colors>GU</colors>
@@ -11786,6 +12004,22 @@ Equip {1}</text>
             </prop>
             <set>PHTR</set>
             <reverse-related exclude="exclude">Dungeon Master</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Romulan Token</name>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Romulan</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/a/5/a507f7fc-1438-4680-af2f-e7131c4d7d0b.jpg?1793363737" uuid="a507f7fc-1438-4680-af2f-e7131c4d7d0b" num="2">TRK</set>
+            <reverse-related count="2">Cloak and Phaser</reverse-related>
+            <reverse-related count="2" exclude="exclude">In the Pale Moonlight</reverse-related>
+            <reverse-related>Sela, Tal Shiar Paradox</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -13233,6 +13467,22 @@ When enchanted creature dies, it deals 1 damage to its controller and you create
             <reverse-related count="x">Space Marine Devastator</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Spacecraft Illusion Token</name>
+            <text>Flying</text>
+            <prop>
+                <type>Token Artifact Creature — Spacecraft Illusion</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/3</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/d/9d300512-cc4d-4cf0-bd49-6536352a856c.jpg?1793363399" uuid="9d300512-cc4d-4cf0-bd49-6536352a856c" num="7">TRC</set>
+            <set picURL="https://cards.scryfall.io/large/front/4/9/4990678f-162e-407d-8ab2-5ecf38de280a.jpg?1793363594" uuid="4990678f-162e-407d-8ab2-5ecf38de280a" num="14">TRC</set>
+            <reverse-related>U.S.S. Stargazer, Here and There</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+            <cipt>1</cipt>
         </card>
         <card>
             <name>Spark Elemental (Token)</name>
@@ -14855,6 +15105,7 @@ The Void attacks each combat if able.</text>
                 <maintype>Artifact</maintype>
                 <cmc>0</cmc>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/b/8/b8e8c3b4-3b8d-48a4-b427-a2b8ac3e2f8b.jpg?1793364377" uuid="b8e8c3b4-3b8d-48a4-b427-a2b8ac3e2f8b" num="26">TRK</set>
             <set picURL="https://cards.scryfall.io/large/front/0/3/03992f88-7a15-4234-9bed-b7617d7ff09c.jpg?1789735245" uuid="03992f88-7a15-4234-9bed-b7617d7ff09c" num="15">FRA</set>
             <set picURL="https://cards.scryfall.io/large/front/c/6/c6e096bb-ad9e-4a8b-8b42-26852fa32c1d.jpg?1783902770" uuid="c6e096bb-ad9e-4a8b-8b42-26852fa32c1d" num="12">HOB</set>
             <set picURL="https://cards.scryfall.io/large/front/d/1/d1892b78-7663-4cbd-a732-9a4b0b18d4c8.jpg?1785498054" uuid="d1892b78-7663-4cbd-a732-9a4b0b18d4c8" num="13">HOB</set>
@@ -15047,10 +15298,12 @@ The Void attacks each combat if able.</text>
             <reverse-related count="x" exclude="exclude">Gonti, Night Minister</reverse-related>
             <reverse-related>Gorbag of Minas Morgul</reverse-related>
             <reverse-related>Grabby Giant // That's Mine</reverse-related>
+            <reverse-related>Grand Nagus Zek</reverse-related>
             <reverse-related>Great Train Heist</reverse-related>
             <reverse-related count="x" exclude="exclude">Great Train Heist</reverse-related>
             <reverse-related>Greedy Freebooter</reverse-related>
             <reverse-related>Green Goblin, Nemesis</reverse-related>
+            <reverse-related count="x">Grilka, Widowed Warrior</reverse-related>
             <reverse-related>Grim Bounty</reverse-related>
             <reverse-related count="2">Grim Hireling</reverse-related>
             <reverse-related count="2">Guild Artisan</reverse-related>
@@ -15123,7 +15376,7 @@ The Void attacks each combat if able.</text>
             <reverse-related count="x" exclude="exclude">Mary Read and Anne Bonny</reverse-related>
             <reverse-related count="x">Master of Ceremonies</reverse-related>
             <reverse-related>Mastermind Plum</reverse-related>
-            <reverse-related>Meet and Greet &quot;Sisay&quot;</reverse-related>
+            <reverse-related>Meet and Greet "Sisay"</reverse-related>
             <reverse-related count="4">Megaton's Fate</reverse-related>
             <reverse-related>Meticulous Artisan</reverse-related>
             <reverse-related>Mine Raider</reverse-related>
@@ -15177,6 +15430,7 @@ The Void attacks each combat if able.</text>
             <reverse-related>Prosperous Thief</reverse-related>
             <reverse-related>Prying Blade</reverse-related>
             <reverse-related>Puppet Master, String Puller</reverse-related>
+            <reverse-related>Quark, Humble Proprietor</reverse-related>
             <reverse-related>Ragavan, Nimble Pilferer</reverse-related>
             <reverse-related count="2">Rain of Riches</reverse-related>
             <reverse-related count="2">Ramirez DePietro, Pillager</reverse-related>
@@ -15196,6 +15450,7 @@ The Void attacks each combat if able.</text>
             <reverse-related count="7">RMS Titanic</reverse-related>
             <reverse-related count="x" exclude="exclude">RMS Titanic</reverse-related>
             <reverse-related>Rocketeer Boostbuggy</reverse-related>
+            <reverse-related count="2">Rom and Leeta, Unlikely Pair</reverse-related>
             <reverse-related>Rose Room Treasurer</reverse-related>
             <reverse-related count="2">Ruthless Knave</reverse-related>
             <reverse-related count="x">Ruthless Technomancer</reverse-related>
@@ -15205,6 +15460,7 @@ The Void attacks each combat if able.</text>
             <reverse-related>Sanar, Unfinished Genius // Wild Idea</reverse-related>
             <reverse-related>Sarkhan, Dragon Ascendant</reverse-related>
             <reverse-related>Sassy Gremlin Blood</reverse-related>
+            <reverse-related>Savvy Profiteer</reverse-related>
             <reverse-related>Scion of Opulence</reverse-related>
             <reverse-related count="x" exclude="exclude">Scion of Opulence</reverse-related>
             <reverse-related>Scuzzback Scrounger</reverse-related>
@@ -15245,12 +15501,14 @@ The Void attacks each combat if able.</text>
             <reverse-related>Tataru Taru</reverse-related>
             <reverse-related count="2">Tavern Scoundrel</reverse-related>
             <reverse-related>Tempting Contract</reverse-related>
+            <reverse-related>Temporal Conquero</reverse-related>
             <reverse-related>Teval's Judgment</reverse-related>
             <reverse-related count="2">The Balrog of Moria</reverse-related>
             <reverse-related>The Belligerent</reverse-related>
             <reverse-related>The Gold Saucer</reverse-related>
             <reverse-related>The Golden City of Orazca</reverse-related>
             <reverse-related count="3">The Great Work</reverse-related>
+            <reverse-related>The Inner Light</reverse-related>
             <reverse-related count="2">The Matrix of Time</reverse-related>
             <reverse-related>The Misty Mountains Cold</reverse-related>
             <reverse-related count="x">The Reaver Cleaver</reverse-related>
@@ -15375,6 +15633,22 @@ This creature's power and toughness are each equal to the number of lands you co
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/2/5/2569593a-d2f2-414c-9e61-2c34e8a5832d.jpg?1562639718" uuid="2569593a-d2f2-414c-9e61-2c34e8a5832d" num="11">M15</set>
             <reverse-related>Kalonian Twingrove</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Tribble Token</name>
+            <text>This token can't block.</text>
+            <prop>
+                <type>Token Creature — Tribble</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/e/ee3b1218-7ab3-461b-b1b2-818fb61f33ce.jpg?1793359678" uuid="ee3b1218-7ab3-461b-b1b2-818fb61f33ce" num="2">TRC</set>
+            <set picURL="https://cards.scryfall.io/large/front/8/1/81d2498f-ee5e-4d8d-80f8-eb71c3755faa.jpg?1793363514" uuid="81d2498f-ee5e-4d8d-80f8-eb71c3755faa" num="9">TRC</set>
+            <reverse-related count="2">Koloth, Tribble Hunter</reverse-related>
+            <reverse-related count="x">Tribble Cluster</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -16605,6 +16879,22 @@ Equip {1}</text>
             <reverse-related count="x">Lluwen, Imperfect Naturalist</reverse-related>
             <reverse-related count="x">Worm Harvest</reverse-related>
             <reverse-related count="2">Wriggling Grub</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Worm Token </name>
+            <text>This token can't block.</text>
+            <prop>
+                <colors>GR</colors>
+                <type>Token Creature — Worm</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/7/e7cde898-fc1f-4261-8f71-cfc4275bab54.jpg?1793411584" uuid="e7cde898-fc1f-4261-8f71-cfc4275bab54" num="18">TRK</set>
+            <reverse-related>Cleveland Booker, Empath</reverse-related>
+            <reverse-related count="x" exclude="exclude">Cleveland Booker, Empath</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -20310,6 +20600,8 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <type>Token</type>
                 <maintype>Token</maintype>
             </prop>
+            <set picURL="https://cards.scryfall.io/large/front/2/1/2115c141-f2fb-4bfd-a8b5-2943bad9f418.jpg?1793363498" uuid="2115c141-f2fb-4bfd-a8b5-2943bad9f418" num="8">TRC</set>
+            <set picURL="https://cards.scryfall.io/large/front/d/5/d5549cce-eea6-4392-af06-95d98451906c.jpg?1793359670" uuid="d5549cce-eea6-4392-af06-95d98451906c" num="1">TRC</set>
             <set picURL="https://cards.scryfall.io/large/front/b/2/b2a03ba1-2182-4074-99f5-f3952c1d37ec.jpg?1781014488" uuid="b2a03ba1-2182-4074-99f5-f3952c1d37ec" num="1">MSC</set>
             <set picURL="https://cards.scryfall.io/large/front/4/e/4e119457-948d-4ef8-8c27-59fa675f766f.jpg?1775828179" uuid="4e119457-948d-4ef8-8c27-59fa675f766f" num="1">SOS</set>
             <set picURL="https://cards.scryfall.io/large/front/3/e/3e28bc58-b616-4a65-8d33-7cdd07405d41.jpg?1771590336" uuid="3e28bc58-b616-4a65-8d33-7cdd07405d41" num="1">TMT</set>
