@@ -1895,11 +1895,14 @@ Whenever this creature attacks, target attacking creature gains flying until end
             <reverse-related>Command the Stage</reverse-related>
             <reverse-related>Craftwork Crusher</reverse-related>
             <reverse-related>Fatehold Chronologist // Peer Review</reverse-related>
+            <reverse-related>Flourishing Forces</reverse-related>
+            <reverse-related count="x" exclude="exclude">Flourishing Forces</reverse-related>
             <reverse-related count="x">Germinate Recruits</reverse-related>
             <reverse-related>Heartstring Puller</reverse-related>
             <reverse-related count="3">Hexhaven Battalion</reverse-related>
             <reverse-related>Ingris Stingerquill</reverse-related>
             <reverse-related>Prudent Fateseer // Peer Review</reverse-related>
+            <reverse-related>Quintorius, Fate Splitter</reverse-related>
             <reverse-related count="2">Recursive Recruitment</reverse-related>
             <reverse-related>Semester Foreseer // Peer Review</reverse-related>
             <reverse-related>Stingerquill Charm</reverse-related>
@@ -10263,6 +10266,7 @@ Paradox — Whenever you cast a spell from anywhere other than your hand, invest
             <set picURL="https://cards.scryfall.io/large/front/c/e/cee3ecef-4566-4164-af39-89cb0bbbffeb.jpg?1712316060" uuid="cee3ecef-4566-4164-af39-89cb0bbbffeb" num="3">OTJ</set>
             <reverse-related>Bovine Intervention</reverse-related>
             <reverse-related>Bruse Tarl, Roving Rancher</reverse-related>
+            <reverse-related>Oko, Lord of the Fae</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -18215,6 +18219,18 @@ Whenever an opponent draws a card, this emblem deals 1 damage to them.</text>
             <set picURL="https://cards.scryfall.io/large/front/a/c/ac90d130-0d98-4e55-90ee-93c2fe8c1ed0.jpg?1568003581" uuid="ac90d130-0d98-4e55-90ee-93c2fe8c1ed0" num="29">C19</set>
             <set picURL="https://cards.scryfall.io/large/front/1/8/18a77885-c0de-4487-a920-6fb9ea9bc408.jpg?1562639694" uuid="18a77885-c0de-4487-a920-6fb9ea9bc408" num="13">BFZ</set>
             <reverse-related exclude="exclude">Ob Nixilis Reignited</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Oko, Lord of the Fae Emblem</name>
+            <text>At the beginning of your upkeep, conjure a random planeswalker card into exile. You may cast that card this turn without paying its mana cost.</text>
+            <prop>
+                <type>Emblem</type>
+                <maintype>Emblem</maintype>
+            </prop>
+            <set>YFRA</set>
+            <reverse-related exclude="exclude">Oko, Lord of the Fae</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
