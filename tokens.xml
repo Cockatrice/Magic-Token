@@ -3108,6 +3108,7 @@ At the beginning of your upkeep, reveal the top card of your library and put tha
             <reverse-related>Promise of Power</reverse-related>
             <reverse-related>Reign of the Pit</reverse-related>
             <reverse-related>Tivash, Gloom Summoner</reverse-related>
+            <reverse-related>Welcome the Darkness</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -3702,6 +3703,7 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
             <reverse-related count="x">Descent of the Dragons</reverse-related>
             <reverse-related>Dragon Cultist</reverse-related>
             <reverse-related>Dragon Trainer</reverse-related>
+            <reverse-related>Dragon Typhoon</reverse-related>
             <reverse-related>Dragon Whisperer</reverse-related>
             <reverse-related>Dragonback Assault</reverse-related>
             <reverse-related>Rith, Liberated Primeval</reverse-related>
@@ -5560,6 +5562,7 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related count="x">Voracious Fell Beast</reverse-related>
             <reverse-related exclude="exclude">Welcome to Sweettooth</reverse-related>
             <reverse-related exclude="exclude">White Glove Gourmand</reverse-related>
+            <reverse-related>Wish Good Luck</reverse-related>
             <reverse-related count="x">Witch's Oven</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -8766,6 +8769,7 @@ Flanking</text>
             <reverse-related>Seedship Impact</reverse-related>
             <reverse-related>Sunstar Expansionist</reverse-related>
             <reverse-related count="2">Terrapact Intimidator</reverse-related>
+            <reverse-related>Vv'viza, Orbital Overseer</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -12298,6 +12302,7 @@ If enchanted player would lose life, they lose twice that much life instead.</te
             <reverse-related>Servo Schematic</reverse-related>
             <reverse-related>Sly Requisitioner</reverse-related>
             <reverse-related count="3">Sram's Expertise</reverse-related>
+            <reverse-related count="4">Support Skyforge</reverse-related>
             <reverse-related count="2">Visionary Augmenter</reverse-related>
             <reverse-related count="2">Weaponcraft Enthusiast</reverse-related>
             <token>1</token>
@@ -14621,6 +14626,7 @@ The Void attacks each combat if able.</text>
             <reverse-related>Camera Launcher</reverse-related>
             <reverse-related count="2">Depose // Deploy</reverse-related>
             <reverse-related exclude="exclude">Detective's Satchel</reverse-related>
+            <reverse-related count="2">Deviant Skytech</reverse-related>
             <reverse-related>Dovin, Grand Arbiter</reverse-related>
             <reverse-related>Efficient Construction</reverse-related>
             <reverse-related>Etherium Spinner</reverse-related>
@@ -15289,6 +15295,7 @@ The Void attacks each combat if able.</text>
             <reverse-related exclude="exclude">Warren Soultrader</reverse-related>
             <reverse-related>Widespread Thieving</reverse-related>
             <reverse-related>Wily Goblin</reverse-related>
+            <reverse-related>Wish Good Luck</reverse-related>
             <reverse-related count="x">Xorn</reverse-related>
             <reverse-related>You Find a Cursed Idol</reverse-related>
             <reverse-related count="x">You've Been Caught Stealing</reverse-related>
@@ -15826,6 +15833,7 @@ Whenever Vanguard Suppressor deals combat damage to a player, draw a card.</text
             <set picURL="https://cards.scryfall.io/large/front/a/3/a3803365-ed78-409f-8ca5-7aa3634faf76.jpg?1738355265" uuid="a3803365-ed78-409f-8ca5-7aa3634faf76" num="12">DFT</set>
             <reverse-related>Chandra, Spark Hunter</reverse-related>
             <reverse-related>Mu Yanling, Wind Rider</reverse-related>
+            <reverse-related>Wish Good Luck</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
