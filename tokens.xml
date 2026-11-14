@@ -8438,6 +8438,33 @@ Trample</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Klingon Warrior Token</name>
+            <text>Haste</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Klingon Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/9/c/9c2ae742-7ebf-4e26-b423-598e4f3d176d.jpg?1793363848" uuid="9c2ae742-7ebf-4e26-b423-598e4f3d176d" num="3">TRK</set>
+            <set picURL="https://cards.scryfall.io/large/front/0/6/060f77cd-2779-4f28-83b3-a7e11f64140b.jpg?1793364562" uuid="060f77cd-2779-4f28-83b3-a7e11f64140b" num="4">TRK</set>
+            <set picURL="https://cards.scryfall.io/large/front/b/7/b7897f31-509e-4099-b9b4-c6214b80f29d.jpg?1793364577" uuid="b7897f31-509e-4099-b9b4-c6214b80f29d" num="5">TRK</set>
+            <reverse-related>Boarding Action</reverse-related>
+            <reverse-related>Cha'DIch Investigator</reverse-related>
+            <reverse-related>D-7 Battle Cruiser</reverse-related>
+            <reverse-related count="x">Glory to the Empire!</reverse-related>
+            <reverse-related>L'Rell, Fierce Visionary</reverse-related>
+            <reverse-related>Right of Vengeance</reverse-related>
+            <reverse-related count="x">Rite of Ascension</reverse-related>
+            <reverse-related count="x">Sins of the Father</reverse-related>
+            <reverse-related count="2">The Destruction of Praxis</reverse-related>
+            <reverse-related>The Duras Sisters</reverse-related>
+            <reverse-related>Worf, Defiant Commander</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Knight Ally Token</name>
             <prop>
                 <colors>W</colors>
@@ -8786,33 +8813,6 @@ Flanking</text>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/c/b/cb727dec-dd82-4072-b2ec-a4e31b58752f.jpg?1682206995" uuid="cb727dec-dd82-4072-b2ec-a4e31b58752f" num="4">MOM</set>
             <reverse-related count="2">Invasion of Segovia</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
-            <name>Klingon Warrior Token</name>
-            <text>Haste</text>
-            <prop>
-                <colors>R</colors>
-                <type>Token Creature — Klingon Warrior</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>2/1</pt>
-            </prop>
-            <set picURL="https://cards.scryfall.io/large/front/9/c/9c2ae742-7ebf-4e26-b423-598e4f3d176d.jpg?1793363848" uuid="9c2ae742-7ebf-4e26-b423-598e4f3d176d" num="3">TRK</set>
-            <set picURL="https://cards.scryfall.io/large/front/0/6/060f77cd-2779-4f28-83b3-a7e11f64140b.jpg?1793364562" uuid="060f77cd-2779-4f28-83b3-a7e11f64140b" num="4">TRK</set>
-            <set picURL="https://cards.scryfall.io/large/front/b/7/b7897f31-509e-4099-b9b4-c6214b80f29d.jpg?1793364577" uuid="b7897f31-509e-4099-b9b4-c6214b80f29d" num="5">TRK</set>
-            <reverse-related>Boarding Action </reverse-related>
-            <reverse-related>Cha'DIch Investigator</reverse-related>
-            <reverse-related>D-7 Battle Cruiser</reverse-related>
-            <reverse-related count="x">Glory to the Empire!</reverse-related>
-            <reverse-related>L'Rell, Fierce Visionary</reverse-related>
-            <reverse-related>Right of Vengeance</reverse-related>
-            <reverse-related count="x">Rite of Ascension</reverse-related>
-            <reverse-related count="x">Sins of the Father</reverse-related>
-            <reverse-related count="2">The Destruction of Praxis</reverse-related>
-            <reverse-related>The Duras Sisters</reverse-related>
-            <reverse-related>Worf, Defiant Commander</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -9930,7 +9930,7 @@ Equip {2}</text>
             <reverse-related>Gaseous Anomaly</reverse-related>
             <reverse-related>Genesis Effect</reverse-related>
             <reverse-related>Saurian Explorer</reverse-related>
-            <reverse-related>Spatial Anomaly </reverse-related>
+            <reverse-related>Spatial Anomaly</reverse-related>
             <reverse-related>Stable Wormhole</reverse-related>
             <reverse-related>Subspace Anomaly</reverse-related>
             <reverse-related>Temporal Anomaly</reverse-related>
@@ -10104,14 +10104,14 @@ Equip {2}</text>
             <reverse-related count="10">Georgiou, Terran Emperor</reverse-related>
             <reverse-related count="2">Impossible Choice</reverse-related>
             <reverse-related count="2">Kobayashi Maru Scenario</reverse-related>
-            <reverse-related>MACO Strike Team</reverse-related>
-            <reverse-related>Make It So</reverse-related>
             <reverse-related count="2">M'Ress, Crew Coordinator</reverse-related>
             <reverse-related count="x=2" exclude="exclude">M'Ress, Crew Coordinator</reverse-related>
+            <reverse-related>MACO Strike Team</reverse-related>
+            <reverse-related>Make It So</reverse-related>
             <reverse-related>Photosynthetic Physician</reverse-related>
             <reverse-related>Shuttlecraft Galileo</reverse-related>
             <reverse-related count="x" exclude="exclude">Shuttlecraft Galileo</reverse-related>
-            <reverse-related count="2">Subspace Anomaly </reverse-related>
+            <reverse-related count="2">Subspace Anomaly</reverse-related>
             <reverse-related count="2">U.S.S. Cerritos, Following Up</reverse-related>
             <reverse-related count="3">U.S.S. Enterprise-A, Free Spirit</reverse-related>
             <reverse-related>Worf, Son of Mogh</reverse-related>
@@ -11290,6 +11290,20 @@ Creatures you control attack each combat if able.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Porthos</name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Legendary Creature — Dog</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/d/edd98ca8-9a23-4fb5-9719-27ac2795bfa3.jpg?1793363946" uuid="edd98ca8-9a23-4fb5-9719-27ac2795bfa3" num="17">TRK</set>
+            <reverse-related>Captain Jonathan Archer</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Powerstone Token</name>
             <text>{T}: Add {C}. This mana can't be spent to cast a nonartifact spell.</text>
             <prop>
@@ -11336,20 +11350,6 @@ Creatures you control attack each combat if able.</text>
             <reverse-related count="x">Wreck Hunter</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
-        </card>
-        <card>
-            <name>Porthos</name>
-            <prop>
-                <colors>G</colors>
-                <type>Token Legendary Creature — Dog</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>1/1</pt>
-            </prop>
-            <set picURL="https://cards.scryfall.io/large/front/e/d/edd98ca8-9a23-4fb5-9719-27ac2795bfa3.jpg?1793363946" uuid="edd98ca8-9a23-4fb5-9719-27ac2795bfa3" num="17">TRK</set>
-            <reverse-related>Captain Jonathan Archer</reverse-related>
-            <token>1</token>
-            <tablerow>2</tablerow>
         </card>
         <card>
             <name>Primo, the Indivisible</name>
@@ -15500,8 +15500,8 @@ The Void attacks each combat if able.</text>
             <reverse-related>Sword of Wealth and Power</reverse-related>
             <reverse-related>Tataru Taru</reverse-related>
             <reverse-related count="2">Tavern Scoundrel</reverse-related>
+            <reverse-related>Temporal Conqueror</reverse-related>
             <reverse-related>Tempting Contract</reverse-related>
-            <reverse-related>Temporal Conquero</reverse-related>
             <reverse-related>Teval's Judgment</reverse-related>
             <reverse-related count="2">The Balrog of Moria</reverse-related>
             <reverse-related>The Belligerent</reverse-related>
